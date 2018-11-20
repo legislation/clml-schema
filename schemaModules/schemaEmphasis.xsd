@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaEmphasis">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Emphasis Schema</dc:title>
+			<dc:description>Describes elements used for standard text highlighting</dc:description>
+			<dc:contributor>Paul Appleby, Peter Lazar</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaEmphasis</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name					Modification
+			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			1.2			Jim Mangiafico			Expanded to accommodate European Union legislation
+			1.1			Paul Appleby			Added in restricted group elements
+			1.0			Paul Appleby			Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="Emphasis">
+		<xsd:annotation>
+			<xsd:documentation>Describes emphasised text. This will generally turn roman text italic or italic text roman</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from emphasis which should not be nested</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Strong"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="SmallCaps"/>
+				<xsd:element ref="Uppercase"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Expanded"/>
+				<xsd:element ref="Strike"/>
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Strong">
+		<xsd:annotation>
+			<xsd:documentation>Describes emboldened (highlighted) text. This will generally turn roman text bold or bold text roman</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from strong which should not be nested</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Emphasis"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="SmallCaps"/>
+				<xsd:element ref="Uppercase"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Expanded"/>
+				<xsd:element ref="Strike"/>
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="SmallCaps">
+		<xsd:annotation>
+			<xsd:documentation>Describes smallcaps text</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from small caps which should not be nested</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Strong"/>
+				<xsd:element ref="Emphasis"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="Uppercase"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Expanded"/>
+				<xsd:element ref="Strike"/>
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Uppercase">
+		<xsd:annotation>
+			<xsd:documentation>Describes uppercase text</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from uppercase which should not be nested</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Strong"/>
+				<xsd:element ref="Emphasis"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="SmallCaps"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Expanded"/>
+				<xsd:element ref="Strike"/>
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Inferior" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>Describes inferior (subscript) text. To get second order inferior characters nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Superior" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>Describes superior (superscript) text. To get second order superior characters nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Underline" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>Describes underlined text. To get double underline nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	
+	<xsd:element name="Expanded">
+		<xsd:annotation>
+			<xsd:documentation>Describes expanded text</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Strong"/>
+				<xsd:element ref="Emphasis"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="SmallCaps"/>
+				<xsd:element ref="Uppercase"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Strike"/>
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:group name="EmphasisRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>		
+		<xsd:choice>
+			<xsd:element name="Emphasis">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="UnderlineRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="StrongRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>			
+		<xsd:choice>
+			<xsd:element name="Strong">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="UnderlineRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="SmallCapsRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>		
+		<xsd:choice>
+			<xsd:element name="SmallCaps">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="UnderlineRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="UnderlineRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>			
+		<xsd:choice>
+			<xsd:element name="Underline">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="InferiorRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>			
+		<xsd:choice>
+			<xsd:element name="Inferior">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="SuperiorRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element name="Superior">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="StrikeRestricted"/>
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+	
+</xsd:schema>

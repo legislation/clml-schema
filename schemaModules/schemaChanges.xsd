@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	version="2.0" id="SchemaChanges">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Changes Schema</dc:title>
+			<dc:description>Describes elements used for marking changes in text</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaChanges</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2009-07-08</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+				Modification information
+				Version	Name					Modification
+				2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+				1.2			Jim Mangiafico		Expanded to accommodate European Union
+				1.0			Jeni Tennison		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:element name="Addition" type="ChangeType">
+		<xsd:annotation>
+			<xsd:documentation>Indicates an addition to the text. This is usually displayed in blue with square brackets indicating the beginning and end of the addition. Prospective additions are usually displayed in italic.</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:element name="Repeal">
+		<xsd:annotation>
+			<xsd:documentation>Indicates the repeal of a part of the text. This is usually displayed as dots (three for inline text and a line of dots for a repealed block). If the SubstitutionRef attribute is present, this indicates a substitution; the Addition referenced by the SubstitutionRef attribute holds the replacement text.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:complexContent>
+				<xsd:extension base="ChangeType">
+					<xsd:attribute name="SubstitutionRef" type="xsd:NCName"/>
+          			<xsd:attribute name="RetainText" type="xsd:boolean"/>
+        		</xsd:extension>
+			</xsd:complexContent>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Substitution" type="ChangeType">
+		<xsd:annotation>
+			<xsd:documentation>Indicates a substitution to the text. This is usually displayed in blue with square brackets indicating the beginning and end of the substitution. Prospective substitutions are usually displayed in italic.</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:complexType name="ChangeType" mixed="true">
+		<xsd:choice maxOccurs="unbounded" minOccurs="0">
+			<xsd:element ref="Addition"/>
+			<xsd:element ref="Repeal"/>
+			<xsd:element ref="Substitution"/>
+			<xsd:element ref="CommentaryRef"/>
+			<xsd:element ref="Acronym"/>
+			<xsd:element ref="Abbreviation"/>
+			<xsd:element ref="Citation"/>
+			<xsd:element ref="Span"/>
+		</xsd:choice>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required"/>
+		<xsd:attribute name="CommentaryRef" type="CommentaryId"/>
+		<xsd:attribute default="false" name="Prospective" type="xsd:boolean"/>
+		<xsd:attribute default="false" name="Correction" type="xsd:boolean"/>
+		<xsd:attribute name="Status">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:NMTOKEN">
+					<xsd:enumeration value="Proposed" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attribute name="Mark">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:NMTOKEN">
+					<xsd:enumeration value="Start" />
+					<xsd:enumeration value="End" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<!-- PT #154553309 -->
+		<xsd:attribute name="Extent" type="ExtentType"/>
+	</xsd:complexType>
+	
+</xsd:schema>

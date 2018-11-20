@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaNote">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Note Schema</dc:title>
+			<dc:description>Describes elements used for inline notes</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaNote</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-09-15</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name					Modification
+			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			1.1			Jim Mangiafico			Expanded to accommodate European Union legislation
+			1.0			Jeni Tennison			Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="Strike">
+		<xsd:annotation>
+			<xsd:documentation>Gives its content struck through.</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from Strike which should not be nested</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Emphasis"/>
+				<xsd:element ref="Strong"/>
+				<xsd:element ref="Inferior"/>
+				<xsd:element ref="Superior"/>
+				<xsd:element ref="SmallCaps"/>
+				<xsd:element ref="Uppercase"/>
+				<xsd:element ref="Underline"/>
+				<xsd:element ref="Note" />
+				<xsd:group ref="InlineBasic"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:group name="StrikeRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
+		</xsd:annotation>		
+		<xsd:choice>
+			<xsd:element name="Strike">
+				<xsd:complexType mixed="true">
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:group ref="EmphasisRestricted"/>
+						<xsd:group ref="StrongRestricted"/>
+						<xsd:group ref="InferiorRestricted"/>
+						<xsd:group ref="SuperiorRestricted"/>
+						<xsd:group ref="SmallCapsRestricted"/>
+						<xsd:group ref="UnderlineRestricted"/>
+						<xsd:group ref="NoteRestricted" />
+						<xsd:group ref="InlineBasicRestricted"/>
+					</xsd:choice>
+					<xsd:attributeGroup ref="CommonAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:group>
+	
+</xsd:schema>

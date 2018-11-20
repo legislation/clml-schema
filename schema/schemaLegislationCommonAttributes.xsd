@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaCommonAttributes">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Common Attributes Schema</dc:title>
+			<dc:description>Defines generic attributes applicable to multiple elements</dc:description>
+			<dc:contributor>Paul Appleby, Peter Lazar</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaCommonAttributes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1			Colin Mackenzie		Changed to use "RefsLinkType" so that validation differs between legislation top-level schema and editorial fragment
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:import namespace="http://www.w3.org/XML/1998/namespace"
+		schemaLocation="../schemaModules/namespace.xsd"/>
+	<xsd:attributeGroup name="CommonAttributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier for every element</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:NCName">
+					<xsd:pattern value="[a-z][0-9]{5}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attributeGroup ref="CommonSubAttributes"/>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="CommonSubAttributes">
+		<xsd:attributeGroup ref="VersionRefAttributes"/>
+		<xsd:attributeGroup ref="XMLattributes"/>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="XMLattributes">
+		<xsd:attribute ref="xml:lang"/>
+		<xsd:attribute ref="xml:space"/>
+		<xsd:attribute ref="xml:base"/>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="VersionRefAttributes">
+		<xsd:attribute name="AltVersionRefs" type="RefsLinkType">
+			<xsd:annotation>
+				<xsd:documentation>Links to alternate versions of the content, e.g. perhaps a Welsh version</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="StructureNumberFormattingAttributes">
+		<xsd:annotation>
+			<xsd:documentation>Defines whether section numbering (top level) should be formatted in a way other then the default. This is basically for legacy data</xsd:documentation>
+			<xsd:documentation>The use of a default attribute has been considered and kept due to the fact the the attribute is only to be used for legacy data and it would be a hinderance to have to consider its use going forward. It is expected that this attribute could be changed to a fixed value of default if required</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="NumberFormat" default="default">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="default"/>
+					<xsd:enumeration value="emphasis"/>
+					<xsd:enumeration value="strong"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="QuotesAttributes">
+		<xsd:attribute name="Format" use="required">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="default"/>
+					<xsd:enumeration value="double"/>
+					<xsd:enumeration value="single"/>
+					<xsd:enumeration value="none"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="FragmentAttributes">
+		<xsd:attribute name="FragmentId" type="xsd:NMTOKEN"/>
+		<xsd:attribute name="Version" type="xsd:integer"/>
+		<!--#154553309
+			<xsd:attribute name="RestrictExtent" type="xsd:token"/>-->
+		<xsd:attribute name="RestrictExtent" type="ExtentType"/>
+		<xsd:attribute name="RestrictStartDate" type="xsd:date"/>
+		<xsd:attribute name="RestrictEndDate" type="xsd:date"/>
+		<xsd:attribute name="Status">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:token">
+					<xsd:enumeration value="Prospective"/>
+					<xsd:enumeration value="Dead"/>
+					<xsd:enumeration value="Discarded"/>
+					<xsd:enumeration value="Repealed"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attribute default="false" name="ConfersPower" type="xsd:boolean"/>
+		<xsd:attribute default="false" name="BlanketAmendment" type="xsd:boolean"/>
+		<xsd:attribute default="false" name="Concurrent" type="xsd:boolean"/>
+		<xsd:attribute default="true" name="Match" type="xsd:boolean"/>
+		<xsd:attribute name="AltDates"/>
+		<xsd:attributeGroup ref="ProvisionCountAttributes"/>
+	</xsd:attributeGroup>
+	<xsd:attributeGroup name="ProvisionCountAttributes">
+		<xsd:attribute name="NumberOfProvisions" type="xsd:integer">
+			<xsd:annotation>
+				<xsd:documentation>
+					Count of the number of child provisions within the section of content (added automatically when published)
+				</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+</xsd:schema>

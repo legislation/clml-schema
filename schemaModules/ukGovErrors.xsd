@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.legislation.gov.uk/namespaces/error"
+    xmlns="http://www.legislation.gov.uk/namespaces/error"
+    xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
+    elementFormDefault="qualified"  attributeFormDefault="unqualified"
+    version="2.0" id="ukGovErrors">
+    
+    <xsd:annotation>
+        <xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <dc:title>Missing Element Schema</dc:title>
+            <dc:description>Describes elements used to indicate possible missing elements in the content</dc:description>
+            <dc:contributor>Dave Pawson</dc:contributor>
+            <dc:creator>TSO</dc:creator>
+            <dc:identifier>ukGovErrors</dc:identifier>
+            <dc:language>en</dc:language>
+            <dc:publisher>The Stationery Office</dc:publisher>
+            <dc:rights>Crown Copyright 2018</dc:rights>
+            <dc:date>
+                <dcq:created>2018-11-12</dcq:created>
+            </dc:date>
+            <dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+            <xsd:documentation>
+                Namespace information:
+                This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/error'
+            </xsd:documentation>
+            <xsd:documentation>
+                Modification information
+                Version	Name				Modification
+                2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+                1.1     Colin Mackenzie     Added to enable data to be validated
+                1.0		Dave Pawson  		Created historically but not referenced in released schemas
+            </xsd:documentation>
+        </xsd:appinfo>
+    </xsd:annotation>
+    
+    <xsd:attributeGroup name="missingSection">
+        <xsd:annotation>
+            <xsd:documentation>Indicate missing section element(s)</xsd:documentation>
+        </xsd:annotation>
+        
+        <xsd:attribute name="Ref" type="xsd:string" form="qualified" use="optional"/>
+        <xsd:attribute name="Start" type="xsd:string" form="qualified" use="optional"/>
+        <xsd:attribute name="End" type="xsd:string" form="qualified"  use="optional"/>
+    </xsd:attributeGroup>
+    
+    
+    <xsd:attributeGroup name="missingSectionRange">
+        <xsd:annotation>
+            <xsd:documentation>Indicate missing section range element(s)</xsd:documentation>
+        </xsd:annotation>
+        
+        <xsd:attributeGroup ref="missingSection"/>
+    </xsd:attributeGroup>
+    
+    <xsd:attributeGroup name="missingUnappliedEffect">
+        <xsd:annotation>
+            <xsd:documentation>Indicate missing ukm:UnappliedEffect element(s)</xsd:documentation>
+        </xsd:annotation>
+        <xsd:attribute name="Affected" type="xsd:string" form="qualified" use="optional"/>
+    </xsd:attributeGroup>
+    
+</xsd:schema>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaNumberedSections"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Schema Semantics</dc:title>
+			<dc:description>Defines semantic elements</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaSemantics</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2011-03-21</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.0		Jeni Tennison		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:element name="Definition">
+		<xsd:annotation>
+			<xsd:documentation>The definition of a term</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:complexContent>
+				<xsd:extension base="InlineFullStructure">
+					<xsd:attribute name="TermRef" type="xsd:NCName" />
+					<xsd:attributeGroup ref="MilestoneAttributes" />
+				</xsd:extension>
+			</xsd:complexContent>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:attributeGroup name="MilestoneAttributes">
+		<xsd:attribute name="Mark">
+			<xsd:annotation>
+				<xsd:documentation>Indicates whether this milestone marks the beginning or end of an overlapping element</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="Start" />
+					<xsd:enumeration value="End" />
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+
+	<xsd:element name="Proviso">
+		<xsd:complexType mixed="true">
+			<xsd:complexContent>
+				<xsd:extension base="InlineFullStructure">
+					<xsd:attributeGroup ref="MilestoneAttributes" />
+				</xsd:extension>
+			</xsd:complexContent>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

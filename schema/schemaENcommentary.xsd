@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaENcommentary">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Schema Commentary Elements in ENs</dc:title>
+			<dc:description>Defines the containers of commentary within ENs</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaENcommentary</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-07-04</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name						Modification
+			2.0			Colin Mackenzie				Numbering restarted at 2 for new EU and merged schema
+			0.4			Jeni Tennison				Allowed CommentarySchedule to contain CommentaryPart and CommentaryP1
+			0.3			Jeni Tennison				Added a CommentarySubDivision
+			0.2			Jeni Tennison				Allowed CommentaryDivision to hold more Commentary
+			0.1			Jeni Tennison				Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:include schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	
+	<xsd:group name="Commentary">
+		<xsd:choice>
+			<xsd:element ref="CommentaryGroup"/>
+			<xsd:element ref="CommentaryPart"/>
+			<xsd:element ref="CommentaryChapter"/>
+			<xsd:element ref="CommentaryP1"/>
+			<xsd:element ref="CommentarySchedule"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:attributeGroup name="CommentaryIDattributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format d00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="n[0-9]{5}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attributeGroup ref="MandatoryURIs"/>
+	</xsd:attributeGroup>
+
+	<xsd:element name="CommentaryGroup">
+		<xsd:annotation>
+			<xsd:documentation>Commentary on a Group within the legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryPart"/>
+					<xsd:element ref="CommentaryChapter"/>
+					<xsd:element ref="CommentaryP1"/>
+					<xsd:element ref="CommentarySchedule"/>
+					<xsd:element ref="CommentaryDivision"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentaryPart">
+		<xsd:annotation>
+			<xsd:documentation>Commentary on a Part within the legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryChapter"/>
+					<xsd:element ref="CommentaryP1"/>
+					<xsd:element ref="CommentarySchedule"/>
+					<xsd:element ref="CommentaryDivision"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentaryChapter">
+		<xsd:annotation>
+			<xsd:documentation>Commentary on a Chapter within the legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryP1"/>
+					<xsd:element ref="CommentarySchedule"/>
+					<xsd:element ref="CommentaryDivision"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentaryP1">
+		<xsd:annotation>
+			<xsd:documentation>Commentary on a P1 within the legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryDivision"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentarySchedule">
+		<xsd:annotation>
+			<xsd:documentation>Commentary on a Schedule within the legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:sequence>
+					<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+					<xsd:choice minOccurs="0" maxOccurs="unbounded">
+						<xsd:element ref="CommentaryPart"/>
+						<xsd:element ref="CommentaryP1"/>
+						<xsd:element ref="CommentaryDivision"/>
+					</xsd:choice>
+				</xsd:sequence>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentaryDivision">
+		<xsd:annotation>
+			<xsd:documentation>A division within a commentary section.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryPart"/>
+					<xsd:element ref="CommentaryChapter"/>
+					<xsd:element ref="CommentaryP1"/>
+					<xsd:element ref="CommentarySchedule"/>
+					<xsd:element ref="CommentarySubDivision"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CommentarySubDivision">
+		<xsd:annotation>
+			<xsd:documentation>A subdivision within a commentary division.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:group ref="NumberedParaBasic" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="CommentaryPart"/>
+					<xsd:element ref="CommentaryChapter"/>
+					<xsd:element ref="CommentaryP1"/>
+					<xsd:element ref="CommentarySchedule"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CommentaryIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

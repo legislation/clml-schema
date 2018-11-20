@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaCommon">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Common Types Schema</dc:title>
+			<dc:description>Defines common types that can be used across all legislation and associated documents</dc:description>
+			<dc:contributor>Colin Mackenzie</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaCommon</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-05</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1		Colin Mackenzie		Added EU values plus full UK list of "E+W+S+N.I.
+			1.0		Colin Mackenzie		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<!-- note: xsd:simpleType name="DocumentMainType" needs to be declared in top level schemas currently because of difference in lists between publication schema and all others -->
+	<xsd:simpleType name="DocumentMainTypeBasic">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="EnglandAct"/>
+			<xsd:enumeration value="GreatBritainAct"/>
+			<xsd:enumeration value="IrelandAct"/>
+			<xsd:enumeration value="NorthernIrelandAct"/>
+			<xsd:enumeration value="NorthernIrelandAssemblyMeasure"/>
+			<xsd:enumeration value="NorthernIrelandParliamentAct"/>
+			<xsd:enumeration value="NorthernIrelandOrderInCouncil"/>
+			<xsd:enumeration value="NorthernIrelandDraftOrderInCouncil"/>
+			<xsd:enumeration value="NorthernIrelandStatutoryRule"/>
+			<xsd:enumeration value="NorthernIrelandStatutoryRuleOrOrder"/>
+			<xsd:enumeration value="NorthernIrelandDraftStatutoryRule"/>
+			<xsd:enumeration value="ScottishAct"/>
+			<xsd:enumeration value="ScottishOldAct"/>
+			<xsd:enumeration value="ScottishStatutoryInstrument"/>
+			<xsd:enumeration value="ScottishDraftStatutoryInstrument"/>
+			<xsd:enumeration value="UnitedKingdomChurchInstrument"/>
+			<xsd:enumeration value="UnitedKingdomChurchMeasure"/>
+			<xsd:enumeration value="UnitedKingdomPrivateAct"/>
+			<xsd:enumeration value="UnitedKingdomPublicGeneralAct"/>
+			<xsd:enumeration value="UnitedKingdomLocalAct"/>
+			<xsd:enumeration value="UnitedKingdomMinisterialDirection"/>
+			<xsd:enumeration value="UnitedKingdomMinisterialOrder"/>
+			<xsd:enumeration value="UnitedKingdomStatutoryInstrument"/>
+			<xsd:enumeration value="UnitedKingdomDraftStatutoryInstrument"/>
+			<xsd:enumeration value="UnitedKingdomStatutoryRuleOrOrder"/>
+			<xsd:enumeration value="WelshAssemblyMeasure"/>
+			<xsd:enumeration value="WelshNationalAssemblyAct"/>
+			<xsd:enumeration value="WelshStatutoryInstrument"/>
+			<xsd:enumeration value="WelshDraftStatutoryInstrument"/>
+			<xsd:enumeration value="EuropeanUnionRegulation"/>
+			<xsd:enumeration value="EuropeanEconomicCommunityRegulation"/>
+			<xsd:enumeration value="EuropeanUnionDirective"/>
+			<xsd:enumeration value="EuropeanUnionTreaty"/>
+			<xsd:enumeration value="EuropeanEconomicCommunityDirective"/>
+			<xsd:enumeration value="EuropeanUnionDecision"/>
+			<xsd:enumeration value="EuropeanEconomicCommunityDecision"/>
+			<xsd:enumeration value="EuropeanUnionCorrigendum"/>
+			<xsd:enumeration value="EuropeanUnionOfficialJournal"/>
+			<xsd:enumeration value="EuropeanUnionOther"/>
+			
+			<!-- deprecated see #113007733 
+				Data to be changed to "EuropeanUnionOther" by #162038035
+			Allow these in publication schema but not in others... 
+			<xsd:enumeration value="EuropeanUnion"/>
+			<xsd:enumeration value="EuropeanEconomicCommunity"/>
+			<xsd:enumeration value="EuropeanCommission"/>
+			
+			The following are deprecated everywhre except in historical publications data
+			<xsd:enumeration value="NorthernIrelandStatutoryRuleLocal"/>
+			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
+			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
+			<xsd:enumeration value="WelshStatutoryInstrumentLocal"/>  -->
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- deprecated see #113007733 
+				Data to be changed to "EuropeanUnionOther" by #162038035
+			Allow "Local" ones in publication schema but not in others... --> 
+	<xsd:simpleType name="DocumentMainTypeDeprecated">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="EuropeanUnion"/>
+			<xsd:enumeration value="EuropeanEconomicCommunity"/>
+			<xsd:enumeration value="EuropeanCommission"/>
+			<xsd:enumeration value="NorthernIrelandStatutoryRuleLocal"/>
+			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
+			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
+			<xsd:enumeration value="WelshStatutoryInstrumentLocal"/>
+			<xsd:enumeration value="UnitedKingdomStatutoryInstrumentLocal"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="AffectingExtentType">
+		<xsd:union memberTypes="ExtentType">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="Same as affected"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:union>
+	</xsd:simpleType>
+	
+	<!-- PT #154553309 -->
+	<xsd:simpleType name="ExtentType">
+		<xsd:annotation>
+			<xsd:documentation>
+Valid Extent Types
+&#183; E = England
+&#183; W = Wales
+&#183; S = Scotland
+&#183; N.I. = Northern Ireland
+&#183; + = combines
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="E" />
+			<xsd:enumeration value="W" />
+			<xsd:enumeration value="S" />
+			<xsd:enumeration value="N.I." />
+			<xsd:enumeration value="E+W" />
+			<xsd:enumeration value="E+S" />
+			<xsd:enumeration value="E+N.I." />
+			<xsd:enumeration value="W+S" />
+			<xsd:enumeration value="W+N.I." />
+			<xsd:enumeration value="S+N.I." />
+			<xsd:enumeration value="E+W+S" />
+			<xsd:enumeration value="E+W+N.I." />
+			<xsd:enumeration value="W+S+N.I." />
+            <xsd:enumeration value="E+W+S+N.I." />
+           	<xsd:enumeration value="E.U." />
+            <xsd:enumeration value="E+E.U." />
+            <xsd:enumeration value="W+E.U." />
+            <xsd:enumeration value="E+W+E.U." />
+            <xsd:enumeration value="S+E.U." />
+            <xsd:enumeration value="E+S+E.U." />
+            <xsd:enumeration value="W+S+E.U." />
+            <xsd:enumeration value="E+W+S+E.U." />
+            <xsd:enumeration value="N.I.+E.U." />
+            <xsd:enumeration value="E+N.I.+E.U." />
+            <xsd:enumeration value="W+N.I.+E.U." />
+            <xsd:enumeration value="E+W+N.I.+E.U." />
+            <xsd:enumeration value="S+N.I.+E.U." />
+            <xsd:enumeration value="E+S+N.I.+E.U." />
+            <xsd:enumeration value="W+S+N.I.+E.U." />
+            <xsd:enumeration value="E+W+S+N.I.+E.U." />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!--<xsd:simpleType name="ExtentType">
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="E"/>
+			<xsd:enumeration value="W"/>
+			<xsd:enumeration value="S"/>
+			<xsd:enumeration value="NI"/>
+			<xsd:enumeration value="E+W"/>
+			<xsd:enumeration value="E+S"/>
+			<xsd:enumeration value="E+NI"/>
+			<xsd:enumeration value="W+S"/>
+			<xsd:enumeration value="S+NI"/>
+			<xsd:enumeration value="E+W+S"/>
+			<xsd:enumeration value="E+W+NI"/>
+			<xsd:enumeration value="E+S+NI"/>
+			<xsd:enumeration value="E+W+S+NI"/>
+		</xsd:restriction>
+	</xsd:simpleType>-->
+	
+	<xsd:attributeGroup name="SchemaVersion">
+		<!--<xsd:attribute name="SchemaVersion" type="xsd:NMTOKEN" use="required" fixed="1.0"/>-->
+		<xsd:attribute name="SchemaVersion" use="optional" default="2.0">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:NMTOKEN">
+					<xsd:enumeration value="1.0"/>
+					<xsd:enumeration value="2.0"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	
+	<xsd:attributeGroup name="OptionalURIs">
+		<xsd:attribute name="DocumentURI" type="xsd:anyURI"/>
+		<xsd:attribute name="IdURI" type="xsd:anyURI"/>
+	</xsd:attributeGroup>
+	
+	<xsd:attributeGroup name="MandatoryURIs">
+		<xsd:attribute name="DocumentURI" type="xsd:anyURI" use="required"/>
+		<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
+	</xsd:attributeGroup>
+</xsd:schema>

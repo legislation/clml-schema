@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+	xmlns:math="http://www.w3.org/1998/Math/MathML" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	elementFormDefault="qualified" 
+	attributeFormDefault="unqualified" 
+	version="2.0" 
+	id="SchemaENtypes">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>EN Schema Types</dc:title>
+			<dc:description>A set of EN specific schema types</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaENtypes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-07-09</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name						Modification
+			2.0			Colin Mackenzie				Numbering restarted at 2 for new EU and merged schema
+			1.0			Colin Mackenzie 			Restructured to reduce duplication with main legislation schema
+			0.2			Jeni Tennison				Added Strike to the set of Emphasis types
+			0.1			Jeni Tennison				Created based on schemaLegislationTypes.xsd, just to include Note in inline structures
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
+	
+	<xsd:group name="TableHeaderCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table header cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="NumberedParaBasic"/>
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:group name="TableCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="NumberedParaBasic"/>
+			<xsd:element ref="P"/>
+			<xsd:element ref="P1"/>
+			<xsd:element ref="P2"/>
+			<xsd:element ref="P3"/>
+			<xsd:element ref="P4"/>
+			<xsd:element ref="P5"/>
+			<xsd:element ref="P6"/>
+			<xsd:element ref="P7"/>
+			<xsd:element ref="P1group"/>
+			<xsd:element ref="P2group"/>
+			<xsd:element ref="P3group"/>
+			<xsd:element ref="xhtml:table"/>
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:group name="TableFootnoteCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="NumberedParaBasic"/>
+			<xsd:element ref="Footnote"/>
+		</xsd:choice>
+	</xsd:group>
+		
+</xsd:schema>

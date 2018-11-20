@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	version="2.0" id="SchemaLegislationExplanatoryNotes">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Explanatory Notes Schema</dc:title>
+			<dc:description>Defines legislation specific explanatory notes</dc:description>
+			<dc:contributor>Paul Appleby, Peter Lazar</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationExplanatoryNotes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:element name="ExplanatoryNotes">
+		<xsd:annotation>
+			<xsd:documentation>Explanatory Notes to legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Comment" minOccurs="0"/>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:group ref="BlockBasic"/>
+					<xsd:element ref="P1"/>
+					<xsd:element ref="P1group"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="ProvisionCountAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="EarlierOrders">
+		<xsd:annotation>
+			<xsd:documentation>Earlier Orders to legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Comment" minOccurs="0"/>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:group ref="BlockBasic"/>
+					<xsd:element ref="P1"/>
+					<xsd:element ref="P1group"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Comment">
+		<xsd:annotation>
+			<xsd:documentation>A comment about the explanatory note (In SIs is generally italic centred text under the title)</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Para" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Schema High-level EU Structure</dc:title>
+			<dc:description>Defines the high-level structures for EU documents</dc:description>
+			<dc:contributor>Jim Mangiafico</dc:contributor>
+			<dc:identifier>SchemaStructureEU</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:rights>Crown Copyright 2018</dc:rights>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Jim Mangiafico		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:group name="EUStructure">
+		<xsd:choice>
+			<xsd:element ref="EUPart"/>
+			<xsd:element ref="EUTitle"/>
+			<xsd:element ref="EUChapter"/>
+			<xsd:element ref="EUSection"/>
+			<xsd:element ref="EUSubsection"/>
+			<xsd:element ref="Division"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:complexType name="EUStructureType">
+		<xsd:sequence>
+			<xsd:choice>
+				<xsd:sequence>
+					<xsd:element ref="Number"/>
+					<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+				</xsd:sequence>
+				<xsd:element ref="Title" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:group ref="EUStructure"/>
+				<xsd:element ref="Pblock"/>
+				<xsd:element ref="P"/>
+				<xsd:element ref="P1group"/>
+				<xsd:element ref="P1"/>
+				<xsd:element ref="Tabular"/>
+				<xsd:element ref="Figure"/>
+			</xsd:choice>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="PelementIDattributes"/>
+		<xsd:attributeGroup ref="FragmentAttributes"/>
+	</xsd:complexType>
+
+	<xsd:element name="EUPart" type="EUStructureType"/>
+	<xsd:element name="EUTitle" type="EUStructureType"/>
+	<xsd:element name="EUChapter" type="EUStructureType"/>
+	<xsd:element name="EUSection" type="EUStructureType"/>
+	<xsd:element name="EUSubsection" type="EUStructureType"/>
+
+	<xsd:element name="Division">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:group ref="EUStructure"/>
+					<xsd:element ref="Pblock"/>
+					<xsd:element ref="P"/>
+					<xsd:element ref="P1group"/>
+					<xsd:element ref="P1"/>
+					<xsd:element ref="Para"/>
+					<xsd:element ref="Span"/>
+					<xsd:group ref="BlockSection"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attribute name="Type" />
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

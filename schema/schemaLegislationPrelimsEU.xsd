@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	id="SchemaLegislationPrelims"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Preliminary EU Legislation Matter Schema</dc:title>
+			<dc:description>Describes preliminary material for EU legislation</dc:description>
+			<dc:contributor>Jim Mangiafico</dc:contributor>
+			<dc:identifier>SchemaLegislationPrelimsEU</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown Copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Jim Mangiafico		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="EUPrelims">
+		<xsd:annotation>
+			<xsd:documentation>Preliminary matter for European Union legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Draft" minOccurs="0"/>
+				<xsd:element ref="MultilineTitle"/>
+				<xsd:element name="Number" type="BasicStringStructure" minOccurs="0"/>
+				<xsd:element ref="EUPreamble" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="MultilineTitle">
+		<xsd:annotation>
+			<xsd:documentation>a multi-line title for EU legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="EUPreamble">
+		<xsd:annotation>
+			<xsd:documentation>Preamble for European Union legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element ref="Division"/>
+					<xsd:element ref="P"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	elementFormDefault="qualified" 
+	attributeFormDefault="unqualified" 
+	version="2.0" 
+	id="SchemaENdivisions">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Schema EN-specific Structure</dc:title>
+			<dc:description>Defines the structures that are specific to explanatory notes</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaENdivisions</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-07-04</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name						Modification
+			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
+			0.1			Jeni Tennison		Created
+			0.2			Jeni Tennison		Added SubSubSubDivision
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:group name="NumberedParaBasic">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for standard explanatory note structures.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="NumberedPara" />
+			<xsd:group ref="ParaBasicNoErrors" />
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:group name="ENDivision">
+		<xsd:sequence>
+			<xsd:element name="Division">
+				<xsd:annotation>
+					<xsd:documentation>Top-level structures within the body of an explanatory notes document.</xsd:documentation>
+				</xsd:annotation>
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:choice>
+							<xsd:sequence>
+								<xsd:element ref="Number"/>
+								<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+							</xsd:sequence>
+							<xsd:element ref="Title" maxOccurs="unbounded"/>
+						</xsd:choice>
+						<xsd:choice>
+							<xsd:sequence>
+								<xsd:group ref="NumberedParaBasic" maxOccurs="unbounded" />
+								<xsd:choice minOccurs="0" maxOccurs="unbounded">
+									<xsd:element ref="SubDivision" />
+									<xsd:group ref="Commentary" />
+								</xsd:choice>
+							</xsd:sequence>
+							<xsd:choice minOccurs="1" maxOccurs="unbounded">
+								<xsd:element ref="SubDivision" />
+								<xsd:group ref="Commentary" />
+							</xsd:choice>
+						</xsd:choice>
+					</xsd:sequence>
+					<xsd:attributeGroup ref="CommonSubAttributes"/>
+					<xsd:attributeGroup ref="DivisionIDattributes"/>
+					<xsd:attributeGroup ref="LayoutAttributes"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:group>
+	
+	<xsd:element name="SubDivision">
+		<xsd:annotation>
+			<xsd:documentation>Second-level structures within the body of an explanatory notes document.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:group ref="NumberedParaBasic" maxOccurs="unbounded" />
+						<xsd:choice minOccurs="0" maxOccurs="unbounded">
+							<xsd:element ref="SubSubDivision" />
+							<xsd:group ref="Commentary" />
+						</xsd:choice>
+					</xsd:sequence>
+					<xsd:choice minOccurs="1" maxOccurs="unbounded">
+						<xsd:element ref="SubSubDivision" />
+						<xsd:group ref="Commentary" />
+					</xsd:choice>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="DivisionIDattributes"/>
+			<xsd:attributeGroup ref="LayoutAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="SubSubDivision">
+		<xsd:annotation>
+			<xsd:documentation>Third-level structures within the body of an explanatory notes document.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:group ref="NumberedParaBasic" maxOccurs="unbounded" />
+						<xsd:choice minOccurs="0" maxOccurs="unbounded">
+							<xsd:element ref="SubSubSubDivision" />
+							<xsd:group ref="Commentary" />
+						</xsd:choice>
+					</xsd:sequence>
+					<xsd:choice minOccurs="1" maxOccurs="unbounded">
+						<xsd:element ref="SubSubSubDivision" />
+						<xsd:group ref="Commentary" />
+					</xsd:choice>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="DivisionIDattributes"/>
+			<xsd:attributeGroup ref="LayoutAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SubSubSubDivision">
+		<xsd:annotation>
+			<xsd:documentation>Fourth-level structures within the body of an explanatory notes document.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:group ref="NumberedParaBasic" maxOccurs="unbounded" />
+						<xsd:group ref="Commentary" minOccurs="0" maxOccurs="unbounded" />
+					</xsd:sequence>
+					<xsd:group ref="Commentary" minOccurs="1" maxOccurs="unbounded" />
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="DivisionIDattributes"/>
+			<xsd:attributeGroup ref="LayoutAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:attributeGroup name="DivisionIDattributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format d00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="d[0-9]{5}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attributeGroup ref="OptionalURIs"/>
+	</xsd:attributeGroup>
+	
+	<xsd:element name="NumberedPara">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Pnumber"/>
+				<xsd:group ref="ParaBasic" minOccurs="1" maxOccurs="unbounded" />
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+</xsd:schema>

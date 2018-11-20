@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	id="SchemaLegislationTypes" xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Schema Types</dc:title>
+			<dc:description>A set of legislation specific schema types</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationTypes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2019</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.9			Jim Mangiafico		Expanded to accommodate European Union
+			1.8			Colin Mackenzie		Restructure to have single file for editorial and legislation
+			1.7			Paul Appleby		Added Group to block extract structure
+			1.6			Paul Appleby		Added in Acronym and Abbreviation elements
+			1.5			Paul Appleby		Add LayoutAttributes
+			1.4			Paul Appleby		Remove EmphasisBasicStructure and put in InlineRestricted and EmphasisRestricted and ParaRestricted items
+			1.3			Paul Appleby		Removed common formatting attributes from ParaBasicStructure and fixed error where AppendText could not follow BlockExtract
+			1.2			Paul Appleby		Removed Form from BlockExtractStructure and added into other structures. Add P to TableCellLocal
+			1.1			Paul Appleby		Added Image to InlineBasic to correct an ommission
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<!-- ========== Complex types and content models ========== -->
+	<xsd:import namespace="http://www.w3.org/1998/Math/MathML"
+		schemaLocation="../schemaModules/mathml2/mathml2.xsd"/>
+	<xsd:import namespace="http://www.w3.org/1999/xhtml"
+		schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
+
+	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error"
+		schemaLocation="../schemaModules/errors.xsd"/>
+
+	<xsd:complexType name="BlockExtractStructure">
+		<xsd:annotation>
+			<xsd:documentation>Describes block-level material extracted from other documents</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="Group"/>
+				<xsd:element ref="Part"/>
+				<xsd:element ref="Chapter"/>
+				<xsd:element ref="Pblock"/>
+				<xsd:element ref="PsubBlock"/>
+				<xsd:element ref="Para"/>
+				<xsd:element ref="P1"/>
+				<xsd:element ref="P2"/>
+				<xsd:element ref="P3"/>
+				<xsd:element ref="P4"/>
+				<xsd:element ref="P5"/>
+				<xsd:element ref="P6"/>
+				<xsd:element ref="P7"/>
+				<xsd:element ref="P1para"/>
+				<xsd:element ref="P2para"/>
+				<xsd:element ref="P3para"/>
+				<xsd:element ref="P4para"/>
+				<xsd:element ref="P5para"/>
+				<xsd:element ref="P6para"/>
+				<xsd:element ref="P7para"/>
+				<xsd:element ref="P1group"/>
+				<xsd:element ref="P2group"/>
+				<xsd:element ref="P3group"/>
+				<xsd:element ref="SignedSection"/>
+				<xsd:element ref="Schedules"/>
+				<xsd:element ref="Schedule"/>
+				<xsd:sequence>
+					<xsd:element ref="BlockAmendment"/>
+					<xsd:element ref="AppendText" minOccurs="0"/>
+				</xsd:sequence>
+				<xsd:element ref="xhtml:table"/>
+				<xsd:group ref="BlockBasic"/>
+				<xsd:element ref="MultilineTitle"/>
+				<xsd:element ref="EUPreamble"/>
+				<xsd:element ref="EUBody"/>
+				<xsd:element ref="Division"/>
+			</xsd:choice>
+			<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
+		</xsd:choice>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attributeGroup ref="LegislationExtractAttributes"/>
+		<xsd:attributeGroup ref="QuotesAttributes"/>
+		<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="InlineExtractStructure" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>Describes inline extracted text</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="LegislationExtractAttributes"/>
+		<xsd:attributeGroup ref="QuotesAttributes"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="InlineFullStructure" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines the complete content model for a standard paragraph level element, e.g. a para element</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attributeGroup ref="CommonFormattingAttributes"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="InlineStructure" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines the complete content model for a standard paragraph level element, e.g. a para element, but without the formatting attributes</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="InlineFull">
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="InlineLegislationCitation">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for basic inline elements for legislation documents</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="err:Errors"/>
+			<xsd:element ref="Character"/>
+			<xsd:element ref="Span"/>
+			<xsd:element ref="InlineAmendment" />
+			<xsd:element ref="CommentaryRef"/>
+			<xsd:element ref="FootnoteRef"/>
+			<xsd:element ref="MarginNoteRef"/>
+			<xsd:element ref="Acronym"/>
+			<xsd:element ref="Abbreviation"/>
+			<xsd:element ref="Term"/>
+			<xsd:element ref="Addition"/>
+			<xsd:element ref="Repeal"/>
+			<xsd:element ref="Substitution"/>
+			<xsd:element ref="Definition" />
+			<xsd:element ref="Proviso" />
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="TableTextLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for text to a table</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Para"/>
+			<xsd:element ref="P1"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="InlineBasic">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for basic inline elements</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="err:Errors"/>
+			<xsd:element ref="Character"/>
+			<xsd:element ref="Span"/>
+			<xsd:element ref="InlineAmendment" />
+			<xsd:element ref="InlineExtract"/>
+			<xsd:element ref="CommentaryRef"/>
+			<xsd:element ref="FootnoteRef"/>
+			<xsd:element ref="MarginNoteRef"/>
+			<xsd:element ref="InternalLink"/>
+			<xsd:element ref="ExternalLink"/>
+			<xsd:element ref="Citation"/>
+			<xsd:element ref="CitationSubRef"/>
+			<xsd:element ref="CitationListRef"/>
+			<xsd:element ref="math:math"/>
+			<xsd:element ref="Image"/>
+			<xsd:element ref="Acronym"/>
+			<xsd:element ref="Abbreviation"/>
+			<xsd:element ref="Term"/>
+			<xsd:element ref="Addition"/>
+			<xsd:element ref="Repeal"/>
+			<xsd:element ref="Substitution"/>
+			<xsd:element ref="Definition" />
+			<xsd:element ref="Proviso" />
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="InlineBasicRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for basic inline elements for a restricted content model other than emphasis elements</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="err:Errors"/>
+			<xsd:element ref="Character"/>
+			<xsd:element ref="Span"/>
+			<xsd:element ref="InlineAmendment" />
+			<xsd:element ref="CommentaryRef"/>
+			<xsd:element ref="FootnoteRef"/>
+			<xsd:element ref="MarginNoteRef"/>
+			<xsd:element ref="Citation"/>
+			<xsd:element ref="CitationSubRef"/>
+			<xsd:element ref="CitationListRef"/>
+			<xsd:element ref="Acronym"/>
+			<xsd:element ref="Abbreviation"/>
+			<xsd:element ref="Term"/>
+			<xsd:element ref="Addition"/>
+			<xsd:element ref="Repeal"/>
+			<xsd:element ref="Substitution"/>
+			<xsd:element ref="Definition" />
+			<xsd:element ref="Proviso" />
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:complexType name="InlineRestrictedStructure" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines the content model for basic inline elements for a restricted content model</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:group ref="EmphasisBasicRestricted"/>
+			<xsd:group ref="InlineBasicRestricted"/>
+		</xsd:choice>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="EmphasisBasic">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for basic emphasis</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Strong"/>
+			<xsd:element ref="Emphasis"/>
+			<xsd:element ref="Inferior"/>
+			<xsd:element ref="Superior"/>
+			<xsd:element ref="SmallCaps"/>
+			<xsd:element ref="Uppercase"/>
+			<xsd:element ref="Underline"/>
+			<xsd:element ref="Expanded"/>
+			<xsd:element ref="Strike" />
+			<xsd:group ref="EmphasisBasicExtras"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="EmphasisBasicRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for basic emphasis</xsd:documentation>
+			<!-- I have removed the comment  "but restricts the emphasis elements to only containing other emphasis" as that has been commented out in the past -->
+		</xsd:annotation>
+		<xsd:choice>
+			<!--<xsd:group ref="StrongRestricted"/>
+			<xsd:group ref="EmphasisRestricted"/>
+			<xsd:group ref="InferiorRestricted"/>
+			<xsd:group ref="SuperiorRestricted"/>
+			<xsd:group ref="SmallCapsRestricted"/>
+			<xsd:group ref="UnderlineRestricted"/>-->
+			<xsd:group ref="EmphasisBasic"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:complexType name="BlockSectionStructure">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines standard paragraph level block elements with sections</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="BlockSection" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="BlockSection">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for standard paragraph level block elements within sections, e.g. s1para</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="OrderedList"/>
+			<xsd:element ref="UnorderedList"/>
+			<xsd:element ref="DecoratedGroup"/>
+			<xsd:element ref="KeyList"/>
+			<xsd:element ref="Figure"/>
+			<xsd:element ref="Tabular"/>
+			<xsd:element ref="Form"/>
+			<xsd:element ref="Formula"/>
+			<xsd:group ref="err:Errors"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:complexType name="BlockBasicStructure">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines standard paragraph level block elements</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="BlockBasic" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="BlockBasic">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for standard block elements, e.g. chapter</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="P"/>
+			<xsd:element ref="OrderedList"/>
+			<xsd:element ref="UnorderedList"/>
+			<xsd:element ref="DecoratedGroup"/>
+			<xsd:element ref="KeyList"/>
+			<xsd:element ref="Figure"/>
+			<xsd:element ref="Tabular"/>
+			<xsd:element ref="Form"/>
+			<xsd:element ref="Formula"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:complexType name="ParaBasicStructure">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines a standard paragraph level block element for non-provision parts of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="ParaBasic" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="ParaRestricted">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for block elements with limited scope for content, e.g. MarginNote</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Para"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="ParaBasic">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for standard non-provision block elements, e.g. footnoteText</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Para"/>
+			<xsd:element ref="OrderedList"/>
+			<xsd:element ref="UnorderedList"/>
+			<xsd:element ref="DecoratedGroup"/>
+			<xsd:element ref="KeyList"/>
+			<xsd:element ref="Figure"/>
+			<xsd:element ref="Form"/>
+			<xsd:element ref="Tabular"/>
+			<xsd:element ref="Text"/>
+			<xsd:element ref="Formula"/>
+			<xsd:element ref="Division"/>
+			<xsd:group ref="err:Errors" />
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:group name="ParaBasicNoErrors">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for standard non-provision block elements without errors</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Para"/>
+			<xsd:element ref="OrderedList"/>
+			<xsd:element ref="UnorderedList"/>
+			<xsd:element ref="DecoratedGroup"/>
+			<xsd:element ref="KeyList"/>
+			<xsd:element ref="Figure"/>
+			<xsd:element ref="Form"/>
+			<xsd:element ref="Tabular"/>
+			<xsd:element ref="Formula"/>
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:complexType name="InlineModelStructure">
+		<xsd:annotation>
+			<xsd:documentation>A type that defines the content model for a standard paragraph level block element, e.g. a para element</xsd:documentation>
+		</xsd:annotation>
+		<xsd:group ref="InlineModel" maxOccurs="unbounded"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attributeGroup ref="CommonFormattingAttributes"/>
+	</xsd:complexType>
+
+	<xsd:group name="InlineModel">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for the contents of a standard paragraph level block element, e.g. para element</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Text"/>
+			<xsd:element ref="BlockText"/>
+			<xsd:element ref="OrderedList"/>
+			<xsd:element ref="UnorderedList"/>
+			<xsd:element ref="KeyList"/>
+			<xsd:element ref="Tabular"/>
+			<xsd:element ref="Form"/>
+			<xsd:element ref="Figure"/>
+			<xsd:sequence>
+				<xsd:element ref="BlockAmendment"/>
+				<xsd:element ref="AppendText" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:sequence>
+				<xsd:element ref="BlockExtract"/>
+				<xsd:element ref="AppendText" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:element ref="Formula"/>
+			<xsd:group ref="err:Errors"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:simpleType name="MinorType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="order"/>
+			<xsd:enumeration value="regulation"/>
+			<xsd:enumeration value="rule"/>
+			<xsd:enumeration value="scheme"/>
+			<xsd:enumeration value="resolution"/>
+			<xsd:enumeration value="unknown"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:attributeGroup name="TabularAttributes"/>
+
+	<xsd:attributeGroup name="LayoutAttributes">
+		<xsd:annotation>
+			<xsd:documentation>Defines the layout for some headings for legacy data that does not conform to the standard layouts</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="Layout">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="default"/>
+					<xsd:enumeration value="side"/>
+					<xsd:enumeration value="below"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+
+</xsd:schema>

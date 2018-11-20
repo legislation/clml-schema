@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaENmetadata"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>EN Specific Metadata Schema</dc:title>
+			<dc:description>Describes EN metadata</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>schemaENLegislationMetadata</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-07-04</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.tso.co.uk/assets/namespace/metadata'
+			The suggested namespace prefix is ukm ([U]nited [K]ingdom legislation [M]etadata)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name						Modification
+			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			0.2			Marc Sturman			Added UnitedKingdomMinisterialDirection
+			0.1			Jeni Tennison			Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>
+	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
+	
+	<xsd:element name="Metadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata section for document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice minOccurs="0" maxOccurs="unbounded">
+					<xsd:element ref="dc:title"/>
+					<xsd:element ref="dc:creator"/>
+					<xsd:element ref="dc:subject"/>
+					<xsd:element ref="dc:description"/>
+					<xsd:element ref="dc:publisher"/>
+					<xsd:element ref="dc:contributor"/>
+					<xsd:element ref="dc:date"/>
+					<xsd:element ref="dc:type"/>
+					<xsd:element ref="dc:format"/>
+					<xsd:element ref="dc:identifier"/>
+					<xsd:element ref="dc:source"/>
+					<xsd:element ref="dc:language"/>
+					<xsd:element ref="dc:relation"/>
+					<xsd:element ref="dc:coverage"/>
+					<xsd:element ref="dc:rights"/>
+					<xsd:element ref="dc:modified"/>
+					<xsd:element ref="atom:link"/>
+				</xsd:choice>
+				<xsd:group ref="TSOmetadata"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:group name="TSOmetadata">
+		<xsd:annotation>
+			<xsd:documentation>Legislation specific metadata</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element ref="ENmetadata" minOccurs="0"/>
+			<xsd:element ref="Alternatives" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:group>
+
+	<xsd:element name="Alternatives">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for alternatives legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Alternative">
+						<xsd:annotation>
+							<xsd:documentation>Defines an alternative legislation on this item of legislation.</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:attribute name="Date" type="xsd:date" use="required"/>
+							<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+							<xsd:attribute name="Title" type="xsd:string" use="optional"/>
+							<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
+							<xsd:attribute name="Language" type="xsd:string" use="optional"/>
+							<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
+						</xsd:complexType>
+					</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="ENmetadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for EN legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DocumentClassification"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:element ref="ISBN" minOccurs="0"/>
+				<xsd:element ref="AlternativeNumber" minOccurs="0"/>
+				<xsd:element ref="EnactmentDate" minOccurs="0"/>
+				<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ISBN">
+		<xsd:annotation>
+			<xsd:documentation>The ISBN of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="EnactmentDate">
+		<xsd:annotation>
+			<xsd:documentation>Date of enactment</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ComingIntoForce">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element name="DateTime">
+					<xsd:complexType>
+						<xsd:attribute name="Date" type="xsd:date" use="required"/>
+						<xsd:attribute name="Time" type="xsd:time"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Year">
+		<xsd:annotation>
+			<xsd:documentation>The year as the legislation applies</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Number">
+		<xsd:annotation>
+			<xsd:documentation>The main number of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AlternativeNumber">
+		<xsd:annotation>
+			<xsd:documentation>For certain legislation types subsidiary serial numbers apply. For early primary legislation regnal years are used to identify legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Category" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The applicable values at present are C, L, S, NI, W and Cy or Regnal when it holds a regnal year</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentClassification">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="DocumentCategory">
+					<xsd:annotation>
+						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary and secondary</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="primary"/>
+									<xsd:enumeration value="secondary"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:element name="DocumentStatus">
+					<xsd:annotation>
+						<xsd:documentation>Defines the status (or stage) of the document</xsd:documentation>
+						<xsd:documentation>For secondary legislation this will be draft or final</xsd:documentation>
+						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required" fixed="final"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="DocumentMinorType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Defines the subtype of the document. This currently only applies to secondary legislation</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="order"/>
+									<xsd:enumeration value="regulation"/>
+									<xsd:enumeration value="rule"/>
+									<xsd:enumeration value="scheme"/>
+									<xsd:enumeration value="resolution"/>
+									<xsd:enumeration value="unknown"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentMainType">
+		<xsd:annotation>
+			<xsd:documentation>Defines the type of the document. This covers all the possible varities of UK legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value"  type="leg:DocumentMainType" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

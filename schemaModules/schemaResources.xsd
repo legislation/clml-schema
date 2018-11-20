@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	version="2.0" id="SchemaResources">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Resources schema</dc:title>
+			<dc:description>Defines media resources</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaResources</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1			Paul Appleby		Added width and height attributes to ExternalVersion and InternalVersion
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:element name="Resources">
+		<xsd:annotation>
+			<xsd:documentation>Resources referenced by the document, both external and internal to the file</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="Resource"/>
+				<xsd:element ref="ResourceGroup"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:attributeGroup name="ResourceElementIDAttributes">
+		<xsd:attribute name="id" use="required">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format r00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="r[0-9]{5}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+
+	<xsd:element name="ResourceGroup">
+		<xsd:annotation>
+			<xsd:documentation>A group of resources referenced by the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="Resource"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="ResourceElementIDAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Resource">
+		<xsd:annotation>
+			<xsd:documentation>A resources to the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="InternalVersion"/>
+				<xsd:element ref="ExternalVersion"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="ResourceElementIDAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="InternalVersion">
+		<xsd:annotation>
+			<xsd:documentation>A resource contained in the document, e.g. an SVG file</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:element ref="BinaryContent"/>
+				<xsd:element ref="XMLcontent"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attribute name="id">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format i00000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="i[0-9]{5}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Height" type="FigureSizeType"/>
+			<xsd:attribute name="Width" type="FigureSizeType"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="BinaryContent">
+		<xsd:annotation>
+			<xsd:documentation>An internally stored document, encoded in base 64 format</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:simpleContent>
+				<xsd:extension base="xsd:base64Binary">
+					<xsd:attributeGroup ref="CommonAttributes"/>
+					<xsd:attribute name="Format" type="FileFormatsType">
+						<xsd:annotation>
+							<xsd:documentation>Format of decoded resource</xsd:documentation>
+						</xsd:annotation>
+					</xsd:attribute>
+				</xsd:extension>
+			</xsd:simpleContent>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="XMLcontent">
+		<xsd:annotation>
+			<xsd:documentation>An internally stored document, stored as well-formed XML</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:any processContents="skip"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ExternalVersion">
+		<xsd:annotation>
+			<xsd:documentation>An externally located resource located by reference</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="URI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>URI of external resource. For DOIs use the format doi:10.1000/182</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Format" type="FileFormatsType">
+				<xsd:annotation>
+					<xsd:documentation>Format of external resource</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attribute name="id">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format e00000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="e[0-9]{5}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Height" type="FigureSizeType"/>
+			<xsd:attribute name="Width" type="FigureSizeType"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:simpleType name="FileFormatsType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="doc"/>
+			<xsd:enumeration value="eps"/>
+			<xsd:enumeration value="gif"/>
+			<xsd:enumeration value="html"/>
+			<xsd:enumeration value="jpeg"/>
+			<xsd:enumeration value="mpeg"/>
+			<xsd:enumeration value="png"/>
+			<xsd:enumeration value="rtf"/>
+			<xsd:enumeration value="svg"/>
+			<xsd:enumeration value="xml"/>
+			<xsd:enumeration value="pdf"/>
+			<xsd:enumeration value="tiff"/>
+			<xsd:enumeration value="other"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+</xsd:schema>

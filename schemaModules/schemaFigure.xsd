@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	version="2.0" id="SchemaFigure">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Figure Schema</dc:title>
+			<dc:description>Describes display images</dc:description>
+			<dc:contributor>Paul Appleby, Peter Lazar</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaFigure</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.2			Paul Appleby		Fixed id attribute on figure to be lower case. Overruled frozen schema as an important change
+			1.1			Paul Appleby		Altered ResourceRef attriubte on Image to be xsd:string (so as to work in fragment mode)
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="Figure">
+		<xsd:annotation>
+			<xsd:documentation>A container for graphic(s) material. There may also be a number, caption, associated text and notes to accompany the images</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Para" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Image" maxOccurs="unbounded"/>
+				<xsd:element ref="Notes" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FigureElementIDattributes"/>
+			<xsd:attribute name="Orientation" default="portrait">
+				<xsd:annotation>
+					<xsd:documentation>Defines the orientation of the figure, including any title, text and images</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="portrait"/>
+						<xsd:enumeration value="landscape"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="ImageLayout" default="vertical">
+				<xsd:annotation>
+					<xsd:documentation>Defines the layout of the images. This mainly applies when there is more than one image in a figure. They may be laid vertically (normal), horizontally, e.g. across the page, or when there are many images, in a matrix format upto 5 images wide.</xsd:documentation>
+					<xsd:documentation>There is the possibility that this option may cause a conflict on image widths and page size. It it left to individual implementations as to how this should be resolved.</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="vertical"/>
+						<xsd:enumeration value="horizontal"/>
+						<xsd:enumeration value="matrix-2-wide"/>
+						<xsd:enumeration value="matrix-3-wide"/>
+						<xsd:enumeration value="matrix-4-wide"/>
+						<xsd:enumeration value="matrix-5-wide"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:attributeGroup name="FigureElementIDattributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format g00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="g[0-9]{5}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	
+	<xsd:element name="Notes">
+		<xsd:annotation>
+			<xsd:documentation>A placeholder for footnotes to the figure</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Footnote" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Image">
+		<xsd:complexType>
+			<xsd:attribute name="Description" type="xsd:string" use="optional"/>
+			<xsd:attribute name="ResourceRef" type="xsd:string" use="required"/>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FigureElementIDattributes"/>
+			<!-- issue ID #156763855
+			<xsd:attribute name="Height" type="FigureSizeType" use="required"/>
+			<xsd:attribute name="Width" type="FigureSizeType" use="required"/>  -->
+			<xsd:attribute name="Height" type="FigureSizeType" use="optional" default="auto" />
+			<xsd:attribute name="Width" type="FigureSizeType" use="optional" default="auto" />
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:simpleType name="FigureSizeType">
+		<xsd:annotation>
+			<xsd:documentation>Defines a size in either pixels, points or ems; alternatively the value can be auto (inherent, but cropped if larger than the page size), scale-to-fit (i.e. image is scaled to fit the page), spread (as in a two-page spread), or fit-page-to-image (where the page grows to fit around the image).</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="(auto|scale-to-fit|fit-page-to-image|spread|\d{1,}\.?\d{0,3}%|\d{1,}\.?\d{0,3}pt|\d{1,}\.?\d{0,3}em)"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+</xsd:schema>

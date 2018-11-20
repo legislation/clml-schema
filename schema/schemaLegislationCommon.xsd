@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Schema Re-used Items</dc:title>
+			<dc:description>Describes re-used models for main UK and EU legislation (not IAs or ENs)</dc:description>
+			<dc:contributor>Colin Mackenzie</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationCommon</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-10</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.0			Colin Mackenzie		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
+	
+	<!-- note same for editorial fragment and and legislation just different for EN -->
+	<xsd:complexType name="ContentsType">
+		<xsd:annotation>
+			<xsd:documentation>The Legislation specific model.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element ref="ContentsTitle" minOccurs="0"/>
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="ContentsGroup"/>
+				<xsd:element ref="ContentsPart"/>
+				<xsd:element ref="ContentsChapter"/>
+				<xsd:element ref="ContentsPblock"/>
+				<xsd:element ref="ContentsItem"/>
+				<xsd:element ref="ContentsEUPart"/>
+				<xsd:element ref="ContentsEUTitle"/>
+				<xsd:element ref="ContentsEUChapter"/>
+				<xsd:element ref="ContentsEUSection"/>
+				<!-- Added during EU merge -->
+				<xsd:element ref="ContentsDivision"/>
+			</xsd:choice>
+			<xsd:element ref="ContentsAppendix" minOccurs="0" maxOccurs="unbounded"/>
+			<!-- more ocmplex model added here during merge of EU model -->
+			<xsd:choice minOccurs="0">
+				<xsd:sequence>
+					<xsd:element ref="ContentsAttachments"/>
+					<xsd:element ref="ContentsSchedules" minOccurs="0"/>
+					<xsd:element ref="ContentsAttachments" minOccurs="0"/>
+				</xsd:sequence>
+				<xsd:sequence>
+					<xsd:element ref="ContentsSchedules"/>
+					<xsd:element ref="ContentsAttachments" minOccurs="0"/>
+				</xsd:sequence>
+			</xsd:choice>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attribute name="MatchExtentEntries" type="xsd:string" use="optional"/>
+		<xsd:attribute name="MatchTextEntries" type="xsd:string" use="optional"/>
+	</xsd:complexType>
+	
+	<!-- This will allow changes to emphasis model for main legislation schema
+		(customer facing, publication and fragment editing but Explanatory Notes have their own local definition -->
+	<xsd:group name="EmphasisBasicExtras">
+		<xsd:annotation>
+			<xsd:documentation>The Legislation specific model.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence/>
+	</xsd:group>
+	
+	<xsd:group name="TableHeaderCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table header cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="ParaBasicNoErrors"/>
+		</xsd:choice>
+	</xsd:group>
+	
+	<xsd:group name="TableCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="ParaBasicNoErrors"/>
+			<xsd:element ref="P"/>
+			<xsd:element ref="P1"/>
+			<xsd:element ref="P2"/>
+			<xsd:element ref="P3"/>
+			<xsd:element ref="P4"/>
+			<xsd:element ref="P5"/>
+			<xsd:element ref="P6"/>
+			<xsd:element ref="P7"/>
+			<xsd:element ref="P1group"/>
+			<xsd:element ref="P2group"/>
+			<xsd:element ref="P3group"/>
+			<xsd:element ref="xhtml:table"/>
+			<xsd:element ref="Division"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:group name="TableFootnoteCellLocal">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a table cell</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:group ref="EmphasisBasic"/>
+			<xsd:group ref="InlineBasic"/>
+			<xsd:group ref="ParaBasicNoErrors"/>
+			<xsd:element ref="Footnote"/>
+		</xsd:choice>
+	</xsd:group>
+</xsd:schema>

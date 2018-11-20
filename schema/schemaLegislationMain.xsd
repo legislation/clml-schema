@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaLegislationMain"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Schema Main Elements</dc:title>
+			<dc:description>Describes legislation main elements</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationMain</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.6			William Holmes		Added ProvisionCountAttributes
+			1.5			Jim Mangiafico		Expanded to accommodate European Union legislation
+			1.4			Colin Mackenzie		Added Primary and Secondary content types so they can be re-used in editorial fragment.xsd
+			1.3			Paul Appleby		Added Group to relevant content models
+			1.2			Paul Appleby		Allowed TitleBlock to repeat for Schedule, Appendix and Abstract to give more flexibility
+			1.1			Paul Appleby		Allowed P2 and P2group in certain elements
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error"
+		schemaLocation="../schemaModules/errors.xsd"/>
+	<xsd:element name="Primary">
+		<xsd:annotation>
+			<xsd:documentation>Primary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:group ref="PrimaryContentGroup"/>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:group name="PrimaryContentGroup">
+		<xsd:choice>
+			<xsd:sequence>
+				<xsd:element ref="PrimaryPrelims" minOccurs="0" />
+				<xsd:element ref="Body" minOccurs="0"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:element ref="Schedules" minOccurs="0"/>
+				<xsd:element ref="ExplanatoryNotes" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:element ref="Include" maxOccurs="unbounded"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:element name="Secondary">
+		<xsd:annotation>
+			<xsd:documentation>Secondary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:group ref="SecondaryContentGroup"/>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:group name="SecondaryContentGroup">
+		<xsd:sequence>
+			<xsd:choice>
+				<xsd:sequence>
+					<xsd:element ref="SecondaryPrelims" minOccurs="0" />
+					<xsd:element ref="Body" minOccurs="0"/>
+					<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded" />
+					<xsd:element ref="Schedules" minOccurs="0"/>
+				</xsd:sequence>
+				<xsd:element ref="Include" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:element ref="ExplanatoryNotes" minOccurs="0"/>
+			<xsd:element ref="EarlierOrders" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:group>
+	
+	<xsd:element name="Body">
+		<xsd:annotation>
+			<xsd:documentation>The body text of a piece of legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element maxOccurs="unbounded" minOccurs="0" ref="CommentaryRef"/>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:choice>
+						<xsd:element ref="P" maxOccurs="unbounded"/>
+						<xsd:element ref="Group" maxOccurs="unbounded"/>
+						<xsd:element ref="Part" maxOccurs="unbounded"/>
+						<xsd:element ref="Chapter" maxOccurs="unbounded"/>
+						<xsd:element ref="Pblock" maxOccurs="unbounded"/>
+						<xsd:element ref="P1group" maxOccurs="unbounded"/>
+						<xsd:element ref="P1" maxOccurs="unbounded"/>
+					</xsd:choice>
+					<xsd:element ref="Tabular"/>
+					<xsd:element ref="Figure"/>
+					<xsd:element ref="IncludedDocument"/>
+					<xsd:element ref="Include"/>
+				</xsd:choice>
+				<xsd:element ref="SignedSection" minOccurs="0"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Schedules">
+		<xsd:annotation>
+			<xsd:documentation>Schedules to the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Abstract" minOccurs="0"/>
+				<xsd:choice>
+					<xsd:element ref="Schedule" maxOccurs="unbounded"/>
+					<xsd:element ref="Include" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:element ref="SignedSection" minOccurs="0"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Abstract">
+		<xsd:annotation>
+			<xsd:documentation>An abstract to the schedules, occurs in Appropriations Act</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="TitleBlock" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="AbstractBody"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AbstractBody">
+		<xsd:annotation>
+			<xsd:documentation>An abstract body</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:choice>
+					<xsd:element ref="Group" maxOccurs="unbounded"/>
+					<xsd:element ref="Part" maxOccurs="unbounded"/>
+					<xsd:element ref="Chapter" maxOccurs="unbounded"/>
+					<xsd:element ref="Pblock" maxOccurs="unbounded"/>
+					<xsd:element ref="P1group" maxOccurs="unbounded"/>
+					<xsd:element ref="P1" maxOccurs="unbounded"/>
+					<xsd:element ref="P2group" maxOccurs="unbounded"/>
+					<xsd:element ref="P2" maxOccurs="unbounded"/>
+					<xsd:element ref="P" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:element ref="Tabular"/>
+				<xsd:element ref="Figure"/>
+				<xsd:element ref="Form"/>
+				<xsd:element ref="IncludedDocument"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Schedule">
+		<xsd:annotation>
+			<xsd:documentation>A schedule to the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number"/>
+				<xsd:element ref="TitleBlock" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Reference" minOccurs="0"/>
+					<xsd:sequence>
+						<xsd:element ref="IntroductoryText" minOccurs="0">
+							<xsd:annotation>
+								<xsd:documentation>Generally occurs before the schedule arrangement</xsd:documentation>
+							</xsd:annotation>
+						</xsd:element>
+						<xsd:element ref="Contents" minOccurs="0"/>
+					</xsd:sequence>
+				<xsd:element ref="ScheduleBody"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ScheduleBody">
+		<xsd:annotation>
+			<xsd:documentation>Contains the main text of a Schedule</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:choice>
+						<xsd:element ref="Group" maxOccurs="unbounded"/>
+						<xsd:element ref="Part" maxOccurs="unbounded"/>
+						<xsd:element ref="Chapter" maxOccurs="unbounded"/>
+						<xsd:group ref="EUStructure" maxOccurs="unbounded"/>
+						<xsd:element ref="Pblock" maxOccurs="unbounded"/>
+						<xsd:element ref="P1group" maxOccurs="unbounded"/>
+						<xsd:element ref="P1" maxOccurs="unbounded"/>
+						<xsd:element ref="P2group" maxOccurs="unbounded"/>
+						<xsd:element ref="P2" maxOccurs="unbounded"/>
+						<xsd:element ref="P" maxOccurs="unbounded"/>
+						<xsd:element ref="BlockAmendment" maxOccurs="unbounded"/>
+					</xsd:choice>
+					<xsd:element ref="Tabular"/>
+					<xsd:element ref="Figure"/>
+					<xsd:element ref="Form"/>
+					<xsd:element ref="IncludedDocument"/>
+					<xsd:element ref="Include"/>
+					<xsd:group ref="err:Errors" />
+				</xsd:choice>
+				<xsd:element ref="SignedSection" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Reference" type="InlineFullStructure">
+		<xsd:annotation>
+			<xsd:documentation>Cross-reference (generally) to the body part of the document</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="Appendix">
+		<xsd:annotation>
+			<xsd:documentation>Appendix</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number"/>
+				<xsd:element ref="TitleBlock" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Reference" minOccurs="0"/>
+				<xsd:element ref="Contents" minOccurs="0"/>
+				<xsd:element ref="AppendixBody"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="ProvisionCountAttributes" />
+		</xsd:complexType>
+	</xsd:element>
+
+	<!-- Commented out for now original definition
+		<xsd:element name="AppendixBody">
+		<xsd:annotation>
+			<xsd:documentation>Contains the main text of an appendix</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:choice>
+					<xsd:element ref="Group" maxOccurs="unbounded"/>
+					<xsd:element ref="Part" maxOccurs="unbounded"/>
+					<xsd:element ref="Chapter" maxOccurs="unbounded"/>
+					<xsd:element ref="Pblock" maxOccurs="unbounded"/>
+					<xsd:element ref="P1group" maxOccurs="unbounded"/>
+					<xsd:element ref="P1" maxOccurs="unbounded"/>
+					<xsd:element ref="P2group" maxOccurs="unbounded"/>
+					<xsd:element ref="P2" maxOccurs="unbounded"/>
+					<xsd:element ref="P" maxOccurs="unbounded"/>
+					<xsd:element ref="BlockAmendment" maxOccurs="unbounded"/>
+				</xsd:choice>
+				<xsd:element ref="Tabular"/>
+				<xsd:element ref="Figure"/>
+				<xsd:element ref="Form"/>
+				<xsd:element ref="IncludedDocument"/>
+				<xsd:element ref="Include"/>
+				<xsd:group ref="err:Errors" />
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	fragment definition
+	
+	
+	<xsd:element name="AppendixBody">
+		<xsd:annotation>
+			<xsd:documentation>Contains the main text of an appendix</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:element ref="Group" maxOccurs="unbounded"/>
+				<xsd:element ref="Part" maxOccurs="unbounded"/>
+				<xsd:element ref="Chapter" maxOccurs="unbounded"/>
+				<xsd:element ref="Pblock" maxOccurs="unbounded"/>
+				<xsd:element ref="P1group" maxOccurs="unbounded"/>
+				<xsd:element ref="P1" maxOccurs="unbounded"/>
+				<xsd:element ref="P2group" maxOccurs="unbounded"/>
+				<xsd:element ref="P2" maxOccurs="unbounded"/>
+				<xsd:element ref="P" maxOccurs="unbounded"/>
+				<xsd:element ref="Tabular" maxOccurs="unbounded"/>
+				<xsd:element ref="Figure" maxOccurs="unbounded"/>
+				<xsd:element ref="Form" maxOccurs="unbounded"/>
+				<xsd:element ref="BlockAmendment" maxOccurs="unbounded"/>
+				<xsd:element ref="IncludedDocument"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	-->
+
+	<!-- Colins best interpretation -->
+	<xsd:element name="AppendixBody">
+		<xsd:annotation>
+			<xsd:documentation>Contains the main text of an appendix</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element ref="Group"/>
+					<xsd:element ref="Part"/>
+					<xsd:element ref="Chapter"/>
+					<xsd:group ref="EUStructure" maxOccurs="unbounded"/>
+					<xsd:element ref="Pblock"/>
+					<xsd:element ref="P1group"/>
+					<xsd:element ref="P1"/>
+					<xsd:element ref="P2group"/>
+					<xsd:element ref="P2"/>
+					<xsd:element ref="P"/>
+					<xsd:element ref="BlockAmendment"/>
+					<xsd:element ref="Tabular"/>
+					<xsd:element ref="Figure"/>
+					<xsd:element ref="Form"/>
+					<xsd:element ref="IncludedDocument"/>
+					<xsd:element ref="Include"/>
+					<xsd:group ref="err:Errors" />
+				</xsd:choice>
+				<xsd:element ref="SignedSection" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

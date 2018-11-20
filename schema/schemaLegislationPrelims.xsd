@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	id="SchemaLegislationPrelims"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Preliminary Legislation Matter Schema</dc:title>
+			<dc:description>Describes preliminary material for legislation</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationPrelims</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.9		Marc Sturman 		Added Sifted date
+			1.8		Jeni Tennison		Added ENprelims element
+			1.7		Paul Appleby		Added Correction element
+			1.6		Paul Appleby		Also allowed multiple laid draft dates and a mixture of laid draft and laid
+			1.5		Paul Appleby		Replaced EmphasisBasicStructure with InlineRestrictedStructure
+			1.4		Paul Appleby		Altered content model for SI/Act Title to match SGML DTD, not XML DTD which does not allow italic
+			1.3		Paul Appleby		LaidDate date made optional. Order of LaidDate and ComingIntoForce loosened to allow for NISR
+			1.2		Paul Appleby		SubjectInformation altered to allow multiple Subtitle elements
+			1.1		Paul Appleby		LaidDraft altered to match format for maid and laid dates
+			1.0		Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error"
+		schemaLocation="../schemaModules/errors.xsd"/>
+
+	<xsd:element name="ENprelims">
+		<xsd:annotation>
+			<xsd:documentation>Preliminary matter for explanatory notes</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title">
+					<xsd:annotation>
+						<xsd:documentation>Unlike the restricted versions in PrimaryPrelims and SecondaryPrelims, this allows any inline structure, particularly Citation elements.</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="Number" type="BasicStringStructure">
+					<xsd:annotation>
+						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="DateOfEnactment" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Optional within Explanatory Notes</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="PrimaryPrelims">
+		<xsd:annotation>
+			<xsd:documentation>Preliminary matter for primary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Title" type="InlineRestrictedStructure"/>
+				<xsd:element name="Number" type="BasicStringStructure">
+					<xsd:annotation>
+						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
+				<xsd:element ref="LongTitle"/>
+				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
+				<xsd:element ref="DateOfEnactment"/>
+				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
+				<xsd:element ref="PrimaryPreamble" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SecondaryPrelims">
+		<xsd:annotation>
+			<xsd:documentation>Preliminary matter for secondary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Correction" minOccurs="0"/>
+				<xsd:element ref="Draft" minOccurs="0"/>
+				<xsd:element name="Number" type="BasicStringStructure">
+					<xsd:annotation>
+						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="SubjectInformation"/>
+				<xsd:element name="Title" type="InlineRestrictedStructure"/>
+				<xsd:element ref="Approved" minOccurs="0"/>
+				<xsd:choice minOccurs="0">
+					<xsd:sequence>
+						<xsd:element ref="LaidDraft" maxOccurs="unbounded"/>
+						<xsd:element ref="SiftedDate" minOccurs="0"/>
+						<xsd:element ref="MadeDate"/>
+						<xsd:choice minOccurs="0">
+							<xsd:sequence>
+								<xsd:element ref="LaidDate" maxOccurs="unbounded"/>
+								<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+							</xsd:sequence>
+							<xsd:sequence>
+								<xsd:element ref="ComingIntoForce"/>
+								<xsd:element ref="LaidDate" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:choice>
+					</xsd:sequence>
+					<xsd:sequence>
+						<xsd:element ref="SiftedDate" minOccurs="0"/>
+						<xsd:element ref="MadeDate"/>
+						<xsd:choice minOccurs="0">
+							<xsd:sequence>
+								<xsd:element ref="LaidDate" maxOccurs="unbounded"/>
+								<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+							</xsd:sequence>
+							<xsd:sequence>
+								<xsd:element ref="ComingIntoForce"/>
+								<xsd:element ref="LaidDate" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:choice>
+					</xsd:sequence>
+				</xsd:choice>
+				<xsd:element ref="SecondaryPreamble" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="PrimaryPreamble">
+		<xsd:annotation>
+			<xsd:documentation>Preamble for primary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="IntroductoryText" minOccurs="0"/>
+				<xsd:choice>
+					<xsd:element ref="EnactingText"/>
+					<xsd:element ref="EnactingTextOmitted"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SecondaryPreamble">
+		<xsd:annotation>
+			<xsd:documentation>Preamble for secondary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="RoyalPresence"/>
+						<xsd:element ref="IntroductoryText" minOccurs="0"/>
+						<xsd:element ref="EnactingText"/>
+					</xsd:sequence>
+					<xsd:element ref="Resolution"/>
+					<xsd:sequence>
+						<xsd:element ref="IntroductoryText" minOccurs="0"/>
+						<xsd:element ref="EnactingText"/>
+					</xsd:sequence>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SubjectInformation">
+		<xsd:annotation>
+			<xsd:documentation>Details the subject matter of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:group ref="err:Errors" minOccurs="0" />
+				<xsd:element name="Subject">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element ref="Title" maxOccurs="unbounded"/>
+							<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded"/>
+						</xsd:sequence>
+						<xsd:attributeGroup ref="CommonAttributes"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="LongTitle" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>The long title for the Act</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="IntroductoryText">
+		<xsd:annotation>
+			<xsd:documentation>Preamble text that introduces the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="P" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="EnactingText">
+		<xsd:annotation>
+			<xsd:documentation>The words of enactment</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Para" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="EnactingTextOmitted">
+		<xsd:annotation>
+			<xsd:documentation>Allows for situations where enacting text is omitted (SPGA 1973 0025 as an example)</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Para" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Resolution">
+		<xsd:annotation>
+			<xsd:documentation>Details about the resolution of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Para" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DateOfEnactment">
+		<xsd:annotation>
+			<xsd:documentation>The date that the document becomes enacted</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DateText"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Approved" type="InlineRestrictedStructure">
+		<xsd:annotation>
+			<xsd:documentation>Text describing the fact that the document has been approved</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="LaidDraft">
+		<xsd:annotation>
+			<xsd:documentation>Details describing the fact that the document has been laid before Parliament in draft</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text"/>
+				<xsd:element ref="DateText" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SiftedDate">
+		<xsd:annotation>
+			<xsd:documentation>Text describing the fact that the document has been Sifted.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text"/>
+				<xsd:element ref="DateText"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="MadeDate">
+		<xsd:annotation>
+			<xsd:documentation>Details about the document being made</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text"/>
+				<xsd:element ref="DateText"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="LaidDate">
+		<xsd:annotation>
+			<xsd:documentation>Details about the document being laid before Parliament</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text"/>
+				<xsd:element ref="DateText" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DateText" type="InlineRestrictedStructure">
+		<xsd:annotation>
+			<xsd:documentation>Allows for text to be reproduced verbatim for dated material</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="ComingIntoForce">
+		<xsd:annotation>
+			<xsd:documentation>Indicates when the legislation comes into force. This may be broken down into more granular sections</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Text"/>
+				<xsd:choice>
+					<xsd:element ref="DateText"/>
+					<xsd:element name="ComingIntoForceClauses" minOccurs="0" maxOccurs="unbounded">
+						<xsd:annotation>
+							<xsd:documentation>Details about when individual clauses or sections of the document come into force</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element ref="Text"/>
+								<xsd:element ref="DateText"/>
+							</xsd:sequence>
+							<xsd:attributeGroup ref="CommonAttributes"/>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="RoyalPresence">
+		<xsd:annotation>
+			<xsd:documentation>Text describing the the presence of royalty</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:group ref="ParaBasic" maxOccurs="unbounded"/>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Correction" type="ParaBasicStructure">
+		<xsd:annotation>
+			<xsd:documentation>Contains details about the reprinting of a document</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="Draft" type="ParaBasicStructure">
+		<xsd:annotation>
+			<xsd:documentation>A note (usually above the banner heading) about the draft status of the document</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+</xsd:schema>

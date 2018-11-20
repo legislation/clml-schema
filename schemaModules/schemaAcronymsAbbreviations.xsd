@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	version="2.0" id="SchemaAcronymsAbbreviations">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Acronyms and Abbreviations Schema</dc:title>
+			<dc:description>Defines acronyms and abbreviations</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaAcronymsAbbreviations</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2006-09-01</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name					Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1			Put name here		Put modification text here
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:element name="Acronym">
+		<xsd:annotation>
+			<xsd:documentation>Defines an acronym and its expansion</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Character"/>
+				<xsd:group ref="EmphasisBasic"/>
+				<xsd:element ref="Addition"/>
+				<xsd:element ref="Repeal"/>
+				<xsd:element ref="Substitution" />			
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attribute name="Expansion" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Abbreviation">
+		<xsd:annotation>
+			<xsd:documentation>Defines an abbreviation and its expansion</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Character"/>
+				<xsd:group ref="EmphasisBasic"/>
+				<xsd:element ref="Addition"/>
+				<xsd:element ref="Repeal"/>
+				<xsd:element ref="Substitution" />					
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attribute name="Expansion" type="xsd:string"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Term">
+		<xsd:annotation>
+			<xsd:documentation>Indicates a term that's defined within the text.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:group ref="EmphasisBasicRestricted"/>
+				<xsd:group ref="InlineBasicRestricted"/>
+			</xsd:choice>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attribute name="id" type="xsd:NCName"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

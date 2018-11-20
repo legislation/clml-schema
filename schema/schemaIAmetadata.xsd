@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" 
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaENmetadata"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>IA Specific Metadata Schema</dc:title>
+			<dc:description>Describes IA metadata</dc:description>
+			<dc:contributor>Griff Chamberlain</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>schemaImpactAssessmentMetadata</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2012-08-06</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/metadata'
+			The suggested namespace prefix is ukm ([U]nited [K]ingdom legislation [M]etadata)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name						Modification
+			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			0.2			Marc Sturman			Added UnitedKingdomMinisterialDirection
+			0.1			Griff Chamberlain		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>
+	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
+	
+	<xsd:element name="Metadata">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element maxOccurs="unbounded" ref="dc:identifier"/>
+				<xsd:element ref="dc:title"/>
+				<xsd:element ref="dc:type"/>
+				<xsd:element ref="dc:format"/>
+				<xsd:element ref="dc:language"/>
+				<xsd:element ref="dc:publisher"/>
+				<xsd:element ref="dc:source"/>
+				<xsd:element ref="dc:modified"/>
+				<xsd:element ref="dct:valid"/>
+				<xsd:element ref="atom:link" maxOccurs="unbounded"/>
+				<xsd:element ref="ImpactAssessmentMetadata"/>
+				<xsd:element ref="Alternatives" minOccurs="0"/>
+				<xsd:element ref="AssociatedIAs" minOccurs="0"/>
+				<xsd:element ref="Legislation" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ImpactAssessmentMetadata">
+		<xsd:annotation>
+			<xsd:documentation>IA specific metadata</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DocumentClassification"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="Date"/>
+				<xsd:element ref="Stage" minOccurs="0"/>
+				<xsd:element ref="Department" minOccurs="0"/>
+				<xsd:element ref="Number" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+		
+	</xsd:element>
+	
+
+	<xsd:element name="AssociatedIAs">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for alternative IAa</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="AssociatedIA">
+						<xsd:annotation>
+							<xsd:documentation>Defines an assocaited IA to this Impact Assessment</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:attribute name="Class"/>
+							<xsd:attribute name="Number" type="xsd:string"/>
+							<xsd:attribute name="URI" type="xsd:anyURI"/>
+							<xsd:attribute name="Year" type="xsd:string"/>
+							<xsd:attribute name="Stage" type="xsd:string"/>
+							<xsd:attribute name="Department" type="xsd:string"/>
+						</xsd:complexType>
+					</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="Alternatives">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for alternative IAa</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Alternative">
+						<xsd:annotation>
+							<xsd:documentation>Defines an alternative IA on this Impact Assessment</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:attribute name="Date" type="xsd:date" use="required"/>
+							<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+							<xsd:attribute name="Title" type="xsd:string" use="optional"/>
+							<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
+							<xsd:attribute name="Language" type="xsd:string" use="optional"/>
+							<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
+						</xsd:complexType>
+					</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+
+	<xsd:element name="ISBN">
+		<xsd:annotation>
+			<xsd:documentation>The ISBN of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Stage">
+		<xsd:annotation>
+			<xsd:documentation>The Stage of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="DocumentStage">
+		<xsd:annotation>
+			<xsd:documentation>The Stage of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="Department">
+		<xsd:annotation>
+			<xsd:documentation>The Department of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>	
+	
+	<xsd:element name="Legislation">
+		<xsd:annotation>
+			<xsd:documentation>Affecting Legislation associated with the Impact Assessment</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DocumentClassification" minOccurs="0"/>
+				<xsd:element ref="Year" minOccurs="0"/>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:element ref="ISBN" minOccurs="0"/>
+				<xsd:element ref="AlternativeNumber" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="Class"/>
+			<xsd:attribute name="Number" type="xsd:string"/>
+			<xsd:attribute name="URI" type="xsd:anyURI"/>
+			<xsd:attribute name="Year" type="xsd:string"/>
+		</xsd:complexType>
+		
+	</xsd:element>
+	
+	
+
+	<xsd:element name="Date">
+		<xsd:annotation>
+			<xsd:documentation>Date of IA</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:date" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	
+	<xsd:element name="Year">
+		<xsd:annotation>
+			<xsd:documentation>The year as the IA</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Number">
+		<xsd:annotation>
+			<xsd:documentation>The main number of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AlternativeNumber">
+		<xsd:annotation>
+			<xsd:documentation>For certain legislation types subsidiary serial numbers apply. For early primary legislation regnal years are used to identify legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Category" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The applicable values at present are C, L, S, NI, W and Cy or Regnal when it holds a regnal year</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentClassification">
+		<xsd:complexType>
+			<xsd:all>
+				<xsd:element name="DocumentCategory" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary and secondary</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="primary"/>
+									<xsd:enumeration value="secondary"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:element ref="DocumentStage" minOccurs="0"/>
+				<xsd:element name="DocumentStatus" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Defines the status (or stage) of the document</xsd:documentation>
+						<xsd:documentation>For secondary legislation this will be draft or final</xsd:documentation>
+						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required" fixed="final"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="DocumentMinorType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Defines the subtype of the document. This currently only applies to secondary legislation</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="order"/>
+									<xsd:enumeration value="regulation"/>
+									<xsd:enumeration value="rule"/>
+									<xsd:enumeration value="scheme"/>
+									<xsd:enumeration value="resolution"/>
+									<xsd:enumeration value="unknown"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:all>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentMainType">
+		<xsd:annotation>
+			<xsd:documentation>Defines the type of the document. This covers all the possible varities of UK legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="leg:DocumentMainTypeBasic" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

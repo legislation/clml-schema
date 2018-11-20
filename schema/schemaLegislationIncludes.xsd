@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationIncludes">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Modules Includes Schema</dc:title>
+			<dc:description>Describes legislation includes</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>schemaLegislationIncludes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name					Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.3			Jim Mangiafico		Expanded to accommodate European Union legislation
+			1.2			Colin Mackenzie		Restructure to be usable by editorial and legislation
+			1.1			Paul Appleby		Added acronyms and abbreviations
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<!-- Legislation types -->
+	<xsd:include schemaLocation="schemaLegislationTypes.xsd"/>
+	<!-- Derived standard types -->
+	<xsd:include schemaLocation="../schemaModules/schemaDerivedTypes.xsd"/>
+	<!-- Standard attributes applicable to all elements -->
+	<xsd:include schemaLocation="schemaLegislationCommonAttributes.xsd"/>
+	<!-- Standard legislation attributes applicable to all elements -->
+	<xsd:include schemaLocation="schemaLegislationAttributes.xsd"/>
+	<!-- Legislation main elements for EU documents -->
+	<xsd:include schemaLocation="schemaLegislationMainEU.xsd"/>
+	<xsd:include schemaLocation="../schemaModules/schemaCommonElements.xsd"/>
+	<!-- High-level structure constructs -->
+	<xsd:include schemaLocation="schemaLegislationStructure.xsd"/>
+	<!-- High-level structure for EU documents -->
+	<xsd:include schemaLocation="schemaLegislationStructureEU.xsd"/>
+	<!-- Medium level structure constructs -->
+	<xsd:include schemaLocation="schemaLegislationNumberedSections.xsd"/>
+	<!-- Standard inline elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaBasicInline.xsd"/>
+	<!-- Legislation semantic elements -->
+	<xsd:include schemaLocation="schemaLegislationSemantics.xsd"/>
+	<!-- Standard text emphasis elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaEmphasis.xsd"/>
+	<!-- Changes milestones -->
+	<xsd:include schemaLocation="../schemaModules/schemaChanges.xsd"/>
+	<!-- Acronyms and abbreviations -->
+	<xsd:include schemaLocation="../schemaModules/schemaAcronymsAbbreviations.xsd"/>
+	<!-- Formatting -->
+	<xsd:include schemaLocation="../schemaModules/schemaFormatting.xsd"/>
+	<!-- Commentary -->
+	<xsd:include schemaLocation="../schemaModules/schemaCommentary.xsd"/>
+	<!-- Footnote elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaFootnote.xsd"/>
+	<!-- Marginnote elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaMarginnote.xsd"/>
+	<!-- Links -->
+	<xsd:include schemaLocation="../schemaModules/schemaLinks.xsd"/>
+	<!-- Table of Contents elements -->
+	<xsd:include schemaLocation="schemaLegislationContents.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationContentsEU.xsd"/>
+	<!-- List elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaLists.xsd"/>
+	<!-- Formula elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaFormula.xsd"/>
+	<!-- Figure elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaFigure.xsd"/>
+	<!-- Table container elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaTabular.xsd"/>
+	<!-- Version elements -->
+	<xsd:include schemaLocation="../schemaModules/schemaVersion.xsd"/>
+	<!-- Included Documents -->
+	<xsd:include schemaLocation="../schemaModules/schemaIncludedDocument.xsd"/>
+	<!-- Resources -->
+	<xsd:include schemaLocation="../schemaModules/schemaResources.xsd"/>
+	<!-- Amendments -->
+	<xsd:include schemaLocation="schemaLegislationAmendments.xsd"/>
+	<!-- Block extracts -->
+	<xsd:include schemaLocation="../schemaModules/schemaExtract.xsd"/>
+	<!-- Forms -->
+	<xsd:include schemaLocation="schemaLegislationForm.xsd"/>
+	<!-- Citations -->
+	<xsd:include schemaLocation="../schemaModules/schemaCitations.xsd"/>
+	<!-- Legislation Box Group -->
+	<xsd:include schemaLocation="schemaLegislationBoxGroup.xsd"/>
+	<!-- Preliminary matter -->
+	<xsd:include schemaLocation="schemaLegislationPrelims.xsd"/>
+	<!-- Preliminary matter for EU documents -->
+	<xsd:include schemaLocation="schemaLegislationPrelimsEU.xsd"/>
+	<!-- Signatory -->
+	<xsd:include schemaLocation="schemaLegislationSignature.xsd"/>
+	<!-- Tables -->
+	<xsd:include schemaLocation="../schemaModules/schemaTableTypes.xsd"/>
+	<!-- Struck through text -->
+	<xsd:include schemaLocation="../schemaModules/schemaStrike.xsd"/>
+	<xsd:include schemaLocation="../schemaModules/schemaNote.xsd"/>
+	
+	<!--<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>-->
+	
+	<!-- Fragment specific Metadata.xsd -->
+	<!--<xsd:import namespace="http://www.legislation.gov.uk/namespaces/metadata" schemaLocation="schemaLegislationMetadata.xsd"/>-->
+</xsd:schema>

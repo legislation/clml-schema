@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.tso.co.uk/assets/namespace/error"
+	xmlns="http://www.tso.co.uk/assets/namespace/error"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error" elementFormDefault="qualified"
+	version="2.0" id="SchemaErrors">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Errors Schema</dc:title>
+			<dc:description>Describes elements used for indicating possible errors in the content</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaChanges</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2009-07-08</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+				Modification information
+				Version	Name					Modification
+				2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+				1.0		Jeni Tennison			Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:attributeGroup name="ErrorAttributes">
+		<xsd:attribute form="qualified" name="Date" type="xsd:date"/>
+		<xsd:attribute form="qualified" name="Time" type="xsd:time"/>
+	</xsd:attributeGroup>
+
+	<xsd:element name="FatalError" type="ErrorType">
+		<xsd:annotation>
+			<xsd:documentation>Serious error messages generated automatically on the generation of the XML (that will require manual investigation).</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="Error" type="ErrorType">
+		<xsd:annotation>
+			<xsd:documentation>Error messages generated automatically on the generation of the XML (that will require manual investigation).</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:element name="Warning" type="ErrorType">
+		<xsd:annotation>
+			<xsd:documentation>Warnings generated automatically on the generation of the XML, usually irrelevant issues.</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+
+	<xsd:complexType name="ErrorType">
+		<xsd:simpleContent>
+			<xsd:extension base="xsd:string">
+				<xsd:attribute name="FragmentId" type="xsd:NMTOKEN" use="required"/>
+				<xsd:attribute name="XPath" type="xsd:string" use="required"/>
+			</xsd:extension>
+		</xsd:simpleContent>
+	</xsd:complexType>
+	<xsd:group name="Errors">
+		<xsd:annotation>
+			<xsd:documentation>Error messages that may appear within the legislation XML.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Error"/>
+			<xsd:element ref="Warning"/>
+		</xsd:choice>
+	</xsd:group>
+</xsd:schema>

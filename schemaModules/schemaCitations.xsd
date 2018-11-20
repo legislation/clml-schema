@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaCitations">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Citations Schema</dc:title>
+			<dc:description>Defines citations</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaCitations</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name			Modification
+			2.0		Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
+			1.5		Jim Mangiafico	Added citation class for EU Official Journal
+			1.4		Colin Mackenzie	Removed definition of attribute group for citation id so it can be simpler for XMetaL but tighter for real validation
+			1.3		William Holmes	Added additional Alternative Numbers (Welsh, Scottish, Northern Irish, and Commencement)
+			1.2		Paul Appleby	Changed citation classes to OPSI format
+			1.1		Paul Appleby	Hard-wired the allowble values for Citation Class attribute
+			1.0		Paul Appleby	Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:include schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	
+	<xsd:element name="CitationLists">
+		<xsd:annotation>
+			<xsd:documentation>A list of citation lists.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element ref="CitationList"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="CitationList">
+		<xsd:annotation>
+			<xsd:documentation>Defines a list of citations to other legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element ref="Citation"/>
+			</xsd:sequence>
+			<xsd:attribute name="id">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="l[0-9]+"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Citation">
+		<xsd:annotation>
+			<xsd:documentation>Describes a cross-reference to another piece of legislation</xsd:documentation>
+			<xsd:documentation>For local secondary cross-references there may not be enough information to indicate that the target is local. In these cases the non-local version is to be synonymous.</xsd:documentation>
+			<xsd:documentation>If the Number is missing, there must be a Date. This should only happen for Church Instruments.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:group ref="InlineLegislationCitation" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="optional"/>
+			<xsd:attribute name="Class" type="DocumentMainType" use="required"/>
+			<xsd:attribute name="Locator" type="xsd:string"/>
+			<xsd:attribute name="DOI" type="xsd:string"/>
+			<xsd:attribute name="Year" type="xsd:gYear" use="required"/>
+			<xsd:attribute name="Number" type="xsd:nonNegativeInteger"/>
+			<xsd:attribute name="Date" type="xsd:date"/>
+			<xsd:attribute name="Title" type="xsd:string"/>
+			<xsd:attribute name="SectionRef" type="xsd:NCName"/>
+			<xsd:attribute name="StartSectionRef" type="xsd:NCName"/>
+			<xsd:attribute name="EndSectionRef" type="xsd:NCName"/>
+			<xsd:attribute name="AlternativeNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="WelshNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="ScottishNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="NorthernIrishNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="CommencementNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="LegalNumber" type="xsd:string" use="optional"/>
+			<xsd:attribute name="CommentaryRef" type="xsd:NCName"/>
+			<xsd:attribute name="StartDate" type="xsd:date"/>
+			<xsd:attribute name="EndDate" type="xsd:date"/>
+			<xsd:attribute default="false" name="Prospective" type="xsd:boolean" use="optional"/>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CitationElementIDAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- see PT #156462431 we no longer need different definitions as the old legislation validation did not match data -->
+	<xsd:attributeGroup name="CitationElementIDAttributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format c00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<!--
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="c[0-9a-z-]{5,20}"/>
+				</xsd:restriction>-->
+				<xsd:restriction base="xsd:NCName"/>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	
+	<xsd:element name="CitationSubRef">
+		<xsd:annotation>
+			<xsd:documentation>Describes a text fragment of a citation referring to a specific part of the cited document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:group ref="InlineLegislationCitation" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:attribute name="Type" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>This represents the type of content, e.g. a pointer as to the text format, e.g. group would be 'subsections (5) and (6)'</xsd:documentation>
+					<xsd:documentation>Its purpose is to give a processor some clue as to how to process the content</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="standard"/>
+						<xsd:enumeration value="group"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<!-- Note that ideally this type should be xsd:IDREFS but due to a bug in MSXML4 need to use xsd:string for now -->
+			<xsd:attribute name="CitationRef" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>This points to either a parent citation or a parent citationSubRef; if it's missing, it refers to a section within this item of legislation.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="SectionRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>Provides the id of the section of legislation that the citation refers to. If this attribute is not present, the StartSectionRef and EndSectionRef attributes must be present.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="StartSectionRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>Where the citation refers to a range of sections, this provides the id of the first section to which the citation refers. If this attribute is present, the EndSectionRef attribute must also be present and the SectionRef attribute must not be present; if it's not present, the SectionRef attribute must be present.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="EndSectionRef" type="xsd:NCName"/>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The URI is derivable from the Class, Year and Number of the referenced Citation in combination with the SectionRef or StartSectionRef and is provided as a convenience.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="UpTo" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>The UpTo URI is derivable from the Class, Year and Number of the referenced Citation, plus the EndSectionRef attribute, and is provided as a convenience.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute default="false" name="Operative" type="xsd:boolean">
+				<xsd:annotation>
+					<xsd:documentation>When true on a citation within a commentary, this refers to the operative section: the one that actually contains the change to the legislation as opposed to supporting material that might describe its extent or the date at which it comes into force.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="CitationElementIDAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="CitationListRef">
+		<xsd:annotation>
+			<xsd:documentation>Links to a list of possible citations to other legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType mixed="true">
+			<xsd:choice maxOccurs="unbounded" minOccurs="0">
+				<xsd:group ref="InlineLegislationCitation"/>
+			</xsd:choice>
+			<xsd:attribute name="Ref" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:IDREF">
+						<xsd:pattern value="l[0-9]+"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

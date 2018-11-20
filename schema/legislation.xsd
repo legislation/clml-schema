@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaLegislation"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Top Level Schema</dc:title>
+			<dc:description>Describes primary and secondary UK legislation</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislation</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/legislation'
+			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name							Modification
+			2.0			Colin Mackenzie				Numbering restarted at 2 for new EU and merged schema
+			2.0			Colin Mackenzie				This schema has had most of its contents moved to schemaLegislationCore.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
+			1.0			Paul Appleby/Peter Lazar	Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<!-- Legislation includes -->
+	<xsd:include schemaLocation="schemaLegislationCore.xsd"/>
+	
+	<!-- See #113007733 and #162038035
+		For all schema except publication schema schemaLegisaltionBase-v1-0.xsd
+		we define the allowed extra list of deprecated types to be "none"
+		so it validates against current not deprecated list-->
+	<xsd:simpleType name="DocumentMainType">
+		<xsd:restriction base="DocumentMainTypeBasic"/>
+	</xsd:simpleType>
+</xsd:schema>

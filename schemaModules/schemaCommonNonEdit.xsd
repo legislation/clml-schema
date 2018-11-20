@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaCommonNonEdit">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Common Non Edit Types Schema </dc:title>
+			<dc:description>Defines common types that can be used across all legislation and associated documents except when editing (local definitions then exist in fragments.xsd)</dc:description>
+			<dc:contributor>Colin Mackenzie</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaCommonNonEdit</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-05</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.0			Colin Mackenzie		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>
+	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
+	
+	<xsd:group name="StandardMetadata">
+		<xsd:sequence>
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="dc:title"/>
+				<xsd:element ref="dc:creator"/>
+				<xsd:element ref="dc:subject"/>
+				<xsd:element ref="dc:description"/>
+				<xsd:element ref="dc:publisher"/>
+				<xsd:element ref="dc:contributor"/>
+				<xsd:element ref="dc:date"/>
+				<xsd:element ref="dc:type"/>
+				<xsd:element ref="dc:format"/>
+				<xsd:element ref="dc:identifier"/>
+				<xsd:element ref="dc:source"/>
+				<xsd:element ref="dc:language"/>
+				<xsd:element ref="dc:relation"/>
+				<xsd:element ref="dc:coverage"/>
+				<xsd:element ref="dc:rights"/>
+				<xsd:element ref="dc:modified"/>
+				<xsd:element ref="atom:link"/>
+			</xsd:choice>
+		</xsd:sequence>
+	</xsd:group>
+	<!-- see PT #156462431 we no longer need different definitions as the old legislation validation did not match data
+	<xsd:attributeGroup name="CitationElementIDAttributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format c00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:ID">
+					<xsd:pattern value="c[0-9a-z-]{5,20}"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup>
+	-->
+	
+	<!-- No extra metadata after primary/secondary in normal mode but source is allowed in edit mode -->
+	<xsd:group name="ExtraMetadata">
+		<xsd:sequence/>
+	</xsd:group>
+	
+	<xsd:simpleType name="RefsLinkType">
+		<xsd:annotation>
+			<xsd:documentation>When editing some of the IDs to which this refers MUST not be available so use type IDREFS</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKENS"/>
+	</xsd:simpleType>
+</xsd:schema>

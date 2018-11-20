@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaVersion">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Versions Schema</dc:title>
+			<dc:description>Describes alternate versions of material</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaVersion</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.2		Paul Appleby		Added RestrictExtent attribute and removed text default from Class attribute
+			1.1		Paul Appleby		Added Class, Language and RestrictOutput attributes to Version element
+			1.0		Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:element name="Versions">
+		<xsd:annotation>
+			<xsd:documentation>This is the top level wrapper for different versions of elements</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Version" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Version">
+		<xsd:annotation>
+			<xsd:documentation>Describes a version - a general container for block level elements</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:any processContents="lax" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="Description" type="xsd:string"/>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attribute name="id">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format v00000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="v[0-9]{5}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Class">
+				<xsd:annotation>
+					<xsd:documentation>This attribute along with the Langauge attribute can be used to group together versions, e.g. audio and German would be a German talking version</xsd:documentation>
+					<xsd:documentation>The implied value would be 'text'</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="text"/>
+						<xsd:enumeration value="audio"/>
+						<xsd:enumeration value="braille"/>
+						<xsd:enumeration value="graphic"/>
+						<xsd:enumeration value="video"/>
+						<xsd:enumeration value="other"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Language">
+				<xsd:annotation>
+					<xsd:documentation>Defines the language in which the alternate version is created. The implied value will be the language of the main document</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="Arabic"/>
+						<xsd:enumeration value="Bengali"/>
+						<xsd:enumeration value="Chinese"/>
+						<xsd:enumeration value="Danish"/>
+						<xsd:enumeration value="Dutch"/>
+						<xsd:enumeration value="English"/>
+						<xsd:enumeration value="Finnish"/>
+						<xsd:enumeration value="French"/>
+						<xsd:enumeration value="Gaelic"/>
+						<xsd:enumeration value="German"/>
+						<xsd:enumeration value="Greek"/>
+						<xsd:enumeration value="Hindi"/>
+						<xsd:enumeration value="Hungarian"/>
+						<xsd:enumeration value="Icelandic"/>
+						<xsd:enumeration value="Italian"/>
+						<xsd:enumeration value="Latin"/>
+						<xsd:enumeration value="Latvian"/>
+						<xsd:enumeration value="Lithuanian"/>
+						<xsd:enumeration value="Norwegian"/>
+						<xsd:enumeration value="Polish"/>
+						<xsd:enumeration value="Russian"/>
+						<xsd:enumeration value="Slovenian"/>
+						<xsd:enumeration value="Spanish"/>
+						<xsd:enumeration value="Urdu"/>
+						<xsd:enumeration value="Welsh"/>
+						<xsd:enumeration value="notApplicable"/>
+						<xsd:enumeration value="other"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="RestrictOutput" type="xsd:boolean" default="false">
+				<xsd:annotation>
+					<xsd:documentation>Defines whether the version should not be output by default</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Include">
+		<xsd:annotation>
+			<xsd:documentation>Includes another fragment at this location.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="FragmentRef" type="xsd:NMTOKEN"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

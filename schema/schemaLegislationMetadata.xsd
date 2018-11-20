@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationMetadata">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Specific Metadata Schema</dc:title>
+			<dc:description>Describes legislation metadata</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>schemaLegislationMetadata</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2017-08-25</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/metadata'
+			The suggested namespace prefix is ukm ([U]nited [K]ingdom legislation [M]etadata)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.0		W Holmes			Changes to Section and Sectionrange element 
+			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
+			2.0		W Holmes			Changes to UnappliedEffect element 
+			2.0		Jim Mangiafico		Expanded to accommodate European Union legislation
+			2.0		Colin Mackenzie		Unified model between editorial and legislation live
+			2.4		Marc Sturman		Added Sifted date
+			2.3		Marc Sturman		Added UnitedKingdomMinisterialDirection
+			2.2		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group 
+			2.1		W Holmes			Declared element "AlternativeNumber" as child of "Supersedes"
+			2.0		strutj01			changed Copyright TSO to Crown Copyright at Carey's request			
+			1.6		Paul Appleby		Changed nomenclature to agreed OPSI format. Added wales to laid list
+			1.5		Paul Appleby		Added local Statutory Rules as possible document type
+			1.4		Paul Appleby		Substituted qualified Dublic Core for the existing simple DC
+			1.3		Paul Appleby		Added AlternativeNumber into primary metadata as a fix - should not have been omitted
+			1.2		Paul Appleby		Added ireland to enumerate list of laid classes
+			1.1		Paul Appleby		Altered Metadata content model to directly reference dc element. Word 2003 was claiming non-determinism - I think due to the way the dc module is coded.
+			1.0		Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:include schemaLocation="schemaLegislationMetadataEU.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation"
+		schemaLocation="legislation.xsd"/>
+	<xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="../schemaModules/namespace.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/error" schemaLocation="../schemaModules/ukGovErrors.xsd"/>
+	
+	<xsd:element name="Metadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata section for document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:group ref="leg:StandardMetadata"/>
+				<xsd:group ref="TSOmetadata"/>
+				<xsd:group ref="leg:ExtraMetadata"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:group name="TSOmetadata">
+		<xsd:annotation>
+			<xsd:documentation>Legislation specific metadata</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:choice>
+				<xsd:element ref="PrimaryMetadata"/>
+				<xsd:element ref="SecondaryMetadata"/>
+				<xsd:element ref="EUMetadata"/>
+			</xsd:choice>
+			<xsd:element ref="SupersededBy" minOccurs="0"/>
+			<xsd:element ref="Supersedes" minOccurs="0"/>
+			<xsd:element ref="ConfersPower" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="BlanketAmendment" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:group ref="Alter" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="Statistics" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:group>
+
+	<xsd:element name="ConfersPower">
+		<xsd:complexType>
+			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="title" type="xsd:string" use="optional"/>
+
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="BlanketAmendment">
+		<xsd:complexType>
+			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="title" type="xsd:string" use="optional"/>
+		</xsd:complexType>
+	</xsd:element>
+
+
+	<xsd:element name="SupersededBy">
+		<xsd:annotation>
+			<xsd:documentation>Defines the legislation that has superseded this legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="dc:title"/>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:element ref="Year"/>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="ISBN" minOccurs="0"/>
+						<xsd:element ref="AlternativeNumber" minOccurs="0" maxOccurs="unbounded"/>
+					</xsd:sequence>
+					<xsd:element ref="ISBN"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Supersedes">
+		<xsd:annotation>
+			<xsd:documentation>Defines the legislation that this legislation has superceded.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="dc:title"/>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="ISBN"/>
+				<xsd:element ref="AlternativeNumber" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Statistics">
+		<xsd:annotation>
+			<xsd:documentation>Statistical Metadata legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="TotalParagraphs" minOccurs="0"/>
+				<xsd:element ref="BodyParagraphs" minOccurs="0"/>
+				<xsd:element ref="ScheduleParagraphs" minOccurs="0"/>
+				<xsd:element ref="AttachmentParagraphs" minOccurs="0"/>
+				<xsd:element ref="TotalImages" minOccurs="0"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="PrimaryMetadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for primary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:all>
+				<xsd:element ref="DocumentClassification"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="Number"/>
+
+				<xsd:element ref="ISBN" minOccurs="0"/>
+				<xsd:element ref="AlternativeNumber" minOccurs="0"/>
+				<xsd:element ref="EnactmentDate" minOccurs="0"/>
+				<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+				<xsd:element ref="UnappliedEffects" minOccurs="0"/>
+				<xsd:element ref="Citations" minOccurs="0"/>
+			</xsd:all>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SecondaryMetadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for secondary legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DocumentClassification"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element ref="ISBN" minOccurs="0"/>
+					<xsd:element ref="AlternativeNumber" minOccurs="0" maxOccurs="unbounded"/>
+					<xsd:element ref="DepartmentCode" minOccurs="0"/>
+					<xsd:element ref="Sifted" minOccurs="0"/>
+					<xsd:element ref="Made" minOccurs="0"/>
+					<xsd:element ref="Laid" minOccurs="0" maxOccurs="unbounded"/>
+					<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+					<xsd:choice>
+						<xsd:element ref="Resolution" minOccurs="0"/>
+						<xsd:element ref="RoyalPresence" minOccurs="0"/>
+					</xsd:choice>
+					<xsd:element ref="UnappliedEffects" minOccurs="0"/>
+					<xsd:element ref="Citations" minOccurs="0"/>
+					<!-- #161958070 supported element -
+					No examples found with text or element content
+					-->
+					<xsd:element name="Correction" minOccurs="0">
+						<xsd:complexType>
+							<xsd:attribute name="Type">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:enumeration value="corrects"/>
+										<xsd:enumeration value="correctedBy"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:attribute>
+							<!-- Class Often empty string or
+								UnitedKingdomStatutoryInstrument
+								NorthernIrelandStatutoryRule
+								ScottishStatutoryInstrument
+								WelshStatutoryInstrument
+							-->
+							<xsd:attribute name="Class" type="xsd:string" use="optional"/>
+							<!-- Year 4 digit Year or empty string -->
+							<xsd:attribute name="Year" type="xsd:string" use="optional"/>
+							<!-- Number 4 digit Number or empty string -->
+							<xsd:attribute name="Number" type="xsd:string" use="optional"/>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:group name="Alter">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for alternatives legislation or ENs</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<xsd:element ref="Notes"/>
+			<xsd:element ref="Alternatives"/>
+			<xsd:element ref="CorrectionSlips"/>
+			<xsd:element ref="CodesOfPractice"/>
+			<xsd:element ref="CodesOfConduct"/>
+			<xsd:element ref="TablesOfOrigins"/>
+			<xsd:element ref="TablesOfDestinations"/>
+			<xsd:element ref="OrdersInCouncil"/>
+			<xsd:element ref="ImpactAssessments" />
+			<xsd:element ref="OtherDocuments"/>
+			<xsd:element ref="TranspositionNotes"/>
+			<xsd:element ref="UKRPCOpinions"/>
+		</xsd:choice>
+	</xsd:group>
+
+	<xsd:element name="Notes">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for ENs and EMs for this legislation item</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice minOccurs="1" maxOccurs="unbounded">
+				<xsd:element ref="Note"/>
+				<xsd:element ref="Alternatives"/>
+				<xsd:element ref="CorrectionSlips"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Note">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for ENs and EMs for this legislation item</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attributeGroup ref="leg:OptionalURIs"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Alternatives">
+		<xsd:annotation>
+			<xsd:documentation>Group of alternative formats for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Alternative" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CorrectionSlips">
+		<xsd:annotation>
+			<xsd:documentation>Group of correction slips on this legislation or note</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="CorrectionSlip" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="CodesOfPractice">
+		<xsd:annotation>
+			<xsd:documentation>Group of codes of practice for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="CodeOfPractice" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="CodesOfConduct">
+		<xsd:annotation>
+			<xsd:documentation>Group of codes of conduct for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="CodeOfConduct" maxOccurs="unbounded" type="AlterType"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="TablesOfOrigins">
+		<xsd:annotation>
+			<xsd:documentation>Group of tables of origins for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="TableOfOrigins" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="TablesOfDestinations">
+		<xsd:annotation>
+			<xsd:documentation>Group of tables of destinations for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="TableOfDestinations" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="OrdersInCouncil">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for Orders In Council</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="OrderInCouncil" maxOccurs="unbounded" type="AlterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ImpactAssessments">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for Impact Assessments</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="ImpactAssessment" maxOccurs="unbounded" type="IAalterType" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name="AlterType">
+		<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+		<xsd:attribute name="Title" type="xsd:string" use="optional"/>
+		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Language" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
+		<!-- This always seems to be a date
+		<xsd:attribute name="Revised" type="xsd:string" use="optional"/>
+		-->
+		<xsd:attribute name="Revised" type="xsd:date" use="optional"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="IAalterType">
+		<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+		<xsd:attribute name="Title" type="xsd:string" use="optional"/>
+		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Stage" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Department" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Year" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Number" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Language" type="xsd:string" use="optional"/>
+		<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
+	</xsd:complexType>
+
+	<xsd:element name="EnactmentDate">
+		<xsd:annotation>
+			<xsd:documentation>Date of enactment</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Sifted">
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+			<xsd:attribute name="Time" type="xsd:time"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Made">
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+			<xsd:attribute name="Time" type="xsd:time"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Laid">
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+			<xsd:attribute name="Time" type="xsd:time"/>
+			<xsd:attribute name="Class" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="NorthernIrelandAssembly"/>
+						<xsd:enumeration value="ScottishParliament"/>
+						<xsd:enumeration value="UnitedKingdomParliament"/>
+						<xsd:enumeration value="WelshAssembly"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ComingIntoForce">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element name="DateTime">
+					<xsd:complexType>
+						<xsd:attribute name="Date" type="xsd:date" use="required"/>
+						<xsd:attribute name="Time" type="xsd:time"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+
+	<xsd:element name="TotalParagraphs">
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="BodyParagraphs">
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ScheduleParagraphs">
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AttachmentParagraphs">
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="TotalImages">
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="RoyalPresence">
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Resolution">
+		<xsd:complexType>
+			<xsd:attribute name="Date" type="xsd:date" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DepartmentCode">
+		<xsd:annotation>
+			<xsd:documentation>Certains document types may have a department code where the document was originated from a Government department</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Year">
+		<xsd:annotation>
+			<xsd:documentation>The year as the legislation applies</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Number">
+		<xsd:annotation>
+			<xsd:documentation>The main number of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ISBN">
+		<xsd:annotation>
+			<xsd:documentation>The ISBN of the document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AlternativeNumber">
+		<xsd:annotation>
+			<xsd:documentation>For certain legislation types subsidiary serial numbers apply. For early primary legislation regnal years are used to identify legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Category" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The applicable values at present are C, L, S, NI, W and Cy or Regnal when it holds a regnal year</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentClassification">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="DocumentCategory">
+					<xsd:annotation>
+						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary and secondary</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="primary"/>
+									<xsd:enumeration value="secondary"/>
+									<xsd:enumeration value="euretained"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:element name="DocumentStatus">
+					<xsd:annotation>
+						<xsd:documentation>Defines the status (or stage) of the document</xsd:documentation>
+						<xsd:documentation>For secondary legislation this will be draft or final</xsd:documentation>
+						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="draft"/>
+									<xsd:enumeration value="final"/>
+									<xsd:enumeration value="revised"/>
+									<xsd:enumeration value="proposed"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="DocumentMinorType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Defines the subtype of the document. This currently only applies to secondary legislation</xsd:documentation>
+					</xsd:annotation>
+					<xsd:complexType>
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="order"/>
+									<xsd:enumeration value="regulation"/>
+									<xsd:enumeration value="rule"/>
+									<xsd:enumeration value="scheme"/>
+									<xsd:enumeration value="resolution"/>
+									<xsd:enumeration value="unknown"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="DocumentMainType">
+		<xsd:annotation>
+			<xsd:documentation>Defines the type of the document. This covers all the possible varities of UK legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Value" type="leg:DocumentMainType" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="UnappliedEffects">
+		<xsd:annotation>
+			<xsd:documentation>Lists any effects from other legislation that has not yet been applied to the content of this legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element ref="UnappliedEffect"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="UnappliedEffect">
+		<xsd:annotation>
+			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<!-- Original more strict order did not match data
+				<xsd:sequence>
+				<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="AffectedTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element name="AffectingTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element ref="InForceDates" minOccurs="0"/>
+			</xsd:sequence>-->
+			<!-- #113004935 -->
+			<xsd:choice minOccurs="1" maxOccurs="unbounded">
+				<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element ref="AffectedTitle" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="AffectingTitle" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element ref="InForceDates" minOccurs="0"/>
+			</xsd:choice>
+			<xsd:attribute name="Type" type="xsd:token" use="required"/>
+			<xsd:attribute name="TypeNotes" type="xsd:string"/>
+			<xsd:attribute name="Notes" type="xsd:string"/>
+			<xsd:attribute name="Comments" type="xsd:string"/>
+			<xsd:attribute name="AffectingURI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>A link to the legislation (and the section within it) that affects this one. Or (if AffectingUpTo is also present), a link to the first section affecting this one.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
+			<xsd:attribute name="AffectingYear" type="xsd:gYear"/>
+			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger"/>
+			<xsd:attribute name="AffectingProvisions" type="xsd:string"/>
+			<xsd:attribute name="AffectedURI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>A link to the section in this legislation that has been affected. Or (if the AffectedUpTo attribute is also present), a link to the first of the affected sections.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType"/>
+			<xsd:attribute name="AffectedYear" type="xsd:gYear"/>
+			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger"/>
+			<xsd:attribute name="AffectedProvisions" type="xsd:string"/>
+			<xsd:attribute name="Index" type="xsd:integer"/>
+			<xsd:attribute name="Row" type="xsd:integer"/>
+			<xsd:attribute name="Modified" type="xsd:dateTime"/>
+			<xsd:attribute name="AppliedModified" type="xsd:dateTime"/>
+			<xsd:attribute name="URI" type="xsd:anyURI"/>
+			<xsd:attribute name="Created" type="xsd:dateTime"/>
+			<xsd:attribute name="EffectId" type="xsd:string"/>
+			<xsd:attribute name="RequiresApplied" type="xsd:boolean"/>
+			<!-- changed from ExtentType as data also contins "Same as affected" -->
+			<xsd:attribute name="AffectedEffectsExtent" type="leg:AffectingExtentType"/>
+			<xsd:attribute name="AffectedExtent" type="leg:ExtentType"/>
+			<xsd:attribute name="AffectedExtentSections" type="xsd:string"/>
+			<xsd:attribute name="AffectedTerritorialApplication" type="leg:ExtentType"/>
+			<xsd:attribute name="AffectingCommencementSections" type="xsd:anyURI"/>
+			<xsd:attribute name="AffectingEffectsExtent" type="leg:AffectingExtentType"/>
+			<xsd:attribute name="AffectingExtent" type="leg:ExtentType"/>
+			<xsd:attribute name="AffectingExtentSections" type="xsd:string"/>
+			<xsd:attribute name="AffectingRoyalAssent" type="xsd:date"/>
+			<xsd:attribute name="AffectingTerritorialApplication" type="leg:ExtentType"/>
+			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
+			<xsd:attribute name="NewRandomSeq" type="xsd:integer"/>
+			<xsd:attributeGroup ref="errl:missingUnappliedEffect"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name="ProvisionsStructure" mixed="true">
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:element ref="Section"/>
+			<xsd:element ref="SectionRange"/>
+			<xsd:element name="Citation">
+				<xsd:complexType mixed="true">
+					<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+					<xsd:attribute name="Class" type="leg:DocumentMainType"/>
+					<xsd:attribute name="Year" type="xsd:gYear"/>
+					<xsd:attribute name="Number" type="xsd:integer"/>
+					<xsd:attribute name="Title" type="xsd:string"/>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:choice>
+	</xsd:complexType>
+
+	<xsd:element name="Section">
+		<xsd:complexType mixed="true">
+			<xsd:attribute name="Ref" type="xsd:NMTOKEN" use="required"/>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="FoundRef" type="xsd:NMTOKEN"/>
+			<xsd:attribute name="Missing" type="xsd:boolean"/>
+			<!-- added #153283251 -->
+			<xsd:attribute name="Extent" type="leg:ExtentType"/>
+			<xsd:attribute name="ExtentStatus" type="xsd:string"/>
+			<xsd:attribute name="StartDate" type="xsd:string"/>
+			<xsd:attribute name="StartDateStatus" type="xsd:string"/>
+			
+			<xsd:attributeGroup ref="errl:missingSection"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="SectionRange">
+		<xsd:complexType mixed="true">
+			<xsd:sequence>
+				<xsd:element ref="Section" minOccurs="2" maxOccurs="2"/>
+			</xsd:sequence>
+			<xsd:attribute name="Start" type="xsd:NMTOKEN" use="required"/>
+			<xsd:attribute name="End" type="xsd:NMTOKEN" use="required"/>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="UpTo" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="FoundStart" type="xsd:NMTOKEN"/>
+			<xsd:attribute name="FoundEnd" type="xsd:NMTOKEN"/>
+			<xsd:attribute name="MissingStart" type="xsd:boolean"/>
+			<xsd:attribute name="MissingEnd" type="xsd:boolean"/>
+			<xsd:attribute name="Missing" type="xsd:boolean"/>
+			<xsd:attributeGroup ref="errl:missingSectionRange"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Citations">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Citation" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Citation">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Commentary" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
+			<xsd:attribute name="Title" use="required"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Commentary">
+		<xsd:complexType>
+			<xsd:group ref="leg:ParaRestricted" maxOccurs="unbounded"/>
+			<xsd:attribute name="Ref" use="required">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format c000000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:NCName">
+						<xsd:pattern value="c[0-9]{5,7}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Type" type="leg:CommentaryType" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Indicates the role of the commentary.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+	
+	
+	<xsd:element name="AffectingTitle">
+		<xsd:complexType mixed="true">
+			<xsd:attribute ref="xml:lang"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="AffectedTitle">
+		<xsd:complexType mixed="true">
+			<xsd:attribute ref="xml:lang"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="InForceDates">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="InForce" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="InForce">
+		<xsd:complexType>
+			<xsd:sequence minOccurs="0">
+				<xsd:element name="CommencingProvisions"
+					type="ProvisionsStructure" minOccurs="0" maxOccurs="1"/>
+				<xsd:element name="CommencingSavings" type="ProvisionsStructure"
+					minOccurs="0" maxOccurs="1"/>
+			</xsd:sequence>
+			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
+			<xsd:attribute name="Applied" type="xsd:boolean"/>
+			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
+			<xsd:attribute name="CommencingClass" type="leg:DocumentMainType"/>
+			<xsd:attribute name="CommencingNumber" type="xsd:string"/>
+			<xsd:attribute name="CommencingURI" type="xsd:anyURI"/>
+			<xsd:attribute name="CommencingYear" type="xsd:string"/>
+			<xsd:attribute name="Comments" type="xsd:string"/>
+			<xsd:attribute name="Date" type="xsd:date"/>
+			<xsd:attribute name="Notes" type="xsd:string"/>
+			<xsd:attribute name="OtherQualification" type="xsd:string"/>
+			<xsd:attribute name="Prospective" type="xsd:boolean"/>
+			<xsd:attribute name="Qualification" type="xsd:string" use="required"
+			/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="OtherDocuments">
+		<xsd:annotation>
+			<xsd:documentation>
+				Metadata for other documents that do not fit any of the other options; covers Explanatory Documents as well as more random documents
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="OtherDocument" maxOccurs="unbounded" type="AlterType"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="TranspositionNotes">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for Transposition Notes</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="TranspositionNote" maxOccurs="unbounded" type="AlterType"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="UKRPCOpinions">
+		<xsd:annotation>
+			<xsd:documentation>
+				Metadata for UK Regulatory Policy Committee Opinions on Impact Assessments
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="UKRPCOpinion" maxOccurs="unbounded" type="IAalterType"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
+	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationMetadata">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>European Union Legislation Specific Metadata Schema</dc:title>
+			<dc:contributor>Jim Mangiafico</dc:contributor>
+			<dc:identifier>schemaLegislationMetadataEU</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Jim Mangiafico		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:element name="EUMetadata">
+		<xsd:annotation>
+			<xsd:documentation>Metadata for European Union legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="DocumentClassification"/>
+				<xsd:element ref="Year"/>
+				<xsd:element ref="Number"/>
+				<xsd:element name="EURLexIdentifiers">
+					<xsd:complexType>
+						<xsd:choice minOccurs="1" maxOccurs="unbounded">
+							<xsd:element name="Cellar" type="EUValueType"/>
+							<xsd:element name="CELEX" type="EUValueType"/>
+							<xsd:element name="ELI" type="EUValueType"/>
+							<xsd:element name="OfficialJournal" type="EUValueType"/>
+						</xsd:choice>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element ref="EnactmentDate"/>
+				<xsd:element ref="ComingIntoForce" minOccurs="0"/>
+				<xsd:element name="EURLexModified" type="EUDateType"/>
+				<xsd:element name="EURLexExtracted" type="EUDateType"/>
+				<xsd:element name="XMLGenerated" type="EUDateType"/>
+				<xsd:element name="XMLImported" type="EUDateType"/>
+				<xsd:element name="Treaty" minOccurs="0" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:attribute name="Title" use="required"/>
+						<xsd:attribute name="Code" use="required"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="CreatedBy" minOccurs="0" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:attribute name="Label" use="required"/>
+						<xsd:attribute name="URI" use="required"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="Subject" minOccurs="0" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:attribute name="Scheme" use="required"/>
+						<xsd:attribute name="Label" use="required"/>
+						<xsd:attribute name="URI" use="required"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="EURLexMetadata">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:any processContents="lax" minOccurs="0" maxOccurs="unbounded"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:complexType name="EUValueType">
+		<xsd:attribute name="Value" use="required"/>
+	</xsd:complexType>
+
+	<xsd:complexType name="EUDateType">
+		<xsd:attribute name="Date" use="required"/>
+	</xsd:complexType>
+
+</xsd:schema>

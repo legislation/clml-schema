@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationIncludes"
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Modules Includes Schema</dc:title>
+			<dc:description>Describes legislation includes</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>schemaLegislationIncludes</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name					Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.2			Colin Mackenzie		Restuctured to reduce duplication with main schema
+			1.1			Paul Appleby		Added acronyms and abbreviations
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<!-- EN types -->
+	<xsd:include schemaLocation="schemaENtypes.xsd"/>
+	<!-- Legislation main elements -->
+	<xsd:include schemaLocation="schemaENmain.xsd"/>
+	<!-- EN-specific structure constructs -->
+	<xsd:include schemaLocation="schemaENdivisions.xsd"/>
+	<!-- EN-specific commentary constructs -->
+	<xsd:include schemaLocation="schemaENcommentary.xsd"/>
+	<!-- Table of Contents elements -->
+	<xsd:include schemaLocation="schemaENcontents.xsd"/>
+
+</xsd:schema>

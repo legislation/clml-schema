@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaFragmentBase"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Fragment Level Schema</dc:title>
+			<dc:description>Describes fragments of primary and secondary UK legislation</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaFragmentBase</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2011-05-06</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/legislation'
+			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name									Modification
+			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
+			1.2			Colin Mackenzie					Added in EU elements that could be edited in whole or in frgament
+			1.1			Colin Mackenzie					Restructured to remove unnecessary file duplication
+			1.0			Jeni Tennison					Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	
+	<!-- Legislation includes -->
+	<xsd:include schemaLocation="schemaLegislationIncludes.xsd"/>
+	<!-- legislation specific (not suitable for Explanatory Notes -->
+	<xsd:include schemaLocation="schemaLegislationMain.xsd"/> 
+	<!-- Explanatory Notes -->
+	<xsd:include schemaLocation="schemaLegislationExplanatoryNotes.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationCommon.xsd"/>
+	
+	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error" schemaLocation="../schemaModules/errors.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/metadata" schemaLocation="schemaLegislationMetadata.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	
+
+	<!--	========== Element Definitions ==========	-->
+
+	<xsd:element name="Fragment">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ukm:Metadata"/>
+				<xsd:choice>
+					<xsd:element name="Primary" type="FragmentContent"/>
+					<xsd:element name="Secondary" type="FragmentContent"/>
+					<xsd:element ref="EURetained"/>
+				</xsd:choice>
+				<xsd:element ref="Footnotes" minOccurs="0"/>
+				<xsd:element ref="MarginNotes" minOccurs="0"/>
+				<xsd:element ref="Versions" minOccurs="0"/>
+				<xsd:element ref="Resources" minOccurs="0"/>
+				<xsd:element ref="Commentaries" minOccurs="0"/>
+				<xsd:element ref="Tasks" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="SchemaVersion"/>
+			<xsd:attributeGroup ref="err:ErrorAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+		<xsd:keyref name="refIncludedDocToResource" refer="keyResource">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a resource reference has a corresponding resource</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Image | .//ukl:LSseal | .//ukl:IncludedDocument"/>
+			<xsd:field xpath="@ResourceRef"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToFootnote" refer="keyFootnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a footnote reference has a corresponding footnote</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:FootnoteRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToCommentary" refer="keyCommentary">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a commentary reference has a corresponding commentary</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:CommentaryRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefChangeToCommentary" refer="keyCommentary">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that an addition, repeal or substitution with a commentary reference has a corresponding commentary</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Addition|.//ukl:Repeal|.//ukl:Substitution"/>
+			<xsd:field xpath="@CommentaryRef"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToMarginnote" refer="keyMarginnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a margin note reference has a corresponding margin note</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:MarginNoteRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:key name="keyResource">
+			<xsd:selector
+				xpath="ukl:Resources/ukl:Resource | ukl:Resources/ukl:ResourceGroup | ukl:Resources/ukl:ResourceGroup/ukl:Resource"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:unique name="keyCitationRef">
+			<xsd:selector xpath=".//ukl:Citation | .//ukl:CitationSubRef"/>
+			<xsd:field xpath="@id"/>
+		</xsd:unique>
+		<xsd:key name="keyMarginnote">
+			<xsd:selector xpath="ukl:MarginNotes/ukl:MarginNote"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyFootnote">
+			<xsd:selector xpath="ukl:Footnotes/ukl:Footnote"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyCommentary">
+			<xsd:selector xpath="ukl:Commentaries/ukl:Commentary"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+	</xsd:element>
+
+	<xsd:complexType name="FragmentContent">
+		<xsd:choice>
+			<!-- need the multiple element structure for whole act editing  -->
+			<xsd:sequence>
+				<xsd:element ref="PrimaryPrelims"/>
+				<xsd:element ref="Body" minOccurs="0"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:element ref="Schedules" minOccurs="0"/>
+				<xsd:element ref="ExplanatoryNotes" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:sequence>
+				<xsd:element ref="SecondaryPrelims"/>
+				<xsd:element ref="Body" minOccurs="0"/>
+				<xsd:element ref="Appendix" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:element ref="Schedules" minOccurs="0"/>
+				<xsd:element ref="ExplanatoryNotes" minOccurs="0"/>
+				<xsd:element ref="EarlierOrders" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:sequence>
+				<xsd:element ref="EUPrelims"/>
+				<xsd:element ref="EUBody" minOccurs="0"/>
+				<xsd:element ref="Attachments" minOccurs="0" maxOccurs="unbounded" />
+				<xsd:element ref="Schedules" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:element ref="Body"/>
+			<xsd:element  ref="EUBody" minOccurs="0"/>
+			<xsd:element ref="Group"/>
+			<xsd:element ref="Part"/>
+			<xsd:element ref="Chapter"/>
+			<xsd:element ref="Pblock"/>
+			<xsd:element ref="PsubBlock"/>
+			<xsd:element ref="P1group"/>
+			<xsd:element ref="P1"/>
+			<xsd:element ref="P"/>
+			<xsd:element ref="Schedules"/>
+			<xsd:element ref="Schedule"/>
+			<xsd:element ref="Appendix"/>
+			<xsd:element ref="Attachments"/>
+			<xsd:element ref="SignedSection"/>
+			<xsd:element ref="ExplanatoryNotes"/>
+			<xsd:element ref="EarlierOrders"/>
+			<xsd:element ref="EURetained"/>
+		</xsd:choice>
+	</xsd:complexType>
+
+	<xsd:element name="Tasks">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Effect" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Effect">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="AffectingProvisions"/>
+				<xsd:group ref="EffectNote"/>
+ 				<xsd:element ref="Amendment" maxOccurs="unbounded"/>
+				<xsd:element ref="Commentary"/>
+			</xsd:sequence>
+			<xsd:attribute name="URI" use="required" type="xsd:anyURI"/>
+			<xsd:attribute name="RestrictExtent" type="ExtentType"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="AffectingProvisions">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Citation"/>
+				<xsd:element ref="CitationSubRef" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Amendment">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Description"/>
+				<xsd:choice minOccurs="0">
+					<xsd:element ref="BlockAmendment" />
+					<xsd:sequence>
+						<xsd:element ref="BlockRepeal" />
+						<xsd:element ref="BlockAmendment" minOccurs="0" />
+					</xsd:sequence>
+					<xsd:element ref="InlineAmendment" />
+					<xsd:element ref="Amended" />
+					<xsd:element ref="Commenced" />
+					<xsd:sequence>
+						<xsd:element ref="InlineRepeal" />
+						<xsd:element ref="InlineAmendment" minOccurs="0" />
+					</xsd:sequence>
+				</xsd:choice>
+				<xsd:group ref="EffectNote"/>
+			</xsd:sequence>
+			<xsd:attribute name="URI" use="required" type="xsd:anyURI"/>
+			<xsd:attribute name="ChangeType" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="BlockAddition"/>
+						<xsd:enumeration value="BlockRepeal"/>
+						<xsd:enumeration value="BlockSubstitution"/>
+						<xsd:enumeration value="Commencement"/>
+						<xsd:enumeration value="InlineAddition" />
+						<xsd:enumeration value="InlineRepeal" />
+						<xsd:enumeration value="InlineSubstitution"/>
+						<xsd:enumeration value="TextualAmendment" />
+						<xsd:enumeration value="NonTextualAmendment" />
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Status" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="ToDo"/>
+						<xsd:enumeration value="Check"/>
+						<xsd:enumeration value="Complete"/>
+						<xsd:enumeration value="Flagged"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="ChangeId" use="optional"/>
+      </xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Description">
+		<xsd:complexType mixed="true">
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element ref="Citation"/>
+				<xsd:element ref="CitationSubRef"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:group name="EffectNote">
+		<xsd:sequence>
+			<xsd:element name="Note" minOccurs="0" maxOccurs="unbounded">
+				<xsd:complexType mixed="true">
+					<xsd:sequence>
+						<xsd:element ref="From" minOccurs="0" />
+						<xsd:element ref="NoteContent" />
+					</xsd:sequence>
+					<xsd:attribute name="URI" use="optional" type="xsd:anyURI" />
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:group>
+	<xsd:element name="From">
+		<xsd:complexType>
+			<xsd:simpleContent>
+				<xsd:extension base="xsd:string">
+					<xsd:attribute name="URI" use="required" type="xsd:anyURI" />
+				</xsd:extension>
+			</xsd:simpleContent>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="NoteContent" type="xsd:string" />
+	<xsd:element name="BlockRepeal">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="CitationSubRef" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Amended">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="CitationSubRef" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="Commenced">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="CitationSubRef" maxOccurs="unbounded"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="InlineRepeal">
+		<xsd:simpleType>
+			<xsd:restriction base="xsd:string"/>
+		</xsd:simpleType>
+	</xsd:element>
+	
+	<!-- Common definitions that need to be different when editing
+		probably for XMetal Compatability purposes 
+	-->
+	<!-- see PT #156462431 we no longer need different definitions as the old legislation validation did not match data
+	<xsd:attributeGroup name="CitationElementIDAttributes">
+		<xsd:attribute name="id">
+			<xsd:annotation>
+				<xsd:documentation>A unique identifier in the format c00000</xsd:documentation>
+			</xsd:annotation>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:NCName"/>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:attributeGroup> -->
+	
+	<xsd:simpleType name="RefsLinkType">
+		<xsd:annotation>
+			<xsd:documentation>When editing some of the IDs to which this refers may not be available so use NMTOKENS instead of type IDREFS</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKENS"/>
+	</xsd:simpleType>
+	
+	<xsd:group name="StandardMetadata">
+		<xsd:sequence>
+			<xsd:element ref="dc:identifier" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:group>
+	
+	
+	<!-- No extra metadata after primary/secondary in normal mode but source is allowed in edit mode -->
+	<xsd:group name="ExtraMetadata">
+		<xsd:sequence>
+        	<xsd:element ref="dc:source" minOccurs="0"/>
+		</xsd:sequence>
+	</xsd:group>
+	
+	<!-- See #113007733 and #162038035
+		For all schema except publication schema schemaLegisaltionBase-v1-0.xsd
+		we define the allowed extra list of deprecated types to be "none"
+		so it validates against current not deprecated list-->
+	<xsd:simpleType name="DocumentMainType">
+		<xsd:restriction base="DocumentMainTypeBasic"/>
+	</xsd:simpleType>
+</xsd:schema>

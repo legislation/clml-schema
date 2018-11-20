@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaENbase">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Explanatory Notes Base Level Schema</dc:title>
+			<dc:description>Describes explanatory notes and explanatory memoranda.</dc:description>
+			<dc:contributor>Jeni Tennison</dc:contributor>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaENbase</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2008-07-04</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.tso.co.uk/assets/namespace/legislation'
+			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name								Modification
+			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
+			1.0			Colin Mackenzie					Restructured to reduce duplication with main legislation schema
+			0.1			Jeni Tennison					Created based on SchemaLegislationBase
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<!-- Legislation includes -->
+	<xsd:include schemaLocation="schemaENincludes.xsd"/>
+	<xsd:include schemaLocation="../schemaModules/schemaCommon.xsd"/>
+	<xsd:include schemaLocation="../schemaModules/schemaCommonNonEdit.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationincludes.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/metadata" schemaLocation="schemaENmetadata.xsd"/>
+
+	<!--	========== Element Definitions ==========	-->
+
+	<xsd:element name="EN">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ukm:Metadata" minOccurs="0"/>
+				<xsd:choice minOccurs="0">
+					<xsd:sequence>
+						<xsd:element ref="Contents" />
+						<xsd:element ref="ExplanatoryNotes" minOccurs="0" />
+						<xsd:element ref="Footnotes" minOccurs="0"/>
+						<xsd:element ref="Versions" minOccurs="0"/>
+						<xsd:element ref="Resources" minOccurs="0"/>
+					</xsd:sequence>
+					<xsd:sequence>
+						<xsd:element ref="ExplanatoryNotes" />
+						<xsd:element ref="Footnotes" minOccurs="0"/>
+						<xsd:element ref="Versions" minOccurs="0"/>
+						<xsd:element ref="Resources" minOccurs="0"/>
+					</xsd:sequence>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="SchemaVersion"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+		<xsd:keyref name="refIncludedDocToResource" refer="keyResource">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a resource reference has a corresponding resource</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Image | .//ukl:LSseal | .//ukl:IncludedDocument"/>
+			<xsd:field xpath="@ResourceRef"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToFootnote" refer="keyFootnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a footnote reference has a corresponding footnote</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:FootnoteRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:key name="keyResource">
+			<xsd:selector xpath=".//ukl:Resource | .//ukl:ResourceGroup"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyCitationRef">
+			<xsd:selector xpath=".//ukl:Citation | .//ukl:CitationSubRef"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyFootnote">
+			<xsd:selector xpath=".//ukl:Footnote"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+	</xsd:element>
+
+	<!-- definitions of content that differ from normal legislation -->
+		
+	<xsd:complexType name="ContentsType">
+		<xsd:annotation>
+			<xsd:documentation>The Explanatory notes specific model.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element ref="ContentsTitle" minOccurs="0"/>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element ref="ContentsENDivision"/>
+			</xsd:choice>
+			<xsd:element ref="ContentsAnnexes" minOccurs="0"/>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+	</xsd:complexType>
+	
+	<xsd:group name="EmphasisBasicExtras">
+		<xsd:annotation>
+			<xsd:documentation>The Explanatory Notes specific model.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:sequence>
+			<xsd:element ref="Note"/>
+		</xsd:sequence>
+	</xsd:group>
+	
+	<!-- See #113007733 and #162038035
+		For all schema except publication schema schemaLegisaltionBase-v1-0.xsd
+		we define the allowed extra list of deprecated types to be "none"
+		so it validates against current not deprecated list-->
+	<xsd:simpleType name="DocumentMainType">
+		<xsd:restriction base="DocumentMainTypeBasic"/>
+	</xsd:simpleType>
+</xsd:schema>

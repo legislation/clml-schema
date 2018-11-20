@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaChanges">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Common Elements Schema</dc:title>
+			<dc:description>Defines generic elements applicable to multiple document types. These are elements that can be reused as they define very general constructs</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaCommonElements</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.2			Jim Mangiafico		Expanded to accommodate European Union legislation
+			1.1			Paul Appleby		Loosened TitleBlock to allow multiple Tiltle and Subtitle elements
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="Para" type="InlineModelStructure">
+		<xsd:annotation>
+			<xsd:documentation>This is a generic paragraph element</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="TitleBlock">
+		<xsd:annotation>
+			<xsd:documentation>This is a generic title grouping element</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" maxOccurs="unbounded"/>
+				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="CommonFormattingAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Title" type="InlineFullStructure">
+		<xsd:annotation>
+			<xsd:documentation>This is a generic title element</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Subtitle" type="InlineFullStructure">
+		<xsd:annotation>
+			<xsd:documentation>This is a generic subtitle element</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Number" type="InlineFullStructure">
+		<xsd:annotation>
+			<xsd:documentation>This is a generic number element desinged to hold the number of say a chapter or numbered paragraph</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="PersonName" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>This defines a full name</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="JobTitle" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>This defines a job title</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Department" type="InlineStructure">
+		<xsd:annotation>
+			<xsd:documentation>This defines a department name</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="Address">
+		<xsd:annotation>
+			<xsd:documentation>This defines an address</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="AddressLine" type="InlineStructure" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Character">
+		<xsd:annotation>
+			<xsd:documentation>Allows for Unicode characters to be altered in element fashion to avoid ambiguity and make for easier editing, e.g. spaces, minus vs hyphen, etc. Also allows for some entities from existing documents that are not in Unicode</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:attribute name="Name">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="DotPadding"/>
+						<xsd:enumeration value="EmSpace"/>
+						<xsd:enumeration value="EnSpace"/>
+						<xsd:enumeration value="LinePadding"/>
+						<xsd:enumeration value="NonBreakingSpace"/>
+						<xsd:enumeration value="Minus"/>
+						<xsd:enumeration value="ThinSpace"/>
+						<xsd:enumeration value="BoxPadding"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+	
+</xsd:schema>

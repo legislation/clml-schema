@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaLegislationForm">
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Form Schema</dc:title>
+			<dc:description>Defines forms</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationForm</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.3		Paul Appleby		Added Reference to Form elements		
+			1.2		Paul Appleby		Added Number as an optional first element
+			1.1		Paul Appleby		Added Orientation attribute to Form element and allowed TitleBlock as first element within a Form
+			1.0		Paul Appleby		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="Form">
+		<xsd:annotation>
+			<xsd:documentation>Describes a form. This can be created using markup or as an included document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Allows for an actual number to the form to be held as markup</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="TitleBlock" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Allows for an actual title to the form to be held as markup</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="Reference" minOccurs="0"/>
+				<xsd:choice>
+					<xsd:choice maxOccurs="unbounded">
+						<xsd:element ref="Part"/>
+						<xsd:element ref="Chapter"/>
+						<xsd:element ref="Pblock"/>
+						<xsd:element ref="PsubBlock"/>
+						<xsd:element ref="P1"/>
+						<xsd:element ref="P2"/>
+						<xsd:element ref="P3"/>
+						<xsd:element ref="P4"/>
+						<xsd:element ref="P5"/>
+						<xsd:element ref="P1para"/>
+						<xsd:element ref="P2para"/>
+						<xsd:element ref="P3para"/>
+						<xsd:element ref="P4para"/>
+						<xsd:element ref="P5para"/>
+						<xsd:element ref="P1group"/>
+						<xsd:element ref="P2group"/>
+						<xsd:element ref="P3group"/>
+						<xsd:element ref="Schedules"/>
+						<xsd:element ref="Schedule"/>
+						<xsd:element ref="BlockAmendment"/>
+						<xsd:group ref="BlockBasic"/>
+					</xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
+						<xsd:element ref="FootnoteRef" minOccurs="0" maxOccurs="unbounded">
+							<xsd:annotation>
+								<xsd:documentation>Allows for the unusual situation where a form as an included document may have footnotes to it</xsd:documentation>
+							</xsd:annotation>
+						</xsd:element>
+					</xsd:sequence>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attribute name="Orientation">
+				<xsd:annotation>
+					<xsd:documentation>Defines the orientation of the form</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="portrait"/>
+						<xsd:enumeration value="landscape"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>			
+		</xsd:complexType>
+	</xsd:element>
+	
+</xsd:schema>

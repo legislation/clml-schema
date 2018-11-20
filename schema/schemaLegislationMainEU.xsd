@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Schema Main EU Elements</dc:title>
+			<dc:description>Describes main elements for EU legislation</dc:description>
+			<dc:identifier>SchemaLegislationMainEU</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2018-11-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.0			Jim Mangiafico		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<xsd:element name="EURetained">
+		<xsd:annotation>
+			<xsd:documentation>European Union legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="EUPrelims" minOccurs="0"/>
+				<xsd:element  ref="EUBody" minOccurs="0"/>
+				<xsd:choice minOccurs="0">
+					<xsd:sequence>
+						<xsd:element ref="Attachments"/>
+						<xsd:element ref="Schedules" minOccurs="0"/>
+						<xsd:element ref="Attachments" minOccurs="0"/>
+					</xsd:sequence>
+					<xsd:sequence>
+						<xsd:element ref="Schedules"/>
+						<xsd:element ref="Attachments" minOccurs="0"/>
+					</xsd:sequence>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="EUBody">
+		<xsd:annotation>
+			<xsd:documentation>The body text of a piece of EU legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element maxOccurs="unbounded" minOccurs="0" ref="CommentaryRef"/>
+				<xsd:choice maxOccurs="unbounded" minOccurs="0">
+					<xsd:element ref="EUPart"/>
+					<xsd:element ref="EUTitle"/>
+					<xsd:element ref="EUChapter"/>
+					<xsd:element ref="EUSection"/>
+					<xsd:element ref="Division"/>
+					<xsd:element ref="Pblock"/>
+					<xsd:element ref="P"/>
+					<xsd:element ref="P1"/>
+					<xsd:element ref="P1group"/>
+					<xsd:element ref="Tabular"/>
+				</xsd:choice>
+				<xsd:element ref="SignedSection" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="Attachments">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element ref="AttachmentGroup"/>
+					<xsd:element ref="Attachment"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="AttachmentGroup">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0"/>
+				<xsd:element ref="Title" minOccurs="0"/>
+				<xsd:element ref="Attachment" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attribute name="id" use="required" />
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Attachment">
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:element ref="EURetained"/>
+			</xsd:choice>
+			<!--<xsd:attribute name="id" use="required">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:NCName">
+						<xsd:pattern value="attachment-[1-9].*"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>-->
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

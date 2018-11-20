@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.0" id="SchemaLegislationBase"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Base Level Schema</dc:title>
+			<dc:description>Describes primary and secondary UK legislation</dc:description>
+			<dc:contributor>Paul Appleby</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationCore</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/legislation'
+			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information
+			Version	Name									Modification
+			2.0			Colin Mackenzie						Numbering restarted at 2 for new EU and merged schema
+			2.0			Colin Mackenzie						This schema was created from contents of legislation.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
+			1.5			Jim Mangiafico						Expanded to accommodate European Union legislation
+			1.4 		Colin Mackenzie						Included extra selector for keyResource (from fragment.xsd)
+			1.4 		Colin Mackenzie						Removed unnecessary include for tables and import for errors
+			1.3			Paul Appleby						Fixed omitted image and seal keys
+			1.2			Paul Appleby						Fixed keys - namespaces were missing - am sure they were their originally!
+			1.1			Paul Appleby						Fixed name references on keys and altered key for footnote to correct error where not allowed in table cell
+			1.0			Paul Appleby/Peter Lazar	Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+
+	<!-- Legislation includes -->
+	<xsd:include schemaLocation="schemaLegislationIncludes.xsd"/>
+	<!-- legislation specific (not suitable for Explanatory Notes -->
+	<xsd:include schemaLocation="schemaLegislationMain.xsd"/> 
+	<!-- Explanatory Notes -->
+	<xsd:include schemaLocation="schemaLegislationExplanatoryNotes.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationCommon.xsd"/>
+	<xsd:include schemaLocation="../schemaModules/schemaCommonNonEdit.xsd"/>
+	
+	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error" schemaLocation="../schemaModules/errors.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/metadata"  schemaLocation="schemaLegislationMetadata.xsd"/>
+
+	<!--	========== Element Definitions ==========	-->
+
+	<xsd:element name="Legislation">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="ukm:Metadata" minOccurs="0"/>
+				<xsd:choice minOccurs="0">
+					<xsd:sequence>
+						<xsd:element ref="Contents"/>
+						<xsd:sequence minOccurs="0">
+							<xsd:choice>
+								<xsd:element ref="Primary"/>
+								<xsd:element ref="Secondary"/>
+								<xsd:element ref="EURetained"/>
+							</xsd:choice>
+							<xsd:element ref="Footnotes" minOccurs="0"/>
+							<xsd:element ref="MarginNotes" minOccurs="0"/>
+							<xsd:element ref="Versions" minOccurs="0"/>
+							<xsd:element ref="Resources" minOccurs="0"/>
+							<xsd:element minOccurs="0" ref="Commentaries"/>
+							<xsd:element minOccurs="0" ref="CitationLists"/>
+						</xsd:sequence>
+					</xsd:sequence>
+					<xsd:sequence>
+						<xsd:choice>
+							<xsd:element ref="Primary"/>
+							<xsd:element ref="Secondary"/>
+							<xsd:element ref="EURetained"/>
+						</xsd:choice>
+						<xsd:element ref="Footnotes" minOccurs="0"/>
+						<xsd:element ref="MarginNotes" minOccurs="0"/>
+						<xsd:element ref="Versions" minOccurs="0"/>
+						<xsd:element ref="Resources" minOccurs="0"/>
+						<xsd:element minOccurs="0" ref="Commentaries"/>
+						<xsd:element minOccurs="0" ref="CitationLists"/>
+					</xsd:sequence>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonAttributes"/>
+			<xsd:attributeGroup ref="SchemaVersion"/>
+			<xsd:attributeGroup ref="err:ErrorAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attributeGroup ref="OptionalURIs"/>
+		</xsd:complexType>
+		<xsd:keyref name="refIncludedDocToResource" refer="keyResource">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a resource reference has a corresponding resource</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Image | .//ukl:LSseal | .//ukl:IncludedDocument"/>
+			<xsd:field xpath="@ResourceRef"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToFootnote" refer="keyFootnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a footnote reference has a corresponding footnote</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:FootnoteRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToMarginnote" refer="keyMarginnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a margin note reference has a corresponding margin note</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:MarginNoteRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:keyref name="refCrossrefToCommentary" refer="keyCommentary">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a commentary reference has a corresponding commentary</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:CommentaryRef"/>
+			<xsd:field xpath="@Ref"/>
+		</xsd:keyref>
+		<xsd:key name="keyResource">
+			<xsd:selector xpath=".//ukl:Resource | .//ukl:ResourceGroup  | ukl:Resources/ukl:ResourceGroup/ukl:Resource"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:unique name="keyCitationRef">
+			<xsd:selector xpath=".//ukl:Citation | .//ukl:CitationSubRef"/>
+			<xsd:field xpath="@id"/>
+		</xsd:unique>
+		<xsd:key name="keyMarginnote">
+			<xsd:selector xpath="ukl:MarginNotes/ukl:MarginNote"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyFootnote">
+			<xsd:selector xpath=".//ukl:Footnote"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+		<xsd:key name="keyCommentary">
+			<xsd:selector xpath=".//ukl:Commentary"/>
+			<xsd:field xpath="@id"/>
+		</xsd:key>
+	</xsd:element>
+	
+</xsd:schema>
