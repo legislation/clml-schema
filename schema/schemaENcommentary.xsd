@@ -24,6 +24,7 @@
 			Modification information
 			Version		Name						Modification
 			2.0			Colin Mackenzie				Numbering restarted at 2 for new EU and merged schema
+			2.0			Colin Mackenzie				URI and Document URI now optional as they are only present in front end data.
 			0.4			Jeni Tennison				Allowed CommentarySchedule to contain CommentaryPart and CommentaryP1
 			0.3			Jeni Tennison				Added a CommentarySubDivision
 			0.2			Jeni Tennison				Allowed CommentaryDivision to hold more Commentary
@@ -55,7 +56,12 @@
 				</xsd:restriction>
 			</xsd:simpleType>
 		</xsd:attribute>
-		<xsd:attributeGroup ref="MandatoryURIs"/>
+		<!-- In all copies of the schema these URI attributes  were mandatory.
+			However in the publication teams  Z:/ENschema/ folder these were optional
+			We will use optional as these values are only present in front end data 
+			(having been inserted automatically via xQuery). -->
+		<xsd:attributeGroup ref="OptionalURIs"/>
+		<!--<xsd:attributeGroup ref="MandatoryURIs"/>-->
 	</xsd:attributeGroup>
 
 	<xsd:element name="CommentaryGroup">

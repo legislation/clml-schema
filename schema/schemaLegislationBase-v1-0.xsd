@@ -6,47 +6,34 @@
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
-			<dc:title>Legislation Base Level Schema</dc:title>
+			<dc:title>Explanatory Notes Publication Base Level Schema</dc:title>
 			<dc:description>Describes primary and secondary UK legislation</dc:description>
 			<dc:contributor>Paul Appleby</dc:contributor>
 			<dc:creator>TSO</dc:creator>
-			<dc:identifier>SchemaLegislationBase</dc:identifier>
+			<dc:identifier>SchemaLegislationEnPubBase</dc:identifier>
 			<dc:language>en</dc:language>
 			<dc:publisher>The Stationery Office</dc:publisher>
 			<dc:rights>Crown copyright 2018</dc:rights>
 			<dc:date>
-				<dcq:created>2003-10-20</dcq:created>
+				<dcq:created>2018-11-20</dcq:created>
 			</dc:date>
 			<dc:date>
 				<dcq:modified>2018-11-20</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			This schema is not a "base" schema from which other variants are derived.
-			It is a top level schema but has only been used in the publication copy (which was also in a different database).
-			This schema also allows deprecated document types for document metadata and Citation Class.
-			Long term this schema can be deleted (once system and data used for publication do not reference this schema file any more and deprecated document types removed).
+			It is a top level schema for explanatory notes but has only been used in the publication copy (which was also in a different database).
+			Long term this schema can be deleted (once system and data used for publication do not reference this schema file any more).
 			</xsd:documentation>
 			<xsd:documentation>
 			Modification information
 			Version		Name								Modification
 			2.0			Colin Mackenzie						Numbering restarted at 2 for new EU and merged schema
-			1.4			Colin Mackenzie						Change to contain nothing but an include of legislation.xsd
-			1.3			Paul Appleby						Fixed omitted image and seal keys
-			1.2			Paul Appleby						Fixed keys - namespaces were missing - am sure they were their originally!
-			1.1			Paul Appleby						Fixed name references on keys and altered key for footnote to correct error where not allowed in table cell
-			1.0			Paul Appleby/Peter Lazar	Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
 	
-	<xsd:include schemaLocation="schemaLegislationCore.xsd"/>
+	<xsd:include schemaLocation="en.xsd"/>
 	
-	<!-- deprecated see #113007733 
-				Data to be changed to "EuropeanUnionOther" by #162038035
-			Allow "Local" ones in publication schema but not in others... --> 
-	
-	<xsd:simpleType name="DocumentMainType">
-		<xsd:union memberTypes="DocumentMainTypeBasic DocumentMainTypeDeprecated"/>
-	</xsd:simpleType>
 	
 </xsd:schema>
