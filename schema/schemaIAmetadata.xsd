@@ -31,6 +31,7 @@
 			Modification information
 			Version	Name						Modification
 			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			2.0 		Colin Mackenzie			Changed Document Status to allow draft values
 			0.2			Marc Sturman			Added UnitedKingdomMinisterialDirection
 			0.1			Griff Chamberlain		Created
 			</xsd:documentation>
@@ -255,7 +256,17 @@
 						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Value" use="required" fixed="final"/>
+						<!--<xsd:attribute name="Value" use="required" fixed="final"/>-->
+						<xsd:attribute name="Value" use="required">
+							<xsd:simpleType>
+								<xsd:restriction base="xsd:string">
+									<xsd:enumeration value="draft"/>
+									<xsd:enumeration value="final"/>
+									<xsd:enumeration value="revised"/>
+									<xsd:enumeration value="proposed"/>
+								</xsd:restriction>
+							</xsd:simpleType>
+						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element name="DocumentMinorType" minOccurs="0">
