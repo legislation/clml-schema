@@ -125,7 +125,7 @@
 	</xsd:group>
 	
 	<!-- See #113007733 and #162038035
-		For all schema except publication schema schemaLegisaltionBase-v1-0.xsd
+		For all schema except publication schema schemaLegislationBase-v1-0.xsd
 		we define the allowed extra list of deprecated types to be "none"
 		so it validates against current not deprecated list-->
 	<xsd:simpleType name="DocumentMainType">

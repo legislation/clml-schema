@@ -207,30 +207,62 @@
 					<xsd:element ref="Citations" minOccurs="0"/>
 					<!-- #161958070 supported element -
 					No examples found with text or element content
-					-->
-					<xsd:element name="Correction" minOccurs="0">
-						<xsd:complexType>
-							<xsd:attribute name="Type">
-								<xsd:simpleType>
-									<xsd:restriction base="xsd:string">
-										<xsd:enumeration value="corrects"/>
-										<xsd:enumeration value="correctedBy"/>
-									</xsd:restriction>
-								</xsd:simpleType>
-							</xsd:attribute>
-							<!-- Class Often empty string or
-								UnitedKingdomStatutoryInstrument
-								NorthernIrelandStatutoryRule
-								ScottishStatutoryInstrument
-								WelshStatutoryInstrument
-							-->
-							<xsd:attribute name="Class" type="xsd:string" use="optional"/>
-							<!-- Year 4 digit Year or empty string -->
-							<xsd:attribute name="Year" type="xsd:string" use="optional"/>
-							<!-- Number 4 digit Number or empty string -->
-							<xsd:attribute name="Number" type="xsd:string" use="optional"/>
-						</xsd:complexType>
-					</xsd:element>
+					element definition is found in
+					schemaLegislationMetadataCorrection.xsd for all schemas except
+					when editing publications using schemaLegislationbase-v1-0.xsd
+					then it is in schemaLegislationMetadataCorrectionEdit.xsd-->
+					<xsd:element name="Correction">
+		<xsd:annotation>
+			<xsd:documentation>Certain items of legislation get corrected or are correcting. This information is used to connect the two items together</xsd:documentation>
+			<xsd:documentation>It is also possible to correct a draft legislation item. In that case the identifier of the other document should be used</xsd:documentation>
+			<xsd:documentation>When the data is past the published stage, only the attributes are present not the element content</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>If in publications editing then complete contents not attributes</xsd:documentation>
+				</xsd:annotation>
+				<xsd:element ref="DocumentMainType"/>
+				<xsd:choice>
+					<xsd:sequence>
+						<xsd:element ref="Year"/>
+						<xsd:element ref="Number"/>
+						<xsd:element ref="dc:identifier" minOccurs="0"/>
+					</xsd:sequence>
+					<xsd:element ref="dc:identifier"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attribute name="Type" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>If in publications editing then Type is mandatory (but not in delivered data)</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="corrects"/>
+						<xsd:enumeration value="correctedBy"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<!-- if editing in publications then the following should not be used (used in delivered data) -->
+			<xsd:attribute name="Class" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<!-- Year 4 digit Year or empty string -->
+			<xsd:attribute name="Year" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<!-- Number 4 digit Number or empty string -->
+			<xsd:attribute name="Number" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
 				</xsd:choice>
 			</xsd:sequence>
 		</xsd:complexType>

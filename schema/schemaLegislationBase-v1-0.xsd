@@ -24,6 +24,7 @@
 			This schema is not a "base" schema from which other variants are derived.
 			It is a top level schema for explanatory notes but has only been used in the publication copy (which was also in a different database).
 			Long term this schema can be deleted (once system and data used for publication do not reference this schema file any more).
+			Note this file name is also used in publication editing for ENs in a different folder but with the contents of en.xsd
 			</xsd:documentation>
 			<xsd:documentation>
 			Modification information
@@ -33,7 +34,14 @@
 		</xsd:appinfo>
 	</xsd:annotation>
 	
-	<xsd:include schemaLocation="en.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationCore.xsd"/>
 	
+	<!-- deprecated see #113007733 
+				Data to be changed to "EuropeanUnionOther" by #162038035
+			Allow "Local" ones in publication schema but not in others... --> 
+	
+	<xsd:simpleType name="DocumentMainType">
+		<xsd:union memberTypes="DocumentMainTypeBasic DocumentMainTypeDeprecated"/>
+	</xsd:simpleType>
 	
 </xsd:schema>
