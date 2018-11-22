@@ -5,6 +5,9 @@
 	<xs:import schemaLocation="local.xsd"/>
 	<xs:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="xhtml.xsd"/>
 	<xs:import namespace="http://www.w3.org/2005/Atom" schemaLocation="atom.xsd"/>
+	<!-- Note: all of the following attributes
+		causes an error in MSXML 4 as base and lang is also declared in namespace.xsd 
+	I will leave for now as MSXML 4 errors processing the standard atom.xsd and so is not compliant -->
 	<xs:attribute name="base"/>
 	<xs:attribute name="lang" type="atom:atomLanguageTag"/>
 	<xs:attribute name="space">
