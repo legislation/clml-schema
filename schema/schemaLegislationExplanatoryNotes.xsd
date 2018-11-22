@@ -41,7 +41,6 @@
 				</xsd:choice>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
-			<xsd:attributeGroup ref="ProvisionCountAttributes"/>
 			<xsd:attributeGroup ref="FragmentAttributes"/>
 			<xsd:attributeGroup ref="OptionalURIs"/>
 		</xsd:complexType>

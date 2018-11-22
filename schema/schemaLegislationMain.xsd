@@ -266,7 +266,6 @@
 			<xsd:attributeGroup ref="PelementIDattributes"/>
 			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
 			<xsd:attributeGroup ref="FragmentAttributes"/>
-			<xsd:attributeGroup ref="ProvisionCountAttributes" />
 		</xsd:complexType>
 	</xsd:element>
 
