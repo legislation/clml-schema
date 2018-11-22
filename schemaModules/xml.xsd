@@ -9,7 +9,7 @@
 		causes an error in MSXML 4 as base and lang is also declared in namespace.xsd 
 	I will leave for now as MSXML 4 errors processing the standard atom.xsd and so is not compliant -->
 	<xs:attribute name="base"/>
-	<xs:attribute name="lang" type="atom:atomLanguageTag"/>
+	<xs:attribute name="lang" type="atom:atomLanguageTag"/>  
 	<xs:attribute name="space">
 		<xs:simpleType>
 			<xs:restriction base="xs:NMTOKEN">

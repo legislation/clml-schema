@@ -73,7 +73,6 @@
 			<xsd:enumeration value="EuropeanUnionCorrigendum"/>
 			<xsd:enumeration value="EuropeanUnionOfficialJournal"/>
 			<xsd:enumeration value="EuropeanUnionOther"/>
-			
 			<!-- deprecated see #113007733 
 				Data to be changed to "EuropeanUnionOther" by #162038035
 			Allow these in publication schema but not in others... 

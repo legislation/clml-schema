@@ -37,6 +37,7 @@
 				<xsd:element ref="Draft" minOccurs="0"/>
 				<xsd:element ref="MultilineTitle"/>
 				<xsd:element name="Number" type="BasicStringStructure" minOccurs="0"/>
+				<xsd:element ref="IntroductoryText" minOccurs="0"/>
 				<xsd:element ref="EUPreamble" minOccurs="0"/>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>

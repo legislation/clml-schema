@@ -48,4 +48,5 @@
 	<xsd:simpleType name="DocumentMainType">
 		<xsd:restriction base="DocumentMainTypeBasic"/>
 	</xsd:simpleType>
+	
 </xsd:schema>
