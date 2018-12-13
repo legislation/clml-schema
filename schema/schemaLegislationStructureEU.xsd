@@ -45,8 +45,12 @@
 				<xsd:sequence>
 					<xsd:element ref="Number"/>
 					<xsd:element ref="Title" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded"/>
 				</xsd:sequence>
-				<xsd:element ref="Title" maxOccurs="unbounded"/>
+				<xsd:sequence>
+					<xsd:element ref="Title" maxOccurs="unbounded"/>
+					<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded"/>
+				</xsd:sequence>
 			</xsd:choice>
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
 				<xsd:group ref="EUStructure"/>
@@ -81,7 +85,6 @@
 					<xsd:element ref="P1group"/>
 					<xsd:element ref="P1"/>
 					<xsd:element ref="Para"/>
-					<xsd:element ref="Span"/>
 					<xsd:group ref="BlockSection"/>
 				</xsd:choice>
 			</xsd:sequence>
