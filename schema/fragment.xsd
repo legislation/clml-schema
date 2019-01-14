@@ -62,7 +62,7 @@
 				<xsd:choice>
 					<xsd:element name="Primary" type="FragmentContent"/>
 					<xsd:element name="Secondary" type="FragmentContent"/>
-					<xsd:element ref="EURetained"/>
+					<xsd:element name="EURetained" type="FragmentEUContent"/>
 				</xsd:choice>
 				<xsd:element ref="Footnotes" minOccurs="0"/>
 				<xsd:element ref="MarginNotes" minOccurs="0"/>
@@ -153,14 +153,34 @@
 				<xsd:element ref="ExplanatoryNotes" minOccurs="0"/>
 				<xsd:element ref="EarlierOrders" minOccurs="0"/>
 			</xsd:sequence>
+			<xsd:element ref="Body"/>
+			<xsd:element ref="Group"/>
+			<xsd:element ref="Part"/>
+			<xsd:element ref="Chapter"/>
+			<xsd:element ref="Pblock"/>
+			<xsd:element ref="PsubBlock"/>
+			<xsd:element ref="P1group"/>
+			<xsd:element ref="P1"/>
+			<xsd:element ref="P"/>
+			<xsd:element ref="Schedules"/>
+			<xsd:element ref="Schedule"/>
+			<xsd:element ref="Appendix"/>
+			<xsd:element ref="Attachments"/>
+			<xsd:element ref="SignedSection"/>
+			<xsd:element ref="ExplanatoryNotes"/>
+			<xsd:element ref="EarlierOrders"/>
+		</xsd:choice>
+	</xsd:complexType>
+
+	<xsd:complexType name="FragmentEUContent">
+		<xsd:choice>
 			<xsd:sequence>
 				<xsd:element ref="EUPrelims"/>
 				<xsd:element ref="EUBody" minOccurs="0"/>
 				<xsd:element ref="Attachments" minOccurs="0" maxOccurs="unbounded" />
 				<xsd:element ref="Schedules" minOccurs="0"/>
 			</xsd:sequence>
-			<xsd:element ref="Body"/>
-			<xsd:element  ref="EUBody" minOccurs="0"/>
+			<xsd:element ref="EUBody" minOccurs="0"/>
 			<xsd:element ref="Group"/>
 			<xsd:element ref="Part"/>
 			<xsd:element ref="Chapter"/>
@@ -179,7 +199,7 @@
 			<xsd:element ref="EURetained"/>
 		</xsd:choice>
 	</xsd:complexType>
-
+	
 	<xsd:element name="Tasks">
 		<xsd:complexType>
 			<xsd:sequence>
