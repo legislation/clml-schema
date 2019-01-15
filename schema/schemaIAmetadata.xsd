@@ -52,7 +52,9 @@
 				<xsd:element ref="dc:format"/>
 				<xsd:element ref="dc:language"/>
 				<xsd:element ref="dc:publisher"/>
-				<xsd:element ref="dc:source"/>
+				<!-- Colin: Information from Griff 15/01/19 
+					The source should be optional - I think that must have come from the original IA data load. They will not always have a source -->
+				<xsd:element ref="dc:source" minOccurs="0"/>
 				<xsd:element ref="dc:modified"/>
 				<xsd:element ref="dct:valid"/>
 				<xsd:element ref="atom:link" maxOccurs="unbounded"/>
@@ -69,14 +71,17 @@
 			<xsd:documentation>IA specific metadata</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:sequence>
+		<!-- Colin: Information from Griff 15/01/19 so made optional
+			Looking at the number/Date element order, again I think this was the original data load.
+			The order of this metadata should not matter as it has no bearing on the metadata itself . -->
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
 				<xsd:element ref="DocumentClassification"/>
 				<xsd:element ref="Year"/>
 				<xsd:element ref="Date"/>
-				<xsd:element ref="Stage" minOccurs="0"/>
-				<xsd:element ref="Department" minOccurs="0"/>
-				<xsd:element ref="Number" minOccurs="0"/>
-			</xsd:sequence>
+				<xsd:element ref="Stage"/>
+				<xsd:element ref="Department"/>
+				<xsd:element ref="Number"/>
+			</xsd:choice>
 		</xsd:complexType>
 		
 	</xsd:element>
