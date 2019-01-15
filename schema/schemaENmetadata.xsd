@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
 	attributeFormDefault="unqualified" version="2.0" id="schemaENmetadata"
 	xmlns:atom="http://www.w3.org/2005/Atom">
@@ -40,8 +40,8 @@
 
 	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaCommon.xsd"/>
 	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
-	<!-- dcterms dropped as is is not needed if dc.xsd is accessed directly and causes XMetaL problems 
-		<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>-->
+	<!-- mini version of dcterms included as full version causes XMetaL problems -->
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>
 	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
 	
 	<xsd:element name="Metadata">
@@ -68,6 +68,8 @@
 					<xsd:element ref="dc:rights"/>
 					<xsd:element ref="dc:modified"/>
 					<xsd:element ref="atom:link"/>
+					<xsd:element ref="dct:alternative"/>
+					<xsd:element ref="dct:valid"/>
 				</xsd:choice>
 				<xsd:group ref="TSOmetadata"/>
 			</xsd:sequence>

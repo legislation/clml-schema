@@ -679,6 +679,7 @@
 				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
 				<xsd:element ref="InForceDates" minOccurs="0"/>
 			</xsd:choice>
+			<xsd:attribute name="New" type="xsd:boolean"/>
 			<xsd:attribute name="Type" type="xsd:token" use="required"/>
 			<xsd:attribute name="TypeNotes" type="xsd:string"/>
 			<xsd:attribute name="Notes" type="xsd:string"/>

@@ -32,8 +32,8 @@
 	</xsd:annotation>
 	
 	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
-	<!-- dcterms dropped as is is not needed if dc.xsd is accessed directly and causes XMetaL problems 
-		<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>-->
+	<!-- mini version of dcterms included as full version causes XMetaL problems -->
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="../schemaModules/dcterms.xsd"/>
 	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
 	
 	<xsd:group name="StandardMetadata">
@@ -56,6 +56,8 @@
 				<xsd:element ref="dc:rights"/>
 				<xsd:element ref="dc:modified"/>
 				<xsd:element ref="atom:link"/>
+				<xsd:element ref="dct:alternative"/>
+				<xsd:element ref="dct:valid"/>
 			</xsd:choice>
 		</xsd:sequence>
 	</xsd:group>
