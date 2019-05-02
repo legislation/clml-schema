@@ -20,12 +20,13 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2019-05-02</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
 			1.9			Jim Mangiafico		Expanded to accommodate European Union
 			1.8			Colin Mackenzie		Restructure to have single file for editorial and legislation
 			1.7			Paul Appleby		Added Group to block extract structure
@@ -91,6 +92,7 @@
 				<xsd:element ref="EUPreamble"/>
 				<xsd:element ref="EUBody"/>
 				<xsd:element ref="Division"/>
+				<xsd:element ref="Title"/>
 			</xsd:choice>
 			<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
 		</xsd:choice>
