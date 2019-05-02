@@ -47,6 +47,7 @@
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:element ref="PrimaryPreamble"/>
 				<xsd:element ref="SecondaryPreamble"/>
+				<xsd:element ref="EUPrelims"/>
 				<xsd:element ref="Text"/>
 				<xsd:element ref="Body"/>
 				<xsd:element ref="Group"/>
