@@ -56,8 +56,9 @@
 	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaCommon.xsd"/>
 	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
 	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
-	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation"
-		schemaLocation="legislation.xsd"/>
+	<!-- Not needed and causes MSXML error in pub version 
+		<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation"
+		schemaLocation="legislation.xsd"/>-->
 	<xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="../schemaModules/namespace.xsd"/>
 	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/error" schemaLocation="../schemaModules/ukGovErrors.xsd"/>
 	
