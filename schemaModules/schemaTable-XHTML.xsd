@@ -40,8 +40,11 @@
 	<xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="namespace.xsd"/>
 	<xsd:import namespace="http://www.w3.org/1999/XSL/Format"
 		schemaLocation="schemaTableAttributes-FO.xsd"/>
-	<!-- Colin - is this necessary?? - NO it can be removed -->
-	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schema/legislation.xsd"/>
+	<!-- For  MSXML or .NET to work (pub version only) we need to pull in the 2 individual files rather than top level schema -->
+	<!--<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schema/legislation.xsd"/>-->
+
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schema/schemaLegislationTypes.xsd"/>
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schemaModules/schemaTableTypes.xsd"/>
 
 	<xsd:element name="table">
 		<xsd:annotation>
