@@ -37,7 +37,7 @@
 				<xsd:element ref="DocumentClassification"/>
 				<xsd:element ref="Year"/>
 				<xsd:element ref="Number"/>
-				<xsd:element name="EURLexIdentifiers">
+				<xsd:element name="EURLexIdentifiers" minOccurs="0">
 					<xsd:complexType>
 						<xsd:choice minOccurs="1" maxOccurs="unbounded">
 							<xsd:element name="Cellar" type="EUValueType"/>
@@ -49,10 +49,10 @@
 				</xsd:element>
 				<xsd:element ref="EnactmentDate"/>
 				<xsd:element ref="ComingIntoForce" minOccurs="0"/>
-				<xsd:element name="EURLexModified" type="EUDateType"/>
-				<xsd:element name="EURLexExtracted" type="EUDateType"/>
-				<xsd:element name="XMLGenerated" type="EUDateType"/>
-				<xsd:element name="XMLImported" type="EUDateType"/>
+				<xsd:element name="EURLexModified" type="EUDateType" minOccurs="0"/>
+				<xsd:element name="EURLexExtracted" type="EUDateType" minOccurs="0"/>
+				<xsd:element name="XMLGenerated" type="EUDateType" minOccurs="0"/>
+				<xsd:element name="XMLImported" type="EUDateType" minOccurs="0"/>
 				<xsd:element name="Treaty" minOccurs="0" maxOccurs="unbounded">
 					<xsd:complexType>
 						<xsd:attribute name="Title" use="required"/>
@@ -72,7 +72,7 @@
 						<xsd:attribute name="URI" use="required"/>
 					</xsd:complexType>
 				</xsd:element>
-				<xsd:element name="EURLexMetadata">
+				<xsd:element name="EURLexMetadata" minOccurs="0">
 					<xsd:complexType>
 						<xsd:sequence>
 							<xsd:any processContents="lax" minOccurs="0" maxOccurs="unbounded"/>
