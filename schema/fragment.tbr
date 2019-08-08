@@ -13,7 +13,7 @@
 		<Visible>true</Visible>
 		<Controls>
 			<Button>
-				<Id>0X00001069</Id>
+				<Id>0X00000FA0</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Databases (Custom);1:0</FaceId>
 				<DescriptionText><![CDATA[Runs Macro: "InsertCommentary"]]></DescriptionText>
@@ -23,7 +23,7 @@
 				<SQUID>0XD8670FBB</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106A</Id>
+				<Id>0X00000FA1</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Annotations (Custom);0:7</FaceId>
 				<DescriptionText><![CDATA[Runs Macro: "BatchSetAttributes"]]></DescriptionText>
@@ -33,7 +33,7 @@
 				<SQUID>0XD8580FB8</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106B</Id>
+				<Id>0X00000FA2</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Annotations (Custom);0:3</FaceId>
 				<DescriptionText><![CDATA[Runs Macro: "PasteCopyOfFragment"]]></DescriptionText>
@@ -43,7 +43,7 @@
 				<SQUID>0XD8630FB9</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106C</Id>
+				<Id>0X00000FA3</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Annotations (Custom);0:7</FaceId>
 				<DescriptionText><![CDATA[Runs Macro: "BatchSetAttributes"]]></DescriptionText>
@@ -53,7 +53,7 @@
 				<SQUID>0XD8D40FBA</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106D</Id>
+				<Id>0X00000FA4</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Annotations (Custom);0:3</FaceId>
 				<DescriptionText><![CDATA[Runs Macro: "PasteCopyOfFragment"]]></DescriptionText>
@@ -63,7 +63,7 @@
 				<SQUID>0XD8DF0FBC</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106E</Id>
+				<Id>0X00000FA5</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Integration (Custom);0:2</FaceId>
 				<DescriptionText><![CDATA[CheckIn Legislation]]></DescriptionText>
@@ -73,7 +73,7 @@
 				<SQUID>0XC7650FAC</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000106F</Id>
+				<Id>0X00000FA6</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Integration (Custom);0:3</FaceId>
 				<DescriptionText><![CDATA[To download amending document]]></DescriptionText>
@@ -83,7 +83,7 @@
 				<SQUID>0XBEFF0FF8</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001070</Id>
+				<Id>0X00000FA7</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Databases (Custom);4:5</FaceId>
 				<DescriptionText><![CDATA[Undo the amendment]]></DescriptionText>
@@ -93,7 +93,7 @@
 				<SQUID>0X9B2C0FCE</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001071</Id>
+				<Id>0X00000FA8</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);1:9</FaceId>
 				<DescriptionText><![CDATA[Flag the amendment]]></DescriptionText>
@@ -103,7 +103,7 @@
 				<SQUID>0X9B410FCF</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001072</Id>
+				<Id>0X00000FA9</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Databases (Custom);3:0</FaceId>
 				<DescriptionText><![CDATA[Set or Reset Blanket Amendment]]></DescriptionText>
@@ -113,7 +113,7 @@
 				<SQUID>0X81240FDA</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001073</Id>
+				<Id>0X00000FAA</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Databases (Custom);5:9</FaceId>
 				<DescriptionText><![CDATA[Set or Reset Confers Power]]></DescriptionText>
@@ -123,7 +123,7 @@
 				<SQUID>0X812B0FDB</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001074</Id>
+				<Id>0X00000FAB</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Revisions (Custom);0:0</FaceId>
 				<DescriptionText><![CDATA[add the content]]></DescriptionText>
@@ -133,7 +133,7 @@
 				<SQUID>0X81390FDD</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001075</Id>
+				<Id>0X00000FAC</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Integration (Custom);6:4</FaceId>
 				<DescriptionText><![CDATA[Addition limited extent]]></DescriptionText>
@@ -143,7 +143,7 @@
 				<SQUID>0X1CCB0FE1</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001076</Id>
+				<Id>0X00000FAD</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:4</FaceId>
 				<DescriptionText><![CDATA[To substitute the content]]></DescriptionText>
@@ -153,7 +153,7 @@
 				<SQUID>0XC8310FAE</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001077</Id>
+				<Id>0X00000FAE</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:5</FaceId>
 				<DescriptionText><![CDATA[While subsituting retain the text]]></DescriptionText>
@@ -163,7 +163,7 @@
 				<SQUID>0XC8420FAF</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001078</Id>
+				<Id>0X00000FAF</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:4</FaceId>
 				<DescriptionText><![CDATA[Substitute limited extent]]></DescriptionText>
@@ -173,7 +173,7 @@
 				<SQUID>0XC84A0FB0</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001079</Id>
+				<Id>0X00000FB0</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Revisions (Custom);0:9</FaceId>
 				<DescriptionText><![CDATA[To repeal the content]]></DescriptionText>
@@ -183,7 +183,7 @@
 				<SQUID>0XC8610FB1</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107A</Id>
+				<Id>0X00000FB1</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:2</FaceId>
 				<DescriptionText><![CDATA[Repeal retain text]]></DescriptionText>
@@ -193,7 +193,7 @@
 				<SQUID>0XC86E0FB4</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107B</Id>
+				<Id>0X00000FB2</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:6</FaceId>
 				<DescriptionText><![CDATA[Repeal limited extent]]></DescriptionText>
@@ -203,7 +203,7 @@
 				<SQUID>0XC8770FB3</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107C</Id>
+				<Id>0X00000FB3</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Databases (Custom);1:0</FaceId>
 				<DescriptionText><![CDATA[Insert commentary]]></DescriptionText>
@@ -213,7 +213,7 @@
 				<SQUID>0XC8A90FB5</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107D</Id>
+				<Id>0X00000FB4</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Revisions (Custom);0:0</FaceId>
 				<DescriptionText><![CDATA[add the content]]></DescriptionText>
@@ -223,7 +223,7 @@
 				<SQUID>0X9E340FD6</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107E</Id>
+				<Id>0X00000FB5</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Integration (Custom);6:4</FaceId>
 				<DescriptionText><![CDATA[Addition limited extent]]></DescriptionText>
@@ -233,7 +233,7 @@
 				<SQUID>0X1EC70FDF</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000107F</Id>
+				<Id>0X00000FB6</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:4</FaceId>
 				<DescriptionText><![CDATA[To substitute the content]]></DescriptionText>
@@ -243,7 +243,7 @@
 				<SQUID>0X9E3F0FD8</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001080</Id>
+				<Id>0X00000FB7</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:4</FaceId>
 				<DescriptionText><![CDATA[Substitute limited extent]]></DescriptionText>
@@ -253,7 +253,7 @@
 				<SQUID>0X9E430FD9</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001081</Id>
+				<Id>0X00000FB8</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:5</FaceId>
 				<DescriptionText><![CDATA[While subsituting retain the text]]></DescriptionText>
@@ -263,7 +263,7 @@
 				<SQUID>0X9E470FDA</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001082</Id>
+				<Id>0X00000FB9</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Revisions (Custom);0:9</FaceId>
 				<DescriptionText><![CDATA[To repeal the content]]></DescriptionText>
@@ -273,7 +273,7 @@
 				<SQUID>0X9E4F0FDC</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001083</Id>
+				<Id>0X00000FBA</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:2</FaceId>
 				<DescriptionText><![CDATA[Repeal retain text]]></DescriptionText>
@@ -283,7 +283,7 @@
 				<SQUID>0X9E550FDE</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001084</Id>
+				<Id>0X00000FBB</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Revisions (Custom);0:6</FaceId>
 				<DescriptionText><![CDATA[Repeal limited extent]]></DescriptionText>
@@ -293,7 +293,7 @@
 				<SQUID>0X9E580FDF</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001085</Id>
+				<Id>0X00000FBC</Id>
 				<BeginGroup>true</BeginGroup>
 				<FaceId>~Structure (Custom);1:0</FaceId>
 				<DescriptionText><![CDATA[Insert F annotation]]></DescriptionText>
@@ -303,7 +303,7 @@
 				<SQUID>0X958D0FC3</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001086</Id>
+				<Id>0X00000FBD</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:1</FaceId>
 				<DescriptionText><![CDATA[Insert C annotation]]></DescriptionText>
@@ -313,7 +313,7 @@
 				<SQUID>0X95910FC4</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001087</Id>
+				<Id>0X00000FBE</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:2</FaceId>
 				<DescriptionText><![CDATA[Insert I annotation]]></DescriptionText>
@@ -323,7 +323,7 @@
 				<SQUID>0X959C0FC5</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001088</Id>
+				<Id>0X00000FBF</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:3</FaceId>
 				<DescriptionText><![CDATA[Insert M annotation]]></DescriptionText>
@@ -333,7 +333,7 @@
 				<SQUID>0X95A20FC6</SQUID>
 			</Button>
 			<Button>
-				<Id>0X00001089</Id>
+				<Id>0X00000FC0</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:4</FaceId>
 				<DescriptionText><![CDATA[Insert X annotation]]></DescriptionText>
@@ -343,7 +343,7 @@
 				<SQUID>0X95A80FC7</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000108A</Id>
+				<Id>0X00000FC1</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:5</FaceId>
 				<DescriptionText><![CDATA[Insert E annotation]]></DescriptionText>
@@ -353,7 +353,7 @@
 				<SQUID>0X95AF0FC8</SQUID>
 			</Button>
 			<Button>
-				<Id>0X0000108B</Id>
+				<Id>0X00000FC2</Id>
 				<BeginGroup>false</BeginGroup>
 				<FaceId>~Structure (Custom);1:6</FaceId>
 				<DescriptionText><![CDATA[Insert P annotation]]></DescriptionText>
@@ -1122,14 +1122,14 @@
 				</MenuControls>
 			</PopupMenu>
 			<PopupMenu>
-				<Id>0X48000004</Id>
+				<Id>0X48000001</Id>
 				<Caption><![CDATA[&Legislation]]></Caption>
 				<BeginGroup>false</BeginGroup>
 				<Visible>true</Visible>
 				<SQUID>0X0DB40001</SQUID>
 				<MenuControls>
 					<PopupMenuItem>
-						<Id>0X0000108C</Id>
+						<Id>0X00000FC3</Id>
 						<Caption><![CDATA[&Check In]]></Caption>
 						<BeginGroup>false</BeginGroup>
 						<FaceId>~Integration (Custom);0:2</FaceId>
@@ -1139,7 +1139,7 @@
 						<SQUID>0XC6000FB5</SQUID>
 					</PopupMenuItem>
 					<PopupMenuItem>
-						<Id>0X0000108D</Id>
+						<Id>0X00000FC4</Id>
 						<Caption><![CDATA[&Download Amending Document]]></Caption>
 						<BeginGroup>false</BeginGroup>
 						<FaceId>~Integration (Custom);0:3</FaceId>
@@ -1155,7 +1155,7 @@
 						<SQUID>0XC5ECFFF4</SQUID>
 						<MenuControls>
 							<PopupMenuItem>
-								<Id>0X0000108E</Id>
+								<Id>0X00000FC5</Id>
 								<Caption><![CDATA[&Addition]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:0</FaceId>
@@ -1165,7 +1165,7 @@
 								<SQUID>0XC65F0FC7</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000108F</Id>
+								<Id>0X00000FC6</Id>
 								<Caption><![CDATA[Limited Extent Addition]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Integration (Custom);6:4</FaceId>
@@ -1175,7 +1175,7 @@
 								<SQUID>0X10240FDF</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001090</Id>
+								<Id>0X00000FC7</Id>
 								<Caption><![CDATA[&Substitution]]></Caption>
 								<BeginGroup>true</BeginGroup>
 								<FaceId>~Revisions (Custom);0:4</FaceId>
@@ -1185,7 +1185,7 @@
 								<SQUID>0XC65B0FC1</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001091</Id>
+								<Id>0X00000FC8</Id>
 								<Caption><![CDATA[Substitution &Retain Text]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:5</FaceId>
@@ -1195,7 +1195,7 @@
 								<SQUID>0XC65A0FC0</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001092</Id>
+								<Id>0X00000FC9</Id>
 								<Caption><![CDATA[&Limited Extent Substitution]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:4</FaceId>
@@ -1205,7 +1205,7 @@
 								<SQUID>0XC6580FBF</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001093</Id>
+								<Id>0X00000FCA</Id>
 								<Caption><![CDATA[&Repeal]]></Caption>
 								<BeginGroup>true</BeginGroup>
 								<FaceId>~Revisions (Custom);0:9</FaceId>
@@ -1215,7 +1215,7 @@
 								<SQUID>0XC6570FBE</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001094</Id>
+								<Id>0X00000FCB</Id>
 								<Caption><![CDATA[Repeal Retain &Text]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:2</FaceId>
@@ -1225,7 +1225,7 @@
 								<SQUID>0XC6560FBD</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001095</Id>
+								<Id>0X00000FCC</Id>
 								<Caption><![CDATA[Limited &Extent Repeal]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:6</FaceId>
@@ -1243,7 +1243,7 @@
 						<SQUID>0XC5E5FFF4</SQUID>
 						<MenuControls>
 							<PopupMenuItem>
-								<Id>0X00001096</Id>
+								<Id>0X00000FCD</Id>
 								<Caption><![CDATA[Insert &Commentary]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Databases (Custom);1:0</FaceId>
@@ -1261,7 +1261,7 @@
 						<SQUID>0XC196FFF4</SQUID>
 						<MenuControls>
 							<PopupMenuItem>
-								<Id>0X00001097</Id>
+								<Id>0X00000FCE</Id>
 								<Caption><![CDATA[&Addition]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:0</FaceId>
@@ -1271,7 +1271,7 @@
 								<SQUID>0X2B1E0FCD</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001098</Id>
+								<Id>0X00000FCF</Id>
 								<Caption><![CDATA[Limited Extent Addition]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Integration (Custom);6:4</FaceId>
@@ -1281,7 +1281,7 @@
 								<SQUID>0X10D10FF3</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X00001099</Id>
+								<Id>0X00000FD0</Id>
 								<Caption><![CDATA[&Substitution]]></Caption>
 								<BeginGroup>true</BeginGroup>
 								<FaceId>~Revisions (Custom);0:4</FaceId>
@@ -1291,7 +1291,7 @@
 								<SQUID>0XE5FF0FCA</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109A</Id>
+								<Id>0X00000FD1</Id>
 								<Caption><![CDATA[Substitution &Retain Text]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:5</FaceId>
@@ -1301,7 +1301,7 @@
 								<SQUID>0XE6190FCC</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109B</Id>
+								<Id>0X00000FD2</Id>
 								<Caption><![CDATA[&Limited Extent Substitution]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:4</FaceId>
@@ -1311,7 +1311,7 @@
 								<SQUID>0XE63E0FD0</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109C</Id>
+								<Id>0X00000FD3</Id>
 								<Caption><![CDATA[&Repeal]]></Caption>
 								<BeginGroup>true</BeginGroup>
 								<FaceId>~Revisions (Custom);0:9</FaceId>
@@ -1321,7 +1321,7 @@
 								<SQUID>0XC1981051</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109D</Id>
+								<Id>0X00000FD4</Id>
 								<Caption><![CDATA[Repeal Retain &Text]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:2</FaceId>
@@ -1331,7 +1331,7 @@
 								<SQUID>0XCEA10FC9</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109E</Id>
+								<Id>0X00000FD5</Id>
 								<Caption><![CDATA[Limited &Extent Repeal]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Revisions (Custom);0:6</FaceId>
@@ -1341,7 +1341,7 @@
 								<SQUID>0XD0670FCB</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X0000109F</Id>
+								<Id>0X00000FD6</Id>
 								<Caption><![CDATA[Dummy Brackets]]></Caption>
 								<BeginGroup>true</BeginGroup>
 								<FaceId>~General (Custom);7:8</FaceId>
@@ -1359,7 +1359,7 @@
 						<SQUID>0XC0D9FFF4</SQUID>
 						<MenuControls>
 							<PopupMenuItem>
-								<Id>0X000010A0</Id>
+								<Id>0X00000FD7</Id>
 								<Caption><![CDATA[Insert &F Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:0</FaceId>
@@ -1369,7 +1369,7 @@
 								<SQUID>0XC1111015</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A1</Id>
+								<Id>0X00000FD8</Id>
 								<Caption><![CDATA[Insert &C Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:1</FaceId>
@@ -1379,7 +1379,7 @@
 								<SQUID>0XC117101C</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A2</Id>
+								<Id>0X00000FD9</Id>
 								<Caption><![CDATA[Insert &I Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:2</FaceId>
@@ -1389,7 +1389,7 @@
 								<SQUID>0X10450FF4</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A3</Id>
+								<Id>0X00000FDA</Id>
 								<Caption><![CDATA[Insert &M Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:3</FaceId>
@@ -1399,7 +1399,7 @@
 								<SQUID>0XC12D102E</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A4</Id>
+								<Id>0X00000FDB</Id>
 								<Caption><![CDATA[Insert &X Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:4</FaceId>
@@ -1409,7 +1409,7 @@
 								<SQUID>0XC127102A</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A5</Id>
+								<Id>0X00000FDC</Id>
 								<Caption><![CDATA[Insert &E Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:5</FaceId>
@@ -1419,7 +1419,7 @@
 								<SQUID>0XC11B1020</SQUID>
 							</PopupMenuItem>
 							<PopupMenuItem>
-								<Id>0X000010A6</Id>
+								<Id>0X00000FDD</Id>
 								<Caption><![CDATA[Insert &P Note]]></Caption>
 								<BeginGroup>false</BeginGroup>
 								<FaceId>~Structure (Custom);1:6</FaceId>
@@ -1431,7 +1431,7 @@
 						</MenuControls>
 					</PopupSubMenu>
 					<PopupMenuItem>
-						<Id>0X000010A7</Id>
+						<Id>0X00000FDE</Id>
 						<Caption><![CDATA[&Undo]]></Caption>
 						<BeginGroup>true</BeginGroup>
 						<FaceId>~Databases (Custom);4:5</FaceId>
@@ -1441,7 +1441,7 @@
 						<SQUID>0XC6050FBB</SQUID>
 					</PopupMenuItem>
 					<PopupMenuItem>
-						<Id>0X000010A8</Id>
+						<Id>0X00000FDF</Id>
 						<Caption><![CDATA[&Flag Amendment]]></Caption>
 						<BeginGroup>false</BeginGroup>
 						<FaceId>~Revisions (Custom);1:9</FaceId>
@@ -1451,7 +1451,7 @@
 						<SQUID>0XC5FB0FAE</SQUID>
 					</PopupMenuItem>
 					<PopupMenuItem>
-						<Id>0X000010A9</Id>
+						<Id>0X00000FE0</Id>
 						<Caption><![CDATA[Set/Reset &Blanket Amendment]]></Caption>
 						<BeginGroup>true</BeginGroup>
 						<FaceId>~Databases (Custom);3:0</FaceId>
@@ -1461,7 +1461,7 @@
 						<SQUID>0X805A1000</SQUID>
 					</PopupMenuItem>
 					<PopupMenuItem>
-						<Id>0X000010AA</Id>
+						<Id>0X00000FE1</Id>
 						<Caption><![CDATA[Set/Reset Confers &Power]]></Caption>
 						<BeginGroup>false</BeginGroup>
 						<FaceId>~Databases (Custom);5:9</FaceId>
@@ -1471,7 +1471,7 @@
 						<SQUID>0X80881025</SQUID>
 					</PopupMenuItem>
 					<PopupMenuItem>
-						<Id>0X000010AB</Id>
+						<Id>0X00000FE2</Id>
 						<Caption><![CDATA[Go to Commentary]]></Caption>
 						<BeginGroup>true</BeginGroup>
 						<FaceId>~Databases (Custom);5:8</FaceId>

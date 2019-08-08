@@ -126,7 +126,7 @@
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 		<xsd:key name="keyFootnote">
-			<xsd:selector xpath="ukl:Footnotes/ukl:Footnote"/>
+			<xsd:selector xpath=".//ukl:Footnote"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 		<xsd:key name="keyCommentary">
@@ -193,6 +193,7 @@
 			<xsd:element ref="Schedule"/>
 			<xsd:element ref="Appendix"/>
 			<xsd:element ref="Attachments"/>
+			<xsd:element ref="Attachment"/>
 			<xsd:element ref="SignedSection"/>
 			<xsd:element ref="ExplanatoryNotes"/>
 			<xsd:element ref="EarlierOrders"/>
