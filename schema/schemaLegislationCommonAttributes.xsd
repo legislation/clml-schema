@@ -109,6 +109,7 @@
 		<xsd:attribute default="false" name="Concurrent" type="xsd:boolean"/>
 		<xsd:attribute default="true" name="Match" type="xsd:boolean"/>
 		<xsd:attribute name="AltDates"/>
+		<xsd:attribute name="ValidDates"/>
 		<xsd:attributeGroup ref="ProvisionCountAttributes"/>
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="ProvisionCountAttributes">

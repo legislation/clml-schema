@@ -98,6 +98,60 @@ ukl|Primary ukl|Group>ukl|Title {
 	font-variant: small-caps;
 }
 
+ukl|EUPart>ukl|Part {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: Bold;
+}
+
+ukl|EUTitle>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: Bold;
+}
+
+ukl|EUChapter>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+ukl|EUSection>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+ukl|EUSubsection>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+
 ukl|Part>ukl|Title {
 	display: block;
 	font-size: 12pt;
@@ -572,6 +626,41 @@ ukl|OrderedList[Decoration='colon'] > ukl|ListItem[NumberOverride]:before {
     content: attr(NumberOverride) ":		";
 }
 
+ukl|EURetained ukl|OrderedList[Decoration='parens'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='parens'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='parenRight'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='brackets'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='period'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='colon'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+
+ukl|EURetained ukl|ListItem>ukl|Para {
+	display: inline;
+}
+
+
+
+ukl|OrderedList > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
 ukl|UnorderedList {
 	display: block;
 	margin-bottom: 12pt;
@@ -777,6 +866,48 @@ ukl|PsubBlock > ukl|Number {
 	text-align: center;
 }
 
+ukl|EUPart>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUChapter>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-style:italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUTitle>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUSection>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+}
+
+ukl|EUSubsection>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+}
+
+
+
+
 ukl|Department {
 	display: block;
 	text-align: right;
@@ -802,6 +933,26 @@ ukl|Part {
 }
 
 ukl|Chapter {
+	display: block;
+}
+
+ukl|EUPart {
+	display: block;
+}
+
+ukl|EUTitle {
+	display: block;
+}
+
+ukl|EUChapter {
+	display: block;
+}
+
+ukl|EUSection {
+	display: block;
+}
+
+ukl|EUSubsection {
 	display: block;
 }
 
@@ -843,6 +994,13 @@ ukl|P1>ukl|Pnumber {
 	margin-bottom: 6pt;
 }
 
+ukl|EURetained ukl|P1>ukl|Pnumber {
+	font-weight: normal;
+	display: block;
+	margin-bottom: 6pt;
+	text-align:center
+}
+
 ukl|Pnumber {
 	display: inline;
 }
@@ -879,6 +1037,33 @@ ukl|P4>ukl|Pnumber:after {
 	content: ")";
 }
 
+ukl|EURetained ukl|P1>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P2>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P2>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P3>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P3>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P4>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P4>ukl|Pnumber:after {
+	content: "";
+}
 
 ukl|Pnumber[PuncBefore]:before {
 	content: attr(PuncBefore);
@@ -1929,6 +2114,13 @@ ukl|P1group>ukl|Title {
 	display: inline;
 	font-size: 1em;
 	text-align: left;
+	font-weight: bold;
+}
+
+ukl|EURetained ukl|P1group>ukl|Title {
+	display: block;
+	font-size: 1em;
+	text-align: center;
 	font-weight: bold;
 }
 
