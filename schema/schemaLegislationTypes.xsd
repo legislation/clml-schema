@@ -3,7 +3,7 @@
 	xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.1"
 	id="SchemaLegislationTypes" xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -25,6 +25,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.1			Colin Mackenzie		Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
 			1.9			Jim Mangiafico		Expanded to accommodate European Union
@@ -412,6 +413,10 @@
 	</xsd:group>
 
 	<xsd:simpleType name="MinorType">
+		<xsd:union memberTypes="UKMinorType EUMinorType"/>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="UKMinorType">
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="order"/>
 			<xsd:enumeration value="regulation"/>
@@ -421,7 +426,16 @@
 			<xsd:enumeration value="unknown"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-
+	,
+	<xsd:simpleType name="EUMinorType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="euregulation"/>
+			<xsd:enumeration value="eudecision"/>
+			<xsd:enumeration value="eudirective"/>
+			<xsd:enumeration value="eutreaty"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
 	<xsd:attributeGroup name="TabularAttributes"/>
 
 	<xsd:attributeGroup name="LayoutAttributes">
