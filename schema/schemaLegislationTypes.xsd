@@ -426,7 +426,7 @@
 			<xsd:enumeration value="unknown"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-	,
+	
 	<xsd:simpleType name="EUMinorType">
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="euregulation"/>
