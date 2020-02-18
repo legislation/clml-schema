@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name						Modification
+			2.1		Colin Mackenzie			Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
 			2.0 		Colin Mackenzie			Changed Document Status to allow draft values
 			0.2			Marc Sturman			Added UnitedKingdomMinisterialDirection
@@ -232,18 +233,7 @@
 						<xsd:documentation>Defines the subtype of the document. This currently only applies to secondary legislation</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Value" use="required">
-							<xsd:simpleType>
-								<xsd:restriction base="xsd:string">
-									<xsd:enumeration value="order"/>
-									<xsd:enumeration value="regulation"/>
-									<xsd:enumeration value="rule"/>
-									<xsd:enumeration value="scheme"/>
-									<xsd:enumeration value="resolution"/>
-									<xsd:enumeration value="unknown"/>
-								</xsd:restriction>
-							</xsd:simpleType>
-						</xsd:attribute>
+						<xsd:attribute name="Value" type="leg:UKMinorType" use="required"/>
 					</xsd:complexType>
 				</xsd:element>
 			</xsd:sequence>

@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0" id="SchemaCommon">
+	attributeFormDefault="unqualified" version="2.1" id="SchemaCommon">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -23,6 +23,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.1		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1		Colin Mackenzie		Added EU values plus full UK list of "E+W+S+N.I.
 			1.0		Colin Mackenzie		Created
@@ -101,6 +102,29 @@
 			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="WelshStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="UnitedKingdomStatutoryInstrumentLocal"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+		<xsd:simpleType name="MinorType">
+		<xsd:union memberTypes="UKMinorType EUMinorType"/>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="UKMinorType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="order"/>
+			<xsd:enumeration value="regulation"/>
+			<xsd:enumeration value="rule"/>
+			<xsd:enumeration value="scheme"/>
+			<xsd:enumeration value="resolution"/>
+			<xsd:enumeration value="unknown"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="EUMinorType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="euregulation"/>
+			<xsd:enumeration value="eudecision"/>
+			<xsd:enumeration value="eudirective"/>
+			<xsd:enumeration value="eutreaty"/>
 		</xsd:restriction>
 	</xsd:simpleType>
 	

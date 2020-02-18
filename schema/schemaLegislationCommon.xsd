@@ -32,7 +32,7 @@
 
 	<xsd:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
 	
-	<!-- note same for editorial fragment and and legislation just different for EN -->
+	<!-- note same for editorial fragment and legislation just different for EN -->
 	<xsd:complexType name="ContentsType">
 		<xsd:annotation>
 			<xsd:documentation>The Legislation specific model.</xsd:documentation>

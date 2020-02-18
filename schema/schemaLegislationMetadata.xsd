@@ -5,7 +5,7 @@
 	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationMetadata">
+	attributeFormDefault="unqualified" version="2.1" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			2.0		W Holmes			Changes to Section and Sectionrange element 
 			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
@@ -615,7 +616,8 @@
 						<xsd:documentation>Defines the subtype of the document. This currently only applies to secondary legislation</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Value" use="required">
+						<xsd:attribute name="Value" type="leg:UKMinorType" use="required"/>
+						<!--<xsd:attribute name="Value" use="required">
 							<xsd:simpleType>
 								<xsd:restriction base="xsd:string">
 									<xsd:enumeration value="order"/>
@@ -626,7 +628,7 @@
 									<xsd:enumeration value="unknown"/>
 								</xsd:restriction>
 							</xsd:simpleType>
-						</xsd:attribute>
+						</xsd:attribute>-->
 					</xsd:complexType>
 				</xsd:element>
 			</xsd:sequence>
