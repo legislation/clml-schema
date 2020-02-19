@@ -5,7 +5,7 @@
     
     <!-- XSLT to convert the legalisation namespace schema into a version that works in the TSO namespace -->
     
-    <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/Documents/newco/TSO/TNA/newMergedSchema'" as="xs:string"/>
+    <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/unified-master-schema'" as="xs:string"/>
     <xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
     
     <xsl:template match="/">
@@ -252,7 +252,7 @@
     </xsl:template>
     
     <!-- pass through everything else -->
-    <xsl:template match="*|@*|processing-instruction()|text()" priority="-1">
+    <xsl:template match="*|@*|processing-instruction()|text()|comment()" priority="-1">
         <xsl:copy>
             <xsl:apply-templates select="*|@*|processing-instruction()|text()"/>
         </xsl:copy>
