@@ -1,0 +1,446 @@
+/* Created by XMetaL style generator. ©2006 Justsystems Canada Inc. All rights reserved.*/
+
+/*@sq-plus-minus;*/
+/*@sq-structure-view-icons;*/
+/*
+@sq-start-only-tags;
+*/
+
+* {
+	white-space: normal;
+	text-align: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "Arial";
+	font-style: normal;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+/* top-level elements */
+$DOCUMENT>* {
+	margin-left: 0px;
+}
+
+$PROCINS 
+{
+	display: none;
+}
+
+$COMMENT {
+	display: none;
+}
+
+/* Schema namespaces */
+@namespace atom	url(http://www.w3.org/2005/Atom);
+@namespace dc	url(http://purl.org/dc/elements/1.1/);
+@namespace err	url(http://www.tso.co.uk/assets/namespace/error);
+@namespace fo	url(http://www.w3.org/1999/XSL/Format);
+@namespace math	url(http://www.w3.org/1998/Math/MathML);
+@namespace namespace	url(http://www.w3.org/XML/1998/namespace);
+@namespace ukl	url(http://www.legislation.gov.uk/namespaces/legislation);
+@namespace ukm	url(http://www.legislation.gov.uk/namespaces/metadata);
+@namespace xhtml	url(http://www.w3.org/1999/xhtml);
+@namespace xlink	url(http://www.w3.org/1999/xlink);
+@namespace xsd	url(http://www.w3.org/2001/XMLSchema);
+
+/* The following puts the element name beside each non-terminal node icon. */
+
+math|math 
+{
+	display: none;
+}
+
+ukl|Abstract:before {
+	content: 'Abstract';
+}
+
+ukl|AbstractBody:before {
+	content: 'AbstractBody';
+}
+
+ukl|Address 
+{
+	display: none;
+}
+
+ukl|Appendix:before {
+	content: 'Appendix';
+}
+
+ukl|AppendixBody:before {
+	content: 'AppendixBody';
+}
+
+ukl|BlockAmendment 
+{
+	display: none;
+}
+
+ukl|BlockExtract 
+{
+	display: none;
+}
+
+ukl|BlockText 
+{
+	display: none;	
+}
+
+ukl|Contents:before {
+	content: 'Contents';
+	display: block;
+	background-color: yellow;
+	color: black;
+	padding: 5px;
+}
+
+ukl|Contents > * 
+{
+	display: none;
+}
+
+ukl|DateSigned:before {
+	content: 'DateSigned';
+}
+
+ukl|DecoratedGroup 
+{
+	display: none;	
+}
+
+ukl|EarlierOrders:before {
+	content: 'Earlier Orders';
+}
+
+ukl|EarlierOrders > * {
+	display: none;
+}
+
+ukl|ExplanatoryNotes:before {
+	content: 'Explanatory Note';
+}
+
+ukl|ExplanatoryNotes > * {
+	display: none;
+}
+
+ukl|Footnotes 
+{
+	display: none;	
+}
+
+ukl|Form:before {
+	content: 'Form';
+}
+
+ukl|Formula:before {
+	content: 'Formula';
+}
+
+ukl|Formula > * {
+	display: none;
+}
+
+ukl|InternalVersion:before {
+	content: 'ukl:InternalVersion';
+}
+
+ukl|KeyList {
+	display: none;
+}
+
+ukl|MarginNotes 
+{
+	display: none;
+}
+
+ukl|Notes:before {
+	content: 'ukl:Notes';
+}
+
+ukl|OrderedList 
+{
+	display: none;
+}
+
+ukl|P {
+	display: none;
+}
+
+ukl|P1group 
+{
+	margin-bottom: 5px;
+}
+
+ukl|P1group:before {
+	content: 'P1group';
+	display: block;
+	background-color: #ff9900;
+	color: black;
+	padding: 5px;
+}
+
+ukl|P1group>ukl|Title 
+{
+	display: block;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arial;
+	color: Black;
+	margin-top: 3px;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+}
+
+ukl|P1 
+{
+	display: none;
+}
+
+ukl|P2 
+{
+	display: none;
+}
+
+ukl|P2group {
+	display: none;
+}
+
+ukl|P3 
+{
+	display: none;
+}
+
+ukl|P3group {
+	display: none;
+}
+
+ukl|P4 
+{
+	display: none;
+}
+
+ukl|P5 {
+	display: none;
+}
+
+ukl|Para 
+{
+	display: none;
+}
+
+ukl|Part:before {
+	content: 'Part';
+	display: block;
+	background-color: #00ff00;
+	color: black;
+	padding: 5px;
+	margin-top: 1em;
+}
+
+ukl|Part > ukl|Number
+{
+	font-size: 1.2em;
+	margin-top: 3px;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Part > ukl|Title
+{
+	font-size: 1.2em;
+	margin-top: 3px;
+	margin-bottom: 0.5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Chapter:before {
+	content: 'Chapter';
+	display: block;
+	background-color: #634578;
+	color: white;
+	padding: 5px;
+	margin-top: 1em;
+}
+
+ukl|Chapter > ukl|Number
+{
+	font-size: 1.1em;
+	margin-top: 3px;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Chapter > ukl|Title
+{
+	font-size: 1.1em;
+	margin-top: 3px;
+	margin-bottom: 0.5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Pblock:before {
+	content: 'Pblock';
+	display: block;
+	background-color: #4040ff;
+	color: black;
+	padding: 5px;
+	margin-top: 1em;	
+}
+
+ukl|Pblock > ukl|Title
+{
+	font-size: 1.2em;
+	font-style: italic;
+	margin-top: 3px;
+	margin-bottom: 0.5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Primary:before {
+	content: 'Primary';
+	display: block;
+	background-color: Fuchsia;
+	color: black;
+	padding: 5px;
+	margin-top: 1em;	
+}
+
+ukl|PrimaryPrelims 
+{
+	display: none;
+}
+
+ukl|PsubBlock:before {
+	content: 'PsubBlock';
+}
+
+ukl|PsubBlock > ukl|Title {
+	font-size: 1.2em;
+	font-style: italic;
+	margin-top: 3px;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	text-align: center;
+}
+
+ukl|Resources {
+	display: none;
+}
+
+ukl|Schedule:before {
+	content: 'Schedule';
+	display: block;
+	background-color: Aqua;
+	color: black;
+	padding: 5px;
+	margin-top: 1em;
+}
+
+ukl|Schedule > ukl|Number
+{
+	display: block;
+	font-size: 1.2em;
+	margin-top: 3px;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+	background-color: White;
+	color: Black;
+	text-align: center;
+}
+
+ukl|Schedule > ukl|TitleBlock 
+{
+	display: none;
+}
+
+ukl|ScheduleBody {
+	display: none;
+}
+
+ukl|Reference {
+	display: none;
+}
+
+ukl|Secondary:before {
+	content: 'Secondary';
+	font-weight: normal;
+	font-size: 1.2em;
+	color: black;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	padding-top: 0em;
+	padding-bottom: 0em;
+}
+
+ukl|SecondaryPrelims:before {
+	content: 'Secondary Prelims';
+}
+
+ukl|SecondaryPrelims > * 
+{
+	display: none;
+}
+
+ukl|SignedSection:before {
+	content: 'Signed Section';
+}
+
+ukl|SignedSection > * 
+{
+	display: none;
+}
+
+ukl|Tabular > * 
+{
+	display: none;
+}
+
+ukl|UnorderedList 
+{
+	display: none;	
+}
+
+ukl|XMLcontent:before {
+	content: 'XMLcontent';
+}
+
+ukm|Metadata
+{
+	display: none;
+}
+
+xhtml|table 
+{
+	display: none;
+}
+
+ukl|Versions 
+{
+	display: none;
+}
