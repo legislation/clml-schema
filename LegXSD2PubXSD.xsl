@@ -3,13 +3,23 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     version="2.0" exclude-result-prefixes="xs">
     
-    <!-- XSLT to convert the legalisation namespace schema into a version that works in the TSO namespace -->
+    <!-- XSLT to convert the legalisation namespace schema into
+        a) a version that works in the TSO namespace; and/or
+        b) a version without atom.xsd (for MSXML compliance but not suitable for web data which will contain atom metadata elements)
+        
+        Now we have global parameters to control this behaviour.
+    -->
     
     <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/unified-master-schema'" as="xs:string"/>
     <xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
+    <xsl:param name="gpConvertToTsoNS" select="'true'" as="xs:string"/>
+    <xsl:param name="gpDropAtom" select="'true'" as="xs:string"/>
+    
+    <xsl:variable name="gvConvertToTsoNS" select="$gpConvertToTsoNS='true'" as="xs:boolean"/>
+    <xsl:variable name="gvDropAtom" select="$gpDropAtom='true'" as="xs:boolean"/>
     
     <xsl:template match="/">
-        <xsl:message>Creating Publication Namespace schema</xsl:message>
+        <xsl:message>Converting schema: Publication Namespace is <xsl:value-of select="$gvConvertToTsoNS"/> Drop atom is <xsl:value-of select="$gvDropAtom"/></xsl:message>
         <!-- get list of URIS
             Note: we do not use collection as it loads all xsds into memory -->
 <!--        <xsl:for-each select="uri-collection(concat($vInputPath,'/schema?select=*.xsd')),uri-collection(concat($vInputPath,'/schemaModules?select=*.xsd'))">-->
@@ -43,10 +53,10 @@
     </xsl:template>
     
     <!-- swap schema element default and target namespaces only where required -->
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.legislation.gov.uk/namespaces/legislation']" priority="+1">
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.legislation.gov.uk/namespaces/legislation') and $gvConvertToTsoNS]" priority="+1">
         <xsd:schema targetNamespace="http://www.tso.co.uk/assets/namespace/legislation"
 	       xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:math="http://www.w3.org/1998/Math/MathML"  xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:ukl="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dcq="http://purl.org/dc/terms/"  xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
@@ -56,10 +66,10 @@
         </xsd:schema>
     </xsl:template>
     
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.legislation.gov.uk/namespaces/metadata']" priority="+1">
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.legislation.gov.uk/namespaces/metadata') and $gvConvertToTsoNS]" priority="+1">
         <xsd:schema targetNamespace="http://www.tso.co.uk/assets/namespace/metadata"
 	       xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://www.tso.co.uk/assets/namespace/metadata" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:ukl="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dcq="http://purl.org/dc/terms/"  xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
@@ -69,10 +79,11 @@
         </xsd:schema>
     </xsl:template>
         
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.legislation.gov.uk/namespaces/error' and @id='ukGovErrors']" priority="+1">
+    <!-- error should still be in TSO namespace until data is changed? see #161880322  -->
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.legislation.gov.uk/namespaces/error') and (@id='ukGovErrors') and $gvConvertToTsoNS]" priority="+1">
         <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     targetNamespace="http://www.legislation.gov.uk/namespaces/error"
-    xmlns="http://www.legislation.gov.uk/namespaces/error"
+    xmlns="http://www.legislation.gov.uk/namespaces/error" xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
     elementFormDefault="qualified"  attributeFormDefault="unqualified" >
             <xsl:apply-templates select="@version|@id"/>
@@ -80,9 +91,19 @@
         </xsd:schema>
     </xsl:template>
     
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.legislation.gov.uk/namespaces/error' and not(@id='ukGovErrors')]" priority="+1">
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.tso.co.uk/assets/namespace/error') and $gvConvertToTsoNS]" priority="+1">
         <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="http://www.tso.co.uk/assets/namespace/error"
+	targetNamespace="http://www.tso.co.uk/assets/namespace/error"
+	xmlns="http://www.tso.co.uk/assets/namespace/error" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error" elementFormDefault="qualified">
+            <xsl:apply-templates select="@version|@id"/>
+            <xsl:apply-templates/>
+        </xsd:schema>
+    </xsl:template>
+    
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.legislation.gov.uk/namespaces/error') and not(@id='ukGovErrors') and $gvConvertToTsoNS]" priority="+1">
+        <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.tso.co.uk/assets/namespace/error" xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns="http://www.tso.co.uk/assets/namespace/error"
     xmlns:errl="http://www.tso.co.uk/assets/namespace/error"
     elementFormDefault="qualified"  attributeFormDefault="unqualified" >
@@ -91,10 +112,10 @@
         </xsd:schema>
     </xsl:template>
     
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.w3.org/1999/xhtml']" priority="+1">
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.w3.org/1999/xhtml') and $gvConvertToTsoNS]" priority="+1">
         <xsd:schema targetNamespace="http://www.w3.org/1999/xhtml"
 	       xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://www.w3.org/1999/xhtml" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation"
 	xmlns:ukl="http://www.tso.co.uk/assets/namespace/legislation" xmlns:dcq="http://purl.org/dc/terms/"  xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
@@ -104,26 +125,16 @@
         </xsd:schema>
     </xsl:template>
     
-    <xsl:template match="xsd:schema[@targetNamespace='http://www.tso.co.uk/assets/namespace/error']" priority="+1">
-        <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	targetNamespace="http://www.tso.co.uk/assets/namespace/error"
-	xmlns="http://www.tso.co.uk/assets/namespace/error"
-	xmlns:err="http://www.tso.co.uk/assets/namespace/error" elementFormDefault="qualified">
-            <xsl:apply-templates select="@version|@id"/>
-            <xsl:apply-templates/>
-        </xsd:schema>
-    </xsl:template>
-    
     <!-- Bizarrely XMetaL (v12 for example) errors with "The schema document does not contain a schema element"
          IF the schema has multiple ns preix deinitions for schema
          <xsd:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-         That should not be an error but the matches below are in palce to cope with it
+         That should not be an error but the matches below are in place to cope with it
     -->
         
     <xsl:template match="xsd:schema[@targetNamespace='http://purl.org/dc/terms/']" priority="+1">
         <xsd:schema
            xmlns:dc="http://purl.org/dc/elements/1.1/"
-           xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+           xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:atom="http://www.w3.org/2005/Atom"
            targetNamespace="http://purl.org/dc/terms/"
            xmlns="http://purl.org/dc/terms/"
            elementFormDefault="qualified"
@@ -134,14 +145,14 @@
     </xsl:template>
     
     <xsl:template match="xsd:schema[@targetNamespace='http://purl.org/dc/elements/1.1/']" priority="+1">
-        <xsd:schema xmlns="http://purl.org/dc/elements/1.1/" targetNamespace="http://purl.org/dc/elements/1.1/" elementFormDefault="qualified" attributeFormDefault="unqualified">
+        <xsd:schema xmlns="http://purl.org/dc/elements/1.1/" targetNamespace="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" elementFormDefault="qualified" attributeFormDefault="unqualified">
             <xsl:apply-templates select="@version|@id"/>
             <xsl:apply-templates/>
         </xsd:schema>
     </xsl:template>
     
     <xsl:template match="xsd:schema[@targetNamespace='http://purl.org/dc/dcmitype/']" priority="+1">
-        <xsd:schema   xmlns="http://purl.org/dc/dcmitype/" targetNamespace="http://purl.org/dc/dcmitype/" elementFormDefault="qualified" attributeFormDefault="unqualified">
+        <xsd:schema  xmlns="http://purl.org/dc/dcmitype/"  xmlns:atom="http://www.w3.org/2005/Atom" targetNamespace="http://purl.org/dc/dcmitype/" elementFormDefault="qualified" attributeFormDefault="unqualified">
             <xsl:apply-templates select="@version|@id"/>
             <xsl:apply-templates/>
         </xsd:schema>
@@ -150,7 +161,7 @@
     <xsl:template match="xsd:schema[@targetNamespace='http://www.w3.org/1998/Math/MathML']" priority="+1">
         <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	targetNamespace="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
-	xmlns="http://www.w3.org/1998/Math/MathML" elementFormDefault="qualified">
+	xmlns="http://www.w3.org/1998/Math/MathML" xmlns:atom="http://www.w3.org/2005/Atom" elementFormDefault="qualified">
             <xsl:apply-templates select="@version|@id"/>
             <xsl:apply-templates/>
         </xsd:schema>
@@ -158,7 +169,7 @@
     
     <xsl:template match="xsd:schema[@targetNamespace='http://www.w3.org/1999/xlink']" priority="+1">
         <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	targetNamespace="http://www.w3.org/1999/xlink"
+	targetNamespace="http://www.w3.org/1999/xlink" xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://www.w3.org/1999/xlink" elementFormDefault="qualified">
             <xsl:apply-templates select="@version|@id"/>
             <xsl:apply-templates/>
@@ -167,55 +178,42 @@
     
     <xsl:template match="xsd:schema[@targetNamespace='http://www.w3.org/1999/XSL/Format']" priority="+1">
         <xsd:schema  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	targetNamespace="http://www.w3.org/1999/XSL/Format"
+	targetNamespace="http://www.w3.org/1999/XSL/Format" xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns="http://www.w3.org/1999/XSL/Format" elementFormDefault="qualified" attributeFormDefault="qualified">
             <xsl:apply-templates select="@version|@id"/>
             <xsl:apply-templates/>
         </xsd:schema>
     </xsl:template>
 
+    <xsl:template match="xsd:schema[(@targetNamespace='http://www.w3.org/2005/Atom') and not($gvDropAtom)]" priority="+1">
+        <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+	targetNamespace="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml">
+            <xsl:apply-templates select="@version|@id"/>
+            <xsl:apply-templates/>
+        </xs:schema>
+    </xsl:template>
+    
     <!-- swap imports where required -->
-    <xsl:template match="@namespace[. = 'http://www.legislation.gov.uk/namespaces/legislation']">
+    <xsl:template match="@namespace[(. = 'http://www.legislation.gov.uk/namespaces/legislation') and $gvConvertToTsoNS]">
         <xsl:attribute name="namespace" select="'http://www.tso.co.uk/assets/namespace/legislation'"/>
     </xsl:template>
     
-    <xsl:template match="@namespace[. = 'http://www.legislation.gov.uk/namespaces/metadata']">
+    <xsl:template match="@namespace[(. = 'http://www.legislation.gov.uk/namespaces/metadata') and $gvConvertToTsoNS]">
         <xsl:attribute name="namespace" select="'http://www.tso.co.uk/assets/namespace/metadata'"/>
     </xsl:template>
     
     <!-- drop the import for atom as not needed for publication and causes error in MSXML which is used in Pub pipeline -->
-    <xsl:template match="xsd:import[@namespace = 'http://www.w3.org/2005/Atom']"/>
-    <xsl:template match="xsd:element[@ref = 'atom:link']"/>
+    <xsl:template match="xsd:import[(@namespace = 'http://www.w3.org/2005/Atom') and $gvDropAtom]" priority="+1"/>
+    <xsl:template match="xsd:element[(@ref = 'atom:link') and $gvDropAtom]" priority="+1"/>
     
-   
-    <!--<xsl:template match="xsd:import[(@schemaLocation='../schema/legislation.xsd') and (ancestor::xsd:schema/@id='SchemaTable')]">
-        <!-\-For the schema to work in  MSXML or .XercesNET to work (pub version only) we need to pull in the 2 individual files instead.
-	Annoyingly Xerces errors with what MSXML likes.
-	
-	drop the <xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schema/legislation.xsd"/>
-    then Insert...    
-    
-    Now changed in source
-    -\->
-       <xsl:choose>
-           <xsl:when test="$gpMSXMLcompliant='yes'">
-                <xsd:import namespace="http://www.tso.co.uk/assets/namespace/legislation" schemaLocation="../schema/schemaLegislationTypes.xsd"/>
-                <xsd:import namespace="http://www.tso.co.uk/assets/namespace/legislation" schemaLocation="../schemaModules/schemaTableTypes.xsd"/>
-           </xsl:when>
-           <xsl:otherwise>
-               <!-\- for publishing workflow use their top level schema name -\->
-               <xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="../schema/schemaLegislationBase-v1-0.xsd"/>
-           </xsl:otherwise>
-       </xsl:choose>  
-    </xsl:template>-->
-    
-    <xsl:template match="xsd:*">
+    <xsl:template match="xsd:*[$gvConvertToTsoNS]">
         <xsl:element name="xsd:{local-name()}"  inherit-namespaces="no">
             <xsl:apply-templates select="*|@*|processing-instruction()|text()"/>
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="@base|@type">
+    <xsl:template match="@base[$gvConvertToTsoNS]|@type[$gvConvertToTsoNS]">
         <xsl:attribute name="{name()}">
             <xsl:choose>
                 <xsl:when test="contains(.,'xs:')">
@@ -231,7 +229,7 @@
         </xsl:attribute>
     </xsl:template>
     
-    <xsl:template match="@memberTypes[contains(concat(' ',.),' xs:')]">
+    <xsl:template match="@memberTypes[contains(concat(' ',.),' xs:') and $gvConvertToTsoNS]">
         <xsl:attribute name="memberTypes">
             <xsl:variable name="vMembers" select="tokenize(normalize-space(.),' ')" as="xs:string*"/>
             <xsl:for-each select="$vMembers">
@@ -251,7 +249,8 @@
         </xsl:attribute>
     </xsl:template>
     
-    <!-- pass through everything else -->
+    <!-- pass through everything else 
+    CM: added comments which were missing 25/02/20-->
     <xsl:template match="*|@*|processing-instruction()|text()|comment()" priority="-1">
         <xsl:copy>
             <xsl:apply-templates select="*|@*|processing-instruction()|text()"/>
