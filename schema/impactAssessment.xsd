@@ -18,7 +18,7 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>`
+				<dcq:modified>2019-03-05</dcq:modified>`
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -26,10 +26,11 @@
 			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
 			</xsd:documentation>
 			<xsd:documentation>
-			Modification information
-			Version	Name									Modification	
-			2.1		Colin Mackenzie						Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
+			Modification information (for version number strategy see ../readMe.txt)
+			Version	Name					Modification
+			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
+			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>

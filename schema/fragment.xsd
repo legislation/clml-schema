@@ -21,7 +21,7 @@
 				<dcq:created>2011-05-06</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2019-03-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -29,12 +29,13 @@
 			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
 			</xsd:documentation>
 			<xsd:documentation>
-			Modification information
-			Version	Name									Modification
-			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
-			1.2			Colin Mackenzie					Added in EU elements that could be edited in whole or in frgament
-			1.1			Colin Mackenzie					Restructured to remove unnecessary file duplication
-			1.0			Jeni Tennison					Created
+			Modification information (for version number strategy see ../readMe.txt)
+			Version	Name				   Modification
+			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.2		Colin Mackenzie		Added in EU elements that could be edited in whole or in frgament
+			1.1		Colin Mackenzie		Restructured to remove unnecessary file duplication
+			1.0		Jeni Tennison		  Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>

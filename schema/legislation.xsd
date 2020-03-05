@@ -21,7 +21,7 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2019-03-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -29,11 +29,12 @@
 			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
 			</xsd:documentation>
 			<xsd:documentation>
-			Modification information
-			Version	Name							Modification
-			2.0			Colin Mackenzie				Numbering restarted at 2 for new EU and merged schema
-			2.0			Colin Mackenzie				This schema has had most of its contents moved to schemaLegislationCore.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
-			1.0			Paul Appleby/Peter Lazar	Created
+			Modification information (for version number strategy see ../readMe.txt)
+			Version	Name				   	Modification
+			2.1		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
+			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			2.0		Colin Mackenzie			This schema has had most of its contents moved to schemaLegislationCore.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
+			1.0		Paul Appleby/Peter Lazar	Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
