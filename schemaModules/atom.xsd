@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  -*- rnc -*-
-  RELAX NG Compact Syntax Grammar for the
-  Atom Format Specification Version 11
+  
 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
 	targetNamespace="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	xmlns:xhtml="http://www.w3.org/1999/xhtml" version="2.1" id="atom">
+	<xs:annotation>
+		<xs:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Atom schema</dc:title>
+			<dc:description>Schema defining atom elements and structures that may be used in Legislation</dc:description>
+			<dc:date>
+				<dcq:modified>2020-03-06</dcq:modified>
+			</dc:date>
+			<xs:documentation>
+			<xs:documentation>
+			Originally Generated from -*- rnc -*- RELAX NG Compact Syntax Grammar for the Atom Format Specification Version 11
+			</xs:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.w3.org/2005/Atom'
+			</xs:documentation>
+			<xs:documentation>
+			Modification information (for version number strategy see ../readMe.txt)
+			Version	Name				   Modification
+			2.1		Colin Mackenzie		Changed the model for atom:category (not used in legislation) and atom:link (used in final data set)
+												so that the models are deterministic and therefore can be supported by MSXML.
+												This was acheived by restricting the content model to attribute only which is  how the elements are used in legislation.
+			2.1		Colin Mackenzie		Added metadata and version and id attribute to be consistent with legislation schemas
+											  (and to support new versions/documentation approach)
+			</xs:documentation>
+		</xs:appinfo>
+	</xs:annotation>
 	<xs:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="xhtml.xsd"/>
 	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
 	<!-- Common attributes -->
@@ -148,7 +171,9 @@
 	<!-- atom:category -->
 	<xs:element name="category">
 		<xs:complexType>
-			<xs:complexContent>
+			<!-- Colin Mackenzie 06/03/2020
+				MSXML4 thinks this is invalid as derived type and base type must have the same content type
+				<xs:complexContent>
 				<xs:extension base="atom:undefinedContent">
 					<xs:attributeGroup ref="atom:atomCommonAttributes"/>
 					<xs:attribute name="term" use="required"/>
@@ -156,6 +181,13 @@
 					<xs:attribute name="label"/>
 				</xs:extension>
 			</xs:complexContent>
+			But we do not EVER put content in atom values and we do not even use or refer to category
+				so I refer directly to content model instead -->
+			<!--<xs:group minOccurs="0" maxOccurs="unbounded" ref="atom:anyForeignElement"/>-->
+			<xs:attributeGroup ref="atom:atomCommonAttributes"/>
+			<xs:attribute name="term" use="required"/>
+			<xs:attribute name="scheme"/>
+			<xs:attribute name="label"/>
 		</xs:complexType>
 	</xs:element>
 	<!-- atom:contributor -->
@@ -189,7 +221,9 @@
 	<!-- atom:link -->
 	<xs:element name="link">
 		<xs:complexType>
-			<xs:complexContent>
+			<!--  Colin Mackenzie 06/03/2020
+				MSXML4 thinks this is invalid as derived type and base type must have the same content typeMSXML4 thinks this is invalid as derived type and base type must have the same content type
+				<xs:complexContent>
 				<xs:extension base="atom:undefinedContent">
 					<xs:attributeGroup ref="atom:atomCommonAttributes"/>
 					<xs:attribute name="href" use="required"/>
@@ -200,6 +234,16 @@
 					<xs:attribute name="length"/>
 				</xs:extension>
 			</xs:complexContent>
+			But we do not put content inside atom links so I could refer directly to content model instead 
+			or simply not all any content (as done below) -->
+			<!--<xs:group minOccurs="0" maxOccurs="unbounded" ref="atom:anyForeignElement"/>-->
+			<xs:attributeGroup ref="atom:atomCommonAttributes"/>
+			<xs:attribute name="href" use="required"/>
+			<xs:attribute name="rel"/>
+			<xs:attribute name="type" type="atom:atomMediaType"/>
+			<xs:attribute name="hreflang" type="atom:atomLanguageTag"/>
+			<xs:attribute name="title"/>
+			<xs:attribute name="length"/>
 		</xs:complexType>
 	</xs:element>
 	<!-- atom:published -->
@@ -293,10 +337,16 @@
 		</xs:sequence>
 	</xs:group>
 	<xs:group name="anyForeignElement">
+		<!--  Colin Mackenzie 06/03/2020
+		MSXML4 thinks this is invalid as derived type and base type must have the same content typeColin: we need a deterministic version to stop MSXML form erroring
+			Note: we no longer use this model anyway as we need empty elements for atom:link
 		<xs:choice>
 			<xs:any namespace="##other" processContents="lax"/>
 			<xs:any namespace="##local" processContents="lax"/>
-		</xs:choice>
+		</xs:choice> -->
+		<xs:sequence>
+			<xs:any namespace="##any" processContents="lax"/>
+		</xs:sequence>
 	</xs:group>
 	<!-- XHTML -->
 	<xs:group name="anyXHTML">

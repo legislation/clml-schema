@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
 	targetNamespace="http://www.w3.org/XML/1998/namespace" xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	xmlns:xhtml="http://www.w3.org/1999/xhtml" version="2.1" id="xml">
+	<xs:annotation>
+		<xs:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>XML Schema</dc:title>
+			<dc:description>Schema defining standard xml attribute and structures that may be used in Legislation</dc:description>
+			<dc:date>
+				<dcq:modified>2020-03-06</dcq:modified>
+			</dc:date>
+			<xs:documentation>
+			<xs:documentation>
+			See http://www.w3.org/XML/1998/namespace.html and http://www.w3.org/TR/REC-xml for information about this namespace. This schema document describes the XML namespace, in a form suitable for import by other schema documents. Note that local names in this namespace are intended to be defined only by the World Wide Web Consortium or its subgroups. The following names are currently defined in this namespace and should not be used with conflicting semantics by any Working Group, specification, or document instance: base (as an attribute name): denotes an attribute whose value provides a URI to be used as the base for interpreting any relative URIs in the scope of the element on which it appears; its value is inherited. This name is reserved by virtue of its definition in the XML Base specification. lang (as an attribute name): denotes an attribute whose value is a language code for the natural language of the content of any element; its value is inherited. This name is reserved by virtue of its definition in the XML specification. space (as an attribute name): denotes an attribute whose value is a keyword indicating what whitespace processing discipline is intended for the content of the element; its value is inherited. This name is reserved by virtue of its definition in the XML specification. Father (in any context at all): denotes Jon Bosak, the chair of the original XML Working Group. This name is reserved by the following decision of the W3C XML Plenary and XML Coordination groups: In appreciation for his vision, leadership and dedication the W3C XML Plenary on this 10th day of February, 2000 reserves for Jon Bosak in perpetuity the XML name xml:Father
+			</xs:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.w3.org/XML/1998/namespace'
+			</xs:documentation>
+			<xs:documentation>
+			Modification information (for version number strategy see ../readMe.txt)
+			Version	Name				   Modification
+			2.1		Colin Mackenzie		Removed unnecessary definitions that are duplicated in namespace.xsd (to achieve support in MSXML and .Net)
+			2.1		Colin Mackenzie		Added metadata and version and id attribute to be consistent with legislation schemas
+											  (and to support new versions/documentation approach)
+			</xs:documentation>
+		</xs:appinfo>
+	</xs:annotation>
 	<xs:import schemaLocation="local.xsd"/>
 	<xs:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="xhtml.xsd"/>
 	<xs:import namespace="http://www.w3.org/2005/Atom" schemaLocation="atom.xsd"/>
-	<!-- Note: all of the following attributes
-		causes an error in MSXML 4 as base and lang is also declared in namespace.xsd 
-	I will leave for now as MSXML 4 errors processing the standard atom.xsd and so is not compliant -->
-	<xs:attribute name="base"/>
-	<xs:attribute name="lang" type="atom:atomLanguageTag"/>  
-	<xs:attribute name="space">
+	<!-- 06/03/20 Colin Mackenzie:
+		The definition of the following attributes causes an error in MSXML 4 as they are also declared in namespace.xsd 
+		I have commented them out as it is not necessary to defien them again here -->
+	<!--<xs:attribute name="base"/>
+		xs:attribute name="lang" type="atom:atomLanguageTag"/>
+		<xs:attribute name="space">
 		<xs:simpleType>
 			<xs:restriction base="xs:NMTOKEN">
 				<xs:enumeration value="normal"/>
 				<xs:enumeration value="preserve"/>
 			</xs:restriction>
 		</xs:simpleType>
-	</xs:attribute>
+	</xs:attribute>-->
 </xs:schema>
