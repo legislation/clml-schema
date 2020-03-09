@@ -3,17 +3,23 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     version="2.0" exclude-result-prefixes="xs">
     
-    <!-- XSLT to convert the legalisation namespace schema into
-        a) a version that works in the TSO namespace; and/or
-        b) a version without atom.xsd (for MSXML compliance but not suitable for web data which will contain atom metadata elements)
+    <!-- Colin Mackenzie: 09/03/2020
+        XSLT to convert the legalisation schema
         
-        Now we have global parameters to control this behaviour.
+        Originally developed to create a TSO namespace version of the unified schema.
+        Then enhanced to drop atom.xsd to make the schema MSMXL compliant to allow  reduced model (no atom:link) used in publication system.
+        We now have global parameters to control this behaviour.
+        
+        Note: At this point in time, this XSLT should no longer be needed but it should stay as
+        a) we may have to create schema in legacy mode to compare to old schema
+        b) if the atom.xsd testing does not work in some system or other then the schema can still have atom.xsd dropped temporarily
+        c) We may develop alternative validations for some models between editorial and delivery schemas and one option would be to use this script to change the model if we cannot do it another way.
     -->
     
     <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/unified-master-schema'" as="xs:string"/>
     <xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
     <xsl:param name="gpConvertToTsoNS" select="'true'" as="xs:string"/>
-    <xsl:param name="gpDropAtom" select="'true'" as="xs:string"/>
+    <xsl:param name="gpDropAtom" select="'false'" as="xs:string"/>
     
     <xsl:variable name="gvConvertToTsoNS" select="$gpConvertToTsoNS='true'" as="xs:boolean"/>
     <xsl:variable name="gvDropAtom" select="$gpDropAtom='true'" as="xs:boolean"/>
@@ -209,7 +215,7 @@
     
     <xsl:template match="xsd:*[$gvConvertToTsoNS]">
         <xsl:element name="xsd:{local-name()}"  inherit-namespaces="no">
-            <xsl:apply-templates select="*|@*|processing-instruction()|text()"/>
+            <xsl:apply-templates select="*|@*|processing-instruction()|text()|comment()"/>
         </xsl:element>
     </xsl:template>
     
@@ -253,7 +259,7 @@
     CM: added comments which were missing 25/02/20-->
     <xsl:template match="*|@*|processing-instruction()|text()|comment()" priority="-1">
         <xsl:copy>
-            <xsl:apply-templates select="*|@*|processing-instruction()|text()"/>
+            <xsl:apply-templates select="*|@*|processing-instruction()|text()|comment()"/>
         </xsl:copy>
     </xsl:template>
 </xsl:stylesheet>
