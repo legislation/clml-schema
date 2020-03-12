@@ -7,6 +7,7 @@ Crown copyright 2018
 ### Version 2.1
 Release date: TBD
 Features and Fixes (TBC):
+
 * New schema version numbering scheme introduced (see below)
 
 * New schema release documentation file (this file)
