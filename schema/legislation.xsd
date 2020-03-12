@@ -29,7 +29,7 @@
 			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
 			</xsd:documentation>
 			<xsd:documentation>
-			Modification information (for version number strategy see ../readMe.txt)
+			Modification information (for version number strategy see ../README.md)
 			Version	Name				   	Modification
 			2.1		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
 			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema

@@ -26,7 +26,7 @@
 			The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
 			</xsd:documentation>
 			<xsd:documentation>
-			Modification information (for version number strategy see ../readMe.txt)
+			Modification information (for version number strategy see ../README.md)
 			Version	Name					Modification
 			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
 			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc

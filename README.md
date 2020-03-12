@@ -1,21 +1,31 @@
+
+# Legislation Schema
 The schemas provided are intended to describe UK Legislation.
 Crown copyright 2018
 
-Top-level schemas
-------------------
+## Release Notes
+### Version 2.1
+Release date: TBD
+Features and Fixes (TBC):
+* New schema version numbering scheme introduced (see below)
+* New schema release documentation file (this file)
+* #171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
+* #171488633 - the legsialtion .xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
+* #TBD
+
+## Top-level schemas
 
 The following schema (from the "schema" folder") are "top-level" schema that should be used to validate various types of legislative documents.
 
-legislation.xsd - used to validate primary and secondary UK legislation data sets including those available from legislation.gov.uk and from the bulk downloads site http://leggovuk.s3-website-eu-west-1.amazonaws.com
+* legislation.xsd - used to validate primary and secondary UK legislation data sets including those available from legislation.gov.uk and from the bulk downloads site http://leggovuk.s3-website-eu-west-1.amazonaws.com
 
-en.xsd - used to validate explanatory notes and explanatory memoranda.
+* en.xsd - used to validate explanatory notes and explanatory memoranda.
 
-impactAssessment.xsd - used to validate UK Impact Assessments.
+* impactAssessment.xsd - used to validate UK Impact Assessments.
 
-fragement.xsd - used to validate subsets of primary and secondary UK legislation data files during the editing process.
+* fragment.xsd - used to validate subsets of primary and secondary UK legislation data files during the editing process.
 
-Schema versioning and documentation of change
-----------------------------------------------
+## Schema versioning and documentation of change
 
 If a change is made to the schema that breaks old data or significantly changes the meaning of existing semantics then the schema versions will change in such a way that old data can point to old schema and new data to new schema. This is to be avoided if at all possible (as has been the case with legislation). The change would be reflected by a change to the namespace (by adding a version). This would invalidate all old data and require updates to all systems/scripts and schema modules. This is to be avoided unless entirely necessary!
 
