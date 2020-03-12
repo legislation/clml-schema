@@ -8,9 +8,13 @@ Crown copyright 2018
 Release date: TBD
 Features and Fixes (TBC):
 * New schema version numbering scheme introduced (see below)
+
 * New schema release documentation file (this file)
-* PT 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
-* PT 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
+
+* Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
+
+* Issue 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
+
 * TBD
 
 ## Top-level schemas
