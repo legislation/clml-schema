@@ -30,8 +30,9 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
+			2.1		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
+			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			2.0		W Holmes			Changes to Section and Sectionrange element 
 			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
 			2.0		W Holmes			Changes to UnappliedEffect element 
@@ -214,57 +215,56 @@
 					when editing publications using schemaLegislationbase-v1-0.xsd
 					then it is in schemaLegislationMetadataCorrectionEdit.xsd-->
 					<xsd:element name="Correction">
-		<xsd:annotation>
-			<xsd:documentation>Certain items of legislation get corrected or are correcting. This information is used to connect the two items together</xsd:documentation>
-			<xsd:documentation>It is also possible to correct a draft legislation item. In that case the identifier of the other document should be used</xsd:documentation>
-			<xsd:documentation>When the data is past the published stage, only the attributes are present not the element content</xsd:documentation>
-		</xsd:annotation>
-		<xsd:complexType>
-			<xsd:sequence minOccurs="0">
-				<xsd:annotation>
-					<xsd:documentation>If in publications editing then complete contents not attributes</xsd:documentation>
-				</xsd:annotation>
-				<xsd:element ref="DocumentMainType"/>
-				<xsd:choice>
-					<xsd:sequence>
-						<xsd:element ref="Year"/>
-						<xsd:element ref="Number"/>
-						<xsd:element ref="dc:identifier" minOccurs="0"/>
-					</xsd:sequence>
-					<xsd:element ref="dc:identifier"/>
-				</xsd:choice>
-			</xsd:sequence>
-			<xsd:attribute name="Type" use="optional">
-				<xsd:annotation>
-					<xsd:documentation>If in publications editing then Type is mandatory (but not in delivered data)</xsd:documentation>
-				</xsd:annotation>
-				<xsd:simpleType>
-					<xsd:restriction base="xsd:string">
-						<xsd:enumeration value="corrects"/>
-						<xsd:enumeration value="correctedBy"/>
-					</xsd:restriction>
-				</xsd:simpleType>
-			</xsd:attribute>
-			<!-- if editing in publications then the following should not be used (used in delivered data) -->
-			<xsd:attribute name="Class" type="xsd:string" use="optional">
-				<xsd:annotation>
-					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
-			<!-- Year 4 digit Year or empty string -->
-			<xsd:attribute name="Year" type="xsd:string" use="optional">
-				<xsd:annotation>
-					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
-			<!-- Number 4 digit Number or empty string -->
-			<xsd:attribute name="Number" type="xsd:string" use="optional">
-				<xsd:annotation>
-					<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
-		</xsd:complexType>
-	</xsd:element>
+						<xsd:annotation>
+							<xsd:documentation>Certain items of legislation get corrected or are correcting. This information is used to connect the two items together.</xsd:documentation>
+							<xsd:documentation>It is also possible to correct a draft legislation item. In that case the identifier of the other document should be used</xsd:documentation>
+							<xsd:documentation>When the data is past the published stage, only the attributes are present not the element content.
+											   This model is used for the data delivered by the website and bulk downloads. 
+											   The data model has been made more strict (required attributes to match our expectations of data quality.</xsd:documentation>
+						</xsd:annotation>
+						<xsd:complexType>
+							<xsd:sequence minOccurs="0">
+								<xsd:annotation>
+									<xsd:documentation>If in publications editing then complete contents not attributes</xsd:documentation>
+								</xsd:annotation>
+								<xsd:element ref="DocumentMainType"/>
+								<xsd:choice>
+									<xsd:sequence>
+										<xsd:element ref="Year"/>
+										<xsd:element ref="Number"/>
+										<xsd:element ref="dc:identifier" minOccurs="0"/>
+									</xsd:sequence>
+									<xsd:element ref="dc:identifier"/>
+								</xsd:choice>
+							</xsd:sequence>
+							<xsd:attribute name="Type" use="required">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:enumeration value="corrects"/>
+										<xsd:enumeration value="correctedBy"/>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:attribute>
+							<!-- if editing in publications then the following should not be used (used in delivered data) -->
+							<xsd:attribute name="Class" type="leg:DocumentMainType" use="required">
+								<xsd:annotation>
+									<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+								</xsd:annotation>
+							</xsd:attribute>
+							<!-- Year 4 digit  -->
+							<xsd:attribute name="Year" type="xsd:gYear" use="required">
+								<xsd:annotation>
+									<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+								</xsd:annotation>
+							</xsd:attribute>
+							<!-- Number 4 digit Number (could also be ISBN for Darft documents) -->
+							<xsd:attribute name="Number" type="xsd:integer" use="required">
+								<xsd:annotation>
+									<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+								</xsd:annotation>
+							</xsd:attribute>
+						</xsd:complexType>
+					</xsd:element>
 				</xsd:choice>
 			</xsd:sequence>
 		</xsd:complexType>
