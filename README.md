@@ -16,6 +16,8 @@ Features and Fixes (TBC):
 
 * Issue 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
 
+* Issue #161958070 - hanged the model for the attributes on ukm:Correction to have stricter validation rules
+
 * TBD
 
 ## Top-level schemas
