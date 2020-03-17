@@ -10,13 +10,15 @@ Features and Fixes (TBC):
 
 * New schema version numbering scheme introduced (see below)
 
-* New schema release documentation file (this file)
+* New schema release documentation (this file)
 
 * Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
 
 * Issue 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
 
-* Issue #161958070 - hanged the model for the attributes on ukm:Correction to have stricter validation rules
+* Issue 161958070 - changed the model for the attributes on ukm:Correction to have stricter validation rules
+
+* Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
 
 * TBD
 
