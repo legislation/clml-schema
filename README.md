@@ -20,6 +20,8 @@ Features and Fixes (TBC):
 
 * Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
 
+* Issue #171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
+
 * TBD
 
 ## Top-level schemas

@@ -860,7 +860,7 @@
 			<xsd:attribute name="Notes" type="xsd:string"/>
 			<xsd:attribute name="OtherQualification" type="xsd:string"/>
 			<xsd:attribute name="Prospective" type="xsd:boolean"/>
-			<!-- #171654037 enforce a choice of enumerated values
+			<!-- #171654037 enforce a choice of enumerated values (including empty string for historical reasons)
 				<xsd:attribute name="Qualification" type="xsd:string" use="required"/>  -->
 			<xsd:attribute name="Qualification" use="required">
 				<xsd:simpleType>
@@ -893,6 +893,7 @@
 						<xsd:enumeration value="retrospective and with application in accordance with"/>
 						<xsd:enumeration value="coming into force in accordance with"/>
 						<xsd:enumeration value="Other"/>
+						<xsd:enumeration value=""/>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
