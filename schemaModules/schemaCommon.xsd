@@ -18,11 +18,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-03-24</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				Modification
+			Version	Name				ModificationT
+			2.1		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
 			2.1		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1		Colin Mackenzie		Added EU values plus full UK list of "E+W+S+N.I.
@@ -59,6 +60,11 @@
 			<xsd:enumeration value="UnitedKingdomStatutoryInstrument"/>
 			<xsd:enumeration value="UnitedKingdomDraftStatutoryInstrument"/>
 			<xsd:enumeration value="UnitedKingdomStatutoryRuleOrOrder"/>
+			<xsd:enumeration value="WelshParliamentAct">
+				<xsd:annotation>
+					<xsd:documentation>The new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
 			<xsd:enumeration value="WelshAssemblyMeasure"/>
 			<xsd:enumeration value="WelshNationalAssemblyAct"/>
 			<xsd:enumeration value="WelshStatutoryInstrument"/>
@@ -81,7 +87,7 @@
 			<xsd:enumeration value="EuropeanEconomicCommunity"/>
 			<xsd:enumeration value="EuropeanCommission"/>
 			
-			The following are deprecated everywhre except in historical publications data
+			The following are deprecated everywhere except in historical publications data
 			<xsd:enumeration value="NorthernIrelandStatutoryRuleLocal"/>
 			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>

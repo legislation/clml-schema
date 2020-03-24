@@ -20,7 +20,9 @@ Features and Fixes (TBC):
 
 * Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
 
-* Issue #171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
+* Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
+
+* Issue 171841757 - Changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
 
 * TBD
 

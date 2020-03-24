@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-18</dcq:modified>
+				<dcq:modified>2020-03-24</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
 			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
 			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
 			2.1		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
@@ -460,6 +461,11 @@
 						<xsd:enumeration value="NorthernIrelandAssembly"/>
 						<xsd:enumeration value="ScottishParliament"/>
 						<xsd:enumeration value="UnitedKingdomParliament"/>
+						<xsd:enumeration value="WelshParliament">
+							<xsd:annotation>
+								<xsd:documentation>"WelshParliament" to be used for all new Welsh Secondary legislation following http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 						<xsd:enumeration value="WelshAssembly"/>
 					</xsd:restriction>
 				</xsd:simpleType>
