@@ -22,7 +22,7 @@
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				ModificationT
+			Version	Name				   Modification
 			2.1		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
 			2.1		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
