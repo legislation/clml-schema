@@ -3,7 +3,7 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0" id="schemaENmetadata"
+	attributeFormDefault="unqualified" version="2.1" id="schemaENmetadata"
 	xmlns:atom="http://www.w3.org/2005/Atom">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -20,7 +20,7 @@
 				<dcq:created>2008-07-04</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-03-26</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,11 +30,12 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name						Modification
+			2.1		Colin Mackenzie			Renamed TSOmetadata to LegislationMetadata
 			2.1		Colin Mackenzie			Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
-			2.0 		Colin Mackenzie			Changed Document Status to allow draft values
-			0.2			Marc Sturman			Added UnitedKingdomMinisterialDirection
-			0.1			Jeni Tennison			Created
+			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			2.0 	   Colin Mackenzie			Changed Document Status to allow draft values
+			0.2		Marc Sturman				Added UnitedKingdomMinisterialDirection
+			0.1		Jeni Tennison			Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -72,12 +73,12 @@
 					<xsd:element ref="dct:alternative"/>
 					<xsd:element ref="dct:valid"/>
 				</xsd:choice>
-				<xsd:group ref="TSOmetadata"/>
+				<xsd:group ref="LegislationMetadata"/>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 
-	<xsd:group name="TSOmetadata">
+	<xsd:group name="LegislationMetadata">
 		<xsd:annotation>
 			<xsd:documentation>Legislation specific metadata</xsd:documentation>
 		</xsd:annotation>

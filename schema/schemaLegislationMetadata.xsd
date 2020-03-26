@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-24</dcq:modified>
+				<dcq:modified>2020-03-26</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
 			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
 			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
 			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
@@ -73,13 +74,13 @@
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:group ref="leg:StandardMetadata"/>
-				<xsd:group ref="TSOmetadata"/>
+				<xsd:group ref="LegislationMetadata"/>
 				<xsd:group ref="leg:ExtraMetadata"/>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 
-	<xsd:group name="TSOmetadata">
+	<xsd:group name="LegislationMetadata">
 		<xsd:annotation>
 			<xsd:documentation>Legislation specific metadata</xsd:documentation>
 		</xsd:annotation>
