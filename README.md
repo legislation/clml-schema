@@ -26,6 +26,8 @@ Features and Fixes (TBC):
 
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
 
+* Issue #172129366 - Added CommonSubAttributes to Division
+
 * TBD
 
 ## Top-level schemas
