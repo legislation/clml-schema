@@ -220,9 +220,6 @@
 	</xs:element>
 	<!-- atom:link -->
 	<xs:element name="link">
-		<xs:annotation>
-			<xs:documentation>Describes links to parts of the current legislation document or to alternative renditions of that content (auto-generated in final delivered XML) in Atom format.</xs:documentation>
-		</xs:annotation>
 		<xs:complexType>
 			<!--  Colin Mackenzie 06/03/2020
 				MSXML4 thinks this is invalid as derived type and base type must have the same content typeMSXML4 thinks this is invalid as derived type and base type must have the same content type

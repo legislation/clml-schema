@@ -23,11 +23,11 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name					Modification
-			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.3		Jim Mangiafico			Expanded to accommodate European Union legislation
-			1.2		Colin Mackenzie		Restructure to be usable by editorial and legislation
-			1.1		Paul Appleby			Added acronyms and abbreviations
-			1.0		Paul Appleby			Created
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.3			Jim Mangiafico		Expanded to accommodate European Union legislation
+			1.2			Colin Mackenzie		Restructure to be usable by editorial and legislation
+			1.1			Paul Appleby		Added acronyms and abbreviations
+			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -107,4 +107,9 @@
 	<!-- Struck through text -->
 	<xsd:include schemaLocation="../schemaModules/schemaStrike.xsd"/>
 	<xsd:include schemaLocation="../schemaModules/schemaNote.xsd"/>
+	
+	<!--<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>-->
+	
+	<!-- Fragment specific Metadata.xsd -->
+	<!--<xsd:import namespace="http://www.legislation.gov.uk/namespaces/metadata" schemaLocation="schemaLegislationMetadata.xsd"/>-->
 </xsd:schema>

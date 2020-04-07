@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/XSL/Format" targetNamespace="http://www.w3.org/1999/XSL/Format"
-	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns:h="http://www.w3.org/1999/xhtml"
+	elementFormDefault="qualified" attributeFormDefault="qualified" 
 	version="2.0" id="SchemaFO">
 	
 	<xsd:annotation>
@@ -31,19 +31,16 @@
 	</xsd:annotation>
 	
 	<xsd:attributeGroup name="TableBackgroundColorAttributes">
-		<xsd:attribute name="background-color" type="TableColorType">
-			<xsd:annotation>
-				<xsd:documentation>Defines a background color</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
+		<xsd:annotation>
+			<xsd:documentation>Defines a background color</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="background-color" type="TableColorType"/>
 	</xsd:attributeGroup>
 	
 	<xsd:attributeGroup name="TableBorderLeftAttributes">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Defines a table left border, using either default values, or a combination of style, color and width.</h:p>
-				<h:p>Some of the attribute names have been copied from the W3 XSL:FO specification</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Defines a table left border, using either default values, or a combination of style, color and width</xsd:documentation>
+			<xsd:documentation>Some of the attribute names have been copied from the W3 XSL:FO specification</xsd:documentation>
 		</xsd:annotation>
 		<xsd:attribute name="border-left-style" type="TableBorderStyleType" default="inherit"/>
 		<xsd:attribute name="border-left-color" type="TableColorType" default="inherit"/>
@@ -52,10 +49,8 @@
 	
 	<xsd:attributeGroup name="TableBorderTopAttributes">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Defines a table top border, using either default values, or a combination of style, color and width</h:p>
-				<h:p>Some of the attribute names have been copied from the W3 XSL:FO specification</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Defines a table top border, using either default values, or a combination of style, color and width</xsd:documentation>
+			<xsd:documentation>Some of the attribute names have been copied from the W3 XSL:FO specification</xsd:documentation>
 		</xsd:annotation>
 		<xsd:attribute name="border-top-style" type="TableBorderStyleType" default="inherit"/>
 		<xsd:attribute name="border-top-color" type="TableColorType" default="inherit"/>
@@ -64,10 +59,8 @@
 	
 	<xsd:attributeGroup name="TableBorderAttributes">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Defines table right and bottom borders, using either default values, or a combination of style, color and width</h:p>
-				<h:p>Some of the attribute names have been copied from the W3 XSL:FO specification</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Defines table right and bottom borders, using either default values, or a combination of style, color and width</xsd:documentation>
+			<xsd:documentation>Some of the attribute names have been copied from the W3 XSL:FO specification</xsd:documentation>
 		</xsd:annotation>
 		<xsd:attribute name="border-right-style" type="TableBorderStyleType" default="inherit"/>
 		<xsd:attribute name="border-bottom-style" type="TableBorderStyleType" default="inherit"/>
@@ -81,11 +74,9 @@
 	
 	<xsd:simpleType name="TableBorderStyleType">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Defines a border style type</h:p>
-				<h:p>Values taken from the CSS2 specification http://www.w3.org/TR/REC-CSS2/box.html#value-def-border-style</h:p>
-				<h:p>Note: the value 'none' has not been used</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Defines a border style type</xsd:documentation>
+			<xsd:documentation>Values taken from the CSS2 specification http://www.w3.org/TR/REC-CSS2/box.html#value-def-border-style</xsd:documentation>
+			<xsd:documentation>Note: the value 'none' has not been used</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="inherit"/>
@@ -101,28 +92,7 @@
 	
 	<xsd:simpleType name="TableColorType">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Defines a colour type using CSS basic colour values or RGB notation</h:p>
-				<h:ul>
-					<h:li>aqua - </h:li>
-					<h:li>black - </h:li>
-					<h:li>blue - </h:li>
-					<h:li>fuchsia - </h:li>
-					<h:li>gray - </h:li>
-					<h:li>green - </h:li>
-					<h:li>lime - </h:li>
-					<h:li>maroon - </h:li>
-					<h:li>navy - </h:li>
-					<h:li>olive - </h:li>
-					<h:li>purple - </h:li>
-					<h:li>red - </h:li>
-					<h:li>silver - </h:li>
-					<h:li>teal - </h:li>
-					<h:li>white - </h:li>
-					<h:li>yellow - </h:li>
-					<h:li>hexadecimal value e.g. #4b0082 is indigo</h:li>
-				</h:ul>
-			</xsd:documentation>
+			<xsd:documentation>Defines a colour type using CSS basic colour values or RGB notation</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:pattern value="inherit"/>
@@ -161,7 +131,7 @@
 	<xsd:attributeGroup name="BlockOrientation">
 		<xsd:attribute name="reference-orientation">
 			<xsd:annotation>
-				<xsd:documentation>Defines the rotation of the text in the cell in either a positive or negative direction (using negative values will give the inverse rotation to using the positive value) where positive is clockwise</xsd:documentation>
+				<xsd:documentation>Defines the rotation of the text in the cell</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">

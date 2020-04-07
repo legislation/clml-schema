@@ -25,10 +25,10 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
-			1.6			William Holmes	  Added ProvisionCountAttributes
-			1.5			Jim Mangiafico	  Expanded to accommodate European Union legislation
-			1.4			Colin Mackenzie	 Added Primary and Secondary content types so they can be re-used in editorial fragment.xsd
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.6			William Holmes		Added ProvisionCountAttributes
+			1.5			Jim Mangiafico		Expanded to accommodate European Union legislation
+			1.4			Colin Mackenzie		Added Primary and Secondary content types so they can be re-used in editorial fragment.xsd
 			1.3			Paul Appleby		Added Group to relevant content models
 			1.2			Paul Appleby		Allowed TitleBlock to repeat for Schedule, Appendix and Abstract to give more flexibility
 			1.1			Paul Appleby		Allowed P2 and P2group in certain elements
@@ -122,7 +122,7 @@
 
 	<xsd:element name="Schedules">
 		<xsd:annotation>
-			<xsd:documentation>Schedules to the document. For many pieces of legislation the schedules form the major part of the document and generally provide the detail to content described in the body of the document.</xsd:documentation>
+			<xsd:documentation>Schedules to the document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -143,10 +143,7 @@
 
 	<xsd:element name="Abstract">
 		<xsd:annotation>
-			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>An abstract to the schedules, occurs rarely (the only regular occurrence is the in Appropriations Act).</h:p>
-				<h:p>They provide a summary of the contents of the schedules (they are not an arrangement).</h:p>
-			</xsd:documentation>
+			<xsd:documentation>An abstract to the schedules, occurs in Appropriations Act</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -254,7 +251,7 @@
 
 	<xsd:element name="Appendix">
 		<xsd:annotation>
-			<xsd:documentation>Appendix. Appendices do not occur frequently.</xsd:documentation>
+			<xsd:documentation>Appendix</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

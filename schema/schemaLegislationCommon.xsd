@@ -35,7 +35,7 @@
 	<!-- note same for editorial fragment and legislation just different for EN -->
 	<xsd:complexType name="ContentsType">
 		<xsd:annotation>
-			<xsd:documentation>The Legislation specific model for Contents.</xsd:documentation>
+			<xsd:documentation>The Legislation specific model.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:element ref="ContentsTitle" minOccurs="0"/>
@@ -53,7 +53,7 @@
 				<xsd:element ref="ContentsDivision"/>
 			</xsd:choice>
 			<xsd:element ref="ContentsAppendix" minOccurs="0" maxOccurs="unbounded"/>
-			<!-- more complex model added here during merge of EU model -->
+			<!-- more ocmplex model added here during merge of EU model -->
 			<xsd:choice minOccurs="0">
 				<xsd:sequence>
 					<xsd:element ref="ContentsAttachments"/>
@@ -75,7 +75,7 @@
 		(customer facing, publication and fragment editing but Explanatory Notes have their own local definition -->
 	<xsd:group name="EmphasisBasicExtras">
 		<xsd:annotation>
-			<xsd:documentation>The Legislation specific model for empahasis.</xsd:documentation>
+			<xsd:documentation>The Legislation specific model.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:sequence/>
 	</xsd:group>

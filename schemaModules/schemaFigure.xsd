@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
-	xmlns:h="http://www.w3.org/1999/xhtml"
 	version="2.0" id="SchemaFigure">
 
 	<xsd:annotation>
@@ -33,9 +32,7 @@
 	
 	<xsd:element name="Figure">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>A container for graphic(s) material. There may also be a number, caption, associated text and notes to accompany the images</h:p>
-			</xsd:documentation>
+			<xsd:documentation>A container for graphic(s) material. There may also be a number, caption, associated text and notes to accompany the images</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -60,19 +57,8 @@
 			</xsd:attribute>
 			<xsd:attribute name="ImageLayout" default="vertical">
 				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>Defines the layout of the images. This mainly applies when there is more than one image in a figure. They may be laid vertically (normal), horizontally, e.g. across the page, or when there are many images, in a matrix format up to 5 images wide.</h:p>
-						<h:p>There is the possibility that this option may cause a conflict on image widths and page size. It it left to individual implementations as to how this should be resolved.</h:p>
-						<h:p>The possible values are explained below:</h:p>
-						<h:ul>
-							<h:li>vertical - Images will be laid below each other on the page</h:li>
-							<h:li>horizontal - Images will be placed beside each other on the page</h:li>
-							<h:li>matrix-2-wide - Images will be placed two to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-3-wide - Images will be placed three to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-4-wide - Images will be placed four to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-5-wide - Images will be placed five to a line, using enough lines as needed to place all the images</h:li>
-						</h:ul>
-					</xsd:documentation>
+					<xsd:documentation>Defines the layout of the images. This mainly applies when there is more than one image in a figure. They may be laid vertically (normal), horizontally, e.g. across the page, or when there are many images, in a matrix format upto 5 images wide.</xsd:documentation>
+					<xsd:documentation>There is the possibility that this option may cause a conflict on image widths and page size. It it left to individual implementations as to how this should be resolved.</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
@@ -91,7 +77,7 @@
 	<xsd:attributeGroup name="FigureElementIDattributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
-				<xsd:documentation>A unique identifier for the figure in the format g00000</xsd:documentation>
+				<xsd:documentation>A unique identifier in the format g00000</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:ID">
@@ -115,22 +101,6 @@
 	</xsd:element>
 	
 	<xsd:element name="Image">
-		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>A single image. An image may be inline or display when contained in a figure or signature Signee element</h:p>
-				<h:p>An image does not link directly to a file but to a resource. The reason for this is that the resource may be external, i.e. a file or it may be internal – that is the image may be described within the same document.</h:p>
-				<h:p>The resource is referenced with a ResourceRef attribute. It is perfectly acceptable for more than one Image element to reference the same resource.</h:p>
-				<h:p>Each Image element must have Width and Height attributes. The values held  are expected to reflect the size of the original image as printed (not necessarily the actual native size of the image) if absolute values are held (for example, 580pt). The values can be in points or ems. Ems are expected mainly to be used inline (where it would be likely that the image would be less than 1em high to avoid problems with line spacing). Obviously for display images ems may not have a defined value, in which case it would be down to the implementation to define what an em is.</h:p>
-				<h:p>It it is possible to use relative values. These have been created with authoring of legislation in mind and are explained below:</h:p>
-				<h:ul>
-					<h:li>auto (default value) - This indicates that the image should be scaled automatically for the output format. This is generally used in conjunction with ‘scale-to-fit’ on the other attribute to maintain the aspect ratio of the image. If the image will not fit on the output then it should be cropped. If both attributes are auto then the image should be output at its native size.</h:li>
-					<h:li>scale-to-fit - This should enlarge the image for either the width or height (whichever attribute this is on) to fit the output format. For printed output this would generally be the page width or height. It would be down to implementations as to how to treat this value for, say, web output.</h:li>
-					<h:li>fit-page-to-image - This is designed for use with oversize images where it is desirable to enlarge the page size to fit the image. For other output formats it would be down to implementation as to how to treat this value</h:li>
-					<h:li>spread - This is also designed for use with oversize images but in this instance it indicates that for printed documents the output should be put on a page spread.</h:li>
-					<h:li>% - For values defined as percent this should be a percentage of the containing area. For printed output this will be the printable section of the page.</h:li>
-				</h:ul>
-			</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Description" type="xsd:string" use="optional"/>
 			<xsd:attribute name="ResourceRef" type="xsd:string" use="required"/>

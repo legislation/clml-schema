@@ -38,7 +38,7 @@
 	
 	<xsd:element name="ExplanatoryNotes">
 		<xsd:annotation>
-			<xsd:documentation>Explanatory Notes (ENs)</xsd:documentation>
+			<xsd:documentation>Explanatory Notes</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -52,7 +52,7 @@
 	
 	<xsd:element name="Body">
 		<xsd:annotation>
-			<xsd:documentation>The body text of an piece of an explanatory note</xsd:documentation>
+			<xsd:documentation>The body text of a piece of legislation</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -91,7 +91,7 @@
 	
 	<xsd:element name="Annex">
 		<xsd:annotation>
-			<xsd:documentation>An annex to the explanatory note</xsd:documentation>
+			<xsd:documentation>An annex to the document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -123,7 +123,7 @@
 	
 	<xsd:element name="Schedules">
 		<xsd:annotation>
-			<xsd:documentation>Schedules to the explanatory note</xsd:documentation>
+			<xsd:documentation>Schedules to the document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -154,7 +154,7 @@
 	
 	<xsd:element name="AbstractBody">
 		<xsd:annotation>
-			<xsd:documentation>An abstract body for the explanatory note</xsd:documentation>
+			<xsd:documentation>An abstract body</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -181,7 +181,7 @@
 	
 	<xsd:element name="Schedule">
 		<xsd:annotation>
-			<xsd:documentation>A schedule to the explanatory note</xsd:documentation>
+			<xsd:documentation>A schedule to the document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -210,7 +210,7 @@
 	
 	<xsd:element name="ScheduleBody">
 		<xsd:annotation>
-			<xsd:documentation>Contains the main text of a explanatory note Schedule</xsd:documentation>
+			<xsd:documentation>Contains the main text of a Schedule</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -222,7 +222,7 @@
 					<xsd:element ref="P1group" maxOccurs="unbounded"/>
 					<xsd:element ref="P1" maxOccurs="unbounded"/>
 					<xsd:element ref="P2group" maxOccurs="unbounded"/>
-					<xsd:element ref="P2" maxOccurs="unbounded"/>
+					<xsd:element ref="P2" maxOccurs="unbounded"/>					
 					<xsd:element ref="P" maxOccurs="unbounded"/>
 					<xsd:element ref="BlockAmendment" maxOccurs="unbounded"/>
 				</xsd:choice>
@@ -238,13 +238,13 @@
 	
 	<xsd:element name="Reference" type="InlineFullStructure">
 		<xsd:annotation>
-			<xsd:documentation>Cross-reference (generally) to the body part of the explanatory note</xsd:documentation>
+			<xsd:documentation>Cross-reference (generally) to the body part of the document</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>	
 	
 	<xsd:element name="Appendix">
 		<xsd:annotation>
-			<xsd:documentation>Appendix in a explanatory note</xsd:documentation>
+			<xsd:documentation>Appendix</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -262,7 +262,7 @@
 	
 	<xsd:element name="AppendixBody">
 		<xsd:annotation>
-			<xsd:documentation>Contains the main text of an appendix in a explanatory note</xsd:documentation>
+			<xsd:documentation>Contains the main text of an appendix</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
@@ -273,7 +273,7 @@
 				<xsd:element ref="P1group" maxOccurs="unbounded"/>
 				<xsd:element ref="P1" maxOccurs="unbounded"/>
 				<xsd:element ref="P2group" maxOccurs="unbounded"/>
-				<xsd:element ref="P2" maxOccurs="unbounded"/>
+				<xsd:element ref="P2" maxOccurs="unbounded"/>				
 				<xsd:element ref="P" maxOccurs="unbounded"/>
 				<xsd:element ref="Tabular" maxOccurs="unbounded"/>
 				<xsd:element ref="Figure" maxOccurs="unbounded"/>

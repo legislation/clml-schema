@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"  xmlns:h="http://www.w3.org/1999/xhtml"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
 	version="2.0" id="SchemaChanges">
 	
 	<xsd:annotation>
@@ -32,14 +32,22 @@
 	
 	<xsd:element name="OrderedList">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>An ordered list of items.</h:p>
-				<h:p>Ordered lists should not be confused with provisions. Provisions are numbered paragraphs, whereas ordered lists are semantically grouped paragraphs.</h:p>
-				<h:p>The schema takes the approach that if there is a break in the hierarchy of the provisions then any subsequent structure must be a list. This typically occurs where defined terms contain numbered items. These should be done as ordered lists within unordered lists, i.e. the defined term is an entry in an unordered list. Subsequently the chain of numbered provisions is broken and any children must be ordered lists. This approach comes from the schema provisions as being controlled by the indent of the provisions.</h:p>
-				<h:p>The format of the list numbering is defined using the Type attribute.</h:p>
-				<h:p>The text surrounding the number is defined using the Decoration attribute.</h:p>
-				<h:p>A specific starting number can be specified using the Start attribute.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>An ordererd list, e.g. 1., 2., 3. or a, b, c</xsd:documentation>
+			<xsd:documentation>The numbering is defined by the type attribute:</xsd:documentation>
+			<xsd:documentation>arabic				1, 2, 3</xsd:documentation>
+			<xsd:documentation>roman				i, ii, iii</xsd:documentation>
+			<xsd:documentation>romanupper		I, II, III</xsd:documentation>
+			<xsd:documentation>alpha					a, b, c</xsd:documentation>
+			<xsd:documentation>alphaupper		A, B, C</xsd:documentation>
+			<xsd:documentation>The decoration of the number is defined by the decoration attribute:</xsd:documentation>
+			<xsd:documentation>none					1, 2, 3</xsd:documentation>
+			<xsd:documentation>parens				(1), (2), (3)</xsd:documentation>
+			<xsd:documentation>parenRight		1), 2), 3)</xsd:documentation>
+			<xsd:documentation>brackets			[1], [2], [3]</xsd:documentation>
+			<xsd:documentation>bracketRight		1], 2], 3]</xsd:documentation>
+			<xsd:documentation>period				1., 2., 3.</xsd:documentation>
+			<xsd:documentation>colon					1:, 2:, 3:</xsd:documentation>
+			<xsd:documentation>The start attribute defines the number (or letter, etc) at which the list should start being numbered</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -47,18 +55,6 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Type" use="required">
-				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>The format of the ordered list e.g. 1., 2., 3. or a, b, c</h:p>
-						<h:ul>
-							<h:li>arabic - 1, 2, 3</h:li>
-							<h:li>roman - i, ii, iii</h:li>
-							<h:li>romanupper - I, II, III</h:li>
-							<h:li>alpha - a, b, c</h:li>
-							<h:li>alphaupper - A, B, C</h:li>
-						</h:ul>
-					</xsd:documentation>
-				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:NMTOKEN">
 						<xsd:enumeration value="arabic"/>
@@ -70,20 +66,6 @@
 				</xsd:simpleType>
 			</xsd:attribute>
 			<xsd:attribute name="Decoration" use="required">
-				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>The text that surrounds the number defined by the decoration attribute:</h:p>
-						<h:ul>
-							<h:li>none - 1, 2, 3</h:li>
-							<h:li>parens - (1), (2), (3)</h:li>
-							<h:li>parenRight - 1), 2), 3)</h:li>
-							<h:li>brackets - [1], [2], [3]</h:li>
-							<h:li>bracketRight - 1], 2], 3]</h:li>
-							<h:li>period - 1., 2., 3.</h:li>
-							<h:li>colon - 1:, 2:, 3:</h:li>
-						</h:ul>
-					</xsd:documentation>
-				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:NMTOKEN">
 						<xsd:enumeration value="none"/>
@@ -96,43 +78,24 @@
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
-			<xsd:attribute name="Start" type="xsd:positiveInteger">
-				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>The start attribute defines the number (or letter, etc) at which the list should start being numbered</h:p>
-						<h:p>For example a value of 3 in an alpha list would start the numbering with a letter ‘c’.</h:p>
-						<h:p>The default value is 1.</h:p>
-					</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
+			<xsd:attribute name="Start" type="xsd:positiveInteger"/>
 		</xsd:complexType>
 	</xsd:element>
 	
 	<xsd:element name="UnorderedList">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>An unordered list of items.</h:p>
-				<h:p>Unordered lists provide a mechanism to group together paragraphs that form a semantic list rather than just marking them up as unconnected paragraphs of text.</h:p>
-				<h:p>The Decoration attribute defines the type of bullet (if any) that should be used.</h:p>
-				<h:p>The Class attribute is used to identify the purpose of an unordered list – this is designed for use with tabbed lists to act as a hint to identify lists of definitions in secondary legislation. The suggested value for this kind of list is ‘Definition’.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>An unordererd list</xsd:documentation>
+			<xsd:documentation>The decoration of the list item is defined by the decoration attribute:</xsd:documentation>
+			<xsd:documentation>bullet			•</xsd:documentation>
+			<xsd:documentation>dash			—</xsd:documentation>
+			<xsd:documentation>arrow		—></xsd:documentation>
+			<xsd:documentation>none			No decoration</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="ListItem" maxOccurs="unbounded"/>
 			</xsd:sequence>
 			<xsd:attribute name="Decoration" use="required">
-				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>Defines the type of bullet (if any) that should be used</h:p>
-						<h:ul>
-							<h:li>bullet = •</h:li>
-							<h:li>dash = —</h:li>
-							<h:li>arrow = —></h:li>
-							<h:li>none = No decoration</h:li>
-						</h:ul>
-					</xsd:documentation>
-				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:NMTOKEN">
 						<xsd:enumeration value="bullet"/>
@@ -142,37 +105,27 @@
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
-			<xsd:attribute name="Class" type="xsd:string">
-				<xsd:annotation>
-					<xsd:documentation>Used to identify the purpose of an unordered list. The suggested value for this kind of list is ‘Definition’.</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
+			<xsd:attribute name="Class" type="xsd:string"/>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>
 	
 	<xsd:element name="KeyList">
 		<xsd:annotation>
-			<xsd:documentation>A definition list. It is normally used in the Where element if in a formula.</xsd:documentation>
+			<xsd:documentation>A definition list</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence maxOccurs="unbounded">
 				<xsd:element ref="KeyListItem"/>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
-			<xsd:attribute name="Separator" type="xsd:string">
-				<xsd:annotation>
-					<xsd:documentation>
-						<h:p>The Separator attribute can be a text string that contains the text the separates the key item from its definition.</h:p>
-					</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
+			<xsd:attribute name="Separator" type="xsd:string"/>
 		</xsd:complexType>
 	</xsd:element>
 	
 	<xsd:element name="KeyListItem">
 		<xsd:annotation>
-			<xsd:documentation>An item within a definition list.</xsd:documentation>
+			<xsd:documentation>A definition list</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -183,20 +136,12 @@
 		</xsd:complexType>
 	</xsd:element>
 	
-	<xsd:element name="Key" type="InlineFullStructure">
-		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>The he key for an item within a definition list.</h:p>
-			</xsd:documentation>
-		</xsd:annotation>
-	</xsd:element>
+	<xsd:element name="Key" type="InlineFullStructure"/>
 	
 	<xsd:element name="ListItem">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>A standard list item</h:p>
-				<h:p>The content model is defined as standard paragraph level block elements</h:p>
-			</xsd:documentation>
+			<xsd:documentation>A standard list item</xsd:documentation>
+			<xsd:documentation>The content model is defined as standard paragraph level block elements</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:complexContent>

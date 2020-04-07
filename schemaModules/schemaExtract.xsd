@@ -29,14 +29,6 @@
 		</xsd:appinfo>
 	</xsd:annotation>
 	
-	<xsd:element name="BlockExtract" type="BlockExtractStructure">
-		<xsd:annotation>
-			<xsd:documentation>Describes a block of quoted (extracted) material from another legislation document or from other non-legislation documents. The legislation content should be marked up, where possible, using the schema. The non-legislation content should be treated as an included document and use the IncludedDocument element.</xsd:documentation>
-		</xsd:annotation>
-	</xsd:element>
-	<xsd:element name="InlineExtract" type="InlineExtractStructure">
-		<xsd:annotation>
-			<xsd:documentation>Describes inline quoted (extracted) material from another legislation document or from other non-legislation documents.</xsd:documentation>
-		</xsd:annotation>
-	</xsd:element>
+	<xsd:element name="BlockExtract" type="BlockExtractStructure"/>
+	<xsd:element name="InlineExtract" type="InlineExtractStructure"/>
 </xsd:schema>

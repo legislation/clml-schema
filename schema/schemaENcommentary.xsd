@@ -48,7 +48,7 @@
 	<xsd:attributeGroup name="CommentaryIDattributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
-				<xsd:documentation>A unique identifier for EN Commentary in the format d00000</xsd:documentation>
+				<xsd:documentation>A unique identifier in the format d00000</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:ID">
@@ -66,7 +66,7 @@
 
 	<xsd:element name="CommentaryGroup">
 		<xsd:annotation>
-			<xsd:documentation>Commentary on a Group within the EN.</xsd:documentation>
+			<xsd:documentation>Commentary on a Group within the legislation.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -93,7 +93,7 @@
 
 	<xsd:element name="CommentaryPart">
 		<xsd:annotation>
-			<xsd:documentation>Commentary on a Part within the EN.</xsd:documentation>
+			<xsd:documentation>Commentary on a Part within the legislation.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -119,7 +119,7 @@
 
 	<xsd:element name="CommentaryChapter">
 		<xsd:annotation>
-			<xsd:documentation>Commentary on Chapter within the EN.</xsd:documentation>
+			<xsd:documentation>Commentary on a Chapter within the legislation.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

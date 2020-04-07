@@ -39,12 +39,6 @@
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="AppendText">
-		<xsd:annotation>
-			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>Used to indicate that the contents should run on from the end of the amendment (as opposed to starting a new line if a Text element was used. The only place AppendText can be used is directly following a BlockAmendment element, although it should be noted that where a BlockAmendment element is a direct child of a major structure then it cannot be used (i.e. where a Schedule contains just an amendment). This is because it would not be correct grammatically, as there is no actual sentence to terminate.</h:p>
-				<h:p>It is also possible in some document types for the amendment to start as run-on text in the previous paragraph.</h:p>
-			</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
 			<xsd:attributeGroup ref="CommonAttributes"/>
@@ -62,14 +56,7 @@
 	</xsd:element>
 	<xsd:element name="Span" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>A general-purpose inline container.. It main uses are:</h:p>
-				<h:ul>
-					<h:li>to serve as an anchor for an InternalLink to provide character accurate linking.</h:li>
-					<h:li>to allow for language information to be added. For example, if there is a fragment of Welsh the span element can use the xml:lang attribute to describe the language of the content, therefore allowing all the benefits that can be provided by this such as localised spellchecking.</h:li>
-					<h:li>to act as a container of inline content when an alternate version is available (for example a graphical version of inline MathML)</h:li>
-				</h:ul>
-			</xsd:documentation>
+			<xsd:documentation>An inline container</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 </xsd:schema>

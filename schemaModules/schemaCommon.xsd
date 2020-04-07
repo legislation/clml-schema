@@ -34,9 +34,6 @@
 	
 	<!-- note: xsd:simpleType name="DocumentMainType" needs to be declared in top level schemas currently because of difference in lists between publication schema and all others -->
 	<xsd:simpleType name="DocumentMainTypeBasic">
-		<xsd:annotation>
-			<xsd:documentation>The choice of main document types common across all UK Legislation.</xsd:documentation>
-		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="EnglandAct"/>
 			<xsd:enumeration value="GreatBritainAct"/>
@@ -102,9 +99,6 @@
 				Data to be changed to "EuropeanUnionOther" by #162038035
 			Allow "Local" ones in publication schema but not in others... --> 
 	<xsd:simpleType name="DocumentMainTypeDeprecated">
-		<xsd:annotation>
-			<xsd:documentation>Old deprecated values of main document types for UK Legislation. Not to be used in updated or new data but may be present in old data.</xsd:documentation>
-		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="EuropeanUnion"/>
 			<xsd:enumeration value="EuropeanEconomicCommunity"/>
@@ -116,18 +110,11 @@
 			<xsd:enumeration value="UnitedKingdomStatutoryInstrumentLocal"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-	
-	<xsd:simpleType name="MinorType">
-		<xsd:annotation>
-			<xsd:documentation>Combination of UK and EU minor document types.</xsd:documentation>
-		</xsd:annotation>
+		<xsd:simpleType name="MinorType">
 		<xsd:union memberTypes="UKMinorType EUMinorType"/>
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="UKMinorType">
-		<xsd:annotation>
-			<xsd:documentation>UK minor document types.</xsd:documentation>
-		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="order"/>
 			<xsd:enumeration value="regulation"/>
@@ -139,9 +126,6 @@
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="EUMinorType">
-		<xsd:annotation>
-			<xsd:documentation>EU minor document types.</xsd:documentation>
-		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="euregulation"/>
 			<xsd:enumeration value="eudecision"/>
@@ -151,9 +135,6 @@
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="AffectingExtentType">
-		<xsd:annotation>
-			<xsd:documentation>Choice of extents plus 'Same as affected'</xsd:documentation>
-		</xsd:annotation>
 		<xsd:union memberTypes="ExtentType">
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -166,16 +147,13 @@
 	<!-- PT #154553309 -->
 	<xsd:simpleType name="ExtentType">
 		<xsd:annotation>
-			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>Valid Extent Types</h:p>
-				<h:ul>
-					<h:li>E = England</h:li>
-					<h:li>W = Wales</h:li>
-					<h:li>S = Scotland</h:li>
-					<h:li>N.I. = Northern Ireland</h:li>
-					<h:li>E.U. = European Union</h:li>
-					<h:li>+ = combines</h:li>
-				</h:ul>
+			<xsd:documentation>
+Valid Extent Types
+&#183; E = England
+&#183; W = Wales
+&#183; S = Scotland
+&#183; N.I. = Northern Ireland
+&#183; + = combines
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:token">
@@ -193,7 +171,7 @@
 			<xsd:enumeration value="E+W+N.I." />
 			<xsd:enumeration value="W+S+N.I." />
             <xsd:enumeration value="E+W+S+N.I." />
-            <xsd:enumeration value="E.U." />
+           	<xsd:enumeration value="E.U." />
             <xsd:enumeration value="E+E.U." />
             <xsd:enumeration value="W+E.U." />
             <xsd:enumeration value="E+W+E.U." />
@@ -212,45 +190,43 @@
 		</xsd:restriction>
 	</xsd:simpleType>
 	
+	<!--<xsd:simpleType name="ExtentType">
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="E"/>
+			<xsd:enumeration value="W"/>
+			<xsd:enumeration value="S"/>
+			<xsd:enumeration value="NI"/>
+			<xsd:enumeration value="E+W"/>
+			<xsd:enumeration value="E+S"/>
+			<xsd:enumeration value="E+NI"/>
+			<xsd:enumeration value="W+S"/>
+			<xsd:enumeration value="S+NI"/>
+			<xsd:enumeration value="E+W+S"/>
+			<xsd:enumeration value="E+W+NI"/>
+			<xsd:enumeration value="E+S+NI"/>
+			<xsd:enumeration value="E+W+S+NI"/>
+		</xsd:restriction>
+	</xsd:simpleType>-->
+	
 	<xsd:attributeGroup name="SchemaVersion">
-		<xsd:annotation>
-			<xsd:documentation>Can be used to indicate the version of the schema to which the document pertains.</xsd:documentation>
-		</xsd:annotation>
 		<!--<xsd:attribute name="SchemaVersion" type="xsd:NMTOKEN" use="required" fixed="1.0"/>-->
-		<xsd:attribute name="SchemaVersion" use="optional" default="2.1">
+		<xsd:attribute name="SchemaVersion" use="optional" default="2.0">
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NMTOKEN">
 					<xsd:enumeration value="1.0"/>
 					<xsd:enumeration value="2.0"/>
-					<xsd:enumeration value="2.1"/>
 				</xsd:restriction>
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
 	
 	<xsd:attributeGroup name="OptionalURIs">
-		<xsd:attribute name="DocumentURI" type="xsd:anyURI">
-			<xsd:annotation>
-				<xsd:documentation>The URI to this part of the document (to the enacted version).</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
-		<xsd:attribute name="IdURI" type="xsd:anyURI">
-			<xsd:annotation>
-				<xsd:documentation>The URI to the id of this part of the document (to the current revised version).</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
+		<xsd:attribute name="DocumentURI" type="xsd:anyURI"/>
+		<xsd:attribute name="IdURI" type="xsd:anyURI"/>
 	</xsd:attributeGroup>
 	
 	<xsd:attributeGroup name="MandatoryURIs">
-		<xsd:attribute name="DocumentURI" type="xsd:anyURI" use="required">
-			<xsd:annotation>
-				<xsd:documentation>The URI to this part of the document (to the enacted version).</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
-		<xsd:attribute name="IdURI" type="xsd:anyURI" use="required">
-			<xsd:annotation>
-				<xsd:documentation>The URI to the id of this part of the document (to the current revised version).</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
+		<xsd:attribute name="DocumentURI" type="xsd:anyURI" use="required"/>
+		<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
 	</xsd:attributeGroup>
 </xsd:schema>

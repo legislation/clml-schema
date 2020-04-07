@@ -53,7 +53,7 @@
 
 	<xsd:complexType name="BlockExtractStructure">
 		<xsd:annotation>
-			<xsd:documentation>Structure for block-level material extracted from other documents</xsd:documentation>
+			<xsd:documentation>Describes block-level material extracted from other documents</xsd:documentation>
 		</xsd:annotation>
 		<xsd:choice>
 			<xsd:choice maxOccurs="unbounded">
@@ -105,7 +105,7 @@
 
 	<xsd:complexType name="InlineExtractStructure" mixed="true">
 		<xsd:annotation>
-			<xsd:documentation>Structure for inline extracted text</xsd:documentation>
+			<xsd:documentation>Describes inline extracted text</xsd:documentation>
 		</xsd:annotation>
 		<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
 		<xsd:attributeGroup ref="LegislationExtractAttributes"/>

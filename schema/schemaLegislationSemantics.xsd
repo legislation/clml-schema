@@ -24,7 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.0		Colin Mackenzie	  Numbering restarted at 2 for new EU and merged schema
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0		Jeni Tennison		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -58,9 +58,6 @@
 	</xsd:attributeGroup>
 
 	<xsd:element name="Proviso">
-		<xsd:annotation>
-			<xsd:documentation>A Proviso contained in an inline element.</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>
 				<xsd:extension base="InlineFullStructure">

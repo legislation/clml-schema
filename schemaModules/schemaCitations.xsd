@@ -65,11 +65,9 @@
 	</xsd:element>
 	<xsd:element name="Citation">
 		<xsd:annotation>
-			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>Describes a cross-reference to another piece of legislation</h:p>
-				<h:p>For local secondary cross-references there may not be enough information to indicate that the target is local. In these cases the non-local version is to be synonymous.</h:p>
-				<h:p>If the Number is missing, there must be a Date. This should only happen for Church Instruments.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Describes a cross-reference to another piece of legislation</xsd:documentation>
+			<xsd:documentation>For local secondary cross-references there may not be enough information to indicate that the target is local. In these cases the non-local version is to be synonymous.</xsd:documentation>
+			<xsd:documentation>If the Number is missing, there must be a Date. This should only happen for Church Instruments.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -127,7 +125,8 @@
 			</xsd:choice>
 			<xsd:attribute name="Type" use="optional">
 				<xsd:annotation>
-					<xsd:documentation>This represents the type of content, e.g. a pointer as to the text format, e.g. group would be 'subsections (5) and (6)'. Its purpose is to give a processor some clue as to how to process the content</xsd:documentation>
+					<xsd:documentation>This represents the type of content, e.g. a pointer as to the text format, e.g. group would be 'subsections (5) and (6)'</xsd:documentation>
+					<xsd:documentation>Its purpose is to give a processor some clue as to how to process the content</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">

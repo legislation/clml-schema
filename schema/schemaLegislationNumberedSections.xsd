@@ -60,12 +60,10 @@
 		</xsd:complexType>
 	</xsd:element>
 
-	<!-- Colin: awaiting feedback on when the different patterns below are used 
-	I will then modify the documentation -->
 	<xsd:attributeGroup name="PelementIDattributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
-				<xsd:documentation>A unique identifier for the group/part/chapter/section/schedule/appendix etc. </xsd:documentation>
+				<xsd:documentation>A unique identifier for the group/part/chapter/section/schedule/appendix</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NCName">
@@ -90,9 +88,6 @@
 	</xsd:attributeGroup>
 
 	<xsd:element name="P1">
-		<xsd:annotation>
-			<xsd:documentation>Provides a numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P1Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -141,9 +136,6 @@
 	</xsd:element>
 
 	<xsd:element name="P1para">
-		<xsd:annotation>
-			<xsd:documentation>A container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -158,9 +150,6 @@
 	</xsd:element>
 
 	<xsd:element name="P2group">
-		<xsd:annotation>
-			<xsd:documentation>Groups together second level provisions or paragraphs that have a common title</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -183,9 +172,6 @@
 	</xsd:element>
 
 	<xsd:element name="P2">
-		<xsd:annotation>
-			<xsd:documentation>Provides a second numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P2Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -208,9 +194,6 @@
 	</xsd:element>
 
 	<xsd:element name="P2para">
-		<xsd:annotation>
-			<xsd:documentation>A second level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -224,9 +207,6 @@
 	</xsd:element>
 
 	<xsd:element name="P3group">
-		<xsd:annotation>
-			<xsd:documentation>Groups together third level provisions or paragraphs that have a common title</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -245,9 +225,6 @@
 	</xsd:element>
 
 	<xsd:element name="P3">
-		<xsd:annotation>
-			<xsd:documentation>Provides a third numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P3Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -270,9 +247,6 @@
 	</xsd:element>
 
 	<xsd:element name="P3para">
-		<xsd:annotation>
-			<xsd:documentation>A third level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -284,9 +258,6 @@
 	</xsd:element>
 
 	<xsd:element name="P4">
-		<xsd:annotation>
-			<xsd:documentation>Provides a fourth numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P4Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -304,9 +275,6 @@
 	</xsd:element>
 
 	<xsd:element name="P4para">
-		<xsd:annotation>
-			<xsd:documentation>A fourth level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -317,9 +285,6 @@
 	</xsd:element>
 
 	<xsd:element name="P5">
-		<xsd:annotation>
-			<xsd:documentation>Provides a fifth numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P5Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -337,9 +302,6 @@
 	</xsd:element>
 
 	<xsd:element name="P5para">
-		<xsd:annotation>
-			<xsd:documentation>A fifth level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -350,9 +312,6 @@
 	</xsd:element>
 
 	<xsd:element name="P6">
-		<xsd:annotation>
-			<xsd:documentation>Provides a sixth numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P6Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -370,9 +329,6 @@
 	</xsd:element>
 
 	<xsd:element name="P6para">
-		<xsd:annotation>
-			<xsd:documentation>A sixth level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -383,9 +339,6 @@
 	</xsd:element>
 
 	<xsd:element name="P7">
-		<xsd:annotation>
-			<xsd:documentation>Provides a seventh numbered level for provisions or paragraphs, lists, tables, figures etc. and for content at lower levels within a P7Para</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -403,9 +356,6 @@
 	</xsd:element>
 
 	<xsd:element name="P7para">
-		<xsd:annotation>
-			<xsd:documentation>A seventh level container for provisions or paragraphs Text elements, lists, tables, figures etc. and for content at lower levels</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
@@ -416,7 +366,8 @@
 
 	<xsd:element name="P">
 		<xsd:annotation>
-			<xsd:documentation>An unnumbered provision/paragraph. The model forces text before structure to avoid e.g. P1 straight inside a P</xsd:documentation>
+			<xsd:documentation>An unnumbered provision/paragraph</xsd:documentation>
+			<xsd:documentation>The model forces text before structure to avoid e.g. P1 straight inside a P</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

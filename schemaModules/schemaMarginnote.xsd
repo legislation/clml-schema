@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
-	xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
 	version="2.0" id="SchemaMarginnote">
 
 	<xsd:annotation>
@@ -31,10 +31,7 @@
 
 	<xsd:element name="MarginNotes">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>The top level wrapper for margin notes (or sidenotes).</h:p>
-				<h:p>Margin notes were only used in old primary legislation (pre-2001) where the layout of the documents was different to that currently used. This also entailed a difference in structure from modern primary legislation where the margin notes are part of the text.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>This is the top level wrapper for marginnotes</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -46,10 +43,7 @@
 
 	<xsd:element name="MarginNote">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Describes a margin note (sidenote) - a general container for block level elements.</h:p>
-				<h:p>The anchor point for the margin note is somewhat arbitrary as there is nothing in the printed copy to reference the note. It would be down to a rendering engine to format the margin note as closely as possible to the location of the reference.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Describes a marginnote - a general container for block level elements</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:group ref="ParaRestricted"/>
@@ -69,10 +63,8 @@
 
 	<xsd:element name="MarginNoteRef">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>Describes a reference (link) to a margin note.</h:p>
-				<h:p>The Ref attribute should point to an ID attribute on a marginnote element.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>Describes a link to a marginnote</xsd:documentation>
+			<xsd:documentation>The Ref attribute should point to an ID attribute on a marginnote</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Ref" type="xsd:string" use="required"/>

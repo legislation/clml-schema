@@ -32,7 +32,8 @@
 	
 	<xsd:element name="Emphasis">
 		<xsd:annotation>
-			<xsd:documentation>Describes emphasised text. This will generally turn roman text italic or italic text roman. The content model allows all standard inline constructs apart from emphasis which should not be nested.</xsd:documentation>
+			<xsd:documentation>Describes emphasised text. This will generally turn roman text italic or italic text roman</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from emphasis which should not be nested</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -52,7 +53,8 @@
 	
 	<xsd:element name="Strong">
 		<xsd:annotation>
-			<xsd:documentation>Describes emboldened (highlighted) text. This will generally turn roman text bold or bold text roman. The content model allows all standard inline constructs apart from strong which should not be nested</xsd:documentation>
+			<xsd:documentation>Describes emboldened (highlighted) text. This will generally turn roman text bold or bold text roman</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from strong which should not be nested</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -72,7 +74,8 @@
 	
 	<xsd:element name="SmallCaps">
 		<xsd:annotation>
-			<xsd:documentation>Describes smallcaps text. The content model allows all standard inline constructs apart from small caps which should not be nested</xsd:documentation>
+			<xsd:documentation>Describes smallcaps text</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from small caps which should not be nested</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -92,7 +95,8 @@
 	
 	<xsd:element name="Uppercase">
 		<xsd:annotation>
-			<xsd:documentation>Describes uppercase text. The content model allows all standard inline constructs apart from uppercase which should not be nested</xsd:documentation>
+			<xsd:documentation>Describes uppercase text</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs apart from uppercase which should not be nested</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -112,21 +116,25 @@
 	
 	<xsd:element name="Inferior" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>Describes inferior (subscript) text. To get second order inferior characters nest this element. The content model allows all standard inline constructs</xsd:documentation>
+			<xsd:documentation>Describes inferior (subscript) text. To get second order inferior characters nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	
 	<xsd:element name="Superior" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>Describes superior (superscript) text. To get second order superior characters nest this element. The content model allows all standard inline constructs</xsd:documentation>
+			<xsd:documentation>Describes superior (superscript) text. To get second order superior characters nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	
 	<xsd:element name="Underline" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>Describes underlined text. To get double underline nest this element. The content model allows all standard inline constructs</xsd:documentation>
+			<xsd:documentation>Describes underlined text. To get double underline nest this element</xsd:documentation>
+			<xsd:documentation>The content model allows all standard inline constructs</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
+	
 	
 	<xsd:element name="Expanded">
 		<xsd:annotation>
@@ -151,12 +159,9 @@
 	<xsd:group name="EmphasisRestricted">
 		<xsd:annotation>
 			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
-		</xsd:annotation>
+		</xsd:annotation>		
 		<xsd:choice>
 			<xsd:element name="Emphasis">
-				<xsd:annotation>
-					<xsd:documentation>Describes emphasised text. This will generally turn roman text italic or italic text roman. The content model allows all standard inline constructs apart from emphasis which should not be nested.</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="StrongRestricted"/>
@@ -176,12 +181,9 @@
 	<xsd:group name="StrongRestricted">
 		<xsd:annotation>
 			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
-		</xsd:annotation>
+		</xsd:annotation>			
 		<xsd:choice>
 			<xsd:element name="Strong">
-				<xsd:annotation>
-					<xsd:documentation>Describes emboldened (highlighted) text. This will generally turn roman text bold or bold text roman. The content model allows all standard inline constructs apart from strong which should not be nested</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="EmphasisRestricted"/>
@@ -201,12 +203,9 @@
 	<xsd:group name="SmallCapsRestricted">
 		<xsd:annotation>
 			<xsd:documentation>Follows the standard element definition but restricts the content model further</xsd:documentation>
-		</xsd:annotation>
+		</xsd:annotation>		
 		<xsd:choice>
 			<xsd:element name="SmallCaps">
-				<xsd:annotation>
-					<xsd:documentation>Describes smallcaps text. The content model allows all standard inline constructs apart from small caps which should not be nested</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="EmphasisRestricted"/>
@@ -229,9 +228,6 @@
 		</xsd:annotation>			
 		<xsd:choice>
 			<xsd:element name="Underline">
-				<xsd:annotation>
-					<xsd:documentation>Describes underlined text. To get double underline nest this element. The content model allows all standard inline constructs</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="EmphasisRestricted"/>
@@ -254,9 +250,6 @@
 		</xsd:annotation>			
 		<xsd:choice>
 			<xsd:element name="Inferior">
-				<xsd:annotation>
-					<xsd:documentation>Describes inferior (subscript) text. To get second order inferior characters nest this element. The content model allows all standard inline constructs</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="EmphasisRestricted"/>
@@ -279,9 +272,6 @@
 		</xsd:annotation>
 		<xsd:choice>
 			<xsd:element name="Superior">
-				<xsd:annotation>
-					<xsd:documentation>Describes superior (superscript) text. To get second order superior characters nest this element. The content model allows all standard inline constructs</xsd:documentation>
-				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:choice minOccurs="0" maxOccurs="unbounded">
 						<xsd:group ref="EmphasisRestricted"/>

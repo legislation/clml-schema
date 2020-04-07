@@ -77,9 +77,6 @@
 	</xsd:complexType>
 	
 	<xsd:element name="Para">
-		<xsd:annotation>
-			<xsd:documentation>A generic paragraph element</xsd:documentation>
-		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="leg:Text"/>
@@ -87,11 +84,7 @@
 		</xsd:complexType>
 	</xsd:element>
 	
-	<xsd:element name="Text" type="xsd:string">
-		<xsd:annotation>
-			<xsd:documentation>The element that wraps all text and contains no child elements.</xsd:documentation>
-		</xsd:annotation>
-	</xsd:element>
+	<xsd:element name="Text" type="xsd:string"/>
 	
 	
 </xsd:schema>
