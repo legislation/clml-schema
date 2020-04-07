@@ -20,7 +20,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name					Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema, added "euretained" for eublock amendments
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema, added "euretained" for eublock amendments
 			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -52,6 +52,7 @@
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
+	
 	<xsd:attributeGroup name="LegislationExtractAttributes">
 		<xsd:attribute name="SourceClass" use="required">
 			<xsd:simpleType>

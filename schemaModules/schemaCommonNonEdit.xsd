@@ -37,6 +37,9 @@
 	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
 	
 	<xsd:group name="StandardMetadata">
+		<xsd:annotation>
+			<xsd:documentation>A grouping of Dublin Core metadata that may be automatically generated when final data is delivered.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
 				<xsd:element ref="dc:title"/>
@@ -78,12 +81,15 @@
 	
 	<!-- No extra metadata after primary/secondary in normal mode but source is allowed in edit mode -->
 	<xsd:group name="ExtraMetadata">
+		<xsd:annotation>
+			<xsd:documentation>No extra metadata after primary/secondary is allowed normally but the Dublin Core source is allowed when editing Fragments</xsd:documentation>
+		</xsd:annotation>
 		<xsd:sequence/>
 	</xsd:group>
 	
 	<xsd:simpleType name="RefsLinkType">
 		<xsd:annotation>
-			<xsd:documentation>When editing some of the IDs to which this refers MUST not be available so use type IDREFS</xsd:documentation>
+			<xsd:documentation>When editing some of the IDs to which this refers MAY not be available so cannot use the type IDREFS</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:NMTOKENS"/>
 	</xsd:simpleType>

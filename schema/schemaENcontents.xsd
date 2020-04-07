@@ -32,7 +32,7 @@
 	
 	<xsd:element name="ContentsENDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for a division. This should correspond to a Division in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for a division. This should correspond to a Division in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -54,7 +54,7 @@
 
 	<xsd:element name="ContentsSubDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for a sub-division. This should correspond to a Division in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for a sub-division. This should correspond to a Division in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -76,7 +76,7 @@
 
 	<xsd:element name="ContentsSubSubDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for a sub-sub-division. This should correspond to a Division in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for a sub-sub-division. This should correspond to a Division in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -98,7 +98,7 @@
 
 	<xsd:element name="ContentsSubSubSubDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for a sub-sub-sub-division. This should correspond to a Division in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for a sub-sub-sub-division. This should correspond to a Division in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -119,7 +119,7 @@
 
 	<xsd:element name="ContentsCommentaryGroup">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -140,7 +140,7 @@
 
 	<xsd:element name="ContentsCommentaryPart">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -161,7 +161,7 @@
 
 	<xsd:element name="ContentsCommentaryChapter">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -182,7 +182,7 @@
 
 	<xsd:element name="ContentsCommentaryP1">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -203,7 +203,7 @@
 
 	<xsd:element name="ContentsCommentarySchedule">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -224,7 +224,7 @@
 
 	<xsd:element name="ContentsCommentaryDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -246,7 +246,7 @@
 
 	<xsd:element name="ContentsCommentarySubDivision">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for commentary on a part. This should correspond to a part in the body of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -267,7 +267,7 @@
 
 	<xsd:element name="ContentsAnnexes">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for the annexes. This should correspond to the schedules of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for the annexes. This should correspond to the schedules of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -283,7 +283,7 @@
 
 	<xsd:element name="ContentsAnnex">
 		<xsd:annotation>
-			<xsd:documentation>A contents entry for a schedule. This should correspond to a schedule in the schedules of the document</xsd:documentation>
+			<xsd:documentation>A contents entry for a schedule. This should correspond to a schedule in the schedules of the EN document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

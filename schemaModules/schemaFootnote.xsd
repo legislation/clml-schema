@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:h="http://www.w3.org/1999/xhtml"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
 	version="2.0" id="SchemaFootnote">
 
@@ -31,7 +32,7 @@
 	
 	<xsd:element name="Footnotes">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level wrapper for footnotes</xsd:documentation>
+			<xsd:documentation>The top level wrapper for footnotes (used in secondary legislation and some primary legislation).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -43,7 +44,12 @@
 	
 	<xsd:element name="Footnote">
 		<xsd:annotation>
-			<xsd:documentation>Describes a footnote - a general container for block level elements</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Describes a footnote - a general container for block level elements</h:p>
+				<h:p>Footnotes generally do not have numbers associated with them. These should be auto-generated. However, if it is important to retain the footnote number (for whatever reason) then the Number element can be used to override automatic footnote numbering. The value of the element should be the text required as the number. Any footnotes following on from those with overridden numbers should continue the sequence from before the overridden value, e.g. footnotes may be numbered, 1, 2, 2A, 3, 4 …</h:p>
+				<h:p>Footnote numbers may also be necessary in footnotes to images as it is obviously not possible to put a footnote cross-reference in an image.</h:p>
+				<h:p>It is accepted that not storing footnote numbers may cause problems if the footnote number is referenced from another document (and this is partly why an override mechanism is provided), but because of the way footnotes work the number is basically a formatting issue, which is why the recommended approach is not to hold the footnote number. Holding the footnote number may also cause problems (with SIs for instance) where footnote numbering restarts on each page. This could lead to multiple footnotes with the same number stored in the data. While this in itself is not a problem, as the footnote id is the important value, if these footnote numbers were output to, say, a web page, and two footnotes with the same number appeared it could cause confusion.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -74,11 +80,14 @@
 	
 	<xsd:element name="FootnoteRef">
 		<xsd:annotation>
-			<xsd:documentation>Describes a link to a footnote</xsd:documentation>
-			<xsd:documentation>The Ref attribute should point to an ID attribute on a footnote</xsd:documentation>
+			<xsd:documentation>Describes a reference (link) to a footnote</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:attribute name="Ref" type="xsd:string" use="required"/>
+			<xsd:attribute name="Ref" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The Ref attribute should point to an ID attribute on a footnote</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>

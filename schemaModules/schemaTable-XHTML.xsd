@@ -2,6 +2,7 @@
 <xsd:schema xmlns="http://www.w3.org/1999/xhtml"
 	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:fo="http://www.w3.org/1999/XSL/Format"
+	xmlns:h="http://www.w3.org/1999/xhtml"
 	targetNamespace="http://www.w3.org/1999/xhtml" elementFormDefault="qualified" attributeFormDefault="unqualified"
 	version="2.0" id="SchemaTable">
 
@@ -48,10 +49,12 @@
 
 	<xsd:element name="table">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level of a modified version of XHTML tables</xsd:documentation>
-			<xsd:documentation>Note: A restriction from the HTML table model is that tbody is obligatory</xsd:documentation>
-			<xsd:documentation>Note: HTML cellpadding and cellspacing attributes are not implemented</xsd:documentation>
-			<xsd:documentation>Note: It is assumed that the collapsed border model is being implemented, which allows for column and row borders to be used</xsd:documentation>
+			<xsd:documentation>
+				<h:p>This is the top level of a modified version of XHTML tables</h:p>
+				<h:p>Note: A restriction from the HTML table model is that tbody is obligatory</h:p>
+				<h:p>Note: HTML cellpadding and cellspacing attributes are not implemented</h:p>
+				<h:p>Note: It is assumed that the collapsed border model is being implemented, which allows for column and row borders to be used</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -94,7 +97,7 @@
 			</xsd:sequence>
 			<xsd:attribute name="char">
 				<xsd:annotation>
-					<xsd:documentation>Defines the character for alignment, e.g. a period</xsd:documentation>
+					<xsd:documentation>Defines a character for horizontal alignment of text in the column. This can be very useful for aligning currency amounts, for example.</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
@@ -107,7 +110,11 @@
 					<xsd:documentation>Defines the number of columns spanned</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="width" type="TableWidthType"/>
+			<xsd:attribute name="width" type="TableWidthType">
+				<xsd:annotation>
+					<xsd:documentation>Defines the width of the column(s). This value may be in pixels (px), pt (points), em (Ems of set) or a percentage of the table width.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="TableAlignmentAttributes"/>
 			<xsd:attributeGroup ref="fo:TableBackgroundColorAttributes"/>
 			<xsd:attributeGroup ref="fo:TableBorderLeftAttributes"/>
@@ -118,13 +125,15 @@
 
 	<xsd:element name="col">
 		<xsd:annotation>
-			<xsd:documentation>Allows for column details to be defined</xsd:documentation>
-			<xsd:documentation>Note: HTML charoff attribute is not implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>This element defines information that applies to an entire column of a table.</h:p>
+				<h:p>Note: HTML charoff attribute is not implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="char">
 				<xsd:annotation>
-					<xsd:documentation>Defines the character for alignment, e.g. a period</xsd:documentation>
+					<xsd:documentation>Defines a character for horizontal alignment of text in the column. This can be very useful for aligning currency amounts, for example.</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
@@ -134,10 +143,14 @@
 			</xsd:attribute>
 			<xsd:attribute name="span" type="xsd:positiveInteger" default="1">
 				<xsd:annotation>
-					<xsd:documentation>Defines the number of columns spanned</xsd:documentation>
+					<xsd:documentation>Defines the number of columns this information should apply to.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="width" type="TableWidthType"/>
+			<xsd:attribute name="width" type="TableWidthType">
+				<xsd:annotation>
+					<xsd:documentation>Defines the width of the column(s). This value may be in pixels (px), pt (points), em (Ems of set) or a percentage of the table width.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="TableAlignmentAttributes"/>
 			<xsd:attributeGroup ref="fo:TableBackgroundColorAttributes"/>
 			<xsd:attributeGroup ref="fo:TableBorderLeftAttributes"/>
@@ -148,7 +161,7 @@
 
 	<xsd:element name="caption">
 		<xsd:annotation>
-			<xsd:documentation>The table caption. From HTML table model</xsd:documentation>
+			<xsd:documentation>A caption to a table. This should not be confused with the title element in Tabular. The caption applies to a table – not a group of tables which the Tabular element encapsulates.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group ref="ukl:InlineFull" minOccurs="0" maxOccurs="unbounded"/>
@@ -172,8 +185,10 @@
 
 	<xsd:element name="thead">
 		<xsd:annotation>
-			<xsd:documentation>A table header</xsd:documentation>
-			<xsd:documentation>Note: HTML char and charoff attributes are not implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>A table header. It is important to use this section where applicable as this will repeat where tables break over pages.</h:p>
+				<h:p>Note: HTML char and charoff attributes are not implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
@@ -192,8 +207,10 @@
 
 	<xsd:element name="tbody">
 		<xsd:annotation>
-			<xsd:documentation>The table body</xsd:documentation>
-			<xsd:documentation>Note: HTML char and charoff attributes are note implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>The table body</h:p>
+				<h:p>Note: HTML char and charoff attributes are note implemented.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
@@ -211,8 +228,11 @@
 
 	<xsd:element name="tfoot">
 		<xsd:annotation>
-			<xsd:documentation>Table footer</xsd:documentation>
-			<xsd:documentation>Note: HTML char and charoff attributes are note implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Table footer</h:p>
+				<h:p>A container for footnotes or notes in a table.</h:p>
+				<h:p>Note: HTML char and charoff attributes are note implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
@@ -258,8 +278,10 @@
 
 	<xsd:element name="tr">
 		<xsd:annotation>
-			<xsd:documentation>A table row</xsd:documentation>
-			<xsd:documentation>Note: HTML char and charoff attributes are not implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>A table row</h:p>
+				<h:p>Note: HTML char and charoff attributes are note implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -278,9 +300,11 @@
 
 	<xsd:element name="th">
 		<xsd:annotation>
-			<xsd:documentation>A table heading cell</xsd:documentation>
-			<xsd:documentation>Note: HTML axis attribute is not implemented</xsd:documentation>
-			<xsd:documentation>Note: HTML char, charoff and nowrap attributes are not implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>A table heading cell</h:p>
+				<h:p>Note: HTML axis attribute is not implemented</h:p>
+				<h:p>Note: HTML char, charoff and nowrap attributes are not implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group ref="ukl:TableHeaderCell" minOccurs="0" maxOccurs="unbounded"/>
@@ -314,8 +338,10 @@
 
 	<xsd:element name="td">
 		<xsd:annotation>
-			<xsd:documentation>A table cell</xsd:documentation>
-			<xsd:documentation>Note: HTML char, charoff and nowrap attributes are not implemented</xsd:documentation>
+			<xsd:documentation>
+				<h:p>A table cell</h:p>
+				<h:p>Note: HTML char, charoff and nowrap attributes are not implemented</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group ref="ukl:TableCell" minOccurs="0" maxOccurs="unbounded"/>
@@ -356,7 +382,15 @@
 	<xsd:attributeGroup name="TableAlignmentAttributes">
 		<xsd:attribute name="valign">
 			<xsd:annotation>
-				<xsd:documentation>Defines vertical alignment</xsd:documentation>
+				<xsd:documentation>
+					<h:p>Defines vertical alignment</h:p>
+					<h:ul>
+						<h:li>top</h:li>
+						<h:li>middle</h:li>
+						<h:li>bottom</h:li>
+						<h:li>baseline</h:li>
+					</h:ul>
+				</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -369,7 +403,17 @@
 		</xsd:attribute>
 		<xsd:attribute name="align" default="inherit">
 			<xsd:annotation>
-				<xsd:documentation>Describes horizontal alignment</xsd:documentation>
+				<xsd:documentation>
+					<h:p>Describes horizontal alignment</h:p>
+					<h:ul>
+						<h:li>inherit (taken from parent structure)</h:li>
+						<h:li>left</h:li>
+						<h:li>center</h:li>
+						<h:li>right</h:li>
+						<h:li>justify</h:li>
+						<h:li>char (aligns upon a certain character defined with a col element)</h:li>
+					</h:ul>
+				</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -388,9 +432,11 @@
 
 	<xsd:simpleType name="TableBorderStyleType">
 		<xsd:annotation>
-			<xsd:documentation>Defines a border style type</xsd:documentation>
-			<xsd:documentation>Values taken from the CSS2 specification http://www.w3.org/TR/REC-CSS2/box.html#value-def-border-style</xsd:documentation>
-			<xsd:documentation>Note: the value 'none' has not been used</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Defines a border style type</h:p>
+				<h:p>Values taken from the CSS2 specification http://www.w3.org/TR/REC-CSS2/box.html#value-def-border-style</h:p>
+				<h:p>Note: the value 'none' has not been used</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="inherit"/>
@@ -406,8 +452,10 @@
 
 	<xsd:simpleType name="TableSimpleLengthType">
 		<xsd:annotation>
-			<xsd:documentation>Defines a length in either pixels, points or ems; alternatively the value can be inherited.
-			If no units are supplied then width is assumed to be in pixels (see #156807703)</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Defines a length in either pixels, points or ems; alternatively the value can be inherited.</h:p>
+				<h:p>If no units are supplied then width is assumed to be in pixels (see #156807703)</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:pattern value="inherit"/>

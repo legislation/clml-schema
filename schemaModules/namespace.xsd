@@ -93,16 +93,14 @@
 
  <xs:attribute name="lang" type="xs:language">
   <xs:annotation>
-   <xs:documentation>Attempting to install the relevant ISO 2- and 3-letter
-         codes as the enumerated possible values is probably never
-         going to be a realistic possibility.  See
-         RFC 3066 at http://www.ietf.org/rfc/rfc3066.txt and the IANA registry
-         at http://www.iana.org/assignments/lang-tag-apps.htm for
-         further information.</xs:documentation>
+   <xs:documentation>Should be used to indicate the main language of the content contained by the element upon which the attribute is appearing. Values should be taken from the ISO 639 standard. This attribute should be used where the language is different from the main language of the document.</xs:documentation>
   </xs:annotation>
  </xs:attribute>
 
  <xs:attribute name="space">
+  <xs:annotation>
+   <xs:documentation>Is used to indicate whether white space is significant in the contained content and can contain the value ‘default’ or ‘preserve’. For a value of ‘default’, it is left to an application as to how to treat white space.</xs:documentation>
+  </xs:annotation>
   <xs:simpleType>
    <xs:restriction base="xs:NCName">
     <xs:enumeration value="default"/>
@@ -113,15 +111,13 @@
 
  <xs:attribute name="base" type="xs:anyURI">
   <xs:annotation>
-   <xs:documentation>See http://www.w3.org/TR/xmlbase/ for
-                     information about this attribute.</xs:documentation>
+   <xs:documentation>Is used to change the base from which relative URLs are calculated. See http://www.w3.org/TR/xmlbase/ for information about this attribute.</xs:documentation>
   </xs:annotation>
  </xs:attribute>
  
  <xs:attribute name="id" type="xs:ID">
   <xs:annotation>
-   <xs:documentation>See http://www.w3.org/TR/xml-id/ for
-                     information about this attribute.</xs:documentation>
+   <xs:documentation>See http://www.w3.org/TR/xml-id/ for information about this attribute.</xs:documentation>
   </xs:annotation>
  </xs:attribute>
 

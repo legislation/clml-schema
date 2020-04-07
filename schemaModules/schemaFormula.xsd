@@ -34,11 +34,15 @@
 	
 	<xsd:element name="Formula">
 		<xsd:annotation>
-			<xsd:documentation>Allows for a mathematical formula to be inserted</xsd:documentation>
+			<xsd:documentation>Allows for a mathematical formula to be inserted with the content described using MathML2.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="equationNumber" minOccurs="0" type="BasicStringStructure"/>
+				<xsd:element name="equationNumber" minOccurs="0" type="BasicStringStructure">
+					<xsd:annotation>
+						<xsd:documentation>The equation number (the need for this is very rare)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element ref="math:math"/>
 				<xsd:element ref="Where" minOccurs="0"/>
 			</xsd:sequence>

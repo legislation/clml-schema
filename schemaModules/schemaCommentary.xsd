@@ -115,8 +115,7 @@
 
 	<xsd:element name="CommentaryRef">
 		<xsd:annotation>
-			<xsd:documentation>Provides a link to a commentary.</xsd:documentation>
-			<xsd:documentation>The Ref attribute should point to an ID attribute on a commentary.</xsd:documentation>
+			<xsd:documentation>Provides a link to a commentary. The Ref attribute should point to an ID attribute on a commentary.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Ref" type="CommentaryId" use="required"/>

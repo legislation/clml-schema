@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	xmlns:h="http://www.w3.org/1999/xhtml"
 	version="2.0" id="SchemaFormatting">
 
 	<xsd:annotation>
@@ -32,7 +33,16 @@
 	<xsd:attributeGroup name="CommonFormattingAttributes">
 		<xsd:attribute name="Align" use="optional">
 			<xsd:annotation>
-				<xsd:documentation>Describes horizontal alignment</xsd:documentation>
+				<xsd:documentation>
+					<h:p>Describes horizontal alignment with permissible values of:</h:p>
+					<h:ul>
+						<h:li>inherit (the alignment is inherited from the parent element)</h:li>
+						<h:li>left</h:li>
+						<h:li>centre</h:li>
+						<h:li>right</h:li>
+						<h:li>justify (the entire paragraph is justified. Note that the last line is not force-justified. The decision on whether the last line should be is left to the implementation).</h:li>
+					</h:ul>
+				</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">

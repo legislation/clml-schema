@@ -38,6 +38,9 @@
 	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error"
 		schemaLocation="../schemaModules/errors.xsd"/>
 	<xsd:element name="Group">
+		<xsd:annotation>
+			<xsd:documentation>Highest level container of the five major Body content structures with headings</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -78,6 +81,9 @@
 	</xsd:element>
 
 	<xsd:element name="Part">
+		<xsd:annotation>
+			<xsd:documentation>Second highest level container of the five major Body content structures with headings</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -117,6 +123,9 @@
 	</xsd:element>
 
 	<xsd:element name="Chapter">
+		<xsd:annotation>
+			<xsd:documentation>Third highest level container of the five major Body content structures with headings</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -155,6 +164,9 @@
 	</xsd:element>
 
 	<xsd:element name="Pblock">
+		<xsd:annotation>
+			<xsd:documentation>Fourth highest level container of the five major Body content structures with headings</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
@@ -192,6 +204,9 @@
 	</xsd:element>
 
 	<xsd:element name="PsubBlock">
+		<xsd:annotation>
+			<xsd:documentation>Fifth highest level container of the five major Body content structures with headings</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />

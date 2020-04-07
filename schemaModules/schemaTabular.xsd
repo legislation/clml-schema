@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:h="http://www.w3.org/1999/xhtml" 
 	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="SchemaTabular">
 	
 	<xsd:annotation>
@@ -22,8 +22,8 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.1			William Holmes		Added FragmentAttributes
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			1.1			William Holmes	  Added FragmentAttributes
 			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -33,18 +33,24 @@
 
 	<xsd:element name="Tabular">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level wrapper for a table element</xsd:documentation>
+			<xsd:documentation>
+				<h:p>This is the top level wrapper for a table</h:p>
+				<h:p>The table itself is held in the XHTML namespace table element.</h:p>
+				<h:p>The schema uses a modified form of the XHTML table model.</h:p>
+				<h:p>The modified version tightens the model slightly. For instance, a tbody element is obligatory. In some areas unnecessary mark-up is omitted, e.g. cellspacing and cellpadding attributes. In addition the style attribute has been replaced with attributes from XSL:FO (XSL Formatting Objects, http://www.w3.org/TR/xsl),  hereafter referred to as ‘FO’. The reason for this is to ease the task of processing documents and also to enable easier authoring. If authors where expected to use the style attribute it would entail learning Cascading Style Sheets (CSS) – an extra burden.</h:p>
+				<h:p>Each individual table can have a caption. To do this the caption element is used within each table needing a caption. It is therefore expected that in general the table title will be described using the Title element rather than the caption element and that the caption element should be reserved for when multiple tables occur in a Tabular element.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="Number" minOccurs="0">
 					<xsd:annotation>
-						<xsd:documentation>Describes the number applying to the table(s) grouped by tabular</xsd:documentation>
+						<xsd:documentation>Describes the number applying to the table(s) grouped by tabular (e.g. Table 1, Table 2, etc)</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:element ref="Title" minOccurs="0">
 					<xsd:annotation>
-						<xsd:documentation>Describes the title of the table(s) grouped by tabular</xsd:documentation>
+						<xsd:documentation>Describes the title of the table(s) grouped by tabular (e.g. Table of Derivations)</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded">
@@ -54,7 +60,7 @@
 				</xsd:element>
 				<xsd:element name="TableText" minOccurs="0">
 					<xsd:annotation>
-						<xsd:documentation>Describes introductory (e.g. explanatory) text that belongs to the tables as defined by the tabular element</xsd:documentation>
+						<xsd:documentation>Describes introductory (e.g. explanatory) text that precedes and  belongs to the tables as defined by the tabular element</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:choice maxOccurs="unbounded">
@@ -90,7 +96,9 @@
 			</xsd:attribute>
 			<xsd:attribute name="Orientation" use="required">
 				<xsd:annotation>
-					<xsd:documentation>Defines the orientation of the table, including any titles and text</xsd:documentation>
+					<xsd:documentation>
+						<h:p>Defines the orientation of the table, including any titles and text</h:p>
+					</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
