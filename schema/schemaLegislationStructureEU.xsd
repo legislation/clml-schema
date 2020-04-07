@@ -30,6 +30,9 @@
 	</xsd:annotation>
 
 	<xsd:group name="EUStructure">
+		<xsd:annotation>
+			<xsd:documentation>EU content structure is very flexible as to the order of the content structures and each structural element can contain any of the other structural elements.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:choice>
 			<xsd:element ref="EUPart"/>
 			<xsd:element ref="EUTitle"/>
@@ -67,13 +70,36 @@
 		<xsd:attributeGroup ref="FragmentAttributes"/>
 	</xsd:complexType>
 
-	<xsd:element name="EUPart" type="EUStructureType"/>
-	<xsd:element name="EUTitle" type="EUStructureType"/>
-	<xsd:element name="EUChapter" type="EUStructureType"/>
-	<xsd:element name="EUSection" type="EUStructureType"/>
-	<xsd:element name="EUSubsection" type="EUStructureType"/>
+	<xsd:element name="EUPart" type="EUStructureType">
+		<xsd:annotation>
+			<xsd:documentation>A part within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:element name="EUTitle" type="EUStructureType">
+		<xsd:annotation>
+			<xsd:documentation>A title within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:element name="EUChapter" type="EUStructureType">
+		<xsd:annotation>
+			<xsd:documentation>A chapter within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:element name="EUSection" type="EUStructureType">
+		<xsd:annotation>
+			<xsd:documentation>A section within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	<xsd:element name="EUSubsection" type="EUStructureType">
+		<xsd:annotation>
+			<xsd:documentation>A sub-section within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
 
 	<xsd:element name="Division">
+		<xsd:annotation>
+			<xsd:documentation>A division within an EU document or BlockAmendment containing EU content</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="Number" minOccurs="0"/>

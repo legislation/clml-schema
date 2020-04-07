@@ -57,6 +57,9 @@
 	<!--	========== Element Definitions ==========	-->
 
 	<xsd:element name="Fragment">
+		<xsd:annotation>
+			<xsd:documentation>The top-level document element for editing fragments of United Kingdom primary and secondary legislation and for EU legislation.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="ukm:Metadata"/>
@@ -114,29 +117,46 @@
 			<xsd:field xpath="@Ref"/>
 		</xsd:keyref>
 		<xsd:key name="keyResource">
-			<xsd:selector
-				xpath="ukl:Resources/ukl:Resource | ukl:Resources/ukl:ResourceGroup | ukl:Resources/ukl:ResourceGroup/ukl:Resource"/>
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a resource has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Resource | .//ukl:ResourceGroup  | ukl:Resources/ukl:ResourceGroup/ukl:Resource"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 		<xsd:unique name="keyCitationRef">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a citation or citation sub reference has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
 			<xsd:selector xpath=".//ukl:Citation | .//ukl:CitationSubRef"/>
 			<xsd:field xpath="@id"/>
 		</xsd:unique>
 		<xsd:key name="keyMarginnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a margin note has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
 			<xsd:selector xpath="ukl:MarginNotes/ukl:MarginNote"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 		<xsd:key name="keyFootnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a footnote has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
 			<xsd:selector xpath=".//ukl:Footnote"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 		<xsd:key name="keyCommentary">
-			<xsd:selector xpath="ukl:Commentaries/ukl:Commentary"/>
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a commentary has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Commentary"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
 	</xsd:element>
 
 	<xsd:complexType name="FragmentContent">
+		<xsd:annotation>
+			<xsd:documentation>As a fragment is, by definition, a subset of content the model for UK legalisation needs to be less strict than for a complete document.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:choice>
 			<!-- need the multiple element structure for whole act editing  -->
 			<xsd:sequence>
@@ -174,6 +194,9 @@
 	</xsd:complexType>
 
 	<xsd:complexType name="FragmentEUContent">
+		<xsd:annotation>
+			<xsd:documentation>As a fragment is, by definition, a subset of content the model for EU legalisation needs to be less strict than for a complete document.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:choice>
 			<xsd:sequence>
 				<xsd:element ref="EUPrelims"/>
@@ -365,14 +388,18 @@
 	</xsd:simpleType>
 	
 	<xsd:group name="StandardMetadata">
+		<xsd:annotation>
+			<xsd:documentation>No standard Dublin Core metadata is required (until the final data set) but the Dublin Core identifier element is required in fragment editing.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:element ref="dc:identifier" maxOccurs="unbounded"/>
 		</xsd:sequence>
 	</xsd:group>
 	
-	
-	<!-- No extra metadata after primary/secondary in normal mode but source is allowed in edit mode -->
 	<xsd:group name="ExtraMetadata">
+		<xsd:annotation>
+			<xsd:documentation>No additional metadata is required (until the final data set) but the Dublin Core source element is allowed in fragment editing.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:sequence>
         	<xsd:element ref="dc:source" minOccurs="0"/>
 		</xsd:sequence>

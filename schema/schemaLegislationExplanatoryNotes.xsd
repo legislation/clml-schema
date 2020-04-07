@@ -21,7 +21,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -47,7 +47,7 @@
 	</xsd:element>
 	<xsd:element name="EarlierOrders">
 		<xsd:annotation>
-			<xsd:documentation>Earlier Orders to legislation</xsd:documentation>
+			<xsd:documentation>Earlier Orders to legislation providing a list of commencement orders that apply to the document.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

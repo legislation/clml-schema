@@ -30,7 +30,7 @@
 	</xsd:annotation>
 	<xsd:element name="Acronym">
 		<xsd:annotation>
-			<xsd:documentation>Defines an acronym and its expansion</xsd:documentation>
+			<xsd:documentation>Defines an acronym and its expansion (supplied in the Expansion attribute).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -38,7 +38,7 @@
 				<xsd:group ref="EmphasisBasic"/>
 				<xsd:element ref="Addition"/>
 				<xsd:element ref="Repeal"/>
-				<xsd:element ref="Substitution" />			
+				<xsd:element ref="Substitution" />
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Expansion" type="xsd:string"/>
@@ -46,7 +46,7 @@
 	</xsd:element>
 	<xsd:element name="Abbreviation">
 		<xsd:annotation>
-			<xsd:documentation>Defines an abbreviation and its expansion</xsd:documentation>
+			<xsd:documentation>Defines an abbreviation and its expansion (supplied in the Expansion attribute).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -54,7 +54,7 @@
 				<xsd:group ref="EmphasisBasic"/>
 				<xsd:element ref="Addition"/>
 				<xsd:element ref="Repeal"/>
-				<xsd:element ref="Substitution" />					
+				<xsd:element ref="Substitution" />
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Expansion" type="xsd:string"/>

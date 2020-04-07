@@ -42,11 +42,11 @@
 	<!-- Legislation includes -->
 	<xsd:include schemaLocation="schemaLegislationCore.xsd"/>
 	
-	<!-- See #113007733 and #162038035
-		For all schema except publication schema schemaLegisaltionBase-v1-0.xsd
-		we define the allowed extra list of deprecated types to be "none"
-		so it validates against current not deprecated list-->
+	<!-- See #113007733 and #162038035 -->
 	<xsd:simpleType name="DocumentMainType">
+		<xsd:annotation>
+			<xsd:documentation>For all schema except publication schema schemaLegisaltionBase-v1-0.xsd we define the allowed extra list of deprecated types to be "none" so it validates against current not deprecated list</xsd:documentation>
+		</xsd:annotation>
 		<xsd:restriction base="DocumentMainTypeBasic"/>
 	</xsd:simpleType>
 	

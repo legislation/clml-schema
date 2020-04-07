@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:h="http://www.w3.org/1999/xhtml"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
 	version="2.0" id="SchemaResources">
 	
@@ -31,7 +32,18 @@
 
 	<xsd:element name="Resources">
 		<xsd:annotation>
-			<xsd:documentation>Resources referenced by the document, both external and internal to the file</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Holds all of the content that is needed by the document but is not part of the main flow of the document or is external to the document, e.g. graphics.</h:p>
+				<h:p>Resources may be held internally or externally.</h:p>
+				<h:p>If the resource is held internally then it may be held as XML content, e.g. SVG for a graphic. Internal versions are held using the InternalVersion element. It is expected that an application processing the schema should know how to handle the following namespaces:</h:p>
+				<h:ul>
+					<h:li>SVG</h:li>
+					<h:li>XSL:FO</h:li>
+					<h:li>XHTML</h:li>
+					<h:li>Math ML</h:li>
+				</h:ul>
+				<h:p>The id attribute is used as a unique identifier for the resource.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -70,7 +82,7 @@
 
 	<xsd:element name="Resource">
 		<xsd:annotation>
-			<xsd:documentation>A resources to the document</xsd:documentation>
+			<xsd:documentation>A resource referenced the document, both external and internal to the file</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -109,7 +121,10 @@
 
 	<xsd:element name="BinaryContent">
 		<xsd:annotation>
-			<xsd:documentation>An internally stored document, encoded in base 64 format</xsd:documentation>
+			<xsd:documentation>
+				<h:p>An internally stored document, encoded in base 64 format – a format that allows raw binary files to be stored.</h:p>
+				<h:p>The obvious advantage of holding resources internally is that when transporting a file there are no external files to worry about. A Format attribute can be used to give a hint to a processing application as to the format of the encoded data. The possible values are the same as described for ExternalVersion.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:simpleContent>
@@ -127,7 +142,10 @@
 
 	<xsd:element name="XMLcontent">
 		<xsd:annotation>
-			<xsd:documentation>An internally stored document, stored as well-formed XML</xsd:documentation>
+			<xsd:documentation>
+				<h:p>An internally stored document, stored as well-formed XML.</h:p>
+				<h:p>Note that this content does not get parsed.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -139,7 +157,11 @@
 
 	<xsd:element name="ExternalVersion">
 		<xsd:annotation>
-			<xsd:documentation>An externally located resource located by reference</xsd:documentation>
+			<xsd:documentation>
+				<h:p>An externally located resource located by reference.</h:p>
+				<h:p>The location of the resource is held in the URI attribute, which should contain a URI.</h:p>
+				<h:p>The file format of the resource is held in the Format attribute.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="URI" type="xsd:anyURI">
@@ -149,7 +171,24 @@
 			</xsd:attribute>
 			<xsd:attribute name="Format" type="FileFormatsType">
 				<xsd:annotation>
-					<xsd:documentation>Format of external resource</xsd:documentation>
+					<xsd:documentation>
+						<h:p>Format of external resource</h:p>
+						<h:ul>
+							<h:li>doc - Word document</h:li>
+							<h:li>eps - EPS graphic</h:li>
+							<h:li>gif - GIF graphic</h:li>
+							<h:li>html - HTML document</h:li>
+							<h:li>jpeg - JPEG graphic</h:li>
+							<h:li>mpeg - MPEG video</h:li>
+							<h:li>png - PNG graphic</h:li>
+							<h:li>rtf - Rich Text Format document</h:li>
+							<h:li>svg- SVG graphic</h:li>
+							<h:li>xml - XML document</h:li>
+							<h:li>pdf - PDF document</h:li>
+							<h:li>tiff - TIFF graphic</h:li>
+						</h:ul>
+						<h:p>If the resource is not one of these formats the value ‘other’ can be used but it should be understood that an application processing the document may not know how to handle the file as it would only have the filename to go by.</h:p>
+					</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>

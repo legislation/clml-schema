@@ -28,7 +28,8 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-		<xsd:group name="TableText">
+	
+	<xsd:group name="TableText">
 		<xsd:annotation>
 			<xsd:documentation>Defines the content model for text to a table</xsd:documentation>
 		</xsd:annotation>

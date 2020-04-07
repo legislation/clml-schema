@@ -32,7 +32,7 @@
 	</xsd:annotation>
 	<xsd:element name="SignedSection">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level wrapper for a signature block</xsd:documentation>
+			<xsd:documentation>This is the top level container for a signature.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -46,7 +46,7 @@
 	</xsd:element>
 	<xsd:element name="Signatory">
 		<xsd:annotation>
-			<xsd:documentation>The person(s) signing-off the document. A group of signees may have lead-in text</xsd:documentation>
+			<xsd:documentation>The person(s) signing-off the document. A group of signees may have lead-in text.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -59,7 +59,7 @@
 	</xsd:element>
 	<xsd:element name="LSseal">
 		<xsd:annotation>
-			<xsd:documentation>Allows for an image of the seal to be included</xsd:documentation>
+			<xsd:documentation>Allows for an image of the seal to be included to indicate the presence of a seal used as part of the signature. It may optionally reference a resource using the ResourceRef attribute if it is required to reference a specific image. It may also have a Date attribute to indicate the date of the seal. It is rare (but possible) for any content to be within the element.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group ref="InlineFull" minOccurs="0" maxOccurs="unbounded"/>
@@ -69,6 +69,9 @@
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="Signee">
+		<xsd:annotation>
+			<xsd:documentation>Details of a single Signee. This allows an optional LSseal and then a choice of either an Image element (where a signature has been scanned or digitally created) or structured elements for each item of Signee information.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<!--<xsd:element ref="para" minOccurs="0" maxOccurs="unbounded"/>-->
@@ -93,6 +96,9 @@
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="DateSigned">
+		<xsd:annotation>
+			<xsd:documentation>The date (and optionally time) of the signing.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="DateText"/>

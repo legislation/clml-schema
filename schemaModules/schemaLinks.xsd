@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	xmlns:h="http://www.w3.org/1999/xhtml"
 	version="2.0" id="SchemaLinks">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -29,8 +30,7 @@
 	</xsd:annotation>
 	<xsd:element name="InternalLink">
 		<xsd:annotation>
-			<xsd:documentation>Describes a link with a target inside of the document</xsd:documentation>
-			<xsd:documentation>The ref attribute should point to an id attribute (though these are not necessarily of type ID)</xsd:documentation>
+			<xsd:documentation>Describes a link with a target inside of the document and allows a cross-reference to be inserted to any element that has an id attribute.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -38,16 +38,27 @@
 				<xsd:element ref="Character"/>
 				<xsd:element ref="Span"/>
 			</xsd:choice>
-			<xsd:attribute name="Ref" type="xsd:string" use="required"/>
-			<xsd:attribute name="EndRef" type="xsd:string" use="optional"/>
+			<xsd:attribute name="Ref" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>
+						<h:p>The Ref attribute should point to an id attribute (though these are not necessarily of type ID) that is the target of the link.></h:p>
+						<h:p>If the target for a link needs to be in the middle of text then the Span element can be used to wrap the target text (or even just provide a point target). This element has an id attribute and is designed specifically for this kind of task.</h:p>
+						<h:p>To be more precise it defines the start of the range of the target.</h:p>
+						<h:p>If the EndRef attribute is not present then it also defines the end of the range – that is the target is a point and not a range.</h:p>
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="EndRef" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>If present this defines the end of the range for the target of the link.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="ExternalLink">
 		<xsd:annotation>
-			<xsd:documentation>Describes a link with a target outside of the document</xsd:documentation>
-			<xsd:documentation>The uri attribute should describe the target as a URI. For DOIs use the format doi:10.1000/182</xsd:documentation>
-			<xsd:documentation>The title attribute should describe the link</xsd:documentation>
+			<xsd:documentation>Describes a link (hyperlink) with a target outside of the document.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
@@ -55,8 +66,16 @@
 				<xsd:element ref="Character"/>
 				<xsd:element ref="Span"/>
 			</xsd:choice>			
-			<xsd:attribute name="URI" type="xsd:anyURI"/>
-			<xsd:attribute name="Title" type="xsd:string"/>
+			<xsd:attribute name="URI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>The URI attribute is used to hold the link and is flexible in that it can contain any URI. This may be a URL (web address) or a DOI (which should be in URN format, e.g. doi:10.1000/182).</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Title" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>The title attribute should describe the link (hold a description of where the link goes).</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>

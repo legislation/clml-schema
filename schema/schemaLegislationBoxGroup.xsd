@@ -28,7 +28,12 @@
 	</xsd:annotation>
 	<xsd:element name="DecoratedGroup">
 		<xsd:annotation>
-			<xsd:documentation>A mechanism for adding accolades to blocks of text (usually a right brace)</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>A mechanism for adding accolades to blocks of text (usually a right brace)</h:p>
+				<h:p>Accolades are very long vertical or horizontal objects that typically occur within tables and are used to ‘group’ content together by visual presentation.</h:p>
+				<h:p>The element exists so that the ‘grouping’ concept is held structurally within the XML mark-up and the decoration (normally a brace) can then be auto-generated for output.</h:p>
+				<h:p>Usually a decorated group will be made up of two GroupItem elements, the first containing the text of the first half of the content and the second one containing the second half of the content.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -40,6 +45,17 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Orientation" use="required">
+				<xsd:annotation>
+					<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+						<h:p>Used to specify the orientation of the accolade. The following table is a list of possible values:</h:p>
+						<h:ul>
+							<h:li>leftToRight - Group item 1 on the left, group item 2 on the right, accolade should be output as normal</h:li>
+							<h:li>topToBottom - Group item 1 on the top, group item 2 on the bottom, accolade should be rotated 90 degrees right</h:li>
+							<h:li>bottomToTop - Group item 1 on the bottom, group item 2 on the top, accolade should be rotated 90 degrees left</h:li>
+							<h:li>rightToLeft - Group item 1 on the right, group item 2 on the left, accolade should be flipped from right to left</h:li>
+						</h:ul>
+					</xsd:documentation>
+				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
 						<xsd:enumeration value="leftToRight"/>
@@ -62,7 +78,10 @@
 	</xsd:element>
 	<xsd:element name="GroupItemRef">
 		<xsd:annotation>
-			<xsd:documentation>Describes a link to the right-hand side of the decorated group</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>Describes a link to the right-hand side of the decorated group.</h:p>
+				<h:p>Sometimes the second half of the content is in an adjacent table cell so grouping of the content is not possible across the cell boundaries. The solution is to use a GroupItemRef element instead of GroupItem. This uses a Ref attribute to reference an id on the associated cell.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Ref" type="xsd:IDREF" use="required"/>

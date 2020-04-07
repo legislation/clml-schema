@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns:h="http://www.w3.org/1999/xhtml"
 	version="2.0" id="SchemaIncludedDocument">
 	
 	<xsd:annotation>
@@ -30,8 +30,11 @@
 	</xsd:annotation>
 	<xsd:element name="IncludedDocument">
 		<xsd:annotation>
-			<xsd:documentation>Included documents are documents not coded to the main schema. They are referenced via the Resources section</xsd:documentation>
-			<xsd:documentation>Inline content gives the opportunity to provide some explanatory text as to the content.</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Included documents are documents not coded to the main schema. They are referenced via the Resources section.</h:p>
+				<h:p>Inline content gives the opportunity to provide some explanatory text as to the content.</h:p>
+				<h:p>An included document references a resource and it can, therefore, be anything that can be held in a Resource element. For forms the recommendation would be to use Scalable Vector Graphics (SVG) to mark up.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:sequence minOccurs="0">

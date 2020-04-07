@@ -24,8 +24,8 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.6			Jim Mangiafico		Expanded to accommodate European Union legislation
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			1.6			Jim Mangiafico	  Expanded to accommodate European Union legislation
 			1.5			Paul Appleby		Added Group to amendment content model and fragment context
 			1.4			Paul Appleby		Allowed PrimaryPreamble and SecondaryPreamble in BlockAmendment
 			1.3			Paul Appleby		Allowed Body in BlockAmendment to that an entire SI can be included in an amendment (bar prelims) using Contents, Body and Schedules element
@@ -41,7 +41,11 @@
 
 	<xsd:element name="BlockAmendment">
 		<xsd:annotation>
-			<xsd:documentation>Describes an amendment to the text</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>Describes a block amendment to the text.</h:p>
+				<h:p>Legislation is unusual in the fact that it can alter other documents. This is done via amendments that state which passages of text are to be altered, inserted or removed. When amending text the new text is ‘quoted’ – that is, it becomes part of the amending document. This leads to situations where, not only does primary legislation contain amendments to other primary legislation and secondary legislation contain amendments to secondary legislation, but primary legislation can also contain secondary legislation and vice-versa. When formatting documents the format of the amendment depends on when the document was created. For instance, a new style Act (introduced in 2001) amending an old style Act will format the amendment in the new style. However, for SIs created using the SI template, for instance, most amendments take on the style of an SI.</h:p>
+				<h:p>To get around the problem of how to format the amendment, information is carried on amendments giving details about the document being amended. The rendering on any amendment can then be left to the rendering engine as to whether to format an amendment in the format of the amending document, or the format of the amended document.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -170,6 +174,9 @@
 	</xsd:element>
 
 	<xsd:element name="InlineAmendment">
+		<xsd:annotation>
+			<xsd:documentation>Describes an inline amendment to the text.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>
 				<xsd:extension base="InlineStructure">

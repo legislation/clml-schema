@@ -50,6 +50,9 @@
 	<!--	========== Element Definitions ==========	-->
 
 	<xsd:element name="EN">
+		<xsd:annotation>
+			<xsd:documentation>Explanatory notes and explanatory memoranda (ENs)</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="ukm:Metadata" minOccurs="0"/>
@@ -88,14 +91,23 @@
 			<xsd:field xpath="@Ref"/>
 		</xsd:keyref>
 		<xsd:key name="keyResource">
-			<xsd:selector xpath=".//ukl:Resource | .//ukl:ResourceGroup"/>
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a resource has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
+			<xsd:selector xpath=".//ukl:Resource | .//ukl:ResourceGroup  | ukl:Resources/ukl:ResourceGroup/ukl:Resource"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
-		<xsd:key name="keyCitationRef">
+		<xsd:unique name="keyCitationRef">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a citation or citation sub reference has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
 			<xsd:selector xpath=".//ukl:Citation | .//ukl:CitationSubRef"/>
 			<xsd:field xpath="@id"/>
-		</xsd:key>
+		</xsd:unique>
 		<xsd:key name="keyFootnote">
+			<xsd:annotation>
+				<xsd:documentation>Ensures that a footnote has an id unique within the document</xsd:documentation>
+			</xsd:annotation>
 			<xsd:selector xpath=".//ukl:Footnote"/>
 			<xsd:field xpath="@id"/>
 		</xsd:key>
@@ -105,7 +117,7 @@
 		
 	<xsd:complexType name="ContentsType">
 		<xsd:annotation>
-			<xsd:documentation>The Explanatory notes specific model.</xsd:documentation>
+			<xsd:documentation>The Explanatory notes specific contents model.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:element ref="ContentsTitle" minOccurs="0"/>
@@ -119,7 +131,7 @@
 	
 	<xsd:group name="EmphasisBasicExtras">
 		<xsd:annotation>
-			<xsd:documentation>The Explanatory Notes specific model.</xsd:documentation>
+			<xsd:documentation>The Explanatory Notes specific emphasis model.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:sequence>
 			<xsd:element ref="Note"/>

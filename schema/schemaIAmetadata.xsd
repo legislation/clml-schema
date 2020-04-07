@@ -45,6 +45,9 @@
 	<xsd:import namespace="http://www.w3.org/2005/Atom" schemaLocation="../schemaModules/atom.xsd"/>
 	
 	<xsd:element name="Metadata">
+		<xsd:annotation>
+			<xsd:documentation>A container for metadata in an Impact Assessments (IAs)</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element maxOccurs="unbounded" ref="dc:identifier"/>
@@ -90,7 +93,7 @@
 
 	<xsd:element name="AssociatedIAs">
 		<xsd:annotation>
-			<xsd:documentation>Metadata for alternative IAa</xsd:documentation>
+			<xsd:documentation>Metadata for alternative IAs</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -113,7 +116,7 @@
 	
 	<xsd:element name="Alternatives">
 		<xsd:annotation>
-			<xsd:documentation>Metadata for alternative IAa</xsd:documentation>
+			<xsd:documentation>Metadata for alternative IAs</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -223,19 +226,35 @@
 
 	<xsd:element name="AlternativeNumber">
 		<xsd:annotation>
-			<xsd:documentation>For certain legislation types subsidiary serial numbers apply. For early primary legislation regnal years are used to identify legislation</xsd:documentation>
+			<xsd:documentation>For secondary legislation for some classes of document there may be one or more subsidiary numbers associated with it. For early primary legislation documents were also identified by the regnal year.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Category" type="xsd:string" use="required">
 				<xsd:annotation>
-					<xsd:documentation>The applicable values at present are C, L, S, NI, W and Cy or Regnal when it holds a regnal year</xsd:documentation>
+					<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml"><h:p>The values that should be used in the Category attribute of this element are:</h:p>
+					<h:ul>
+						<h:li>C - Commencement and/or Appointed Day orders that bring into force an Act or part of an Act</h:li>
+						<h:li>L - Legal series</h:li>
+						<h:li>S - Scottish series</h:li>
+						<h:li>NI - Northern Ireland series</h:li>
+						<h:li>W - National Assembly for Wales series. Where the document is in Welsh the value will be Cy</h:li>
+						<h:li>Regnal - Indicates the number is a regnal year</h:li>
+					</h:ul>
+					</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+			<xsd:attribute name="Value" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Holds the actual number/text for the AlternativeNumber.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="DocumentClassification">
+		<xsd:annotation>
+			<xsd:documentation>A container for information about the document class.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:all>
 				<xsd:element name="DocumentCategory" minOccurs="0">
@@ -257,9 +276,7 @@
 				<xsd:element ref="DocumentStage" minOccurs="0"/>
 				<xsd:element name="DocumentStatus" minOccurs="0">
 					<xsd:annotation>
-						<xsd:documentation>Defines the status (or stage) of the document</xsd:documentation>
-						<xsd:documentation>For secondary legislation this will be draft or final</xsd:documentation>
-						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
+						<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">Defines the status (or stage) of the document. For secondary legislation this will be draft or final. For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
 						<!--<xsd:attribute name="Value" use="required" fixed="final"/>-->
@@ -289,7 +306,7 @@
 
 	<xsd:element name="DocumentMainType">
 		<xsd:annotation>
-			<xsd:documentation>Defines the type of the document. This covers all the possible varities of UK legislation</xsd:documentation>
+			<xsd:documentation>Defines the type of the document. This covers all the possible varieties of UK legislation</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="leg:DocumentMainTypeBasic" use="required"/>

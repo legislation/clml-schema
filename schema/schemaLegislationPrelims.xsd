@@ -74,10 +74,14 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="Title" type="InlineRestrictedStructure"/>
+				<xsd:element name="Title" type="InlineRestrictedStructure">
+					<xsd:annotation>
+						<xsd:documentation>Title of the primary legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element name="Number" type="BasicStringStructure">
 					<xsd:annotation>
-						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+						<xsd:documentation>Display number (only allows text) e.g. "2011 Chapter 5"</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
@@ -103,11 +107,15 @@
 				<xsd:element ref="Draft" minOccurs="0"/>
 				<xsd:element name="Number" type="BasicStringStructure">
 					<xsd:annotation>
-						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+						<xsd:documentation>Display number (only allows text) e.g. "2011 No. 86"</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:element ref="SubjectInformation"/>
-				<xsd:element name="Title" type="InlineRestrictedStructure"/>
+				<xsd:element name="Title" type="InlineRestrictedStructure">
+					<xsd:annotation>
+						<xsd:documentation>Title of the secondary legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element ref="Approved" minOccurs="0"/>
 				<xsd:choice minOccurs="0">
 					<xsd:sequence>
@@ -190,12 +198,15 @@
 
 	<xsd:element name="SubjectInformation">
 		<xsd:annotation>
-			<xsd:documentation>Details the subject matter of the document</xsd:documentation>
+			<xsd:documentation>A container for a list of subjects indicating the areas of law or administration to which it belongs.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence maxOccurs="unbounded">
 				<xsd:group ref="err:Errors" minOccurs="0" />
 				<xsd:element name="Subject">
+					<xsd:annotation>
+						<xsd:documentation>A subject indicating an area of law or administration to which it belongs.</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:sequence>
 							<xsd:element ref="Title" maxOccurs="unbounded"/>
@@ -211,13 +222,13 @@
 
 	<xsd:element name="LongTitle" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>The long title for the Act</xsd:documentation>
+			<xsd:documentation>The long (full) title for the Act</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 
 	<xsd:element name="IntroductoryText">
 		<xsd:annotation>
-			<xsd:documentation>Preamble text that introduces the document</xsd:documentation>
+			<xsd:documentation>Preamble text that introduces the document (generally contains an explanation as to why the Act is being introduced)</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -229,7 +240,7 @@
 
 	<xsd:element name="EnactingText">
 		<xsd:annotation>
-			<xsd:documentation>The words of enactment</xsd:documentation>
+			<xsd:documentation>The words of enactment. If there is no enacting text the EnactingTextOmitted element should be used</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -253,7 +264,7 @@
 
 	<xsd:element name="Resolution">
 		<xsd:annotation>
-			<xsd:documentation>Details about the resolution of the document</xsd:documentation>
+			<xsd:documentation>Resolution details about the document used when the legislation is actually a resolution of the House of Commons.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -265,7 +276,7 @@
 
 	<xsd:element name="DateOfEnactment">
 		<xsd:annotation>
-			<xsd:documentation>The date that the document becomes enacted</xsd:documentation>
+			<xsd:documentation>The text form of date of enactment of the document, i.e. the date it becomes law. In UK legislation this will be in short form like "[25th June 2002]" however in Scottish legislation this may be more verbose.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -277,13 +288,13 @@
 
 	<xsd:element name="Approved" type="InlineRestrictedStructure">
 		<xsd:annotation>
-			<xsd:documentation>Text describing the fact that the document has been approved</xsd:documentation>
+			<xsd:documentation>A statement of approval for legislation that needs to be approved (subject to the affirmative resolution procedure), generally by one or both of the Houses of Parliament.</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 
 	<xsd:element name="LaidDraft">
 		<xsd:annotation>
-			<xsd:documentation>Details describing the fact that the document has been laid before Parliament in draft</xsd:documentation>
+			<xsd:documentation>For draft legislation that has been laid this element can be used to contain the necessary text for where the document has been laid. It is also possible for the draft laying to contain date information – in which case the DateText element can be used to hold the text of the date. Generally a document containing this element will also contain a Draft element.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -309,7 +320,7 @@
 
 	<xsd:element name="MadeDate">
 		<xsd:annotation>
-			<xsd:documentation>Details about the document being made</xsd:documentation>
+			<xsd:documentation>Made date text (e.g. "Made" in Text element and "17th January 2011" in DateText)</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -322,7 +333,7 @@
 
 	<xsd:element name="LaidDate">
 		<xsd:annotation>
-			<xsd:documentation>Details about the document being laid before Parliament</xsd:documentation>
+			<xsd:documentation>Laid date text (e.g. "Laid before the House of Commons" in Text element and "18th January 2011" in DateText)</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -341,7 +352,7 @@
 
 	<xsd:element name="ComingIntoForce">
 		<xsd:annotation>
-			<xsd:documentation>Indicates when the legislation comes into force. This may be broken down into more granular sections</xsd:documentation>
+			<xsd:documentation>Text indicating when the legislation comes into force. This may be broken down into more granular sections,</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -350,7 +361,7 @@
 					<xsd:element ref="DateText"/>
 					<xsd:element name="ComingIntoForceClauses" minOccurs="0" maxOccurs="unbounded">
 						<xsd:annotation>
-							<xsd:documentation>Details about when individual clauses or sections of the document come into force</xsd:documentation>
+							<xsd:documentation>Details about when individual clauses or sections of the document come into force,</xsd:documentation>
 						</xsd:annotation>
 						<xsd:complexType>
 							<xsd:sequence>
@@ -368,7 +379,7 @@
 
 	<xsd:element name="RoyalPresence">
 		<xsd:annotation>
-			<xsd:documentation>Text describing the the presence of royalty</xsd:documentation>
+			<xsd:documentation>Text indicating the presence of royalty or a representative of royalty.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:group ref="ParaBasic" maxOccurs="unbounded"/>

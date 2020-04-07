@@ -3,7 +3,7 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
+	xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
 	attributeFormDefault="unqualified" version="2.1" id="schemaLegislationMetadata">
 	<xsd:annotation>
@@ -69,7 +69,7 @@
 	
 	<xsd:element name="Metadata">
 		<xsd:annotation>
-			<xsd:documentation>Metadata section for document</xsd:documentation>
+			<xsd:documentation>A container for the metadata of the document.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -103,7 +103,6 @@
 		<xsd:complexType>
 			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
 			<xsd:attribute name="title" type="xsd:string" use="optional"/>
-
 		</xsd:complexType>
 	</xsd:element>
 
@@ -113,7 +112,6 @@
 			<xsd:attribute name="title" type="xsd:string" use="optional"/>
 		</xsd:complexType>
 	</xsd:element>
-
 
 	<xsd:element name="SupersededBy">
 		<xsd:annotation>
@@ -219,11 +217,10 @@
 					then it is in schemaLegislationMetadataCorrectionEdit.xsd-->
 					<xsd:element name="Correction">
 						<xsd:annotation>
-							<xsd:documentation>Certain items of legislation get corrected or are correcting. This information is used to connect the two items together.</xsd:documentation>
-							<xsd:documentation>It is also possible to correct a draft legislation item. In that case the identifier of the other document should be used</xsd:documentation>
-							<xsd:documentation>When the data is past the published stage, only the attributes are present not the element content.
-											   This model is used for the data delivered by the website and bulk downloads. 
-											   The data model has been made more strict (required attributes to match our expectations of data quality.</xsd:documentation>
+							<xsd:documentation>
+								<h:p>Certain items of legislation get corrected or are correcting. This information is used to connect the two items together.</h:p>
+								<h:p>It is also possible to correct a draft legislation item. In that case the identifier of the other document should be used.</h:p>
+								<h:p>When the data is past the published stage, only the attributes are present not the element content. This model is used for the data delivered by the website and bulk downloads. The data model has been made more strict (required attributes to match our expectations of data quality.</h:p></xsd:documentation>
 						</xsd:annotation>
 						<xsd:complexType>
 							<xsd:sequence minOccurs="0">
@@ -275,7 +272,7 @@
 
 	<xsd:group name="Alter">
 		<xsd:annotation>
-			<xsd:documentation>Metadata for alternatives legislation or ENs</xsd:documentation>
+			<xsd:documentation>Metadata for alternatives legislation or Explanatory Notes</xsd:documentation>
 		</xsd:annotation>
 		<xsd:choice>
 			<xsd:element ref="Notes"/>
@@ -295,7 +292,7 @@
 
 	<xsd:element name="Notes">
 		<xsd:annotation>
-			<xsd:documentation>Metadata for ENs and EMs for this legislation item</xsd:documentation>
+			<xsd:documentation>Metadata for Explanatory Notes (ENs) and Explanatory Memorandums (EMs) for this legislation item</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice minOccurs="1" maxOccurs="unbounded">
@@ -308,7 +305,7 @@
 
 	<xsd:element name="Note">
 		<xsd:annotation>
-			<xsd:documentation>Metadata for ENs and EMs for this legislation item</xsd:documentation>
+			<xsd:documentation>Metadata for a single EN or EM for this legislation item</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attributeGroup ref="leg:OptionalURIs"/>
@@ -321,7 +318,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="Alternative" maxOccurs="unbounded" type="AlterType" />
+				<xsd:element name="Alternative" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>An Alternative format for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -332,7 +333,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="CorrectionSlip" maxOccurs="unbounded" type="AlterType" />
+				<xsd:element name="CorrectionSlip" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>A correction slip on this legislation or note</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -343,7 +348,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="CodeOfPractice" maxOccurs="unbounded" type="AlterType" />
+				<xsd:element name="CodeOfPractice" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>A correction slips on this legislation or note</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -354,7 +363,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="CodeOfConduct" maxOccurs="unbounded" type="AlterType"/>
+				<xsd:element name="CodeOfConduct" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>A code of conduct for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -365,7 +378,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="TableOfOrigins" maxOccurs="unbounded" type="AlterType" />
+				<xsd:element name="TableOfOrigins" maxOccurs="unbounded" type="AlterType" >
+					<xsd:annotation>
+						<xsd:documentation>A table of origin for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -376,7 +393,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="TableOfDestinations" maxOccurs="unbounded" type="AlterType" />
+				<xsd:element name="TableOfDestinations" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>A table of desitnations for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -431,7 +452,7 @@
 
 	<xsd:element name="EnactmentDate">
 		<xsd:annotation>
-			<xsd:documentation>Date of enactment</xsd:documentation>
+			<xsd:documentation>Date of enactment (used in primary legislation)</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required"/>
@@ -446,17 +467,42 @@
 	</xsd:element>
 
 	<xsd:element name="Made">
+		<xsd:annotation>
+			<xsd:documentation>Information on when the legalisation was Made</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:attribute name="Date" type="xsd:date" use="required"/>
-			<xsd:attribute name="Time" type="xsd:time"/>
+			<xsd:attribute name="Date" type="xsd:date" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Made date</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Time" type="xsd:time">
+				<xsd:annotation>
+					<xsd:documentation>Made time</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="Laid">
+		<xsd:annotation>
+			<xsd:documentation>Information on when the legalisation was Laid</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:attribute name="Date" type="xsd:date" use="required"/>
-			<xsd:attribute name="Time" type="xsd:time"/>
+			<xsd:attribute name="Date" type="xsd:date" use="required">
+				<xsd:annotation>
+					<xsd:documentation>laid date</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Time" type="xsd:time">
+				<xsd:annotation>
+					<xsd:documentation>Laid time</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="Class" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The location the document was Laid.</xsd:documentation>
+				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
 						<xsd:enumeration value="NorthernIrelandAssembly"/>
@@ -475,6 +521,9 @@
 	</xsd:element>
 
 	<xsd:element name="ComingIntoForce">
+		<xsd:annotation>
+			<xsd:documentation>Contains one or more DateTime elements, each of which can store a date and (optionally) time. If desired, the different dates stated within the document when parts of the legislation come into force can be stored using this mechanism.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence maxOccurs="unbounded">
 				<xsd:element name="DateTime">
@@ -489,42 +538,63 @@
 
 
 	<xsd:element name="TotalParagraphs">
+		<xsd:annotation>
+			<xsd:documentation>A count of all paragraphs in the document (generated automatically for final document).</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="BodyParagraphs">
+		<xsd:annotation>
+			<xsd:documentation>A count of paragraphs in the body of the document (generated automatically for final document).</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="ScheduleParagraphs">
+		<xsd:annotation>
+			<xsd:documentation>A count of paragraphs in the schedules of the document (generated automatically for final document).</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="AttachmentParagraphs">
+		<xsd:annotation>
+			<xsd:documentation>A count of paragraphs in attachements of the document (generated automatically for final document).</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 	
 	<xsd:element name="TotalImages">
+		<xsd:annotation>
+			<xsd:documentation>A count of images in the document (generated automatically for final document).</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="RoyalPresence">
+		<xsd:annotation>
+			<xsd:documentation>The data of royal presence should be present where there has been a royal presence in passing the legislation.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="Resolution">
+		<xsd:annotation>
+			<xsd:documentation>This element(in the metadata namespace) only applies to secondary legislation that has a document subclass of resolution (which is very rare). It is the date of resolution of the document and the actual date is held in a Date attribute, which should be formatted as for the made date. The value should be taken from the Resolution element in the preliminary matter.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required"/>
 		</xsd:complexType>
@@ -532,7 +602,7 @@
 
 	<xsd:element name="DepartmentCode">
 		<xsd:annotation>
-			<xsd:documentation>Certains document types may have a department code where the document was originated from a Government department</xsd:documentation>
+			<xsd:documentation>Certain document types may have a department code (also known as a domestic serial number) indicating the relevant Government department</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:string" use="required"/>
@@ -541,7 +611,7 @@
 
 	<xsd:element name="Year">
 		<xsd:annotation>
-			<xsd:documentation>The year as the legislation applies</xsd:documentation>
+			<xsd:documentation>For primary legislation it is the year of enactment. For secondary legislation it is related to the making of the document and the date of registration.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:string" use="required"/>
@@ -550,7 +620,7 @@
 
 	<xsd:element name="Number">
 		<xsd:annotation>
-			<xsd:documentation>The main number of the document</xsd:documentation>
+			<xsd:documentation>The number associated with the document. For primary legislation this will be the chapter number and for secondary it will be the registered number.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:string" use="required"/>
@@ -568,24 +638,40 @@
 
 	<xsd:element name="AlternativeNumber">
 		<xsd:annotation>
-			<xsd:documentation>For certain legislation types subsidiary serial numbers apply. For early primary legislation regnal years are used to identify legislation</xsd:documentation>
+			<xsd:documentation>For secondary legislation for some classes of document there may be one or more subsidiary numbers associated with it. For early primary legislation documents were also identified by the regnal year.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Category" type="xsd:string" use="required">
 				<xsd:annotation>
-					<xsd:documentation>The applicable values at present are C, L, S, NI, W and Cy or Regnal when it holds a regnal year</xsd:documentation>
+					<xsd:documentation><h:p>The values that should be used in the Category attribute of this element are:</h:p>
+					<h:ul>
+						<h:li>C - Commencement and/or Appointed Day orders that bring into force an Act or part of an Act</h:li>
+						<h:li>L - Legal series</h:li>
+						<h:li>S - Scottish series</h:li>
+						<h:li>NI - Northern Ireland series</h:li>
+						<h:li>W - National Assembly for Wales series. Where the document is in Welsh the value will be Cy</h:li>
+						<h:li>Regnal - Indicates the number is a regnal year</h:li>
+					</h:ul>
+					</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="Value" type="xsd:string" use="required"/>
+			<xsd:attribute name="Value" type="xsd:string" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Holds the actual number/text for the AlternativeNumber.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="DocumentClassification">
+		<xsd:annotation>
+			<xsd:documentation>A container for information about the document class.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element name="DocumentCategory">
 					<xsd:annotation>
-						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary and secondary</xsd:documentation>
+						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:attribute name="Value" use="required">
@@ -602,9 +688,7 @@
 				<xsd:element ref="DocumentMainType"/>
 				<xsd:element name="DocumentStatus">
 					<xsd:annotation>
-						<xsd:documentation>Defines the status (or stage) of the document</xsd:documentation>
-						<xsd:documentation>For secondary legislation this will be draft or final</xsd:documentation>
-						<xsd:documentation>For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present</xsd:documentation>
+						<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">Defines the status (or stage) of the document. For secondary legislation this will be draft or final. For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:attribute name="Value" use="required">
@@ -625,18 +709,6 @@
 					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:attribute name="Value" type="leg:UKMinorType" use="required"/>
-						<!--<xsd:attribute name="Value" use="required">
-							<xsd:simpleType>
-								<xsd:restriction base="xsd:string">
-									<xsd:enumeration value="order"/>
-									<xsd:enumeration value="regulation"/>
-									<xsd:enumeration value="rule"/>
-									<xsd:enumeration value="scheme"/>
-									<xsd:enumeration value="resolution"/>
-									<xsd:enumeration value="unknown"/>
-								</xsd:restriction>
-							</xsd:simpleType>
-						</xsd:attribute>-->
 					</xsd:complexType>
 				</xsd:element>
 			</xsd:sequence>
@@ -645,7 +717,7 @@
 
 	<xsd:element name="DocumentMainType">
 		<xsd:annotation>
-			<xsd:documentation>Defines the type of the document. This covers all the possible varities of UK legislation</xsd:documentation>
+			<xsd:documentation>Defines the type of the document. This covers all the possible varieties of UK legislation</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="leg:DocumentMainType" use="required"/>
@@ -665,7 +737,7 @@
 
 	<xsd:element name="UnappliedEffect">
 		<xsd:annotation>
-			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation.</xsd:documentation>
+			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation (currently generated from effects spreadsheet).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<!-- Original more strict order did not match data
@@ -909,9 +981,7 @@
 	
 	<xsd:element name="OtherDocuments">
 		<xsd:annotation>
-			<xsd:documentation>
-				Metadata for other documents that do not fit any of the other options; covers Explanatory Documents as well as more random documents
-			</xsd:documentation>
+			<xsd:documentation>Metadata for other documents that do not fit any of the other options; covers Explanatory Documents as well as more random documents</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -933,9 +1003,7 @@
 	
 	<xsd:element name="UKRPCOpinions">
 		<xsd:annotation>
-			<xsd:documentation>
-				Metadata for UK Regulatory Policy Committee Opinions on Impact Assessments
-			</xsd:documentation>
+			<xsd:documentation>Metadata for UK Regulatory Policy Committee Opinions on Impact Assessments</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

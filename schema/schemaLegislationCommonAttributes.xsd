@@ -34,7 +34,23 @@
 	<xsd:attributeGroup name="CommonAttributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
-				<xsd:documentation>A unique identifier for every element</xsd:documentation>
+				<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+					<h:p>A unique identifier for the element</h:p>
+					<h:p>The format of this identifier is yxxxxx where y is a letter and xxxxx is a number, padded to five digits.</h:p>
+					<h:p>Those elements that are commonly referenced have fixed values for y and are listed in the below.</h:p>
+					<h:ul>
+						<h:li>c<h:i>xxxxx</h:i> - Citation, CitationSubRef</h:li>
+						<h:li>e<h:i>xxxxx</h:i> - ExternalVersion</h:li>
+						<h:li>f<h:i>xxxxx</h:i> - Footnote</h:li>
+						<h:li>g<h:i>xxxxx</h:i> - Figure, Image</h:li>
+						<h:li>i<h:i>xxxxx</h:i> - InternalVersion</h:li>
+						<h:li>m<h:i>xxxxx</h:i> - P1group, P2group, P3group, P1, P2, P3, P4, P5, P6, P7, P</h:li>
+						<h:li>r<h:i>xxxxx</h:i> - ResourceGroup, Resource</h:li>
+						<h:li>t<h:i>xxxxx</h:i> - Citation, CitationSubRef</h:li>
+						<h:li>v<h:i>xxxxx</h:i> - Version</h:li>
+						<h:li>x<h:i>xxxxx</h:i> - Formula</h:li>
+					</h:ul>
+				</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NCName">
@@ -49,6 +65,9 @@
 		<xsd:attributeGroup ref="XMLattributes"/>
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="XMLattributes">
+		<xsd:annotation>
+			<xsd:documentation>The standard XML attributes xml:lang, xml:space and xml:base are included on each element. Their use as defined by the W3 specification should be respected.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:attribute ref="xml:lang"/>
 		<xsd:attribute ref="xml:space"/>
 		<xsd:attribute ref="xml:base"/>
@@ -56,16 +75,16 @@
 	<xsd:attributeGroup name="VersionRefAttributes">
 		<xsd:attribute name="AltVersionRefs" type="RefsLinkType">
 			<xsd:annotation>
-				<xsd:documentation>Links to alternate versions of the content, e.g. perhaps a Welsh version</xsd:documentation>
+				<xsd:documentation>Links to alternate versions of the content by referencing the version's id attribute, e.g. perhaps a Welsh version or an image (Figure) of a Formula</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="StructureNumberFormattingAttributes">
-		<xsd:annotation>
-			<xsd:documentation>Defines whether section numbering (top level) should be formatted in a way other then the default. This is basically for legacy data</xsd:documentation>
-			<xsd:documentation>The use of a default attribute has been considered and kept due to the fact the the attribute is only to be used for legacy data and it would be a hinderance to have to consider its use going forward. It is expected that this attribute could be changed to a fixed value of default if required</xsd:documentation>
-		</xsd:annotation>
 		<xsd:attribute name="NumberFormat" default="default">
+			<xsd:annotation>
+				<xsd:documentation>Defines whether section numbering (top level) should be formatted in a way other then the default. This is basically for legacy data. The use of a default attribute has been considered and kept due to the fact that the attribute is only to be used for legacy data and it would be a hinderance to have to consider its use going forward. It is expected that this attribute could be changed to a fixed value of default if required</xsd:documentation>
+				
+			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
 					<xsd:enumeration value="default"/>
@@ -77,6 +96,9 @@
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="QuotesAttributes">
 		<xsd:attribute name="Format" use="required">
+			<xsd:annotation>
+				<xsd:documentation>Defines they type of quotes to be used when formatting block or inline amendments or extracts.</xsd:documentation>
+			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
 					<xsd:enumeration value="default"/>
@@ -121,9 +143,7 @@
 	<xsd:attributeGroup name="ProvisionCountAttributes">
 		<xsd:attribute name="NumberOfProvisions" type="xsd:integer">
 			<xsd:annotation>
-				<xsd:documentation>
-					Count of the number of child provisions within the section of content (added automatically when published)
-				</xsd:documentation>
+				<xsd:documentation>Count of the number of child provisions within the section of content (added automatically when published)</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
 	</xsd:attributeGroup>
