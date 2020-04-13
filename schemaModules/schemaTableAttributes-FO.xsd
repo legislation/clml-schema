@@ -102,24 +102,24 @@
 	<xsd:simpleType name="TableColorType">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>Defines a colour type using CSS basic colour values or RGB notation</h:p>
+				<h:p>FO colour attribute values should be defined using CSS basic colour values or RGB notation</h:p>
 				<h:ul>
-					<h:li>aqua - </h:li>
-					<h:li>black - </h:li>
-					<h:li>blue - </h:li>
-					<h:li>fuchsia - </h:li>
-					<h:li>gray - </h:li>
-					<h:li>green - </h:li>
-					<h:li>lime - </h:li>
-					<h:li>maroon - </h:li>
-					<h:li>navy - </h:li>
-					<h:li>olive - </h:li>
-					<h:li>purple - </h:li>
-					<h:li>red - </h:li>
-					<h:li>silver - </h:li>
-					<h:li>teal - </h:li>
-					<h:li>white - </h:li>
-					<h:li>yellow - </h:li>
+					<h:li>aqua - #00ffff</h:li>
+					<h:li>black - #000000</h:li>
+					<h:li>blue - #0000ff</h:li>
+					<h:li>fuchsia - #ff00ff</h:li>
+					<h:li>gray - #808080</h:li>
+					<h:li>green - #008000</h:li>
+					<h:li>lime - #00ff00</h:li>
+					<h:li>maroon - #800000</h:li>
+					<h:li>navy - #000080</h:li>
+					<h:li>olive - #808000</h:li>
+					<h:li>purple - #800080</h:li>
+					<h:li>red - #ff0000</h:li>
+					<h:li>silver - #c0c0c0</h:li>
+					<h:li>teal - #008080</h:li>
+					<h:li>white - #ffffff</h:li>
+					<h:li>yellow - #ffff00</h:li>
 					<h:li>hexadecimal value e.g. #4b0082 is indigo</h:li>
 				</h:ul>
 			</xsd:documentation>
