@@ -186,7 +186,7 @@
 	<xsd:element name="Key" type="InlineFullStructure">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>The he key for an item within a definition list.</h:p>
+				<h:p>The key for an item within a definition list.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
