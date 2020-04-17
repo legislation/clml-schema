@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>Resolution of the House of Commons</dc:title>
+		<dc:subject>Parliament</dc:subject>
+		<dc:identifier>urn:isbn:0110436318</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:date>2003-07-24</dc:date>
+		<dc:coverage>UK</dc:coverage>
+		<dc:rights>Crown copyright 2003</dc:rights>
+		<dc:format>text/xml</dc:format>
+		<dc:type>text</dc:type>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="resolution"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1994"/>
+			<ukm:Number Value="631"/>
+			<ukm:Resolution Date="1994-03-04"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	
+<!-- User guide example: UG00401. Taken from the section 'Preliminary matter' -->
+<!-- User guide example: UG00402. Taken from the section 'Preliminary matter' -->
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>1994 No. 631</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Parliament</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title/>
+			<SecondaryPreamble>
+				<Resolution>
+					<Para>
+						<Text>Resolution of the House of Commons, dated 4th March 1994, passed in pursuance of the <Citation id="c00101" Class="UnitedKingdomPublicGeneralAct" Year="1948" Number="36">House of Commons Members' Fund Act 1948</Citation>, <CitationSubRef id="c00102" CitationRef="c00101">s.3</CitationSubRef> (11 and 12 Geo.6 c.36) and the <Citation id="c00103" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0007">House of Commons Members' Fund and Parliamentary Pensions Act 1981</Citation>, <CitationSubRef id="c00104" CitationRef="c00103">s.2</CitationSubRef> (<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0007">1981 c. 7</Citation>).</Text>
+					</Para>
+				</Resolution>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P>
+				<Text>
+					<Emphasis>Resolved,</Emphasis>
+				</Text>
+			</P>
+			<P>
+				<Text>That, in pursuance of the provisions of section 3 of the House of Commons Members' Fund Act 1948 and of section 2 of the House of Commons Members' Fund and Parliamentary Pensions Act 1981, the maximum annual amounts of the periodical payments which may be made out of the House of Commons Members' Fund under the House of Commons Members' Fund Act 1939<FootnoteRef Ref="f00001"/>, as amended<FootnoteRef Ref="f00002"/>, and the annual rate of any payments made under section 1 of the said Act of 1981 shall be varied as from 1st April 1994, as follows:</Text>
+				<P3>
+					<Pnumber>a</Pnumber>
+					<P3para>
+						<Text>for paragraph 1 of Schedule 1 to the said Act of 1939, as amended, there shall be substituted the following paragraph:</Text>
+						<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="schedule" Format="single">
+							<P1>
+								<Pnumber>1</Pnumber>
+								<P1para>
+									<Text>The annual amount of any periodical payment made to any person by virtue of his past membership of the House of Commons shall not exceed £3,554 or such sum as, in the opinion of the Trustees, will bring his income up to £6,561 per annum, whichever is the less:</Text>
+								</P1para>
+								<P1para>
+									<Text>Provided that if, having regard to length of service and need, the Trustees think fit, they may make a larger payment not exceeding £6,842 or such sum as, in their opinion, will bring his income up to £9,849 per annum, whichever is the less</Text>
+								</P1para>
+							</P1>
+						</BlockAmendment>
+						<AppendText>:</AppendText>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>b</Pnumber>
+					<P3para>
+						<Text>for paragraph 2 of that Schedule there shall be substituted the following paragraph:</Text>
+						<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="schedule" Format="single">
+							<P1>
+								<Pnumber>2</Pnumber>
+								<P1para>
+									<Text>The annual amount of any periodical payment to any person by virtue of her being a widow of a past Member of the House of Commons shall not exceed £2,221 or such sum as, in the opinion of the Trustees, will bring her income up to £5,228 per annum, whichever is the less:</Text>
+								</P1para>
+								<P1para>
+									<Text>Provided that if, having regard to her husband’s length of service or to her need, the Trustees think fit, they may make a larger payment not exceeding £4,277 or such sum as, in the opinion of the Trustees, will bring her income up to £7,284 per annum, whichever is the less</Text>
+								</P1para>
+							</P1>
+						</BlockAmendment>
+						<AppendText>:</AppendText>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>c</Pnumber>
+					<P3para>
+						<Text>in paragraph 2A of that Schedule for the words “the annual amount of any periodical payment” to the end of the paragraph, there shall be substituted the words:</Text>
+						<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="schedule" Format="single">
+							<P1para>
+								<Text>the annual amount of any periodical payment made to any such widower shall not exceed £2,221 or such sum as, in the opinion of the Trustees, will bring his income up to £5,228 per annum, whichever is the less:</Text>
+							</P1para>
+							<P1para>
+								<Text>Provided that if, having regard to his wife’s length of service or to his need, the Trustees think fit, they may make a larger payment not exceeding £4,277 or such sum as, in the opinion of the Trustees, will bring his income up to £7,284 per annum, whichever is the less</Text>
+							</P1para>
+						</BlockAmendment>
+						<AppendText>:</AppendText>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>d</Pnumber>
+					<P3para>
+						<Text>in section 2(1) of the said Act of 1981, for the words from the beginning to the end of the paragraph (b) there shall be substituted the words:</Text>
+						<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="single">
+							<P3para>
+								<Text>the annual rate of any payments made under section 1 shall be—</Text>
+								<OrderedList Decoration="parens" Type="alpha">
+									<ListItem>
+										<Para>
+											<Text>£2,070 if the payments are made to a past Member; and</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>£1,294 if the payments are made to the widow or widower of a past Member</Text>
+										</Para>
+									</ListItem>
+								</OrderedList>
+							</P3para>
+						</BlockAmendment>
+						<AppendText>.</AppendText>
+					</P3para>
+				</P3>
+			</P>
+		</Body>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1939" Number="0049">1939 c. 49</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>S. I. 1956/1668, 1957/388, 1961/988, 1965/718, 1971/770, 1972/1181, 1974/2061, 1975/2038, 1979/1667, 1980/1899, 1981/1848, 1982/1827, 1983/1823, 1984/2065, 1985/2082, 1987/511, 1988/742, 1989/365, 1990/853, 1991/992, 1992/1683, 1993/1181.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

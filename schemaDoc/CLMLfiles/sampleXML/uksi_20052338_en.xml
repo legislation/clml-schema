@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ukm:Metadata>
+		<dc:title>The Education (School Performance Information) () (Amendment) (No. 2) Regulations 2005</dc:title>
+		<dc:subject>education, </dc:subject>
+		<dc:identifier>urn:isbn:0000000000</dc:identifier>
+		<dc:language>en</dc:language>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2005"/>
+			<ukm:Number Value="2338"/>
+			<ukm:Made Date="2005-08-22"/>
+			<ukm:Laid Date="2005-08-26" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2005-09-16"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2005 No. 2338</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>education, england</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Education (School Performance Information) (England) (Amendment) (No. 2) Regulations 2005</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>22nd August 2005</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>26th August 2005</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force-</Text>
+				<DateText>16th September 2005</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>In exercise of the powers conferred upon the Secretary of State by sections 408, 537A(1) and (2) and 569(4) of the Education Act 1996<FootnoteRef Ref="f00001"/> and after consulting with those persons with whom consultation appeared to the Secretary of State to be desirable, the Secretary of State for Education and Skills hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and application</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Education (School Performance Information) (England) (Amendment) (No. 2) Regulations 2005 and shall come into force on 16<Superior>th</Superior> September 2005.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>These Regulations shall apply only in relation to England.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Interpretation</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>In these Regulations any reference to the “Principal Regulations” is a reference to the Education (School Performance Information) (England) Regulations 2001<FootnoteRef Ref="f00002"/>.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendments to the Principal Regulations</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>The Principal Regulations shall be amended in accordance with regulations 4 to 11.</Text>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>In regulation 7, insert the words “and the proprietor of every Academy” after the words “secondary school”.</Text>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<Text>For regulation 8 substitute the following regulation—</Text>
+						<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+							<P1group>
+								<Title>Provision of information about fourth key stage results to the Secretary of State</Title>
+								<P1>
+									<Pnumber>8</Pnumber>
+									<P1para>
+										<Text>The governing body of every maintained school and the proprietor of every non-maintained special school or independent school which has registered pupils who are at or near the end of the final year of the fourth key stage or who are aged 15 but are not at or near the end of the final year of the fourth key stage shall, within two weeks of receiving a written request from the Secretary of State, provide him with the information specified in Part 1 of Schedule 3.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>After regulation 8, insert the following regulation—</Text>
+						<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+							<P1group>
+								<Title>Provision of information about the results of pupils aged 16, 17 and 18 to the Secretary of State</Title>
+								<P1>
+									<Pnumber>8A</Pnumber>
+									<P1para>
+										<Text>The governing body of every maintained school and the proprietor of every non-maintained special school or independent school which has registered pupils who are aged 16, 17 or 18 shall, within two weeks of receiving a written request from the Secretary of State, provide him with the information specified in Part 2 of Schedule 3.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<Text>In regulation 13—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in the heading, for the words “local education authorities” substitute the words “the Secretary of State”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in paragraph (1), for the word “authority” substitute the words “Secretary of State”; and</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>in paragraphs (1) and (4), for the words “the third Thursday in January in each reporting school year” substitute the words “receiving a written request from the Secretary of State”.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<Text>In Schedule 2—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in paragraph 2(2)(i), for the word “of” (where it first occurs) substitute the word “on”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in paragraph 2(2)(iA), for the word “of” (where it first occurs) substitute the word “on”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>omit “or” at the end of paragraph 2 (2) (iv);</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>for the full stop at the end of paragraph 2 (2) (v) substitute a semi-colon and insert “or”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>after paragraph 2(2)(v), insert the following—</Text>
+								<BlockAmendment Context="schedule" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+									<P4>
+										<Pnumber>vi</Pnumber>
+										<P4para>
+											<Text>whether an NC test result relates to a test taken prior to the final year of the second key stage and the school year in which it was taken.</Text>
+										</P4para>
+									</P4>
+								</BlockAmendment>
+								<AppendText>; and</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>f</Pnumber>
+							<P3para>
+								<Text>after paragraph 2, insert the following paragraph—</Text>
+								<BlockAmendment TargetSubClass="regulation" Context="schedule" TargetClass="secondary" Format="double">
+									<P1>
+										<Pnumber PuncAfter=".">2A</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>In respect of each registered pupil in the second key stage other than those referred to in paragraph 2,<Character Name="NonBreakingSpace"/>who has taken one or two NC tests early, the pupil’s gender, date of birth and surname followed by first name or, if more than one, each first name and the date of registration at the school.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>In respect of each such pupil, the level on the National Curriculum level scale achieved by the pupil as determined by the results of the NC tests taken early.</Text>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<Text>In Schedule 2A—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in paragraph 2(2)(i), for the word “of” (where it first occurs) substitute the word “on”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in paragraph 2(2)(ii), for the word “of” (where it first occurs) substitute the word “on”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>omit “or” at the end of paragraph 2 (2) (v);</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>for the full-stop at the end of paragraph 2 (2) (vi) substitute a semi-colon and insert “or”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>after paragraph 2(2)(vi), insert the following—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double">
+									<P4>
+										<Pnumber>vii</Pnumber>
+										<P4para>
+											<Text>whether an NC test result relates to a test taken prior to the final year of the third key stage and the school year in which it was taken.</Text>
+										</P4para>
+									</P4>
+								</BlockAmendment>
+								<AppendText>; and</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>f</Pnumber>
+							<P3para>
+								<Text>after paragraph 2, insert the following paragraph—</Text>
+								<BlockAmendment TargetSubClass="regulation" Context="schedule" TargetClass="secondary" Format="double">
+									<P1>
+										<Pnumber>2A</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>In respect of each registered pupil in the third key stage other than those referred to in paragraph 2, who has taken one or two NC tests early, the pupil’s gender, date of birth and surname followed by first name or, if more than one, each first name and the date of registration at the school.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>In respect of each such pupil, the level on the National Curriculum level scale achieved by the pupil as determined by the results of the NC tests taken early.</Text>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>10</Pnumber>
+					<P1para>
+						<Text>In Schedule 3—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in the heading to the Schedule, for the words “Examination and Vocational Qualification Results” substitute the words “Fourth Key Stage Results and Results of Pupils aged 16, 17 and 18”;</Text>
+							</P3para>
+						</P3>
+						
+<!-- User guide example: UG01202. Taken from the section 'Amendments' -->
+						
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>for the heading to Part 1 of the Schedule, substitute the following heading—</Text>
+								<BlockAmendment Context="schedule" TargetSubClass="regulation" Format="double" TargetClass="secondary">
+									<FragmentTitle Context="Part">
+										<Title>Pupils in the fourth key stage</Title>
+									</FragmentTitle>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>for paragraph 1 substitute the following paragraph—</Text>
+								<BlockAmendment TargetSubClass="regulation" Context="schedule" TargetClass="secondary" Format="double">
+									<P1>
+										<Pnumber>1</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>The number of registered pupils who are at or near the end of the final year of the fourth key stage.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>The number of registered pupils aged 15 who are not at or near the end of the final year of the fourth key stage.</Text>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>omit paragraph 2;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>omit “and” at the end of paragraph 3 (2)(a);</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>f</Pnumber>
+							<P3para>
+								<Text>in paragraph 3(2), for paragraph (b) substitute the following paragraph—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double">
+									<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>the external qualification taken and the grade or, where applicable, the level achieved;</Text>
+										</P3para>
+									</P3>
+								</BlockAmendment>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>g</Pnumber>
+							<P3para>
+								<Text>at the end of paragraph 3(2)(b), for the full-stop substitute a semi-colon and insert the following paragraphs—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double">
+									<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>the school year in which he was entered for the external qualification and the name of the awarding body for that qualification;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>except where the pupil is registered at an independent school other than an Academy or CTC, the level on the National Curriculum level scale achieved by the pupil in the third key stage as determined by the results of NC tests in any of the school years preceding the reporting school year; and</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>e</Pnumber>
+										<P3para>
+											<Text>except where the pupil is registered at an independent school other than an Academy or CTC, the level on the National Curriculum level scale achieved by the pupil in the second key stage as determined by the results of NC tests in any of the school years preceding the reporting school year.</Text>
+										</P3para>
+									</P3>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>h</Pnumber>
+							<P3para>
+								<Text>omit paragraphs 4 and 5;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>i</Pnumber>
+							<P3para>
+								<Text>after paragraph 7 in Part 2 of the Schedule, insert the following paragraph—</Text>
+								<BlockAmendment TargetSubClass="regulation" Context="schedule" TargetClass="secondary" Format="double">
+									<P1>
+										<Pnumber>8</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>The number of registered pupils aged 16, 17 or 18 who, during the reporting school year or any of the school years preceding that year, were entered for an external qualification approved under section 98 of the Learning and Skills Act 2000 for use by pupils who are over compulsory school age but have not attained the age of 19.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>In the case of each such pupil referred to in sub-paragraph (1), the following information—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>the pupil’s gender, date of birth and surname followed by first name or, if more than one, each first name;</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>the external qualification taken and the grade or, where applicable, the level achieved;</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>c</Pnumber>
+														<P3para>
+															<Text>the school year in which he was entered for the external qualification and the awarding body for that qualification.</Text>
+														</P3para>
+													</P3>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>; and</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>j</Pnumber>
+							<P3para>
+								<Text>omit paragraphs 9 and 10.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>11</Pnumber>
+					<P1para>
+						<Text>In the heading to Schedule 10, for the words “Local Education Authorities” substitute the words “the Secretary of State”.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Adonis</PersonName>
+						<JobTitle>Parliamentary Under Secretary of State</JobTitle>
+						<Department>Department for Education and Skills</Department>
+						<DateSigned Date="2005-08-22">
+							<DateText>22nd August 2005</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		
+<!-- User guide example: UG01201. Taken from the section 'Explanatory notes' -->
+		
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations amend the Education (School Performance Information) (England) Regulations 2001.</Text>
+			</P>
+			<P>
+				<Text>The principal amendments will—</Text>
+				<P3>
+					<Pnumber>a</Pnumber>
+					<P3para>
+						<Text>require Academies to provide the Secretary of State with information about second key stage assessment results <Emphasis>(regulation 4)</Emphasis>;</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>b</Pnumber>
+					<P3para>
+						<Text>require maintained schools, non-maintained special schools and independent schools to provide the Secretary of State with information about the results of pupils at or near the end of the fourth key stage and of pupils aged 15 but not at or near the end of the fourth key stage <Emphasis>(regulation 5)</Emphasis>;</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>c</Pnumber>
+					<P3para>
+						<Text>require maintained schools to provide information about permanently excluded pupils to the Secretary of State instead of to their local education authorities <Emphasis>(regulation 7)</Emphasis>;</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>d</Pnumber>
+					<P3para>
+						<Text>require maintained primary and middle deemed secondary schools and Academies to provide the Secretary of State with information about the results of pupils in the second key stages who have taken one or two NC tests early <Emphasis>(regulation 8)</Emphasis>;</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>e</Pnumber>
+					<P3para>
+						<Text>require maintained secondary schools, Academies and CTCs to provide the Secretary of State with information about the results of pupils in the third key stage who have taken one or two NC tests early <Emphasis>(regulation 9)</Emphasis>; and</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>f</Pnumber>
+					<P3para>
+						<Text>require maintained schools, non-maintained special schools and independent schools to provide the Secretary of State with information about the results of pupils aged 16, 17 and 18 in external qualifications approved under section 98 of the Learning and Skills Act 2000 for use by those over compulsory schools age but have not attained the age of 19 <Emphasis>(regulation 10 )</Emphasis>.</Text>
+					</P3para>
+				</P3>
+			</P>
+			<P>
+				<Text>Details of the external qualifications approved for use by pupils over compulsory school age under section 98 of the Learning and Skills Act 2000 can be accessed online at www.openquals.org.uk.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1996" Number="0056">1996 c.56</Citation>. (By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 (<Citation id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0672">S.I.1999/672</Citation>) the powers conferred by these sections are exercisable by the Secretary of State only in relation to England. Section 408 was amended by the Education Act <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0044">1997 (c.44)</Citation>, Sch 7, para. 30, the School Standards and Framework Act <Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0031">1998 (c.31)</Citation>, Sch 30, para. 106, and by the Learning and Skills Act <Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0021">2000 (c.21)</Citation>, Sch 9, para. 57. Section 537A was substituted by the School Standards and Framework Act 1998, Sch 30, para. 153.)</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3446">S.I. 2001/3446</Citation>. Amended by <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2017">S.I. 2002/2017</Citation>, <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="0537">2003/537</Citation>, 2003/2135, 2004/2141 and 2005/51.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

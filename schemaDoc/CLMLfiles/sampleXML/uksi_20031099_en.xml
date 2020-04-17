@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Motor Cycles Etc. (EC Type Approval) (Amendment) Regulations 2003</dc:title>
+		<dc:subject>Road Traffic</dc:subject>
+		<dc:identifier>urn:isbn:011045751X</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1099"/>
+			<ukm:DepartmentCode Value="DfT 13031"/>
+			<ukm:Made Date="2003-04-14"/>
+			<ukm:Laid Date="2003-04-15" Class="UnitedKingdomParliament"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1099</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Road Traffic</Title>
+				</Subject>
+			</SubjectInformation>
+
+<!-- User guide example: UG00904. Taken from the section 'Acronyms and Abbreviations' -->
+			
+			<Title>The Motor Cycles Etc. (<Acronym Expansion="European Commission">EC</Acronym> Type Approval) (Amendment) Regulations 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>14th April 2003</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>15th April 2003</DateText>
+			</LaidDate>
+
+<!-- User guide example: UG00901. Taken from the section 'Preliminary matter' -->
+			
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<ComingIntoForceClauses>
+					<Text>Regulations 1 and 2(f)</Text>
+					<DateText>7th May 2003</DateText>
+				</ComingIntoForceClauses>
+				<ComingIntoForceClauses>
+					<Text>Remainder</Text>
+					<DateText>9th November 2003</DateText>
+				</ComingIntoForceClauses>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State for Transport, being a Minister designated<FootnoteRef Ref="f00001"/> for the purposes of section 2(2) of the European Communities Act 1972<FootnoteRef Ref="f00002"/> in relation to the regulation of the type, description, construction or equipment of vehicles and of components of vehicles, and in particular any vehicle type approval scheme, in exercise of the powers conferred by that section and of all other powers enabling him in that behalf, hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Motor Cycles Etc. (EC Type Approval) (Amendment) Regulations 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This regulation and regulation 2(f) shall come into force on 7th May 2003 and all other regulations shall come into force on 9th November 2003.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Motor Cycles Etc. (EC Type Approval) Regulations 1999</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>The Motor Cycles Etc. (EC Type Approval) Regulations 1999<FootnoteRef Ref="f00003"/> shall be amended in accordance with the following paragraphs—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in regulation 3 (interpretation)—</Text>
+								<P4>
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>for the definition of “the Framework Directive” there shall be substituted the following—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P1para>
+												<UnorderedList Decoration="none" Class="Definition">
+													<ListItem>
+														<Para>
+															<Text>“the Framework Directive” means Directive 2002/24/EC of the European Parliament and of the Council of 18th March 2002 relating to the type approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC<FootnoteRef Ref="f00004"/>, as corrected by a Corrigendum<FootnoteRef Ref="f00005"/>;</Text>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+											</P1para>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>in the definition of “EC component type approval” after “approval of a” there shall be inserted “system,”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>iii</Pnumber>
+									<P4para>
+										<Text>for the definition of “moped” there shall be substituted—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P1para>
+												<UnorderedList Decoration="none" Class="Definition">
+													<ListItem>
+														<Para>
+															<Text>“moped” means a two or three wheel vehicle with a maximum design speed of not more than 45 km/h which—</Text>
+															<OrderedList Decoration="parens" Type="alpha">
+																<ListItem>
+																	<Para>
+																		<Text>if a two wheel vehicle, is fitted with an engine which—</Text>
+																		<OrderedList Decoration="parens" Type="roman">
+																		
+<!-- User guide example: UG00905. Taken from the section 'Acronyms and Abbreviations' -->
+																		
+																			<ListItem>
+																				<Para>
+																					<Text>in the case of the internal combustion type, has a cylinder capacity not exceeding 50 <Abbreviation Expansion="centimetres">cm</Abbreviation>; and</Text>
+																				</Para>
+																			</ListItem>
+																			<ListItem>
+																				<Para>
+																					<Text>in the case of an electric motor, has a maximum continuous rated power of not more than 4 <Abbreviation Expansion="kilowatts">kW</Abbreviation>; and</Text>
+																				</Para>
+																			</ListItem>
+																		</OrderedList>
+																	</Para>
+																</ListItem>
+																<ListItem>
+																	<Para>
+																		<Text>if a three wheel vehicle, is fitted with an engine which—</Text>
+																		<OrderedList Decoration="parens" Type="roman">
+																			<ListItem>
+																				<Para>
+																					<Text>in the case of the spark (positive) ignition type, has a cylinder capacity not exceeding 50 cm;</Text>
+																				</Para>
+																			</ListItem>
+																			<ListItem>
+																				<Para>
+																					<Text>in the case of an internal combustion type other than of the spark (positive) ignition type, has a maximum net power output not exceeding 4 kW; and</Text>
+																				</Para>
+																			</ListItem>
+																			<ListItem>
+																				<Para>
+																					<Text>in the case of an electric motor, has a maximum continuous rated power of not more than 4 kW;</Text>
+																				</Para>
+																			</ListItem>
+																		</OrderedList>
+																	</Para>
+																</ListItem>
+															</OrderedList>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+											</P1para>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>iv</Pnumber>
+									<P4para>
+										<Text>in the definition of “quadricycle”, in paragraph (a), for “less than 350 kg” there shall be substituted “not more than 350 kg”;</Text>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in regulation 4 (vehicles to which the regulations apply) in paragraph (2)—</Text>
+								<P4>
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>in sub-paragraph (d) for “whatever the terrain” there shall be substituted “in off-road conditions”; and</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>after sub-paragraph (f) there shall be added—</Text>
+										<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default">
+											<P3>
+												<Pnumber>g</Pnumber>
+												<P3para>
+													<Text>cycles with pedal assistance which are equipped with an auxiliary electric motor having a maximum continuous rated power of 0.25 kW, of which the output is progressively reduced and finally cut off as the vehicle reaches a speed of 25 km/h, or sooner, if the cyclist stops pedalling.</Text>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>after regulation 10 (duty to co-operate with the Secretary of State) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P1>
+										<Pnumber>10A</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>The holder of an EC type approval granted by the Secretary of State shall comply with the following requirements of Article 9 of the Framework Directive—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>the second sentence of paragraph (1); and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>the first sentence of paragraph (4).</Text>
+														</P3para>
+													</P3>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>For the purposes of the said Article 9 the Secretary of State is designated as the competent authority and as the approval authority.</Text>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>after regulation 18 (prototypes) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P1group>
+										<Title>End of series vehicles</Title>
+										<P1>
+											<Pnumber>18A</Pnumber>
+											<P1para>
+												<P2>
+													<Pnumber>1</Pnumber>
+													<P2para>
+														<Text>This regulation applies to an EC type approval if—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>it has been granted by the Secretary of State or under any provision of the law of an EEA State other than the United Kingdom giving effect to Article 4 of the Framework Directive; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>the Secretary of State is satisfied that it is going to cease to have effect in consequence of the provisions of the Framework Directive or a separate Directive.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>2</Pnumber>
+													<P2para>
+														<Text>Subject to paragraph (3) the Secretary of State may, at the request of the holder of an EC type approval to which this regulation applies, direct that every relevant EC certificate of conformity shall continue to have effect for the purpose of—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>Part II of the 1988 Act,</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>Part IV of the 1981 Order, and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>this Part of these Regulations,</Text>
+															</P3para>
+														</P3>
+														<Text>for the period of 12 months as from the date on which the EC type approval lost its validity.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>3</Pnumber>
+													<P2para>
+														<Text>A request under paragraph (2) shall specify the technical or economic reasons for which it is made.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>4</Pnumber>
+													<P2para>
+														<Text>A direction under paragraph (2)—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>may be given only at a time when the EC type approval has effect;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>shall cease to have effect if the EC type approval—</Text>
+																<P4>
+																	<Pnumber>i</Pnumber>
+																	<P4para>
+																		<Text>is withdrawn under regulation 13,</Text>
+																	</P4para>
+																</P4>
+																<P4>
+																	<Pnumber>ii</Pnumber>
+																	<P4para>
+																		<Text>is withdrawn under any provision of the law of an EEA State other than the United Kingdom giving effect to Article 4 of the Framework Directive, or</Text>
+																	</P4para>
+																</P4>
+																<P4>
+																	<Pnumber>iii</Pnumber>
+																	<P4para>
+																		<Text>ceases to have effect for a reason other than that referred to in sub-paragraph (1)(b), and</Text>
+																	</P4para>
+																</P4>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>shall have effect subject to regulations 14(6) and (10) and 16.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>5</Pnumber>
+													<P2para>
+														<Text>For the purposes of paragraph (2), an EC certificate of conformity is a relevant EC certificate of conformity where—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>the EC type approval pursuant to which it is issued ceases to have effect;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>it was issued not less than three months before the EC type approval ceases to have effect; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>the vehicle to which it relates is an end of series vehicle.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>6</Pnumber>
+													<P2para>
+														<Text>If, following a request by a holder of an EC type approval, the Secretary of State refuses to exercise his powers under paragraph (2), he shall give notice of his decision to the holder.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>7</Pnumber>
+													<P2para>
+														<Text>In this regulation “end of series vehicle” has the meaning given in Schedule 1A.</Text>
+													</P2para>
+												</P2>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>in regulation 26 (transitional) after paragraph (2) there shall be added—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+											<Text>An application for EC type approval made under these Regulations before amendment by the Amending Regulations shall have effect as if made under these Regulations as amended by those Regulations.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+											<Text>Regulations 7 to 16 and 20—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>shall apply to the type approval, granted pursuant to Directive 92/61/EEC, of a separate technical unit or component, or of a vehicle, as they apply to an EC type approval; and</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>shall apply to a type approval certificate issued&#151;</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>under regulation 7 of these Regulations before amendment by the Amending Regulations, or</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>under any provision of the law of an EEA State other than the United Kingdom giving effect to Article 5 of Directive 92/61/EEC,</Text>
+														</P4para>
+													</P4>
+													<Text>as they apply to an EC type approval certificate.</Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>5</Pnumber>
+										<P2para>
+											<Text>For the purposes of this regulation—</Text>
+											<UnorderedList Decoration="none" Class="Definition">
+												<ListItem>
+													<Para>
+														<Text>“the Amending Regulations” means the Motor Cycles Etc. (EC Type Approval) (Amendment) Regulations 2003; and</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>“Directive 92/61/EEC” means Council Directive 92/61/EEC of 30th June 1992 relating to the type approval of two or three-wheel motor vehicles<FootnoteRef Ref="f00006"/>.</Text>
+													</Para>
+												</ListItem>
+											</UnorderedList>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>f</Pnumber>
+							<P3para>
+								<Text>in Schedule 1 (Separate Directives)—</Text>
+								<P4>
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>in relation to item 11—</Text>
+										<P5>
+											<Pnumber>aa</Pnumber>
+											<P5para>
+												<Text>in the third and fourth columns respectively there shall be inserted at the end—</Text>
+												<Tabular Orientation="portrait">
+													<table xml:lang="en" cols="2" fo:border-right-style="solid" fo:border-left-style="solid" fo:border-bottom-style="solid" fo:border-top-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+														<thead fo:border-bottom-style="solid">
+															<tr>
+																<th rowspan="1" colspan="1" fo:border-right-style="solid">Amending Directives</th>
+																<th rowspan="1" colspan="1">Official Journal Reference</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td rowspan="1" colspan="1" fo:border-right-style="solid">“2002/41/EC*</td>
+																<td rowspan="1" colspan="1" fo:border-right-style="solid">L133, 18.5.2002, p.17&#8217;</td>
+															</tr>
+														</tbody>
+													</table>
+												</Tabular>
+												<Text>; and</Text>
+											</P5para>
+										</P5>
+										<P5>
+											<Pnumber>bb</Pnumber>
+											<P5para>
+												<Text>in the entry in the fifth column after “and maximum” there shall be inserted “net”; and</Text>
+											</P5para>
+										</P5>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>in relation to item 12 in the third column and fourth columns respectively there shall be inserted at the end—</Text>
+										<Tabular Orientation="portrait">
+											<xhtml:table id="t00001" cols="2" fo:border-right-style="solid" fo:border-left-style="solid" fo:border-bottom-style="solid" fo:border-top-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+												<thead fo:border-bottom-style="solid">
+													<tr>
+														<th rowspan="1" colspan="1" fo:border-right-style="solid">Amending Directives</th>
+														<th rowspan="1" colspan="1">Official Journal Reference</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td rowspan="1" colspan="1" fo:border-right-style="solid">“2002/51/EC_</td>
+														<td rowspan="1" colspan="1">L252, 20.9.2002, p.20&#8217;</td>
+													</tr>
+												</tbody>
+											</xhtml:table>
+										</Tabular>
+										<Text>;</Text>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>g</Pnumber>
+							<P3para>
+								<Text>after Schedule 2 there shall be inserted the content of the Schedule to these Regulations; and</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>h</Pnumber>
+							<P3para>
+								<Text>in Schedule 2 (Amendments of Acts and Orders) paragraph 4(2)(b) shall be omitted.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Road Traffic Act 1988</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>In the Road Traffic Act 1988<FootnoteRef Ref="f00007"/> in section 85 (interpretation of Part II)—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in the definition of “EC certificate of conformity”, for paragraph (b) there shall be substituted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1para>
+										<UnorderedList Decoration="none" Class="Definition">
+											<ListItem>
+												<Para>
+													<OrderedList Start="2" Type="alpha" Decoration="parens">
+														<ListItem>
+															<Para>
+																<Text>in the case of a vehicle to which the motorcycle type approval Directive applies, any certificate of conformity—</Text>
+																<OrderedList Type="roman" Decoration="parens">
+																	<ListItem>
+																		<Para>
+																			<Text>issued by a manufacturer under regulation 8(1) of the Motor Cycles Etc. (EC Type Approval) Regulations 1999, whether before, on or after 9th November 2003, or</Text>
+																		</Para>
+																	</ListItem>
+																	<ListItem>
+																		<Para>
+																			<Text>issued by a manufacturer under any provision of the law of an EEA State other than the United Kingdom giving effect to Article 7(1) of the motorcycle type approval directive or to Article 7(1) of Council Directive 92/61/EEC of 30th June 1992 relating to the type approval of two or three-wheeled motor vehicles,</Text>
+																		</Para>
+																	</ListItem>
+																</OrderedList>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P1para>
+								</BlockAmendment>
+								<AppendText> and</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>for the definition of “the motorcycle type approval Directive” there shall be substituted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1para>
+										<UnorderedList Decoration="none" Class="Definition">
+											<ListItem>
+												<Para>
+													<Text>“the motorcycle type approval Directive” means Directive 2002/24/EC of the European Parliament and of the Council of 18th March 2002 relating to the type approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC, as corrected by a Corrigendum of 22nd February 2003,</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P1para>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Road Traffic (Northern Ireland) Order 1981</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>In the Road Traffic (Northern Ireland) Order 1981<FootnoteRef Ref="f00008"/> in article 31A in paragraph 7—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in the definition of “EC certificate of conformity”, for paragraph (b) there shall be substituted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1para>
+										<UnorderedList Decoration="none" Class="Definition">
+											<ListItem>
+												<Para>
+													<OrderedList Start="2" Type="alpha" Decoration="parens">
+														<ListItem>
+															<Para>
+																<Text>in the case of a vehicle to which the motorcycle type approval Directive applies, any certificate of conformity—</Text>
+																<OrderedList Type="roman" Decoration="parens">
+																	<ListItem>
+																		<Para>
+																			<Text>issued by a manufacturer under regulation 8(1) of the Motor Cycles Etc. (EC Type Approval) Regulations 1999, whether before, on or after 9th November 2003, or</Text>
+																		</Para>
+																	</ListItem>
+																	<ListItem>
+																		<Para>
+																			<Text>issued by a manufacturer under any provision of the law of an EEA State other than the United Kingdom giving effect to Article 7(1) of the motorcycle type approval directive or to Article 7(1) of Council Directive 92/61/EEC of 30th June 1992 relating to the type approval of two or three-wheeled motor vehicles,</Text>
+																		</Para>
+																	</ListItem>
+																</OrderedList>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P1para>
+								</BlockAmendment>
+								<AppendText> and</AppendText>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>for the definition of “the motorcycle type approval Directive” there shall be substituted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1para>
+										<UnorderedList Decoration="none" Class="Definition">
+											<ListItem>
+												<Para>
+													<Text>“the motorcycle type approval Directive” means Directive 2002/24/EC of the European Parliament and of the Council of 18th March 2002 relating to the type approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC, as corrected by a Corrigendum of 22nd February 2003;</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P1para>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Secretary of State for Transport</Text>
+					</Para>
+					<Signee>
+						<PersonName>David Jamieson</PersonName>
+						<JobTitle>Parliamentary Under Secretary of State</JobTitle>
+						<Department>Department for Transport</Department>
+						<DateSigned Date="2003-04-14">
+							<DateText>14th April 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+
+<!-- User guide example: UG00902. Taken from the section 'Provisions and paragraphs' -->
+		
+		<Schedules>
+			<Schedule>
+				<Number>SCHEDULE</Number>
+				<Reference>Regulation 2(g)</Reference>
+				<ScheduleBody>
+					<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="schedule" Format="default">
+						<Schedule>
+							<Number>SCHEDULE 1A</Number>
+							<TitleBlock>
+								<Title>MEANING OF END OF SERIES VEHICLE</Title>
+							</TitleBlock>
+							<Reference>Regulation 18A(7)</Reference>
+							<ScheduleBody>
+								<P1>
+									<Pnumber>1</Pnumber>
+									<P1para>
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>A vehicle is an end of series vehicle for an EC type approval to which regulation 18A applies if—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>an EC certificate of conformity has been issued in respect of the vehicle under the EC type approval (whether before or after the giving of the direction by the Secretary of State);</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>the vehicle was in the territory of an EEA State at a time when the EC type approval had effect;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>c</Pnumber>
+													<P3para>
+														<Text>it was manufactured with the intention that it should be supplied by retail for use in the United Kingdom;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>d</Pnumber>
+													<P3para>
+														<Text>it was not registered under the 1994 Act on the date on which the relevant EC type approval ceased to have effect; and</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>e</Pnumber>
+													<P3para>
+														<Text>it is a vehicle forming part of the allocation of vehicles to a relevant person under sub-paragraphs (2) and (3) of this paragraph.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>2</Pnumber>
+											<P2para>
+												<Text>The Secretary of State shall make an allocation in accordance with sub-paragraph (3) to each relevant person who makes a request to him under regulation 18A(2) not later than one month before the relevant EC type approval ceases to have effect.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>3</Pnumber>
+											<P2para>
+												<Text>The Secretary of State shall allocate to each relevant person in respect of each vehicle model manufactured in conformity with the relevant EC type approval—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the number of vehicles of that model in respect of which the request is made, or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>the number of vehicles of that model for which an EC certificate of conformity was issued on or after the date of manufacture and which remained valid for at least 3 months after its date of issue but subsequently lost its validity because of the provisions of the Framework Directive or a separate Directive,</Text>
+													</P3para>
+												</P3>
+												<Text>whichever is the less.</Text>
+											</P2para>
+										</P2>
+									</P1para>
+								</P1>
+								<P1>
+									<Pnumber>2</Pnumber>
+									<P1para>
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>In this Schedule—</Text>
+												<UnorderedList Decoration="none" Class="Definition">
+													<ListItem>
+														<Para>
+															<Text>“date of manufacture” means, in relation to a vehicle, the date on which its final assembly is completed;</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>“relevant person” means a person who has made a request to the Secretary of State under regulation 18A(2);</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>“the relevant EC type approval” means the EC type approval in respect of which the request has been made to the Secretary of State under regulation 18A(2).</Text>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+											</P2para>
+										</P2>
+									</P1para>
+								</P1>
+							</ScheduleBody>
+						</Schedule>
+					</BlockAmendment>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">These Regulations amend provisions of the Motor Cycles Etc. (EC Type Approval) Regulations 1999 (“the principal Regulations”) in implementation of Directive 2002/24/EC which replaces Directive 92/61/EC (OJ No. L225, 10.8.92, p.72) as the framework directive for European Community type approval of motor cycles, other vehicles and their components (<Emphasis>regulation 2, save for paragraph (f)</Emphasis>) and make amendments to the Road Traffic Act 1988 and the Road Traffic (Northern Ireland) Order 1981 (<Emphasis>regulations 3 and 4</Emphasis>).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">The Regulations also amend Schedule 1 to the principal Regulations to correct an error and to include Commission Directive 2002/41/EC and Directive 2002/51/EC of the European Parliament and Council as separate directives amending, respectively, Directive 95/1/EC on the maximum design speed, maximum torque and maximum net engine power of two or three wheeled motor vehicles (OJ No. L52, 8.3.95, p.1) and Directive 97/24/EC of the European Parliament and Council on certain components and characteristics of two or three-wheel motor vehicles (OJ No. L226, 18.8.97, p.1) (<Emphasis>regulation 2(f)</Emphasis>).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">A Transposition Note has been prepared setting out how these Regulations will transpose into UK law the provisions of Directive 2002/24/EC in so far as the obligations therein will not be given effect by the principal Regulations.</Text>
+			</P>
+			
+<!-- User guide example: UG00903. Taken from the section 'Linking and citations' -->
+			
+			<P>
+				<Text Hanging="indented">Copies of the Directives referred to in the Regulations may be obtained from the Stationery Office. Copies of the Transposition Note are available from the Vehicle Certification Agency, 1 The Eastgate Office Centre, Eastgate Road, Bristol, BS5 6XX (Telephone number: 0117 9524106; fax number: 0117 9524104). Access to copies of the Note can also be obtained by visiting the Vehicle Certification Agency’s website at <ExternalLink URI="http://www.vca.gov.uk" Title="Vehicle Certification Agency website">www.vca.gov.uk</ExternalLink>.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="1972" Number="1811">S.I. 1972/1811</Citation>, to which there are amendments not relevant to these Regulations.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c. 68</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="2920">S.I. 1999/2920</Citation>, amended by <Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="0368">S.I. 2001/368</Citation> and <Citation id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1547">2001/1547</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L124, 9.5.2002, p.1.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L49, 22.2.2003, p.23.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L225, 10.8.92, p.72.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0052">1988 c. 52</Citation>; the definition “EC certificate of conformity” was amended by <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="2920">S.I. 1999/2920</Citation> and the definition “the motorcycle type approval Directive” was inserted by <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="3107">S.I. 1992/3107</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1981" Number="0154">S.I. 1981/154</Citation> (N.I.1); Article 31A was inserted by <Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="1985" Number="0755">S.I. 1985/755 (N.I.6)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

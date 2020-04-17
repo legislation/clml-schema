@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Nationality, Immigration and Asylum Act 2002 (Commencement No. 2) Order 2003</dc:title>
+		<dc:subject>Immigration</dc:subject>
+		<dc:identifier>urn:isbn:0110445902</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1"/>
+			<ukm:AlternativeNumber Category="C" Value="1"/>
+			<ukm:Made Date="2003-01-04"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1 (C. 1)</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Immigration</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Nationality, Immigration and Asylum Act 2002 (Commencement No. 2) Order 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>4th January 2003</DateText>
+			</MadeDate>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>In exercise of the powers conferred upon him by section 162(1) and (6) of the Nationality, Immigration and Asylum Act 2002<FootnoteRef Ref="f00001"/>, the Secretary of State hereby makes the following Order:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation and interpretation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Commencement No. 2) Order 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In this Order:</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“the 1971 Act” means the Immigration Act 1971<FootnoteRef Ref="f00002"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 1999 Act” means the Immigration and Asylum Act 1999<FootnoteRef Ref="f00003"/>; and</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 2002 Act” means the Nationality, Immigration and Asylum Act 2002.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Commencement</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>The provisions of the 2002 Act specified in column 1 of the Schedule to this Order shall come into force on the date specified in column 2 of that Schedule, but where a particular purpose is specified in relation to any such provision in column 3 of that Schedule, the provision concerned shall come into force on that date only for that purpose.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Beverley Hughes</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Address>
+							<AddressLine>Home Office</AddressLine>
+						</Address>
+						<DateSigned Date="2003-01-04">
+							<DateText>4th January 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule>
+				<Number>Schedule</Number>
+				<Reference>Article 2</Reference>
+				<ScheduleBody>
+					<Tabular Orientation="portrait">
+						<table cols="3" fo:border-left-style="solid" fo:border-bottom-style="solid" fo:border-right-style="solid" fo:border-top-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+							<col width="50%"/>
+							<col width="25%"/>
+							<col width="25%"/>
+							<thead fo:border-bottom-style="solid" fo:border-top-style="solid">
+								<tr>
+									<th align="left" fo:border-right-style="solid">Column 1</th>
+									<th align="left" fo:border-right-style="solid">Column 2</th>
+									<th align="left">Column 3</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 18 (asylum-seeker: definition)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+									<td fo:border-bottom-style="solid">For the purpose of sections 55(9) and 70(3) and paragraph 17(1)(b) of Schedule 3<ukl:FootnoteRef Ref="f00004"/>
+									</td>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 18 (asylum-seeker: definition)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid">For the purpose of section 26A(2) of the 1971 Act and section 71(5) of the 2002 Act<ukl:FootnoteRef Ref="f00005"/>
+									</td>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 60 (Northern Ireland authority)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 62 (detention by Secretary of State)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 63 (control of entry to United Kingdom, &amp;c.: use of force)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 64 (escorts)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 65 (detention centres: custodial functions)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 66 (detention centres: change of name)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 68(6) (bail)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 71 (asylum-seeker: residence, &amp;c. restriction)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 72(1) to (8) and (11) (serious criminal)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 73 (family)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 74 (deception)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 75 (exemption from deportation)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 76 (revocation of leave to enter or remain)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 114(3) and paragraphs 31 to 33 of Schedule 7 (Proceeds of Crime Act <ukl:Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0029">2002 (c. 29)</ukl:Citation>)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 121 (compliance with procedure)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 122 (fee for work permit, &amp;c.)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 128 (data collection under Immigration and Asylum Act 1999)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 131 (police, &amp;c.)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 132 (supply of document, &amp;c. to Secretary of State)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 133 (medical inspectors)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 143 (assisting unlawful immigration, &amp;c.)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 144 (section 143: consequential amendments)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 145 (traffic in prostitution)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 146 (section 145: supplementary)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 148 (registration card)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 149 (immigration stamp)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 150 (sections 148 and 149: consequential amendments)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 151 (false information)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 156 (time limit on prosecution)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 158 (interpretation: “the Immigration Acts”)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 159 (applied provision)</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+								<tr>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 161 and Schedule 9 (repeals), the entries relating to sections 7(1)(a), 24A(4), 25A(7), 26(3), 28(1) and 28A of the 1971 Act, and sections 10(1)(c), 44 to 52, 53(5), 55 and 147 of the 1999 Act</td>
+									<td fo:border-bottom-style="solid" fo:border-right-style="solid">10th February 2003</td>
+									<td fo:border-bottom-style="solid"/>
+								</tr>
+							</tbody>
+						</table>
+					</Tabular>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">This Order brings section 18 of the Nationality, Immigration and Asylum Act 2002 into force for certain purposes on 8th January 2003 and on 10th February 2003, and brings certain other provisions of that Act which are set out in the Schedule to the Order into force on 10th February 2003.</Text>
+			</P>
+		</ExplanatoryNotes>
+		
+<!-- User guide example: UG02601. Taken from the section 'Structures specific to secondary legislation' -->
+		
+		<EarlierOrders>
+			<Title>Note as to Earlier Commencement Orders</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">The following provisions of the Nationality, Immigration and Asylum Act 2002 have been brought into force on the dates shown by commencement orders before the date of this Order.</Text>
+				<Tabular Orientation="portrait">
+					<table cols="3" fo:border-left-style="solid" fo:border-bottom-style="solid" fo:border-right-style="solid" fo:border-top-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+						<col width="50%"/>
+						<col width="25%"/>
+						<col width="25%"/>
+						<thead fo:border-bottom-style="solid" fo:border-top-style="solid">
+							<tr>
+								<th fo:border-right-style="solid">Provision</th>
+								<th fo:border-right-style="solid">Date of Commencement</th>
+								<th>S.I. No. </th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 54 and paragraphs 2, 8, 9, 10, 11, 12, 15 and 16 of Schedule 3 (withholding and withdrawal of support) (for the purpose of enabling the Secretary of State to exercise the power to make subordinate legislation)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 54 and Schedule 3 (withholding and withdrawal of support) (so far as not already in force)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 55 (late claim for asylum: refusal of support)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 57 (application for support: false or incomplete information)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 80 (removal of asylum-seeker to third country)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 119 (deemed leave on cancellation of notice)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 125 and paragraphs 1, 2, 7, 11 and 13 of Schedule 8 (carriers' liability) (for the purpose of enabling the Secretary of State to exercise the power to make subordinate legislation under section 32 (2A), 35 (5), (7), (9), (12) and (13), 37 (5B) and (7) and 40A (4) and (6) of the 1999 Act)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">14th November 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 125 and paragraph 3 of Schedule 8 (carriers' liability) (for the purpose of enabling the Secretary of State to exercise the power under section 32A (1), (3) and (4) of the 1999 Act to lay a draft code of practice before Parliament and bring the code of practice into force)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">14th November 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 125 and paragraphs 1 to 12 and 16 and 17 of Schedule 8 (carriers' liability) (for the purposes of clandestine entrants (within the meaning of section 32 (1) of the 1999 Act) who arrive in the United Kingdom concealed in a vehicle or a rail freight wagon)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 125 and paragraphs 13 to 15 of Schedule 8 (carriers' liability)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 140 (Immigration Services Commissioner)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 141 (EEA ports: juxtaposed controls)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Sections 152 (arrest by immigration officer), 153 (power of entry), 154 (power to search for evidence) and 155 (sections 153 and 154:supplemental)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 157 (consequential and incidental provision)</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th January 2003</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+							<tr>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">Section 161 and Schedule 9 (repeals), the entries relating to sections 33 (2) (b), 34 (3) (c) and (5), 36 (1), 37 (3) (c), 39, 42 and 43 of the Immigration and Asylum Act 1999</td>
+								<td fo:border-bottom-style="solid" fo:border-right-style="solid">8th December 2002</td>
+								<td fo:border-bottom-style="solid">2002/2811</td>
+							</tr>
+						</tbody>
+					</table>
+				</Tabular>
+			</P>
+		</EarlierOrders>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0041">2002 c. 41</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1971" Number="0077">1971 c. 77</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0033">1999 c. 33</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>Section 55 of the <Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0041">Nationality, Immigration and Asylum Act 2002 (c. 41)</Citation> (late claims for asylum: refusal of support) is commenced on 8th January 2003 by the <Citation id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2811">Nationality, Immigration and Asylum Act 2002 (Commencement No. 1) Order 2002 (S.I. 2002/2811)</Citation>. That Order commenced certain paragraphs of Schedule 3 to that Act (withholding and withdrawal of support) on 8th December 2002 for the purpose of enabling the Secretary of State to exercise the power to make subordinate legislation, and commences Schedule 3, so far as not already in force, on 8th January 2003. Pursuant to section 162 of that Act, section 70 (induction) came into force on Royal Assent, on 7th November 2002.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>Section 26A of the <Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1971" Number="0077">Immigration Act 1971 (c. 77)</Citation> (registration card) is inserted by section 148 of the Nationality, Immigration and Asylum Act 2002, which is commenced by this Order.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

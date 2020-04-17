@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Ministerial and other Salaries Order 1988</dc:title>
+		<dc:subject>Parliament</dc:subject>
+		<dc:identifier>urn:isbn:0110882539</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:date>2003-07-24</dc:date>
+		<dc:coverage>UK</dc:coverage>
+		<dc:rights>Crown copyright 2003</dc:rights>
+		<dc:format>text/xml</dc:format>
+		<dc:type>text</dc:type>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1988"/>
+			<ukm:Number Value="2253"/>
+			<ukm:Made Date="1988-12-21"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1989-01-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:RoyalPresence Date="1988-12-21"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>1988 No. 2253</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Parliament</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Ministerial and other Salaries Order 1988</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>21st December 1988</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st January 1989</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<RoyalPresence>
+					<Para>
+						<Text>At the Court at Buckingham Palace, the 21st day of December 1988</Text>
+						<Text>Present,</Text>
+						<Text>The Queen’s Most Excellent Majesty in Council</Text>
+					</Para>
+				</RoyalPresence>
+				<EnactingText>
+					<Para>
+						<Text>Whereas a draft of this Order has been approved by resolution of each House of Parliament:</Text>
+					</Para>
+					<Para>
+						<Text>Now, therefore, Her Majesty, in pursuance of section 1(4) of the Ministerial and other Salaries Act 1975<FootnoteRef Ref="f00001"/>, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and revocation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Ministerial and other Salaries Order 1988.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This Order shall come into force on 1st January 1989.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The Ministerial and other Salaries Order 1987<FootnoteRef Ref="f00002"/> is hereby revoked.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Increase of Ministerial salaries</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>For the annual amount, or the maximum or minimum annual amount, of salary specified in Parts I, II, III, and IV of Schedule 1 to the Ministerial and other Salaries Act 1975 (“the 1975 Act”) in relation to each of the offices specified in the first column of Schedule 1 to this Order there shall be substituted the amount, or the maximum or minimum amount, of salary specified in relation to that office in the second column of that Schedule.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Increase of salaries of Opposition Leaders and Whips</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>For the annual amount of salary specified in Part I of Schedule 2 to the 1975 Act in relation to each of the positions specified in the first column of Schedule 2 to this Order there shall be substituted the amount specified in relation to that position in the second column of that Schedule.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Increase of the Speaker’s salary</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>For the annual amount specified in section 1(3) of the 1975 Act as the salary of the Speaker of the House of Commons there shall be substituted £36,209.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>G. I. de Deney</PersonName>
+						<JobTitle>Clerk of the Privy Council</JobTitle>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule>
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>MINISTERIAL SALARIES</Title>
+				</TitleBlock>
+				<Reference>Article 2</Reference>
+				<ScheduleBody>
+					<Part>
+						<Number>PART I</Number>
+						<Tabular Orientation="portrait">
+							<table cols="2" fo:border-top-style="solid" fo:border-bottom-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+								<col width="85%"/>
+								<col width="15%"/>
+								<thead fo:border-bottom-style="solid">
+									<tr>
+										<th rowspan="1" colspan="1">Office</th>
+										<th rowspan="1" colspan="1">Salary £</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td rowspan="1" colspan="1">Prime Minister and First Lord of the Treasury<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">46,109</td>
+									</tr>
+									
+<!-- User guide example: UG01601. Taken from the section 'Tables' -->
+									
+									<tr>
+										<td rowspan="1" colspan="1">
+											<DecoratedGroup Decoration="}" Orientation="leftToRight" xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<GroupItem>
+													<Para>
+														<Text Hanging="hanging">Chancellor of the Exchequer<Character Name="DotPadding"/>
+														</Text>
+														<Text Hanging="hanging">Secretary of State<Character Name="DotPadding"/>
+														</Text>
+														<Text Hanging="hanging">Minister of Agriculture, Fisheries and Food<Character Name="DotPadding"/>
+														</Text>
+														<Text Hanging="hanging">Any of the following offices for so long as the holder is a member of the Cabinet—<Character Name="DotPadding"/>
+														</Text>
+													</Para>
+												</GroupItem>
+												<GroupItemRef Ref="t01000"/>
+											</DecoratedGroup>
+										</td>
+										<td id="t01000" valign="middle">41,997</td>
+									</tr>
+									<tr>
+										<td>
+											<OrderedList Decoration="parens" Type="alpha" xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<ListItem>
+													<Para>
+														<Text>Lord President of the Council;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Lord Privy Seal;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Chancellor of the Duchy of Lancaster;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Paymaster General;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Chief Secretary to the Treasury;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Parliamentary Secretary to the Treasury;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Minister of State.</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</Tabular>
+					</Part>
+					<Part>
+						<Number>PART II</Number>
+						<Tabular Orientation="portrait">
+							<table cols="2" fo:border-top-style="solid" fo:border-bottom-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+								<col width="85%"/>
+								<col width="15%"/>
+								<thead fo:border-bottom-style="solid">
+									<tr>
+										<th rowspan="1" colspan="1">Office</th>
+										<th rowspan="1" colspan="1">Salary £</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<DecoratedGroup Decoration="}" Orientation="leftToRight" xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<GroupItem>
+													<P1>
+														<Pnumber>1</Pnumber>
+														<P1para>
+															<Text>Any of the offices listed at (a) to (g) in Part I above for so long as the holder is not a member of the Cabinet<Character Name="DotPadding"/>
+															</Text>
+														</P1para>
+													</P1>
+													<P1>
+														<Pnumber>2</Pnumber>
+														<P1para>
+															<Text>Minister in charge of a public department of Her Majesty’s Government in the United Kingdom who is not a member of the Cabinet, and whose office is not specified elsewhere in this Schedule<Character Name="DotPadding"/>
+															</Text>
+														</P1para>
+													</P1>
+													<P1>
+														<Pnumber>3</Pnumber>
+														<P1para>
+															<Text>Financial Secretary to the Treasury<Character Name="DotPadding"/>
+															</Text>
+														</P1para>
+													</P1>
+												</GroupItem>
+												<GroupItemRef Ref="t01001"/>
+											</DecoratedGroup>
+										</td>
+										<td id="t01001" rowspan="1" colspan="1" align="right" valign="middle">24,209—37,047</td>
+									</tr>
+								</tbody>
+							</table>
+						</Tabular>
+					</Part>
+					<Part>
+						<Number>PART III</Number>
+						<Tabular Orientation="portrait">
+							<table width="100%" cols="2" fo:border-top-style="solid" fo:border-bottom-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+								<col width="85%"/>
+								<col width="15%" align="left"/>								
+								<thead fo:border-bottom-style="solid">
+									<tr>
+										<th rowspan="1" colspan="1">Office</th>
+										<th rowspan="1" colspan="1">Salary £</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td rowspan="1" colspan="1">Attorney General<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">36,679</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">Lord Advocate<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">42,067</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">Solicitor General<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">29,959</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">Solicitor General for Scotland<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">36,515</td>
+									</tr>
+								</tbody>
+							</table>
+						</Tabular>
+					</Part>
+					<Part>
+						<Number>PART IV</Number>
+						<Tabular Orientation="portrait">
+							<table width="100%" cols="2" fo:border-top-style="solid" fo:border-bottom-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+								<col width="85%"/>
+								<col width="15%"/>															
+								<thead fo:border-bottom-style="solid">
+									<tr>
+										<th rowspan="1" colspan="1">Office</th>
+										<th rowspan="1" colspan="1">Salary £</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<Text Hanging="hanging">Captain of the Honourable Corps of Gentlemen-at-Arms<ukl:Character Name="DotPadding"/></Text>
+											</Para>
+										</td>
+										<td rowspan="1" colspan="1">37,047</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<Text Hanging="hanging">Treasurer of Her Majesty’s Household<ukl:Character Name="DotPadding"/></Text>
+											</Para>
+										</td>
+										<td rowspan="1" colspan="1">24,209</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<Text Hanging="hanging">Parliamentary Secretary other than Parliamentary Secretary to the Treasury<ukl:Character Name="DotPadding"/></Text>
+											</Para>
+										</td>
+										<td rowspan="1" colspan="1">30,647</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<Text Hanging="hanging">Captain of the Queen’s Bodyguard of the Yeomen of the Guard<ukl:Character Name="DotPadding"/></Text>
+											</Para>
+										</td>
+										<td rowspan="1" colspan="1">30,647</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">Lord in Waiting<ukl:Character Name="DotPadding"/>
+										</td>
+										<td rowspan="1" colspan="1">27,377</td>
+									</tr>
+									<tr>
+										<td rowspan="1" colspan="1">
+											<DecoratedGroup Decoration="}" Orientation="leftToRight" xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+												<GroupItem>
+													<Para>
+														<Text Hanging="hanging">Comptroller of Her Majesty’s Household<Character Name="DotPadding"/></Text>
+														<Text Hanging="hanging">Vice-Chamberlain of Her Majesty’s Household<Character Name="DotPadding"/></Text>
+														<Text Hanging="hanging">Junior Lord of the Treasury<Character Name="DotPadding"/></Text>
+														<Text Hanging="hanging">Assistant Whip, House of Commons<Character Name="DotPadding"/></Text>
+													</Para>
+												</GroupItem>
+												<GroupItemRef Ref="t01000"/>
+											</DecoratedGroup>										
+										</td>
+										<td valign="middle" rowspan="1" colspan="1">15,349</td>										
+									</tr>
+								</tbody>
+							</table>
+						</Tabular>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule>
+				<Number>SCHEDULE 2</Number>
+				<TitleBlock>
+					<Title>OPPOSITION LEADERS AND WHIPS</Title>
+				</TitleBlock>
+				<Reference>Article 3</Reference>
+				<ScheduleBody>
+					<Tabular Orientation="portrait">
+						<table width="100%" cols="2" fo:border-top-style="solid" fo:border-bottom-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+							<col width="12pt"/>
+							<col/>
+							<col width="15%"/>												
+							<thead fo:border-bottom-style="solid">
+								<tr>
+									<th rowspan="1" colspan="2">Position</th>
+									<th rowspan="1" colspan="1">Salary £</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td rowspan="1" colspan="2">In the House of Commons—</td>
+								</tr>
+								<tr>
+									<td/>
+									<td rowspan="1" colspan="1">Leader of the Opposition<ukl:Character Name="DotPadding"/>
+									</td>
+									<td rowspan="1" colspan="1">31,559</td>
+								</tr>
+								<tr>
+									<td/>
+									<td rowspan="1" colspan="1">Chief Opposition Whip<ukl:Character Name="DotPadding"/>
+									</td>
+									<td rowspan="1" colspan="1">24,209</td>
+								</tr>
+								<tr>
+									<td/>
+									<td rowspan="1" colspan="1">Assistant Opposition Whip<ukl:Character Name="DotPadding"/>
+									</td>
+									<td rowspan="1" colspan="1">15,349</td>
+								</tr>
+								<tr><td/></tr>
+								<tr>
+									<td rowspan="1" colspan="2">In the House of Lords—</td>
+								</tr>
+								<tr>
+									<td/>
+									<td rowspan="1" colspan="1">Leader of the Opposition<ukl:Character Name="DotPadding"/>
+									</td>
+									<td rowspan="1" colspan="1">30,647</td>
+								</tr>
+								<tr>
+									<td/>
+									<td rowspan="1" colspan="1">Chief Opposition Whip<ukl:Character Name="DotPadding"/>
+									</td>
+									<td rowspan="1" colspan="1">27,377</td>
+								</tr>
+							</tbody>
+						</table>
+					</Tabular>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>This Order increases salaries payable under the Ministerial and other Salaries Act 1975 to Ministers, to salaried Members of the Opposition, to the Speaker of the House of Commons and to other paid office holders. The amounts specified in this Order are the maximum salaries payable. The actual salaries in payment may therefore be below these levels.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1975" Number="0027">1975 c. 27</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="1836">1987/1836</Citation>
+					</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

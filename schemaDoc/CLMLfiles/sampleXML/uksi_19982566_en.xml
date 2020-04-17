@@ -1,0 +1,334 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/1998/2566"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/1998/2566/enacted</dc:identifier><dc:subject>Income tax</dc:subject><dc:subject>Corporation tax</dc:subject><dc:title>The Double Taxation Relief (Air Transport) (Hong Kong) Order 1998</dc:title><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2011-07-04</dc:modified><dc:subject scheme="SIheading">INCOME TAX</dc:subject>
+					<dc:description>Under Article 14 of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Hong Kong Special Administrative Region of the People’s Republic of China concerning Air Services, which Article is scheduled to this Order, income or profits derived from the business of international air transport by an airline of the United Kingdom or the Hong Kong Special Administrative Region, which are subject to tax in the area of one of the Contracting Parties, shall be exempt from tax in the area of the other Contracting Party.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/1998/2566/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/1998/2566/enacted" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/1998/2566/introduction/enacted" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/1998/2566/signature/enacted" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/1998/2566/note/enacted" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/1998/2566/body/enacted" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/1998/2566/schedules/enacted" title="schedules"/>
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/1998/2566/enacted/data.html" title="HTML5 snippet"/>
+
+					
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/1998/2566/contents/enacted" title="Table of Contents"/>
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="1998"/><ukm:Number Value="2566"/><ukm:Made Date="1998-10-21"/><ukm:RoyalPresence Date="1998-10-21"/><ukm:ISBN Value="0110797337"/></ukm:SecondaryMetadata>
+					
+					
+									
+					
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/introduction/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/introduction">
+<Number>1998 No. 2566</Number>
+<SubjectInformation><Subject>
+<Title>INCOME TAX</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Double Taxation Relief (Air Transport) (Hong Kong) Order 1998</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>21st October 1998</DateText>
+</MadeDate>
+<SecondaryPreamble>
+<RoyalPresence>
+<Para>
+<Text>At the Court at Buckingham Palace, the 21st day of October 1998</Text>
+<Text>Present,</Text>
+<Text>The Queen’s Most Excellent Majesty in Council</Text>
+</Para>
+</RoyalPresence>
+<IntroductoryText>
+<P>
+<Text>Whereas a draft of this Order was laid before the House of Commons in accordance with the provisions of section 788(10) of the Income and Corporation Taxes Act 1988<FootnoteRef Ref="f00001"/>, and an Address has been presented to Her Majesty by that House praying that an Order may be made in the terms of that draft:</Text>
+</P>
+</IntroductoryText>
+<EnactingText>
+<Para>
+<Text>Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by section 788 of the said Act, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—</Text>
+</Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/body/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/body" NumberOfProvisions="2" NumberFormat="default">
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/article/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/article/1" id="article-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>This Order may be cited as the Double Taxation Relief (Air Transport) (Hong Kong) Order 1998.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/article/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/article/2" id="article-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>It is hereby declared—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/article/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/article/2/a" id="article-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>that the arrangements specified in the Article set out in the Schedule to this Order have been made with the Government of the Hong Kong Special Administrative Region of the People’s Republic of China with a view to affording relief from double taxation in relation to income tax and corporation tax and taxes of a similar character imposed by the laws of Hong Kong; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/article/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/article/2/b" id="article-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>that it is expedient that those arrangements should have effect.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/signature/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/signature">
+<Signatory>
+<Signee>
+<PersonName>N. H. Nicholls</PersonName>
+<JobTitle>Clerk of the Privy Council</JobTitle>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<Schedules>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule" NumberFormat="default" id="schedule">
+<Number><Strong>SCHEDULE</Strong></Number>
+<TitleBlock>
+<Title>RELIEF FROM DOUBLE TAXATION</Title>
+</TitleBlock>
+<Reference>ARTICLE 14<FootnoteRef Ref="f00002"/></Reference>
+<ScheduleBody>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/1" id="schedule-paragraph-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>The existing taxes to which this Article shall apply are in particular:</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/1/a" id="schedule-paragraph-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in the case of the Hong Kong Special Administrative Region, the profits tax (hereinafter referred to as “Hong Kong tax”);</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/1/b" id="schedule-paragraph-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in the case of the United Kingdom:</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/1/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/1/b/i" id="schedule-paragraph-1-b-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the income tax; and</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/1/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/1/b/ii" id="schedule-paragraph-1-b-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the corporation tax;</Text>
+</P4para>
+</P4>
+<Text>(hereinafter referred to as “United Kingdom tax”).</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/2" id="schedule-paragraph-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>This Article shall also apply to any identical or substantially similar taxes which are imposed by either Contracting Party after the signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities shall notify each other of any substantial changes which have been made in their respective taxation laws.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/3/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/3" id="schedule-paragraph-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>Income or profits derived from the operation of aircraft in international traffic by an airline of one Contracting Party, including any income or profits attributable to its participation in a pool, joint business or international operating agency, and proportionate to its share in the pool or joint operation, which are subject to tax in the area of that Contracting Party, shall be exempt from tax imposed in the area of the other Contracting Party.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4" id="schedule-paragraph-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>For the purpose of this Article:</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/a" id="schedule-paragraph-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>interest on funds directly connected with the operation of aircraft in international traffic shall be regarded as profits from the operation of such aircraft;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/b" id="schedule-paragraph-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the term “operation of aircraft” shall include:</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/b/i" id="schedule-paragraph-4-b-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the carriage by air of persons, baggage, livestock, goods, mail or merchandise;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/b/ii" id="schedule-paragraph-4-b-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>the sale of tickets or similar documentation connected with such carriage, either for the airline or for any other airline;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/b/iii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/b/iii" id="schedule-paragraph-4-b-iii">
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>the incidental rental or lease of aircraft on a charter basis;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/c/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/c" id="schedule-paragraph-4-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the term “international traffic” means any carriage by an aircraft except where such carriage is solely between places in the area of the other Contracting Party;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/d/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/d" id="schedule-paragraph-4-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>the term “airline of one Contracting Party” means, in the case of the Hong Kong Special Administrative Region, an airline incorporated and having its principal place of business in the Hong Kong Special Administrative Region and in the case of the United Kingdom, an airline which is resident in the United Kingdom for the purposes of United Kingdom tax: and an airline of one Contracting Party shall not be at the same time an airline of the other Contracting Party;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/e/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/e" id="schedule-paragraph-4-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>the term “Contracting Party” means the Hong Kong Special Administrative Region or the United Kingdom of Great Britain and Northern Ireland, as the context requires;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/f/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/f" id="schedule-paragraph-4-f">
+<Pnumber>f</Pnumber>
+<P3para>
+<Text>the term “competent authority” means, in the case of the Hong Kong Special Administrative Region, the Commissioner of Inland Revenue or his authorised representative, or any person or body authorised to perform any functions at present exercisable by the Commissioner or similar functions, and, in the case of the United Kingdom, the Commissioners of Inland Revenue or their authorised representative;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/g/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/g" id="schedule-paragraph-4-g">
+<Pnumber>g</Pnumber>
+<P3para>
+<Text>the term “area” in respect of the Hong Kong Special Administrative Region includes Hong Kong Island, Kowloon and the New Territories and in respect of the United Kingdom means Great Britain and Northern Ireland including any area outside the territorial sea of the United Kingdom which in accordance with international law has been or may hereafter be designated, under the laws of the United Kingdom concerning the Continental Shelf, as an area within which the rights of the United Kingdom with respect to the sea bed and sub-soil and their natural resources may be exercised;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/4/h/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/4/h" id="schedule-paragraph-4-h">
+<Pnumber>h</Pnumber>
+<P3para>
+<Text>the term “tax” means Hong Kong tax or United Kingdom tax as the context requires.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/5/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/5" id="schedule-paragraph-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>The competent authorities of the Contracting Parties shall, through consultation, endeavour to resolve by mutual agreement any disputes regarding the interpretation or application of this Article. Article 16 (Settlement of Disputes) shall not apply to any such dispute.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/6/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/6" id="schedule-paragraph-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>Notwithstanding Article 20 (Entry into Force) each Contracting Party shall notify to the other the completion of the procedures required by its law for the bringing into force of this Article and this Article shall thereupon have effect:</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/6/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/6/a" id="schedule-paragraph-6-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in the Hong Kong Special Administrative Region, for any year of assessment beginning on or after 1st April in the calendar year next following that in which this Agreement is signed;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/6/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/6/b" id="schedule-paragraph-6-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in the United Kingdom:</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/6/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/6/b/i" id="schedule-paragraph-6-b-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in respect of income tax, for any year of assessment beginning on or after 6th April in the calendar year next following that in which this Agreement is signed;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/6/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/6/b/ii" id="schedule-paragraph-6-b-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in respect of corporation tax, for any financial year beginning on or after 1st April in the calendar year next following that in which this Agreement is signed.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/7/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/7" id="schedule-paragraph-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>Either Contracting Party may terminate this Article without terminating the remainder of this Agreement by giving notice to the other Contracting Party at least six months before the end of any calendar year.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/8/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/8" id="schedule-paragraph-8">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>Where notice of termination of this Agreement is given under Article 18, or notice of termination of this Article is given under paragraph (7), then, notwithstanding anything in Article 18 to the contrary, this Article shall cease to have effect:</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/8/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/8/a" id="schedule-paragraph-8-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in the Hong Kong Special Administrative Region, for any year of assessment beginning on or after 1st April in the calendar year next following that in which notice is given;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/8/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/8/b" id="schedule-paragraph-8-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in the United Kingdom:</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/8/b/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/8/b/i" id="schedule-paragraph-8-b-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in respect of income tax, for any year of assessment beginning on or after 6th April in the calendar year next following that in which notice is given;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/8/b/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/8/b/ii" id="schedule-paragraph-8-b-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in respect of corporation tax, for any financial year beginning on or after 1st April in the calendar year next following that in which notice is given.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/schedule/paragraph/9/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/schedule/paragraph/9" id="schedule-paragraph-9">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>This Article shall not have effect so long as an Agreement for the avoidance of double taxation with respect to taxes on income or income and capital gains providing for similar exemptions has effect between the Contracting Parties.</Text>
+</P2para>
+</P2>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/1998/2566/note/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/1998/2566/note">
+<Comment>
+<Para>
+<Text>(This note is not part of the Order)</Text>
+</Para>
+</Comment>
+<P>
+<Text>Under Article 14 of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Hong Kong Special Administrative Region of the People’s Republic of China concerning Air Services, which Article is scheduled to this Order, income or profits derived from the business of international air transport by an airline of the United Kingdom or the Hong Kong Special Administrative Region, which are subject to tax in the area of one of the Contracting Parties, shall be exempt from tax in the area of the other Contracting Party.</Text>
+</P>
+<P>
+<Text>The Article will enter into force when each Contracting Party has notified the other of the completion of its legislative procedures required by law to bring it into force. The Article will then have effect in the United Kingdom from 1st April 1998 in respect of corporation tax and from 6th April 1998 in respect of income tax. The date of entry into force will in due course be published in the <Emphasis>London, Edinburgh,</Emphasis> and <Emphasis>Belfast Gazettes.</Emphasis></Text>
+</P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/1" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0001">1988 c. 1</Citation>; section 788 is extended by section 277 of the Taxation of Chargeable Gains Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1992/12" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0012">1992 (c. 12)</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para>
+<Text>Article 14 of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Hong Kong Special Administrative Region of the People’s Republic of China concerning Air Services signed at Hong Kong on 25th July 1997 (<Abbreviation Expansion="Command Paper">Cm</Abbreviation> 3996).</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

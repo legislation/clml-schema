@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" SchemaVersion="1.0">
+	<ukm:Metadata>
+			<dc:title>The Scotland Act 1998 (Agency Arrangements) (Specification) (No. 2) Order 1999</dc:title>
+			<dc:subject>Constitutional Law</dc:subject>
+			<dc:subject>Devolution, Scotland</dc:subject>
+			<dc:identifier>urn:isbn:0110592174</dc:identifier>
+			<ukm:SecondaryMetadata>
+				<ukm:DocumentClassification>
+					<ukm:DocumentCategory Value="secondary"/>
+					<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+					<ukm:DocumentStatus Value="final"/>
+					<ukm:DocumentMinorType Value="order"/>
+				</ukm:DocumentClassification>
+				<ukm:Year Value="1999"/>
+				<ukm:Number Value="3320"/>
+				<ukm:Made Date="1999-12-14"/>
+				<ukm:Laid Date="1999-12-22" Class="UnitedKingdomParliament"/>
+				<ukm:Laid Date="1999-12-22" Class="ScottishParliament"/>
+				<ukm:ComingIntoForce>
+					<ukm:DateTime Date="2000-02-01"/>
+				</ukm:ComingIntoForce>
+				<ukm:RoyalPresence Date="1999-12-14"/>
+			</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>1999 No. 3320</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Constitutional Law</Title>
+				</Subject>
+				<Subject>
+					<Title>Devolution, Scotland</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Scotland Act 1998 (Agency Arrangements) (Specification) (No. 2) Order 1999</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>14th December 1999</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>22nd December 1999</DateText>
+			</LaidDate>
+			<LaidDate>
+				<Text>Laid before the Scottish Parliament</Text>
+				<DateText>22nd December 1999</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st February 2000</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<RoyalPresence>
+					<Para>
+						<Text>At the Court at Buckingham Palace, the 14th day of December 1999</Text>
+						<Text>Present,</Text>
+						<Text>The Queen’s Most Excellent Majesty in Council</Text>
+					</Para>
+				</RoyalPresence>
+				<EnactingText>
+					<Para>
+						<Text>Her Majesty, in exercise of the powers conferred upon Her by sections 93(3) and 113 of the Scotland Act 1998<FootnoteRef Ref="f00001"/>, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council to order, and it is hereby ordered, as follows:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and interpretation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Scotland Act 1998 (Agency Arrangements) (Specification) (No. 2) Order 1999.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This Order shall come into force on 1st February 2000.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Specification of functions</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>The functions conferred on the Scottish Ministers by section 92(1) and (2) of the Finance Act 1965<FootnoteRef Ref="f00002"/> are hereby specified for the purposes of section 93(1) of the Scotland Act 1998.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>A.K. Galloway</PersonName>
+						<JobTitle>Clerk of the Privy Council</JobTitle>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">This Order specifies functions of the Scottish Ministers for the purposes of section 93(1) of the Scotland Act 1998. Section 93(1) allows, amongst other things, the Scottish Ministers to make arrangements for any of their specified functions to be exercised on their behalf by a Minister of the Crown.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">The functions of the Scottish Ministers which may be exercised by a Minister of the Crown by virtue of this Order are the functions specified in article 2 of the Order.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 c. 46</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1965" Number="0025">1965 c. 25</Citation>. The functions of the Minister of Transport were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

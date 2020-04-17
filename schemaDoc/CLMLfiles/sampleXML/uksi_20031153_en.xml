@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Education (Outturn Statements) (England) Regulations 2003</dc:title>
+		<dc:subject>Education, England</dc:subject>
+		<dc:identifier>urn:isbn:0110459814</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1153"/>
+			<ukm:Made Date="2003-04-24"/>
+			<ukm:Laid Date="2003-05-09" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2003-06-01"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1153</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Education, England</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Education (Outturn Statements) (England) Regulations 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>24th April 2003</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>9th May 2003</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st June 2003</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>In exercise of the powers conferred upon the Secretary of State by sections 52(2), (3) and (4) and 138(7) of the School Standards and Framework Act 1998<FootnoteRef Ref="f00001"/>, the Secretary of State for Education and Skills hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and application</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Education (Outturn Statements) (England) Regulations 2003 and shall come into force on 1st June 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>These Regulations shall apply only in relation to England and only in relation to the financial year beginning on 1st April 2002.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Interpretation</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In these Regulations—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“the 1996 Act” means the Education Act 1996<FootnoteRef Ref="f00002"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 1998 Act” means the School Standards and Framework Act 1998;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 2000 Act” means the Learning and Skills Act 2000<FootnoteRef Ref="f00003"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 2002 Act” means the Education Act 2002<FootnoteRef Ref="f00004"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 2002 Outturn Regulations” means the Education (Outturn Statements) (England) Regulations 2002<FootnoteRef Ref="f00005"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the 2002 Regulations” means the Financing of Maintained Schools (England) Regulations 2002<FootnoteRef Ref="f00006"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“Academy” means an independent school funded by the Secretary of State under section 482 of the 1996 Act;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“AEF” means aggregate external finance;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“allocation formula” means the LEA’s formula under regulation 10 of the 2002 Regulations used to determine schools' budget shares;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“budget statement” means the statement referred to in section 52(1) of the 1998 Act;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“CERA” means capital expenditure which an LEA expect to charge to a revenue account of the LEA as defined in section 41(2) of the Local Government and Housing Act 1989<FootnoteRef Ref="f00007"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“factor” means one of the factors or criteria taken into account in the allocation formula;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“FE” means further education;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“HE” means higher education;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“ICT” means information and communication technology;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“LEA” means a local education authority;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“maintained school” means a community, foundation or voluntary school or a community or foundation special school;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“outturn statement” means the statement referred to in section 52(2) of the 1998 Act;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“school” means a maintained school;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“SEN” means special educational needs;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“special educational needs” and “special educational provision” have the meanings given to those expressions by section 312 of the 1996 Act;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“SSG” means the grant known as School Standards Grant paid in accordance with section 88B of the Local Government Finance Act 1988, which in the case of primary, secondary and special schools is paid on condition that it is appropriated to the individual school’s budget;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“Standards Fund balance” means any balance from a Standard Fund grant paid under section 14 of the 2002 Act;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“statement” in relation to a pupil with special educational needs means a statement made under section 324 of the 1996 Act; and</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“youth service” means services provided pursuant to the exercise of the LEA’s functions under section 15B<FootnoteRef Ref="f00008"/> or 508 of the 1996 Act or section 114 of the 2000 Act.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In these Regulations, unless the context otherwise requires, references to primary or secondary schools do not include special schools.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Revocation and saving</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The 2002 Outturn Regulations are revoked.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Notwithstanding paragraph (1) above, the 2002 Outturn Regulations shall continue to apply in relation to the financial year beginning on 1st April 2001.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Prescribed form of, and information to be contained in, outturn statements</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>An outturn statement shall be prepared in two parts—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>Part 1 shall be in the form prescribed in Schedule 1 and shall contain information as to how the planned expenditure specified in the LEA’s budget statement for the LEA as a whole for the financial year beginning on 1st April 2002 was actually incurred, or treated by the LEA as having been incurred, both by the schools maintained by the LEA and by the LEA, including expenditure on Academies;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>Part 2 shall be in the form prescribed in Schedule 2 and shall contain information about the LEA’s planned expenditure, the expenditure actually incurred, or treated by the LEA as having been incurred, and other resources allocated by the LEA, for each school for the financial year beginning on 1st April 2002.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Prescribed manner and time of publication of outturn statements</Title>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>For the purposes of section 52(3)(b) of the 1998 Act, every outturn statement shall be published by—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>supplying a copy to the Secretary of State for Education and Skills; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>making a copy available for inspection at all reasonable times and free of charge at each education office of the LEA.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>An outturn statement shall be published before 10th October 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>An outturn statement shall be revised if the LEA discover any errors.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>A revised outturn statement shall be subject to regulations 4, 5(1) and 5(3).</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>David Miliband</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Department>Department for Education and Skills</Department>
+						<DateSigned Date="2003-04-24">
+							<DateText>24th April 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+		
+<!-- User guide example: UG01801. Taken from the section 'Images' -->
+		
+			<Schedule>
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>FORM OF PART 1 OF AN OUTTURN STATEMENT</Title>
+				</TitleBlock>
+				<Reference>Regulation 4(1)(a)</Reference>
+				<ScheduleBody>
+					<P>
+						<Text>Part 1 of an outturn statement shall be in the following form.</Text>
+					</P>
+					<Figure ImageLayout="vertical" Orientation="landscape">
+						<Image ResourceRef="r00000" Width="580pt" Height="auto"/>
+					</Figure>
+					<Figure ImageLayout="vertical" Orientation="landscape">
+						<Image ResourceRef="r00001" Width="scale-to-fit" Height="auto"/>
+					</Figure>
+					<Figure ImageLayout="vertical" Orientation="landscape">
+						<Image ResourceRef="r00002" Width="scale-to-fit" Height="auto"/>
+					</Figure>
+					<Figure ImageLayout="vertical" Orientation="landscape">
+						<Image ResourceRef="r00003" Width="scale-to-fit" Height="auto"/>
+					</Figure>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule>
+				<Number>SCHEDULE 2</Number>
+				<TitleBlock>
+					<Title>FORM OF PART 2 OF AN OUTTURN STATEMENT</Title>
+				</TitleBlock>
+				<Reference>Regulation 4(1)(b)</Reference>
+				<ScheduleBody>
+					<P>
+						<Text>Part 2 of an outturn statement shall be in the following form.</Text>
+					</P>
+					<Figure Orientation="landscape" ImageLayout="vertical">
+						<Image ResourceRef="r00004" Width="580pt" Height="auto"/>
+					</Figure>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations prescribe the form and contents of the outturn statement of a local education authority in England for the financial year beginning on 1st April 2002 under section 52(2) of the School Standards and Framework Act 1998. The statement gives details of expenditure by the local education authority, and of other resources allocated by them to schools which they maintain, during the financial year to which it relates.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0031">1998 c. 31</Citation>. By virtue of the <Citation id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0672">National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)</Citation> the powers conferred by these provisions are exercisable by the Secretary of State only in relation to England. For the meaning of “prescribed” and “regulations”<Emphasis>see</Emphasis> section 142(1). Paragraph (d) of subsection (2) of section 52 was inserted by the <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0032">Education Act 2002 (c. 32)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1996" Number="0056">1996 c. 56</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0021">2000 c. 21</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0032">2002 c. 32</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0536">2002/536</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0377">2002/377</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="1989" Number="0042">1989 c. 42</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>Section 15B was inserted by paragraph 55 of Schedule 9 to the 2000 Act.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	<Resources>
+		<Resource id="r00000">
+			<ExternalVersion URI="uksi_20031153_en_001.TIF" Format="tiff"/>
+		</Resource>
+		<Resource id="r00001">
+			<ExternalVersion URI="uksi_20031153_en_002.TIF" Format="tiff"/>
+		</Resource>
+		<Resource id="r00002">
+			<ExternalVersion URI="uksi_20031153_en_003.TIF" Format="tiff"/>
+		</Resource>
+		<Resource id="r00003">
+			<ExternalVersion URI="uksi_20031153_en_004.TIF" Format="tiff"/>
+		</Resource>
+		<Resource id="r00004">
+			<ExternalVersion URI="uksi_20031153_en_005.TIF" Format="tiff"/>
+		</Resource>
+	</Resources>
+</Legislation>

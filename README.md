@@ -10,7 +10,7 @@ Features and Fixes (TBC):
 
 * New schema version numbering scheme introduced (see below)
 
-* New schema release documentation (this file)
+* New schema release documentation (this file and generated documentation)
 
 * New and updated schema documentation in all files (as text or html elements within xsd:documentation)
 
@@ -30,7 +30,16 @@ Features and Fixes (TBC):
 
 * Issue 172129366 - Added CommonSubAttributes to Division
 
-* TBD
+## Schema Documentation
+
+A package of schema documentation will be delivered with every release.
+
+The documentation will be delivered as a hyperlinked HTML application comprising an integrated reference guide and user guide.
+This will be delivered online but a zipped version will be stored in the schemaDoc folder until this is available.
+
+The source files for the documentation are the schema files themselves plus the XML, XHTML and images in the schemaDoc/CLMLFiles folder.
+
+
 
 ## Top-level schemas
 

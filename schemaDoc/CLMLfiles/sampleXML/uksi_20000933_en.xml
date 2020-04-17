@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Public Lending Right Scheme 1982 (Commencement of Variations) Order 2000</dc:title>
+		<dc:subject>Libraries</dc:subject>
+		<dc:identifier>urn:isbn:0110990498</dc:identifier>
+		<dc:rights>Crown Copyright 2000</dc:rights>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2000"/>
+			<ukm:Number Value="933"/>
+			<ukm:Made Date="2000-03-30"/>
+			<ukm:Laid Date="2000-04-03" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2000-07-01"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2000 No. 933</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Libraries</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Public Lending Right Scheme 1982 (Commencement of Variations) Order 2000</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>30th March 2000</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>3rd April 2000</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st July 2000</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>Whereas the Public Lending Right Scheme 1982<FootnoteRef Ref="f00001"/> (“the Scheme”) was brought into force on 14th June 1982;</Text>
+					</P>
+					<P>
+						<Text Hanging="indented">Whereas the Scheme has been varied<FootnoteRef Ref="f00002"/>;</Text>
+					</P>
+					<P>
+						<Text Hanging="indented">And whereas the Secretary of State, after consultation with the representatives of authors and library authorities and of others who appear likely to be affected, has further varied the Scheme;</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text Hanging="indented">Now, therefore, the Secretary of State, in exercise of the powers conferred by section 3(7) of the Public Lending Right Act 1979<FootnoteRef Ref="f00003"/> and now vested in him<FootnoteRef Ref="f00004"/>, hereby makes the following Order:–</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1>
+				<Pnumber>1</Pnumber>
+				<P1para>
+					<Text>This Order may be cited as the Public Lending Right Scheme 1982 (Commencement of Variations) Order 2000.</Text>
+				</P1para>
+			</P1>
+			<P1>
+				<Pnumber>2</Pnumber>
+				<P1para>
+					<Text>The variation in the Public Lending Right Scheme 1982 which was made on 30th March 2000 by the Secretary of State and is set out in the Appendix to this Order shall come into force on 1st July 2000.</Text>
+				</P1para>
+			</P1>
+
+<!-- User guide example: UG02302. Taken from the section 'Signatures' -->
+			
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Chris Smith</PersonName>
+						<JobTitle>Secretary of State for Culture, Media and Sport</JobTitle>
+						<DateSigned Date="2000-03-30">
+							<DateText>30th March 2000</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+
+<!-- User guide example: UG02303. Taken from the section 'Appendices' -->			
+			
+			<Appendix>
+				<Number>APPENDIX</Number>
+				<TitleBlock>
+					<Title>Variation in the Public Lending Right Scheme 1982 Made by the Secretary of State on 30th March 2000</Title>
+				</TitleBlock>
+				<AppendixBody>
+					<P1>
+						<Pnumber>1</Pnumber>
+						<P1para>
+							<Text>Schedule 5 of the Scheme shall be varied by substituting for “Federal Republic of Germany” the following:</Text>
+							<BlockAmendment TargetClass="secondary" TargetSubClass="scheme" Context="schedule" Format="default">
+								<UnorderedList Decoration="none">
+									<ListItem>
+										<Para>
+											<Text>Austria</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Belgium</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Denmark</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Finland</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>France</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Germany</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Greece</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Iceland</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Ireland</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Italy</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Liechtenstein</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Luxembourg</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Netherlands</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Norway</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Portugal</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Spain</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>Sweden</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</BlockAmendment>
+						</P1para>
+					</P1>
+				</AppendixBody>
+			</Appendix>
+		</Body>
+
+<!-- User guide example: UG02301. Taken from the section 'Explanatory notes' -->	
+		
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>This Order brings into force a variation to the Public Lending Right Scheme 1982 made by the Secretary of State on 30th March 2000.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">The variation is set out in the Appendix. The effect of the variation is to include within the Scheme as eligible persons under Article 5 of the Scheme those authors who are resident in any country of the European Economic Area.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>The Scheme is set out in the Appendix to S.I. <Citation id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="1982" Number="0719">1982/719</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>The Scheme as varied is set out in Appendix 2 to S.I. <Citation id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="2360">1990/2360</Citation> subject to further variations brought into force by S.I. <Citation id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="2618">1991/2618</Citation>, <Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="3049">1992/3049</Citation>, <Citation id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="0799">1993/799</Citation>, <Citation id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1338">1996/1338</Citation>, <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="3237">1996/3237</Citation>, <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="1576">1997/1576</Citation>, <Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="1218">1998/1218</Citation> and <Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0420">1999/420</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00011" Class="UnitedKingdomPublicGeneralAct" Year="1979" Number="0010">1979 c. 10</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="1979" Number="0907">1979/907</Citation>, <Citation id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="1981" Number="0207">1981/207</Citation>, <Citation id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="1983" Number="0879">1983/879</Citation>, <Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="1984" Number="1814">1984/1814</Citation>, <Citation id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="1986" Number="0600">1986/600</Citation>, <Citation id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="1311">1992/1311</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

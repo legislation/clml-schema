@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" SchemaVersion="1.0" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ukm:Metadata>
+			<dc:title>The Education (Teachers) (Amendment) Regulations 1998</dc:title>
+			<dc:subject>Education, England and Wales</dc:subject>
+			<dc:identifier>urn:isbn:0110792521</dc:identifier>
+			<ukm:SecondaryMetadata>
+				<ukm:DocumentClassification>
+					<ukm:DocumentCategory Value="secondary"/>
+					<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+					<ukm:DocumentStatus Value="final"/>
+					<ukm:DocumentMinorType Value="regulation"/>
+				</ukm:DocumentClassification>
+				<ukm:Year Value="1998"/>
+				<ukm:Number Value="1584"/>
+				<ukm:Made Date="1998-06-29"/>
+				<ukm:Laid Date="1998-07-01" Class="UnitedKingdomParliament"/>
+				<ukm:ComingIntoForce>
+					<ukm:DateTime Date="1998-08-01"/>
+				</ukm:ComingIntoForce>
+			</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>1998 No. 1584</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Education, England and Wales</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Education (Teachers) (Amendment) Regulations 1998</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>29th June 1998</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>1st July 1998</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st August 1998</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>In exercise of the powers conferred on the Secretary of State by sections 218(6) and (6A) and 232(5) of the Education Reform Act 1988<FootnoteRef Ref="f00001"/>, the Secretary of State for Education and Employment hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as the Education (Teachers) (Amendment) Regulations 1998 and shall come into force on 1st August 1998.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>The Education (Teachers) Regulations 1993<FootnoteRef Ref="f00002"/> shall be amended as follows.</Text>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In regulation 7(1)<FootnoteRef Ref="f00003"/> of Part III (provisions of general application) there shall be substituted for “subject to paragraph (2)” the words “subject to paragraphs (2) and (3)”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In regulation 7(2) there shall be substituted for “regulation 10” the words “regulations 10 and 10A”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>At the end of regulation 7 there shall be added the following paragraph—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+											<Text>For the purposes of this Part, employment includes the engagement of a person to provide his services as a teacher otherwise than under a contract of employment and references to employment or relevant employment shall be construed accordingly.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>After regulation 10 there shall be inserted the following regulation—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P1>
+										<Pnumber>10A</Pnumber>
+										<P1para>
+											<Text>The governing body of a school or further education institution, the local education authority so far as it relates to that school or institution and the proprietor of an independent school shall take such steps as are reasonably practicable to prevent a person who is not employed by them in relevant employment but who is, on medical grounds or on grounds of misconduct, the subject of a direction given by the Secretary of State under regulation 10, from providing services in relation to the school or institution or persons attending it which—</Text>
+											<P4>
+												<Pnumber>i</Pnumber>
+												<P4para>
+													<Text>are provided by whatever means and whether under contract or otherwise, and</Text>
+												</P4para>
+											</P4>
+											<P4>
+												<Pnumber>ii</Pnumber>
+												<P4para>
+													<Text>would bring that person providing them regularly into contact with persons who have not attained the age of nineteen years,</Text>
+												</P4para>
+											</P4>
+											<Text>in circumstances where to allow him to provide such services would be contrary to the terms of that direction if he were to be so employed.</Text>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>In regulation 11 there shall be added the following paragraph—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+											<Text>In paragraph (1), references to “dismissed from relevant employment” include the termination by the local education authority or the governing body of a school or further education institution of a person’s engagement to provide his services as a teacher in relevant employment otherwise than under a contract of employment and references to “dismissed” or “dismissing” shall be construed accordingly and the reference to “resignation” includes the termination by that person of such an engagement.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In regulation 12 of Part IV (provisions applying to schools) there shall be inserted at the beginning the words “Subject to regulation 12A,”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>After regulation 12 there shall be inserted the following regulation—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P1>
+										<Pnumber>12A</Pnumber>
+										<P1para>
+											<Text>For the purposes of this Part, employment includes the engagement of a person to provide his services as a teacher otherwise than under a contract of employment and references to employment or being employed shall be construed accordingly.</Text>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Estelle Morris</PersonName>
+						<JobTitle>Parliamentary Under-Secretary of State</JobTitle>
+						<Department>Department for Education and Employment</Department>
+						<DateSigned Date="1998-06-29">
+							<DateText>29th June 1998</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">These Regulations amend the Education (Teachers) Regulations 1993 (“the principal Regulations”).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">They require local education authorities, the governing bodies of schools and further education institutions and the proprietors of independent schools to take such steps as are reasonably practicable to prevent a person from providing services falling within section 218(6B) of the Education Reform Act 1988 in certain circumstances. Those circumstances are where the person providing the services, although not employed by those bodies or persons in relevant employment, is, on medical grounds or on grounds of misconduct, the subject of a direction given by the Secretary of State under regulation 10 of the principal Regulations and the effect of the direction would be to prevent the person from being so employed. <Emphasis>(regulation 3(4)).</Emphasis>
+				</Text>
+			</P>
+
+<!-- User guide example: UG02201. Taken from the section 'Extracts' -->
+			
+			<P>
+				<Text Hanging="indented">The services referred to in section 218(6B) of the Education Reform Act 1988 are—</Text>
+				<BlockExtract SourceClass="primary" Context="main" Format="default">
+					<P2para>
+						<Text>services provided in relation to the school or institution or persons attending it which—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>are provided by whatever means and whether under contract or otherwise, and</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>bring the persons providing them regularly into contact with persons who have not attained the age of nineteen years</Text>
+							</P3para>
+						</P3>
+					</P2para>
+				</BlockExtract>
+				<AppendText>.</AppendText>
+			</P>
+			<P>
+				<Text Hanging="indented">These Regulations also extend the definition of employment for the purposes of Parts III and IV of the principal Regulations to cover employment as teachers otherwise than under contracts of employment <Emphasis>(regulations 3(1) to (3) and 4)</Emphasis>. They also extend the requirements for reporting misconduct accordingly <Emphasis>(regulation 3(5)).</Emphasis>
+				</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">These changes take account of amendments made to section 218 of the Education Reform Act 1988 by section 49 of the Education Act 1997.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0040">1988 c. 40</Citation>; section 218(6) was amended by section 290(3) of the Education Act <Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0035">1993 (c. 35)</Citation>; subsections (6A) and (6B) of section 218 were inserted by section 49(2) of the Education Act <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0044">1997 (c. 44)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="0543">S.I. 1993/543</Citation>; the relevant amending instruments are <Citation id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1994" Number="0222">S.I. 1994/222</Citation>, <Citation id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="2594">1995/2594</Citation>, <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="0368">1997/368</Citation> and <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="2679">1997/2679</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 7 was substituted by <Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1994" Number="0222">S.I. 1994/222</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

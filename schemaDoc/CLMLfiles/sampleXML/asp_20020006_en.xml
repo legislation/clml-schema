@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>Protection of Wild Mammals (Scotland) Act 2002</dc:title>
+		<dc:subject>UK Legislation</dc:subject>
+		<dc:identifier>urn:isbn:010590032X</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:date>2003-07-24</dc:date>
+		<dc:coverage>UK</dc:coverage>
+		<dc:rights>Crown copyright 2003</dc:rights>
+		<dc:format>text/xml</dc:format>
+		<dc:type>text</dc:type>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="ScottishAct"/>
+				<ukm:DocumentStatus Value="final"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2002"/>
+			<ukm:Number Value="6"/>
+		</ukm:PrimaryMetadata>
+	</ukm:Metadata>
+	<Contents>
+		<ContentsTitle>Contents</ContentsTitle>
+		<ContentsItem>
+			<ContentsNumber>1</ContentsNumber>
+			<ContentsTitle>Offences</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>2</ContentsNumber>
+			<ContentsTitle>Exception: stalking and flushing from cover</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>3</ContentsNumber>
+			<ContentsTitle>Exception: use of a dog in connection with falconry and shooting</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>4</ContentsNumber>
+			<ContentsTitle>Exception: search by authorised person</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>5</ContentsNumber>
+			<ContentsTitle>Exception: retrieval and location</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>6</ContentsNumber>
+			<ContentsTitle>Excepted activities</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>7</ContentsNumber>
+			<ContentsTitle>Arrest, search and seizure</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>8</ContentsNumber>
+			<ContentsTitle>Proceedings and penalties</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>9</ContentsNumber>
+			<ContentsTitle>Disqualification orders</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>10</ContentsNumber>
+			<ContentsTitle>Meaning of expressions</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>11</ContentsNumber>
+			<ContentsTitle>Consequential amendments and repeals</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>12</ContentsNumber>
+			<ContentsTitle>Short title and commencement</ContentsTitle>
+		</ContentsItem>
+		<ContentsSchedules>
+			<ContentsSchedule>
+				<ContentsNumber>Schedule</ContentsNumber>
+				<ContentsTitle>Consequential amendments and repeals</ContentsTitle>
+			</ContentsSchedule>
+		</ContentsSchedules>
+	</Contents>
+	
+<!-- User guide example: UG00601. Taken from the section 'Preliminary matter' -->
+	<Primary>
+		<PrimaryPrelims>
+			<Title>Protection of Wild Mammals (Scotland) Act 2002</Title>
+			<Number>2002 asp 6</Number>
+			<LongTitle>An Act of the Scottish Parliament to protect wild mammals from being hunted with dogs; and for connected purposes.</LongTitle>
+			<DateOfEnactment>
+				<DateText>The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th February 2002 and received Royal Assent on 15th March 2002</DateText>
+			</DateOfEnactment>
+			<PrimaryPreamble>
+				<EnactingTextOmitted/>
+			</PrimaryPreamble>
+		</PrimaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Offences</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A person who deliberately hunts a wild mammal with a dog commits an offence.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>It is an offence for an owner or occupier of land knowingly to permit another person to enter or use it to commit an offence under subsection (1).</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>It is an offence for an owner of, or person having responsibility for, a dog knowingly to permit another person to use it to commit an offence under subsection (1).</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Exception: stalking and flushing from cover</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A person who is, or who has the permission of, the owner or lawful occupier of the land on which the stalking, searching or flushing referred to in this subsection takes place does not commit an offence under section 1(1) by using a dog under control to stalk a wild mammal, or flush it from cover (including an enclosed space within rocks, or other secure cover) above ground for the purpose of—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>protecting livestock, ground-nesting birds, timber, fowl (including wild fowl), game birds or crops from attack by wild mammals;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>providing food for consumption by a living creature, including a person;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>protecting human health;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>preventing the spread of disease;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>controlling the number of a pest species; or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>f</Pnumber>
+									<P3para>
+										<Text>controlling the number of a particular species to safeguard the welfare of that species,</Text>
+									</P3para>
+								</P3>
+								<Text>but only if that person acts to ensure that, once the target wild mammal is found or emerges from cover, it is shot, or killed by a bird of prey, once it is safe to do so.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Where a person is using a dog in connection with the despatch of a wild mammal, being of a pest species, with the intention of flushing the wild mammal from cover or from below ground in order that it may be shot or killed by lawful means, that person does not commit an offence under section 1(1) by virtue of the dog killing that wild mammal in the course of that activity.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A person does not commit an offence under section 1(1) by using a dog under control to flush a fox or mink from below ground or by using a dog under control to flush a fox from an enclosed space within rocks or other secure cover above ground, but only if that person—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>does so for one or more of the purposes specified in paragraphs (a) to (f) of subsection (1);</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>takes reasonable steps to ensure that the fox or mink is flushed as soon as reasonably possible after it is located and shot as soon as possible after it is flushed;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>takes all reasonable steps to prevent injury to the dog including steps to prevent the dog becoming trapped underground and, if it does become trapped underground, steps to ensure it is rescued as soon as is practicable;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>is in possession of a firearm for which the person holds a valid firearms or shotgun certificate; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>either—</Text>
+										<P4>
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>is the owner or lawful occupier of the land on which the activity takes place; or</Text>
+											</P4para>
+										</P4>
+										<P4>
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>has the permission of the owner or lawful occupier of that land to undertake that activity.</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Exception: use of a dog in connection with falconry and shooting</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>Where an occupier of land (or a person acting with the occupier’s permission) is using a bird of prey, or a firearm or shotgun, for the purpose of sport, that person does not commit an offence under section 1(1) by using a dog under control to stalk a wild mammal, or flush it from cover above ground, for the purpose of providing quarry for the sport, but only if—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>that person acts to ensure that, once a wild mammal is found or emerges from cover, it is shot, or killed by a bird of prey, as soon as possible;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>where a firearm or shotgun is used, that person holds a valid firearms or shotgun certificate or a valid visitor’s firearm or shot gun permit; and</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>where a wild mammal is shot and injured, that person takes all reasonable steps to retrieve it and, once retrieved, to kill it as humanely as possible.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Exception: search by authorised person</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>An authorised person does not commit an offence under section 1(1) by using a dog to search for, or catch, a wild mammal if that person does so with no intention of harming the wild mammal.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In subsection (1) “authorised person” means—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>an officer of a local authority acting in pursuance of any function of the local authority;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>any person authorised by such an officer to search for, or catch, a wild mammal; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>a constable.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Exception: retrieval and location</Title>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A person does not commit an offence under section 1(1) by using a dog under control in order to—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>retrieve a hare which has been shot;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>locate a wild mammal which has escaped, or been released, from captivity (but only if that person acts to ensure that the mammal is captured or shot once it is located); or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>retrieve or locate a wild mammal which that person reasonably believes is seriously injured or orphaned (but only if that person acts to ensure that the mammal, once located, is captured, treated or killed as humanely as possible in order to relieve its suffering).</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Subsection (1)(b) does not apply if the mammal—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>is a fox or hare;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>is a deer, boar or mink, unless it has escaped from a farm or zoo; or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>has been raised or released for the purpose of being hunted.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A person who is an occupier of land (or is acting with the occupier’s permission) does not commit an offence under section 1(1) by using a dog under control below ground on that land in order to locate a fox which that person reasonably believes is orphaned, but only if that person takes reasonable steps to ensure that the fox, once located, is despatched by a single dog or otherwise killed as humanely as possible.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Excepted activities</Title>
+				<P1>
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A person does not commit an offence under section 1(1) by participating in an excepted activity.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>For the purposes of subsection (1), an “excepted activity” is an activity excepted under any provision of this Act, and such other activity as the Scottish Ministers may, by order made by statutory instrument, specify.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>No order is to be made under subsection (2) unless it has been laid in draft before, and approved by resolution of, the Scottish Parliament.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Before laying a draft order before the Parliament under subsection (3), the Scottish Ministers must—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>lay the proposed draft order before the Parliament and make it publicly available for consultation for a period (“the consultation period”) of at least 12 weeks;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>during the consultation period, consult such persons and bodies as they consider likely to be affected by, or otherwise to have an interest in, the proposed draft order; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>take into account any comments on the proposed draft order expressed during the consultation period and make such changes to the draft order as they consider appropriate.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Arrest, search and seizure</Title>
+				<P1>
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A constable who suspects with reasonable cause that a person has committed or is committing an offence under this Act may without warrant—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>arrest that person;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>stop and search that person, if the constable suspects with reasonable cause that evidence in connection with the offence is to be found on that person;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>search or examine a vehicle, animal or article which appears to belong to, or be in the possession or control of, that person, if the constable suspects with reasonable cause that evidence in connection with the offence is to be found in or on it;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>seize and detain for the purpose of proceedings under this Act a vehicle, animal or article which may be evidence in connection with the offence or which may be made the subject of an order under Part II of the Proceeds of Crime (Scotland) Act <Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1995" Number="0043">1995 (c. 43)</Citation>.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>A vehicle, animal or article seized under subsection (1)(d) above shall be returned to the person from whom it was seized as soon as any proceedings under this Act are concluded without the conviction of the person accused.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A constable may enter land (but not a dwelling house) in order to exercise a power given by subsection (1).</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Proceedings and penalties</Title>
+				<P1>
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A person guilty of an offence under this Act is liable on summary conviction to imprisonment for up to 6 months or a fine of up to level 5 on the standard scale or both.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>If an offence by a body corporate is proved to have been committed with the consent or connivance of, or as a result of neglect by, an officer of the body, the officer as well as the body is guilty of the offence.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>“Officer” means a director, manager, secretary or other similar officer, and includes a person purporting to act in that capacity or in accordance with whose directions or instructions the officers of the body are accustomed to act.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Where the affairs of a body corporate are managed by its members, subsection (2) applies to the conduct of a member in connection with the member’s functions of management as if the member were an officer.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>If an offence committed by a partnership is proved to have been committed with the consent or connivance of, or as a result of neglect by, a partner, the partner as well as the partnership is guilty of the offence.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>In proceedings for an offence under section 1(2) or (3), it is a defence for the person charged to prove that at the time of the alleged offence such person reasonably believed that section 5(1) applied (or would apply) to the hunting in question.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Disqualification orders</Title>
+				<P1>
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The court convicting a person of an offence under section 1 may, in addition to dealing with the offender in any other way, make either or both of the following orders (“disqualification orders”)—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>an order for the care or disposal of a dog which was in the offender’s custody when the offence was committed or which has been in the offender’s custody at any time since then;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>an order disqualifying the offender, for such period as it thinks fit, from having custody of any dog.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Where the court makes an order under subsection (1)(a) above, it may—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>require any person who has custody of the dog to deliver it up to a specified person;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>require the offender to pay specified amounts to specified persons for the care of the dog from the time it is delivered up (or detained under section 7(1)(d)) until permanent arrangements are made for its care or disposal.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A disqualification order shall not deprive a dog’s owner of custody of that dog where that dog was used by another person in the commission of an offence under section 1, unless the owner knowingly permitted the use of that dog contrary to that section.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>A person who—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>has custody of a dog in contravention of a disqualification order; or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>fails to comply with a requirement imposed on that person under subsection (2),</Text>
+									</P3para>
+								</P3>
+								<Text>commits an offence.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>A dog shall not be disposed of pursuant to an order under subsection (1)(a) above—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>until the end of the period within which notice of appeal to the court against the order can be given; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if notice of appeal is given in that period, until the appeal is determined or withdrawn,</Text>
+									</P3para>
+								</P3>
+								<Text>unless the owner of the dog gives notice to the court which made the order of the owner’s intention not to appeal against it.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>A person against whom an order under subsection (1)(b) above has been made may, no earlier than one year after the date of the order, apply to the court which made the order for a direction ending the disqualification from such date as the court thinks appropriate; and if the application is refused, no further application in relation to that order may be made earlier than one year after the date of the refusal.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>In considering an application under subsection (6), the court must take account of all the circumstances including the applicant’s character and the applicant’s conduct since the order was made.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>8</Pnumber>
+							<P2para>
+								<Text>If a disqualification order imposes a requirement in relation to a dog not owned by the offender, the owner may appeal to the High Court against that requirement.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>9</Pnumber>
+							<P2para>
+								<Text>An appeal under subsection (8) is competent only if lodged within 7 days of the date of the order (or such longer period as the High Court thinks just, taking particular account of the date on which the order came to the owner’s attention).</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Meaning of expressions</Title>
+				<P1>
+					<Pnumber>10</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In this Act—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“to hunt” includes to search for or course;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“occupier” includes any person who has control of land;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>an “orphaned” fox means a fox, the mother of which is dead, which is too young to survive on its own;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“owner” (of land) does not include a creditor in a heritable security who is not in possession of the security subjects;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“pest species” means foxes, hares, mink, stoats and weasels;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“wild mammal”—</Text>
+											<OrderedList Decoration="parens" Type="alpha">
+												<ListItem>
+													<Para>
+														<Text>includes a wild mammal which has escaped, or been released, from captivity, and any mammal which is living wild;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>does not include a rabbit;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>does not include a rodent;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+											<Text>and references to hunting with, or the use of, “a dog” are to be interpreted as also applying to hunting with, or (as the case may be) the use of, two or more dogs.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The Scottish Ministers may, by order made by statutory instrument, modify the definition of “pest species” in subsection (1) so as to add to, or remove from, the species which that definition comprehends such species as they think fit.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A statutory instrument containing an order under subsection (2) above is subject to annulment in pursuance of a resolution of the Scottish Parliament.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>For the purposes of this Act, a dog is “under control” if—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the person responsible for the dog is able to direct the dog’s activity by physical contact or verbal or audible command; or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the dog is carrying out a series of actions appropriate to the activity undertaken, having been trained to do so.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Consequential amendments and repeals</Title>
+				<P1>
+					<Pnumber>11</Pnumber>
+					<P1para>
+						<Text>The consequential amendments and repeals set out in the schedule have effect.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Short title and commencement</Title>
+				<P1>
+					<Pnumber>12</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Act may be cited as the Protection of Wild Mammals (Scotland) Act 2002.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The preceding sections of this Act come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Different days may be so appointed for different purposes.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+		</Body>
+		<Schedules>
+			<Schedule>
+				<Number>Schedule</Number>
+				<TitleBlock>
+					<Title>Consequential amendments and repeals</Title>
+				</TitleBlock>
+				<Reference>(introduced by section 11)</Reference>
+				<ScheduleBody>
+					<P1group>
+						<Title>
+							<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1832" Number="0068">Game (Scotland) Act 1832 (c. 68)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>1</Pnumber>
+							<P1para>
+								<Text>Section 4 of the Game (Scotland) Act 1832 (provisions about trespassers not to apply to persons hunting) is repealed.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>
+							<Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1860" Number="0090">Game Licences Act 1860 (c. 90)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>2</Pnumber>
+							<P1para>
+								<Text>In section 5 of the Game Licences Act 1860 (exceptions and exemptions), exceptions 3 and 4 (so far as extending to Scotland) are repealed.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>
+							<Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1912" Number="0014">Protection of Animals (Scotland) Act 1912 (c. 14)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>3</Pnumber>
+							<P1para>
+								<Text>Section 1(3)(b) of the Protection of Animals (Scotland) Act 1912 (exception for hunting of captive animal) is repealed.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>
+							<Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1953" Number="0028">Dogs (Protection of Livestock) Act 1953 (c. 28)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>4</Pnumber>
+							<P1para>
+								<Text>In section 1(2A)(b) of the Dogs (Protection of Livestock) Act 1953 (dogs which may be at large in vicinity of sheep), so far as extending to Scotland, for “pack of hounds” substitute “dog lawfully used to hunt”.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>
+							<Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0051">Protection of Badgers Act 1992 (c. 51)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>5</Pnumber>
+							<P1para>
+								<Text>In section 8 of the Protection of Badgers Act 1992 (interfering with badger setts: exceptions), subsections (4) to (9) (so far as extending to Scotland) are repealed.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title>
+							<Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1996" Number="0003">Wild Mammals (Protection) Act 1996 (c. 3)</Citation>
+						</Title>
+						<P1>
+							<Pnumber>6</Pnumber>
+							<P1para>
+								<Text>In section 2(b) of the Wild Mammals (Protection) Act 1996 (exceptions for killing in certain circumstances), so far as extending to Scotland, between “or” and “pest” insert “lawful”.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Primary>
+</Legislation>

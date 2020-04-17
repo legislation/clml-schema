@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Social Security and Child Support (Miscellaneous Amendments) Regulations 2003</dc:title>
+		<dc:subject>Social Security</dc:subject>
+		<dc:subject>Family Law</dc:subject>
+		<dc:identifier>urn:isbn:0110456343</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1050"/>
+			<ukm:Made Date="2003-04-07"/>
+			<ukm:Laid Date="2003-04-14" Class="UnitedKingdomParliament"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1050</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Social Security</Title>
+				</Subject>
+				<Subject>
+					<Title>Family Law</Title>
+					<Subtitle>Child Support</Subtitle>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Social Security and Child Support (Miscellaneous Amendments) Regulations 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>7th April 2003</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>14th April 2003</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force in accordance with regulation 1(1)</Text>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 17(3) and (5) and 54 of the Child Support Act 1991<FootnoteRef Ref="f00001"/> sections 5(1)(hh), (i) and (j), 189(1) and (4) and 191 of the Social Security Administration Act 1992<FootnoteRef Ref="f00002"/> sections 9(1), 10(3) and (6) and 84 of the Social Security Act 1998<FootnoteRef Ref="f00003"/> and paragraphs 4(4) and (6), 10(1) and 23(1) of Schedule 7 to the Child Support, Pensions and Social Security Act 2000<FootnoteRef Ref="f00004"/>, and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it<FootnoteRef Ref="f00005"/> and so far as they concern housing benefit and council tax benefit after consultation with organisations appearing to the Secretary of State to be representative of the authorities concerned<FootnoteRef Ref="f00006"/>, hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and interpretation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations 2003 and shall come into force as follows—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>regulations 1, 2, 3(1) to (3) and (5), 4 and 5 shall come into force on 5th May 2003;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>regulation 3(4) and (6) shall come into force—</Text>
+										<P4>
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>except for the purposes of any type of case referred to in head (ii), on 5th May 2003; and</Text>
+											</P4para>
+										</P4>
+										<P4>
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>for the purposes of any type of case which is not one in relation to which 3rd March 2003 is the day appointed for the coming into force of section 9 of the Child Support, Pensions and Social Security Act 2000<FootnoteRef Ref="f00007"/>, on the day on which that section comes into force in relation to that type of case.</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In these Regulations—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987<FootnoteRef Ref="f00008"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the Decisions and Appeals Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999<FootnoteRef Ref="f00009"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the Housing Benefit and Council Tax Benefit Regulations” means the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001<FootnoteRef Ref="f00010"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the Maintenance Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations 1992<FootnoteRef Ref="f00011"/>.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Claims and Payments Regulations</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>For the heading and paragraph (1) of regulation 32 of the Claims and Payments Regulations (information to be given when obtaining payment of benefit)<FootnoteRef Ref="f00012"/> there shall be substituted—</Text>
+						<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+							<P1group>
+								<Title>Information to be given and changes to be notified</Title>
+								<P1>
+									<Pnumber>32</Pnumber>
+									<P1para>
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>Except in the case of a jobseeker’s allowance, every beneficiary and every person by whom, or on whose behalf, sums by way of benefit are receivable shall furnish in such manner and at such times as the Secretary of State may determine such information or evidence as the Secretary of State may require for determining whether a decision on the award of benefit should be revised under section 9 of the Social Security Act 1998<FootnoteRef Ref="f00013"/> or superseded under section 10 of that Act.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>1A</Pnumber>
+											<P2para>
+												<Text>Every beneficiary and every person by whom, or on whose behalf, sums by way of benefit are receivable shall furnish in such manner and at such times as the Secretary of State may determine such information or evidence as the Secretary of State may require in connection with payment of the benefit claimed or awarded.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>1B</Pnumber>
+											<P2para>
+												<Text>Except in the case of a jobseeker’s allowance, every beneficiary and every person by whom or on whose behalf sums by way of benefit are receivable shall notify the Secretary of State of any change of circumstances which he might reasonably be expected to know might affect—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the continuance of entitlement to benefit; or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>the payment of the benefit,</Text>
+													</P3para>
+												</P3>
+												<Text>as soon as reasonably practicable after the change occurs by giving notice in writing (unless the Secretary of State determines in any particular case to accept notice given otherwise than in writing) of any such change to an appropriate office.</Text>
+											</P2para>
+										</P2>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockAmendment>
+						<AppendText>.</AppendText>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Decisions and Appeals Regulations</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+
+<!-- User guide example: UG02101. Taken from the section 'Amendments' -->
+					
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In regulation 1(3) of the Decisions and Appeals Regulations (Citation, commencement and interpretation) for the definition of “out of jurisdiction appeal” there shall be substituted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2para>
+										<Text>“out of jurisdiction appeal” means an appeal brought against a decision which is specified in—</Text>
+										<OrderedList Decoration="parens" Type="alpha">
+											<ListItem>
+												<Para>
+													<Text>Schedule 2 to the Act or a decision prescribed in regulation 27 (decision against which no appeal lies); or</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>paragraph 6(2) of Schedule 7 to the Child Support, Pensions and Social Security Act 2000 (appeal to appeal tribunal) or a decision prescribed in regulation 16 of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 (decision against which no appeal lies);</Text>
+												</Para>
+											</ListItem>
+										</OrderedList>
+									</P2para>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In regulation 3(9)(a) of the Decisions and Appeals Regulations (revision of decisions)<FootnoteRef Ref="f00014"/> for “was made” there shall be substituted “had effect”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In regulation 6 of the Decisions and Appeals Regulations (supersession of decisions)<FootnoteRef Ref="f00015"/>—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in paragraph (2)(a)(i) for “was made” there shall be substituted “had effect”;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>for paragraph (2)(c) there shall be substituted—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P3>
+												<Pnumber>c</Pnumber>
+												<P3para>
+													<Text>is a decision of an appeal tribunal or of a Commissioner—</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>that was made in ignorance of, or was based upon a mistake as to, some material fact; or</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>that was made in accordance with section 26(4)(b), in a case where section 26(5) applies;</Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>after paragraph (2)(d) “or” shall be omitted;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>after paragraph (2)(g) “and” shall be omitted.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>In regulation 6A of the Decisions and Appeals Regulations (supersession of child support decisions)<FootnoteRef Ref="f00016"/> after paragraph (4) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>4A</Pnumber>
+										<P2para>
+											<Text>A decision may be superseded by a decision made by the Secretary of State—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>where an application is made on the basis that; or</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>acting on his own initiative where,</Text>
+												</P3para>
+											</P3>
+											<Text>the decision to be superseded is a decision of an appeal tribunal or of a Commissioner that was made in accordance with section 28ZB(4)(b) of the Child Support Act<FootnoteRef Ref="f00017"/>, in a case where section 28ZB(5) of that Act applies.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>In regulation 7 of the Decisions and Appeals Regulations (date from which a decision superseded under section 10 takes effect)<FootnoteRef Ref="f00018"/>—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in paragraph (1)(a) for “paragraph (2)(b)” there shall be substituted “paragraphs (2)(b), (29) and (30)”;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in paragraph (2) for “was made” there shall be substituted “had effect”;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>in paragraph (5) after “regulation 6(2)(c)” there shall be inserted “(i)”;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>for paragraph (9)(a) there shall be substituted—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>where the decision is made on the Secretary of State’s own initiative—</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>the date on which the Secretary of State commenced action with a view to supersession; or</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>subject to paragraph (30), in a case where the relevant circumstances are that there has been a change in the legislation in relation to attendance allowance or disability living allowance, the date on which that change in the legislation had effect;</Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>after paragraph (29) there shall be added—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P2>
+												<Pnumber>30</Pnumber>
+												<P2para>
+													<Text>Where a decision is superseded in accordance with regulation 6(2)(a)(i) and the relevant circumstances are that there has been a change in the legislation in relation to a relevant benefit, the decision under section 10 shall take effect from the date on which that change in the legislation had effect.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>31</Pnumber>
+												<P2para>
+													<Text>Where a decision is superseded in accordance with regulation 6(2)(a)(ii) and the relevant circumstances are that—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>a personal capability assessment has been carried out in the case of a person to whom section 171C(4) of the Contributions and Benefits Act<FootnoteRef Ref="f00019"/> applies; and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>the own occupation test remains applicable to him under section 171B(3) of that Act<FootnoteRef Ref="f00020"/>,</Text>
+														</P3para>
+													</P3>
+													<Text>the decision under section 10 shall take effect on the day immediately following the day on which the own occupation test is no longer applicable to that person.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>32</Pnumber>
+												<P2para>
+													<Text>For the purposes of paragraph (31)—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>“personal capability assessment” has the same meaning as in regulation 24 of the Social Security (Incapacity for Work) (General) Regulations 1995<FootnoteRef Ref="f00021"/>;</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>“own occupation test” has the same meaning as in section 171B(2) of the Contributions and Benefits Act.</Text>
+														</P3para>
+													</P3>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>33</Pnumber>
+												<P2para>
+													<Text>A decision to which regulation 6(2)(c)(ii) applies shall take effect from the date on which the appeal tribunal or the Commissioner’s decision would have taken effect had it been decided in accordance with the determination of the Commissioner or the court in the appeal referred to in section 26(1)(b).</Text>
+												</P2para>
+											</P2>
+										</BlockAmendment>
+										<AppendText>.</AppendText>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>In regulation 7B of the Decisions and Appeals Regulations (date from which a decision superseded under section 17 of the Child Support Act takes effect)<FootnoteRef Ref="f00022"/> after paragraph (22) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>22A</Pnumber>
+										<P2para>
+											<Text>Where a superseding decision is made in a case to which regulation 6A(4A) applies the decision shall take effect from the first day of the maintenance period following the date the appeal tribunal or the Commissioner’s decision would have taken effect had it been decided in accordance with the determination of the Commissioner or the court in the appeal referred to in section 28ZB(1)(b) of the Child Support Act.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Housing Benefit and Council Tax Benefit Regulations</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In regulation 7 of the Housing Benefit and Council Tax Benefit Regulations (decisions superseding earlier decisions)—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in paragraph (2)(a)(i) after “a change of circumstances” there shall be inserted “since the decision had effect”;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>for paragraph (2)(d) there shall be substituted—</Text>
+										<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+											<P3>
+												<Pnumber>d</Pnumber>
+												<P3para>
+													<Text>of an appeal tribunal or of a Commissioner—</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>that was made in ignorance of, or was based upon a mistake as to, some material fact; or</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>that was made in accordance with paragraph 17(4)(b) of Schedule 7 to the Act, in a case where paragraph 17(5) of that Schedule to the Act applies;</Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+										<AppendText>.</AppendText>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In regulation 8 of the Housing Benefit and Council Tax Benefit Regulations (date from which a decision superseding an earlier decision takes effect), after paragraph (9) there shall be added—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>10</Pnumber>
+										<P2para>
+											<Text>Where the decision is superseded in accordance with regulation 7(2)(a)(i) and the relevant circumstances are that there has been a change in the legislation in relation to housing benefit or council tax benefit, the superseding decision shall take effect from the date on which that change in the legislation had effect.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>11</Pnumber>
+										<P2para>
+											<Text>Where a superseding decision is made in a case to which regulation 7(2)(d)(ii) applies the superseding decision shall take effect from the date on which the appeal tribunal or the Commissioner’s decision would have taken effect had it been decided in accordancd with the determination of the Commissioner or the court in the appeal referred to in paragraph 17(1)(b) of Schedule 7 to the Act.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Maintenance Assessment Procedure Regulations</Title>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In regulation 20 of the Maintenance Assessment Procedure Regulations (supersession of decisions)<FootnoteRef Ref="f00023"/> after paragraph (4) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default">
+									<P2>
+										<Pnumber>4A</Pnumber>
+										<P2para>
+											<Text>A decision may be superseded by a decision made by the Secretary of State—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>where an application is made on the basis that; or</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>acting on his own initiative where,</Text>
+												</P3para>
+											</P3>
+											<Text>the decision to be superseded is a decision of an appeal tribunal or of a Child Support Commissioner that was made in accordance with section 28ZB(4)(b) of the Act, in a case where section 28ZB(5) of the Act applies.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In regulation 23 of the Maintenance Assessment Procedure Regulations (date from which a decision is superseded)<FootnoteRef Ref="f00024"/> after paragraph (19) there shall be added—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="schedule" Format="default">
+									<P2>
+										<Pnumber>20</Pnumber>
+										<P2para>
+											<Text>Where a superseding decision is made in a case to which regulation 20(4A) applies that decision shall take effect from the first day of the maintenance period following the date on which the appeal tribunal or the Child Support Commissioner’s decision would have taken effect had it been decided in accordance with the determination of the Child Support Commissioner or the court in the appeal referred to in section 28ZB(1)(b) of the Act.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Tax Credits</Title>
+				<P1>
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>Nothing in these Regulations shall affect the application of the Claims and Payments Regulations and the Decisions and Appeals Regulations to working families' tax credit and disabled person’s tax credit.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Secretary of State for Work and Pensions.</Text>
+					</Para>
+					<Signee>
+						<PersonName>P. Hollis</PersonName>
+						<JobTitle>Parliamentary Under-Secretary of State</JobTitle>
+						<Department>Department for Work and Pensions</Department>
+						<DateSigned Date="2003-04-07">
+							<DateText>7th April 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations amend the Social Security (Claims and Payments) Regulations 1987 in respect of benefit payments. They also amend the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“the Decisions and Appeals Regulations”), the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 and the Child Support (Maintenance Assessment Procedure) Regulations 1992 (“the Maintenance Assessment Procedure Regulations”) in respect of decision making.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 1 provides for the commencement of these Regulations and in particular in relation to regulation 3(4) and (6) provides that any type of case which is not one in relation to which 3rd March 2003 is the appointed day for the coming into force of section 9 of the <Citation id="c00041" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0019">Child Support, Pensions and Social Security Act 2000 (c. 19)</Citation> (“the 2000 Act”), shall come into force on the day that section comes into force in relation to that type of case. In all other cases and for all other provisions in these Regulations, the commencement date is 5th May 2003.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 2 amends regulation 32(1) of the Social Security (Claims and Payments) Regulations 1987 to clarify the Secretary of State’s power to require information from beneficiaries which might affect a continuing award of benefit, or its payment, and beneficiaries' duty to notify him of changes of circumstances which might affect a continuing award or its payment.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 3 amends regulations 1, 3, 6, 6A, 7, and 7B of the Decisions and Appeals Regulations. Regulation 3(1) amends the definition of “out of jurisdiction appeal” to include certain decisions in respect of Housing Benefit and Council Tax Benefit. Regulation 3(2) makes a consequential amendment to the grounds for revision.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 3(3) amends the ground for supersession on change of circumstances and adds a new ground for the supersession of a decision of an appeal tribunal or of a Commissioner in a case where an appeal has been decided under section 26(4)(b) of the <Citation id="c00042" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">Social Security Act 1998 (c. 14)</Citation> (“the 1998 Act”) and the Secretary of State has decided to supersede in accordance with section 26(5) of that Act. This regulation also makes minor clarifying amendments. Regulation 3(4) makes amendments to child support provisions which correspond to the amendments made by regulation 3(3)(b) of these Regulations.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 3(5)(a) to (c) makes minor consequential and clarifying amendments. Regulation 3(5)(d) (substituted paragraph (a)) provides a new effective date specifically for Disability Living Allowance and Attendance Allowance where there is a change to relevant legislation so that the decision takes effect on the date the new legislation takes effect. Regulation 3(5)(e) (new paragraph (30)) mirrors the provision set out in regulation 3(5)(d). This sub-paragraph (new paragraphs (31) and (32)) also provides a new effective date in a case where a “personal capability assessment” is conducted before the “own occupation test” expires. The decision giving effect to the early assessment takes effect on the day immediately following the day on which the own occupation test no longer applies. This sub-paragraph (new paragraph (33)) also provides a new effective date where the Secretary of State supersedes in accordance with section 26(5) of the 1998 Act to give effect to that decision on the date it would have taken effect if the appeal tribunal or the Commissioner had decided in accordance with the determination of the Commissioner or the court. Regulation 3(6) makes amendments to child support provisions which correspond to the amendments made by regulation 3(5)(e) (new paragraph (33)).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 4 amends regulations 7 and 8 of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 which correspond to the amendments made by regulation 3(3)(a) and (b), (5)(e) (new paragraphs (30) and (33)).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 5 amends the Maintenance Assessment Procedure Regulations so as to make corresponding provision for child support cases which continue to be dealt with under the Child Support Act 1991 prior to its amendment by the 2000 Act and the coming into force of those provisions in any particular case, as the amendments made by regulations 3(4) and 3(6) of these Regulations.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 6 confirms that these Regulations do not affect the application of the Social Security (Claims and Payments) Regulations 1987 and the Decisions and Appeals Regulations to two specified tax credits.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">These Regulations do not impose a charge on business.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1991" Number="0048">1991 c. 48</Citation>. Section 17 was substituted by the Social Security Act 1998, section 41; section 54 is cited because of the meaning ascribed to the word “prescribed”.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0005">1992 c. 5</Citation>. Sub-paragraph (hh) of section 5(1) was inserted by the <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">Social Security Act 1998 (c. 14)</Citation>, section 74 and amended by the Child Support, Pensions and <Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0019">Social Security Act 2000 (c. 19)</Citation>, Schedule 7, paragraph 21(1); there are amendments to section 189(1) and (4) which are not relevant to these Regulations; section 191 is an interpretation provision and is cited because of the meaning ascribed to the word “prescribe”.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">1998 c. 14</Citation>. Section 84 is cited because of the meaning ascribed to the word “prescribe”.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0019">2000 c. 19</Citation>. Paragraph 23(1) of Schedule 7 is cited because of the meaning ascribed to the word “prescribed”.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Emphasis>See</Emphasis> the Social Security Administration Act 1992, section 173(1)(b).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Emphasis>See</Emphasis> the Social Security Administration Act 1992, section 176(1)(a).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="0192">S.I. 2003/192</Citation> (C.11), article 3.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="1968">S.I. 1987/1968</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0991">S.I. 1999/991</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1002">S.I. 2001/1002</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00011">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="1813">S.I. 1992/1813</Citation>, which is revoked with savings, by <Citation id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="0157">S.I. 2001/157</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00012">
+			<FootnoteText>
+				<Para>
+					<Text>Relevant amendments to regulation 32 were made by <Citation id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="2595">S.I. 1992/2595</Citation>, <Citation id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1460">1996/1460</Citation>, <Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="2572">1999/2572</Citation> and <Citation id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="3019">2002/3019</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00013">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00017" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">1998 c. 14</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00014">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0991">S.I. 1999/991</Citation>. Regulation 3(9) was substituted by<Citation id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="2677"> S.I. 1999/2677</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00015">
+			<FootnoteText>
+				<Para>
+					<Text>The relevant amending instruments are <Citation id="c00020" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1623">S.I. 1999/1623</Citation> and <Citation id="c00021" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="0897">S.I. 2000/897</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00016">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 6A was inserted by <Citation id="c00022" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="3185">S.I. 2000/3185</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00017">
+			<FootnoteText>
+				<Para>
+					<Text>Section 28ZB was inserted by the <Citation id="c00023" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">Social Security Act 1998 (c. 14)</Citation>, section 43.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00018">
+			<FootnoteText>
+				<Para>
+					<Text>The relevant amending instruments are <Citation id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="0119">S.I. 2000/119</Citation>, <Citation id="c00025" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="1596">S.I. 2000/1596</Citation>, <Citation id="c00026" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0490">S.I. 2002/490</Citation> and <Citation id="c00027" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="3019">S.I. 2002/3019</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00019">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00028" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0004">1992 c. 4</Citation>. Section 171C was inserted by the <Citation id="c00029" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0018">Social Security (Incapacity for Work) Act 1994 (c. 18)</Citation>, section 5 and substituted by the <Citation id="c00030" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0030">Welfare Reform and Pensions Act 1999 (c. 30)</Citation>, section 16.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00020">
+			<FootnoteText>
+				<Para>
+					<Text>Section 171B was inserted by the <Citation id="c00031" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0018">Social Security (Incapacity for Work) Act 1994 (c. 18)</Citation>, section 5.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00021">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00032" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0311">S.I. 1995/311</Citation>, the relevant amending instrument is <Citation id="c00033" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="3109">S.I. 1999/3109</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00022">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 7B was inserted by <Citation id="c00034" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="3185">S.I. 2000/3185</Citation> and amended by <Citation id="c00035" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="1204">S.I. 2002/1204</Citation> and <Citation id="c00036" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="0328">S.I. 2003/328</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00023">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 20 was substituted by <Citation id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1047">S.I. 1999/1047</Citation> and amended by <Citation id="c00038" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="1596">S.I. 2000/1596</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00024">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 23 was substituted by <Citation id="c00039" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1047">S.I. 1999/1047</Citation> and amended by <Citation id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="1596">S.I. 2000/1596</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

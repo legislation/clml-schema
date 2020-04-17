@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../automatorSchema/schemaIDmap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<idmap xmlns:ci="http://macksol.co.uk/include" xmlns:h="http://www.w3.org/1999/xhtml">
+    <entry id="schemaLegislationMetadata-E-AlternativeNumber">
+        <ci:include href="rgAlternativeNumber.png" source="output"/>
+    </entry>
+    <entry id="schemaLegislationMetadata-E-ComingIntoForce">
+        <ci:include href="rgComingIntoForce.png" source="output"/>
+    </entry>
+    <entry id="schemaLegislationMetadata-E-DepartmentCode">
+        <ci:include href="uksi_20052087_en.xml" xpath="/*:Legislation/*:Metadata" fileref="Example taken from uksi_20052087_en (PDF p. 1, XML Ref. UG00202)"  source="example"  />
+        <ci:include href="img/rgDepartmentCode.png" fileref="Example taken from uksi_20052087_en (PDF p. 1, XML Ref. UG00202)" source="output"/>
+    </entry>
+
+    <!-- Test only
+    <entry id="schemaLegislationCore-E-Legislation">
+        <ci:include show="new" href="zoo-doc.xhtml#cheetah">see cheetah</ci:include>
+        <ci:include show="embed" href="zoo-doc.xhtml#elephant" source="example"/>
+    </entry>
+    <entry id="schemaLegislationMetadata-E-PrimaryMetadata">
+        <ci:include show="embed" href="zoo-doc.xhtml#elephant" source="example"/>
+        <ci:include href="testimage.png" source="example"/>
+    </entry>-->
+</idmap>

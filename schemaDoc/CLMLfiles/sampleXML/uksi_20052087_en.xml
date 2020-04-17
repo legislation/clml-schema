@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!-- This is one of the OPSI schema standard reference files -->
+<!-- To view this file correctly you need to be using a Unicode compliant viewing application -->
+
+<!-- For an introduction to the schema please see the user guide -->
+<!-- For detailed information please refer to the technical reference -->
+
+<!-- The metadata section is subject to revision when eGMS4 comes on stream -->
+<!-- See the 'Metadata' section in the user guide for more details -->
+
+<!-- User guide example: UG00201. Taken from the section 'Metadata' -->
+	<ukm:Metadata>
+		<dc:title>The Town and Country Planning (General Development Procedure) (Amendment) (England) Order 2005</dc:title>
+		<dc:subject>Town and country planning, England</dc:subject>
+		<dc:identifier>urn:isbn:0110731948</dc:identifier>
+		<dc:language>en</dc:language>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2005"/>
+			<ukm:Number Value="2087"/>
+			<ukm:DepartmentCode Value="ODPM 3032"/>
+			<ukm:Made Date="2005-07-25"/>
+			<ukm:Laid Date="2005-08-03" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2005-08-24"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	
+<!-- At this point the element Secondary is used to control the content for secondary legislation -->
+	
+	<Secondary>
+	
+<!-- Preliminary matter is stored in the SecondaryPrelims element  for secondary legislation -->	
+<!-- See the 'Preliminary matter' section in the user guide for more details -->
+	
+		<SecondaryPrelims>
+			<Number>2005 No. 2087</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Town and country planning, England</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Town and Country Planning (General Development Procedure) (Amendment) (England) Order 2005</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>25th July 2005</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>3rd August 2005</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>24th August 2005</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+
+<!-- Footnotes are referenced from within the text using FootnoteRef and are stored in the Footnotes element at the bottom of the document -->
+<!-- See the 'Footnotes and marginnotes' section in the user guide for more details -->
+
+<!-- The Para element is used for a standard paragraph, i.e. one that cannot contain numbered provisions -->
+<!-- The Text element is used to hold a line of text -->
+<!-- See the 'Provisions and paragraphs' section in the user guide for more details -->
+
+					<Para>
+						<Text>The First Secretary of State, in exercise of the powers conferred on him by sections 59, 71, 76A(5), (6) and (10), 77(4), 78(3), 78A(6) and 79(4) of, and paragraph 7 of Schedule 1 to, the Town and Country Planning Act 1990<FootnoteRef Ref="f00001"/>, and section 54 of the Planning and Compulsory Purchase Act 2004<FootnoteRef Ref="f00002"/>, makes the following Order:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+
+<!-- The main content of the legislation is stored in the Body element -->
+		
+		<Body>
+		
+<!-- A P1group groups together one or more top-level numbered paragraphs -->		
+<!-- See the 'Provisions and paragraphs' section in the user guide for more details -->
+		
+			<P1group>
+				<Title>Citation, commencement, interpretation and application</Title>
+
+<!-- For a P1 element only the actual number should be stored in the Pnumber element. Any periods and em dashes are implied formatting -->
+				
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+					
+<!-- In a similar manner to a P1 the parentheses on a P2 are implied formatting - they are not stored in the XML -->
+
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Town and Country Planning (General Development Procedure) (Amendment) (England) Order 2005 and shall come into force on 24th August 2005.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This Order applies in relation to England only.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the Town and Country Planning (General Development Procedure) Order 1995</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+
+<!-- Citations are used to encapsulate references to other legislation -->
+<!-- See the 'Linking and citations' section in the user guide for more details -->
+					
+					<P1para>
+						<Text>The <Citation id="c00056" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0419">Town and Country Planning (General Development Procedure) Order 1995</Citation><FootnoteRef Ref="f00003"/> is amended in accordance with the following provisions of this Order.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Major infrastructure projects</Title>
+				
+<!-- id attributes are available on almost all elements and can be used for internal linking -->	
+<!-- See the 'Linking and citations' section in the user guide for more details -->
+				
+				<P1 id="p00003">
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>After article 4A<FootnoteRef Ref="f00004"/> (applications in respect of Crown land) insert—</Text>
+
+<!-- Where legislation amends another document the BlockAmendment element captures large block level amendments -->
+<!-- The TargetClass attribute defines the type of legislation is being amended -->
+<!-- The TargetSubClass attribute defines the type of legislation at a lower level -->
+<!-- The Context attribute states whether the body, a schedule or the contents of the document are being amended -->
+<!-- See the 'Amendments' section in the user guide for more details -->
+								
+								<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="order" Format="double">
+									<P1group>
+										<Title>Major infrastructure projects: economic impact report</Title>
+										<P1>
+											<Pnumber PuncAfter=".">4B</Pnumber>
+											<P1para>
+												<P2>
+													<Pnumber>1</Pnumber>
+													<P2para>
+														<Text>This article only applies in relation to major infrastructure projects where the Secretary of State has given a direction under section 76A(2) of the Act.</Text>
+													</P2para>
+												</P2>
+												<P2 id="p00011">
+													<Pnumber>2</Pnumber>
+													<P2para>
+														<Text>An economic impact report (“the report”) prepared by an applicant in accordance with section 76A(5) of the Act shall be in the form set out in Schedule 4A to this Order.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>3</Pnumber>
+													
+<!-- An InternalLink element can be used to link to another point or range in the document -->
+<!-- See the 'Linking and citations' section in the user guide for more details -->
+													
+													<P2para>
+														<Text>Subject to <InternalLink Ref="p00010">paragraph (5)</InternalLink>, the report shall contain the applicant’s estimates of the overall economic impact at—</Text>
+														
+<!-- This is a third-level numbered provision -->
+<!-- There are seven levels of numbered provision available -->			
+<!-- See the 'Provisions and paragraphs' section in the user guide for more details -->
+														
+														<P3 id="p00001">
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>local level;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>regional level;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>national level,</Text>
+															</P3para>
+														</P3>
+														<Text>of the project for which planning permission or approval, as the case may be, is sought.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>4</Pnumber>
+													<P2para>
+														<Text>Without prejudice to the generality of <InternalLink Ref="p00011">paragraph (2)</InternalLink>, each estimate shall—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>include estimates specific to employment, investment, economic output; and</Text>
+															</P3para>
+														</P3>
+														<P3 id="p00002">
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>separately identify the costs and benefits falling on or accruing to the local, regional or national community as the case may be.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2 id="p00010">
+													<Pnumber>5</Pnumber>
+													<P2para>
+														<Text>The estimates shall exclude factors which would lead to benefits being counted more than once.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>6</Pnumber>
+													<P2para>
+														<Text>The report shall—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>state the assumptions made in preparing the estimates;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>state the sources of information used to produce the estimates; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>where there is uncertainty as to any matter relevant to the estimates, shall explain that uncertainty.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>7</Pnumber>
+													<P2para>
+														<Text>The report shall be submitted to the Secretary of State not later than 15 weeks after the date on which the applicant received from the Secretary of State a written request for its submission.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>8</Pnumber>
+													<P2para>
+														<Text>The applicant shall, on submitting the report to the Secretary of State, publish in a local newspaper circulating in the locality in which the land to which the application relates is situated a notice stating—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>his name and that he is the applicant for planning permission or approval, as the case may be;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>the name and address of the local planning authority;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>the date on which the application was made and that it has been referred to the Secretary of State for determination as a major infrastructure project;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>d</Pnumber>
+															<P3para>
+																<Text>the location and nature of the proposed development;</Text>
+															</P3para>
+														</P3>
+														<P3 id="p00012">
+															<Pnumber>e</Pnumber>
+															<P3para>
+																<Text>an address in the locality at which the report may be inspected, and the latest day on which it will be available for inspection (being a date not less than 21 days from the date on which the notice is published);</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>f</Pnumber>
+															<P3para>
+																<Text>an address in the locality (whether or not the same as that given under sub-paragraph (e)) at which copies of the report may be obtained, on payment of a reasonable charge;</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>g</Pnumber>
+															<P3para>
+																<Text>the address of any website maintained by the applicant where a copy of the report may be viewed; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>h</Pnumber>
+															<P3para>
+																<Text>that any person wishing to make representations about the report should make them in writing, before the date stated in accordance with <InternalLink Ref="p00012">sub-paragraph (e)</InternalLink>, to the Secretary of State and the address to which such representations should be sent.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>9</Pnumber>
+													<P2para>
+														<Text>The applicant shall afford to any person who so requests a reasonable opportunity to inspect and, where practicable and on payment of a reasonable charge, take copies of the report.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>10</Pnumber>
+													<P2para>
+														<Text>In this article—</Text>
+
+<!-- The schema has both ordered and unordered lists -->
+<!-- The Class attribute is used to classify what type of list it is. In this case it is a list of definitions -->														
+<!-- See the 'Lists' section in the user guide for more details -->
+														
+														<UnorderedList Decoration="none" Class="Definition">
+															<ListItem>
+																<Para>
+																	<Text>“economic output” means the estimate of changes to either Gross Domestic Product or Gross Value Added as a result of the project;</Text>
+																</Para>
+															</ListItem>
+															<ListItem>
+																<Para>
+																	<Text>“local” for the purposes of paragraphs <InternalLink Ref="p00001">(3)(a)</InternalLink> and <InternalLink Ref="p00002">(4)(b)</InternalLink> means within the area of the relevant local planning authority; and</Text>
+																</Para>
+															</ListItem>
+															<ListItem>
+																<Para>
+																	<Text>“regional” means relating to a region specified in Schedule 1 to the Regional Development Agencies Act 1998<FootnoteRef Ref="f00005"/>.</Text>
+																</Para>
+															</ListItem>
+														</UnorderedList>
+													</P2para>
+												</P2>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								
+<!-- The AppendText element is used to mark up text that runs-on from the end of the amendment on the same line -->
+<!-- See the 'Amendments' section in the user guide for more details -->
+								
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In articles 9(2) (applications for planning permission referred to the Secretary of State for determination and appeals to the Secretary of State), 18 (notice of reference of applications to the Secretary of State) and 19(3) (representations to be taken into account), before “77” insert “76A or”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>After Schedule 4 insert Schedule 4A set out in the Schedule to this Order.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Consultation before the grant of planning permission</Title>
+				<P1 id="p00004">
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>In article 10—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>at the beginning of paragraph (4)(b) insert “subject to paragraph (4A)”;</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in paragraph (4)(b) for “14” substitute “21”; and</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>after paragraph (4) insert—</Text>
+
+<!-- The markup within an amendment is the same as that for the main body of the text -->
+<!-- See the 'Amendments' section in the user guide for more details -->
+								
+								<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+									<P2>
+										<Pnumber>4A</Pnumber>
+										<P2para>
+											<Text>Sub-paragraph (b) of paragraph (4) does not apply if before the end of the period referred to in that sub-paragraph—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>the local planning authority have received representations concerning the application from the consultee; or</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>the consultee gives notice that it does not intend to make representations.</Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Consultation with RPB or county planning authority</Title>
+				<P1 id="p00005">
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<Text>For article 11 (consultation with county planning authority) substitute—</Text>
+						<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="order" Format="double">
+							<P1group>
+								<Title>Consultation with RPB or county planning authority</Title>
+								<P1>
+									<Pnumber PuncAfter=".">11</Pnumber>
+									<P1para>
+										<Text>The period prescribed for the purposes of paragraph 7(7)(c) of Schedule 1 to the Act (local planning authorities - distribution of functions) is 21 days.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockAmendment>
+						<AppendText>.</AppendText>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Duty to respond to consultation</Title>
+				<P1 id="p00006">
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>After article 11 insert—</Text>
+						<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="order" Format="double">
+							<P1group>
+								<Title>Duty to respond to consultation</Title>
+								<P1>
+									<Pnumber PuncAfter=".">11A</Pnumber>
+									<P1para>
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>The requirements to consult which are prescribed for the purposes of section 54(2)(b) of the 2004 Act are those contained in—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>article 10;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>article 12;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>c</Pnumber>
+													<P3para>
+														<Text>paragraph (5)(a) of condition A.3 in Part 24 of the Town and Country Planning (General Permitted Development) Order 1995<FootnoteRef Ref="f00006"/>;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>d</Pnumber>
+													<P3para>
+														<Text>section 71(3) of the Act;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>e</Pnumber>
+													<P3para>
+														<Text>paragraph 4(2) of Schedule 1 to the Act;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>f</Pnumber>
+													<P3para>
+														<Text>paragraph 7 of Schedule 1 to the Act; and</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>g</Pnumber>
+													<P3para>
+														<Text>paragraph 3(b) of Schedule 4 to the Planning (Listed Buildings and Conservation Areas) Act 1990<FootnoteRef Ref="f00007"/>.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>2</Pnumber>
+											<P2para>
+												<Text>The period prescribed for the purposes of section 54(4)(a) of the 2004 Act is the period of 21 days beginning with the day on which—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the document on which the views of consultees are sought; or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>where there is more than one such document and they are sent on different days, the last of those documents,</Text>
+													</P3para>
+												</P3>
+												<Text>is received by the consultee, or such other period as may be agreed in writing between the consultee and the consultor.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>3</Pnumber>
+											<P2para>
+												<Text>The information to be provided to the consultee for the purposes of the consultation, pursuant to section 54(5)(b) of the 2004 Act, is such information as will enable that person to provide a substantive response.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>4</Pnumber>
+											<P2para>
+												<Text>For the purposes of this article and article 11B, and pursuant to section 54(5)(c) of the 2004 Act, a substantive response is one which—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>states that the consultee has no comment to make;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>states that, on the basis of the information available, the consultee is content with the development proposed;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>c</Pnumber>
+													<P3para>
+														<Text>refers the consultor to current standing advice by the consultee on the subject of the consultation; or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>d</Pnumber>
+													<P3para>
+														<Text>provides advice to the consultor.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>5</Pnumber>
+											<P2para>
+												<Text>In this article and article 11B, “the 2004 Act” means the Planning and Compulsory Purchase Act 2004<FootnoteRef Ref="f00008"/>.</Text>
+											</P2para>
+										</P2>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group>
+								<Title>Duty to respond to consultation— annual reports</Title>
+								<P1>
+									<Pnumber PuncAfter=".">11B</Pnumber>
+									<P1para>
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>Each consultee who is, by virtue of section 54 of the 2004 Act and article 11A, under a duty to respond to consultation shall give to the Secretary of State, not later than 1st July in each year beginning with the year commencing on 1st January 2006, a report as to that consultee’s compliance with section 54(4) of the 2004 Act.</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>2</Pnumber>
+											<P2para>
+												<Text>The report shall relate to the period of 12 months commencing on 1st April in the preceding year (“the report year”).</Text>
+											</P2para>
+										</P2>
+										<P2>
+											<Pnumber>3</Pnumber>
+											<P2para>
+												<Text>The report shall contain, in respect of the relevant report year—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>a statement as to the number of occasions on which the consultee was consulted by a person other than a local planning authority;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>a statement as to the number of occasions on which a substantive response was given to a person other than a local planning authority within the period referred to in section 54(4) of the 2004 Act;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>c</Pnumber>
+													<P3para>
+														<Text>a statement as to the number of occasions on which the consultee was consulted by a local planning authority;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>d</Pnumber>
+													<P3para>
+														<Text>a statement as to the number of occasions on which a substantive response was given to a local planning authority within the period referred to in section 54(4) of the 2004 Act;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>e</Pnumber>
+													<P3para>
+														<Text>in relation to occasions on which the consultee has given a substantive response outside the period referred to in section 54(4) of the 2004 Act, a summary of the reasons why the consultee failed to comply with the duty to respond within that period.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockAmendment>
+						<AppendText>.</AppendText>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Applications relating to county matters</Title>
+				<P1 id="p00007">
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<Text>In article 12—</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in paragraph (1)—</Text>
+								<P4>
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>for “A County” substitute “Subject to paragraph (1A), a county”; and</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>for “14” substitute “21”; and</Text>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>after paragraph (1) insert—</Text>
+								<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="order" Format="double">
+									<P2>
+										<Pnumber>1A</Pnumber>
+										<P2para>
+											<Text>Paragraph (1) does not prevent a county planning authority determining an application if before the end of the period referred to in that paragraph—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>the authority have received recommendations concerning the application from the district planning authority; or</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>the district planning authority gives notice that they do not intend to make recommendations.</Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Notice to parish and community councils</Title>
+				<P1 id="p00008">
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<Text>In article 13 for “14” substitute “21” in both places where the number appears.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Schedule 1</Title>
+				<P1 id="p00009">
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Part 1 of Schedule 1 (letter to be sent to applicant) for the words “Planning Inspectorate at Tollgate House, Houlton Street, Bristol BS2 9DJ” substitute “Planning Inspectorate at Temple Quay House, 2 The Square, Temple Quay, Bristol BS1 6PN”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In Part 2 of Schedule 1 (notification to be sent to the applicant) for the words “Planning Inspectorate at Tollgate House, Houlton Street, Bristol BS2 9DJ” substitute “Planning Inspectorate at Temple Quay House, 2 The Square, Temple Quay, Bristol BS1 6PN”.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+
+<!-- This is the section where the signatories to the document are stored -->			
+<!-- See the 'Signatures' section in the user guide for more details -->
+			
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the First Secretary of State</Text>
+					</Para>
+					<Signee>
+						<PersonName>Yvette Cooper</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Department>Office of the Deputy Prime Minister</Department>
+						<DateSigned Date="2005-07-25">
+							<DateText>25th July 2005</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		
+<!-- This is the schedules section of the document -->		
+<!-- See the 'Schedules' section in the user guide for more details -->
+		
+		<Schedules>
+			<Schedule id="p00100">
+				<Number>SCHEDULE </Number>
+				<Reference>Article 3</Reference>
+				<ScheduleBody>
+					<BlockAmendment Context="schedule" TargetSubClass="order" Format="double" TargetClass="secondary">
+						<Schedule>
+							<Number>SCHEDULE 4A</Number>
+							<Reference>Article 4B</Reference>
+							<ScheduleBody>
+							
+<!-- Forms can be held as legislation markup or markup from another namespace via the IncludedDocument element -->
+<!-- Included documents are documents not coded to the main schema -->
+
+								<Form>
+									<IncludedDocument ResourceRef="r00001"/>
+								</Form>
+							</ScheduleBody>
+						</Schedule>
+					</BlockAmendment>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+
+<!-- This section is where explanatory notes and possibly earlier orders are stored -->		
+<!-- See the 'Explanatory Notes' section in the user guide for more details -->
+		
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>This Order amends the <Citation id="c00043" Number="419" Class="UnitedKingdomStatutoryInstrument" Year="1995">Town and Country Planning (General Development Procedure) Order 1995</Citation> (“the 1995 Order”) in consequence of provisions in the <Citation id="c00044" Number="5" Class="UnitedKingdomPublicGeneralAct" Year="2004">Planning and Compulsory Purchase Act 2004</Citation>. It also makes certain other minor amendments.</Text>
+			</P>
+			<P>
+				<Text><InternalLink Ref="p00003">Article 3</InternalLink> and the <InternalLink Ref="p00100">Schedule</InternalLink> insert into the 1995 Order, where appropriate, references to <CitationSubRef id="c00046" CitationRef="c00045">section 76A</CitationSubRef> of the <Citation id="c00045" Number="8" Class="UnitedKingdomPublicGeneralAct" Year="1990">Town and Country Planning Act 1990</Citation> (major infrastructure projects) and prescribes the content and form of the economic impact report required by that section.</Text>
+			</P>
+			
+<!-- A CitationSubRef links a reference to a fragment of legislation to the main reference to the legislation -->
+<!-- See the 'Linking and citations' section in the user guide for more details -->
+			
+			<P>
+				<Text>Articles <InternalLink Ref="p00004">4</InternalLink>, <InternalLink Ref="p00007">7</InternalLink> and <InternalLink Ref="p00008">8</InternalLink> amend <CitationSubRef id="c00048" CitationRef="c00043">articles 10, 12 and 13</CitationSubRef> of the 1995 Order respectively and extend the consultation period which must elapse before an application can be determined from 14 to 21 days. <InternalLink Ref="p00005">Article 5</InternalLink> substitutes <CitationSubRef id="c00055" CitationRef="c00043">article 11</CitationSubRef> of the 1995 Order and prescribes 21 days, for the purposes of paragraph <CitationSubRef id="c00058" CitationRef="c00059">7(7)(c)</CitationSubRef> of <CitationSubRef id="c00059" CitationRef="c00056">Schedule 1</CitationSubRef> to the <Citation id="c00047" Number="8" Class="UnitedKingdomPublicGeneralAct" Year="1990">Town and Country Planning Act 1990</Citation>, as the period which must elapse before an application can be determined.</Text>
+			</P>
+			<P>
+				<Text><InternalLink Ref="p00006">Article 6</InternalLink> inserts new articles 11A and 11B into the 1995 Order. The new articles prescribe the requirements to consult to which the duty to respond to consultation in <CitationSubRef id="c00054" CitationRef="c00053">section 54</CitationSubRef> of the <Citation id="c00052" Number="5" Class="UnitedKingdomPublicGeneralAct" Year="2004">Planning and Compulsory Purchase Act 2004</Citation> is to apply, prescribe 21 days as the period within which the consultee must give a substantive response to consultation, prescribe the information required to be provided to consultees and prescribe what constitutes a “substantive response”. They also prescribe the content of annual reports to the Secretary of State on consultees’ performance.</Text>
+			</P>
+			<P>
+				<Text><InternalLink Ref="p00009">Article 9</InternalLink> makes minor amendments to <CitationSubRef id="c00051" CitationRef="c00043">Schedule 1</CitationSubRef> to the 1995 Order.</Text>
+			</P>
+			<P>
+				<Text>A regulatory impact assessment was prepared in relation to <CitationSubRef id="c00050" CitationRef="c00049">Part 4</CitationSubRef> of the <Citation id="c00049" Number="5" Class="UnitedKingdomPublicGeneralAct" Year="2004">Planning and Compulsory Purchase Act 2004</Citation>. A further assessment has been prepared in relation to <InternalLink Ref="p00003">article 3</InternalLink> of this Order. Both assessments have been placed in the Library of each House of Parliament and copies may be obtained from PDCD(d), Office of the Deputy Prime Minister, Eland House, Bressenden Place, London SW1E 5DU (Telephone 020 7944 3936).</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	
+<!-- This is the footnotes section of the document. All footnotes are stored together within the Footnotes element -->	
+<!-- See the 'Footnotes and marginnotes' section in the user guide for more details -->
+	
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1990" Number="0008">1990 c.8</Citation>. <CitationSubRef id="c00028" CitationRef="c00001" Type="group">Sections 71, 77(4) and 79(4)</CitationSubRef> were amended by the <Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1991" Number="0034">Planning and Compensation Act 1991 (c. 34)</Citation>, <CitationSubRef id="c00029" CitationRef="c00002">section 32</CitationSubRef> and <CitationSubRef id="c00032" CitationRef="c00030" Type="group">paragraphs 7, 18 and 19</CitationSubRef> of <CitationSubRef id="c00030" CitationRef="c00002">Schedule 7</CitationSubRef>. <CitationSubRef id="c00031" CitationRef="c00001">Sections 76A and 78A</CitationSubRef> were inserted, and <CitationSubRef id="c00034" CitationRef="c00033">paragraph 7</CitationSubRef> of <CitationSubRef id="c00033" CitationRef="c00001">Schedule 1</CitationSubRef> was substituted, by the <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0005">Planning and Compulsory Purchase Act 2004 (c. 5)</Citation>, <CitationSubRef id="c00037" CitationRef="c00003">sections 44, 50</CitationSubRef> and <CitationSubRef id="c00036" CitationRef="c00035">paragraph 16(4)</CitationSubRef> of <CitationSubRef id="c00035" CitationRef="c00003">Schedule 6</CitationSubRef>. The functions of the Secretary of State under <CitationSubRef id="c00038" CitationRef="c00001">sections 59, 71, 77(4), 78(3), 78A(6) and 79(4)</CitationSubRef> of, and <CitationSubRef id="c00040" CitationRef="c00039">paragraph 7</CitationSubRef> of <CitationSubRef id="c00039" CitationRef="c00001">Schedule 1</CitationSubRef> to the 1990 Act are, so far as exercisable in relation to Wales, exercisable by the National Assembly for Wales by virtue of the <Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0672">National Assembly for Wales (Transfer of Functions) Order 1999, S.I. 1999/672</Citation>: see article 2 and the entry in Schedule 1 for the 1990 Act, and <CitationSubRef id="c00042" CitationRef="c00041">section 118(3)</CitationSubRef> of the <Citation id="c00041" Number="5" Class="UnitedKingdomPublicGeneralAct" Year="2004">Planning and Compulsory Purchase Act 2004</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0005">2004 c. 5</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0419">S.I. 1995/419</Citation>. Relevant amendments were made by the <Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1995" Number="0025">Environment Act 1995 (c. 25)</Citation>, <CitationSubRef id="c00026" CitationRef="c00007">Schedule 22</CitationSubRef> <CitationSubRef id="c00027" CitationRef="c00026">paragraph 233</CitationSubRef> and by <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="1563">S.I. 1992/1563</Citation>, <Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="1139">1995/1139</Citation>, <Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="0396">1996/396</Citation>, <Citation id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="0593">1996/593</Citation>, <Citation id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1817">1996/1817</Citation>, <Citation id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="0858">1997/858</Citation>, <Citation id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0981">1999/981</Citation>, <Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="2047">2003/2047</Citation> and <Citation id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="3340">2004/3340</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>Article 4A was inserted by <Citation id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="1139">S.I. 1995/1139</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00018" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0045">1998 c.45</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0418">S.I. 1995/418</Citation> to which there are amendments not relevant to this instrument.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00020" Class="UnitedKingdomPublicGeneralAct" Year="1990" Number="0009">1990 c. 9</Citation>. <CitationSubRef id="c00025" CitationRef="c00024">Paragraph (3)</CitationSubRef> of <CitationSubRef id="c00024" CitationRef="c00020">Schedule 4</CitationSubRef> was substituted by the <Citation id="c00021" Class="UnitedKingdomPublicGeneralAct" Year="1991" Number="0034">Planning and Compensation Act 1991 (c.34)</Citation>, <CitationSubRef id="c00023" CitationRef="c00021">Schedule 7(61)</CitationSubRef>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00022" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0005">2004 c.5</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	
+<!-- This is the resources section of the document. All items such as images are stored in this section -->	
+<!-- See the 'Resources' section in the user guide for more details -->
+	
+	<Resources>
+		<Resource id="r00001">
+
+<!-- An ExternalVersion element references a file external to the main file -->
+<!-- See the 'Resources' section in the user guide for more details -->
+
+			<ExternalVersion URI="uksi_20052087_en_001.tif" Format="tiff"/>
+		</Resource>
+	</Resources>
+	
+</Legislation>

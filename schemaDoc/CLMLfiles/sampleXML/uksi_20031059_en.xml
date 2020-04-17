@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Social Security (Contributions) (Amendment No. 3) Regulations 2003</dc:title>
+		<dc:subject>SOCIAL SECURITY</dc:subject>
+		<dc:identifier>urn:isbn:011045670X</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1059"/>
+			<ukm:Made Date="2003-04-09"/>
+			<ukm:Laid Date="2003-04-09" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2003-04-10"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1059</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>SOCIAL SECURITY</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Social Security (Contributions) (Amendment No. 3) Regulations 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>9th April 2003</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>9th April 2003</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>10th April 2003</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Treasury, with the concurrence of the Secretary of State, in exercise of the powers conferred upon them by sections 3(2) and (3) and 175(3) of the Social Security Contributions and Benefits Act 1992<FootnoteRef Ref="f00001"/>, and, with the concurrence of the Department for Social Development, in exercise of the powers conferred upon them by sections 3(2) and (3) and 171(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992<FootnoteRef Ref="f00002"/>, hereby make the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and interpretation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Social Security (Contributions) (Amendment No. 3) Regulations 2003 and shall come into force on 10th April 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In these Regulations—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“the principal Regulations” means the Social Security (Contributions) Regulations 2001<FootnoteRef Ref="f00003"/>; and</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>a reference to a numbered Schedule is a reference to the Schedule to the principal Regulations bearing that number.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the principal Regulations</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>Amend the principal Regulations as follows.</Text>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Amend Schedule 2 (calculation of earnings for the purposes of earnings-related contributions in particular cases) as follows.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>At the end of sub-paragraph (1) of each of paragraphs 10 and 11 add “except where paragraph 11A applies”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>After paragraph 11 (exercise of right to acquire shares gained as a director or employee before 6th April 1999) insert—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="schedule" Format="default">
+									<P1group>
+										<Title>Exercise, assignment or release of share option — market value of option or resulting shares increased by things done otherwise than for genuine commercial purposes</Title>
+										<P1>
+											<Pnumber>11A</Pnumber>
+											<P1para>
+												<P2>
+													<Pnumber>1</Pnumber>
+													<P2para>
+														<Text>This paragraph applies for calculating or estimating the amount of earnings which is comprised in a payment which—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>would be disregarded in the computation of earnings for the purposes of earnings-related contributions by virtue of paragraph 16 of Part 9 of Schedule 3; but</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>is not disregarded because paragraph 17 of that Part applies to it.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>2</Pnumber>
+													<P2para>
+														<Text>If this paragraph applies, the amount of earnings to be taken into account for the purpose of earnings related contributions is the amount which would, but for paragraph 16 of Part 9 of Schedule 3, have been taken into account by virtue of section 4(4)(a) of the Act<FootnoteRef Ref="f00004"/>.</Text>
+													</P2para>
+													<P2para>
+														<Text>This is subject to the following qualification.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>3</Pnumber>
+													<P2para>
+														<Text>If—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>the right to acquire shares in a body corporate is not capable of being exercised more than ten years after the date on which it was obtained,</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>an amount of earnings was taken into account for the purpose of earnings-related contributions in respect of the earner’s obtaining that right, at the time he obtained it (“the deductible amount”), and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>c</Pnumber>
+															<P3para>
+																<Text>no exercise, assignment or release of the whole or any part of—</Text>
+																<P4>
+																	<Pnumber>i</Pnumber>
+																	<P4para>
+																		<Text>that right,</Text>
+																	</P4para>
+																</P4>
+																<P4>
+																	<Pnumber>ii</Pnumber>
+																	<P4para>
+																		<Text>any right replacing that right (“a replacement right”), or</Text>
+																	</P4para>
+																</P4>
+																<P4>
+																	<Pnumber>iii</Pnumber>
+																	<P4para>
+																		<Text>any subsequent replacement right,</Text>
+																	</P4para>
+																</P4>
+																<Text>has occurred on or after 10th April 2003,</Text>
+															</P3para>
+														</P3>
+														<Text>the deductible amount may be deducted from the amount otherwise to be taken into account by virtue of this paragraph.</Text>
+													</P2para>
+												</P2>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Amend Part 9 of Schedule 3 (share incentives to be disregarded in the computation of earnings)<FootnoteRef Ref="f00005"/> as follows.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In paragraph 16 (exercise, assignment or release of options acquired before 6th April 1999)—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in sub-paragraph (1) for the words from “chargeable to tax under Schedule E by virtue of section 135 of the Taxes Act” to the end substitute—</Text>
+										<BlockAmendment PartialRefs="p10000" TargetClass="primary" TargetSubClass="unknown" Context="schedule" Format="default">
+											<P2para>
+												<Text id="p10000">chargeable to tax as employment income by virtue of section 476 or section 477 of the Income Tax (Earnings and Pensions) Act 2003<FootnoteRef Ref="f00006"/>.</Text>
+											</P2para>
+											<P2para>
+												<Text>A payment is not disregarded by virtue of this paragraph if—</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>each of the conditions in sub-paragraphs (2) to (5) is met; or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>paragraph 17 applies to it.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</BlockAmendment>
+										<AppendText>; and</AppendText>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in sub-paragraph (4) for “section 136(1) of the Taxes Act” substitute “section 485 of the Income Tax (Earnings and Pensions) Act 2003”.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>At the end of Part 9 add—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1group>
+										<Title>Payments resulting from exercise, assignment or release of options which are not disregarded by virtue of paragraph 16</Title>
+										<P1>
+											<Pnumber>17</Pnumber>
+											<P1para>
+												<P2>
+													<Pnumber>1</Pnumber>
+													<P2para>
+														<Text>This paragraph applies to a payment—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>made on or after 10th April 2003, and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>which would otherwise fall to be disregarded by virtue of paragraph 16 of this Part,</Text>
+															</P3para>
+														</P3>
+														<Text>where the market value of the shares has been increased by more than 10% by things done, on or after 6th April 1999, otherwise than for genuine commercial purposes.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>2</Pnumber>
+													<P2para>
+														<Text>For the purposes of sub-paragraph (1) “the shares” includes—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>the shares subject to the right currently being exercised; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>where the right to acquire shares held on 6th April 1999 has been replaced by a subsequent right, includes the shares subject to the replacement right and any subsequent replacement right.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>3</Pnumber>
+													<P2para>
+														<Text>The following are among the things that are, for the purposes of this paragraph, done otherwise than for genuine commercial purposes—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>anything done as part of a scheme or arrangement the main purpose, or one of the main purposes, of which is the avoidance of tax or of contributions under the Act; and</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>any transaction between companies which, at the time of the transaction, are members of the same group on terms which are not such as might be expected to be agreed between persons acting at arm’s length.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>4</Pnumber>
+													<P2para>
+														<Text>But sub-paragraph (3)(b) does not apply to a payment for group relief within the meaning given in section 402(6) of the Taxes Act<FootnoteRef Ref="f00007"/>.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>5</Pnumber>
+													<P2para>
+														<Text>In sub-paragraph (3)(b) “group” means a body corporate and its 51% subsidiaries (within the meaning of section 838 of the Taxes Act), and other expressions used in this paragraph which are defined in, or for the purposes of, paragraph 16 have the same meaning here as they have in that paragraph.</Text>
+													</P2para>
+												</P2>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+
+<!-- User guide example: UG02401. Taken from the section 'Signatures' -->
+			
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Jim Fitzpatrick</PersonName>
+						<PersonName>John Heppell</PersonName>
+						<JobTitle>Two of the Lords Commissioners of Her Majesty’s Treasury</JobTitle>
+						<DateSigned Date="2003-04-09">
+							<DateText>9th April 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+				<Signatory>
+					<Para>
+						<Text>The Secretary of State hereby concurs</Text>
+					</Para>
+					<Para>
+						<Text>Signed by the authority of the Secretary of State</Text>
+					</Para>
+					<Signee>
+						<PersonName>Maria Eagle</PersonName>
+						<JobTitle>Parliamentary Under Secretary of State</JobTitle>
+						<Department>Department for Work and Pensions</Department>
+						<DateSigned Date="2003-04-09">
+							<DateText>9th April 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+				<Signatory Date="2003-04-09">
+					<Para>
+						<Text>The Department for Social Development hereby concurs</Text>
+					</Para>
+					<Para>
+						<Text>Sealed with the Official Seal of the Department for Social Development on 9th April 2003</Text>
+					</Para>
+					<Signee>
+						<LSseal Date="2003-04-09"/>
+						<PersonName>Henry Johnston</PersonName>
+						<JobTitle>Senior Officer of the</JobTitle>
+						<Department>Department for Social Development</Department>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">These Regulations amend the Social Security (Contributions) Regulations 2001 (S.I. <Citation id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1004">2001/1004</Citation>: “the principal Regulations”).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 1 provides for the Citation and commencement of these Regulations, and for interpretation.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 2 introduces the amendments to the principal Regulations.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 3 amends Schedule 2 to the principal Regulations by inserting a new paragraph 11A. This provides a method of valuing the amount of earnings comprised in the acquisition of shares where their value, or that of an option by means of which they have been acquired, has been increased by things done otherwise than for genuine commercial purposes. It also makes consequential amendments to Schedule 2.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation 4 amends Part 9 of Schedule 3 to the principal Regulations, amending paragraph 16 of that Part and adding a new paragraph. The effect of these amendments is that, on or after 10th April 2003, earnings arising from a payment by way of a gain realised by the exercise, assignment or release of a right obtained before 6th April 1999 to acquire shares, and which would otherwise be disregarded by paragraph 16, will not be disregarded if the market value of the shares, or that of any right by reason of which they have been acquired, is increased by more than 10% by things done, on or after 6th April 1999, otherwise than for genuine commercial purposes.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0004">1992 c. 4</Citation>. Section 3(2) was amended by paragraph 3 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act <Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0002">1999 (c. 2)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0007">1992 c. 7</Citation> (“the Northern Ireland Benefits Act”). Section 3(2) was amended by paragraph 4 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 
+						<Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0671">1999/671</Citation>). The functions of the Department of Health and Social Services for Northern Ireland under the Northern Ireland Benefits Act were transferred to the Department for Social Development by Article 8(b) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 (S.R. 
+						<Citation id="c00005" Class="NorthernIrelandStatutoryRule" Year="1999" Number="0481">1999 No. 481</Citation>).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1004">2001/1004</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>Subsection (4) was substituted by section 50(1) of the Social Security Act <Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0014">1998 (c. 14)</Citation>, and paragraph (a) was further substituted by paragraph 172(2) of Schedule 6 to the Income Tax (Earnings and Pensions) Act <Citation id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="0001">2003 (c. 1)</Citation>. As to the construction of references in the principal Regulations to enactments not applying in Northern Ireland, see regulation 156(3) of those Regulations.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>There is an amendment to Part 9 of Schedule 3 which is not relevant for present purposes.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="0001">2003 c. 1</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>Section 406(2) was amended by paragraph 5(1) of Schedule 7 to the Finance (No. 2) Act <Citation id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0058">1997 (c. 58)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

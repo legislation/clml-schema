@@ -1,0 +1,1333 @@
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Cattle Passports Order 1996</dc:title>
+		<dc:subject>Animals</dc:subject>
+		<dc:identifier>urn:isbn:0110627539</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1996"/>
+			<ukm:Number Value="1686"/>
+			<ukm:Made Date="1996-06-28"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1996-07-01"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Contents>
+		<ContentsTitle>Arrangment of Articles</ContentsTitle>
+		<ContentsItem>
+			<ContentsNumber>1</ContentsNumber>
+			<ContentsTitle>Title and commencement</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>2</ContentsNumber>
+			<ContentsTitle>Application and interpretation</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>3</ContentsNumber>
+			<ContentsTitle>Movement of animals with cattle passports</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>4</ContentsNumber>
+			<ContentsTitle>Movement of calves under 28 days without a cattle passport</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>5</ContentsNumber>
+			<ContentsTitle>Imported cattle</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>6</ContentsNumber>
+			<ContentsTitle>Application for a passport</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>7</ContentsNumber>
+			<ContentsTitle>Completion of cattle passports when cattle are moved off holdings</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>8</ContentsNumber>
+			<ContentsTitle>Completion of cattle passports at a market</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>9</ContentsNumber>
+			<ContentsTitle>Completion of cattle passports when cattle are moved on to a holding</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>10</ContentsNumber>
+			<ContentsTitle>Slaughterhouses, knackers' yards and hunt kennels</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>11</ContentsNumber>
+			<ContentsTitle>Retention of cattle passports</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>12</ContentsNumber>
+			<ContentsTitle>Change of ear tag number</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>13</ContentsNumber>
+			<ContentsTitle>Lost passports</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>14</ContentsNumber>
+			<ContentsTitle>Export of cattle</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>15</ContentsNumber>
+			<ContentsTitle>Animal deaths</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>16</ContentsNumber>
+			<ContentsTitle>Late applications</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>17</ContentsNumber>
+			<ContentsTitle>Amendment to the Bovine Animals (Records, Identification and Movement) Order 1995</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem>
+			<ContentsNumber>18</ContentsNumber>
+			<ContentsTitle>Enforcement</ContentsTitle>
+		</ContentsItem>
+		<ContentsSchedules>
+			<ContentsSchedule>
+				<ContentsNumber>Schedule</ContentsNumber>
+				<ContentsTitle>Form of cattle passport</ContentsTitle>
+			</ContentsSchedule>
+		</ContentsSchedules>
+	</Contents>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>1996 No. 1686</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Animals</Title>
+					<Subtitle>Animal Health</Subtitle>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Cattle Passports Order 1996</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>28th June 1996</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st July 1996</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1 and 8(1) of the Animal Health Act 1981<FootnoteRef Ref="f00001"/>, and of all other powers enabling them in that behalf, hereby make the following Order:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Title and commencement</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>This Order may be cited as the Cattle Passports Order 1996 and shall come into force on 1st July 1996.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Application and interpretation</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order shall apply in relation to cattle born in Great Britain on or after the coming into force of this Order, and to cattle imported into Great Britain on or after that date.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In this Order—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“calf passport” means a document in such form as may be approved by the appropriate Minister for the purposes of moving calves under 28 days old in accordance with article 4 below;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“cattle” means domestic animals of the bovine species (including Bubalus bubalis);</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“cattle passport” means a document containing the information set out in the Schedule to this Order in the form issued by the appropriate Minister with sufficient space for it to be completed by a succession of keepers;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“holding” means any establishment, construction or, in the case of an open air farm, any place in which animals are held, kept or handled, but does not include a border inspection post specified for the purposes of importing live animals from outside the European Union;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“import” and “export” mean import and export into and out of Great Britain;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“keeper” means any natural or legal person having care and control of animals, even on a temporary basis.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In this Order any reference to a Community instrument is to that instrument as amended at the date this Order is made.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Any licence issued under this Order shall be in writing and may be made subject to conditions and may be amended or revoked by notice in writing at any time.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Movement of animals with cattle passports</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Subject to the following provisions of this Order, no person shall move cattle on to or off any holding, or between separately managed herds on the same holding, unless the animal is accompanied by a cattle passport which has been issued and duly completed in accordance with this Order and which bears the same number as the ear tag attached to the animal.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Any cattle passport issued under the provisions of this Order shall remain the property of the appropriate Minister and shall be produced or surrendered to an officer of the Minister of Agriculture, Fisheries and Food, the Secretary of State or the local authority on demand.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The Minister of Agriculture, Fisheries and Food or the Secretary of State may at any time issue a licence for cattle to be moved without a passport if he is satisfied that it is necessary to do so and that it is not practicable to obtain a passport.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Movement of calves under 28 days without a cattle passport</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The requirement for a cattle passport shall not apply in the case of calves under 28 days old provided that the provisions of this article are complied with.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>If it moves off a holding, each animal shall be accompanied by a completed calf passport which has been completed and signed by the keeper of the animal at the holding of birth and any subsquent keeper in the same way as a cattle passport.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The calf passport shall be completed at any market to which the animal is taken as if it were a cattle passport.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>If the animal is sold, the calf passport duly completed shall be given by the seller to the buyer.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>The animal shall not be moved between holdings more than twice in the 28 day period, except that for the purposes of this paragraph movement between two holdings through a market shall count as one movement.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>The person who is the keeper of the animal when it reaches the age of 28 days shall, within 15 days of it reaching that age and in any event before the animal is moved off a holding again, apply to the appropriate Minister for a passport for it, using the calf passport duly completed in accordance with this article as an application form; and the animal shall not be moved off the holding until the cattle passport has been received.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>Nothing in this article shall prevent the keeper of an animal which has not been moved off its holding of origin applying for a cattle passport for an animal before it reaches the age of 28 days using an application form in the form approved under article 6 below, but if he does so he shall not move the animal off the holding of origin until he has received the passport.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Imported cattle</Title>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The requirement for cattle to be accompanied by a cattle passport shall not apply in the case of cattle imported for slaughter.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In the case of cattle imported other than for slaughter, the requirement for cattle to be accompanied by a cattle passport shall not apply to the movement between the place the cattle enter Great Britain and the place of destination declared on the health certificate accompanying the animal; and where the place of destination is a market, the requirement shall in addition not apply to the movement between that market and the first holding to which the animal is sent from the market.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Application for a passport</Title>
+				<P1>
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Any person who keeps cattle (other than cattle which have been moved using a calf passport in accordance with article 4 above) shall apply for a cattle passport within 28 days of an animal being marked with an ear tag in accordance with the Bovine Animals (Records, Identification and Movement) Order 1995<FootnoteRef Ref="f00002"/> or, in the case of an animal imported into Great Britain, within 14 days of arrival.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>An application for a cattle passport shall be made in writing to the appropriate Minister and shall be in such form as the appropriate Minister shall approve.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The application shall be signed by or on behalf of the keeper.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The application shall contain the following information in all cases —</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the ear tag number, breed and sex of the animal; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>such other information as the appropriate Minister may reasonably require.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>In the case of an animal born in Great Britain, the application form shall also contain the following information—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the official County, Parish, Holding and Herd number of the herd of birth;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the address of the holding;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the date of birth of the animal;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>the ear tag number or other identification of the dam as provided for in the Bovine Animals (Records, Identification and Movement) Order 1995.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>In the case of an animal imported into Great Britain the application form shall also contain the following information —</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the country of origin;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the date the animal arrived in Great Britain;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the official County, Parish, Holding and Herd number of the herd into which the animal was first introduced following arrival in Great Britain;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>the address of the holding;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>in the case of an animal imported from another part of the European Economic Area, the ear tag number;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>f</Pnumber>
+									<P3para>
+										<Text>in the case of an animal imported from outside the European Economic Area, the identification mark of the animal at the time of importation.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Completion of cattle passports when cattle are moved off holdings</Title>
+				<P1>
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>When cattle are moved off the holding of birth (or the first holding after arrival in Great Britain) for the purposes of sale or slaughter, the keeper shall complete and sign the box headed “seller’s details” in Part II of the cattle passport for each animal before the animal is moved off the holding.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>When cattle are moved off any subsequent holding (other than a market) for the purposes of sale or slaughter, the keeper shall complete and sign the next empty box headed “seller’s details” in Part II of the cattle passport for each animal before the animal is moved off the holding.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>When cattle are moved from one herd to another on the same holding, the keeper of each herd shall complete and sign the next empty boxes headed “seller’s details” and “buyer’s details” in Part II of the cattle passport as if the keeper of the first herd were the seller and the keeper of the second herd were the buyer.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>When cattle are taken to a show, fair or similar function and it is intended to return the animal to the same holding, the keeper—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>before moving the animal off the holding shall complete the next empty box marked “seller’s details” in Part II of the cattle passport as if the movement were for the purposes of sale;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>on arrival at the show stall mark the box headed “details of market” with the name and address of the show; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>on returning to the original holding complete the box marked “buyer’s details” in Part II of the cattle passport as if he were the buyer within 36 hours of arrival or before the animal is moved off that holding if sooner.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>A keeper shall not be required to complete a cattle passport in the case of an animal moving from one holding to another holding for the purposes of temporary grazing, providing the animal does not come into contact with any cattle from a different herd; but if the animal comes into contact with an animal from another herd the keeper shall complete the details of the cattle passport as if the movement were a movement for the purposes of sale or slaughter.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Completion of cattle passports at a market</Title>
+				<P1>
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>When cattle arrive at a market, the keeper shall present the cattle passport for each animal to the market operator for completion, and the market operator shall complete the box in Part II of the cattle passport headed “details of market”, including, if it is a market approved for the purposes of Council Directive 64/432/EEC (on animal health problems affecting intra-Community trade in bovine animals and swine)<FootnoteRef Ref="f00003"/>, the collection centre number allotted to that market for the purposes of that directive in the box marked “CC Number”.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>No person shall remove cattle from a market unless each animal has had its passport completed in accordance with this article.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In the case of an animal aged under 12 weeks the market operator shall record—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the name and address of the seller;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the name and address of the buyer if known;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the ear tag number of the animal;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>the date of the sale; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>where the calf has been brought to a market within the previous 28 days, the address of that market and the date on which the calf was brought there,</Text>
+									</P3para>
+								</P3>
+								<Text>and shall keep such record for six months.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Completion of cattle passports when cattle are moved on to a holding</Title>
+				<P1>
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<Text>When cattle are moved on to a holding other than a market or slaughterhouse, the keeper shall complete and sign the next empty box headed “buyer’s details” (whether or not he in fact brought the animal) in Part II of the cattle passport for each animal within 36 hours of its arrival on the holding and in any event before it is moved off the holding.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Slaughterhouses, knackers' yards and hunt kennels</Title>
+				<P1>
+					<Pnumber>10</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>No person shall accept cattle at a slaughterhouse for slaughter unless each animal which is required to have a cattle passport or calf passport is accompanied by that document.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>When cattle arrive at a slaughterhouse, the person in charge of the cattle shall give to the occupier of the slaughterhouse the cattle passport or calf passport for each animal duly completed.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Following slaughter, the occupier of the slaughterhouse shall immediately give the cattle passport or calf passport for each animal slaughtered to the official veterinary surgeon designated under regulation 8 of the Fresh Meat (Hygiene and Inspection) Regulations 1995<FootnoteRef Ref="f00004"/> or his representative, together with notification of the fact that the animal has been slaughtered.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>If an animal arrives at a slaughterhouse without a passport or with the wrong passport, it shall not be moved from the slaughterhouse except under the authority of a licence granted by the official veterinary surgeon designated in accordance with paragraph (3) above or his representative.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Any person who collects any live cattle for killing at a knacker’s yard or hunt kennel, or any dead cattle which have been killed on a holding or died on a holding other than a slaughterhouse, shall collect the passport or calf passport for that animal (if it has one) at the same time as he collects the animal, and shall either—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>send the passport or calf passport (if it has one) to the appropriate Minister within 21 days of collection, giving the address of the holding of collection and indicating that the animal has been killed; or</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if the animal did not have a passport or calf passport, notify the appropriate Minister within 21 days of collection of the animal of the ear tag number of the animal and the address of the holding of collection.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Retention of cattle passports</Title>
+				<P1>
+					<Pnumber>11</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The keeper of cattle on a holding shall ensure that, once a cattle passport has been completed for an animal, the passport is kept on that holding at all times that the cattle are on the holding.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Whenever cattle are transported, the transporter shall ensure that each animal is accompanied throughout its journey by its cattle passport duly completed.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>When cattle are sold, the seller shall give each animal’s cattle passport duly completed to the buyer.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Change of ear tag number</Title>
+				<P1>
+					<Pnumber>12</Pnumber>
+					<P1para>
+						<Text>In the event of an animal being re-tagged with a different ear tag number under the provisions of the Bovine Animals (Records, Identification and Movement) Order 1995, the keeper shall, within 14 days of the new ear tag being attached and in any event before the animal is moved off the holding, notify the appropriate Minister of the new ear tag number and return the old passport with an application for a new passport to be issued with the new ear tag number.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Lost passports</Title>
+				<P1>
+					<Pnumber>13</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>If a cattle passport is lost, stolen or destroyed, the keeper of the animal to which it relates shall notify the appropriate Minister in writing of the fact within 14 days of him becoming aware of the fact.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In the event of notification under paragraph (1), a replacement may be provided by the appropriate Minister if the keeper so requests.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The appropriate Minister shall only provide a replacement cattle passport if he is satisfied that he can accurately reconstruct the movements of the animal since birth.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>In the case of any cattle where the cattle passport has been lost, stolen or destroyed and the appropriate Minister has not provided a replacement, or is unable to provide a replacement because he cannot satisfy himself in accordance with the preceding paragraph, the animal shall not be used for human consumption, and shall not be moved off a holding except (under the authority of a licence granted by the Minister of Agriculture, Fisheries and Food or the Secretary of State) to a knacker’s yard or hunt kennel.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Export of cattle</Title>
+				<P1>
+					<Pnumber>14</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Any person applying for an export health certificate for cattle shall surrender the cattle passport or calf passport relating to each animal to the officer of the Minister of Agriculture, Fisheries and Food who signs the certificate at the time of signature.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>After its cattle passport or calf passport has been surrendered, an animal shall not be moved from the holding where the export health certificate was signed unless accompanied by that health certificate.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>If, after the issue of an export health certificate, an animal is not exported—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the animal shall not be moved except with either the original health certificate or under the authority of a licence issued by the Minister of Agriculture, Fisheries and Food or the Secretary of State, which shall state the destination of the animal; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the person transporting the animal shall give to any person to whom he transfers it details of—</Text>
+										<P4>
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>the number of the export health certificate;</Text>
+											</P4para>
+										</P4>
+										<P4>
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>the date the certificate was signed; and</Text>
+											</P4para>
+										</P4>
+										<P4>
+											<Pnumber>iii</Pnumber>
+											<P4para>
+												<Text>the name of the person who signed the certificate;</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<Text>and the subsequent keeper shall record the information and keep it for as long as he keeps possession of the animal.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The keeper of an animal whose passport has been surrendered in accordance with this article, but which has not subsequently been exported, may apply in writing to the appropriate Minister for the return of its passport; but the appropriate Minister shall only return the passport if he is satisfied that —</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the animal has not been exported;</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>all movements of the animal can be traced; and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the export health certificate has either expired or has been revoked.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Animal deaths</Title>
+				<P1>
+					<Pnumber>15</Pnumber>
+					<P1para>
+						<Text>If an animal to which this Order relates dies and is not taken to a slaughterhouse, knacker’s yard or hunt kennel, the person who was the keeper of the animal at the time of death shall send the passport (or application form for a passport if the animal had been marked with an ear tag but had not been granted a passport) to the appropriate Minister within 15 days of the death and specify in writing the method of disposal.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Late applications</Title>
+				<P1>
+					<Pnumber>16</Pnumber>
+					<P1para>
+						<Text>In the event of any person applying for a passport outside the time limits specified in this Order, the passport shall not be granted unless in the opinion of the appropriate Minister it is reasonable to grant it taking into account all the circumstances of the case.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment to the Bovine Animals (Records, Identification and Movement) Order 1995</Title>
+				<P1>
+					<Pnumber>17</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The Bovine Animals (Records, Identification and Movement) Order 1995 shall be amended in accordance with this article.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>For article 6 there shall be substituted the following provision—</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="order" Context="main" Format="default">
+									<P1group>
+										<Title>Restriction on bringing calves to market</Title>
+										<P1>
+											<Pnumber>6</Pnumber>
+											<P1para>
+												<Text>No person shall bring a bovine animal aged under 12 weeks to market if it has been brought to market more than once in the previous 28 days.</Text>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Article 7(3) is hereby revoked.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Notwithstanding the provisions of this article, in the case of an animal born before the coming into force of this Order being brought to market under the age of 12 weeks, the provisions of article 6 of the Bovine Animals (Records, Identification and Movement) Order 1995 shall continue to apply as if not amended by this article.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>After article 11 there shall be inserted the following provision —</Text>
+								<BlockAmendment TargetClass="secondary" TargetSubClass="order" Context="main" Format="default">
+									<P1group>
+										<Title>Double ear tagging</Title>
+										<P1>
+											<Pnumber>11A</Pnumber>
+											<P1para>
+												<Text>Notwithstanding the provisions of article 11 above, it shall not be unlawful to use two ear tags on an animal bearing the number approved by the Minister under article 8(3) above, one on each ear, provided that each ear tag has the same number.</Text>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Enforcement</Title>
+				<P1>
+					<Pnumber>18</Pnumber>
+					<P1para>
+						<Text>This Order shall be enforced by the appropriate Minister and the local authority.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Signee>
+						<PersonName>Angela Browning</PersonName>
+						<JobTitle>Parliamentary Secretary</JobTitle>
+						<Department>Ministry of Agriculture, Fisheries and Food</Department>
+						<DateSigned Date="1996-06-27">
+							<DateText>27th June 1996</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+				<Signatory>
+					<Signee>
+						<PersonName>Lindsay</PersonName>
+						<JobTitle>Parliamentary Under-Secretary of State</JobTitle>
+						<Department>Scottish Office</Department>
+						<DateSigned Date="1996-06-28">
+							<DateText>28th June 1996</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Secretary of State for Wales</Text>
+					</Para>
+					<Signee>
+						<PersonName>Jonathan Evans</PersonName>
+						<JobTitle>Parliamentary Under-Secretary of State</JobTitle>
+						<Department>Welsh Office</Department>
+						<DateSigned Date="1996-06-27">
+							<DateText>27th June 1996</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule>
+				<Number>Schedule</Number>
+				<TitleBlock>
+					<Title>Form of Cattle Transport</Title>
+				</TitleBlock>
+				<Reference>Article 2</Reference>
+				<ScheduleBody>
+					<Form>
+						<Tabular Orientation="portrait">
+							<table cols="3" fo:border-bottom-style="solid" fo:border-left-style="solid" fo:border-right-style="solid" fo:border-top-style="solid" xmlns="http://www.w3.org/1999/xhtml">
+								<col width="55%"/>
+								<col width="15%"/>
+								<col width="30%"/>
+								<tbody>
+									<tr>
+										<td height="2em">Cattle Passport</td>
+										<td height="2em" colspan="3" fo:border-bottom-style="solid" fo:border-left-style="solid" fo:border-right-style="solid">Ear tag number</td>
+									</tr>
+									<tr>
+										<td height="2em" align="center" valign="bottom" rowspan="1" colspan="3" fo:border-bottom-style="solid">Part I</td>
+									</tr>
+									<tr>
+										<th>A: Holding details</th>
+										<th colspan="2">B: Animal details	</th>
+									</tr>
+									<tr>
+										<td>CPHH Number</td>
+										<td colspan="2">Breed</td>
+									</tr>
+									<tr>
+										<td/>
+										<td>Sex</td>
+										<td>Date of birth</td>
+									</tr>
+									<tr>
+										<td height="5em">Name and address</td>
+										<td height="5em" colspan="2">Identity of dam</td>
+									</tr>
+								</tbody>
+							</table>
+						</Tabular>
+					</Form>
+
+<!-- User guide example: UG02001. Taken from the section 'Included documents and forms' -->
+					
+					<Part>
+						<Number>Part II</Number>
+						<P>
+							<Text>It is the responsibility of the seller and the buyer to ensure that the animal’s passport ear tag number and the animal’s ear tag are the same</Text>
+						</P>
+						<Form>
+							<IncludedDocument ResourceRef="r00001"/>
+						</Form>
+						<Form>
+							<IncludedDocument ResourceRef="r00001"/>
+						</Form>
+						<Form>
+							<IncludedDocument ResourceRef="r00001"/>
+						</Form>
+						<Form>
+							<IncludedDocument ResourceRef="r00001"/>
+						</Form>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">This Order establishes a system of movement documents for cattle (“cattle passports”) for cattle born in Great Britain after the date of coming into force of this Order or imported after that date, and establishes the form of those passports (article 2 and the Schedule). It prohibits the movement of cattle on or off holdings without a cattle passport, subject to exceptions for young calves and imported cattle (articles 3 to 5). It establishes how to apply for a cattle passport (article 6) and sets out when particulars in the passport must be completed (articles 7 to 9).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">It makes provisions concerning passports for slaughterhouses, knackers' yards and hunt kennels (article 10).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">It provides for the retention of passports (article 11) change of ear tag numbers (article 12) and for lost passports (article 13). It provides for the surrender of passports when cattle are exported (article 14), and animal deaths where the animal is not subsequently taken to a slaughterhouse, knackers' yard or hunt kennel (article 15).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">It contains provisions on late applications (article 16).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">It amends the Bovine Animals (Records, Identification and Movement) Order 1995 so as to control the number of times calves under 12 weeks old can be taken to market in any period of 28 days, and to permit bovine animals to have two tags, one on each ear, bearing the number approved under that Order (article 17).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">It is enforced by the appropriate Minister and by the local authority (article 18).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Breach of the Order is an offence under section 73 of the Animal Health Act 1981.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">A Compliance Cost Assessment has been prepared and placed in the library of each House of Parliament. Copies can be obtained from the Animal Health (Disease Control) Division of the Ministry of Agriculture, Fisheries and Food, Government Buildings, Hook Rise South, Tolworth, Surbiton, Surrey KT6 7NF.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0022">1981 c. 22</Citation>. See section 86(1)(c) for a definition of “the Ministers”.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0012">1995/12</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L121, 29.7.64 p. 1977 (Special Edition 1963-64 p. 164) as last amended by Council Directive 95/25/EEC (OJ No. L243, 11.10.95, p.16).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="0539">1995/539</Citation> to which there are amendments not relevant to this Order.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	
+<!-- User guide example: UG02002. Taken from the section 'Resources' -->
+	
+	<Resources>
+		<Resource id="r00001">
+			<InternalVersion>
+				<XMLcontent>
+					<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" i:viewOrigin="80.1851 505.6704" i:rulerOrigin="0 9.765625e-04" i:pageBounds="0 841.8887 595.2754 -9.765625e-04" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="439.54" height="176.852" viewBox="0 0 439.54 176.852" overflow="visible" enable-background="new 0 0 439.54 176.852" xml:space="preserve">
+						<metadata>
+							<variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+								<variableSet varSetName="binding1" locked="none">
+									<variables/>
+									<v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"/>
+								</variableSet>
+							</variableSets>
+							<sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+								<slices/>
+								<sliceSourceBounds y="328.818" x="80.185" width="439.54" height="176.852" bottomLeftOrigin="true"/>
+							</sfw>
+						</metadata>
+						<g id="Layer_1" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#4F008000FFFF">
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M439.04,176.352H0.5V0.5h438.54V176.352z"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M0.063,27.554H439.04"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M71.626,0.5v175.416"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M213.006,0.937v174.979"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M331.695,27.554v148.361"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M71.626,147.116h259.633"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M0.5,66.826h142.252"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M142.752,27.118v119.126"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M71.626,106.535h70.69"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M213.006,68.135h118.253"/>
+							<path i:knockout="Off" fill="none" stroke="#000000" d="M213.006,107.408h118.253"/>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M11.864,11.846"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="11" line-height="11">
+											<p>
+												<span>SELLER&apos;S</span>
+											</p>
+											<p>
+												<span>DETAILS</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_1_"/>
+								</foreignObject>
+								<Text id="XMLID_1_" transform="matrix(1 0 0 1 11.8638 11.8457)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="11">SELLER&apos;S</tspan>
+									<tspan x="0" y="11" font-family="'Times'" font-size="11">DETAILS</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M4.864,39.772"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Date of</span>
+											</p>
+											<p>
+												<span>movement</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_2_"/>
+								</foreignObject>
+								<Text id="XMLID_2_" transform="matrix(1 0 0 1 4.8638 39.7725)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Date of</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">movement</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M78.045,39.772"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Lot number</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_3_"/>
+								</foreignObject>
+								<Text id="XMLID_3_" transform="matrix(1 0 0 1 78.0449 39.7725)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Lot number</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M76.736,79.044"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>CC number</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_4_"/>
+								</foreignObject>
+								<Text id="XMLID_4_" transform="matrix(1 0 0 1 76.7358 79.0444)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">CC number</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M76.736,118.753"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Date animal</span>
+											</p>
+											<p>
+												<span>traded</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_5_"/>
+								</foreignObject>
+								<Text id="XMLID_5_" transform="matrix(1 0 0 1 76.7358 118.7534)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Date animal</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">traded</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M148.735,39.772"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Name or</span>
+											</p>
+											<p>
+												<span>official stamp</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_6_"/>
+								</foreignObject>
+								<Text id="XMLID_6_" transform="matrix(1 0 0 1 148.7349 39.7725)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Name or</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">official stamp</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M219.861,39.772"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Date arrived on holding</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_7_"/>
+								</foreignObject>
+								<Text id="XMLID_7_" transform="matrix(1 0 0 1 219.8608 39.7725)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Date arrived on holding</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M219.861,79.917"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Received by</span>
+											</p>
+											<p>
+												<span>(Signature)</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_8_"/>
+								</foreignObject>
+								<Text id="XMLID_8_" transform="matrix(1 0 0 1 219.8608 79.9175)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Received by</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">(Signature)</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M219.861,119.189"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>County Parish Holding</span>
+											</p>
+											<p>
+												<span>Herd number</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_9_"/>
+								</foreignObject>
+								<Text id="XMLID_9_" transform="matrix(1 0 0 1 219.8608 119.189)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">County Parish Holding</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">Herd number</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M219.861,158.898"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Name of keeper</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_10_"/>
+								</foreignObject>
+								<Text id="XMLID_10_" transform="matrix(1 0 0 1 219.8608 158.8979)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Name of keeper</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M78.045,158.898"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Signature of Market Official</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_11_"/>
+								</foreignObject>
+								<Text id="XMLID_11_" transform="matrix(1 0 0 1 78.0454 158.8979)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Signature of Market Official</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M338.986,39.772"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Full postal address</span>
+											</p>
+											<p>
+												<span>where the animal is</span>
+											</p>
+											<p>
+												<span>kept</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_12_"/>
+								</foreignObject>
+								<Text id="XMLID_12_" transform="matrix(1 0 0 1 338.9858 39.7725)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Full postal address</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">where the animal is</tspan>
+									<tspan x="0" y="20" font-family="'Times'" font-size="10">kept</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M4.864,79.918"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="10" line-height="10">
+											<p>
+												<span>Signature of</span>
+											</p>
+											<p>
+												<span>seller</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_13_"/>
+								</foreignObject>
+								<Text id="XMLID_13_" transform="matrix(1 0 0 1 4.8638 79.918)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="10">Signature of</tspan>
+									<tspan x="0" y="10" font-family="'Times'" font-size="10">seller</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M87.672,11.846"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="11" line-height="11">
+											<p>
+												<span>DETAILS OF MARKET</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_14_"/>
+								</foreignObject>
+								<Text id="XMLID_14_" transform="matrix(1 0 0 1 87.6719 11.8457)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="11">DETAILS OF MARKET</tspan>
+								</Text>
+							</switch>
+							<switch i:knockout="Off" i:objectNS="http://ns.adobe.com/Flows/1.0/" i:objectType="pointText">
+								<foreignObject requiredExtensions="http://ns.adobe.com/Flows/1.0/" x="0" y="0" width="1" height="1" overflow="visible">
+									<flowDef xmlns="http://ns.adobe.com/Flows/1.0/">
+										<region>
+											<path d="M286.551,11.846"/>
+										</region>
+										<flow xmlns="http://ns.adobe.com/Flows/1.0/" font-family="'Times'" font-size="11" line-height="11">
+											<p>
+												<span>BUYER’S DETAILS</span>
+											</p>
+										</flow>
+									</flowDef>
+									<x:targetRef xlink:href="#XMLID_15_"/>
+								</foreignObject>
+								<Text id="XMLID_15_" transform="matrix(1 0 0 1 286.5513 11.8457)">
+									<tspan x="0" y="0" font-family="'Times'" font-size="11">BUYER&apos;S DETAILS</tspan>
+								</Text>
+							</switch>
+						</g>
+					</svg>
+				</XMLcontent>
+			</InternalVersion>
+		</Resource>
+	</Resources>
+</Legislation>

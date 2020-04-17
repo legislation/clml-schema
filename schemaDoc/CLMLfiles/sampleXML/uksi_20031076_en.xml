@@ -1,0 +1,553 @@
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003</dc:title>
+		<dc:subject>Government Trading Funds</dc:subject>
+		<dc:identifier>urn:isbn:0110456424</dc:identifier>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2003"/>
+			<ukm:Number Value="1076"/>
+			<ukm:Made Date="2003-03-28"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2003-04-01"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2003 No. 1076</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Government Trading Funds</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>28th March 2003</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st April 2003</DateText>
+			</ComingIntoForce>
+
+<!-- User guide example: UG01001. Taken from the section 'Preliminary matter' -->
+
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>Whereas:</Text>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>it appears to the Secretary of State for Health (“the Secretary of State”) that—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>such of the operations of the Department of Health as are described in Schedule 1 to this Order (being operations for which he is responsible) are suitable to be financed by means of a fund established under the Government Trading Funds Act 1973<FootnoteRef Ref="f00001"/> (referred to in this Order as “the 1973 Act”) and, in particular, to be so managed that the revenue of the fund would consist principally of receipts in respect of goods or services provided in the course of the operations in question, and</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the financing of the operations in question by means of such a fund would be in the interests of the improved efficiency and effectiveness of the management of those operations;</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>in accordance with sections 1(3) and 6(4) of the 1973 Act, the Secretary of State has taken such steps as appear to him to be appropriate to give an opportunity to such persons as appear to him to be appropriate to make representations to him and has laid before Parliament a report about the representations received and his conclusions;</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>in accordance with section 2 of the 1973 Act, the Secretary of State has determined with the concurrence of the Treasury what Crown assets and liabilities are properly attributable to the operations for which a fund is to be established and are suitable to be appropriated to that fund;</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>in accordance with section 6(2) of the 1973 Act, a draft of this Order has been laid before the House of Commons and has been approved by a resolution of that House;</Text>
+							</P2para>
+						</P2>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text Hanging="indented">Now, therefore, the Secretary of State in exercise of powers conferred by sections 1, 2, 2A(1), 2AA, 2C(1) and 6(1) of the 1973 Act, and of all other powers enabling him in that behalf, with the concurrence of the Treasury, hereby makes the following Order:—</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation, commencement and interpretation</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003 and shall come into force on 1st April 2003.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In this Order—</Text>
+								<UnorderedList Decoration="none" Class="Definition">
+									<ListItem>
+										<Para>
+											<Text>“the 1968 Act” means the Medicines Act 1968<FootnoteRef Ref="f00002"/>;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“the fund” means the fund established by Article 2 of this Order;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“funded operations” means the operations described in Schedule 1 to this Order;</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“reference substance” means a chemical or biological reference preparation used in tests or assays in connection with or related to the production of medicinal products or similar products; and</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>“tissue bank” means any place where human tissue or cells are stored or processed.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In this Order expressions defined in the 1968 Act, the Medicines for Human Use (Marketing Authorisations Etc.) Regulations 1994<FootnoteRef Ref="f00003"/>, or the Medical Devices Regulations 2002<FootnoteRef Ref="f00004"/> for the purposes of that Act or those Regulations shall have the same meaning as is given for the purposes of that Act or those Regulations.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Establishment of the fund</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>As from 1st April 2003, for such of the operations of the Department of Health as are described in Schedule 1 to this Order, there shall be established a trading fund to be known as the Medicines and Healthcare Products Regulatory Agency Trading Fund.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Source of loans</Title>
+				<P1>
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>The Secretary of State for Health is hereby designated as the source of issues to the fund by way of loan.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Assets, liabilities, reserves and public dividend capital</Title>
+				<P1>
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<P2>
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The Crown assets and liabilities set out in Schedule 2 to this Order shall be appropriated as assets and liabilities of the fund.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>£16,100,000 of the amount by which the assets of the fund exceed the amounts of the liabilities shall be treated as a revaluation reserve in the accounts of the fund, and the reserve so treated shall be maintained as a revaluation reserve.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>£3,900,000 of the amount by which the assets of the fund exceed the amounts of the liabilities shall be treated as a retained surplus reserve in the accounts of the fund, and the reserve so treated shall be maintained as a retained surplus reserve.</Text>
+							</P2para>
+						</P2>
+						<P2>
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>50 per cent of any balance of—</Text>
+								<P3>
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the amount by which the values of the assets exceed the amounts of the liabilities, less</Text>
+									</P3para>
+								</P3>
+								<P3>
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the sum of the amounts to be treated as reserves in accordance with paragraphs (2) and (3),</Text>
+									</P3para>
+								</P3>
+								<Text>shall be treated as public dividend capital.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Maximum borrowing etc.</Title>
+				<P1>
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<Text>The aggregate of the following shall not exceed £10,000,000:</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>the total outstanding at any given time in respect of amounts issued to the fund under section 2B of the 1973 Act (other than as originating debt) and,</Text>
+							</P3para>
+						</P3>
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>the total at that time constituting public dividend capital issued to the fund under section 2A(2A) of that Act.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Revocation</Title>
+				<P1>
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>The Medicines Control Agency Trading Fund Order 1993<FootnoteRef Ref="f00005"/> is hereby revoked.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>One of Her Majesty’s Principal Secretaries of State</Text>
+					</Para>
+					<Signee>
+						<PersonName>Alan Milburn</PersonName>
+						<JobTitle>Secretary of State for Health</JobTitle>
+						<DateSigned Date="2003-03-25">
+							<DateText>25th March 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+				<Signatory>
+					<Para>
+						<Text>We concur</Text>
+					</Para>
+					<Signee>
+						<PersonName>Jim Fitzpatrick</PersonName>
+						<PersonName>John Heppell</PersonName>
+						<JobTitle>Two of the Lords' Commissioners of Her Majesty’s Treasury</JobTitle>
+						<DateSigned Date="2003-03-28">
+							<DateText>28th March 2003</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule>
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>FUNDED OPERATIONS</Title>
+				</TitleBlock>
+				<Reference>Article 2</Reference>
+				<ScheduleBody>
+					<P1>
+						<Pnumber>1</Pnumber>
+						<P1para>
+							<Text>All the operations of that part of the Department of Health known from 1st April 2003 as the Medicines and Healthcare Products Regulatory Agency carried out in connection with the following:—</Text>
+							<P3>
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>the functions of the Health Ministers, the Ministers, the appropriate body or the licensing authority under—</Text>
+									<P4>
+										<Pnumber>i</Pnumber>
+										<P4para>
+											<Text>the Medicines Acts of 1968 and 1971<FootnoteRef Ref="f00006"/> and secondary legislation under those Acts, and</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>ii</Pnumber>
+										<P4para>
+											<Text>any legislation of the European Communities or their institutions relating to medicinal products, and related implementing legislation;</Text>
+										</P4para>
+									</P4>
+								</P3para>
+							</P3>
+							<P3>
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>the functions of the Secretary of State relating to the application of the principles of good laboratory practice and the verification of their application for tests on substances and to the inspection and verification of good laboratory practice as laid down in Council Directive 87/18/EEC of 18th December 1986<FootnoteRef Ref="f00007"/> as amended and Council Directive 88/320/EEC of 9th June 1988<FootnoteRef Ref="f00008"/> as amended and related implementing legislation, and as arising out of the United Kingdom’s membership of the Organisation for Economic Co-operation and Development;</Text>
+								</P3para>
+							</P3>
+							<P3>
+								<Pnumber>c</Pnumber>
+								<P3para>
+									<Text>the functions of the Secretary of State—</Text>
+									<P4>
+										<Pnumber>i</Pnumber>
+										<P4para>
+											<Text>under the Medical Devices Regulations 2002<FootnoteRef Ref="f00009"/> and the Medical Devices Directives,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>ii</Pnumber>
+										<P4para>
+											<Text>under the Clinical Thermometers (EEC Requirements) Regulations 1993<FootnoteRef Ref="f00010"/>,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>iii</Pnumber>
+										<P4para>
+											<Text>otherwise in connection with the safe use of medical devices or similar devices;</Text>
+										</P4para>
+									</P4>
+								</P3para>
+							</P3>
+							<P3>
+								<Pnumber>d</Pnumber>
+								<P3para>
+									<Text>the functions of the Secretary of State under any legislation of the European Communities or their institutions relating to general product safety, and related implementing legislation in so far as the legislation relates to medicinal products or medical devices or similar products or devices;</Text>
+								</P3para>
+							</P3>
+							<P3>
+								<Pnumber>e</Pnumber>
+								<P3para>
+									<Text>the functions of the United Kingdom authorities relating to medicinal products, medical devices or similar products or devices under international obligations or in connection with Association Agreements or Mutual Recognition Agreements or in connection with any activities of the European Communities or any of their institutions;</Text>
+								</P3para>
+							</P3>
+							<P3>
+								<Pnumber>f</Pnumber>
+								<P3para>
+									<Text>the provision of services relating to or in connection with public health, medicinal products, medical devices or similar products or devices to meet the needs of customers in the United Kingdom, in Europe or world-wide including:</Text>
+									<P4>
+										<Pnumber>i</Pnumber>
+										<P4para>
+											<Text>assistance to other regulatory authorities, other Government departments or agencies, or public bodies,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>ii</Pnumber>
+										<P4para>
+											<Text>advisory, information, education or training services,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>iii</Pnumber>
+										<P4para>
+											<Text>the collection, processing, analysis or provision of data,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>iv</Pnumber>
+										<P4para>
+											<Text>the inspection or accreditation of tissue banks,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>v</Pnumber>
+										<P4para>
+											<Text>assessment of devices or components of devices,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>vi</Pnumber>
+										<P4para>
+											<Text>the sale of reference substances,</Text>
+										</P4para>
+									</P4>
+									<P4>
+										<Pnumber>vii</Pnumber>
+										<P4para>
+											<Text>the sale of publications.</Text>
+										</P4para>
+									</P4>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+					<P1>
+						<Pnumber>2</Pnumber>
+						<P1para>
+							<Text>Any operations carried on in connection with any proposed legislation or the provision and dissemination of information relating to the functions described in paragraph 1.</Text>
+						</P1para>
+					</P1>
+					<P1>
+						<Pnumber>3</Pnumber>
+						<P1para>
+							<Text>Any operations which are incidental, conducive or are otherwise ancillary to the operations described in paragraphs 1 and 2.</Text>
+						</P1para>
+					</P1>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule>
+				<Number>SCHEDULE 2</Number>
+				<TitleBlock>
+					<Title>ASSETS AND LIABILITIES APPROPRIATED AS THOSE OF THE FUND</Title>
+				</TitleBlock>
+				<Reference>Article 4(1)</Reference>
+				<ScheduleBody>
+					<Part>
+						<Number>PART I</Number>
+						<Title>ASSETS</Title>
+						<P1>
+							<Pnumber>1</Pnumber>
+							<P1para>
+								<Text>Plant and equipment (including vehicles and computers) and assets under construction which at 1st April 2003 are used or are allocated for use in the funded operations.</Text>
+							</P1para>
+						</P1>
+						<P1>
+							<Pnumber>2</Pnumber>
+							<P1para>
+								<Text>Data and computer software as at 1st April 2003 used or allocated for use in the funded operations.</Text>
+							</P1para>
+						</P1>
+						<P1>
+							<Pnumber>3</Pnumber>
+							<P1para>
+								<Text>Intangible assets, including intellectual property, arising from the funded operations as carried on up to 1st April 2003.</Text>
+							</P1para>
+						</P1>
+						<P1>
+							<Pnumber>4</Pnumber>
+							<P1para>
+								<Text>Debtors and cash as at 1st April 2003 used or allocated for use in, or arising from, the funded operations.</Text>
+							</P1para>
+						</P1>
+					</Part>
+					<Part>
+						<Number>PART II</Number>
+						<Title>LIABILITIES</Title>
+						<P1>
+							<Pnumber>1</Pnumber>
+							<P1para>
+								<Text>Fees paid in advance in respect of services to be rendered on or after 1st April 2003.</Text>
+							</P1para>
+						</P1>
+						<P1>
+							<Pnumber>2</Pnumber>
+							<P1para>
+								<Text>Creditors, accruals and provisions as at 1st April 2003 arising from the funded operations.</Text>
+							</P1para>
+						</P1>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>This Order provides for the setting up as from 1st April 2003 of a fund with public money under the Government Trading Funds Act 1973 for the operations of the part of the Department of Health described in Schedule 1 to the Order (Article 2), to be known from that date as the Medicines and Healthcare Products Regulatory Agency. (The Medicines and Healthcare Products Regulatory Agency is a merger from 1st April 2003 of those parts of the Department of Health known respectively as the Medicines Control Agency and the Medical Devices Agency prior to that date). The fund is to be known as the Medicines and Healthcare Products Regulatory Agency Trading Fund.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">The Order designates the Secretary of State for Health as the authorised lender to the fund (Article 3). It provides for the assets and liabilities set out in Schedule 2 to the Order to be appropriated to the fund. It requires £16,100,000 of the amount by which the assets exceed the liabilities (which amount is referred to below as “the net assets”) to be treated and maintained as a revaluation reserve and £3,900,000 of the net assets to be treated as a retained surplus reserve. It also provides for 50 per cent of any balance of the net assets less the sum of the reserves to be treated as public dividend capital (Article 4). (The estimated value of the assets is £42,000,000 and the estimated amount of the liabilities is £22,000,000).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">The maximum borrowing of the fund is not to exceed £10,000,000 (Article 5).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">This Order revokes the Medicines Control Agency Trading Fund Order 1993 (Article 6).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">This Order does not impose any charge on business.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1973" Number="0063">1973 c. 63</Citation>, as amended by the Government Trading Act <Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1990" Number="0030">1990 (c. 30)</Citation>, section 119 of the Finance Act <Citation id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1991" Number="0031">1991 (c. 31)</Citation>, Schedule 22 to the Finance Act <Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0034">1993 (c. 34)</Citation> and section 29(1) of the Government Resources and Accounts Act <Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0020">2000 (c. >20)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1968" Number="0067">1968 c. 67</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1994" Number="3144">1994/3144</Citation> amended by S.I. <Citation id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="3105">1998/3105</Citation>, <Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="0292">2000/292</Citation>, <Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="0795">2001/795</Citation>, <Citation id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0236">2002/236</Citation> and <Citation id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0542">2002/542</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0618">2002/618</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="0751">1993/751</Citation> as amended by S.I. <Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="0805">1997/805</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00016" Class="UnitedKingdomPublicGeneralAct" Year="1971" Number="0069">1971 c. 69</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L15, 17.1.87, p. 29; amended by Commission Directive 1999/11/EC (OJ No. L77, 23.3.1999, p. 8).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>OJ No. L145, 11.6.88, p. 35; amended by Commission Directive 90/18/EEC (OJ No. L11, 13.1.90, p. 30) and Commission Directive 1999/12/EC (OJ No. L77, 23.3.1999, p. 22).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0618">2002/618</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="2360">1993/2360</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

@@ -1,0 +1,445 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562" NumberOfProvisions="7" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2003/562"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2003/562/enacted</dc:identifier><dc:subject>Business practice and regulation</dc:subject><dc:subject>Business development</dc:subject><dc:subject>Regulation and deregulation</dc:subject><dc:title>The Farm Waste Grant (Nitrate Vulnerable Zones)(England) Scheme 2003</dc:title><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:modified>2017-06-13</dc:modified><dc:subject scheme="SIheading">AGRICULTURE, ENGLAND</dc:subject>
+					<dc:description>This Scheme, which extends to England only, complies with Council Regulation (EC) No. 1257/1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund and, in particular, Articles 4 to 7 which deal with investment in agricultural holdings.</dc:description>
+					<atom:link rel="self" type="application/xml" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.xml"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2003/562/resources" title="More Resources"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2003/562/enacted" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2003/562/introduction/enacted" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2003/562/signature/enacted" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2003/562/note/enacted" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2003/562/body/enacted" title="body"/>
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.htm" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://legislation.data.gov.uk/uksi/2003/562/enacted/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2003/562/pdfs/uksi_20030562_en.pdf" title="Print Version"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2003/562/contents/enacted" title="Table of Contents"/>
+					
+					
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="scheme"/>
+</ukm:DocumentClassification><ukm:Year Value="2003"/><ukm:Number Value="562"/><ukm:Made Date="2003-03-06"/><ukm:Laid Date="2003-03-10" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2003-03-07"/>
+</ukm:ComingIntoForce><ukm:ISBN Value="0110456483"/></ukm:SecondaryMetadata>
+					
+					
+									
+					<ukm:Alternatives>
+      <ukm:Alternative Date="2008-12-04" URI="http://www.legislation.gov.uk/uksi/2003/562/pdfs/uksi_20030562_en.pdf" Title="Print Version"/>
+   </ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="7"/>
+									<ukm:BodyParagraphs Value="7"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+					
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/introduction/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/introduction">
+<Number>2003 No. 562</Number>
+<SubjectInformation><Subject>
+<Title>AGRICULTURE, ENGLAND</Title>
+</Subject>
+</SubjectInformation>
+<Title>The Farm Waste Grant (Nitrate Vulnerable Zones)(England) Scheme 2003</Title>
+<Approved>Approved by both Houses of Parliament</Approved>
+<MadeDate>
+<Text>Made</Text>
+<DateText>6th March 2003</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>10th March 2003</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>7th March 2003</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State, in exercise of the powers conferred upon her by section 29 of the Agriculture Act 1970<FootnoteRef Ref="f00001"/>, with the approval of the Treasury, hereby makes the following Scheme—</Text>
+</Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/body/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/body" NumberOfProvisions="7" NumberFormat="default">
+<P1group>
+<Title>Title, application and commencement</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/1" id="section-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>This Scheme may be cited as the Farm Waste Grant (Nitrate Vulnerable Zones) (England) Scheme 2003, shall apply in England and shall come into force on the day after the date on which it is made.</Text>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Interpretation</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/2" id="section-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>In this Scheme—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text>“agricultural business” means an agricultural business which is at least partly carried out on land situated in a nitrate vulnerable zone;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“slurry” has the same meaning as in Regulation 2 of the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations 1991<FootnoteRef Ref="f00002"/>;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“nitrate vulnerable zone” means any area designated as a nitrate vulnerable zone by—</Text>
+<OrderedList Decoration="parens" Type="alpha">
+<ListItem>
+<Para>
+<Text>regulation 3(1) of the Protection of Water against Agricultural Nitrate Pollution (England and Wales) Regulations 1996<FootnoteRef Ref="f00003"/>; or</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>regulation 3(1) of the Nitrate Vulnerable Zones (Additional Designation) (England) (<Abbreviation Expansion="Number">No.</Abbreviation> 2) Regulations 2002<FootnoteRef Ref="f00004"/>.</Text>
+</Para>
+</ListItem>
+</OrderedList></Para>
+</ListItem>
+</UnorderedList>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Payment and amount of grants</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3" id="section-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1" id="section-3-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Subject to the following provisions of this Scheme, the Secretary of State may make to any person one or more grants representing 40 per cent. of the expenditure to be incurred by him for the purposes of or in connection with the carrying on of an agricultural business, being expenditure incurred after 16th April 2003 but before 31st October 2005 and which—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a" id="section-3-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>is incurred in respect of—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a/i" id="section-3-1-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the provision, replacement or improvement of—</Text>
+<P5 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/i/aa/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a/i/aa" id="section-3-1-a-i-aa">
+<Pnumber>aa</Pnumber>
+<P5para>
+<Text>facilities (including safety fencing) for the handling and storage of manure, slurry and silage effluent;</Text>
+</P5para>
+</P5>
+<P5 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/i/bb/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a/i/bb" id="section-3-1-a-i-bb">
+<Pnumber>bb</Pnumber>
+<P5para>
+<Text>fixed disposal activities for slurry and silage effluent, or</Text>
+</P5para>
+</P5>
+<P5 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/i/cc/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a/i/cc" id="section-3-1-a-i-cc">
+<Pnumber>cc</Pnumber>
+<P5para>
+<Text>facilities (other than roofing) for the separation of clean and dirty water, where those facilities reduce the need to store slurry; or</Text>
+</P5para>
+</P5>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/a/ii" id="section-3-1-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>any work, facility or transaction (including conservation or amenity works) incidental to any matter in respect of which a grant may be made under the foregoing provisions of this paragraph;</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/b" id="section-3-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>appears to the Secretary of State to be of a capital nature or incurred in connection with expenditure of a capital nature;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/c/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/c" id="section-3-1-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>is approved by the Secretary of State for the purposes of a grant under this Scheme; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/1/d/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/1/d" id="section-3-1-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>does not in aggregate exceed £85,000.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/3/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/3/2" id="section-3-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Where it appears to the Secretary of State that expenditure, in respect of which an application is made for a grant under sub-paragraph (1), is to be incurred partly for the purposes of or in connection with the carrying on of an agricultural business and partly for other purposes she may treat as being incurred for the purposes of or in connection with the carrying on of an agricultural business so much of that expenditure as appears to her to be referable to the carrying on of that agricultural business.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Financial Limits</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4" id="section-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/1" id="section-4-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>If, in view of the total number of applications for grant already approved or received, the Secretary of State is at any time of the opinion that the financial resources which are available for payment of grant under this Scheme during any period are insufficient to satisfy any payment during the period which would result from the approval of any further application, she may, in respect of any application received at the date of her decision but not yet accepted, or any application she may receive during the relevant period—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/1/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/1/a" id="section-4-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>suspend further consideration of any such application until such time as may subsequently be specified by her; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/1/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/1/b" id="section-4-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>reject any such application without further consideration.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/2" id="section-4-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>Notice of—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/2/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/2/a" id="section-4-2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>a decision—</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/2/a/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/2/a/i" id="section-4-2-a-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>to suspend consideration of any application under sub-paragraph (1)(a); or</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/2/a/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/2/a/ii" id="section-4-2-a-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>to reject any application without further consideration under sub-paragraph (1)(b), or</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/2/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/2/b" id="section-4-2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>of the termination of the relevant period,</Text>
+</P3para>
+</P3>
+<Text>shall be published in The London Gazette.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/4/3/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/4/3" id="section-4-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>In sub-paragraphs (1) and (2), “the relevant period” means the period beginning with the day after the date of the Secretary of State’s decision referred to in sub-paragraph (1), or any subsequent date specified by her in a notice under sub-paragraph (2)(a), and ending with such date as may be specified by her in a notice under sub-paragraph (2)(b).</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Restrictions on the making of grants</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5" id="section-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<Text>The Secretary of State shall not make a grant under sub-paragraph (1) of paragraph 3—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/a/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/a" id="section-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>in respect of any agricultural business which is not at least partly carried out on land situated in a nitrate vulnerable zone;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/b/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/b" id="section-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>unless she is satisfied that the expenditure towards which the grant is to be made will result in some environmental benefit accruing to the nitrate vulnerable zone concerned;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/c/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/c" id="section-5-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>unless the requirements of Article 5 of Council Regulation <Citation URI="http://www.legislation.gov.uk/european/regulation/1999/1257" id="c00001" Class="EuropeanUnionRegulation" Year="1999" Number="1257">(<Acronym Expansion="European Community">EC</Acronym>) No. 1257/1999</Citation><FootnoteRef Ref="f00005"/> are satisfied;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/d/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/d" id="section-5-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>if the objective of the expenditure, in respect of which an application for grant is made, is an increase in production for which no normal market outlets can be found; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/e/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/e" id="section-5-e">
+<Pnumber>e</Pnumber>
+<P3para>
+<Text>where the whole or part of such grant would duplicate assistance provided or to be provided out of monies by:</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/e/i/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/e/i" id="section-5-e-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>the European Community;</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/e/ii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/e/ii" id="section-5-e-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>Parliament; or</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/5/e/iii/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/5/e/iii" id="section-5-e-iii">
+<Pnumber>iii</Pnumber>
+<P4para>
+<Text>a body exercising public functions within the United Kingdom.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Applications for grant</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/6/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/6" id="section-6">
+<Pnumber>6</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/6/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/6/1" id="section-6-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Any application for a grant under this Scheme shall be made in such form and manner and by such date as the Secretary of State shall determine, and an applicant shall provide all such particulars and information relating to the application as the Secretary of State may reasonably require, including, where specified by her, relevant documents and records.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/6/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/6/2" id="section-6-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The Secretary of State shall inform an applicant in writing whether the application is approved or not and, if it is not approved, shall give the reasons.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Revocation and transitional provisions</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/7/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/7" id="section-7">
+<Pnumber>7</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/7/1/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/7/1" id="section-7-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Subject to sub-paragraph (2), the Farm Waste Grant (Nitrate Vulnerable Zones) (England) (No. 2) Scheme 2000<FootnoteRef Ref="f00006"/> (“the <Abbreviation Expansion="Farm Waste Grant (Nitrate Vulnerable Zones) (England) (No. 2) Scheme 2000 (S.I. 2000/2911)">2000 Scheme</Abbreviation>”) is hereby revoked .</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/section/7/2/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/section/7/2" id="section-7-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>The 2000 Scheme shall continue to apply in relation to applications for grant approved under that Scheme before the date on which this Scheme comes into force.</Text>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/signature/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/signature">
+<Signatory>
+<Signee>
+<PersonName>Whitty</PersonName>
+<JobTitle>Parliamentary Under Secretary of StateDepartment for Environment, Food and Rural Affairs</JobTitle>
+<DateSigned Date="2003-03-06">
+<DateText>6th March 2003</DateText>
+</DateSigned>
+</Signee>
+</Signatory>
+<Signatory>
+<Para>
+<Text>We consent</Text>
+</Para>
+<Signee>
+<PersonName>Nick Ainger</PersonName>
+<PersonName>Jim Fitzpatrick</PersonName>
+<JobTitle>Two of the Lords Commissioners of Her Majesty’s Treasury</JobTitle>
+<DateSigned Date="2003-03-06">
+<DateText>6th March 2003</DateText>
+</DateSigned>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2003/562/note/enacted" IdURI="http://www.legislation.gov.uk/id/uksi/2003/562/note">
+<Comment>
+<Para>
+<Text>(This note is not part of the Scheme)</Text>
+</Para>
+</Comment>
+<P>
+<Text>This Scheme, which extends to England only, complies with Council Regulation <Citation URI="http://www.legislation.gov.uk/european/regulation/1999/1257" id="c00002" Class="EuropeanUnionRegulation" Year="1999" Number="1257">(EC) No. 1257/1999</Citation> on support for rural development from the European Agricultural Guidance and Guarantee Fund and, in particular, Articles 4 to 7 which deal with investment in agricultural holdings.</Text>
+</P>
+<P>
+<Text>It makes provision for the making of grants in respect of agricultural businesses which are at least partly situated in nitrate vulnerable zones, as defined by regulation 3(1) of the Protection of Water against Agricultural Nitrate Pollution (England and Wales) Regulations 1996 and regulation 3(1) of the Nitrate Vulnerable Zones (Additional Designations) (England) (No. 2) Regulations 2002.</Text>
+</P>
+<P>
+<Text>The grant is available at the rate of 40% towards expenditure (up to a maximum of £85,000) incurred by the agricultural business between the date of coming into force of the Scheme on 17th April 2003 and 31st October 2005 in relation to facilities for the handling, storage and disposal of certain farm wastes and the separation of clean and dirty water (paragraph 3).</Text>
+</P>
+<P>
+<Text>Provision is made by paragraph 4 of the Scheme for the consideration of applications during a period to be suspended or rejected if there are insufficient financial resources for the payment of grants under the Scheme.</Text>
+</P>
+<P>
+<Text>A number of restrictions are imposed on the making of grants under the Scheme (paragraph 5).</Text>
+</P>
+<P>
+<Text>The procedure for claiming a grant is determined by the Secretary of State (paragraph 6).</Text>
+</P>
+<P>
+<Text>The Farm Waste Grant (Nitrate Vulnerable Zones) (England) (No. 2) Scheme 2000 is revoked with a saving for grants already approved under that Scheme (paragraph 7).</Text>
+</P>
+<P>
+<Text>No Regulatory Impact Assessment has been prepared in respect of these Regulations.</Text>
+</P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1970/40" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1970" Number="0040">1970 c. 40</Citation>. See section 28 for a definition of “the appropriate authority”. The provision in section 29(2)(a) setting out the territorial application of any Scheme should be read with article 2(2) of, and Schedule 1 to, the Transfer of Functions (Wales) (No. 1) Order <Citation URI="http://www.legislation.gov.uk/id/uksi/1978/272" id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1978" Number="0272">1978/272</Citation>, article 2 of, and Schedule 1 to, the 0National Assembly for Wales (Transfer of Functions) Order <Citation URI="http://www.legislation.gov.uk/id/uksi/1999/672" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0672">1999/672</Citation> and section 42 of the Government of Wales Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/38" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0038">1988 (c. 38)</Citation>. The functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/794" id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0794">2002/794</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1991/324" id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="0324">S.I. 1991/324</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1996/888" id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="0888">S.I. 1996/888</Citation>, as amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2297" id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2297">S.I. 2002/2297</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2614" id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2614">S.I. 2002/2614</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00004">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2614" id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2614">S.I. 2002/2614</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00005">
+<FootnoteText>
+<Para>
+<Text><Acronym Expansion="Official Journal">OJ</Acronym> No. L160, 26.6.1999, p. 80.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00006">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2000/2911" id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="2911">S.I. 2000/2911</Citation>, as amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2614" id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2614">S.I. 2002/2614</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>

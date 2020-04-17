@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+	<ukm:Metadata>
+		<dc:title>The Rent Act 1977 (Forms, etc.) (Welsh Forms and Particulars) (Amendment) Regulations 1994</dc:title>
+		<dc:subject>Landlord and Tenant, England and Wales</dc:subject>
+		<dc:identifier>urn:isbn:011043725X</dc:identifier>
+		<dc:rights>Crown Copyright 1994</dc:rights>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1994"/>
+			<ukm:Number Value="725"/>
+			<ukm:Made Date="1994-03-10"/>
+			<ukm:Laid Date="1994-03-16" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1994-04-06"/>
+			</ukm:ComingIntoForce>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims>
+			<Draft>
+				<Para>
+					<Text>This Statutory Instrument has been made in consequence of defects in S.I. <Citation id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="1511">1993/1511</Citation> and is being issued free of charge to all known recipients of that Statutory Instrument.</Text>
+				</Para>
+			</Draft>
+			<Number>1994 No. 725</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Landlord and Tenant, England and Wales</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Rent Act 1977 (Forms, etc.) (Welsh Forms and Particulars) (Amendment) Regulations 1994</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>10th March 1994</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>16th March 1994</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>6th April 1994</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State for Wales, in exercise of the powers conferred on him by sections 66(2), 67(2), 67A(5), 73(3) and 74(1) of the Rent Act 1977<FootnoteRef Ref="f00001"/> as extended by section 26(3) of the Welsh Language Act 1993<FootnoteRef Ref="f00002"/> and of all other powers enabling him in that behalf hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body>
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1>
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as the Rent Act 1977 (Forms, etc.) (Welsh Forms and Particulars) (Amendment) Regulations 1994 and shall come into force on 6th April 1994.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment</Title>
+				<P1>
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>The Rent Act 1977 (Forms, etc.) (Welsh Forms and Particulars) Regulations 1993<FootnoteRef Ref="f00003"/> are amended as follows:–</Text>
+						<P3>
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in regulation 2 after the words “the corresponding forms in” delete the words “the Schedule” and insert “Schedule 1”;</Text>
+							</P3para>
+						</P3>
+						
+<!-- User guide example: UG01901. Taken from the section 'Inline structures and local formatting' -->
+								
+						<P3>
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in the Schedule–</Text>
+								<P4>
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>in question 4 of “<Span xml:lang="cy">Ffurflen Rhif 5</Span>”, “<Span xml:lang="cy">Ffurflen Rhif 6</Span>”, “<Span xml:lang="cy">Ffurflen Rhif 7</Span>”, “<Span xml:lang="cy">Ffurflen Rhif 9A</Span>” and “<Span xml:lang="cy">Ffurflen Rhif 10</Span>”, add after the words “<Span xml:lang="cy">ar ba lawr</Span>” the words “<Span xml:lang="cy">neu loriau</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>in question 1 of “<Span xml:lang="cy">Ffurflen Rhif 10</Span>” for the words “<Span xml:lang="cy">yr ydych am gofrestru rhent ar ei gyfer</Span>” there are substituted the words “<Span xml:lang="cy">y mae'r rhent wedi ei gofrestru ar ei gyfer</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>iii</Pnumber>
+									<P4para>
+										<Text>at the end of paragraph 5 of “<Span xml:lang="cy">Ffurflen Rhif 13</Span>” add the word “<Span xml:lang="cy">teg</Span>” after the word “<Span xml:lang="cy">rhent</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>iv</Pnumber>
+									<P4para>
+										<Text>in question 15 of “<Span xml:lang="cy">Ffurflen Rhif 5</Span>” and in question 14 of “<Span xml:lang="cy">Ffurflen Rhif 7</Span>” add after the words “<Span xml:lang="cy">unrhyw waith</Span>” the words “<Span xml:lang="cy">neu waith</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>v</Pnumber>
+									<P4para>
+										<Text>in question 11 of “<Span xml:lang="cy">Ffurflen Rhif 10</Span>” for the word “<Span xml:lang="cy">Os</Span>” substitute “<Span xml:lang="cy">A</Span>” and add after the words “<Span xml:lang="cy">unrhyw waith</Span>” the words “<Span xml:lang="cy">neu waith</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>vi</Pnumber>
+									<P4para>
+										<Text>in question 11 of “<Span xml:lang="cy">Ffurflen Rhif 9A</Span>” after the word “<Span xml:lang="cy">teg</Span>” add the words “<Span xml:lang="cy">gan gynnwys y dreth gyngor</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>vii</Pnumber>
+									<P4para>
+										<Text>for the third question in question 11 of “<Span xml:lang="cy">Ffurflen Rhif 6</Span>”, there is substituted:–</Text>
+										<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" xml:lang="cy" Format="default">
+											<Text>A oedd unrhyw waith trwsio cychwynnol i'w wneud? Oedd/Nac oedd Ticiwch un blwch</Text>
+										</BlockAmendment>
+										<AppendText>;</AppendText>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>viii</Pnumber>
+									<P4para>
+										<Text>for the fourth question in question 11 “<Span xml:lang="cy">Ffurflen Rhif 6</Span>”, for the word “<Span xml:lang="cy">“Do”</Span>” there is substituted the word “<Span xml:lang="cy">“Oedd”</Span>” and for the final question, for the word “<Span xml:lang="cy">“Naddo”</Span>” there are substituted the words “<Span xml:lang="cy">“Nacoedd”</Span>”;</Text>
+									</P4para>
+								</P4>
+								<P4>
+									<Pnumber>ix</Pnumber>
+									<P4para>
+										<Text>in the final question of question 11 of “<Span xml:lang="cy">Ffurflen Rhif 6</Span>”, for the word “<Span xml:lang="cy">wneud</Span>” there is substituted the word “<Span xml:lang="cy">orffen</Span>”.</Text>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Secretary of State for Wales</Text>
+					</Para>
+					<Signee>
+						<PersonName>Sir Wyn Roberts</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Department>Welsh Office</Department>
+						<DateSigned Date="1994-03-10">
+							<DateText>10th March 1994</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes AltVersionRefs="v00001">
+			<Title>Explanatory Note</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>The Rent Act 1977 (Forms, etc) (Welsh Forms and Particulars) Regulations 1993<FootnoteRef Ref="f00004"/> (“the Welsh Regulations”) prescribed Welsh versions of forms number 5, 6, 7, 9A, 10, 11, 12 and 13 of the Rent Act 1977 (Forms, etc) Regulations 1980<FootnoteRef Ref="f00005"/> as amended by the Rent Act 1977 (Forms, etc) (Amendment) Regulations 1984<FootnoteRef Ref="f00006"/>, 1987<FootnoteRef Ref="f00007"/>, 1988<FootnoteRef Ref="f00008"/> and 1993<FootnoteRef Ref="f00009"/>. These Regulations are made to correct defects in the Welsh Regulations. </Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1977" Number="0042">1977 c. 42</Citation>; section 67(2) was substituted by the <Citation id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0051">Housing Act 1980 (c. 51)</Citation>, section 59(2); section 67A was inserted by paragraph 3 of Schedule 2 to the <Citation id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="0651">Local Government and Finance (Housing) (Consequential Amendments) Order 1993 (S.I. 1993/651)</Citation> and has effect in transitional cases; section 73(3) was substituted by section 62(3) of the <Citation id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0051">Housing Act 1980 (c. 51)</Citation>; section 74(1) was amended by section 41(1) of the <Citation id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0050">Housing Act 1988 (c. 50)</Citation> and by paragraph 51 of Schedule 11 to the <Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1989" Number="0042">Local Government and Housing Act 1989 (c. 42)</Citation> and see the definition of “prescribed” in section 75 of the Act; section 79(2) was amended by paragraph 43 of Schedule 25 to the Housing Act 1980. Sections 67, 67A and 74(1) of the 1977 Act are applied by section 13 of the <Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1976" Number="0080">Rent (Agriculture) Act 1976 (c. 80)</Citation> to statutory tenancies under the 1976 Act. Section 13 was amended by paragraph 75 of Schedule 23 to the Rent Act 1977, Schedule 18 to the Housing Act 1988, and paragraphs 1 and 2 of Schedule 2 to the Local Government Finance (Housing) (Consequential Amendments) Order 1993.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>
+						<Citation id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0038">1993 c. 38</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="1511">1993/1511</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="1511">1993/1511</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="1980" Number="1697">1980/1697</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="1984" Number="1391">1984/1391</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="0266">1987/266</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="1988" Number="2195">1988/2195</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="0655">1993/655</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1993 Rhif 1511.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00011">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1980 Rhif 1697.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00012">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1984 Rhif 1391.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00013">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1987 Rhif 266.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00014">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1988 Rhif 2195.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00015">
+			<FootnoteText>
+				<Para>
+					<Text>O.S. 1993 Rhif 655.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+
+<!-- User guide example: UG01902. Taken from the section 'Versions' -->
+
+	<Versions>
+		<Version id="v00001" Class="text" Language="Welsh" Description="Welsh version">
+			<ExplanatoryNotes xml:lang="cy">
+				<Title>Nodyn Esboniadol</Title>
+				<Comment>
+					<Para>
+						<Text>(Nid yw'r nodyn hwn yn rhan o'r Rheoliadau)</Text>
+					</Para>
+				</Comment>
+				<P>
+					<Text>Pennodd y Rent Act 1977 (Forms, etc) (Welsh Forms and Particulars) Regulations 1993<FootnoteRef Ref="f00010"/> (“y Rheoliadau Cymraeg”) fersiynau Cymraeg o Ffurflenni rhif 5, 6, 7, 9A, 10, 11, 12 a 13 y Rent Act 1977 (Forms, etc) (Amendment) Regulations 1980<FootnoteRef Ref="f00011"/> fel y'u diwygiwyd gan y Rent Act 1977 (Forms, etc) (Amendment) Regulations 1984<FootnoteRef Ref="f00012"/>, 1987<FootnoteRef Ref="f00013"/>, 1988<FootnoteRef Ref="f00014"/> a 1993<FootnoteRef Ref="f00015"/> . Mae'r Rheoliadau hyn yn cael eu gwneud i gywiro diffygion yn y Rheoliadau Cymraeg. </Text>
+				</P>
+			</ExplanatoryNotes>
+		</Version>
+	</Versions>
+</Legislation>
