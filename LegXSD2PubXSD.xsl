@@ -10,19 +10,26 @@
         Then enhanced to drop atom.xsd to make the schema MSMXL compliant to allow  reduced model (no atom:link) used in publication system.
         We now have global parameters to control this behaviour.
         
-        Note: At this point in time, this XSLT should no longer be needed but it should stay as
+        Note: At this point in time, this XSLT should only be needed to validate legacy data in legacy systems (SLD) 
         a) we may have to create schema in legacy mode to compare to old schema
         b) if the atom.xsd testing does not work in some system or other then the schema can still have atom.xsd dropped temporarily
         c) We may develop alternative validations for some models between editorial and delivery schemas and one option would be to use this script to change the model if we cannot do it another way.
+        
+        Change 22/04/20
+        From schema v2.2 onward we will no longer be maintaining schemaLegislationBase-v1-0.xsd as a separate file 
+        and so the script has been changed to generate it from legislation.xsd
+        This is controlled by $gvGenerateBase
     -->
     
     <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/unified-master-schema'" as="xs:string"/>
     <xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
     <xsl:param name="gpConvertToTsoNS" select="'true'" as="xs:string"/>
     <xsl:param name="gpDropAtom" select="'false'" as="xs:string"/>
+    <xsl:param name="gpGenerateBase" select="'true'" as="xs:string"/>
     
     <xsl:variable name="gvConvertToTsoNS" select="$gpConvertToTsoNS='true'" as="xs:boolean"/>
     <xsl:variable name="gvDropAtom" select="$gpDropAtom='true'" as="xs:boolean"/>
+    <xsl:variable name="gvGenerateBase" select="$gpGenerateBase='true'" as="xs:boolean"/>
     
     <xsl:template match="/">
         <xsl:message>Converting schema: Publication Namespace is <xsl:value-of select="$gvConvertToTsoNS"/> Drop atom is <xsl:value-of select="$gvDropAtom"/></xsl:message>
@@ -41,21 +48,42 @@
         <xsl:variable name="vPathAfterBaseFolder" select="substring-after($pFileURI, $gpInputPath)" as="xs:string"/>
         <xsl:variable name="vOutFilename" select="concat($gpOutputPath,$vPathAfterBaseFolder)" as="xs:string"/>
         <xsl:message>input = <xsl:value-of select="$pFileURI"/> output = <xsl:value-of select="$vOutFilename"/></xsl:message>
-        <!-- process the file -->
-        <xsl:result-document encoding="UTF-8" href="{$vOutFilename}">
+        <xsl:choose>
+            <xsl:when test="$gvGenerateBase and (@id='SchemaLegislationBase') and ends-with($vOutFilename,'/schemaLegislationBase-v1-0.xsd')">
+                <!-- do NOT process this file as in latest schema the managed source file should NOT 
+                    even be present and will be replaced by copying the legalisation file (see below) -->
+                <xsl:message>
+                    <xsl:text>Warning: File </xsl:text>
+                    <xsl:value-of select="$pFileURI"/>
+                    <xsl:text> should NOT be present in managed schema files any more.</xsl:text>
+                    <xsl:text>This script WILL create a copy of the file for legacy processes by duplicating the managed schema file legislation.xsd.</xsl:text></xsl:message>
+            </xsl:when>
+            <xsl:otherwise>
+                <!-- process the file -->
+                <xsl:result-document encoding="UTF-8" href="{$vOutFilename}">
 <xsl:text>
 </xsl:text>
-            <xsl:apply-templates select="."/>
-        </xsl:result-document>
-        <!-- auto generate old file name -->
-        <xsl:if test="(@id='SchemaENbase') and ends-with($vOutFilename,'/en.xsd')">
-            <xsl:message>input = <xsl:value-of select="$pFileURI"/> output = <xsl:value-of select="replace($vOutFilename,'/en.xsd','/schemaENbase-v0-1.xsd')"/></xsl:message>
-            <xsl:result-document encoding="UTF-8" href="{replace($vOutFilename,'/en.xsd','/schemaENbase-v0-1.xsd')}">
+                    <xsl:apply-templates select="."/>
+                </xsl:result-document>
+                <!-- auto generate old file names by duplicating current files then saving to new names -->
+                <xsl:if test="(@id='SchemaENbase') and ends-with($vOutFilename,'/en.xsd')">
+                    <xsl:message>input = <xsl:value-of select="$pFileURI"/> output = <xsl:value-of select="replace($vOutFilename,'/en.xsd','/schemaENbase-v0-1.xsd')"/></xsl:message>
+                    <xsl:result-document encoding="UTF-8" href="{replace($vOutFilename,'/en.xsd','/schemaENbase-v0-1.xsd')}">
 <xsl:text>
 </xsl:text>
-                <xsl:apply-templates select="."/>
-            </xsl:result-document>
-        </xsl:if>
+                        <xsl:apply-templates select="."/>
+                    </xsl:result-document>
+                </xsl:if>
+                <xsl:if test="$gvGenerateBase and (@id='SchemaLegislation') and ends-with($vOutFilename,'/legislation.xsd')">
+                    <xsl:message>input = <xsl:value-of select="$pFileURI"/> output = <xsl:value-of select="replace($vOutFilename,'/legislation.xsd','/SchemaLegislationBase-v1-0.xsd')"/></xsl:message>
+                    <xsl:result-document encoding="UTF-8" href="{replace($vOutFilename,'/legislation.xsd','/schemaLegislationBase-v1-0.xsd')}">
+<xsl:text>
+</xsl:text>
+                        <xsl:apply-templates select="."/>
+                    </xsl:result-document>
+                </xsl:if>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <!-- swap schema element default and target namespaces only where required -->

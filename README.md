@@ -4,9 +4,20 @@ The schemas provided are intended to describe UK Legislation.
 Crown copyright 2018, 2019, 2020
 
 ## Release Notes
-### Version 2.1
+### Version 2.2
+
 Release date: TBD
 Features and Fixes (TBC):
+
+* New level schema for amendment (Effects) data legislationEffects.xsd
+
+* Issue #172451773 delete top-level schema schemaLegislationBase-v1-0.xsd as it is not used nay more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
+
+* TBD
+
+### Version 2.1
+Release date: TBD
+Features and Fixes :
 
 * New schema version numbering scheme introduced (see below)
 
