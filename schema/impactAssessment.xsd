@@ -2,7 +2,7 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" version="2.1">
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" version="2.2">
 	
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -28,6 +28,7 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name					Modification
+			2.2		Colin Mackenzie		Version updated to 2.2 (along with all top-level schema)
 			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
 			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema

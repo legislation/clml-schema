@@ -4,7 +4,7 @@
     xmlns="http://www.legislation.gov.uk/namespaces/error"
     xmlns:errl="http://www.legislation.gov.uk/namespaces/error"
     elementFormDefault="qualified"  attributeFormDefault="unqualified"
-    version="2.0" id="ukGovErrors">
+    version="2.2" id="ukGovErrors">
     
     <xsd:annotation>
         <xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/"
@@ -21,7 +21,7 @@
                 <dcq:created>2018-11-12</dcq:created>
             </dc:date>
             <dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-04-22</dcq:modified>
 			</dc:date>
             <xsd:documentation>
                 Namespace information:
@@ -30,8 +30,9 @@
             <xsd:documentation>
                 Modification information
                 Version	Name				Modification
+                2.2		Colin Mackenzie	 Added Affecting attribute to missingUnappliedEffect
                 2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-                1.1     Colin Mackenzie     Added to enable data to be validated
+                1.1        Colin Mackenzie     Added to enable data to be validated
                 1.0		Dave Pawson  		Created historically but not referenced in released schemas
             </xsd:documentation>
         </xsd:appinfo>
@@ -61,6 +62,8 @@
             <xsd:documentation>Indicate missing ukm:UnappliedEffect element(s)</xsd:documentation>
         </xsd:annotation>
         <xsd:attribute name="Affected" type="xsd:string" form="qualified" use="optional"/>
+		<!-- Added as part of issues found ewhen testing #172146599  -->
+        <xsd:attribute name="Affecting" type="xsd:string" form="qualified" use="optional"/>
     </xsd:attributeGroup>
     
 </xsd:schema>

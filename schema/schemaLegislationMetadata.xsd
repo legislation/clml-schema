@@ -5,7 +5,7 @@
 	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.1" id="schemaLegislationMetadata">
+	attributeFormDefault="unqualified" version="2.2" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-26</dcq:modified>
+				<dcq:modified>2020-04-22</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,6 +30,8 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.2		Colin Mackenzie	 Added attributes found in test data that SHOULD have been present - SuggestedCommentary and errl:Affecting (by upodating errl:missingUnappliedEffect)
+			2.2		Colin Mackenzie	 Changed UnappliedEffects to use global compelex type EffectsType (so that new top level schema legsialtioNEffects.xsd can re-use the definition)
 			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
 			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
 			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
@@ -735,80 +737,86 @@
 		</xsd:complexType>
 	</xsd:element>
 
-	<xsd:element name="UnappliedEffect">
+	<xsd:element name="UnappliedEffect" type="EffectType">
+		<xsd:annotation>
+			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation (currently generated from effects spreadsheet) that has not yet been integrated into the revised document.</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:complexType name="EffectType">
 		<xsd:annotation>
 			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation (currently generated from effects spreadsheet).</xsd:documentation>
 		</xsd:annotation>
-		<xsd:complexType>
-			<!-- Original more strict order did not match data
-				<xsd:sequence>
-				<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="AffectedTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
-				<xsd:element name="AffectingTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
-				<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element ref="InForceDates" minOccurs="0"/>
-			</xsd:sequence>-->
-			<!-- #113004935 -->
-			<xsd:choice minOccurs="1" maxOccurs="unbounded">
-				<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element ref="AffectedTitle" minOccurs="0" maxOccurs="unbounded"/>
-				<xsd:element ref="AffectingTitle" minOccurs="0" maxOccurs="unbounded"/>
-				<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element ref="InForceDates" minOccurs="0"/>
-			</xsd:choice>
-			<xsd:attribute name="New" type="xsd:boolean"/>
-			<xsd:attribute name="Type" type="xsd:token" use="required"/>
-			<xsd:attribute name="TypeNotes" type="xsd:string"/>
-			<xsd:attribute name="Notes" type="xsd:string"/>
-			<xsd:attribute name="Comments" type="xsd:string"/>
-			<xsd:attribute name="AffectingURI" type="xsd:anyURI">
-				<xsd:annotation>
-					<xsd:documentation>A link to the legislation (and the section within it) that affects this one. Or (if AffectingUpTo is also present), a link to the first section affecting this one.</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
-			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectingYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger"/>
-			<xsd:attribute name="AffectingProvisions" type="xsd:string"/>
-			<xsd:attribute name="AffectedURI" type="xsd:anyURI">
-				<xsd:annotation>
-					<xsd:documentation>A link to the section in this legislation that has been affected. Or (if the AffectedUpTo attribute is also present), a link to the first of the affected sections.</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute>
-			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectedYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger"/>
-			<xsd:attribute name="AffectedProvisions" type="xsd:string"/>
-			<xsd:attribute name="Index" type="xsd:integer"/>
-			<xsd:attribute name="Row" type="xsd:integer"/>
-			<xsd:attribute name="Modified" type="xsd:dateTime"/>
-			<xsd:attribute name="AppliedModified" type="xsd:dateTime"/>
-			<xsd:attribute name="URI" type="xsd:anyURI"/>
-			<xsd:attribute name="Created" type="xsd:dateTime"/>
-			<xsd:attribute name="EffectId" type="xsd:string"/>
-			<xsd:attribute name="RequiresApplied" type="xsd:boolean"/>
-			<!-- changed from ExtentType as data also contins "Same as affected" -->
-			<xsd:attribute name="AffectedEffectsExtent" type="leg:AffectingExtentType"/>
-			<xsd:attribute name="AffectedExtent" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectedExtentSections" type="xsd:string"/>
-			<xsd:attribute name="AffectedTerritorialApplication" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectingCommencementSections" type="xsd:anyURI"/>
-			<xsd:attribute name="AffectingEffectsExtent" type="leg:AffectingExtentType"/>
-			<xsd:attribute name="AffectingExtent" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectingExtentSections" type="xsd:string"/>
-			<xsd:attribute name="AffectingRoyalAssent" type="xsd:date"/>
-			<xsd:attribute name="AffectingTerritorialApplication" type="leg:ExtentType"/>
-			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
-			<xsd:attribute name="NewRandomSeq" type="xsd:integer"/>
-			<xsd:attributeGroup ref="errl:missingUnappliedEffect"/>
-		</xsd:complexType>
-	</xsd:element>
+		<!-- Original more strict order did not match data
+			<xsd:sequence>
+			<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="AffectedTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="AffectingTitle" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element ref="InForceDates" minOccurs="0"/>
+		</xsd:sequence>-->
+		<!-- #113004935 -->
+		<xsd:choice minOccurs="1" maxOccurs="unbounded">
+			<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="AffectingProvisions" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="Commenced" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element ref="AffectedTitle" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="AffectingTitle" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
+			<xsd:element ref="InForceDates" minOccurs="0"/>
+		</xsd:choice>
+		<xsd:attribute name="New" type="xsd:boolean"/>
+		<xsd:attribute name="Type" type="xsd:token" use="required"/>
+		<xsd:attribute name="TypeNotes" type="xsd:string"/>
+		<xsd:attribute name="Notes" type="xsd:string"/>
+		<xsd:attribute name="Comments" type="xsd:string"/>
+		<xsd:attribute name="AffectingURI" type="xsd:anyURI">
+			<xsd:annotation>
+				<xsd:documentation>A link to the legislation (and the section within it) that affects this one. Or (if AffectingUpTo is also present), a link to the first section affecting this one.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
+		<xsd:attribute name="AffectingYear" type="xsd:gYear"/>
+		<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger"/>
+		<xsd:attribute name="AffectingProvisions" type="xsd:string"/>
+		<xsd:attribute name="AffectedURI" type="xsd:anyURI">
+			<xsd:annotation>
+				<xsd:documentation>A link to the section in this legislation that has been affected. Or (if the AffectedUpTo attribute is also present), a link to the first of the affected sections.</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="AffectedClass" type="leg:DocumentMainType"/>
+		<xsd:attribute name="AffectedYear" type="xsd:gYear"/>
+		<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger"/>
+		<xsd:attribute name="AffectedProvisions" type="xsd:string"/>
+		<xsd:attribute name="Index" type="xsd:integer"/>
+		<xsd:attribute name="Row" type="xsd:integer"/>
+		<xsd:attribute name="Modified" type="xsd:dateTime"/>
+		<xsd:attribute name="AppliedModified" type="xsd:dateTime"/>
+		<xsd:attribute name="URI" type="xsd:anyURI"/>
+		<xsd:attribute name="Created" type="xsd:dateTime"/>
+		<xsd:attribute name="EffectId" type="xsd:string"/>
+		<xsd:attribute name="RequiresApplied" type="xsd:boolean"/>
+		<!-- changed from ExtentType as data also contins "Same as affected" -->
+		<xsd:attribute name="AffectedEffectsExtent" type="leg:AffectingExtentType"/>
+		<xsd:attribute name="AffectedExtent" type="leg:ExtentType"/>
+		<xsd:attribute name="AffectedExtentSections" type="xsd:string"/>
+		<xsd:attribute name="AffectedTerritorialApplication" type="leg:ExtentType"/>
+		<xsd:attribute name="AffectingCommencementSections" type="xsd:anyURI"/>
+		<xsd:attribute name="AffectingEffectsExtent" type="leg:AffectingExtentType"/>
+		<xsd:attribute name="AffectingExtent" type="leg:ExtentType"/>
+		<xsd:attribute name="AffectingExtentSections" type="xsd:string"/>
+		<xsd:attribute name="AffectingRoyalAssent" type="xsd:date"/>
+		<xsd:attribute name="AffectingTerritorialApplication" type="leg:ExtentType"/>
+		<xsd:attribute name="SuggestedCommentary" type="xsd:string"/>
+		<xsd:attribute name="NewRandomSeq" type="xsd:integer"/>
+		<!-- Added as part of issues found ewhen testing #172146599  -->
+		<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
+		<xsd:attributeGroup ref="errl:missingUnappliedEffect"/>
+	</xsd:complexType>
 
 	<xsd:complexType name="ProvisionsStructure" mixed="true">
 		<xsd:choice minOccurs="0" maxOccurs="unbounded">
