@@ -9,7 +9,7 @@ Crown copyright 2018, 2019, 2020
 Release date: TBD
 Features and Fixes (TBC):
 
-* New level schema for amendment (Effects) data legislationEffects.xsd
+* Issue #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
 
 * Issue #172451773 delete top-level schema schemaLegislationBase-v1-0.xsd as it is not used nay more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
 
