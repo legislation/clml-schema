@@ -15,7 +15,9 @@ Features and Fixes (TBC):
 
 * Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary 
 *
-* Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used nay more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
+* Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
+
+* Change #172575932 - Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
 
 * TBD
 

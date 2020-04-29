@@ -21,7 +21,7 @@
 				<dcq:created>2008-07-04</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-06</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -31,6 +31,7 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				   Modification
+			2.2		Colin Mackenzie		Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.2		Colin Mackenzie		Version updated to 2.2 (along with all top-level schema)
 			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
 			2.1		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
@@ -138,12 +139,4 @@
 			<xsd:element ref="Note"/>
 		</xsd:sequence>
 	</xsd:group>
-	
-	<!-- See #113007733 and #162038035
-		For all schema except publication schema schemaLegislationBase-v1-0.xsd
-		we define the allowed extra list of deprecated types to be "none"
-		so it validates against current not deprecated list-->
-	<xsd:simpleType name="DocumentMainType">
-		<xsd:restriction base="DocumentMainTypeBasic"/>
-	</xsd:simpleType>
 </xsd:schema>
