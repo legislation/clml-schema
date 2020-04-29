@@ -14,7 +14,9 @@ Features and Fixes (TBC):
 * Feature #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
 
 * Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary 
-*
+
+* Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
+
 * Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
 
 * Change #172575932 - Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
