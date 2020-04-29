@@ -3,7 +3,7 @@
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xhtml="http://www.w3.org/1999/xhtml" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0">
+	attributeFormDefault="unqualified" version="2.2">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -19,11 +19,12 @@
 				<dcq:created>2018-11-10</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>>2018-11-20</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.2			Colin Mackenzie		Added support for new labelled list type
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0			Colin Mackenzie		Created
 			</xsd:documentation>
@@ -112,6 +113,8 @@
 			<xsd:element ref="P3group"/>
 			<xsd:element ref="xhtml:table"/>
 			<xsd:element ref="Division"/>
+			<!-- #172192629 new labelled list type -->
+			<xsd:element ref="LabelledList"/>
 		</xsd:choice>
 	</xsd:group>
 

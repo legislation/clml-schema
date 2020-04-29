@@ -3,7 +3,7 @@
 	xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.1"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.2"
 	id="SchemaLegislationTypes" xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -20,13 +20,14 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2019-05-02</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.1			Colin Mackenzie	Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.2			Colin Mackenzie	 Added support for new labelled list type
+			2.1			Colin Mackenzie	 Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
 			1.9			Jim Mangiafico		Expanded to accommodate European Union
 			1.8			Colin Mackenzie		Restructure to have single file for editorial and legislation
@@ -94,6 +95,8 @@
 				<xsd:element ref="EUBody"/>
 				<xsd:element ref="Division"/>
 				<xsd:element ref="Title"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
 		</xsd:choice>
@@ -294,6 +297,8 @@
 			<xsd:element ref="Tabular"/>
 			<xsd:element ref="Form"/>
 			<xsd:element ref="Formula"/>
+			<!-- #172192629 new labelled list type -->
+			<xsd:element ref="LabelledList"/>
 			<xsd:group ref="err:Errors"/>
 		</xsd:choice>
 	</xsd:group>
@@ -429,4 +434,27 @@
 		</xsd:attribute>
 	</xsd:attributeGroup>
 
+	<!-- #172192629 new labelled list type -->
+	<xsd:group name="LabelledListItemParaContentModel">
+		<xsd:annotation>
+			<xsd:documentation>Defines the content model for a para content (after the title) in a labelled item.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:choice>
+			<!-- These contents are taken from P2para model as requested
+			This actually violates part of the original design of the schema. To quote from the original Technical Reference:
+			"Thus, the structure of documents is comprised of elements <P1>–<P7> where numbered structures
+			are required. The level of indentation dictates which should be used. An important point is that,
+			where the sequence of hierarchy is broken, then the pn structure stops. That is, where a numbered
+			paragraph contains unnumbered paragraphs (generally unordered lists) then any substructures must
+			also be lists. Or, to put it another way, once the pn hierarchy is broken, it does not restart."
+			However a P2-P7 may contain a tabular element wth a P1-P7 in a table cell.
+			Given the AKN design and the fact that sub items in a LabelledListItemPara are not really parts of an ordered list we have to use P3-P5)
+			-->
+			<xsd:group ref="InlineModel"/>
+			<xsd:element ref="P3"/>
+			<xsd:element ref="P4"/>
+			<xsd:element ref="P5"/>
+			<xsd:element ref="P3group"/>
+		</xsd:choice>
+	</xsd:group>
 </xsd:schema>

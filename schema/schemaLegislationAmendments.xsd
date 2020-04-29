@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.2"
 	id="SchemaLegislationAmendments">
 
 	<xsd:annotation>
@@ -16,7 +16,7 @@
 			<dc:publisher>The Stationery Office</dc:publisher>
 			<dc:rights>Crown copyright 2018</dc:rights>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<dc:date>
 				<dcq:modified>2018-11-06</dcq:modified>
@@ -24,6 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.2			Colin Mackenzie			 Added support for new labelled list type
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.6			Jim Mangiafico	  Expanded to accommodate European Union legislation
 			1.5			Paul Appleby		Added Group to amendment content model and fragment context
@@ -105,6 +106,8 @@
 				<xsd:element ref="Title"/>
 				<xsd:element ref="Subtitle"/>
 				<xsd:element ref="Pnumber"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="LegislationAmendmentAttributes"/>
 			<xsd:attributeGroup ref="QuotesAttributes"/>
