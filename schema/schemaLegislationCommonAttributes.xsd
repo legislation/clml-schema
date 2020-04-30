@@ -22,7 +22,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.2			Colin Mackenzie	 #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective"
+			2.2			Colin Mackenzie	 #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective" or an empty string
 			2.1			Colin Mackenzie	 Removed default values from FragmentAttributes (was added as part of unified schema merge) see issue #171599021
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.1			Colin Mackenzie	 Changed to use "RefsLinkType" so that validation differs between legislation top-level schema and editorial fragment
