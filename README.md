@@ -13,6 +13,8 @@ Features and Fixes (TBC):
 
 * Feature #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
 
+* Change #172192332 Tighten validation on AltDates and ValidDates in FragmentAttributes group
+
 * Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary 
 
 * Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
