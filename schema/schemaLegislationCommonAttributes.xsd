@@ -157,10 +157,7 @@
 		</xsd:attribute>
 	</xsd:attributeGroup>
 	
-	<!-- #172192332 Due to limitations of xsd schema and the way the data is currently modelled
-		this is the best we can do. 
-		It CANNOT check for how many days are allowed in a particular month or for leap years (as we cant use xs:date because of 'prospective' 
-		but the dates supplied are valid anyway.
+	<!-- #172192332 Due to limitations of xsd schema this is the best we can do. 
 		As it is a list of values this will allow multiple "prospective" but those do not apply and would have extra impact if they did.
 	-->
 	<xsd:simpleType name="DateOrProspectiveListType">
@@ -168,24 +165,17 @@
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="DateOrProspectiveType">
-		<xsd:restriction base="xsd:string">
-			<!-- the ? at end means that it will validate with an empty string as all choices are optional) -->
-			<xsd:pattern value="(prospective|([12]\d\d\d-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])))?"/>
-		</xsd:restriction>
+		<xsd:union>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:date"/>
+			</xsd:simpleType>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:pattern value="prospective"/>
+					<!-- allow empty strings for now -->
+					<xsd:pattern value=""/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:union>
 	</xsd:simpleType>
-	
-	<!-- this does not work for us as union only allows a list of dates OR a prospective string not both (as union validates using whatever data type matches first 
-	<xsd:simpleType name="ProspectiveValueType">
-		<xsd:restriction base="xsd:string">
-			<xsd:enumeration value="prospective"/>
-			<xsd:enumeration value=""/>
-		</xsd:restriction>
-	</xsd:simpleType>
-	<xsd:simpleType name="DateListType">
-		<xsd:list itemType="xsd:date"/>
-	</xsd:simpleType>
-	<xsd:simpleType name="AltValidDatesType">
-		<xsd:union memberTypes="ProspectiveValueType DateListType"/>
-	</xsd:simpleType>
-	-->
 </xsd:schema>
