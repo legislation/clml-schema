@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0" id="SchemaNumberedSections"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaNumberedSections"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -19,14 +19,16 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.6		Jim Mangiafico		Expanded to accommodate European Union
-			1.5		Colin Mackenzie		Restructured to have single file for editorial and legislation
+			2.3		Colin Mackenzie	 Added support for new labelled list type
+			2.3		Colin Mackenzie	 FootnoteRef in Pnumber removed as unused and unnecessary see #172317475
+			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			1.6		Jim Mangiafico	  Expanded to accommodate European Union
+			1.5		Colin Mackenzie	 Restructured to have single file for editorial and legislation
 			1.4		Paul Appleby		Removed restriction on Pnumber length
 			1.3		Paul Appleby		Added restrictions to Pnumber
 			1.2		Paul Appleby		Add LayoutAttributes to P1group
@@ -129,7 +131,8 @@
 				<xsd:element ref="Addition"/>
 				<xsd:element ref="Repeal"/>
 				<xsd:element ref="Substitution"/>
-				<xsd:element ref="FootnoteRef"/>
+				<!-- removed ans unused and unnecessary see #172317475
+					<xsd:element ref="FootnoteRef"/>-->
 				<xsd:element ref="CommentaryRef"/>
 				<xsd:element ref="Definition" />
 				<xsd:group ref="err:Errors"/>
@@ -152,6 +155,8 @@
 				<xsd:element ref="P4"/>
 				<xsd:element ref="P2group"/>
 				<xsd:element ref="P3group"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -218,6 +223,8 @@
 				<xsd:element ref="P4"/>
 				<xsd:element ref="P5"/>
 				<xsd:element ref="P3group"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -278,6 +285,8 @@
 				<xsd:group ref="InlineModel"/>
 				<xsd:element ref="P4"/>
 				<xsd:element ref="P5"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -311,6 +320,8 @@
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
 				<xsd:element ref="P5"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -344,6 +355,8 @@
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
 				<xsd:element ref="P6"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -377,6 +390,8 @@
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
 				<xsd:element ref="P7"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -409,6 +424,8 @@
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
 				<xsd:group ref="InlineModel"/>
+				<!-- #172192629 new labelled list type -->
+				<xsd:element ref="LabelledList"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -432,6 +449,8 @@
 					<xsd:element ref="P3group"/>
 					<xsd:element ref="P3"/>
 					<xsd:element ref="P4"/>
+					<!-- #172192629 new labelled list type -->
+					<xsd:element ref="LabelledList"/>
 				</xsd:choice>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>

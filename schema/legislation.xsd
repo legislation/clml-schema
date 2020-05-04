@@ -4,7 +4,7 @@
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.1" id="SchemaLegislation"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaLegislation"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -21,7 +21,7 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-06</dcq:modified>
+				<dcq:modified>2020-04-29</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -31,7 +31,10 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				   	Modification
-			2.1		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
+			2.3		Colin Mackenzie			Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
+			2.2		Colin Mackenzie			Version updated to 2.2 (along with all top-level schema)
+			2.2		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
+			2.1		Colin Mackenzie			New top level schema for version 2.1 (#171841757 Welsh parliament rename)
 			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
 			2.0		Colin Mackenzie			This schema has had most of its contents moved to schemaLegislationCore.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
 			1.0		Paul Appleby/Peter Lazar	Created
@@ -41,13 +44,5 @@
 
 	<!-- Legislation includes -->
 	<xsd:include schemaLocation="schemaLegislationCore.xsd"/>
-	
-	<!-- See #113007733 and #162038035 -->
-	<xsd:simpleType name="DocumentMainType">
-		<xsd:annotation>
-			<xsd:documentation>For all schema except publication schema schemaLegisaltionBase-v1-0.xsd we define the allowed extra list of deprecated types to be "none" so it validates against current not deprecated list</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="DocumentMainTypeBasic"/>
-	</xsd:simpleType>
 	
 </xsd:schema>

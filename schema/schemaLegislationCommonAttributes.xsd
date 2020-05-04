@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.1" id="SchemaCommonAttributes">
+	attributeFormDefault="unqualified" version="2.3" id="SchemaCommonAttributes">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Common Attributes Schema</dc:title>
@@ -22,6 +22,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.3			Colin Mackenzie	 #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective" or an empty string
 			2.1			Colin Mackenzie	 Removed default values from FragmentAttributes (was added as part of unified schema merge) see issue #171599021
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.1			Colin Mackenzie	 Changed to use "RefsLinkType" so that validation differs between legislation top-level schema and editorial fragment
@@ -136,8 +137,16 @@
 		<xsd:attribute name="BlanketAmendment" type="xsd:boolean"/>
 		<xsd:attribute name="Concurrent" type="xsd:boolean"/>
 		<xsd:attribute name="Match" type="xsd:boolean"/>
-		<xsd:attribute name="AltDates"/>
-		<xsd:attribute name="ValidDates"/>
+		<!-- #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective" 
+		e.g. 
+		2006-01-01
+		2006-01-01 2010-01-01
+		prospective
+		2006-01-01 2010-01-01 prospective
+		MAYBE empty string
+		-->
+		<xsd:attribute name="AltDates" type="DateOrProspectiveListType"/>
+		<xsd:attribute name="ValidDates" type="DateOrProspectiveListType"/>
 		<xsd:attributeGroup ref="ProvisionCountAttributes"/>
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="ProvisionCountAttributes">
@@ -147,4 +156,26 @@
 			</xsd:annotation>
 		</xsd:attribute>
 	</xsd:attributeGroup>
+	
+	<!-- #172192332 Due to limitations of xsd schema this is the best we can do. 
+		As it is a list of values this will allow multiple "prospective" but those do not apply and would have extra impact if they did.
+	-->
+	<xsd:simpleType name="DateOrProspectiveListType">
+		<xsd:list itemType="DateOrProspectiveType"/>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="DateOrProspectiveType">
+		<xsd:union>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:date"/>
+			</xsd:simpleType>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:pattern value="prospective"/>
+					<!-- allow empty strings for now -->
+					<xsd:pattern value=""/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:union>
+	</xsd:simpleType>
 </xsd:schema>

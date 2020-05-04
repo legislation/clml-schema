@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/metadata"
+	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:h="http://www.w3.org/1999/xhtml"
+	xmlns="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaLegislationEffects"
+	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+	
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Legislation Amendments/Effects Top Level Schema</dc:title>
+			<dc:description>Describes the effect models that for UK legislation</dc:description>
+			<dc:contributor>Colin Mackenzie</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaLegislationEffects</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2020-04-21</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2020-04-21</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Namespace information:
+			This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/metadata'
+			The suggested namespace prefix is ukm([U]nited [K]ingdom [M]etadata)
+			</xsd:documentation>
+			<xsd:documentation>
+			Modification information (for version number strategy see ../README.md)
+			Version	Name				   Modification
+			2.3		Colin Mackenzie		Created
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<!-- Legislation includes -->
+	<xsd:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="schemaLegislationEffectIncludes.xsd"/>
+	<xsd:include schemaLocation="schemaLegislationMetadata.xsd"/>
+
+	<xsd:element name="EffectsBatch">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>The EffectsBatch top level element is used for :</h:p>
+				<h:ul>
+					<h:li>Multiple effects grouped together produced from the Toes spreadsheet (ukm:EffectsBatch top level element with multiple ukm:Effect children)</h:li>
+					<h:li>Multiple effects delivered together from the bulk downloads site (ukm:EffectsBatch top level element with multiple ukm:Effects with multiple ukm:Effect children)</h:li>
+				</h:ul>
+				<h:p>Attributes ModificationStamp, AffectedExtents, and EffectResearch are present on Toes output</h:p>
+				<h:p>Attributes Year is present on BulkDownload output</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:group ref="EffectGroup" minOccurs="0" maxOccurs="unbounded"/>
+				<xsd:element ref="Effects" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:attribute name="ModificationStamp" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Does not use xsd:dateTime uses 26/11/2019 15:19:41</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Partial" type="xsd:boolean"/>
+			<xsd:attribute name="AffectedExtents" type="xsd:boolean"/>
+			<xsd:attribute name="EffectResearch" type="xsd:boolean"/>
+			<xsd:attribute name="Year" type="xsd:gYear"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Effects">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>The Effects element is used for:</h:p>
+				<h:ul>
+					<h:li>The data in the effects collection in MarkLogic (with multiple ukm:Effect children)</h:li>
+					<h:li>Grouped Effects within a ukm:EffectsBatch (from Bulk downloads)</h:li>
+					<p>Attributes Id, Year and Deployed are found in bulk download data.</p>
+				</h:ul>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:group ref="EffectGroup" minOccurs="0" maxOccurs="unbounded"/>
+			</xsd:choice>
+			<xsd:attribute name="Id" type="xsd:anyURI"/>
+			<xsd:attribute name="Year" type="xsd:gYear"/>
+			<xsd:attribute name="Deployed" type="xsd:dateTime"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<!-- Effect element defined in a group as it is not a valid top-level element -->
+	<xsd:group name="EffectGroup">
+		<xsd:sequence>
+			<xsd:element name="Effect">
+				<xsd:annotation>
+					<xsd:documentation>
+						<h:p>Defines an effect from another piece of legislation on another item of legislation (currently generated from effects spreadsheet) that has not yet been integrated into the revised document.</h:p>
+						<h:p>The only difference from an UnappliedEffect as that it has an "Applied" attribute</h:p>
+					</xsd:documentation>
+				</xsd:annotation>
+				<xsd:complexType>
+					<xsd:complexContent>
+						<xsd:extension base="EffectType">
+							<xsd:attribute name="Applied" type="xsd:boolean"/>
+						</xsd:extension>
+					</xsd:complexContent>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+	</xsd:group>
+	
+</xsd:schema>
