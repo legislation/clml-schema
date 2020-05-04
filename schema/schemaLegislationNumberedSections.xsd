@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaNumberedSections"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaNumberedSections"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -24,8 +24,8 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.2		Colin Mackenzie	 Added support for new labelled list type
-			2.2		Colin Mackenzie	 FootnoteRef in Pnumber removed as unused and unnecessary see #172317475
+			2.3		Colin Mackenzie	 Added support for new labelled list type
+			2.3		Colin Mackenzie	 FootnoteRef in Pnumber removed as unused and unnecessary see #172317475
 			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.6		Jim Mangiafico	  Expanded to accommodate European Union
 			1.5		Colin Mackenzie	 Restructured to have single file for editorial and legislation

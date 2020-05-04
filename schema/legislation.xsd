@@ -4,7 +4,7 @@
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaLegislation"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaLegislation"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -31,9 +31,10 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				   	Modification
-			2.2		Colin Mackenzie			Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
+			2.3		Colin Mackenzie			Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.2		Colin Mackenzie			Version updated to 2.2 (along with all top-level schema)
-			2.1		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
+			2.2		Colin Mackenzie			Added comment regarding link to new version strategy file and incremented top level schema number
+			2.1		Colin Mackenzie			New top level schema for version 2.1 (#171841757 Welsh parliament rename)
 			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
 			2.0		Colin Mackenzie			This schema has had most of its contents moved to schemaLegislationCore.xsd (so that top level legislation.xsd can have different definition of DocumentType from publication schema)
 			1.0		Paul Appleby/Peter Lazar	Created

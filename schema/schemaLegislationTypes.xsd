@@ -3,7 +3,7 @@
 	xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.2"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.3"
 	id="SchemaLegislationTypes" xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
@@ -25,8 +25,8 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.2			Colin Mackenzie	 Added support for new labelled list type
-			2.1			Colin Mackenzie	 Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
+			2.3			Colin Mackenzie	 Added support for new labelled list type
+			2.2			Colin Mackenzie	 Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
 			1.9			Jim Mangiafico		Expanded to accommodate European Union

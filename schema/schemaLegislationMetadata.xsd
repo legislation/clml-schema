@@ -5,7 +5,7 @@
 	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="schemaLegislationMetadata">
+	attributeFormDefault="unqualified" version="2.3" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -30,14 +30,14 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.2		Colin Mackenzie	 Removed some effects attributes as data is not required or is duplicate see #172576876 
-			2.2		Colin Mackenzie	 Added attributes found in test data that SHOULD have been present - SuggestedCommentary and errl:Affecting (by upodating errl:missingUnappliedEffect)
-			2.2		Colin Mackenzie	 Changed UnappliedEffects to use global compelex type EffectsType (so that new top level schema legsialtioNEffects.xsd can re-use the definition)
-			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
+			2.3		Colin Mackenzie	 Removed some effects attributes as data is not required or is duplicate see #172576876 
+			2.3		Colin Mackenzie	 Added attributes found in test data that SHOULD have been present - SuggestedCommentary and errl:Affecting (by upodating errl:missingUnappliedEffect)
+			2.3		Colin Mackenzie	 Changed UnappliedEffects to use global compelex type EffectsType (so that new top level schema legsialtioNEffects.xsd can re-use the definition)
+			2.2		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
+			2.2		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
+			2.2		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
+			2.2		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
-			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
-			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
-			2.1		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			2.0		W Holmes			Changes to Section and Sectionrange element 
 			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group

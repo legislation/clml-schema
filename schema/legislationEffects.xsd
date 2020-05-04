@@ -3,7 +3,7 @@
 	xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:h="http://www.w3.org/1999/xhtml"
 	xmlns="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaLegislationEffects"
+	attributeFormDefault="unqualified" version="2.3" id="SchemaLegislationEffects"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 	
 	<xsd:annotation>
@@ -30,7 +30,7 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				   Modification
-			2.2		Colin Mackenzie		Created
+			2.3		Colin Mackenzie		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>

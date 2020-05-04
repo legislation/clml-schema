@@ -4,7 +4,7 @@
 -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
 	targetNamespace="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml" version="2.1" id="atom">
+	xmlns:xhtml="http://www.w3.org/1999/xhtml" version="2.2" id="atom">
 	<xs:annotation>
 		<xs:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Atom schema</dc:title>
@@ -22,10 +22,10 @@
 			<xs:documentation>
 			Modification information (for version number strategy see ../readMe.txt)
 			Version	Name				   Modification
-			2.1		Colin Mackenzie		Changed the model for atom:category (not used in legislation) and atom:link (used in final data set)
+			2.2		Colin Mackenzie		Changed the model for atom:category (not used in legislation) and atom:link (used in final data set)
 												so that the models are deterministic and therefore can be supported by MSXML.
 												This was acheived by restricting the content model to attribute only which is  how the elements are used in legislation.
-			2.1		Colin Mackenzie		Added metadata and version and id attribute to be consistent with legislation schemas
+			2.2		Colin Mackenzie		Added metadata and version and id attribute to be consistent with legislation schemas
 											  (and to support new versions/documentation approach)
 			</xs:documentation>
 		</xs:appinfo>

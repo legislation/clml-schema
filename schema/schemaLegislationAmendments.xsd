@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.2"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.3"
 	id="SchemaLegislationAmendments">
 
 	<xsd:annotation>
@@ -24,7 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.2			Colin Mackenzie			 Added support for new labelled list type
+			2.3			Colin Mackenzie	 Added support for new labelled list type
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.6			Jim Mangiafico	  Expanded to accommodate European Union legislation
 			1.5			Paul Appleby		Added Group to amendment content model and fragment context

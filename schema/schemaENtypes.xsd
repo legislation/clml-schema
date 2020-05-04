@@ -6,7 +6,7 @@
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	elementFormDefault="qualified" 
 	attributeFormDefault="unqualified" 
-	version="2.2" 
+	version="2.3" 
 	id="SchemaENtypes">
 
 	<xsd:annotation>
@@ -29,7 +29,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name						Modification
-			2.2			Colin Mackenzie			 Added support for new labelled list type
+			2.3			Colin Mackenzie			 Added support for new labelled list type
 			2.0			Colin Mackenzie			 Numbering restarted at 2 for new EU and merged schema
 			1.0			Colin Mackenzie 			Restructured to reduce duplication with main legislation schema
 			0.2			Jeni Tennison			   Added Strike to the set of Emphasis types
