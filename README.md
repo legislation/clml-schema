@@ -4,7 +4,7 @@ The schemas provided are intended to describe UK Legislation.
 Crown copyright 2018, 2019, 2020
 
 ## Release Notes
-### Version 2.1
+### Version 2.2
 Release date: TBD
 Features and Fixes (TBC):
 
@@ -20,15 +20,22 @@ Features and Fixes (TBC):
 
 * Issue 161958070 - changed the model for the attributes on ukm:Correction to have stricter validation rules
 
-* Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
-
 * Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
-
-* Issue 171841757 - changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
 
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
 
 * Issue 172129366 - Added CommonSubAttributes to Division
+
+* The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
+
+
+### Version 2.1
+Release date: 05/05/20
+Features and Fixes:
+
+* Issue 171841757 - changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
+
+* Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
 
 ## Schema Documentation
 

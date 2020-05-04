@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.1" id="SchemaCommon">
+	attributeFormDefault="unqualified" version="2.2" id="SchemaCommon">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -23,8 +23,10 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
+			2.2		Colin Mackenzie		Updated SchemaVersion attribute
+			2.2		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
+			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.1		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
-			2.1		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1		Colin Mackenzie		Added EU values plus full UK list of "E+W+S+N.I.
 			1.0		Colin Mackenzie		Created
@@ -217,12 +219,13 @@
 			<xsd:documentation>Can be used to indicate the version of the schema to which the document pertains.</xsd:documentation>
 		</xsd:annotation>
 		<!--<xsd:attribute name="SchemaVersion" type="xsd:NMTOKEN" use="required" fixed="1.0"/>-->
-		<xsd:attribute name="SchemaVersion" use="optional" default="2.1">
+		<xsd:attribute name="SchemaVersion" use="optional" default="2.2">
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NMTOKEN">
 					<xsd:enumeration value="1.0"/>
 					<xsd:enumeration value="2.0"/>
 					<xsd:enumeration value="2.1"/>
+					<xsd:enumeration value="2.2"/>
 				</xsd:restriction>
 			</xsd:simpleType>
 		</xsd:attribute>
