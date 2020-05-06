@@ -15,7 +15,9 @@ Features and Fixes (TBC):
 
 * Change #172192332 Tighten validation on AltDates and ValidDates in FragmentAttributes group
 
-* Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary 
+* Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary
+
+* Change #172192631 - Removed most of the inline complexType for BlockAmendment and BlockExtract and changed it to extend the new CommonBlockAmendmentExtractGroup and CommonBlockAmendmentExtractAttributeGroup. Also create reusable enumerated lists for category 
 
 * Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
 
@@ -23,7 +25,6 @@ Features and Fixes (TBC):
 
 * Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
 
-* TBD
 
 ### Version 2.2
 Release date: TBD
