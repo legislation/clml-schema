@@ -61,6 +61,8 @@
 			<xsd:element ref="Abbreviation"/>
 			<xsd:element ref="Citation"/>
 			<xsd:element ref="Span"/>
+			<!-- #172251211 Add FootnoteRef -->
+			<xsd:element ref="FootnoteRef"/>
 		</xsd:choice>
 		<xsd:attributeGroup ref="CommonAttributes"/>
 		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required"/>

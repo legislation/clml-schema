@@ -25,6 +25,7 @@ Features and Fixes (TBC):
 
 * Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
 
+* Change #172251211 Add FootnoteRef to ChangeType (FootnoteRef now allowed in elements Addition, Repeal, Substitution)
 
 ### Version 2.2
 Release date: TBD
