@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-04-29</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.3		Colin Mackenzie	 As part of #172192631 changed DocumentCategory/@Value to reuse a common type
 			2.3		Colin Mackenzie	 Removed some effects attributes as data is not required or is duplicate see #172576876 
 			2.3		Colin Mackenzie	 Added attributes found in test data that SHOULD have been present - SuggestedCommentary and errl:Affecting (by upodating errl:missingUnappliedEffect)
 			2.3		Colin Mackenzie	 Changed UnappliedEffects to use global compelex type EffectsType (so that new top level schema legsialtioNEffects.xsd can re-use the definition)
@@ -677,15 +678,8 @@
 						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Value" use="required">
-							<xsd:simpleType>
-								<xsd:restriction base="xsd:string">
-									<xsd:enumeration value="primary"/>
-									<xsd:enumeration value="secondary"/>
-									<xsd:enumeration value="euretained"/>
-								</xsd:restriction>
-							</xsd:simpleType>
-						</xsd:attribute>
+						<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+						<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element ref="DocumentMainType"/>

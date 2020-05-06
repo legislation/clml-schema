@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.legislation.gov.uk/namespaces/legislation"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="SchemaLegislationAttributes">
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.3" id="SchemaLegislationAttributes">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Common Legislation Attributes Schema</dc:title>
@@ -15,32 +15,23 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name					Modification
-			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema, added "euretained" for eublock amendments
-			1.0			Paul Appleby		Created
+			2.3		Colin Mackenzie	 As part of #172192631 remove duplication of enumerated lists by re-using CategoryUnknownType common type  and declared CommonBlockAmendmentExtractAttributeGroup for common attributes (including standardised Context attribute)
+			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema, added "euretained" for eublock amendments
+			1.0		Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-	<xsd:attributeGroup name="LegislationAmendmentAttributes">
-		<xsd:attribute name="TargetClass" use="required">
-			<xsd:simpleType>
-				<xsd:restriction base="xsd:string">
-					<xsd:enumeration value="primary"/>
-					<xsd:enumeration value="secondary"/>
-					<xsd:enumeration value="unknown"/>
-					<xsd:enumeration value="euretained"/>
-				</xsd:restriction>
-			</xsd:simpleType>
-		</xsd:attribute>
-		<xsd:attribute name="TargetSubClass" type="MinorType" use="required">
-			<xsd:annotation>
-				<xsd:documentation>This extended the source for SIs so that context can be added for Regulation, Order, etc</xsd:documentation>
-			</xsd:annotation>
-		</xsd:attribute>
+	
+	<xsd:attributeGroup name="CommonBlockAmendmentExtractAttributeGroup">
+		<xsd:attributeGroup ref="QuotesAttributes"/>
+		<xsd:attributeGroup ref="CommonAttributes"/>
+		<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+		<!-- #172192631 harmonised definition of Context attribute -->
 		<xsd:attribute name="Context" use="required">
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -53,29 +44,21 @@
 		</xsd:attribute>
 	</xsd:attributeGroup>
 	
-	<xsd:attributeGroup name="LegislationExtractAttributes">
-		<xsd:attribute name="SourceClass" use="required">
-			<xsd:simpleType>
-				<xsd:restriction base="xsd:string">
-					<xsd:enumeration value="primary"/>
-					<xsd:enumeration value="secondary"/>
-					<xsd:enumeration value="unknown"/>
-				</xsd:restriction>
-			</xsd:simpleType>
+	<xsd:attributeGroup name="LegislationAmendmentAttributes">
+		<xsd:attribute name="TargetClass" type="CategoryUnknownType" use="required"/>
+		<xsd:attribute name="TargetSubClass" type="MinorType" use="required">
+			<xsd:annotation>
+				<xsd:documentation>This extended the source for SIs so that context can be added for Regulation, Order, etc</xsd:documentation>
+			</xsd:annotation>
 		</xsd:attribute>
+	</xsd:attributeGroup>
+	
+	<xsd:attributeGroup name="LegislationExtractAttributes">
+		<xsd:attribute name="SourceClass" type="CategoryUnknownType" use="required"/>
 		<xsd:attribute name="SourceSubClass" type="MinorType" use="optional">
 			<xsd:annotation>
 				<xsd:documentation>This extends the source for SIs so that context can be added for Regulation, Order, etc</xsd:documentation>
 			</xsd:annotation>
-		</xsd:attribute>
-		<xsd:attribute name="Context" use="required">
-			<xsd:simpleType>
-				<xsd:restriction base="xsd:string">
-					<xsd:enumeration value="main"/>
-					<xsd:enumeration value="schedule"/>
-					<xsd:enumeration value="unknown"/>
-				</xsd:restriction>
-			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
 </xsd:schema>

@@ -18,11 +18,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-04-29</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
+			2.3		Colin Mackenzie		Created reusable types for #172192631
 			2.3		Colin Mackenzie		Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.3		Colin Mackenzie		Updated SchemaVersion attribute
 			2.2		Colin Mackenzie		Updated SchemaVersion attribute
@@ -158,6 +159,26 @@
 			<xsd:enumeration value="eudirective"/>
 			<xsd:enumeration value="eutreaty"/>
 		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+	
+	<xsd:simpleType name="CategoryType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="primary"/>
+			<xsd:enumeration value="secondary"/>
+			<xsd:enumeration value="euretained"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="CategoryUnknownType">
+		<xsd:union memberTypes="CategoryType">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="unknown"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:union>
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="AffectingExtentType">
