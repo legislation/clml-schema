@@ -9,7 +9,7 @@ Crown copyright 2018, 2019, 2020
 Release date: TBD
 Features and Fixes (TBC):
 
-* Feature #172192629 New "LabelledList" element (a named category list) for legislation with Steps, Classes, Cases, Grounds etc.
+* Feature #172192629 New "Sequence" element (a named category list) for legislation with Steps, Classes, Cases, Grounds etc. with Item children and ItemPara descendant.
 
 * Feature #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
 

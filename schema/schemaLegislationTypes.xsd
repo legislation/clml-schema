@@ -20,18 +20,18 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-05-05</dcq:modified>
+				<dcq:modified>2020-05-07</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
 			2.3			Colin Mackenzie	 #172192631 Removed BlockExtractStructure (only used for BlockExtract) and replaced with CommonBlockAmendmentExtractGroup(shared with BlockAmendment)
-			2.3			Colin Mackenzie	 Added support for new labelled list type
+			2.3			Colin Mackenzie	 Added support for new Sequence element
 			2.2			Colin Mackenzie	 Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
-			1.9			Jim Mangiafico		Expanded to accommodate European Union
-			1.8			Colin Mackenzie		Restructure to have single file for editorial and legislation
+			1.9			Jim Mangiafico	  Expanded to accommodate European Union
+			1.8			Colin Mackenzie	 Restructure to have single file for editorial and legislation
 			1.7			Paul Appleby		Added Group to block extract structure
 			1.6			Paul Appleby		Added in Acronym and Abbreviation elements
 			1.5			Paul Appleby		Add LayoutAttributes
@@ -119,8 +119,8 @@
 			<xsd:element ref="Title"/>
 			<xsd:element ref="Subtitle"/>
 			<xsd:element ref="Pnumber"/>
-			<!-- #172192629 new labelled list type -->
-			<xsd:element ref="LabelledList"/>
+			<!-- #172192629 new Sequence element -->
+			<xsd:element ref="Sequence"/>
 			<!-- #172192631 Added support for SignedSection and Signee  -->
 			<xsd:element ref="SignedSection"/>
 			<xsd:element ref="Signee"/>
@@ -318,8 +318,8 @@
 			<xsd:element ref="Tabular"/>
 			<xsd:element ref="Form"/>
 			<xsd:element ref="Formula"/>
-			<!-- #172192629 new labelled list type -->
-			<xsd:element ref="LabelledList"/>
+			<!-- #172192629 new Sequence element -->
+			<xsd:element ref="Sequence"/>
 			<xsd:group ref="err:Errors"/>
 		</xsd:choice>
 	</xsd:group>
@@ -455,10 +455,10 @@
 		</xsd:attribute>
 	</xsd:attributeGroup>
 
-	<!-- #172192629 new labelled list type -->
-	<xsd:group name="LabelledListItemParaContentModel">
+	<!-- #172192629 new Sequence element -->
+	<xsd:group name="SequenceItemParaContentModel">
 		<xsd:annotation>
-			<xsd:documentation>Defines the content model for a para content (after the title) in a labelled item.</xsd:documentation>
+			<xsd:documentation>Defines the content model for a para content (after the title) in a sequence item.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:choice>
 			<!-- These contents are taken from P2para model as requested
@@ -469,7 +469,7 @@
 			paragraph contains unnumbered paragraphs (generally unordered lists) then any substructures must
 			also be lists. Or, to put it another way, once the pn hierarchy is broken, it does not restart."
 			However a P2-P7 may contain a tabular element wth a P1-P7 in a table cell.
-			Given the AKN design and the fact that sub items in a LabelledListItemPara are not really parts of an ordered list we have to use P3-P5)
+			Given the AKN design and the fact that sub items in a ItemPara are not really parts of an ordered list we have to use P3-P5)
 			-->
 			<xsd:group ref="InlineModel"/>
 			<xsd:element ref="P3"/>

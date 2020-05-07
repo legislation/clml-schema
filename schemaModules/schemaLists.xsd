@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"  xmlns:h="http://www.w3.org/1999/xhtml"
-	version="2.3" id="SchemaChanges">
+	version="2.0" id="SchemaChanges">
 	
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -17,16 +17,15 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-04-29</dcq:modified>
+				<dcq:modified>2018-11-20</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.3			Colin Mackenzie	 Added support for new labelled list type
-			2.0			Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
-			1.2			Paul Appleby	Fixed error where separator attribute was changed to Separator
-			1.1			Paul Appleby	Added Class attribute to UnorderedList with the intention that it is used to indicate a list consisting of definitions
-			1.0			Paul Appleby	Created
+			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			1.2		Paul Appleby		Fixed error where separator attribute was changed to Separator
+			1.1		Paul Appleby		Added Class attribute to UnorderedList with the intention that it is used to indicate a list consisting of definitions
+			1.0		Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -208,62 +207,4 @@
 		</xsd:complexType>
 	</xsd:element>
 	
-	<!-- #172192629 new labelled list type -->
-	<xsd:element name="LabelledList">
-		<xsd:annotation>
-			<xsd:documentation>A container for a list of individual (usually numbered) labelled items (steps, grounds, exceptions etc.).</xsd:documentation>
-		</xsd:annotation>
-		<xsd:complexType>
-				<!-- We do NOT want to allow text before, after and in between steps .
-					Any text supplied between steps(in pre CLML format (LDAPP AKN)) will terminate the current list with any subsequent steps as part of a new list.
-					This may be reviewed over time.
-			<xsd:choice maxOccurs="unbounded">
-				<xsd:element ref="LabelledListItem"/>
-				<xsd:group ref="InlineModel"/>
-			</xsd:choice>
-				-->
-			<xsd:sequence>
-				<xsd:element ref="LabelledListItem" maxOccurs="unbounded"/>
-			</xsd:sequence>
-			<!-- may add this later if we have positive confirmation that LDAPP will encode this information
-			<xsd:attribute name="Class" type="xsd:string">
-				<xsd:annotation>
-					<xsd:documentation>Used to identify the type of a labelled list.</xsd:documentation>
-				</xsd:annotation>
-			</xsd:attribute> -->
-			<xsd:attributeGroup ref="CommonAttributes"/>
-		</xsd:complexType>
-	</xsd:element>
-	
-	<xsd:element name="LabelledListItem">
-		<xsd:annotation>
-			<xsd:documentation>A labelled item in a list of individual labelled items (steps, grounds, exceptions etc.).</xsd:documentation>
-		</xsd:annotation>
-		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element name="Title" type="InlineRestrictedStructure"/>
-				<xsd:choice maxOccurs="unbounded">
-					<!-- ?? 2/ the Inline model will support item intro/outro Text elements and/or tables or figures etc 
-					BUT it also allows ordered and unordered lists as well. Is that OK or unnecessary and confusing for drafters>
-					If needed I can of course have a customised InlineModel for the item or the list -->
-					<xsd:group ref="InlineModel"/>
-					<xsd:element name="LabelledListItemPara"/>
-				</xsd:choice>
-			</xsd:sequence>
-			<xsd:attributeGroup ref="CommonAttributes"/>
-		</xsd:complexType>
-	</xsd:element>
-	
-	<xsd:element name="LabelledListItemPara">
-		<xsd:annotation>
-			<xsd:documentation>A para in a labelled item.</xsd:documentation>
-		</xsd:annotation>
-		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element name="Title" type="InlineRestrictedStructure"/>
-				<xsd:group ref="LabelledListItemParaContentModel" maxOccurs="unbounded"/>
-			</xsd:sequence>
-			<xsd:attributeGroup ref="CommonAttributes"/>
-		</xsd:complexType>
-	</xsd:element>
 </xsd:schema>
