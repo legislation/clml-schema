@@ -25,6 +25,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.3		Colin Mackenzie	 Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
 			2.3		Colin Mackenzie	 #172192629 Added support for new Sequence element
 			2.3		Colin Mackenzie	 FootnoteRef in Pnumber removed as unused and unnecessary see #172317475
 			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
@@ -46,7 +47,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Title"/>
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
@@ -98,7 +100,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -169,7 +172,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:choice>
 					<xsd:sequence>
@@ -194,7 +198,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -237,7 +242,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Title"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -258,7 +264,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -299,7 +306,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -334,7 +342,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -369,7 +378,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -404,7 +414,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
 				<xsd:element ref="Pnumber"/>
 				<xsd:choice maxOccurs="unbounded">
@@ -438,7 +449,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:choice>
 					<xsd:group ref="InlineModel"/>
 				</xsd:choice>

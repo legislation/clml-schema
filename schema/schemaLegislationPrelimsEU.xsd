@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0"
+	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.3"
 	id="SchemaLegislationPrelims"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 	<xsd:annotation>
@@ -18,11 +18,12 @@
 				<dcq:created>2018-11-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-05-07</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.3		Colin Mackenzie	 Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
 			2.0		Jim Mangiafico		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -63,7 +64,8 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" />
+				<!-- removed as part of #172208478
+				<xsd:element ref="CommentaryRef" minOccurs="0" maxOccurs="unbounded" /> -->
 				<xsd:choice maxOccurs="unbounded">
 					<xsd:element ref="Division"/>
 					<xsd:element ref="P"/>
