@@ -19,13 +19,14 @@
 				<dcq:created>2004-10-18</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-05-07</dcq:modified>
+				<dcq:modified>2020-05-11</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.3			Colin Mackenzie	 #172236365 removed from PsubBlock as attributes should not appear here
 			2.3			Colin Mackenzie	 Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.5			Paul Appleby		Added Group element
 			1.4			Paul Appleby		Allowed Title to repeat on Part, Chapter, Pblock and PsubBlock
 			1.3			Paul Appleby		Allowed P2 and P2group
@@ -244,7 +245,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 		</xsd:complexType>
 	</xsd:element>
 

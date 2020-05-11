@@ -29,6 +29,8 @@ Features and Fixes (TBC):
 
 * Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
 
+* Change #172236365 removed from P2, P3, P3group, P4, P5, P6, P7, Tabular and PsubBlock as fragement attributes should not appear here
+
 ### Version 2.2
 Release date: TBD
 Features and Fixes (TBC):

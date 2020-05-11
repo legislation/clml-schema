@@ -20,11 +20,14 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-05-07</dcq:modified>
+				<dcq:modified>2020-05-11</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 			Modification information
 			Version	Name				Modification
+			2.3		Colin Mackenzie	 #172236365 removed from P2, P3, P3group, P4, P5, P6, P7 as attributes should not appear here
 			2.3		Colin Mackenzie	 Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
 			2.3		Colin Mackenzie	 #172192629 Added support for new Sequence element
 			2.3		Colin Mackenzie	 FootnoteRef in Pnumber removed as unused and unnecessary see #172317475
@@ -209,7 +212,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 			<xsd:attribute name="FootnoteRef" type="xsd:IDREFS">
 				<xsd:annotation>
 					<xsd:documentation>Allows for the very rare occurrence where a section number has a footnote cross-reference</xsd:documentation>
@@ -252,7 +256,8 @@
 					<xsd:element ref="P3para"/>
 				</xsd:choice>
 			</xsd:sequence>
-			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 			<xsd:attributeGroup ref="PelementIDattributes"/>
 			<xsd:attributeGroup ref="FragmentAttributes"/>
 		</xsd:complexType>
@@ -275,7 +280,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 			<xsd:attribute name="FootnoteRef" type="xsd:IDREFS">
 				<xsd:annotation>
 					<xsd:documentation>Allows for the very rare occurrence where a section number has a footnote cross-reference</xsd:documentation>
@@ -317,7 +323,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 		</xsd:complexType>
 	</xsd:element>
 
@@ -353,7 +360,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 		</xsd:complexType>
 	</xsd:element>
 
@@ -389,7 +397,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 		</xsd:complexType>
 	</xsd:element>
 
@@ -425,7 +434,8 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
-			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<!-- #172236365 removed as attributes should not appear here
+			<xsd:attributeGroup ref="FragmentAttributes"/> -->
 		</xsd:complexType>
 	</xsd:element>
 
