@@ -27,7 +27,7 @@ Features and Fixes (TBC):
 
 * Change #172251211 Add FootnoteRef to ChangeType (FootnoteRef now allowed in elements Addition, Repeal, Substitution)
 
-* Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models
+* Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models, add to Acronym and Abbreviation
 
 * Change #172236365 removed from P2, P3, P3group, P4, P5, P6, P7, Tabular and PsubBlock as fragement attributes should not appear here
 

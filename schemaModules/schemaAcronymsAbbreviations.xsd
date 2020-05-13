@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" elementFormDefault="qualified" attributeFormDefault="unqualified"
-	version="2.0" id="SchemaAcronymsAbbreviations">
+	version="2.3" id="SchemaAcronymsAbbreviations">
 	
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -17,13 +17,14 @@
 				<dcq:created>2006-09-01</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2020-05-13</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name					Modification
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.1			Put name here		Put modification text here
+			2.3			Colin Mackenzie	 #172208478 we now support CommentaryRef in Acronym and Abbreviation
+			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			1.1			Put name here	   Put modification text here
 			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -39,6 +40,8 @@
 				<xsd:element ref="Addition"/>
 				<xsd:element ref="Repeal"/>
 				<xsd:element ref="Substitution" />
+				<!-- As part of #172208478 we now support CommentaryRef here -->
+				<xsd:element ref="CommentaryRef" />
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Expansion" type="xsd:string"/>
@@ -55,6 +58,8 @@
 				<xsd:element ref="Addition"/>
 				<xsd:element ref="Repeal"/>
 				<xsd:element ref="Substitution" />
+				<!-- As part of #172208478 we now support CommentaryRef here -->
+				<xsd:element ref="CommentaryRef" />
 			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Expansion" type="xsd:string"/>
