@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <c:query xmlns:c="http://www.w3.org/ns/xproc-step">
-    <!--<![CDATA[
-    declare namespace leg="http://www.legislation.gov.uk/namespaces/legislation";
-    declare namespace ukm="http://www.legislation.gov.uk/namespaces/metadata";
-    declare namespace dc="http://purl.org/dc/elements/1.1/";
-    declare namespace atom="http://www.w3.org/2005/Atom";
-    declare namespace h="http://www.w3.org/1999/xhtml";
-    declare default element namespace "http://www.legislation.gov.uk/namespaces/legislation";
-    
-    <out>{//ukm:DocumentCategory/@Value}</out>
-]]>-->
     <![CDATA[
     declare namespace leg="http://www.legislation.gov.uk/namespaces/legislation";
 declare namespace ukm="http://www.legislation.gov.uk/namespaces/metadata";
