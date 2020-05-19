@@ -20,6 +20,7 @@
     <p:input port="source" primary="true"/>
     <!-- may or may not be present -->
     <p:input port="preValidationstylesheet" kind="document" sequence="true"/>
+    <p:input port="preValidationXquery" kind="document" sequence="true"/>
     <p:input port="cleanerstylesheet" kind="document" />
     
     <p:output port="output" sequence="true" >
@@ -40,6 +41,37 @@
     
     <p:identity>
         <p:input port="source">
+            <p:pipe port="preValidationXquery" step="validate-content"/>
+        </p:input>
+    </p:identity>
+    <p:choose>
+        <p:when test="/c:query">
+            <p:sink/>
+            <p:xquery>
+                <p:input port="source">
+                    <p:pipe port="result" step="originalDocument"/>
+                </p:input>
+                <p:input port="query">
+                    <p:pipe port="preValidationXquery" step="validate-content"/>
+                </p:input>
+                <p:input port="parameters">
+                    <p:empty/>
+                </p:input>
+             </p:xquery>
+        </p:when>
+        <p:otherwise>
+            <p:sink/>
+            <p:identity>
+                <p:input port="source">
+                    <p:pipe port="result" step="originalDocument"/>
+                </p:input>
+            </p:identity>
+        </p:otherwise>
+    </p:choose>
+    <p:identity name="postxQueryDocument"/>
+    
+    <p:identity>
+        <p:input port="source">
             <p:pipe port="preValidationstylesheet" step="validate-content"/>
         </p:input>
     </p:identity>
@@ -48,7 +80,7 @@
             <p:sink/>
             <p:xslt>
                 <p:input port="source">
-                    <p:pipe port="result" step="originalDocument"/>
+                    <p:pipe port="result" step="postxQueryDocument"/>
                 </p:input>
                 <p:input port="stylesheet">
                     <p:pipe port="preValidationstylesheet" step="validate-content"/>
@@ -62,7 +94,7 @@
             <p:sink/>
             <p:identity>
                 <p:input port="source">
-                    <p:pipe port="result" step="originalDocument"/>
+                    <p:pipe port="result" step="postxQueryDocument"/>
                 </p:input>
             </p:identity>
         </p:otherwise>

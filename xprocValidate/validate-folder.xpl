@@ -11,6 +11,7 @@
    <p:option required="false" name="logFolder" select="'file:/C:/Users/colin/Documents/newco/TSO/TNA/xprocValidate/logs'"/>
    <p:option required="false" name="cleanXsltFilename" select="'cleanLog.xsl'"/>
    <p:option required="false" name="preValidationXsltFilename" select="''"/>
+   <p:option required="false" name="preValidationXprocFilename" select="''"/>
   
   <p:input port="source" sequence="true" >
       <p:empty/>
@@ -26,7 +27,8 @@
   
     <p:variable name="startDateTime" select="current-dateTime()"/>
     <p:variable name="logInfoFilename" select="concat($logFolder,'/', replace(substring-before(xs:string($startDateTime),'.'),':','-'),'.log')"/>
-    <!-- load the schema once rather than once per file -->
+  
+  <!-- load the schema once rather than once per file -->
     <p:load>
         <p:with-option name="href" select="$schemaUri"/>
     </p:load>
@@ -38,6 +40,28 @@
         <p:with-option name="href" select="$cleanXsltFilename"/>
     </p:load>
     <p:sink/>
+  
+    <!-- load the pre validation xquery once, if specified 
+      Note: this is run against each single file separately not against all files (although we could do that) 
+      This can be used to test XPRoc changes to data and then we can compare the validation report with and without the change 
+      In xproc 1 the file must be an XML file so wrap it in a c:query element
+      see https://xprocbook.com/book/refentry-46.html
+    -->
+    <p:choose>
+      <p:when test="$preValidationXprocFilename != ''">
+        <p:load>
+          <p:with-option name="href" select="$preValidationXprocFilename"/>
+        </p:load>
+      </p:when>
+      <p:otherwise>
+        <p:identity>
+          <p:input port="source">
+            <p:inline><null/></p:inline>
+          </p:input>
+        </p:identity>
+      </p:otherwise>
+    </p:choose>
+    <p:identity name="preValidationXquery"/>
   
     <!-- load the pre validation XSLT once, if specified 
       This can be used to test changes to data and then we can compare the validation report with and without the change 
@@ -58,7 +82,6 @@
     </p:choose>
     <p:identity name="preValidationXslt"/>
   
-    <p:variable name="logFilename" select="concat($logFolder,'/',replace(substring-before(xs:string(current-dateTime()),'.'),':',''),'.xml')"/>
     <cm:recursive-directory-list depth="-1" name="getList">
       <p:with-option name="path" select="$xml-input-folder"/>
     </cm:recursive-directory-list>
@@ -133,6 +156,9 @@
                 </p:input>
                  <p:input port="preValidationstylesheet">
                     <p:pipe port="result" step="preValidationXslt"/>
+                </p:input>
+                 <p:input port="preValidationXquery">
+                    <p:pipe port="result" step="preValidationXquery"/>
                 </p:input>
                 <p:input port="cleanerstylesheet">
                     <p:pipe port="result" step="cleanXSLT"/>
