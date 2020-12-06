@@ -34,7 +34,7 @@ Features and Fixes (TBC):
 
 -->
 
-<!-- removals from 2.2 to new 2.2.
+<!-- removed from old 2.2 
 * Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
 
 * Issue 172129366 - Added CommonSubAttributes to Division
@@ -65,6 +65,9 @@ Features and Fixes (TBC):
 
 * The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
 
+* Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
+
+* Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
 
 ### Version 2.1
 Release date: 05/05/20
