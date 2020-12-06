@@ -18,6 +18,13 @@
 			<ukm:Laid Date="2003-04-15" Class="UnitedKingdomParliament"/>
 		</ukm:SecondaryMetadata>
 	</ukm:Metadata>
+	
+
+<!-- User guide example: UG00904. Taken from the section 'Acronyms and Abbreviations' -->
+			
+
+<!-- User guide example: UG00901. Taken from the section 'Preliminary matter' -->
+			
 	<Secondary>
 		<SecondaryPrelims>
 			<Number>2003 No. 1099</Number>
@@ -26,9 +33,6 @@
 					<Title>Road Traffic</Title>
 				</Subject>
 			</SubjectInformation>
-
-<!-- User guide example: UG00904. Taken from the section 'Acronyms and Abbreviations' -->
-			
 			<Title>The Motor Cycles Etc. (<Acronym Expansion="European Commission">EC</Acronym> Type Approval) (Amendment) Regulations 2003</Title>
 			<MadeDate>
 				<Text>Made</Text>
@@ -38,9 +42,6 @@
 				<Text>Laid before Parliament</Text>
 				<DateText>15th April 2003</DateText>
 			</LaidDate>
-
-<!-- User guide example: UG00901. Taken from the section 'Preliminary matter' -->
-			
 			<ComingIntoForce>
 				<Text>Coming into force</Text>
 				<ComingIntoForceClauses>
@@ -125,14 +126,12 @@
 													<ListItem>
 														<Para>
 															<Text>“moped” means a two or three wheel vehicle with a maximum design speed of not more than 45 km/h which—</Text>
-															<OrderedList Decoration="parens" Type="alpha">
+<!-- User guide example: UG00905. Taken from the section 'Acronyms and Abbreviations' -->
+																		<OrderedList Decoration="parens" Type="alpha">
 																<ListItem>
 																	<Para>
 																		<Text>if a two wheel vehicle, is fitted with an engine which—</Text>
 																		<OrderedList Decoration="parens" Type="roman">
-																		
-<!-- User guide example: UG00905. Taken from the section 'Acronyms and Abbreviations' -->
-																		
 																			<ListItem>
 																				<Para>
 																					<Text>in the case of the internal combustion type, has a cylinder capacity not exceeding 50 <Abbreviation Expansion="centimetres">cm</Abbreviation>; and</Text>

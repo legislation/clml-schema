@@ -14,6 +14,36 @@ Crown copyright 2018, 2019, 2020
 -->
 
 ## Release Notes
+<<<<<<< HEAD
+=======
+### Version 2.3
+
+Release date: TBD
+Features and Fixes (TBC):
+
+* Feature #172192629 New "Sequence" element (a named category list) for legislation with Steps, Classes, Cases, Grounds etc. with Item children and ItemPara descendant.
+
+* Feature #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
+
+* Change #172192332 Tighten validation on AltDates and ValidDates in FragmentAttributes group
+
+* Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary
+
+* Change #172192631 Removed most of the inline complexType for BlockAmendment and BlockExtract and changed it to extend the new CommonBlockAmendmentExtractGroup and CommonBlockAmendmentExtractAttributeGroup. Also create reusable enumerated lists for category 
+
+* Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
+
+* Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
+
+* Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
+
+* Change #172251211 Add FootnoteRef to ChangeType (FootnoteRef now allowed in elements Addition, Repeal, Substitution)
+
+* Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models, add to Acronym and Abbreviation
+
+* Change #172236365 removed from P2, P3, P3group, P4, P5, P6, P7, Tabular and PsubBlock as fragement attributes should not appear here
+
+>>>>>>> 80519faf6daaa5e01197affef93afc21ecd505f6
 ### Version 2.2
 Release date: TBD
 Features and Fixes (TBC):
@@ -30,7 +60,24 @@ Features and Fixes (TBC):
 
 * Issue 161958070 - changed the model for the attributes on ukm:Correction to have stricter validation rules
 
+<<<<<<< HEAD
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
+
+* The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
+
+
+### Version 2.1
+Release date: 05/05/20
+Features and Fixes:
+=======
+* Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
+
+* Issue 171578804 - renamed TSOMetadata to LegislationMetadata
+>>>>>>> 80519faf6daaa5e01197affef93afc21ecd505f6
+
+* Issue 171841757 - changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
+
+* Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
 
 * The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
 
