@@ -22,10 +22,6 @@ Features and Fixes (TBC):
 
 * Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
 
-* Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
-
-* Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
-
 * Change #172251211 Add FootnoteRef to ChangeType (FootnoteRef now allowed in elements Addition, Repeal, Substitution)
 
 * Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models, add to Acronym and Abbreviation
