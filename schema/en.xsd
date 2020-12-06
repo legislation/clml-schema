@@ -31,6 +31,7 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				   Modification
+			2.2		Colin Mackenzie		#172575932 Remove top level schema definition of DocumentMainType 
 			2.2		Colin Mackenzie		Added comment regarding link to new version strategy file and incremented top level schema number
 			2.1		Colin Mackenzie		New top level schema for version 2.1 (#171841757 Welsh parliament rename)
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
@@ -138,11 +139,4 @@
 		</xsd:sequence>
 	</xsd:group>
 	
-	<!-- See #113007733 and #162038035
-		For all schema except publication schema schemaLegislationBase-v1-0.xsd
-		we define the allowed extra list of deprecated types to be "none"
-		so it validates against current not deprecated list-->
-	<xsd:simpleType name="DocumentMainType">
-		<xsd:restriction base="DocumentMainTypeBasic"/>
-	</xsd:simpleType>
 </xsd:schema>

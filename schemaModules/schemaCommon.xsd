@@ -25,6 +25,7 @@
 			Version	Name				   Modification
 			<!-- 
 			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions -->
+			2.2		Colin Mackenzie		Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.2		Colin Mackenzie		Updated SchemaVersion attribute
 			2.2		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
@@ -35,6 +36,13 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
+	
+	<!-- originally created for schema 2.0 for #113007733 and #162038035 and included in top level schema to allow customization
+	Then moved to here by ticket #172575932 as a result of #172451773 not needing support for deprecated values
+	-->
+	<xsd:simpleType name="DocumentMainType">
+		<xsd:restriction base="DocumentMainTypeBasic"/>
+	</xsd:simpleType>
 	
 	<!-- note: xsd:simpleType name="DocumentMainType" needs to be declared in top level schemas currently because of difference in lists between publication schema and all others -->
 	<xsd:simpleType name="DocumentMainTypeBasic">
