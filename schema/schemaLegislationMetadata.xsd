@@ -939,9 +939,10 @@
 			<xsd:attribute name="Notes" type="xsd:string"/>
 			<xsd:attribute name="OtherQualification" type="xsd:string"/>
 			<xsd:attribute name="Prospective" type="xsd:boolean"/>
-			<!-- #171654037 enforce a choice of enumerated values (including empty string for historical reasons)
-				<xsd:attribute name="Qualification" type="xsd:string" use="required"/>  -->
-			<xsd:attribute name="Qualification" use="required">
+			<xsd:attribute name="Qualification" type="xsd:string" use="required"/>
+			<!-- #171654037 enforce a choice of enumerated values for Qualification attribute of InForce element (including empty string for historical reasons)
+				My be implemented in a future version
+				<xsd:attribute name="Qualification" use="required">
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
 						<xsd:enumeration value="wholly in force"/>
@@ -975,7 +976,7 @@
 						<xsd:enumeration value=""/>
 					</xsd:restriction>
 				</xsd:simpleType>
-			</xsd:attribute>
+			</xsd:attribute>-->
 		</xsd:complexType>
 	</xsd:element>
 	

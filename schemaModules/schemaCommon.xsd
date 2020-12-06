@@ -23,9 +23,11 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
+			<!-- 
+			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions -->
+			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.2		Colin Mackenzie		Updated SchemaVersion attribute
 			2.2		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
-			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.1		Colin Mackenzie		Added enumeration "WelshParliamentAct" for the new name for Acts created in the Welsh parliament following law  http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1		Colin Mackenzie		Added EU values plus full UK list of "E+W+S+N.I.
@@ -121,10 +123,18 @@
 	
 	<xsd:simpleType name="MinorType">
 		<xsd:annotation>
+			<xsd:documentation>UK minor document types (EU types to be added in next release).</xsd:documentation>
+		</xsd:annotation>
+		<xsd:union memberTypes="UKMinorType"/>
+	</xsd:simpleType>
+	
+	<!-- Support for EU minor document types to be added in v2.3
+		<xsd:simpleType name="MinorType">
+		<xsd:annotation>
 			<xsd:documentation>Combination of UK and EU minor document types.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:union memberTypes="UKMinorType EUMinorType"/>
-	</xsd:simpleType>
+	</xsd:simpleType>-->
 	
 	<xsd:simpleType name="UKMinorType">
 		<xsd:annotation>

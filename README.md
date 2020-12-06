@@ -3,6 +3,16 @@
 The schemas provided are intended to describe UK Legislation.
 Crown copyright 2018, 2019, 2020
 
+
+<!-- 
+* Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
+
+* Issue 172129366 - Added CommonSubAttributes to Division
+
+* Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
+
+-->
+
 ## Release Notes
 ### Version 2.2
 Release date: TBD
@@ -14,17 +24,13 @@ Features and Fixes (TBC):
 
 * New and updated schema documentation in all files (as text or html elements within xsd:documentation)
 
-* Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
+* Issue 171209490 - Minor document classification in BlockAmendment refactored for re-use of MinorType (in preparation for EU values to be added in v2.3)
 
 * Issue 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
 
 * Issue 161958070 - changed the model for the attributes on ukm:Correction to have stricter validation rules
 
-* Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
-
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
-
-* Issue 172129366 - Added CommonSubAttributes to Division
 
 * The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
 

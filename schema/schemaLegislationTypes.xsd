@@ -25,11 +25,11 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.2			Colin Mackenzie	Expanded MinorType used for TargetSubClass attribute to support EU document types for BlockAmendments then moved them to schemaCommon for access by all types.
-			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			2.0			Jim Mangiafico	  Expanded BlockAmendment and BlockExtract to accommodate European Union
-			1.9			Jim Mangiafico		Expanded to accommodate European Union
-			1.8			Colin Mackenzie		Restructure to have single file for editorial and legislation
+			2.2			Colin Mackenzie	Moved definition of MinorType used for TargetSubClass attribute for BlockAmendments to schemaCommon for access by all types.
+			2.0			Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
+			2.0			Jim Mangiafico	 Expanded BlockAmendment and BlockExtract to accommodate European Union
+			1.9			Jim Mangiafico	 Expanded to accommodate European Union
+			1.8			Colin Mackenzie	Restructure to have single file for editorial and legislation
 			1.7			Paul Appleby		Added Group to block extract structure
 			1.6			Paul Appleby		Added in Acronym and Abbreviation elements
 			1.5			Paul Appleby		Add LayoutAttributes
