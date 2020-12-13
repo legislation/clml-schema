@@ -202,6 +202,9 @@
         <p:add-attribute match="/logInfo" attribute-name="endTime">
           <p:with-option name="attribute-value" select="current-dateTime()"/>
         </p:add-attribute>
+        <p:add-attribute match="/logInfo" attribute-name="schemaUri">
+          <p:with-option name="attribute-value" select="$schemaUri"/>
+        </p:add-attribute>
         <p:store omit-xml-declaration="false" indent="true">
             <p:with-option name="href" select="$logInfoFilename"/>
         </p:store>
