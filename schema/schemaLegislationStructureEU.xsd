@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0">
+	attributeFormDefault="unqualified" version="2.3">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -18,12 +18,12 @@
 				<dcq:created>2018-11-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-04-02</dcq:modified>
+				<dcq:modified>2020-12-13</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			<!--2.2			Colin Mackenzie	 #172129366 Added CommonSubAttributes to Division-->
+			2.3			Colin Mackenzie	 #172129366 Added CommonSubAttributes to Division
 			2.0			Jim Mangiafico		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -116,8 +116,8 @@
 				</xsd:choice>
 			</xsd:sequence>
 			<xsd:attribute name="Type" />
-			<!-- To be added in v2.3 
-				<xsd:attributeGroup ref="CommonSubAttributes"/>-->
+			<!-- To be added in v2.3 -->
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="PelementIDattributes"/>
 			<xsd:attributeGroup ref="FragmentAttributes"/>
 		</xsd:complexType>

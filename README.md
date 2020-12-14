@@ -1,7 +1,7 @@
 
 # Legislation Schema
 The schemas provided are intended to describe UK Legislation.
-Crown copyright 2018, 2019, 2020
+Crown copyright 2018, 2019, 2020, 2021
 
 <!-- old 2.3
 
@@ -31,9 +31,6 @@ Features and Fixes (TBC):
 -->
 
 <!-- removed from old 2.2 
-* Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
-
-* Issue 172129366 - Added CommonSubAttributes to Division
 
 * Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
 
@@ -41,6 +38,15 @@ Features and Fixes (TBC):
 
 ## Release Notes
 =======
+### Version 2.3
+Release date: TBD
+Features and Fixes (TBC):
+
+* Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
+
+* Issue 172129366 - Added CommonSubAttributes to Division 
+
+
 ### Version 2.2
 Release date: TBD
 Features and Fixes (TBC):

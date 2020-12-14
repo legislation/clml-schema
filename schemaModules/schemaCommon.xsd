@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaCommon">
+	attributeFormDefault="unqualified" version="2.3" id="SchemaCommon">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -18,13 +18,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-24</dcq:modified>
+				<dcq:modified>2020-12-13</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
-			<!-- 
-			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions -->
+			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions 
 			2.2		Colin Mackenzie		Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
 			2.2		Colin Mackenzie		Updated SchemaVersion attribute
@@ -129,20 +128,21 @@
 		</xsd:restriction>
 	</xsd:simpleType>
 	
+	<!-- replaced this v2.2 defintion with the schema v2.3 version below
 	<xsd:simpleType name="MinorType">
 		<xsd:annotation>
 			<xsd:documentation>UK minor document types (EU types to be added in next release).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:union memberTypes="UKMinorType"/>
-	</xsd:simpleType>
+	</xsd:simpleType>-->
 	
-	<!-- Support for EU minor document types to be added in v2.3
-		<xsd:simpleType name="MinorType">
+	<!-- Support for EU minor document types to be added in v2.3 -->
+	<xsd:simpleType name="MinorType">
 		<xsd:annotation>
 			<xsd:documentation>Combination of UK and EU minor document types.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:union memberTypes="UKMinorType EUMinorType"/>
-	</xsd:simpleType>-->
+	</xsd:simpleType>
 	
 	<xsd:simpleType name="UKMinorType">
 		<xsd:annotation>
