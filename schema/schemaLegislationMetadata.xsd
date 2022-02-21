@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-03-26</dcq:modified>
+				<dcq:modified>2021-11-15</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,12 +30,15 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
-			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
-			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
-			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
-			2.1		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
+			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion,
+										ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
+			2.1		Colin Mackenzie		Renamed TSOmetadata to LegislationMetadata
+			2.1		Colin Mackenzie		Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
+			2.1		Colin Mackenzie		Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
+			2.1		Colin Mackenzie		Changed the model for the attributes on ukm:Correction to have stricter validation rules
+			2.1		Colin Mackenzie		Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			2.0		W Holmes			Changes to Section and Sectionrange element 
 			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
 			2.0		W Holmes			Changes to UnappliedEffect element 
@@ -100,13 +103,27 @@
 	</xsd:group>
 
 	<xsd:element name="ConfersPower">
+		<xsd:annotation>
+			<xsd:documentation>Specifies that a provision confers power to make secondary legislation</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
-			<xsd:attribute name="title" type="xsd:string" use="optional"/>
+			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The URI of a provision that confers power to make subordinate legislation.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="title" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The title of the provision.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:element name="BlanketAmendment">
+		<xsd:annotation>
+			<xsd:documentation>Is a term used to indicate the provision contains an amendment that affects the legislation in general rather than for a specific provision(s). For example where a provision indicates a change to a term 'wherever it occurs in the affected legislation'.</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="IdURI" type="xsd:anyURI" use="required"/>
 			<xsd:attribute name="title" type="xsd:string" use="optional"/>
@@ -153,7 +170,10 @@
 
 	<xsd:element name="Statistics">
 		<xsd:annotation>
-			<xsd:documentation>Statistical Metadata legislation</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>This element with metadata namespace (ukm) holds legislation metadata statistics information, with elements having counts of total images, total paragraphs, and paragraphs in different sections like, body, schedule etc. of the automatically generated final document.</h:p>
+				<h:p>And is used to determine how the links work for large items. There are links in the side bar to open up the whole legislation, the whole body, all the schedules. If these are deemed to be above a certain value when compared to the statistics, then a popup warning is given to the user allowing them option to cancel the task</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -257,11 +277,21 @@
 									<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
 								</xsd:annotation>
 							</xsd:attribute>
-							<!-- Number 4 digit Number (could also be ISBN for Darft documents) -->
-							<xsd:attribute name="Number" type="xsd:integer" use="required">
+							<xsd:attribute name="Number" type="xsd:integer" use="optional">
 								<xsd:annotation>
 									<xsd:documentation>Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
 								</xsd:annotation>
+							</xsd:attribute>
+						<xsd:attribute name="ISBN" use="optional">
+								<xsd:annotation>
+									<xsd:documentation>This is used in draft documents. Do not set this attribute in publications editing (only for delivered data)</xsd:documentation>
+								</xsd:annotation>
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:maxLength value="13" />
+										<xsd:minLength value="10"/>
+									</xsd:restriction>
+								</xsd:simpleType>
 							</xsd:attribute>
 						</xsd:complexType>
 					</xsd:element>
@@ -419,35 +449,111 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="ImpactAssessment" maxOccurs="unbounded" type="IAalterType" />
+				<xsd:element name="ImpactAssessment" maxOccurs="unbounded" type="IAalterType">
+					<xsd:annotation>
+						<xsd:documentation>Links to an associated Impact Assessment, which assesses the impact of legislative proposals realised by the document. An Impact Assessment can be associated with one or many items of legislation (or not be associated with an item of legislation at all, if it assesses proposed policy changes yet to be drafted as legislation).</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:complexType name="AlterType">
-		<xsd:attribute name="Date" type="xsd:date" use="required"/>
-		<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
-		<xsd:attribute name="Title" type="xsd:string" use="optional"/>
-		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Language" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
-		<!-- This always seems to be a date
-		<xsd:attribute name="Revised" type="xsd:string" use="optional"/>
-		-->
-		<xsd:attribute name="Revised" type="xsd:date" use="optional"/>
+		<xsd:annotation>
+			<xsd:documentation>Defines attributes for associated documents</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="Date" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The Published date of the associated item, in yyyy-mm-dd format</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="URI" type="xsd:anyURI" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The URI of the associated item, usually PDF</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Title" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The Title of the associated item</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The Welsh language Title of the associated item</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Language" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The language of the associated item</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Size" type="xsd:integer" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The filesize of the associated item in kb</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<!-- Below attribute "Revised" always seems to be a date, not type="xsd:string" -->
+		<xsd:attribute name="Revised" type="xsd:date" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>This indicates the date of the latest revisions incorporated within the linked document</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 
 	<xsd:complexType name="IAalterType">
-		<xsd:attribute name="Date" type="xsd:date" use="required"/>
-		<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
-		<xsd:attribute name="Title" type="xsd:string" use="optional"/>
-		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Stage" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Department" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Year" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Number" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Language" type="xsd:string" use="optional"/>
-		<xsd:attribute name="Size" type="xsd:integer" use="optional"/>
+		<xsd:annotation>
+			<xsd:documentation>Defines attributes for associated Impact Assessments and UK Regulatory Policy Commission Opinions</xsd:documentation>
+		</xsd:annotation>
+		<xsd:attribute name="Date" type="xsd:date" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The Published date of the Impact Assessment, in yyyy-mm-dd format</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="URI" type="xsd:anyURI" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The URI of the Impact Assessment, usually PDF</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Title" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The Title of the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="TitleWelsh" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The Welsh language Title of the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Stage" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Indicates the stage of the development of the legislation to which the Impact Assessment relates, which may be before its development (Consultation), during its development (Development), after the drafting of the document (Final), after its amendment in Parliament (Enactment) or after its enactment (Post-Implementation)</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Department" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The department associated with the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Year" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The year of the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Number" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The document number of the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Language" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The language of the Impact Assessment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Size" type="xsd:integer" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>The filesize of the Impact Assessment in kb</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 
 	<xsd:element name="EnactmentDate">
@@ -460,6 +566,10 @@
 	</xsd:element>
 
 	<xsd:element name="Sifted">
+		<xsd:annotation>
+			<xsd:documentation>The date refers to the start date of a sifting period, for items that relate to exiting the EU. Sifting refers to a period that allows 10 sitting days for a committee of each House in Parliament to recommend whether a draft EU Exit SI should be subject to negative or affirmative procedure. 
+				A Minister of the Crown may make EU Exit instruments that are subject to sifting for up to two years after the end of the transition period, under section 8 of the European Union (Withdrawal Act) 2018 or under section 31 of the European Union (Future Relationship) Act 2020</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required"/>
 			<xsd:attribute name="Time" type="xsd:time"/>
@@ -468,7 +578,7 @@
 
 	<xsd:element name="Made">
 		<xsd:annotation>
-			<xsd:documentation>Information on when the legalisation was Made</xsd:documentation>
+			<xsd:documentation>This element refers to the process when document gets signed (Made) by a minister or person with authority under the Act. The date attribute refers to the date when the document gets signed. For some documents it can also include a Time attribute</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required">
@@ -486,7 +596,7 @@
 
 	<xsd:element name="Laid">
 		<xsd:annotation>
-			<xsd:documentation>Information on when the legalisation was Laid</xsd:documentation>
+			<xsd:documentation>This element refers to the process when a document is laid before a Parliament, Assembly or relevant body. The date attribute refers to the date printed on the document. For some documents it can also include a Time attribute</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Date" type="xsd:date" use="required">
@@ -566,7 +676,7 @@
 
 	<xsd:element name="AttachmentParagraphs">
 		<xsd:annotation>
-			<xsd:documentation>A count of paragraphs in attachements of the document (generated automatically for final document).</xsd:documentation>
+			<xsd:documentation>A count of paragraphs in attachments of the document (generated automatically for final document).</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="xsd:integer" use="required"/>
@@ -688,7 +798,7 @@
 				<xsd:element ref="DocumentMainType"/>
 				<xsd:element name="DocumentStatus">
 					<xsd:annotation>
-						<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">Defines the status (or stage) of the document. For secondary legislation this will be draft or final. For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present.</xsd:documentation>
+						<xsd:documentation>Defines the status (or stage) of the document. For secondary legislation this will be draft or final. For primary legislation this will be Bill or Act. Note Bills are not part of the scope at present.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:attribute name="Value" use="required">
@@ -717,7 +827,7 @@
 
 	<xsd:element name="DocumentMainType">
 		<xsd:annotation>
-			<xsd:documentation>Defines the type of the document. This covers all the possible varieties of UK legislation</xsd:documentation>
+			<xsd:documentation>Defines the set of document types of UK legislation and legislation of EU origin that are available on Legislation.gov.uk</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Value" type="leg:DocumentMainType" use="required"/>
@@ -759,62 +869,200 @@
 				<xsd:element ref="AffectedTitle" minOccurs="0" maxOccurs="unbounded"/>
 				<xsd:element ref="AffectingTitle" minOccurs="0" maxOccurs="unbounded"/>
 				<xsd:element name="Savings" type="ProvisionsStructure" minOccurs="0"/>
-				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0"/>
+				<xsd:element name="CommencementAuthority" type="ProvisionsStructure" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Provide details of the provision giving authority for the In-Force date(s). If there is no commencement provision then there will be a value added 'N'. Where the commencement date is defined elsewhere, for example, in an Interpretation provision, then this provision also will be included as part of the Commencement Authority</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element ref="InForceDates" minOccurs="0"/>
 			</xsd:choice>
-			<xsd:attribute name="New" type="xsd:boolean"/>
-			<xsd:attribute name="Type" type="xsd:token" use="required"/>
-			<xsd:attribute name="TypeNotes" type="xsd:string"/>
-			<xsd:attribute name="Notes" type="xsd:string"/>
-			<xsd:attribute name="Comments" type="xsd:string"/>
+			<xsd:attribute name="New" type="xsd:boolean">
+				<xsd:annotation>
+					<xsd:documentation>Interimly used within the code. If set true, it means the effect is not present in the database and hence the Effect should be excluded from the 'update' list</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Type" type="xsd:token" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Indicates the type of amendment that this effect represents, e.g. inserted, substituted, repealed, modified, extended and applied</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="TypeNotes" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>This was used to store Notes and serve the same purpose as legacy:notes. Not used anymore (to process the spreadsheet), some effects still have this attribute value</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Notes" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Contains notes for the readers of legislation to clarify the operation or application of the effect. The field is often used to indicate that a particular effect will only come into force after another event occurs (such as the coming into force of a provision of a different item of legislation) or that the effect will not be applied to Legislation.gov.uk (for example, when the affecting provision is repealed before it comes into force). The Legislation.gov.uk 'Changes to Legislation' page displays these notes to the user</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Comments" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Contains notes to assist the legislation.gov.uk update editor in applying the amendment to the affected item of legislation</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="AffectingURI" type="xsd:anyURI">
 				<xsd:annotation>
 					<xsd:documentation>A link to the legislation (and the section within it) that affects this one. Or (if AffectingUpTo is also present), a link to the first section affecting this one.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectingYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger"/>
-			<xsd:attribute name="AffectingProvisions" type="xsd:string"/>
+			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType">
+				<xsd:annotation>
+					<xsd:documentation>The DocumentMainType of the affecting document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingYear" type="xsd:gYear">
+				<xsd:annotation>
+					<xsd:documentation>The year in which the affecting document was published</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger">
+				<xsd:annotation>
+					<xsd:documentation>The affecting document's number</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingProvisions" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>A string representation of the affecting provision(s) from which the effect originates</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="AffectedURI" type="xsd:anyURI">
 				<xsd:annotation>
 					<xsd:documentation>A link to the section in this legislation that has been affected. Or (if the AffectedUpTo attribute is also present), a link to the first of the affected sections.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectedYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger"/>
-			<xsd:attribute name="AffectedProvisions" type="xsd:string"/>
-			<xsd:attribute name="Index" type="xsd:integer"/>
-			<xsd:attribute name="Row" type="xsd:integer"/>
-			<xsd:attribute name="Modified" type="xsd:dateTime"/>
-			<xsd:attribute name="AppliedModified" type="xsd:dateTime"/>
-			<xsd:attribute name="URI" type="xsd:anyURI"/>
-			<xsd:attribute name="Created" type="xsd:dateTime"/>
-			<xsd:attribute name="EffectId" type="xsd:string"/>
-			<xsd:attribute name="RequiresApplied" type="xsd:boolean"/>
+			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType">
+				<xsd:annotation>
+					<xsd:documentation>The DocumentMainType of the affected document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedYear" type="xsd:gYear">
+				<xsd:annotation>
+					<xsd:documentation>The year in which the affected document was published</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger">
+				<xsd:annotation>
+					<xsd:documentation>The affected document's number</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedProvisions" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>A string representation of the affected provision(s) that the effect amends or modifies</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Index" type="xsd:integer">
+				<xsd:annotation>
+					<xsd:documentation>An Integer value, not in use anymore for spreadsheet processing. But some bulk uploaded data still contains uses it, having the index number of Effect in the uploaded spreadsheet</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Row" type="xsd:integer">
+				<xsd:annotation>
+					<xsd:documentation>Used to store the row number of the spreadsheet, from where the specific Effect data came from</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Modified" type="xsd:dateTime">
+				<xsd:annotation>
+					<xsd:documentation>Records the date and time, indicating an Effect has been modified via Editorial system</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AppliedModified" type="xsd:dateTime">
+				<xsd:annotation>
+					<xsd:documentation>Records the date and time when the Applied status of the effect is changed</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="URI" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>Used to store the previous Effect ID along with legislation base URI. Not an identifier for the Effect</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Created" type="xsd:dateTime">
+				<xsd:annotation>
+					<xsd:documentation>Records the date and time of its creation, i.e. indicating an Effect has been created via Editorial system. Incase of bulk upload, this value might be the date when it was first added in Editorial system unless otherwise a creation dateTime value is known</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="EffectId" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>This is an unique ID for each effect, and is made up by combining the core key elements in an effect and generated MD5 hash code</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="RequiresApplied" type="xsd:boolean">
+				<xsd:annotation>
+					<xsd:documentation>Indicates whether the legislation.gov.uk team will apply the amendment. For example, if the affecting provision is repealed or superseded before it comes into force, the effect never comes into force and so does not need to be applied</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<!-- changed from ExtentType as data also contins "Same as affected" -->
-			<xsd:attribute name="AffectedEffectsExtent" type="leg:AffectingExtentType"/>
-			<xsd:attribute name="AffectedExtent" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectedExtentSections" type="xsd:string"/>
-			<xsd:attribute name="AffectedTerritorialApplication" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectingCommencementSections" type="xsd:anyURI"/>
-			<xsd:attribute name="AffectingEffectsExtent" type="leg:AffectingExtentType"/>
-			<xsd:attribute name="AffectingExtent" type="leg:ExtentType"/>
-			<xsd:attribute name="AffectingExtentSections" type="xsd:string"/>
-			<xsd:attribute name="AffectingRoyalAssent" type="xsd:date"/>
-			<xsd:attribute name="AffectingTerritorialApplication" type="leg:ExtentType"/>
-			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
-			<xsd:attribute name="NewRandomSeq" type="xsd:integer"/>
+			<xsd:attribute name="AffectedEffectsExtent" type="leg:AffectingExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates TOES application of the 'Affected Effects Extent'</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedExtent" type="leg:ExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates TOES application of the 'Affected Provisions Extent'</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedExtentSections" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Automatically generated by the Editorial system on bulk effects data load. No longer used in Editorial</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectedTerritorialApplication" type="leg:ExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates the territorial application of the affected provision(s). The editorial system uses this value to determine whether the effect’s extent/territorial application of the effect is smaller than that of the affected provision(s), i.e. the provisions it affects. If smaller, the original text or meaning of those provisions will remain unchanged in the territories to which the effect does not extend/apply, and the editor must indicate that the amendment only extends to/applies in specific territories when they carry out the amendment</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingCommencementSections" type="xsd:anyURI">
+				<xsd:annotation>
+					<xsd:documentation>This works same as that of 'CommencementAuthority', which details the provision giving authority for the In-Force date(s)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingEffectsExtent" type="leg:AffectingExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates TOES application of the Affecting Extent</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingExtent" type="leg:ExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates TOES application of the Affecting Provisions Extent</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingExtentSections" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Automatically generated by the Editorial system on bulk effects data load. No longer used in Editorial</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingRoyalAssent" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>Date of royal assent. No longer used in new Effects data, but its values are held in TOES XML added as bulk upload</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AffectingTerritorialApplication" type="leg:ExtentType">
+				<xsd:annotation>
+					<xsd:documentation>Indicates the territorial application of the affecting provision(s)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AppendedCommentary" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Used to add additional commentary information that will be displayed after the core effect commentary information which will be generated using the preceding Extended TOES columns</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="NewRandomSeq" type="xsd:integer"/><!-- Looks like not in use anymore in Editorial -->
 			<xsd:attributeGroup ref="errl:missingUnappliedEffect"/>
 		</xsd:complexType>
 	</xsd:element>
 
 	<xsd:complexType name="ProvisionsStructure" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>A complex type for defining the sets of provisions within TOES effects. These sets of provisions include the affecting provisions from which an effect originates, the affected provisions that the effect modifies, and any provisions bringing the effect into force or qualifying the effect</xsd:documentation>
+		</xsd:annotation>
 		<xsd:choice minOccurs="0" maxOccurs="unbounded">
 			<xsd:element ref="Section"/>
 			<xsd:element ref="SectionRange"/>
 			<xsd:element name="Citation">
+				<xsd:annotation>
+					<xsd:documentation>Used within a "Commencement Order" effect to denote the item of legislation being commenced by the commencement order</xsd:documentation>
+				</xsd:annotation>
 				<xsd:complexType mixed="true">
 					<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
 					<xsd:attribute name="Class" type="leg:DocumentMainType"/>
@@ -828,7 +1076,11 @@
 
 	<xsd:element name="Section">
 		<xsd:complexType mixed="true">
-			<xsd:attribute name="Ref" type="xsd:NMTOKEN" use="required"/>
+			<xsd:attribute name="Ref" type="xsd:NMTOKEN" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Holds the identifier of the referenced provision</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
 			<xsd:attribute name="FoundRef" type="xsd:NMTOKEN"/>
 			<xsd:attribute name="Missing" type="xsd:boolean"/>
@@ -847,8 +1099,16 @@
 			<xsd:sequence>
 				<xsd:element ref="Section" minOccurs="2" maxOccurs="2"/>
 			</xsd:sequence>
-			<xsd:attribute name="Start" type="xsd:NMTOKEN" use="required"/>
-			<xsd:attribute name="End" type="xsd:NMTOKEN" use="required"/>
+			<xsd:attribute name="Start" type="xsd:NMTOKEN" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Holds the identifier of the starting provision in a range of provisions</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="End" type="xsd:NMTOKEN" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Holds the identifier of the ending provision in a range of provisions</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="URI" type="xsd:anyURI" use="required"/>
 			<xsd:attribute name="UpTo" type="xsd:anyURI" use="required"/>
 			<xsd:attribute name="FoundStart" type="xsd:NMTOKEN"/>
@@ -869,6 +1129,14 @@
 	</xsd:element>
 
 	<xsd:element name="Citation">
+		<xsd:annotation>
+			<xsd:documentation>This describes a citations to the provision(s) being viewed. Defined by namespace http://www.legislation.gov.uk/namespaces/metadata and could have been deprecated</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>Links to another document that cites the current document.</h:p>
+				<h:p>This element does not normally appear in published CLML. The website uses this element to provide information for certain legislation pages—for example, the "Found References" page for items of legislation we do not hold, which lists the documents that cite the missing item.</h:p>
+				<h:p>This ukm:Citation element is not the same as the ukm:Citation that appears within ukm:Effect and ukm:UnappliedEffect, nor the leg:Citation that appears within the text of a CLML document or the editorial metadata for CLML fragments.</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:element ref="Commentary" maxOccurs="unbounded"/>
@@ -986,7 +1254,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="OtherDocument" maxOccurs="unbounded" type="AlterType"/>
+				<xsd:element name="OtherDocument" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>Links to an associated document that that is not defined by another AlterType or IAalterType element - for example, a Post Implementation Review (PIR)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -997,7 +1269,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="TranspositionNote" maxOccurs="unbounded" type="AlterType"/>
+				<xsd:element name="TranspositionNote" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>Links to a transposition note, which explains how the document implements a particular European Directive</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
@@ -1008,7 +1284,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="UKRPCOpinion" maxOccurs="unbounded" type="IAalterType"/>
+				<xsd:element name="UKRPCOpinion" maxOccurs="unbounded" type="IAalterType">
+					<xsd:annotation>
+						<xsd:documentation>Links to an associated UK Regulatory Policy Committee Opinion</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
