@@ -19,11 +19,12 @@
 				<dcq:modified>2018-11-20</dcq:modified>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-06</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+            2.3			Colin Mackenzie	 Removed most of the inline complexType for BlockAmendment and changed it to extend the new CommonBlockAmendmentExtractGroup and CommonBlockAmendmentExtractAttributeGroup  (also used for BlockExtract)
 			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
 			1.6			Jim Mangiafico	  Expanded to accommodate European Union legislation
 			1.5			Paul Appleby		Added Group to amendment content model and fragment context
@@ -39,7 +40,8 @@
 	<xsd:import namespace="http://www.w3.org/1999/xhtml"
 		schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
 
-	<xsd:element name="BlockAmendment">
+	<!-- #172192631 harmonised definition with BlockAmendment as much as makes sense -->
+    <xsd:element name="BlockAmendment">
 		<xsd:annotation>
 			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
 				<h:p>Describes a block amendment to the text.</h:p>
@@ -49,67 +51,14 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
-				<xsd:element ref="PrimaryPreamble"/>
-				<xsd:element ref="SecondaryPreamble"/>
-				<xsd:element ref="EUPrelims"/>
-				<xsd:element ref="Text"/>
-				<xsd:element ref="Body"/>
-				<xsd:element ref="Group"/>
-				<xsd:element ref="Part"/>
-				<xsd:element ref="Chapter"/>
-				<xsd:group ref="EUStructure"/>
-				<xsd:element ref="Pblock"/>
-				<xsd:element ref="PsubBlock"/>
-				<xsd:element ref="Para"/>
-				<xsd:element ref="P1"/>
-				<xsd:element ref="P2"/>
-				<xsd:element ref="P3"/>
-				<xsd:element ref="P4"/>
-				<xsd:element ref="P5"/>
-				<xsd:element ref="P6"/>
-				<xsd:element ref="P7"/>
-				<xsd:element ref="P1para"/>
-				<xsd:element ref="P2para"/>
-				<xsd:element ref="P3para"/>
-				<xsd:element ref="P4para"/>
-				<xsd:element ref="P5para"/>
-				<xsd:element ref="P6para"/>
-				<xsd:element ref="P7para"/>
-				<xsd:element ref="P1group"/>
-				<xsd:element ref="P2group"/>
-				<xsd:element ref="P3group"/>
-				<xsd:element ref="Schedules"/>
-				<xsd:element ref="Schedule"/>
-				<xsd:sequence>
-					<xsd:element ref="BlockAmendment"/>
-					<xsd:element ref="AppendText" minOccurs="0"/>
-				</xsd:sequence>
-				<xsd:element ref="xhtml:table"/>
-				<xsd:element ref="Contents"/>
-				<xsd:element ref="ContentsPart"/>
-				<xsd:element ref="ContentsChapter"/>
-				<xsd:element ref="ContentsPblock"/>
-				<xsd:element ref="ContentsPsubBlock"/>
-				<xsd:element ref="ContentsItem"/>
-				<xsd:element ref="ContentsSubItem"/>
-				<xsd:element ref="ContentsSchedules"/>
-				<xsd:element ref="ContentsSchedule"/>
-				<xsd:element ref="ContentsAppendix"/>
-				<xsd:group ref="BlockBasic"/>
+				<xsd:group ref="CommonBlockAmendmentExtractGroup"/>
+				<!--  ListItem, FragmentNumber and FragmentTitle should only be allowed in BlockAmendment (as I can't see any reason we'd want to excerpt one of these elements on its own except for the purposes of indicating an amendment -->
 				<xsd:element ref="ListItem"/>
 				<xsd:element ref="FragmentNumber"/>
 				<xsd:element ref="FragmentTitle"/>
-				<xsd:element ref="IncludedDocument"/>
-				<xsd:element ref="MultilineTitle"/>
-				<xsd:element ref="Number"/>
-				<xsd:element ref="Title"/>
-				<xsd:element ref="Subtitle"/>
-				<xsd:element ref="Pnumber"/>
-			</xsd:choice>
-			<xsd:attributeGroup ref="LegislationAmendmentAttributes"/>
-			<xsd:attributeGroup ref="QuotesAttributes"/>
-			<xsd:attributeGroup ref="CommonAttributes"/>
-			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+				</xsd:choice>
+			<xsd:attributeGroup ref="CommonBlockAmendmentExtractAttributeGroup"/>
+            <xsd:attributeGroup ref="LegislationAmendmentAttributes"/>
 			<xsd:attribute name="PartialRefs">
 				<xsd:simpleType>
 					<xsd:list itemType="xsd:NCName"/>

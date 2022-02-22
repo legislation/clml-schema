@@ -18,11 +18,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-12-13</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
+            2.3		Colin Mackenzie		Created reusable types for #172192631
 			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions 
 			2.2		Colin Mackenzie		Move top level schema definition of DocumentMainType to schemaCommmon.xsd (#172575932)
 			2.2		Colin Mackenzie		Moved in definitions of MinorType and UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
@@ -170,7 +171,27 @@
 		</xsd:restriction>
 	</xsd:simpleType>
 	
-	<xsd:simpleType name="AffectingExtentType">
+	<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+
+    <xsd:simpleType name="CategoryType">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="primary"/>
+            <xsd:enumeration value="secondary"/>
+            <xsd:enumeration value="euretained"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="CategoryUnknownType">
+        <xsd:union memberTypes="CategoryType">
+            <xsd:simpleType>
+                <xsd:restriction base="xsd:string">
+                    <xsd:enumeration value="unknown"/>
+                </xsd:restriction>
+            </xsd:simpleType>
+        </xsd:union>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="AffectingExtentType">
 		<xsd:annotation>
 			<xsd:documentation>Choice of extents plus 'Same as affected'</xsd:documentation>
 		</xsd:annotation>

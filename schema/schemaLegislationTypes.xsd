@@ -20,12 +20,13 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2019-05-02</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.2			Colin Mackenzie	Moved definition of MinorType used for TargetSubClass attribute for BlockAmendments to schemaCommon for access by all types.
+			2.3			Colin Mackenzie	 #172192631 Removed BlockExtractStructure (only used for BlockExtract) and replaced with CommonBlockAmendmentExtractGroup(shared with BlockAmendment)
+			2			Colin Mackenzie	Moved definition of MinorType used for TargetSubClass attribute for BlockAmendments to schemaCommon for access by all types.
 			2.0			Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
 			2.0			Jim Mangiafico	 Expanded BlockAmendment and BlockExtract to accommodate European Union
 			1.9			Jim Mangiafico	 Expanded to accommodate European Union
@@ -51,57 +52,78 @@
 	<xsd:import namespace="http://www.tso.co.uk/assets/namespace/error"
 		schemaLocation="../schemaModules/errors.xsd"/>
 
-	<xsd:complexType name="BlockExtractStructure">
+	<!-- #172192631 harmonised definition with BlockAmendment
+	Should be as great an overlap as possible between the accepted contents of the two elements,
+	except where there's an obvious reason for only one of the elements to support it.
+	I've therefore said that ListItem, FragmentNumber and FragmentTitle should only be allowed in BlockAmendment
+	as I can't see any reason we'd want to excerpt one of these elements on its own except for the purposes of indicating an amendment),
+	and that otherwise the elements should allow all of the same elements
+	We have to use groups rather then a complexType (that is then extended for BlockAmendment)
+	as the inside model is a choice and XSD cannot extend a choice with a further choice (it creates a sequence of two choices). -->
+
+	<xsd:group name="CommonBlockAmendmentExtractGroup">
 		<xsd:annotation>
-			<xsd:documentation>Structure for block-level material extracted from other documents</xsd:documentation>
+			<xsd:documentation>Common content group for block-level material extracted from other documents or amended</xsd:documentation>
 		</xsd:annotation>
 		<xsd:choice>
-			<xsd:choice maxOccurs="unbounded">
-				<xsd:element ref="Group"/>
-				<xsd:element ref="Part"/>
-				<xsd:element ref="Chapter"/>
-				<xsd:element ref="Pblock"/>
-				<xsd:element ref="PsubBlock"/>
-				<xsd:element ref="Para"/>
-				<xsd:element ref="P1"/>
-				<xsd:element ref="P2"/>
-				<xsd:element ref="P3"/>
-				<xsd:element ref="P4"/>
-				<xsd:element ref="P5"/>
-				<xsd:element ref="P6"/>
-				<xsd:element ref="P7"/>
-				<xsd:element ref="P1para"/>
-				<xsd:element ref="P2para"/>
-				<xsd:element ref="P3para"/>
-				<xsd:element ref="P4para"/>
-				<xsd:element ref="P5para"/>
-				<xsd:element ref="P6para"/>
-				<xsd:element ref="P7para"/>
-				<xsd:element ref="P1group"/>
-				<xsd:element ref="P2group"/>
-				<xsd:element ref="P3group"/>
-				<xsd:element ref="SignedSection"/>
-				<xsd:element ref="Schedules"/>
-				<xsd:element ref="Schedule"/>
-				<xsd:sequence>
-					<xsd:element ref="BlockAmendment"/>
-					<xsd:element ref="AppendText" minOccurs="0"/>
-				</xsd:sequence>
-				<xsd:element ref="xhtml:table"/>
-				<xsd:group ref="BlockBasic"/>
-				<xsd:element ref="MultilineTitle"/>
-				<xsd:element ref="EUPreamble"/>
-				<xsd:element ref="EUBody"/>
-				<xsd:element ref="Division"/>
-				<xsd:element ref="Title"/>
-			</xsd:choice>
-			<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
+			<xsd:element ref="PrimaryPreamble"/>
+			<xsd:element ref="SecondaryPreamble"/>
+			<xsd:element ref="EUPrelims"/>
+			<xsd:element ref="Text"/>
+			<xsd:element ref="Body"/>
+			<xsd:element ref="Group"/>
+			<xsd:element ref="Part"/>
+			<xsd:element ref="Chapter"/>
+			<xsd:group ref="EUStructure"/>
+			<xsd:element ref="Pblock"/>
+			<xsd:element ref="PsubBlock"/>
+			<xsd:element ref="Para"/>
+			<xsd:element ref="P1"/>
+			<xsd:element ref="P2"/>
+			<xsd:element ref="P3"/>
+			<xsd:element ref="P4"/>
+			<xsd:element ref="P5"/>
+			<xsd:element ref="P6"/>
+			<xsd:element ref="P7"/>
+			<xsd:element ref="P1para"/>
+			<xsd:element ref="P2para"/>
+			<xsd:element ref="P3para"/>
+			<xsd:element ref="P4para"/>
+			<xsd:element ref="P5para"/>
+			<xsd:element ref="P6para"/>
+			<xsd:element ref="P7para"/>
+			<xsd:element ref="P1group"/>
+			<xsd:element ref="P2group"/>
+			<xsd:element ref="P3group"/>
+			<xsd:element ref="Schedules"/>
+			<xsd:element ref="Schedule"/>
+			<xsd:sequence>
+				<xsd:element ref="BlockAmendment"/>
+				<xsd:element ref="AppendText" minOccurs="0"/>
+			</xsd:sequence>
+			<xsd:element ref="xhtml:table"/>
+			<xsd:element ref="Contents"/>
+			<xsd:element ref="ContentsPart"/>
+			<xsd:element ref="ContentsChapter"/>
+			<xsd:element ref="ContentsPblock"/>
+			<xsd:element ref="ContentsPsubBlock"/>
+			<xsd:element ref="ContentsItem"/>
+			<xsd:element ref="ContentsSubItem"/>
+			<xsd:element ref="ContentsSchedules"/>
+			<xsd:element ref="ContentsSchedule"/>
+			<xsd:element ref="ContentsAppendix"/>
+			<xsd:group ref="BlockBasic"/>
+			<xsd:element ref="IncludedDocument"/>
+			<xsd:element ref="MultilineTitle"/>
+			<xsd:element ref="Number"/>
+			<xsd:element ref="Title"/>
+			<xsd:element ref="Subtitle"/>
+			<xsd:element ref="Pnumber"/>
+			<!-- #172192631 Added support for SignedSection and Signee  -->
+			<xsd:element ref="SignedSection"/>
+			<xsd:element ref="Signee"/>
 		</xsd:choice>
-		<xsd:attributeGroup ref="CommonAttributes"/>
-		<xsd:attributeGroup ref="LegislationExtractAttributes"/>
-		<xsd:attributeGroup ref="QuotesAttributes"/>
-		<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
-	</xsd:complexType>
+	</xsd:group>
 
 	<xsd:complexType name="InlineExtractStructure" mixed="true">
 		<xsd:annotation>
