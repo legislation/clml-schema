@@ -30,9 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
-			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion,
-										ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
+			2.2		William Jonadoss    Declared elements "PolicyEqualityStatements" and "ExplanatoryDocuments" as part of "Alter" group
 			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
 			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
 			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
@@ -289,6 +287,7 @@
 		</xsd:annotation>
 		<xsd:choice>
 			<xsd:element ref="Notes"/>
+			<xsd:element ref="PolicyEqualityStatements"/>
 			<xsd:element ref="Alternatives"/>
 			<xsd:element ref="CorrectionSlips"/>
 			<xsd:element ref="CodesOfPractice"/>
@@ -298,6 +297,7 @@
 			<xsd:element ref="OrdersInCouncil"/>
 			<xsd:element ref="ImpactAssessments" />
 			<xsd:element ref="OtherDocuments"/>
+			<xsd:element ref="ExplanatoryDocuments"/>
 			<xsd:element ref="TranspositionNotes"/>
 			<xsd:element ref="UKRPCOpinions"/>
 		</xsd:choice>
@@ -322,6 +322,36 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attributeGroup ref="leg:OptionalURIs"/>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="PolicyEqualityStatements">
+		<xsd:annotation>
+			<xsd:documentation>Group of Policy Equality Statements for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="PolicyEqualityStatement" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>Policy Equality Statement for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="ExplanatoryDocuments">
+		<xsd:annotation>
+			<xsd:documentation>Group of Explanatory Documents for this legislation</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="ExplanatoryDocument" maxOccurs="unbounded" type="AlterType">
+					<xsd:annotation>
+						<xsd:documentation>Explanatory Documents for this legislation</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 
