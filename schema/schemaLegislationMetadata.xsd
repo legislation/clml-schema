@@ -31,6 +31,7 @@
 			Modification information
 			Version	Name				Modification
 			2.2		William Jonadoss    Declared elements "PolicyEqualityStatements" and "ExplanatoryDocuments" as part of "Alter" group
+			2.2		William Jonadoss	Created top level schema for amendment data - Effects
 			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
 			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
 			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
@@ -778,11 +779,12 @@
 		</xsd:complexType>
 	</xsd:element>
 
-	<xsd:element name="UnappliedEffect">
+	<xsd:element name="UnappliedEffect" type="EffectType">
 		<xsd:annotation>
 			<xsd:documentation>Defines an effect from another piece of legislation on this item of legislation (currently generated from effects spreadsheet).</xsd:documentation>
 		</xsd:annotation>
-		<xsd:complexType>
+	</xsd:element>
+	<xsd:complexType name="EffectType">
 			<!-- Original more strict order did not match data
 				<xsd:sequence>
 				<xsd:element name="AffectedProvisions" type="ProvisionsStructure" minOccurs="0"/>
@@ -810,23 +812,23 @@
 			<xsd:attribute name="TypeNotes" type="xsd:string"/>
 			<xsd:attribute name="Notes" type="xsd:string"/>
 			<xsd:attribute name="Comments" type="xsd:string"/>
-			<xsd:attribute name="AffectingURI" type="xsd:anyURI">
+			<xsd:attribute name="AffectingURI" type="xsd:anyURI" use="required">
 				<xsd:annotation>
 					<xsd:documentation>A link to the legislation (and the section within it) that affects this one. Or (if AffectingUpTo is also present), a link to the first section affecting this one.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectingYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger"/>
+			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType" use="required"/>
+			<xsd:attribute name="AffectingYear" type="xsd:gYear" use="required"/>
+			<xsd:attribute name="AffectingNumber" type="xsd:positiveInteger" use="required"/>
 			<xsd:attribute name="AffectingProvisions" type="xsd:string"/>
-			<xsd:attribute name="AffectedURI" type="xsd:anyURI">
+			<xsd:attribute name="AffectedURI" type="xsd:anyURI" use="required">
 				<xsd:annotation>
 					<xsd:documentation>A link to the section in this legislation that has been affected. Or (if the AffectedUpTo attribute is also present), a link to the first of the affected sections.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
-			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="AffectedYear" type="xsd:gYear"/>
-			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger"/>
+			<xsd:attribute name="AffectedClass" type="leg:DocumentMainType" use="required"/>
+			<xsd:attribute name="AffectedYear" type="xsd:gYear" use="required"/>
+			<xsd:attribute name="AffectedNumber" type="xsd:positiveInteger" use="required"/>
 			<xsd:attribute name="AffectedProvisions" type="xsd:string"/>
 			<xsd:attribute name="Index" type="xsd:integer"/>
 			<xsd:attribute name="Row" type="xsd:integer"/>
@@ -850,8 +852,8 @@
 			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
 			<xsd:attribute name="NewRandomSeq" type="xsd:integer"/>
 			<xsd:attributeGroup ref="errl:missingUnappliedEffect"/>
-		</xsd:complexType>
-	</xsd:element>
+
+	</xsd:complexType>
 
 	<xsd:complexType name="ProvisionsStructure" mixed="true">
 		<xsd:choice minOccurs="0" maxOccurs="unbounded">

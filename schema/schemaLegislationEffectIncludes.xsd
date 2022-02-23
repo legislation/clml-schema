@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
+    targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
+    id="SchemaLegislationEffectIncludes" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" version="2.2">
+    
+    <xsd:annotation>
+        <xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <dc:title>Includes and Imports for Legislation Amendments/Effects</dc:title>
+            <dc:description>Describes fragments of primary and secondary UK legislation</dc:description>
+            <dc:contributor>Colin Mackenzie</dc:contributor>
+            <dc:contributor>William Jonadoss</dc:contributor>
+            <dc:creator>TSO</dc:creator>
+            <dc:identifier>SchemaLegislationEffectIncludes</dc:identifier>
+            <dc:language>en</dc:language>
+            <dc:publisher>The Stationery Office</dc:publisher>
+            <dc:rights>Crown copyright 2018</dc:rights>
+            <dc:date>
+                <dcq:created>2020-04-21</dcq:created>
+            </dc:date>
+            <dc:date>
+                <dcq:modified>2020-04-21</dcq:modified>
+            </dc:date>
+            <dc:date>
+                <dcq:modified>2022-02-01</dcq:modified>
+            </dc:date>
+            <xsd:documentation>
+                Namespace information:
+                This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/legislation'
+                The suggested namespace prefix is ukl ([U]nited [K]ingdom [L]egislation)
+            </xsd:documentation>
+            <xsd:documentation>
+                Modification information (for version number strategy see ../README.md)
+                Version	Name				   Modification
+                2.2		Colin Mackenzie		Created
+                2.2		William Jonadoss	   Modified
+            </xsd:documentation>
+        </xsd:appinfo>
+    </xsd:annotation>
+    
+    <xsd:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
+    <xsd:include schemaLocation="../schemaModules/schemaCommonNonEdit.xsd"/>
+    <xsd:include schemaLocation="schemaLegislationIncludes.xsd"/>
+    <!-- legislation specific (not suitable for Explanatory Notes -->
+    <xsd:include schemaLocation="schemaLegislationMain.xsd"/> 
+    <!-- Explanatory Notes -->
+    <xsd:include schemaLocation="schemaLegislationExplanatoryNotes.xsd"/>
+    <xsd:include schemaLocation="schemaLegislationCommon.xsd"/>
+    
+    <xsd:import namespace="http://www.tso.co.uk/assets/namespace/error" schemaLocation="../schemaModules/errors.xsd"/>
+    <xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+    
+    <!-- only required to make sub schemas work -->
+   <!-- <xsd:simpleType name="DocumentMainType">
+        <xsd:restriction base="DocumentMainTypeBasic"/>
+    </xsd:simpleType>-->
+    
+</xsd:schema>
