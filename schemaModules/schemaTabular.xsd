@@ -79,7 +79,68 @@
 						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
-				<xsd:element ref="xhtml:table" maxOccurs="unbounded"/>
+				<xsd:choice>
+					<xsd:element ref="Subtable" maxOccurs="unbounded"/>
+					<xsd:element ref="xhtml:table" maxOccurs="unbounded"/>
+				</xsd:choice>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="TabularAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attribute name="id">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format t00000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="t[0-9]{5}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Orientation" use="required">
+				<xsd:annotation>
+					<xsd:documentation>
+						<h:p>Defines the orientation of the table, including any titles and text</h:p>
+					</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="portrait"/>
+						<xsd:enumeration value="landscape"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="Subtable">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>This is the top level wrapper for an external subtable</h:p>
+				<h:p>These are used when large tables are split into subcomponents which are stored externally.</h:p>
+				<h:p>The subcomponents employ the schema modified form of the XHTML table model.</h:p>
+				<h:p>The Subtable element provides the wrapper to the subcomponent referrences and details </h:p>
+				<h:p>Each individual table can have a caption. To do this the caption element is used within each table needing a caption. It is therefore expected that in general the table title will be described using the Title element rather than the caption element and that the caption element should be reserved for when multiple tables occur in a Tabular element.</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Describes the number applying to the table(s) grouped by tabular (e.g. Table 1, Table 2, etc)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="Title" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Describes the title of the table(s) grouped by tabular (e.g. Table of Derivations)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>Describes the subtitle of the table(s) grouped by tabular</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="TabularAttributes"/>
