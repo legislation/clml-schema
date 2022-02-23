@@ -22,6 +22,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.1			William Jonadoss	Added Time attribute to Signatory
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.2			William Holmes		Added Time attribute to DateSigned
 			1.2			Jim Mangiafico		Expanded to accommodate European Union legislation
@@ -55,6 +56,7 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Date" type="xsd:date" use="optional"/>
+			<xsd:attribute name="Time" type="xsd:time" use="optional"/>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="LSseal">
