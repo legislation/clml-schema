@@ -20,7 +20,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2021-11-15</dcq:modified>
+				<dcq:modified>2020-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -30,6 +30,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.3		Colin Mackenzie	 As part of #172192631 changed DocumentCategory/@Value to reuse a common type
 			2.2		William Jonadoss    Declared elements "PolicyEqualityStatements" and "ExplanatoryDocuments" as part of "Alter" group
 			2.2		William Jonadoss	Created top level schema for amendment data - Effects
 			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
@@ -718,15 +719,8 @@
 						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
 					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Value" use="required">
-							<xsd:simpleType>
-								<xsd:restriction base="xsd:string">
-									<xsd:enumeration value="primary"/>
-									<xsd:enumeration value="secondary"/>
-									<xsd:enumeration value="euretained"/>
-								</xsd:restriction>
-							</xsd:simpleType>
-						</xsd:attribute>
+						<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+					<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element ref="DocumentMainType"/>
