@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
+	xmlns:h="http://www.w3.org/1999/xhtml"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	version="2.0" id="SchemaFootnote">
+
+	<xsd:annotation>
+		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<dc:title>Research Schema</dc:title>
+			<dc:description>Describes elements required for Query Builder indexing enhancements</dc:description>
+			<dc:contributor>Mark Rainbird</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>SchemaResearch</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2018</dc:rights>
+			<dc:date>
+				<dcq:created>2003-10-20</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2018-11-20</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+			Modification information
+			Version	Name				Modification
+			</xsd:documentation>
+		</xsd:appinfo>
+	</xsd:annotation>
+	
+	<xsd:element name="VersionHasEnglishXML" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>VersionHasEnglishXML</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="VersionHasWelshXML" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>VersionHasWelshXML</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="DocumentHasEnglishXML" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>DocumentHasEnglishXML</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="DocumentHasWelshXML" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>DocumentHasWelshXML</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="VersionHasEnglishPDF" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>VersionHasEnglishPDF</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="VersionHasWelshPDF" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>VersionHasWelshPDF</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="DocumentHasEnglishPDF" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>DocumentHasEnglishPDF</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="DocumentHasWelshPDF" type="booleanType">
+		<xsd:annotation>
+			<xsd:documentation>DocumentHasWelshPDF</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="CorrectionSlipsCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>CorrectionSlipsCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="ExplanatoryNotesCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>ExplanatoryNotesCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="ImpactAssessmentsCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>ImpactAssessmentsCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="CodesOfPracticeCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>CodesOfPracticeCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="TablesOfOriginsCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>TablesOfOriginsCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="TablesOfDestinationsCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>TablesOfDestinationsCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:element name="OrdersInCouncilCount" type="integerType">
+		<xsd:annotation>
+			<xsd:documentation>OrdersInCouncilCount</xsd:documentation>
+		</xsd:annotation>
+	</xsd:element>
+	
+	<xsd:complexType name="booleanType">
+		<xsd:attribute name="Value" type="xsd:boolean"/>
+	</xsd:complexType>
+	
+	<xsd:complexType name="integerType">
+		<xsd:attribute name="Value" type="xsd:integer"/>
+	</xsd:complexType>
+	
+</xsd:schema>
