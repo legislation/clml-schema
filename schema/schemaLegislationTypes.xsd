@@ -122,6 +122,10 @@
 			<!-- #172192631 Added support for SignedSection and Signee  -->
 			<xsd:element ref="SignedSection"/>
 			<xsd:element ref="Signee"/>
+			<!-- [based on Pip comments on the story: LEGDEV:2838] -->
+			<xsd:element ref="EUPreamble"/>
+			<xsd:element ref="EUBody"/>
+			<xsd:element ref="Division"/>
 		</xsd:choice>
 	</xsd:group>
 
