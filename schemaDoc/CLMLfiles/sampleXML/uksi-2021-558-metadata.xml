@@ -1,0 +1,77 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2021/558" IdURI="http://www.legislation.gov.uk/id/uksi/2021/558" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2021/558</dc:identifier>
+		<dc:title>The Capital Requirements Regulation (Amendment) (EU Exit) Regulations 2021</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2021-05-10</dc:modified>
+		<dc:subject scheme="SIheading">FINANCIAL SERVICES AND MARKETS</dc:subject>
+		<dct:valid>2021-06-01</dct:valid>
+		<dc:description>These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively, and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (and in particular, the deficiencies under paragraphs (a) and (g) of section 8(2) of that Act).</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2021/558/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2021/558/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2021/558/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2021/558/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2021/558" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2021/558/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2021/558/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2021/558/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2021/558/body" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2021/558/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2021/558/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2021/558/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2021/558/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2021/558/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2021/558/pdfs/uksi_20210558_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2021/558/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2021/558/made" title="made"/>
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2021"/>
+			<ukm:Number Value="558"/>
+			<ukm:Sifted Date="2021-04-20"/>
+			<ukm:Made Date="2021-05-07"/>
+			<ukm:Laid Date="2021-05-10" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2021-06-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780348223330"/>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2021/558/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2021/558/pdfs/uksiem_20210558_en.pdf" Date="2021-05-10" Title="UK Explanatory Memorandum" Size="65873"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2021/558/pdfs/uksi_20210558_en.pdf" Date="2021-05-10" Size="35565"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="3"/>
+			<ukm:BodyParagraphs Value="3"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" err:Date="2011-05-20+01:00" err:Time="22:02:30.253+01:00" FragmentId="866879" Version="1" xml:base="http://www.legislation.gov.uk/id/uksi/2003/3120" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:err="http://www.tso.co.uk/assets/namespace/error">
+  <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+    <dc:identifier>http://www.legislation.gov.uk/id/uksi/2003/3120</dc:identifier>
+    <dc:title>The Jam and Similar Products (England) Regulations 2003</dc:title>
+    <dc:identifier>urn:isbn:0110482514</dc:identifier>
+    <dc:type>text</dc:type>
+    <dc:format>text/xml</dc:format>
+    <dc:language>en</dc:language>
+    <dc:publisher>Statute Law Database</dc:publisher>
+    <dc:modified>2011-05-26</dc:modified>
+    <dct:valid>2003-12-31</dct:valid>
+    <dc:subject scheme="SIheading">FOOD, ENGLAND</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+	<ukm:DocumentCategory Value="secondary"/>
+	<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+	<ukm:DocumentStatus Value="final"/>
+	<ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2003"/>
+      <ukm:Number Value="3120"/>
+      <ukm:ISBN Value="0110482514"/>
+      <ukm:Made Date="2003-12-01"/>
+      <ukm:Laid Date="2003-12-09" Class="UnitedKingdomParliament"/>
+      <ukm:ComingIntoForce>
+	<ukm:DateTime Date="2003-12-31"/>
+      </ukm:ComingIntoForce>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsTitle>The Jam and Similar Products (England) Regulations 2003</ContentsTitle>
+    <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Title, application and commencement</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Interpretation</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/3">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle>Scope of Regulations</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/4">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle>Reserved descriptions</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/5">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle>Labelling and description of specified jam products</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-6" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/6">
+      <ContentsNumber>6</ContentsNumber>
+      <ContentsTitle>Manner of marking or labelling</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-7" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/7">
+      <ContentsNumber>7</ContentsNumber>
+      <ContentsTitle>Penalties and enforcement</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-8" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/8">
+      <ContentsNumber>8</ContentsNumber>
+      <ContentsTitle>Defence in relation to exports</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-9" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/9">
+      <ContentsNumber>9</ContentsNumber>
+      <ContentsTitle>Application of various provisions of the Act</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-10" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/10">
+      <ContentsNumber>10</ContentsNumber>
+      <ContentsTitle>Amendments and revocations</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-11" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/regulation/11">
+      <ContentsNumber>11</ContentsNumber>
+      <ContentsTitle>Transitional provisions</ContentsTitle>
+    </ContentsItem>
+    <ContentsSchedules>
+      <ContentsSchedule ContentRef="schedule-1" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/1">
+	<ContentsNumber>SCHEDULE 1</ContentsNumber>
+	<ContentsTitle>COMPOSITION</ContentsTitle>
+	<ContentsItem>
+	  <ContentsNumber/>
+	  <ContentsTitle Generated="true">NOTES </ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-1-paragraph-1" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/1/paragraph/1">
+	  <ContentsNumber>1</ContentsNumber>
+	  <ContentsTitle Generated="true">In the case of a product prepared from a mixture...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-1-paragraph-2" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/1/paragraph/2">
+	  <ContentsNumber>2</ContentsNumber>
+	  <ContentsTitle Generated="true">The products described in this Schedule must have a soluble...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-1-paragraph-3" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/1/paragraph/3">
+	  <ContentsNumber>3</ContentsNumber>
+	  <ContentsTitle Generated="true">Column 1 of this Schedule shall be read as if...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-1-paragraph-4" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/1/paragraph/4">
+	  <ContentsNumber>4</ContentsNumber>
+	  <ContentsTitle Generated="true">Column 1 of this Schedule shall be read as if...</ContentsTitle>
+	</ContentsItem>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-2" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/2">
+	<ContentsNumber>SCHEDULE 2</ContentsNumber>
+	<ContentsTitle>PERMITTED ADDITIONAL INGREDIENTS AND AUTHORISED TREATMENTS FOR PRODUCTS DESCRIBED IN ITEMS 1 TO 7 OF SCHEDULE 1</ContentsTitle>
+	<ContentsItem ContentRef="schedule-2-paragraph-1" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/2/paragraph/1">
+	  <ContentsNumber>1</ContentsNumber>
+	  <ContentsTitle Generated="true">The following additional ingredients may be used, to the extent...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-2-paragraph-2" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/2/paragraph/2">
+	  <ContentsNumber>2</ContentsNumber>
+	  <ContentsTitle Generated="true">Fruit, fruit pulp, fruit purée and aqueous extract of fruit...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-2-paragraph-3" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/2/paragraph/3">
+	  <ContentsNumber>3</ContentsNumber>
+	  <ContentsTitle Generated="true">Apricots and plums to be used in the manufacture of...</ContentsTitle>
+	</ContentsItem>
+	<ContentsItem ContentRef="schedule-2-paragraph-4" IdURI="http://www.legislation.gov.uk/id/uksi/2003/3120/schedule/2/paragraph/4">
+	  <ContentsNumber>4</ContentsNumber>
+	  <ContentsTitle Generated="true">Citrus peel may additionally be preserved in brine. </ContentsTitle>
+	</ContentsItem>
+      </ContentsSchedule>
+    </ContentsSchedules>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims FragmentId="866904" Version="1">
+      <Number>2003 No. 3120</Number>
+      <SubjectInformation>
+	<Subject>
+	  <Title>FOOD, ENGLAND</Title>
+	</Subject>
+      </SubjectInformation>
+      <Title>The Jam and Similar Products (England) Regulations 2003</Title>
+      <MadeDate>
+	<Text>Made</Text>
+	<DateText>1st December 2003</DateText>
+      </MadeDate>
+      <LaidDate>
+	<Text>Laid before Parliament</Text>
+	<DateText>9th December 2003</DateText>
+      </LaidDate>
+      <ComingIntoForce>
+	<Text>Coming into force</Text>
+	<DateText>31st December 2003</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+	<EnactingText>
+	  <Para>
+	    <Text>The Secretary of State in exercise of the powers conferred by sections 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 <CommentaryRef Ref="c510223"/> and now vested in him <CommentaryRef Ref="c510224"/> and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation <Citation URI="http://www.legislation.gov.uk/european/regulation/2002/0178" id="c00001" Class="EuropeanUnionRegulation" Year="2002" Number="178">(<Acronym Expansion="European Community">EC</Acronym>) <Abbreviation Expansion="Number">No.</Abbreviation> 178/2002</Citation> of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety <CommentaryRef Ref="c510225"/> and in accordance with section 48(4) and (4B) of the Food Safety Act 1990, hereby makes the following Regulations:</Text>
+	  </Para>
+	</EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body FragmentId="866905" Version="1">
+      <P1group FragmentId="866906" Version="1">
+	<Title>Title, application and commencement</Title>
+	<P1 id="regulation-1">
+	  <Pnumber>1</Pnumber>
+	  <P1para>
+	    <Text>These Regulations may be cited as the Jam and Similar Products (England) Regulations 2003; they apply in relation to England only and come into force on 31st December 2003.</Text>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866907" Version="1">
+	<Title>Interpretation</Title>
+	<P1 id="regulation-2">
+	  <Pnumber>2</Pnumber>
+	  <P1para>
+	    <P2 id="regulation-2-1">
+	      <Pnumber>1</Pnumber>
+	      <P2para>
+		<Text>In these Regulations—</Text>
+	      </P2para>
+	      <UnorderedList Decoration="none" Class="Definition">
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-the-act">the Act</Term>” means the Food Safety Act 1990;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-the-1996-regulations">the 1996 Regulations</Term>” means the Food Labelling Regulations 1996 <CommentaryRef Ref="c510226"/>;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-aqueous-extract-of-fruit">aqueous extract of fruit</Term>” means the aqueous extract of fruit which, subject to the losses necessarily occurring in proper manufacturing, contains all the water-soluble constituents of the fruit used;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-catering-establishment">catering establishment</Term>” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-chestnut">chestnut</Term>” means the fruit of the sweet chestnut tree (Castanea sativa);</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-directive-2001113">Directive 2001/113</Term>” means Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0113" id="c00002" Class="EuropeanUnionDirective" Year="2001" Number="113">2001/113/<Acronym Expansion="European Community">EC</Acronym></Citation> <CommentaryRef Ref="c510227"/> relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-eea-agreement"><Acronym Expansion="European Economic Area">EEA</Acronym> Agreement</Term>” means the Agreement on the European Economic Area <CommentaryRef Ref="c510228"/> signed at Oporto on 2nd May 1992 as adjusted by the Protocol <CommentaryRef Ref="c510229"/> signed at Brussels on 17th March 1993;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-eea-state"><Acronym Expansion="European Economic Area">EEA</Acronym> State</Term>” means a State which is a Contracting Party to the <Acronym Expansion="European Economic Area">EEA</Acronym> Agreement;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-food-authority">food authority</Term>” does not include—</Text>
+		  </Para>
+		  <OrderedList Type="alpha" Decoration="parens">
+		    <ListItem NumberOverride="a">
+		      <Para>
+			<Text>the council of a district in a non-metropolitan county in England except where the county functions have been transferred to that council pursuant to a structural change; or</Text>
+		      </Para>
+		    </ListItem>
+		    <ListItem NumberOverride="b">
+		      <Para>
+			<Text>the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple);</Text>
+		      </Para>
+		    </ListItem>
+		  </OrderedList>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-free-circulation">free circulation</Term>” has the same meaning as in Article 24 of the Treaty establishing the European Community;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-fruit">fruit</Term>” means fresh, sound fruit, free from deterioration, containing all of its essential constituents and sufficiently ripe for use, after cleaning, removal of blemishes, topping and tailing, and includes ginger, tomatoes, the edible parts of rhubarb stalks, carrots, sweet potatoes, cucumbers, pumpkins, melons and watermelons;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-fruit-pulp">fruit pulp</Term>” means the edible part of the whole fruit, with or without peel, skin, seeds or pips, as appropriate, which may have been sliced or crushed but which has not been reduced to a purée;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-fruit-purée">fruit purée</Term>” means the edible part of the whole fruit, with or without peel, skin, seeds or pips, as appropriate, which has been reduced to a purée by being sieved or subjected to a similar process;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-ginger">ginger</Term>” means the edible root of the ginger plant in a fresh or preserved state and may be dried or preserved in syrup;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-ingredient">ingredient</Term>” has the meaning assigned to it by the 1996 Regulations;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-labelling">labelling</Term>” has the meaning assigned to it by the 1996 Regulations;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-member-state">Member State</Term>” means a State which is a member of the European Community;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-permitted-additional-ingredient">permitted additional ingredient</Term>” means an ingredient described in paragraph 1 of Schedule 2 which is used as specified in that paragraph;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-permitted-sweetener">permitted sweetener</Term>” means any sweetener insofar as its use is permitted in the specified jam or similar product by the Sweeteners in Food Regulations 1995 <CommentaryRef Ref="c510230"/>;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-preparation">preparation</Term>” includes manufacture and any form of processing or treatment;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-reserved-description">reserved description</Term>”, as regards any specified jam or similar product means any description specified in relation to that product in column 1 of Schedule 1 as read with the Notes relating to that Schedule;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-sell">sell</Term>” includes offer or expose for sale and includes have in possession for sale, and  “<Term id="term-sale">sale</Term>” shall be construed accordingly;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-specified-jam-or-similar-product">specified jam or similar product</Term>” means, subject to paragraph (2), any composition of food specified in column 2 of Schedule 1 as read with the Notes relating to that Schedule;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-sugars">sugars</Term>” means a sugar product defined in the Annex to Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0111" id="c00003" Class="EuropeanUnionDirective" Year="2001" Number="111">2001/111/<Acronym Expansion="European Community">EC</Acronym></Citation> relating to certain sugars intended for human consumption <CommentaryRef Ref="c510231"/>, fructose syrup, sugar extracted from fruit or brown sugar or any combination thereof;</Text>
+		  </Para>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-ultimate-consumer">ultimate consumer</Term>” means any person who buys otherwise than—</Text>
+		  </Para>
+		  <OrderedList Type="alpha" Decoration="parens">
+		    <ListItem NumberOverride="a">
+		      <Para>
+			<Text>for the purpose of resale,</Text>
+		      </Para>
+		    </ListItem>
+		    <ListItem NumberOverride="b">
+		      <Para>
+			<Text>for the purposes of a catering establishment, or</Text>
+		      </Para>
+		    </ListItem>
+		    <ListItem NumberOverride="c">
+		      <Para>
+			<Text>for the purposes of a manufacturing business;</Text>
+		      </Para>
+		    </ListItem>
+		  </OrderedList>
+		</ListItem>
+		<ListItem>
+		  <Para>
+		    <Text>“<Term id="term-vine-fruits">vine fruits</Term>” means muscatels, raisins, sultanas or currants.</Text>
+		  </Para>
+		</ListItem>
+	      </UnorderedList>
+	    </P2>
+	    <P2 id="regulation-2-2">
+	      <Pnumber>2</Pnumber>
+	      <P2para>
+		<Text>A food described in column 2 of any items 1 to 7 of Schedule 1 is not a specified jam or similar product within the meaning of these Regulations if—</Text>
+		<P3 id="regulation-2-2-a">
+		  <Pnumber>a</Pnumber>
+		  <P3para>
+		    <Text>it contains any additional ingredient other than a permitted additional ingredient;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-2-2-b">
+		  <Pnumber>b</Pnumber>
+		  <P3para>
+		    <Text>any raw material, to which paragraphs 2 to 4 of Schedule 2 refer, used in the preparation of that food has been subjected to any treatment other than a treatment authorised by those paragraphs.</Text>
+		  </P3para>
+		</P3>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-2-3">
+	      <Pnumber>3</Pnumber>
+	      <P2para>
+		<Text>Any other expression used both in these Regulations and in Directive 2001/113 has the same meaning in these Regulations as in that Directive.</Text>
+	      </P2para>
+	    </P2>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866908" Version="1">
+	<Title>Scope of Regulations</Title>
+	<P1 id="regulation-3">
+	  <Pnumber>3</Pnumber>
+	  <P1para>
+	    <P2 id="regulation-3-1">
+	      <Pnumber>1</Pnumber>
+	      <P2para>
+		<Text>Subject to paragraphs (2) and (3) these Regulations apply to specified jam or similar products, intended for human consumption and ready for delivery to the ultimate consumer or to a catering establishment.</Text>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-3-2">
+	      <Pnumber>2</Pnumber>
+	      <P2para>
+		<Text>These Regulations do not apply to any specified jam or similar product intended for the manufacture of fine bakery wares, pastries or biscuits.</Text>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-3-3">
+	      <Pnumber>3</Pnumber>
+	      <P2para>
+		<Text>These Regulations do not apply in respect of any product bearing the description set out at items 8 to 11 of column 1 of Schedule 1 which is—</Text>
+		<P3 id="regulation-3-3-a">
+		  <Pnumber>a</Pnumber>
+		  <P3para>
+		    <Text>brought into England from—</Text>
+		    <P4 id="regulation-3-3-a-i">
+		      <Pnumber>i</Pnumber>
+		      <P4para>
+			<Text>an <Acronym Expansion="European Economic Area">EEA</Acronym> State (other than the United Kingdom), or</Text>
+		      </P4para>
+		    </P4>
+		    <P4 id="regulation-3-3-a-ii">
+		      <Pnumber>ii</Pnumber>
+		      <P4para>
+			<Text>another part of the United Kingdom, in which it was lawfully sold, having been lawfully produced in an <Acronym Expansion="European Economic Area">EEA</Acronym> State; or</Text>
+		      </P4para>
+		    </P4>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-3-3-b">
+		  <Pnumber>b</Pnumber>
+		  <P3para>
+		    <Text>brought into England from—</Text>
+		    <P4 id="regulation-3-3-b-i">
+		      <Pnumber>i</Pnumber>
+		      <P4para>
+			<Text>a Member State (other than the United Kingdom), or</Text>
+		      </P4para>
+		    </P4>
+		    <P4 id="regulation-3-3-b-ii">
+		      <Pnumber>ii</Pnumber>
+		      <P4para>
+			<Text>another part of the United Kingdom, in which it was lawfully sold, having been lawfully produced in a Member State, or in which it was in free circulation and lawfully sold.</Text>
+		      </P4para>
+		    </P4>
+		  </P3para>
+		</P3>
+	      </P2para>
+	    </P2>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866909" Version="1">
+	<Title>Reserved descriptions</Title>
+	<P1 id="regulation-4">
+	  <Pnumber>4</Pnumber>
+	  <P1para>
+	    <Text>No person shall sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless—</Text>
+	    <P3 id="regulation-4-a">
+	      <Pnumber>a</Pnumber>
+	      <P3para>
+		<Text>such food is the specified jam or similar product to which the reserved description relates;</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-4-b">
+	      <Pnumber>b</Pnumber>
+	      <P3para>
+		<Text>such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-4-c">
+	      <Pnumber>c</Pnumber>
+	      <P3para>
+		<Text>such description is used in addition to the name of the food and in accordance with practices used to designate other products which cannot be confused with those defined in column 2 of Schedule 1.</Text>
+	      </P3para>
+	    </P3>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866910" Version="1">
+	<Title>Labelling and description of specified jam products</Title>
+	<P1 id="regulation-5">
+	  <Pnumber>5</Pnumber>
+	  <P1para>
+	    <P2 id="regulation-5-1">
+	      <Pnumber>1</Pnumber>
+	      <P2para>
+		<Text>Without prejudice to the generality of Part II of the 1996 Regulations, no person shall sell any specified jam or similar product unless it is marked or labelled with the following particulars—</Text>
+		<P3 id="regulation-5-1-a">
+		  <Pnumber>a</Pnumber>
+		  <P3para>
+		    <Text>the reserved description of the product;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-5-1-b">
+		  <Pnumber>b</Pnumber>
+		  <P3para>
+		    <Text>where any specified jam or similar product has a residual sulphur dioxide content of more than 10 milligrams per kilogram, then, in addition to any particular required to be identified in a list of ingredients by the 1996 Regulations, that residual content shall be identified in the list of ingredients according to the percentage by weight of the residue in the product as  “<Term id="term-sulphur-dioxide">sulphur dioxide</Term>”.</Text>
+		  </P3para>
+		</P3>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-5-2">
+	      <Pnumber>2</Pnumber>
+	      <P2para>
+		<Text>Without prejudice to the generality of Part II of the 1996 Regulations, no person shall sell any product specified at items 1–7 of Schedule 1 unless it is marked or labelled with the following particulars—</Text>
+		<P3 id="regulation-5-2-a">
+		  <Pnumber>a</Pnumber>
+		  <P3para>
+		    <Text>in the case—</Text>
+		    <P4 id="regulation-5-2-a-i">
+		      <Pnumber>i</Pnumber>
+		      <P4para>
+			<Text>of a product prepared from a single type of fruit, an indication of that type of fruit;</Text>
+		      </P4para>
+		    </P4>
+		    <P4 id="regulation-5-2-a-ii">
+		      <Pnumber>ii</Pnumber>
+		      <P4para>
+			<Text>of a product prepared from two types of fruit, an indication of those types of fruit in descending order of the weight of the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used in the preparation of the product; and</Text>
+		      </P4para>
+		    </P4>
+		    <P4 id="regulation-5-2-a-iii">
+		      <Pnumber>iii</Pnumber>
+		      <P4para>
+			<Text>of a product prepared from three or more types of fruit, an indication of those types of fruit in descending order of the weight of the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used in the preparation of the product or alternatively the words  “mixed fruit” or similar wording or the number of types of fruit used in the preparation of the product;</Text>
+		      </P4para>
+		    </P4>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-5-2-b">
+		  <Pnumber>b</Pnumber>
+		  <P3para>
+		    <Text>an indication of the proportion of fruit used in the preparation of the product in the form  “prepared with Xg of fruit per 100 g”, there being inserted in place of <InlineAmendment>“
+                    X
+                  ”</InlineAmendment> the quantity in grams of fruit from which the fruit pulp, fruit purée, fruit juice, fruit peel and aqueous extract of fruit used for every hundred grams of the finished product are derived;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-5-2-c">
+		  <Pnumber>c</Pnumber>
+		  <P3para>
+		    <Text>except where a nutritional claim as regards sugar content is made and the product is marked or labelled, as regards sugar content, with the prescribed nutrition labelling as set out in Schedule 7 to the 1996 Regulations, an indication of the total sugar content in the form  “total sugar content: Yg per 100 g”, there being inserted in place of <InlineAmendment>“
+                    Y
+                  ”</InlineAmendment> the content in grams of soluble solids in each hundred grams of the product, determined by refractometer at 20°C, the content shown being accurate to ±3 refractometric degrees.</Text>
+		  </P3para>
+		</P3>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-5-3">
+	      <Pnumber>3</Pnumber>
+	      <P2para>
+		<Text>The particulars with which the product is required to be marked or labelled in accordance with paragraph 2(b) and (c) shall appear in the labelling of the food in the same field of vision as the name of the product and in clearly visible characters.</Text>
+	      </P2para>
+	    </P2>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866911" Version="1">
+	<Title>Manner of marking or labelling</Title>
+	<P1 id="regulation-6">
+	  <Pnumber>6</Pnumber>
+	  <P1para>
+	    <Text>Regulations 35, 36(1) and (5) and 38 of the 1996 Regulations (which relate to the manner of marking or labelling of food) shall apply to the particulars with which a specified jam or similar product is required to be marked or labelled by regulation 5 of these Regulations as if they were particulars with which a food is required to be marked or labelled by the 1996 Regulations.</Text>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866912" Version="1">
+	<Title>Penalties and enforcement</Title>
+	<P1 id="regulation-7">
+	  <Pnumber>7</Pnumber>
+	  <P1para>
+	    <P2 id="regulation-7-1">
+	      <Pnumber>1</Pnumber>
+	      <P2para>
+		<Text>Any person who contravenes or fails to comply with regulation 4 or 5 of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.</Text>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-7-2">
+	      <Pnumber>2</Pnumber>
+	      <P2para>
+		<Text>Each food authority shall enforce and execute these Regulations in its area.</Text>
+	      </P2para>
+	    </P2>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866913" Version="1">
+	<Title>Defence in relation to exports</Title>
+	<P1 id="regulation-8">
+	  <Pnumber>8</Pnumber>
+	  <P1para>
+	    <Text>In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove—</Text>
+	    <P3 id="regulation-8-a">
+	      <Pnumber>a</Pnumber>
+	      <P3para>
+		<Text>that the food in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that the food complies with that legislation; and</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-8-b">
+	      <Pnumber>b</Pnumber>
+	      <P3para>
+		<Text>in the case of an <Acronym Expansion="European Economic Area">EEA</Acronym> State, that the legislation complies with the provisions of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0113" id="c00004" Class="EuropeanUnionDirective" Year="2001" Number="113">2001/113/<Acronym Expansion="European Community">EC</Acronym></Citation> of the European Parliament and the Council relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption <CommentaryRef Ref="c510232"/>.</Text>
+	      </P3para>
+	    </P3>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866914" Version="1">
+	<Title>Application of various provisions of the Act</Title>
+	<P1 id="regulation-9">
+	  <Pnumber>9</Pnumber>
+	  <P1para>
+	    <Text>The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or any Part thereof shall be construed as a reference to these Regulations—</Text>
+	    <P3 id="regulation-9-a">
+	      <Pnumber>a</Pnumber>
+	      <P3para>
+		<Text>section 2 (extended meaning of sale <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation>);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-b">
+	      <Pnumber>b</Pnumber>
+	      <P3para>
+		<Text>section 3 (presumption that food is intended for human consumption);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-c">
+	      <Pnumber>c</Pnumber>
+	      <P3para>
+		<Text>section 20 (offences due to fault of another person);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-d">
+	      <Pnumber>d</Pnumber>
+	      <P3para>
+		<Text>section 21 (defence of due diligence), as it applies for the purposes of section 8, 14 or 15 of the Act;</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-e">
+	      <Pnumber>e</Pnumber>
+	      <P3para>
+		<Text>section 22 (defence of publication in the course of a business);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-f">
+	      <Pnumber>f</Pnumber>
+	      <P3para>
+		<Text>section 30(8) (which relates to documentary evidence);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-g">
+	      <Pnumber>g</Pnumber>
+	      <P3para>
+		<Text>section 33(1) (obstruction <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation> of officers);</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-h">
+	      <Pnumber>h</Pnumber>
+	      <P3para>
+		<Text>section 33(2), with the modification that the reference to  “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub-paragraph (g) above;</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-i">
+	      <Pnumber>i</Pnumber>
+	      <P3para>
+		<Text>section 35(1) (punishment of offences), insofar as it relates to offences under section 33(1) as applied by sub-paragraph (g) above;</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-j">
+	      <Pnumber>j</Pnumber>
+	      <P3para>
+		<Text>section 35(2) and (3) insofar as it relates to offences under section 33(2) as applied by sub-paragraph (h) above;</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-k">
+	      <Pnumber>k</Pnumber>
+	      <P3para>
+		<Text>section 36 (offences by bodies corporate); and</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-9-l">
+	      <Pnumber>l</Pnumber>
+	      <P3para>
+		<Text>section 44 (protection of officers acting in good faith).</Text>
+	      </P3para>
+	    </P3>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866915" Version="1">
+	<Title>Amendments and revocations</Title>
+	<P1 id="regulation-10">
+	  <Pnumber>10</Pnumber>
+	  <P1para>
+	    <P2 id="regulation-10-1">
+	      <Pnumber>1</Pnumber>
+	      <P2para>
+		<Text>The Jam and Similar Products Regulations 1981 <CommentaryRef Ref="c510233"/> and the Jam and Similar Products (Amendment) Regulations 1990 <CommentaryRef Ref="c510234"/>, insofar as each applies in relation to England, are revoked.</Text>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-10-2">
+	      <Pnumber>2</Pnumber>
+	      <P2para>
+		<Text>The following entries relating to the Jam and Similar Products Regulations 1981 shall (insofar as the following Regulations apply in relation to England) be omitted—</Text>
+		<P3 id="regulation-10-2-a">
+		  <Pnumber>a</Pnumber>
+		  <P3para>
+		    <Text>in the Food (Revision of Penalties) Regulations 1982 <CommentaryRef Ref="c510235"/>, in Schedule 1;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-10-2-b">
+		  <Pnumber>b</Pnumber>
+		  <P3para>
+		    <Text>in the Food (Revision of Penalties) Regulations 1985 <CommentaryRef Ref="c510236"/>, in Schedule 1, Part I;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-10-2-c">
+		  <Pnumber>c</Pnumber>
+		  <P3para>
+		    <Text>in the Food Safety Act 1990 (Consequential Modifications)
+
+							(England and Wales) Order 1990 <CommentaryRef Ref="c510237"/>, in Schedule 1, Part I, Schedule 3, Part I and Schedule 6;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-10-2-d">
+		  <Pnumber>d</Pnumber>
+		  <P3para>
+		    <Text>in the Food Safety (Exports) Regulations 1991 <CommentaryRef Ref="c510238"/>, in Schedule 1, Part 1;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-10-2-e">
+		  <Pnumber>e</Pnumber>
+		  <P3para>
+		    <Text>in the Food (Forces Exemptions)
+
+							(Revocations) Regulations 1992 <CommentaryRef Ref="c510239"/>, in Part 1 of the Schedule;</Text>
+		  </P3para>
+		</P3>
+		<P3 id="regulation-10-2-f">
+		  <Pnumber>f</Pnumber>
+		  <P3para>
+		    <Text>in the Food Labelling Regulations 1996 <CommentaryRef Ref="c510240"/> in Schedule 9.</Text>
+		  </P3para>
+		</P3>
+	      </P2para>
+	    </P2>
+	    <P2 id="regulation-10-3">
+	      <Pnumber>3</Pnumber>
+	      <P2para>
+		<Text>In the Miscellaneous Food Additives Regulations 1995 <CommentaryRef Ref="c510241"/>
+
+					(insofar as they apply in relation to England), in Schedules 2, 3 and 7 for the words  “Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1979/0693" id="c00005" Class="EuropeanEconomicCommunityDirective" Year="1979" Number="693">79/693/<Acronym Expansion="European Economic Community">EEC</Acronym></Citation>” in each place where they appear there shall be substituted the words <InlineAmendment>“
+                Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0113" id="c00006" Class="EuropeanUnionDirective" Year="2001" Number="113">2001/113/<Acronym Expansion="European Community">EC</Acronym></Citation> relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption
+              ”</InlineAmendment>.</Text>
+	      </P2para>
+	    </P2>
+	  </P1para>
+	</P1>
+      </P1group>
+      <P1group FragmentId="866916" Version="1">
+	<Title>Transitional provisions</Title>
+	<P1 id="regulation-11">
+	  <Pnumber>11</Pnumber>
+	  <P1para>
+	    <Text>In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove that—</Text>
+	    <P3 id="regulation-11-a">
+	      <Pnumber>a</Pnumber>
+	      <P3para>
+		<Text>the food concerned was marked or labelled before 12th July 2004, and</Text>
+	      </P3para>
+	    </P3>
+	    <P3 id="regulation-11-b">
+	      <Pnumber>b</Pnumber>
+	      <P3para>
+		<Text>the matters constituting the alleged offence would not have constituted an offence under the Jam and Similar Products Regulations 1981 as they stood immediately before the coming into force of these Regulations.</Text>
+	      </P3para>
+	    </P3>
+	  </P1para>
+	</P1>
+      </P1group>
+      <SignedSection FragmentId="866917" Version="1">
+	<Signatory>
+	  <Para>
+	    <Text> Signed by authority of the Secretary of State for Health</Text>
+	  </Para>
+	  <Signee>
+	    <PersonName>Melanie Johnson</PersonName>
+	    <JobTitle>Parliamentary Under-Secretary of State,</JobTitle>
+	    <Department>Department of Health</Department>
+	    <DateSigned Date="2003-12-01">
+	      <DateText>1st December 2003</DateText>
+	    </DateSigned>
+	  </Signee>
+	</Signatory>
+      </SignedSection>
+    </Body>
+    <Schedules FragmentId="866918" Version="1">
+      <Schedule FragmentId="866919" Version="1" id="schedule-1">
+	<Number>SCHEDULE 1</Number>
+	<TitleBlock>
+	  <Title>COMPOSITION</Title>
+	</TitleBlock>
+	<Reference>Regulation 2(1)</Reference>
+	<ScheduleBody>
+	  <Tabular Orientation="portrait">
+	    <table cols="3" xmlns="http://www.w3.org/1999/xhtml"><tbody>
+		<tr>
+		  <th rowspan="1" colspan="1"> </th>
+		  <th rowspan="1" colspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Column 1</Emphasis></th>
+		  <th rowspan="1" colspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Column 2</Emphasis></th>
+		</tr>
+		<tr>
+		  <th rowspan="1" colspan="1"> </th>
+		  <th rowspan="1" colspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Reserved Descriptions</Emphasis></th>
+		  <th rowspan="1" colspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Specified jam or similar product</Emphasis></th>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">1</Strong>.</td>
+		  <td rowspan="1" colspan="1">Jam</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>A mixture, brought to a suitable gelled consistency, of sugars, the pulp or purée or both of one or more kinds of fruit and water, such that the quantity of fruit pulp or fruit purée or both used for every 1000 grams of the finished product is not less than—</Text>
+			</Para>
+			<OrderedList Type="roman" Decoration="parens">
+			  <ListItem NumberOverride="i">
+			    <Para>
+			      <Text>250 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="ii">
+			    <Para>
+			      <Text>150 grams in the case of ginger,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iii">
+			    <Para>
+			      <Text>160 grams in the case of cashew apples,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iv">
+			    <Para>
+			      <Text>60 grams in the case of passion fruit,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="v">
+			    <Para>
+			      <Text>350 grams in the case of any other fruit.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">2</Strong>.</td>
+		  <td rowspan="1" colspan="1">Extra Jam</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>A mixture, brought to a suitable gelled consistency, of—</Text>
+			</Para>
+			<UnorderedList Decoration="none">
+			  <ListItem>
+			    <Para>
+			      <Text>— sugars, the unconcentrated pulp of one or more kinds of fruit and water, or</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem>
+			    <Para>
+			      <Text>— in the case of rosehip extra jam or seedless raspberry, blackberry, blackcurrant, blueberry or redcurrant extra jam, of sugars, the unconcentrated purée of that fruit, or a mixture of the unconcentrated pulp and purée of that fruit, and water,</Text>
+			    </Para>
+			  </ListItem>
+			</UnorderedList>
+			<Para>
+			  <Text>but the following fruits may not be used mixed with others in the manufacture of extra jam: apples, pears, clingstone plums, melons, watermelons, grapes, pumpkins, cucumbers and tomatoes.</Text>
+			</Para>
+		      </BlockText>
+		    </P><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>The quantity of fruit pulp or fruit purée or both used for every 1000 grams of the finished product being not less than—</Text>
+			</Para>
+			<OrderedList Type="roman" Decoration="parens">
+			  <ListItem NumberOverride="i">
+			    <Para>
+			      <Text>350 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="ii">
+			    <Para>
+			      <Text>250 grams in the case of ginger,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iii">
+			    <Para>
+			      <Text>230 grams in the case of cashew apples,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iv">
+			    <Para>
+			      <Text>80 grams in the case of passion fruit,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="v">
+			    <Para>
+			      <Text>450 grams in the case of any other fruit.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">3</Strong>.</td>
+		  <td rowspan="1" colspan="1">Jelly</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>An appropriately gelled mixture of sugars and fruit juice or aqueous extract of fruit or both such that the quantity of fruit juice or aqueous extract of fruit or both used for every 1000 grams of the finished product is not less than—</Text>
+			</Para>
+			<OrderedList Type="roman" Decoration="parens">
+			  <ListItem NumberOverride="i">
+			    <Para>
+			      <Text>250 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="ii">
+			    <Para>
+			      <Text>150 grams in the case of ginger,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iii">
+			    <Para>
+			      <Text>160 grams in the case of cashew apples,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iv">
+			    <Para>
+			      <Text>60 grams in the case of passion fruit,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="v">
+			    <Para>
+			      <Text>350 grams in the case of any other fruit.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>The quantities in paragraphs (i) to (v) above are calculated after deduction of the weight of water used in preparing the aqueous extracts.</Text>
+			</Para>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">4</Strong>.</td>
+		  <td rowspan="1" colspan="1">Extra Jelly</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>An appropriately gelled mixture of sugars and fruit juice or aqueous extract of fruit, or both, but the following fruits may not be used mixed with others in the manufacture of extra jelly: apples, pears, clingstone plums, melons, watermelons, grapes, pumpkins, cucumbers and tomatoes.</Text>
+			</Para>
+		      </BlockText>
+		    </P><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>The quantity of fruit juice or aqueous extract of fruit, or both, used for every kilogram of the finished product being not less than—</Text>
+			</Para>
+			<OrderedList Type="roman" Decoration="parens">
+			  <ListItem NumberOverride="i">
+			    <Para>
+			      <Text>350 grams in the case of redcurrants, blackcurrants, rosehips, rowanberries, sea buckthorns or quinces,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="ii">
+			    <Para>
+			      <Text>250 grams in the case of ginger,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iii">
+			    <Para>
+			      <Text>230 grams in the case of cashew apples,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="iv">
+			    <Para>
+			      <Text>80 grams for passion fruit,</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="v">
+			    <Para>
+			      <Text>450 grams in the case of any other fruit.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>The quantities in paragraphs (i) to (v) above are calculated after deduction of the weight of water used in preparing the aqueous extracts.</Text>
+			</Para>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">5</Strong>.</td>
+		  <td rowspan="1" colspan="1">Jelly marmalade</td>
+		  <td rowspan="1" colspan="1">The composition of marmalade, as described below but where the product contains no insoluble matter except possibly for small quantities of finely sliced peel.</td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">6</Strong>.</td>
+		  <td rowspan="1" colspan="1">Marmalade</td>
+		  <td rowspan="1" colspan="1">A mixture, brought to a suitable gelled consistency, of water, sugars and fruit pulp, fruit purée, fruit juice, fruit peel or aqueous extract of fruit or any combination thereof, in every case obtained from citrus fruit, such that the quantity of citrus fruit used for every 1000 grams of the finished product is not less than 200 grams, of which not less than 75 grams is obtained from the endocarp.</td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">7</Strong>.</td>
+		  <td rowspan="1" colspan="1">Sweetened chestnut purée</td>
+		  <td rowspan="1" colspan="1">A mixture brought to a suitable consistency, of water, sugar and puréed chestnuts, such that the quantity of puréed chestnuts used for every 1000 grams of the finished product is not less than 380 grams.</td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">8</Strong>.</td>
+		  <td rowspan="1" colspan="1">X curd</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>An emulsion of edible fat or oil (or both), sugar, whole egg or egg yolk (or both), and any combination of fruit, fruit pulp, fruit purée, fruit juice, aqueous extract of fruit or essential oils of fruit, with or without other edible ingredients, such that—</Text>
+			</Para>
+			<OrderedList Type="alpha" Decoration="parens">
+			  <ListItem NumberOverride="a">
+			    <Para>
+			      <Text>the quantity of fat and oil used for every 1000 grams of the finished product is not less than 40 grams;</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="b">
+			    <Para>
+			      <Text>the quantity of whole and egg yolk used for every 1000 grams of the finished product is not less than 6.5 grams of egg yolk solids; and</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="c">
+			    <Para>
+			      <Text>the quantity of fruit, fruit pulp, fruit purée, fruit juice, aqueous extract of fruit, and essential oil of fruit is sufficient to characterise the finished product.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">9</Strong>.</td>
+		  <td rowspan="1" colspan="1">Lemon cheese</td>
+		  <td rowspan="1" colspan="1">A food conforming to the description in item 8 above appropriate for lemon curd.</td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">10</Strong>.</td>
+		  <td rowspan="1" colspan="1">Y flavour curd</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>An emulsion of edible fat or oil (or both), sugar, whole egg or egg yolk (or both), and flavouring material with or without other edible ingredients, such that—</Text>
+			</Para>
+			<OrderedList Type="alpha" Decoration="parens">
+			  <ListItem NumberOverride="a">
+			    <Para>
+			      <Text>the quantity of fat and oil used for every 1000 grams of the finished product is not less than 40 grams;</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="b">
+			    <Para>
+			      <Text>the quantity of whole egg and egg yolk used is such that every 1000 grams of the finished product contains not less than 6.5 grams of egg yolk solids; and</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="c">
+			    <Para>
+			      <Text>the quantity of flavouring material used is sufficient to characterise the product.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P></td>
+		</tr>
+		<tr>
+		  <td rowspan="1" colspan="1"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">11</Strong>.</td>
+		  <td rowspan="1" colspan="1">Mincemeat</td>
+		  <td rowspan="1" colspan="1"><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>A mixture of sweetening agents, vine fruits, citrus peel, suet or equivalent fat and vinegar or acetic acid, with or without other edible ingredients, such that—</Text>
+			</Para>
+			<OrderedList Type="alpha" Decoration="parens">
+			  <ListItem NumberOverride="a">
+			    <Para>
+			      <Text>the quantity of vine fruits and citrus peel used for every 1000 grams of the finished product is not less than 300 grams, of which not less than 200 grams consists of vine fruits; and</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="b">
+			    <Para>
+			      <Text>the quantity of suet or equivalent fat used for every 1000 grams of the finished product is not less than 25 grams.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P><P xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+		      <BlockText>
+			<Para>
+			  <Text>For the purposes of this entry,  “<Term id="term-sweetening-agents">sweetening agents</Term>” means—</Text>
+			</Para>
+			<OrderedList Type="alpha" Decoration="parens">
+			  <ListItem NumberOverride="a">
+			    <Para>
+			      <Text>any sugar product defined in the Annex to Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0111" id="c00007" Class="EuropeanUnionDirective" Year="2001" Number="111">2001/111/<Acronym Expansion="European Community">EC</Acronym></Citation> <CommentaryRef Ref="c510242"/> relating to certain sugars intended for human consumption;</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="b">
+			    <Para>
+			      <Text>brown sugar;</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="c">
+			    <Para>
+			      <Text>cane molasses;</Text>
+			    </Para>
+			  </ListItem>
+			  <ListItem NumberOverride="d">
+			    <Para>
+			      <Text>honey, as defined in Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0110" id="c00008" Class="EuropeanUnionDirective" Year="2001" Number="110">2001/110/<Acronym Expansion="European Community">EC</Acronym></Citation> <CommentaryRef Ref="c510243"/> relating to honey.</Text>
+			    </Para>
+			  </ListItem>
+			</OrderedList>
+		      </BlockText>
+		    </P></td>
+		</tr>
+	      </tbody></table>
+	  </Tabular>
+	  <P1group FragmentId="866920" Version="1" id="schedule-1-paragraph-wrapper1">
+	    <err:Warning FragmentId="866920" XPath="/sld/slddata[1]/schedules[1]/schedule[1]/div-1[1]">this division is in a schedule, and has no heading or number; creating a P1group with an empty Title</err:Warning>
+	    <Title/>
+	    <P>
+	      <Text>NOTES</Text>
+	    </P>
+	  </P1group>
+	  <P1 FragmentId="866921" Version="1" id="schedule-1-paragraph-1">
+	    <Pnumber>1</Pnumber>
+	    <P1para>
+	      <Text>In the case of a product prepared from a mixture of types of fruit, column 2 of this Schedule shall be read as if the minimum quantities specified for the various types of fruit mentioned or referred to therein were reduced in proportion to the relative quantities of the types of fruit used.</Text>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866922" Version="1" id="schedule-1-paragraph-2">
+	    <Pnumber>2</Pnumber>
+	    <P1para>
+	      <Text>The products described in this Schedule must have a soluble dry matter content of 60% or more as determined by refractometer at 20°C except for—</Text>
+	      <P3 id="schedule-1-paragraph-2-a">
+		<Pnumber>a</Pnumber>
+		<P3para>
+		  <Text>those products in respect of which sugars have been wholly or partially replaced by permitted sweeteners;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-1-paragraph-2-b">
+		<Pnumber>b</Pnumber>
+		<P3para>
+		  <Text>those products labelled  “reduced sugar” which may have a soluble dry matter content of not less than 25% and not more than 50%;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-1-paragraph-2-c">
+		<Pnumber>c</Pnumber>
+		<P3para>
+		  <Text>those products described in items 8 to 11 which must have a soluble dry matter content of 65% or more.</Text>
+		</P3para>
+	      </P3>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866923" Version="1" id="schedule-1-paragraph-3">
+	    <Pnumber>3</Pnumber>
+	    <P1para>
+	      <Text>Column 1 of this Schedule shall be read as if for  “<Term id="term-x">X</Term>” in item 8 there were substituted—</Text>
+	      <P3 id="schedule-1-paragraph-3-a">
+		<Pnumber>a</Pnumber>
+		<P3para>
+		  <Text>the name of a particular type of fruit; or</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-1-paragraph-3-b">
+		<Pnumber>b</Pnumber>
+		<P3para>
+		  <Text>the words <InlineAmendment>“
+                  mixed fruit
+                ”</InlineAmendment>; or</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-1-paragraph-3-c">
+		<Pnumber>c</Pnumber>
+		<P3para>
+		  <Text>the word <InlineAmendment>“
+                  fruit
+                ”</InlineAmendment> preceded by an indication of the number of types of fruit used in the preparation of the food described in column 2 of the item.</Text>
+		</P3para>
+	      </P3>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866924" Version="1" id="schedule-1-paragraph-4">
+	    <Pnumber>4</Pnumber>
+	    <P1para>
+	      <Text>Column 1 of this Schedule shall be read as if for  “<Term id="term-y">Y</Term>” in item 10 there were substituted—</Text>
+	      <P3 id="schedule-1-paragraph-4-a">
+		<Pnumber>a</Pnumber>
+		<P3para>
+		  <Text>the name of a particular type of fruit; or</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-1-paragraph-4-b">
+		<Pnumber>b</Pnumber>
+		<P3para>
+		  <Text>the words <InlineAmendment>“
+                  mixed fruit
+                ”</InlineAmendment>.</Text>
+		</P3para>
+	      </P3>
+	    </P1para>
+	  </P1>
+	</ScheduleBody>
+      </Schedule>
+      <Schedule FragmentId="866925" Version="1" id="schedule-2">
+	<Number>SCHEDULE 2</Number>
+	<TitleBlock>
+	  <Title>PERMITTED ADDITIONAL INGREDIENTS AND AUTHORISED TREATMENTS FOR PRODUCTS DESCRIBED IN ITEMS 1 TO 7 OF SCHEDULE 1</Title>
+	</TitleBlock>
+	<Reference>Regulation 2(1) and (2)</Reference>
+	<ScheduleBody>
+	  <P1 FragmentId="866926" Version="1" id="schedule-2-paragraph-1">
+	    <Pnumber>1</Pnumber>
+	    <P1para>
+	      <Text>The following additional ingredients may be used, to the extent stated below:</Text>
+	      <P3 id="schedule-2-paragraph-1-a">
+		<Pnumber>a</Pnumber>
+		<P3para>
+		  <Text>honey as defined in Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0110" id="c00009" Class="EuropeanUnionDirective" Year="2001" Number="110">2001/110/<Acronym Expansion="European Community">EC</Acronym></Citation> of 20 December 2001 relating to honey <CommentaryRef Ref="c510244"/>: in all products as a total or partial substitute for sugars;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-b">
+		<Pnumber>b</Pnumber>
+		<P3para>
+		  <Text>fruit juice: only in jam;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-c">
+		<Pnumber>c</Pnumber>
+		<P3para>
+		  <Text>citrus fruit juice: in products obtained from other types of fruit: only in jam, extra jam, jelly and extra jelly;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-d">
+		<Pnumber>d</Pnumber>
+		<P3para>
+		  <Text>red fruit juices: only in jam and extra jam manufactured from rosehips, strawberries, raspberries, gooseberries, redcurrants, plums and rhubarb;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-e">
+		<Pnumber>e</Pnumber>
+		<P3para>
+		  <Text>red beetroot juice: only in jam and jelly manufactured from strawberries, raspberries, gooseberries, redcurrants and plums;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-f">
+		<Pnumber>f</Pnumber>
+		<P3para>
+		  <Text>essential oils of citrus fruits: only in marmalade and jelly marmalade;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-g">
+		<Pnumber>g</Pnumber>
+		<P3para>
+		  <Text>edible oils and fats as anti-foaming agents: in all products;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-h">
+		<Pnumber>h</Pnumber>
+		<P3para>
+		  <Text>liquid pectin: in all products;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-i">
+		<Pnumber>i</Pnumber>
+		<P3para>
+		  <Text>citrus peel: in jam, extra jam, jelly and extra jelly;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-j">
+		<Pnumber>j</Pnumber>
+		<P3para>
+		  <Text>leaves of <Emphasis>Pelargonium odoratissimum</Emphasis>: in jam, extra jam, jelly and extra jelly, where they are made from quince;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-k">
+		<Pnumber>k</Pnumber>
+		<P3para>
+		  <Text>spirits, wine and liqueur wine, nuts, aromatic herbs, spices, vanilla and vanilla extracts: in all products;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-l">
+		<Pnumber>l</Pnumber>
+		<P3para>
+		  <Text>vanilline: in all products;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-1-m">
+		<Pnumber>m</Pnumber>
+		<P3para>
+		  <Text>any substance permitted pursuant to Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1989/0107" id="c00010" Class="EuropeanEconomicCommunityDirective" Year="1989" Number="107">89/107/<Acronym Expansion="European Economic Community">EEC</Acronym></Citation> on the approximation of the laws of Member States concerning food additives authorised for use in foodstuffs intended for human consumption <CommentaryRef Ref="c510245"/>.</Text>
+		</P3para>
+	      </P3>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866927" Version="1" id="schedule-2-paragraph-2">
+	    <Pnumber>2</Pnumber>
+	    <P1para>
+	      <Text>Fruit, fruit pulp, fruit purée and aqueous extract of fruit may be treated in the following ways:</Text>
+	      <P3 id="schedule-2-paragraph-2-a">
+		<Pnumber>a</Pnumber>
+		<P3para>
+		  <Text>heated, chilled or frozen;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-2-b">
+		<Pnumber>b</Pnumber>
+		<P3para>
+		  <Text>freeze-dried;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-2-c">
+		<Pnumber>c</Pnumber>
+		<P3para>
+		  <Text>concentrated, to the extent that is technically possible;</Text>
+		</P3para>
+	      </P3>
+	      <P3 id="schedule-2-paragraph-2-d">
+		<Pnumber>d</Pnumber>
+		<P3para>
+		  <Text>except in relation to extra jam or extra jelly, sulphited, that is to say sulphur dioxide (E 220) or its salts (E 221, E 222, E 223, E 224, E 226 and E 227) may be used as an aid to manufacture provided that the maximum sulphur-dioxide content laid down in Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1995/0002" id="c00011" Class="EuropeanUnionDirective" Year="1995" Number="2">95/2/<Acronym Expansion="European Community">EC</Acronym></Citation> <CommentaryRef Ref="c510246"/> is not exceeded.</Text>
+		</P3para>
+	      </P3>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866928" Version="1" id="schedule-2-paragraph-3">
+	    <Pnumber>3</Pnumber>
+	    <P1para>
+	      <Text>Apricots and plums to be used in the manufacture of jam may also be treated by other drying processes apart from freeze-drying.</Text>
+	    </P1para>
+	  </P1>
+	  <P1 FragmentId="866929" Version="1" id="schedule-2-paragraph-4">
+	    <Pnumber>4</Pnumber>
+	    <P1para>
+	      <Text>Citrus peel may additionally be preserved in brine.</Text>
+	    </P1para>
+	  </P1>
+	</ScheduleBody>
+      </Schedule>
+    </Schedules>
+    <ExplanatoryNotes>
+      <P>
+	<Text>
+	  <Emphasis>(This note is not part of the Regulations)</Emphasis>
+	</Text>
+      </P>
+      <P>
+	<BlockText>
+	  <Para>
+	    <Text>These Regulations, which apply to England, implement Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2001/0113" id="c00012" Class="EuropeanUnionDirective" Year="2001" Number="113">2001/113/<Acronym Expansion="European Community">EC</Acronym></Citation> concerning fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption (<Acronym Expansion="Official Journal">OJ</Acronym> <Abbreviation Expansion="Number">No.</Abbreviation> L10, 12.1.2002, p. 67) and also contain national measures. They revoke and replace the Jam and Similar Products Regulations 1981, as amended, in relation to England.</Text>
+	  </Para>
+	</BlockText>
+      </P>
+      <P>
+	<BlockText>
+	  <Para>
+	    <Text>The Regulations—</Text>
+	  </Para>
+	  <OrderedList Type="alpha" Decoration="parens">
+	    <ListItem NumberOverride="a">
+	      <Para>
+		<Text>prescribe definitions and reserved descriptions for certain specified jam products (<Emphasis>regulation 2 and Schedules 1 and 2</Emphasis>). The products described in the entries numbered 1 to 7 of Schedule 1 are those in relation to which the Directive applies whilst those specified in the entries numbered 8 to 11 in Schedule 1 are included as national measures;</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="b">
+	      <Para>
+		<Text>provide for the circumstances in which the Regulations apply (<Emphasis>regulation 3</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="c">
+	      <Para>
+		<Text>restrict the use of reserved descriptions to the specified jam and similar products to which they relate (<Emphasis>regulation 4</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="d">
+	      <Para>
+		<Text>prescribe labelling requirements for such products (<Emphasis>regulation 5</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="e">
+	      <Para>
+		<Text>make provision as to the manner of marking and labelling specified jam and similar products (<Emphasis>regulation 6</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="f">
+	      <Para>
+		<Text>specify a penalty for contraventions of the Regulations, enforcement authorities and, in accordance with Articles 2 and 3 of Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1989/0397" id="c00013" Class="EuropeanEconomicCommunityDirective" Year="1989" Number="397">89/397/<Acronym Expansion="European Economic Community">EEC</Acronym></Citation> on the official control of foodstuffs (<Acronym Expansion="Official Journal">OJ</Acronym> <Abbreviation Expansion="Number">No.</Abbreviation> L186, 30.6.89, p. 23) and the European Economic Area Agreement, a defence in relation to exports (<Emphasis>regulations 7 and 8</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="g">
+	      <Para>
+		<Text>apply various provisions of the Food Safety Act 1990 (<Emphasis>regulation 9</Emphasis>);</Text>
+	      </Para>
+	    </ListItem>
+	    <ListItem NumberOverride="h">
+	      <Para>
+		<Text>revoke the previous Regulations and make consequential amendments and transitional provision (<Emphasis>regulations 10 and 11</Emphasis>).</Text>
+	      </Para>
+	    </ListItem>
+	  </OrderedList>
+	</BlockText>
+      </P>
+      <P>
+	<BlockText>
+	  <Para>
+	    <Text>A full Regulatory Impact Assessment has been prepared and placed in the Library of each House of Parliament, together with a Transposition Note setting out how the main elements of the European legislation referred to above are transposed in these Regulations. Copies may be obtained from the Food Labelling and Standards Division of the Food Standards Agency, Aviation House, 125 Kingsway, London WC2B 6NH.</Text>
+	  </Para>
+	</BlockText>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Commentaries>
+    <Commentary id="c510223" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/16" id="c00014" Year="1990" Class="UnitedKingdomPublicGeneralAct" Number="16">1990 c. 16</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510224" Type="F">
+      <Para>
+	<Text>Functions formerly exercisable by  “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraph 8 of Schedule 5 to the <Citation URI="http://www.legislation.gov.uk/id/ukpga/1999/28" id="c00015" Year="1999" Class="UnitedKingdomPublicGeneralAct" Number="28" Title="Food Standards Act 1999" AlternativeNumber="1999">Food Standards Act 1999 (1999 c. 28)</Citation>, and paragraphs 12 and 21 of that Schedule amend respectively sections 17 and 48 of the Food Safety Act 1990. Functions of  “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the <Citation URI="http://www.legislation.gov.uk/id/uksi/1999/672" id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="672" Title="National Assembly for Wales (Transfer of Functions) Order 1999">National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)</Citation>, as read with section 40(3) of the 1999 Act, and those functions so far as exercisable in relation to Scotland were transferred to the Scottish Ministers by section 53 of the <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00017" Year="1998" Class="UnitedKingdomPublicGeneralAct" Number="46" Title="Scotland Act 1998" AlternativeNumber="1998">Scotland Act 1998 (1998 c. 46)</Citation>, as read with section 40(2) of the 1999 Act. Regulation 13(4) of the <Citation URI="http://www.legislation.gov.uk/id/uksi/2000/656" id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="656" Title="Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000">Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000 (S.I. 2000/656)</Citation> expressly authorises the Secretary of State to amend or revoke existing Regulations made or having effect as if made by the Minister of Agriculture, Fisheries and Food (whether with others or not) under the Food Safety Act 1990.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510225" Type="F">
+      <Para>
+	<Text>OJ No. L31, 1.2.2002, p. 1.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510226" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1996/1499" id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1499">S.I. 1996/1499</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510227" Type="F">
+      <Para>
+	<Text>OJ No. L10, 12.1.2002, p. 67.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510228" Type="F">
+      <Para>
+	<Text>OJ No. L1, 3.1.94, p. 1.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510229" Type="F">
+      <Para>
+	<Text>OJ No. L1, 3.1.94, p. 571.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510230" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1995/3123" id="c00020" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="3123">S.I. 1995/3123</Citation>, relevant amendments are <Citation URI="http://www.legislation.gov.uk/id/uksi/1997/814" id="c00021" Class="UnitedKingdomStatutoryInstrument" Year="1997" Number="814">S.I. 1997/814</Citation>, <CitationSubRef id="c00022" URI="http://www.legislation.gov.uk/id/uksi/1997/814/section/I" Operative="true" CitationRef="c00021" SectionRef="section-I">S.I</CitationSubRef>. 1999/982, <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/379" id="c00023" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="379">S.I. 2002/379</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1182" id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1182">S.I. 2003/1182</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510231" Type="F">
+      <Para>
+	<Text>OJ No. L10, 12.1.2002, p. 53.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510232" Type="F">
+      <Para>
+	<Text>OJ No. L10, 12.1.2002, p. 67, as adopted by the EEA Joint Committee Decision No. 99/2002 (OJ No. L298, 31.10.2002, p. 10).</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510233" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1981/1063" id="c00025" Class="UnitedKingdomStatutoryInstrument" Year="1981" Number="1063">S.I. 1981/1063</Citation> as amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/1982/1727" id="c00026" Class="UnitedKingdomStatutoryInstrument" Year="1982" Number="1727">S.I. 1982/1727</Citation>, <CitationSubRef id="c00027" URI="http://www.legislation.gov.uk/id/uksi/1982/1727/section/I" Operative="true" CitationRef="c00026" SectionRef="section-I">S.I</CitationSubRef>. 1985/67, <Citation URI="http://www.legislation.gov.uk/id/uksi/1988/2112" id="c00028" Class="UnitedKingdomStatutoryInstrument" Year="1988" Number="2112">S.I. 1988/2112</Citation>, <CitationSubRef id="c00029" URI="http://www.legislation.gov.uk/id/uksi/1988/2112/section/I" Operative="true" CitationRef="c00028" SectionRef="section-I">S.I</CitationSubRef>. 1990/2085, <Citation URI="http://www.legislation.gov.uk/id/uksi/1990/2486" id="c00030" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="2486">S.I. 1990/2486</Citation>, <CitationSubRef id="c00031" URI="http://www.legislation.gov.uk/id/uksi/1990/2486/section/I" Operative="true" CitationRef="c00030" SectionRef="section-I">S.I</CitationSubRef>. 1991/1476, <Citation URI="http://www.legislation.gov.uk/id/uksi/1992/2596" id="c00032" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="2596">S.I. 1992/2596</Citation>, <CitationSubRef id="c00033" URI="http://www.legislation.gov.uk/id/uksi/1992/2596/section/I" Operative="true" CitationRef="c00032" SectionRef="section-I">S.I</CitationSubRef>. 1995/3123, <Citation URI="http://www.legislation.gov.uk/id/uksi/1995/3124" id="c00034" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="3124">S.I. 1995/3124</Citation>, <CitationSubRef id="c00035" URI="http://www.legislation.gov.uk/id/uksi/1995/3124/section/I" Operative="true" CitationRef="c00034" SectionRef="section-I">S.I</CitationSubRef>. 1995/3187, 1995/1499 and <Citation URI="http://www.legislation.gov.uk/id/uksi/1998/1398" id="c00036" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="1398">S.I. 1998/1398</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510234" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1990/2085" id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="2085">S.I. 1990/2085</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510235" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1982/1727" id="c00038" Class="UnitedKingdomStatutoryInstrument" Year="1982" Number="1727">S.I. 1982/1727</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510236" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1985/67" id="c00039" Class="UnitedKingdomStatutoryInstrument" Year="1985" Number="67">S.I. 1985/67</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510237" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1990/2486" id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="2486">S.I. 1990/2486</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510238" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1991/1476" id="c00041" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="1476">S.I. 1991/1476</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510239" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1992/2596" id="c00042" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="2596">S.I. 1992/2596</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510240" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1996/1499" id="c00043" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1499">S.I. 1996/1499</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510241" Type="F">
+      <Para>
+	<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1995/3187" id="c00044" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="3187">S.I. 1995/3187</Citation>.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510242" Type="F">
+      <Para>
+	<Text>OJ No. L10, 12.1.2002, p. 53.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510243" Type="F">
+      <Para>
+	<Text>OJ No. L10, 12.1.2002, p. 47.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510244" Type="F">
+      <Para>
+	<Text>OJ No. L.10, 12.1.2002, p. 47.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510245" Type="F">
+      <Para>
+	<Text>OJ No. L.40, 11.2.89, p. 27.</Text>
+      </Para>
+    </Commentary>
+    <Commentary id="c510246" Type="F">
+      <Para>
+	<Text>OJ No. L.61, 18.3.95, p. 1.</Text>
+      </Para>
+    </Commentary>
+  </Commentaries>
+</Legislation>

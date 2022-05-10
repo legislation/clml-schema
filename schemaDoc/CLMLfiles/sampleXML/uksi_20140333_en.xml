@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xml:base="http://www.legislation.gov.uk/id/uksi/2014/333" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" xml:lang="en" SchemaVersion="1.0" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/id/uksi/2014/333</dc:identifier>
+		<dc:title>The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014</dc:title>
+		<dc:identifier>urn:isbn:9780111109854</dc:identifier>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2014-02-17</dc:modified>
+		<dct:valid>2014-02-13</dct:valid>
+		<dc:subject scheme="SIheading">TOWN AND COUNTRY PLANNING, ENGLAND</dc:subject>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2014"/>
+			<ukm:Number Value="333"/>
+			<ukm:ISBN Value="9780111109854"/>
+			<ukm:Made Date="2014-02-13"/>
+		</ukm:SecondaryMetadata>
+	</ukm:Metadata>
+	<Contents>
+		<ContentsTitle>The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014</ContentsTitle>
+
+		<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/1">
+			<ContentsNumber>1</ContentsNumber>
+			<ContentsTitle>Citation, commencement and application</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/2">
+			<ContentsNumber>2</ContentsNumber>
+			<ContentsTitle>Interpretation</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/3">
+			<ContentsNumber>3</ContentsNumber>
+			<ContentsTitle>Amendments to the 2012 Regulations</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/4">
+			<ContentsNumber>4</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 3 (the Neighbourhood Planning Referendums Rules), in rule...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/5">
+			<ContentsNumber>5</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 3, in rule 22 (admission to polling station),...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-6" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/6">
+			<ContentsNumber>6</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 3, in rule 27 (voting procedure), after paragraph...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-7" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/7">
+			<ContentsNumber>7</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 3, in rule 37 (the count), after paragraph...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-8" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/8">
+			<ContentsNumber>8</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 3, in the Appendix of Forms, for Forms...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-9" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/9">
+			<ContentsNumber>9</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Part 1 of Schedule 4 (application, with modification,...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-10" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/10">
+			<ContentsNumber>10</ContentsNumber>
+			<ContentsTitle Generated="true">In Part 1 of Schedule 4, in table 6 (Representation...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-11" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/11">
+			<ContentsNumber>11</ContentsNumber>
+			<ContentsTitle Generated="true">In Part 2 of Schedule 4, in each of paragraphs...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-12" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/12">
+			<ContentsNumber>12</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5 (the Neighbourhood Planning Referendums (Combination of Polls)...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-13" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/13">
+			<ContentsNumber>13</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5, in rule 20 (notification of requirement of...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-14" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/14">
+			<ContentsNumber>14</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5, in rule 22 (admission to polling station),...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-15" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/15">
+			<ContentsNumber>15</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5, in rule 27 (voting procedure), after paragraph...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-16" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/16">
+			<ContentsNumber>16</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5, in rule 37 (the count), after paragraph...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-17" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/17">
+			<ContentsNumber>17</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 5, in the Appendix of Forms— </ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-18" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/18">
+			<ContentsNumber>18</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 6 (registering to vote in a business...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-19" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/19">
+			<ContentsNumber>19</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 6, in the Appendix of Forms, for Form...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-20" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/20">
+			<ContentsNumber>20</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 7 (Neighbourhood Planning Business Referendums Rules), in...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-21" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/21">
+			<ContentsNumber>21</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 29 (postal ballot boxes and...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-22" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/22">
+			<ContentsNumber>22</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 7, in rule 32 (opening of covering...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-23" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/23">
+			<ContentsNumber>23</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, omit rule 34 (procedure in relation to...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-24" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/24">
+			<ContentsNumber>24</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 7, in rule 35 (procedure in relation...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-25" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/25">
+			<ContentsNumber>25</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, omit rule 36 (postal voting statements: additional...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-26" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/26">
+			<ContentsNumber>26</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 38 (retrieval of cancelled postal...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-27" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/27">
+			<ContentsNumber>27</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 41 (sealing of receptacles), in...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-28" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/28">
+			<ContentsNumber>28</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 48 (notification of requirement of...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-29" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/29">
+			<ContentsNumber>29</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 49 (admission to polling station),...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-30" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/30">
+			<ContentsNumber>30</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in rule 54 (voting procedure), after paragraph...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-31" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/31">
+			<ContentsNumber>31</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 7, in rule 64 (the count), in...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-32" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/32">
+			<ContentsNumber>32</ContentsNumber>
+			<ContentsTitle Generated="true">In Schedule 7, in the Appendix of Forms, for Forms...</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-33" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/regulation/33">
+			<ContentsNumber>33</ContentsNumber>
+			<ContentsTitle Generated="true">(1) In Schedule 8 (application, with modification, of other Acts...</ContentsTitle>
+		</ContentsItem>
+
+
+		<ContentsSchedules>
+			<ContentsSchedule ContentRef="schedule-1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/schedule/1">
+				<ContentsNumber>SCHEDULE 1</ContentsNumber>
+				<ContentsTitle>FORMS FOR RESIDENTIAL NEIGHBOURHOOD PLANNING REFERENDUMS</ContentsTitle>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-2" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/schedule/2">
+				<ContentsNumber>SCHEDULE 2</ContentsNumber>
+				<ContentsTitle>APPLICATION, WITH MODIFICATIONS, OF OTHER SUBORDINATE LEGISLATION</ContentsTitle>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-3" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/schedule/3">
+				<ContentsNumber>SCHEDULE 3</ContentsNumber>
+				<ContentsTitle>FORMS FOR RESIDENTIAL NEIGHBOURHOOD PLANNING REFERENDUMS COMBINED WITH OTHER POLLS</ContentsTitle>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-4" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/schedule/4">
+				<ContentsNumber>SCHEDULE 4</ContentsNumber>
+				<ContentsTitle>FORM OF INVITATION TO REGISTER TO VOTE AT A BUSINESS REFERENDUM</ContentsTitle>
+			</ContentsSchedule>
+			<ContentsSchedule ContentRef="schedule-5" IdURI="http://www.legislation.gov.uk/id/uksi/2014/333/schedule/5">
+				<ContentsNumber>SCHEDULE 5</ContentsNumber>
+				<ContentsTitle>FORMS FOR BUSINESS NEIGHBOURHOOD PLANNING REFERENDUMS</ContentsTitle>
+			</ContentsSchedule>
+		</ContentsSchedules>
+
+	</Contents>
+	<Secondary>
+		<SecondaryPrelims>
+			<Number>2014 No. 333</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Town And Country Planning, England</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Neighbourhood Planning (Referendums) (Amendment) Regulations 2014</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>13th February 2014</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force in accordance with regulation 1</Text>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>The Lord President of the Council makes these Regulations in exercise of the powers conferred by section 333(2A) and paragraph 16 of Schedule 4B to the Town and Country Planning Act 1990<FootnoteRef Ref="f00001"/> and section 38A(3) of the Planning and Compulsory Purchase Act 2004<FootnoteRef Ref="f00002"/>.</Text>
+					</P>
+					<P>
+						<Text>In accordance with paragraph 16(5) of Schedule 4B to the Town and Country Planning Act 1990, the Lord President of the Council has consulted the Electoral Commission.</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text>In accordance with section 333(3A) of the Town and Country Planning Act 1990<FootnoteRef Ref="f00003"/>, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body NumberFormat="default">
+			<P1group>
+				<Title>Citation, commencement and application</Title>
+				<P1 id="regulation-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2 id="regulation-1-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations may be cited as the Neighbourhood Planning (Referendums) (Amendment) Regulations 2014.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This regulation, and regulations 2 (interpretation) and 3 (definition of relevant register for purposes of calculating referendum expenses) come into force on the day after the day on which these Regulations are made.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Regulation 19 and Schedule 4 (registration forms for business referendums) come into force on 24th February 2014.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Regulations 9(2) and 33(1) (effect of registers) come into force on the day on which paragraph 16(3) of Schedule 4 to the Electoral Registration and Administration Act 2013<FootnoteRef Ref="f00004"/> comes into force.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Regulation 33(2) (payment of expenses of registration) comes into force on the day on which paragraph 17 of Schedule 4 to the Electoral Registration and Administration Act 2013 comes into force.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>The remainder of the Regulations come into force on 6th April 2014.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>The Regulations (other than regulations 1, 2, 3, 9(2) and 33) do not apply for the purposes of a referendum in respect of which the date of the poll specified in the information statement is on or before 21st May 2014.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-1-8">
+							<Pnumber>8</Pnumber>
+							<P2para>
+								<Text>Regulation 3 does not apply for the purposes of a referendum in respect of which the referendum period begins on or before the day on which the Regulations are made.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Interpretation</Title>
+				<P1 id="regulation-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>In these Regulations—</Text>
+						<UnorderedList Decoration="none" Class="Definition">
+							<ListItem>
+								<Para>
+									<Text>“the 2012 Regulations” means the Neighbourhood Planning (Referendums) Regulations 2012<FootnoteRef Ref="f00005"/> and, unless the context otherwise requires, a reference to a numbered regulation or Schedule is to the regulation or Schedule so numbered in the 2012 Regulations;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“information statement” has the meaning given by regulation 4(3)(a) of the 2012 Regulations; and</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“referendum period” has the meaning given by regulation 2 of the 2012 Regulations.</Text>
+								</Para>
+							</ListItem>
+						</UnorderedList>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendments to the 2012 Regulations</Title>
+				<P1 id="regulation-3">
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>In regulation 6 (general restriction on referendum expenses)<FootnoteRef Ref="f00006"/>, in paragraph (1), for the definition of “relevant register” substitute—</Text>
+						<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<UnorderedList Decoration="none" Class="Definition">
+								<ListItem>
+									<Para>
+										<Text>“relevant register” means the part or parts of the register or registers of local government electors kept in accordance with section 9(1) of the 1983 Act<FootnoteRef Ref="f00007"/> which has or have effect in respect of the referendum area on the day on which the referendum period begins (whether or not the persons to whom the entries relate are entitled to vote in the referendum).</Text>
+									</Para>
+								</ListItem>
+							</UnorderedList>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-4">
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>In Schedule 3 (the Neighbourhood Planning Referendums Rules), in rule 20 (notification of requirement of secrecy), after paragraph (1) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees)<FootnoteRef Ref="f00008"/>.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-5">
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<Text>In Schedule 3, in rule 22 (admission to polling station), after paragraph (4) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-6">
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>In Schedule 3, in rule 27 (voting procedure), after paragraph (5) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>6</Pnumber>
+								<P2para>
+									<Text>A voter or proxy who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter or proxy accordingly.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-7">
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<Text>In Schedule 3, in rule 37 (the count), after paragraph (3) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>3A</Pnumber>
+								<P2para>
+									<Text>A postal ballot paper or postal voting statement that reaches the counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (3) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-8">
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<Text>In Schedule 3, in the Appendix of Forms, for Forms 6 to 13 substitute the corresponding forms in Schedule 1 to these Regulations.</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-9">
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<P2 id="regulation-9-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Part 1 of Schedule 4 (application, with modification, of other Acts and subordinate legislation), in table 1 (Representation of the People Act 1983), before the entry for section 13B insert—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="default" NumberFormat="default">
+									<Tabular Orientation="portrait">
+										<table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+											<colgroup span="1">
+												<col width="199pt" span="1"/>
+												<col width="199pt" span="1"/>
+											</colgroup>
+											<tbody>
+												<tr>
+													<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">Section 13AB (alteration of registers: interim publication dates)<FootnoteRef Ref="f00009" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+													<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">After “election” in each place, insert “or referendum”.</td>
+												</tr>
+												<tr>
+													<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format"/>
+													<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+															<Text>After subsection (8) insert—</Text>
+															<BlockAmendment Context="main" TargetClass="secondary" TargetSubClass="regulation" Format="default" NumberFormat="default">
+																<P2>
+																	<Pnumber>8A</Pnumber>
+																	<P2para>
+																		<Text>This section also applies to referendums.</Text>
+																	</P2para>
+																</P2>
+															</BlockAmendment>
+														</Para>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</Tabular>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-9-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that table, in the entry for section 49 (effect of registers)<FootnoteRef Ref="f00010"/>, in the first column, omit “, and (6)”.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-10">
+					<Pnumber>10</Pnumber>
+					<P1para>
+						<Text>In Part 1 of Schedule 4, in table 6 (Representation of the People (England and Wales) Regulations 2001<FootnoteRef Ref="f00011"/>)—</Text>
+						<P3 id="regulation-10-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>in the appropriate places, insert the entries in the table in Schedule 2 to these Regulations;</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-10-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in the entry for regulation 4 (forms)<FootnoteRef Ref="f00012"/>, for the words in the first column substitute “Regulation 4(1)(b) (forms) and, in so far as it gives effect to Forms E and K in Schedule 3, Regulation 4(2)”;</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-10-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>in the entry for regulation 56 (closing date for applications)<FootnoteRef Ref="f00013"/>, in the second column, for “(5)” substitute “(5A)”;</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-10-d">
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>omit the entries for regulations 85 (procedure in relation to postal voting statements) and 85B (postal voting statements: additional personal identifier verification)<FootnoteRef Ref="f00014"/>; and</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-10-e">
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>in the entry for regulation 91 (forwarding of documents)<FootnoteRef Ref="f00015"/>, in the second column, for the modification that inserts paragraph (2A) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<Tabular Orientation="portrait">
+										<table cols="1" xmlns="http://www.w3.org/1999/xhtml">
+											<tbody>
+												<tr>
+													<td colspan="1" rowspan="1"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+															<Text>After paragraph (3A) insert—</Text>
+															<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+																<P2>
+																	<Pnumber>3B</Pnumber>
+																	<P2para>
+																		<Text>In the case of a referendum, the documents to be forwarded under paragraphs (1) and (3A)(a) are to be forwarded to the relevant registration officer determined in accordance with the Neighbourhood Planning Referendums Rules or the Neighbourhood Planning Referendums (Combination of Polls) Rules as the case may be.</Text>
+																	</P2para>
+																</P2>
+															</BlockAmendment>
+														</Para></td>
+												</tr>
+											</tbody>
+										</table>
+									</Tabular>
+								</BlockAmendment>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1 id="regulation-11">
+					<Pnumber>11</Pnumber>
+					<P1para>
+						<Text>In Part 2 of Schedule 4, in each of paragraphs 2, 7, 16, 19 and 22 for “the Local Authorities (Conduct of Referendums) (England) Regulations 2001” (in each place those words appear in those paragraphs) substitute “the Local Authorities (Conduct of Referendums) (England) Regulations 2012<FootnoteRef Ref="f00016"/>”.</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-12">
+					<Pnumber>12</Pnumber>
+					<P1para>
+						<Text>In Schedule 5 (the Neighbourhood Planning Referendums (Combination of Polls) Rules), in rule 18 (equipment of polling stations) for paragraph (10), substitute—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>10</Pnumber>
+								<P2para>
+									<Text>In every compartment of every polling station there must be exhibited the notice—</Text>
+									<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+										<Figure ImageLayout="vertical" Orientation="portrait">
+											<Image ResourceRef="r00001" Width="419.76pt" Height="518.88pt"/>
+										</Figure>
+									</BlockAmendment>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-13">
+					<Pnumber>13</Pnumber>
+					<P1para>
+						<Text>In Schedule 5, in rule 20 (notification of requirement of secrecy), after paragraph (1) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-14">
+					<Pnumber>14</Pnumber>
+					<P1para>
+						<Text>In Schedule 5, in rule 22 (admission to polling station), after paragraph (4) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-15">
+					<Pnumber>15</Pnumber>
+					<P1para>
+						<Text>In Schedule 5, in rule 27 (voting procedure), after paragraph (5) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>5A</Pnumber>
+								<P2para>
+									<Text>A voter or proxy who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter or proxy accordingly.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-16">
+					<Pnumber>16</Pnumber>
+					<P1para>
+						<Text>In Schedule 5, in rule 37 (the count), after paragraph (5) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>5A</Pnumber>
+								<P2para>
+									<Text>A postal ballot paper or postal voting statement that reaches the relevant returning or counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (5) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-17">
+					<Pnumber>17</Pnumber>
+					<P1para>
+						<Text>In Schedule 5, in the Appendix of Forms—</Text>
+						<P3 id="regulation-17-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>for Forms 6, 7, 12 and 14 substitute the corresponding forms in Schedule 3 to these Regulations; and</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-17-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>for Forms 8 to 11 and 13 substitute Forms 7 to 10 and 12 in Schedule 1 to these Regulations (but retain the numbering in Schedule 5).</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1 id="regulation-18">
+					<Pnumber>18</Pnumber>
+					<P1para>
+						<P2 id="regulation-18-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 6 (registering to vote in a business referendum)<FootnoteRef Ref="f00017"/>, paragraph 23 (emergency change of named voter) is amended as follows.</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-18-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In sub-paragraph (1)—</Text>
+								<P3 id="regulation-18-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>omit “a named voter” in the first place those words appear;</Text>
+									</P3para>
+								</P3>
+								<P3 id="regulation-18-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>at the beginning of paragraphs (a) and (b) insert “a named voter”;</Text>
+									</P3para>
+								</P3>
+								<P3 id="regulation-18-2-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>after paragraph (b) insert—</Text>
+										<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+											<Text>; or</Text>
+											<P3>
+												<Pnumber>c</Pnumber>
+												<P3para>
+													<Text>a business vote holder becomes aware that, as a result of a reason relating to their named voter’s occupation, service or employment, the named voter cannot reasonably be expected to vote in the business referendum in the manner chosen by the named voter,</Text>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+										<AppendText>.</AppendText>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 id="regulation-18-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In sub-paragraph (3), after paragraph (b) insert—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<Text>; or</Text>
+									<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>in respect of an application made under sub-paragraph (1)(c), is the evidence described in sub-paragraph (3A).</Text>
+										</P3para>
+									</P3>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-18-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>After sub-paragraph (3) insert—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>3A</Pnumber>
+										<P2para>
+											<Text>The evidence referred to in sub-paragraph (3)(c) is—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>a statement from the business vote holder that includes—</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>the name of the named voter’s employer or, if the named voter is self-employed, that fact,</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>the reason that the named voter cannot reasonably be expected to vote in the business referendum in the manner chosen by the named voter, and</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>iii</Pnumber>
+														<P4para>
+															<Text>the date on which the business vote holder became aware of that reason; and</Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>an attestation—</Text>
+													<P4>
+														<Pnumber>i</Pnumber>
+														<P4para>
+															<Text>that is made and signed in accordance with regulation 55A(4), (6) and (7) of the Representation of the People (England and Wales) Regulations 2001, and</Text>
+														</P4para>
+													</P4>
+													<P4>
+														<Pnumber>ii</Pnumber>
+														<P4para>
+															<Text>in which the attestor certifies, to the best of their knowledge and belief, that the statements referred to in sub-paragraph (3A)(a)(i) and (ii) are true.</Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-18-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>For sub-paragraph (4) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+											<Text>For the purposes of sub-paragraphs (3)(a) and (3A)(b)(i), the provisions of the Representation of the People (England and Wales) Regulations 2001 mentioned in those sub-paragraphs are to have effect as if—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>any reference to the applicant was to the named voter, and</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>any reference to an application was to the application under sub-paragraph (1).</Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-19">
+					<Pnumber>19</Pnumber>
+					<P1para>
+						<Text>In Schedule 6, in the Appendix of Forms, for Form 1 (form of invitation to register), Form A (voting registration form) and Form B (voting choices form) substitute the corresponding forms in Schedule 4 to these Regulations.</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-20">
+					<Pnumber>20</Pnumber>
+					<P1para>
+						<P2 id="regulation-20-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 7 (Neighbourhood Planning Business Referendums Rules)<FootnoteRef Ref="f00018"/>, in rule 24 (cancellation of postal ballot papers)—</Text>
+								<P3 id="regulation-20-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in paragraph (3), for “paragraph 24(1)” substitute “paragraph 23(1)”; and</Text>
+									</P3para>
+								</P3>
+								<P3 id="regulation-20-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in paragraph (4), for “paragraph 26” substitute “paragraph 25”.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 id="regulation-20-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that rule, after paragraph (4) insert—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>5</Pnumber>
+										<P2para>
+											<Text>The counting officer must keep a list of the postal ballot papers cancelled under this rule, including—</Text>
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>the number of each cancelled postal ballot paper;</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>the name of the postal voter to whom it was issued;</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>c</Pnumber>
+												<P3para>
+													<Text>the name and number on the business voting register of the business vote holder on whose behalf the postal voter would have voted; and</Text>
+												</P3para>
+											</P3>
+											<P3>
+												<Pnumber>d</Pnumber>
+												<P3para>
+													<Text>the number of any postal ballot paper issued to any other postal voter on behalf of that business vote holder.</Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-21">
+					<Pnumber>21</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 29 (postal ballot boxes and receptacles) omit paragraph (5)(b).</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-22">
+					<Pnumber>22</Pnumber>
+					<P1para>
+						<P2 id="regulation-22-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 7, in rule 32 (opening of covering envelopes) omit paragraph (2).</Text>
+							</P2para>
+						</P2>
+						<P2 id="regulation-22-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that rule, for paragraph (4) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+											<Text>The procedure in rule 35 applies where a covering envelope (including an envelope described in paragraph (2) of rule 30) contains a postal voting statement.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-22-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In that rule, for paragraph (6) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>6</Pnumber>
+										<P2para>
+											<Text>Where a covering envelope does not contain a postal voting statement (whether separately or not) the counting officer must mark the covering envelope “provisionally rejected”, attach its contents (if any) and place it in the receptacle for rejected votes.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-23">
+					<Pnumber>23</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, omit rule 34 (procedure in relation to postal voting statements).</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-24">
+					<Pnumber>24</Pnumber>
+					<P1para>
+						<P2 id="regulation-24-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 7, in rule 35 (procedure in relation to postal voting statements: personal identifier verification), for paragraph (1) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+											<Text>This rule applies in the circumstances described in rule 32(4).</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-24-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that rule, in paragraph (3), after “if there is no such envelope” insert “but there is a ballot paper”.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-25">
+					<Pnumber>25</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, omit rule 36 (postal voting statements: additional personal identifier verification).</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-26">
+					<Pnumber>26</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 38 (retrieval of cancelled postal ballot papers), in paragraph (2)(c), at the end insert “after verification procedure”.</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-27">
+					<Pnumber>27</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 41 (sealing of receptacles), in paragraph (1)—</Text>
+						<P3 id="regulation-27-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>omit sub-paragraph (b); and</Text>
+							</P3para>
+						</P3>
+						<P3 id="regulation-27-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in sub-paragraph (d), for “spoilt and lost” substitute “spoilt, lost and cancelled”.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+				<P1 id="regulation-28">
+					<Pnumber>28</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 48 (notification of requirement of secrecy), make the existing provision paragraph (1) and after that paragraph insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-29">
+					<Pnumber>29</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 49 (admission to polling station), after paragraph (4) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-30">
+					<Pnumber>30</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in rule 54 (voting procedure), after paragraph (3) insert—</Text>
+						<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+							<P2>
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>A named voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.</Text>
+								</P2para>
+							</P2>
+						</BlockAmendment>
+					</P1para>
+				</P1>
+				<P1 id="regulation-31">
+					<Pnumber>31</Pnumber>
+					<P1para>
+						<P2 id="regulation-31-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 7, in rule 64 (the count), in paragraph (3), for sub-paragraph (d) substitute—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>the counting officer verifies the date of birth and signature of the named voter.</Text>
+										</P3para>
+									</P3>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+						<P2 id="regulation-31-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that rule, after paragraph (3) insert—</Text>
+								<BlockAmendment Context="schedule" TargetClass="secondary" TargetSubClass="regulation" Format="double" NumberFormat="default">
+									<P2>
+										<Pnumber>3A</Pnumber>
+										<P2para>
+											<Text>A postal ballot paper or postal voting statement that reaches the counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (3) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+				<P1 id="regulation-32">
+					<Pnumber>32</Pnumber>
+					<P1para>
+						<Text>In Schedule 7, in the Appendix of Forms, for Forms 4, 5, and 7 to 9 substitute the corresponding forms in Schedule 5 to these Regulations.</Text>
+					</P1para>
+				</P1>
+				<P1 id="regulation-33">
+					<Pnumber>33</Pnumber>
+					<P1para>
+						<P2 id="regulation-33-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 8 (application, with modification, of other Acts and subordinate legislation in respect of business referendums)<FootnoteRef Ref="f00019"/>, in table 1 (Representation of the People Act 1983), in the entry for section 49 (effect of registers)—</Text>
+								<P3 id="regulation-33-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in the first column, omit “, and (6)”, and</Text>
+									</P3para>
+								</P3>
+								<P3 id="regulation-33-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in the second column, omit “In subsection (6) for sub-paragraphs (a) and (b) substitute “the date of the business referendum.””</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 id="regulation-33-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In that table, in the entry for section 54 (payment of expenses of registration)<FootnoteRef Ref="f00020"/>, in the second column, after “under the 1983 Act” insert “or the Electoral Registration and Administration Act 2013”.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection>
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Lord President of the Council</Text>
+					</Para>
+					<Signee>
+						<PersonName>Greg Clark</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Department>Cabinet Office</Department>
+						<DateSigned Date="2014-02-13">
+							<DateText>13th February 2014</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule NumberFormat="default" id="schedule-1">
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>FORMS FOR RESIDENTIAL NEIGHBOURHOOD PLANNING REFERENDUMS</Title>
+				</TitleBlock>
+				<Reference>Regulations 8 and 17(b)</Reference>
+				<ScheduleBody>
+					<Form>
+						<Number>Form 6: Form of Postal Voting Statement</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00002" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00003" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 7: Official Poll Card (to be sent to a voter voting in person)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00004" Width="440.88pt" Height="630.72pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 8: Official Postal Poll Card (to be sent to a voter voting by post)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00005" Width="446.40pt" Height="608.88pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 9: Official Proxy Poll Card (to be sent to an appointed proxy voting in person)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00006" Width="433.20pt" Height="626.88pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 10: Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00007" Width="452.16pt" Height="631.68pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 11: Form of directions for the guidance of the voters and proxies in voting</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00008" Width="415.44pt" Height="586.56pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 12: Form of Certificate of Employment</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00009" Width="396.96pt" Height="279.84pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 13: Form of declaration to be made by the companion of a voter or proxy with disabilities</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00010" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00011" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule NumberFormat="default" id="schedule-2">
+				<Number>SCHEDULE 2</Number>
+				<TitleBlock>
+					<Title>APPLICATION, WITH MODIFICATIONS, OF OTHER SUBORDINATE LEGISLATION</Title>
+				</TitleBlock>
+				<Reference>Regulation 10(a)</Reference>
+				<ScheduleBody>
+					<Tabular Orientation="portrait">
+						<table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+							<colgroup span="1">
+								<col width="213.2pt" span="1"/>
+								<col width="213.2pt" span="1"/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">Provision</th>
+									<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">Modification</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 55A (additional requirements for applications for an emergency proxy vote in respect of a particular election)<FootnoteRef Ref="f00021" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 60B (requirement to provide fresh signatures following rejection of a postal voting statement)<FootnoteRef Ref="f00022" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 61C (notification of a rejected postal voting statement)<FootnoteRef Ref="f00023" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 67 (persons entitled to be present at proceedings on issue of postal ballot papers)<FootnoteRef Ref="f00024" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 78A (cancellation of postal ballot papers)<FootnoteRef Ref="f00025" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+											<Text>In paragraph (1), for “after the final nomination day at a parliamentary or local government election” substitute “during the referendum period in respect of a referendum”.</Text>
+										</Para>
+										<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+											<Text>Omit paragraph (5).</Text>
+										</Para>
+									</td>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 82 (receipt of covering envelope)<FootnoteRef Ref="f00026" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 84 (opening of covering envelopes)<FootnoteRef Ref="f00027" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 84A (confirming receipt of postal voting statements)<FootnoteRef Ref="f00028" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 86 (opening of ballot paper envelopes)</td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 87 (lists of rejected postal ballot papers)<FootnoteRef Ref="f00029" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 88 (checking of lists kept under regulation 87)<FootnoteRef Ref="f00030" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 89 (sealing of receptacles)<FootnoteRef Ref="f00031" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 116 (interpretation of Part 7)<FootnoteRef Ref="f00032" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 118 (inspection of documents open to public inspection)<FootnoteRef Ref="f00033" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">Regulation 119 (conditions on the use, supply and disclosure of documents open to public inspection)<FootnoteRef Ref="f00034" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"/>
+								</tr>
+								<tr>
+									<td rowspan="1" colspan="1">In Schedule 3, Form K<FootnoteRef Ref="f00035" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+									<td rowspan="1" colspan="1"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+											<Text>For “Representation of the People Acts” substitute “Neighbourhood Planning (Referendums) Regulations”.</Text>
+										</Para>
+										<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+											<Text>For “Parliamentary Election” substitute “Neighbourhood Planning Referendum”.</Text>
+										</Para>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</Tabular>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule NumberFormat="default" id="schedule-3">
+				<Number>SCHEDULE 3</Number>
+				<TitleBlock>
+					<Title>FORMS FOR RESIDENTIAL NEIGHBOURHOOD PLANNING REFERENDUMS COMBINED WITH OTHER POLLS</Title>
+				</TitleBlock>
+				<Reference>Regulation 17(a)</Reference>
+				<ScheduleBody>
+					<Form>
+						<Number>Form 6: Form of Postal Voting Statement (for use when there is joint issue and receipt of postal ballot papers)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00012" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00013" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 7: Form of Postal Voting Statement (for use when a referendum poll is combined with another poll but the postal ballot papers are not combined)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00014" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00015" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 12: Form of directions for the guidance of voters and proxies in voting</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00016" Width="415.44pt" Height="586.56pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 14: Form of declaration made by the companion of a voter or proxy with disabilities</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00017" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00018" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule NumberFormat="default" id="schedule-4">
+				<Number>SCHEDULE 4</Number>
+				<TitleBlock>
+					<Title>FORM OF INVITATION TO REGISTER TO VOTE AT A BUSINESS REFERENDUM</Title>
+				</TitleBlock>
+				<Reference>Regulation 19</Reference>
+				<ScheduleBody>
+					<Form>
+						<Number>Form 1: Form of invitation to register</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00019" Width="415.44pt" Height="588.00pt"/>
+							<Image ResourceRef="r00020" Width="415.44pt" Height="588.00pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form A: Non-domestic rate-payer registration form</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00021" Width="415.44pt" Height="588.00pt"/>
+							<Image ResourceRef="r00022" Width="415.44pt" Height="587.28pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form B: Voting choices form</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00023" Width="415.44pt" Height="587.28pt"/>
+							<Image ResourceRef="r00024" Width="415.44pt" Height="587.28pt"/>
+						</Figure>
+					</Form>
+				</ScheduleBody>
+			</Schedule>
+			<Schedule NumberFormat="default" id="schedule-5">
+				<Number>SCHEDULE 5</Number>
+				<TitleBlock>
+					<Title>FORMS FOR BUSINESS NEIGHBOURHOOD PLANNING REFERENDUMS</Title>
+				</TitleBlock>
+				<Reference>Regulation 32</Reference>
+				<ScheduleBody>
+					<Form>
+						<Number>Form 4: Form of Business Referendum Postal Voting Statement</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00025" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00026" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 5: Official Poll Card (to be sent to a named voter voting in person)</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00027" Width="447.60pt" Height="584.16pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 7: Form of directions for the guidance of the named voters in voting</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00028" Width="415.44pt" Height="586.56pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 8: Form of Certificate of Employment</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00029" Width="396.96pt" Height="279.84pt"/>
+						</Figure>
+					</Form>
+					<Form>
+						<Number>Form 9: Form of declaration to be made by the companion of a named voter with disabilities</Number>
+						<Figure ImageLayout="vertical" Orientation="portrait">
+							<Image ResourceRef="r00030" Width="396.96pt" Height="561.36pt"/>
+							<Image ResourceRef="r00031" Width="396.96pt" Height="561.36pt"/>
+						</Figure>
+					</Form>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes>
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations amend the Neighbourhood Planning (Referendums) Regulations 2012 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2012/2031" id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2031"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2012/2031</Citation>) (the “2012 Regulations”). Their main purpose is to apply, for the purposes of neighbourhood planning referendums, changes that have been or are to be made to the legislation relating to the administration of parliamentary and local government elections.</Text>
+			</P>
+			<P>
+				<Text>Regulation 3 amends the definition of “relevant register” for the purposes of calculating the referendum expenses limit. The limit is now to be calculated by reference to the register of local government electors as it has effect at the beginning of the referendum period, rather than as it was after the canvass in the preceding year.</Text>
+			</P>
+			<P>
+				<Text>Regulations 4 and 5 amend the Neighbourhood Planning Referendums Rules (Schedule 3 to the 2012 Regulations) to enable a community support officer to enter a polling station or a count venue on the same terms as a constable. Regulations 13 and 14 make equivalent changes to the Neighbourhood Planning Referendums (Combination of Polls) Rules (Schedule 5 to the 2012 Regulations); and regulations 28 and 29 make equivalent changes to the Neighbourhood Planning Business Referendums Rules (Schedule 7 to the 2012 Regulations).</Text>
+			</P>
+			<P>
+				<Text>Regulations 6 and 7 amend the Neighbourhood Planning Referendums Rules to allow a voter to vote (and allow a person to return a postal vote) if he or she is in a polling station or in a queue outside a polling station at 10 p.m. on polling day for the purpose of voting (or for the purpose of returning the postal vote). Regulations 15, 16, 30 and 31 make equivalent changes to the Neighbourhood Planning Referendums (Combination of Polls) Rules and the Neighbourhood Planning Business Referendums Rules.</Text>
+			</P>
+			<P>
+				<Text>Regulations 8, 12, 17, 19 and 32, and Schedules 1, 3, 4 and 5, replace various forms and notices used at residential and business referendums.</Text>
+			</P>
+			<P>
+				<Text>Regulations 9 and 10 and Schedule 2 amend the tables in Schedule 4 to the 2012 Regulations that apply certain elections legislation for the purposes of residential referendums. The amendments are to take account of amendments made to the Representation of the People Act 1983 by the Electoral Registration and Administration Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2013/6" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="2013" Number="0006">2013 (c.6)</Citation> and of amendments made to the Representation of the People (England and Wales) Regulations 2001 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2001/341" id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="0341"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2001/341</Citation>) (the “2001 Regulations”) by the Representation of the People (Description of Electoral Registers and Amendment) (England and Wales) Regulations 2013 (<Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>). Regulation 10 and Schedule 2 also apply, for residential referendums, certain provisions in the 2001 Regulations that were omitted from Schedule 4 to the 2012 Regulations in error.</Text>
+			</P>
+			<P>
+				<Text>Regulation 11 makes minor changes to Schedule 4 to the 2012 Regulations, which are consequential on changes in other legislation.</Text>
+			</P>
+			<P>
+				<Text>Regulation 18 amends Schedule 6 to the 2012 Regulations to enable a business vote holder to apply to change their named voter (the person who will cast the vote) after the usual deadline has expired, if the named voter has become unable to vote for work reasons. This amendment reflects, for business referendums, amendments made to the 2001 Regulations that will apply to residential referendums by virtue of Schedule 4 to the 2012 Regulations.</Text>
+			</P>
+			<P>
+				<Text>Regulation 20 amends Schedule 6 to provide for a counting officer to create a list of cancelled postal ballot papers at a business referendum. Regulation 27(b) makes a consequential change.</Text>
+			</P>
+			<P>
+				<Text>Regulations 21 to 26 and 27(a) amend the Neighbourhood Planning Business Referendum Rules to require a counting officer to check the personal identifiers (date of birth and signature) on every returned postal voting statement against the corresponding identifiers held on file. These amendments reflect, for business referendums, amendments made to the 2001 Regulations that will apply to residential referendums by virtue of Schedule 4 to the 2012 Regulations.</Text>
+			</P>
+			<P>
+				<Text>Regulation 33 makes consequential amendments to the table of applications in Schedule 8 to the 2012 Regulations.</Text>
+			</P>
+			<P>
+				<Text>A full regulatory impact assessment has not been produced for this instrument because no impact, or no significant impact, on the private, voluntary or public sectors is foreseen, other than that set out in the impact assessments for the Electoral Registration and Administration Act 2013.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/8" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1990" Number="0008">1990 c.8</Citation>; section 333(2A) was inserted by paragraphs 1 and 14 of Schedule 6 to the Planning and Compulsory Purchase Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/5" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0005">2004 (c.5)</Citation>; Schedule 4B was inserted by Schedule 10 to the Localism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/20" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="0020">2011 (c.20)</Citation>. The power conferred on the Secretary of State by paragraph 16 was made exercisable concurrently by the Lord President of the Council and the Secretary of State by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/2597" id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="2597"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/2597</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/5" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0005">2004 c.5</Citation>; section 38A was inserted by paragraphs 5 and 7 of Schedule 9 to the Localism Act 2011 and applies Schedule 4B to the Town and Country Planning Act 1990 to neighbourhood development plans, subject to the modifications set out in section 38C(5).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>Section 333(3A) was inserted by paragraphs 1 and 22 of Schedule 12 to the Localism Act 2011.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2013/6" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="2013" Number="0006">2013 c.6</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2012/2031" id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2031"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2012/2031</Citation>, amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/798" id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0798"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/798</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 6 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/798" id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0798"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/798</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>“the 1983 Act” is defined in regulation 2 of the 2012 Regulations to mean the Representation of the People Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/2" id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="1983" Number="0002">1983 (c.2)</Citation>; section 9 was substituted by paragraphs 1 and 3 of Schedule 1 to the Representation of the People Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/2" id="c00015" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0002">2000 (c.2)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/30" id="c00016" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="0030">2002 c.30</Citation>; section 38 was amended by section 120 of, paragraphs 179 and 181 of Schedule 4 to, and Part 2 of Schedule 17 to the Serious Organised Crime and Police Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/15" id="c00017" Class="UnitedKingdomPublicGeneralAct" Year="2005" Number="0015">2005 (c.15)</Citation>, section 7 of and paragraphs 1 and 2 of Schedule 5 to the Police and Justice Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/48" id="c00018" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0048">2006 (c.48)</Citation>, paragraph 125 of Schedule 7 and Part 13 of Schedule 8 to the Policing and Crime Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2009/26" id="c00019" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0026">2009 (c.26)</Citation> and paragraphs 277 and 292 of Schedule 16 to the Police Reform and Social Responsibility Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/13" id="c00020" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="0013">2011 (c.13)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text>Section 13AB was inserted by section 16 of the Electoral Registration and Administration Act 2013.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text>Section 49 was amended by Schedule 5 to the Representation of the People Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1985/50" id="c00021" Class="UnitedKingdomPublicGeneralAct" Year="1985" Number="0050">1985 (c.50)</Citation>, paragraphs 1 and 12 of Schedule 1 and Part 1 of Schedule 7 to the Representation of the People Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/2" id="c00022" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0002">2000 (c.2)</Citation>, paragraphs 2 and 7 of Schedule 1 to the Electoral Administration Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/22" id="c00023" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0022">2006 (c.22)</Citation> and paragraphs 1 and 16 of Schedule 4 to the Electoral Registration and Administration Act 2013.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00011">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2001/341" id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="0341"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2001/341</Citation>, as amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/1700" id="c00025" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1700"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2001/1700</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/752" id="c00026" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="0752"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/752</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00027" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/1025" id="c00028" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="1025"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2007/1025</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/1901" id="c00029" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1901"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2008/1901</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00030" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation> and paragraph 2 of Schedule 1 to the Counter-Terrorism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/28" id="c00031" Class="UnitedKingdomPublicGeneralAct" Year="2008" Number="0028">2008 (c.28)</Citation>; there are other amending instruments but none is relevant.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00012">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 4 of the Representation of the People (England and Wales) Regulations 2001 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00032" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00013">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 56 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/1700" id="c00033" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1700"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2001/1700</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/752" id="c00034" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="0752"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/752</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00035" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00036" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00014">
+			<FootnoteText>
+				<Para>
+					<Text>Regulations 85 and 85B were revoked by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00015">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 91 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/752" id="c00038" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="0752"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/752</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00039" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00016">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2012/323" id="c00041" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="0323"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2012/323</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00017">
+			<FootnoteText>
+				<Para>
+					<Text>Schedule 6 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/798" id="c00042" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0798"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/798</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00018">
+			<FootnoteText>
+				<Para>
+					<Text>Schedule 7 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/798" id="c00043" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0798"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/798</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00019">
+			<FootnoteText>
+				<Para>
+					<Text>Schedule 8 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/798" id="c00044" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0798"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/798</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00020">
+			<FootnoteText>
+				<Para>
+					<Text>Section 54 was amended by paragraph 14 of Schedule 4 to the Representation of the People Act 1985 and by paragraphs 1 and 17 of Schedule 4 to the Electoral Registration and Administration Act 2013.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00021">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 55A was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00045" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00022">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 60B was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00046" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00023">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 61C was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00047" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00024">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 67 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00048" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00025">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 78A was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00049" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00026">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 82 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00050" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00027">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 84 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00051" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00052" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198">S.I 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00028">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 84A was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00053" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00029">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 87 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00054" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00055" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198">S.I 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00030">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 88 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00056" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00031">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 89 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00057" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00058" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198">S.I 2013/3198</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00032">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 116 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00059" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/1025" id="c00060" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="1025"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2007/1025</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/1901" id="c00061" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1901"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2008/1901</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00033">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 118 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00062" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and amended by paragraph 2 of Schedule 1 to the Counter-Terrorism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/28" id="c00063" Class="UnitedKingdomPublicGeneralAct" Year="2008" Number="0028">2008 (c.28)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00034">
+			<FootnoteText>
+				<Para>
+					<Text>Regulation 119 was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00064" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and amended by paragraph 2 of Schedule 1 to the Counter-Terrorism Act 2008.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00035">
+			<FootnoteText>
+				<Para>
+					<Text>Form K was substituted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2910" id="c00065" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2910"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2006/2910</Citation> and amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3198" id="c00066" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3198"><Acronym Expansion="Statutory Instrument">S.I.</Acronym> 2013/3198</Citation><Strong>.</Strong></Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	<Resources>
+		<Resource id="r00001">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_001"/>
+		</Resource>
+		<Resource id="r00002">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_002"/>
+		</Resource>
+		<Resource id="r00003">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_003"/>
+		</Resource>
+		<Resource id="r00004">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_004"/>
+		</Resource>
+		<Resource id="r00005">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_005"/>
+		</Resource>
+		<Resource id="r00006">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_006"/>
+		</Resource>
+		<Resource id="r00007">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_007"/>
+		</Resource>
+		<Resource id="r00008">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_008"/>
+		</Resource>
+		<Resource id="r00009">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_009"/>
+		</Resource>
+		<Resource id="r00010">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_010"/>
+		</Resource>
+		<Resource id="r00011">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_011"/>
+		</Resource>
+		<Resource id="r00012">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_012"/>
+		</Resource>
+		<Resource id="r00013">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_013"/>
+		</Resource>
+		<Resource id="r00014">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_014"/>
+		</Resource>
+		<Resource id="r00015">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_015"/>
+		</Resource>
+		<Resource id="r00016">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_016"/>
+		</Resource>
+		<Resource id="r00017">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_017"/>
+		</Resource>
+		<Resource id="r00018">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_018"/>
+		</Resource>
+		<Resource id="r00019">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_019"/>
+		</Resource>
+		<Resource id="r00020">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_020"/>
+		</Resource>
+		<Resource id="r00021">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_021"/>
+		</Resource>
+		<Resource id="r00022">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_022"/>
+		</Resource>
+		<Resource id="r00023">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_023"/>
+		</Resource>
+		<Resource id="r00024">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_024"/>
+		</Resource>
+		<Resource id="r00025">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_025"/>
+		</Resource>
+		<Resource id="r00026">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_026"/>
+		</Resource>
+		<Resource id="r00027">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_027"/>
+		</Resource>
+		<Resource id="r00028">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_028"/>
+		</Resource>
+		<Resource id="r00029">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_029"/>
+		</Resource>
+		<Resource id="r00030">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_030"/>
+		</Resource>
+		<Resource id="r00031">
+			<ExternalVersion URI="http://www.legislation.gov.uk/uksi/2014/333/images/uksi_20140333_en_031"/>
+		</Resource>
+	</Resources>
+</Legislation>

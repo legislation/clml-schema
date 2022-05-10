@@ -38,6 +38,16 @@ Features and Fixes (TBC):
 
 ## Release Notes
 =======
+
+### Version 2.4
+Release date: TBD
+Features and Fixes (TBC):
+
+* Mainly a schema documentation work, adding & updating annotations for various elements, attributes and general description, in different files.
+
+* LEGDEV-1125 - Part of this, removed duplicated RefsLinkType from schemaCommonNonEdit.xsd & fragment.xsd files. And moved RefsLinkType into SchemaLegsilationCommonAttributes.xsd file.
+
+
 ### Version 2.3
 Release date: TBD
 Features and Fixes (TBC):

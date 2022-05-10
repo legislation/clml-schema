@@ -1,0 +1,76 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nia/2021/6" IdURI="http://www.legislation.gov.uk/id/nia/2021/6" NumberOfProvisions="97" RestrictStartDate="2021-08-10" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="N.I."><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/nia/2021/6/section/43/1</dc:identifier><dc:title>Pension Schemes Act (Northern Ireland) 2021</dc:title><dc:description>A Bill to make provision about pension schemes.</dc:description><dc:modified>2022-03-03</dc:modified><dc:publisher>Statute Law Database</dc:publisher><dct:valid>2021-08-10</dct:valid>
+					
+					<atom:link rel="self" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nia/2021/6/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/nia/2021/6/section/43/1/notes" title="Explanatory Notes"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/nia/2021/6/notes/contents" title="Explanatory Notes Table of Contents"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nia/2021/6" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nia/2021/6/introduction" title="introduction"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nia/2021/6/body" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/nia/2021/6/schedules" title="schedules"/>
+					
+										
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/data.html" title="HTML5 snippet"/>
+
+					
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/nia/2021/6/contents" title="Table of Contents"/>
+					
+					<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/enacted" title="enacted"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/nia/2021/6/section/43/1/2021-08-10" title="2021-08-10"/>
+					
+					<atom:link rel="up" href="http://www.legislation.gov.uk/nia/2021/6/section/43" title="Section 43"/><atom:link rel="prev" href="http://www.legislation.gov.uk/nia/2021/6/section/42/4" title="Provision; Section 42(4)"/><atom:link rel="prevInForce" href="http://www.legislation.gov.uk/nia/2021/6/section/42/4" title="Provision; Section 42(4)"/><atom:link rel="next" href="http://www.legislation.gov.uk/nia/2021/6/section/43/2" title="Provision; Section 43(2)"/><atom:link rel="nextInForce" href="http://www.legislation.gov.uk/nia/2021/6/section/43/2" title="Provision; Section 43(2)"/>
+					<ukm:PrimaryMetadata><ukm:DocumentClassification><ukm:DocumentCategory Value="primary"/><ukm:DocumentMainType Value="NorthernIrelandAct"/><ukm:DocumentStatus Value="revised"/></ukm:DocumentClassification><ukm:Year Value="2021"/><ukm:Number Value="6"/><ukm:EnactmentDate Date="2021-08-09"/><ukm:ISBN Value="9780105962472"/><ukm:UnappliedEffects><ukm:UnappliedEffect EffectId="key-cf8719c05009d65f5a1cfcd0933bb350" AffectedClass="NorthernIrelandAct" AffectedURI="http://www.legislation.gov.uk/id/nia/2021/6" AffectingURI="http://www.legislation.gov.uk/id/nia/2021/6" AffectingClass="NorthernIrelandAct" URI="http://www.legislation.gov.uk/id/effect/key-cf8719c05009d65f5a1cfcd0933bb350" Row="76" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 17(1)(b) and word" AffectingEffectsExtent="N.I." AffectingYear="2021" AffectingNumber="6" AffectingProvisions="Sch. 3 para. 21(3)(b)" AffectedYear="2021" AffectedNumber="6" Modified="2022-03-23T17:10:33Z"><ukm:AffectedTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectedTitle><ukm:AffectedTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="section-17-1-b" URI="http://www.legislation.gov.uk/id/nia/2021/6/section/17/1/b" FoundRef="section-17">s. 17(1)(b)</ukm:Section> and word</ukm:AffectedProvisions><ukm:AffectingTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectingTitle><ukm:AffectingTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/nia/2021/6/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-21-3-b" URI="http://www.legislation.gov.uk/id/nia/2021/6/schedule/3/paragraph/21/3/b">para. 21(3)(b)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="section-44-2" URI="http://www.legislation.gov.uk/id/nia/2021/6/section/44/2">s. 44(2)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Prospective="true" Qualification=""/><ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/nisr/2022/110" CommencingClass="NorthernIrelandStatutoryRule" Date="2022-03-16" Qualification="for specified purposes" CommencingYear="2022" CommencingNumber="110" Comments="for the purpose only of authorising the making of regulations"><ukm:CommencingProvisions><ukm:Section Ref="article-2-a" URI="http://www.legislation.gov.uk/id/nisr/2022/110/article/2/a">art. 2(a)</ukm:Section></ukm:CommencingProvisions></ukm:InForce><ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/nisr/2022/110" CommencingClass="NorthernIrelandStatutoryRule" Date="2022-04-06" Qualification="in force in so far as not already in force" CommencingYear="2022" CommencingNumber="110"><ukm:CommencingProvisions><ukm:Section Ref="article-2-b" URI="http://www.legislation.gov.uk/id/nisr/2022/110/article/2/b">art. 2(b)</ukm:Section></ukm:CommencingProvisions></ukm:InForce></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-54b14d103ed22dc810828f6e8ac7fa44" AffectedClass="NorthernIrelandAct" AffectedURI="http://www.legislation.gov.uk/id/nia/2021/6" AffectingURI="http://www.legislation.gov.uk/id/nia/2021/6" AffectingClass="NorthernIrelandAct" URI="http://www.legislation.gov.uk/id/effect/key-54b14d103ed22dc810828f6e8ac7fa44" Row="79" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 18(1)(b) and word" AffectingEffectsExtent="N.I." AffectingYear="2021" AffectingNumber="6" AffectingProvisions="Sch. 3 para. 22(3)(b)" AffectedYear="2021" AffectedNumber="6" Modified="2022-03-23T17:10:33Z"><ukm:AffectedTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectedTitle><ukm:AffectedTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="section-18-1-b" URI="http://www.legislation.gov.uk/id/nia/2021/6/section/18/1/b" FoundRef="section-18">s. 18(1)(b)</ukm:Section> and word</ukm:AffectedProvisions><ukm:AffectingTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectingTitle><ukm:AffectingTitle>Pension Schemes Act (Northern Ireland) 2021</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/nia/2021/6/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-22-3-b" URI="http://www.legislation.gov.uk/id/nia/2021/6/schedule/3/paragraph/22/3/b">para. 22(3)(b)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="section-44-2" URI="http://www.legislation.gov.uk/id/nia/2021/6/section/44/2">s. 44(2)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Prospective="true" Qualification=""/><ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/nisr/2022/110" CommencingClass="NorthernIrelandStatutoryRule" Date="2022-03-16" Qualification="for specified purposes" CommencingYear="2022" CommencingNumber="110" Comments="for the purpose only of authorising the making of regulations"><ukm:CommencingProvisions><ukm:Section Ref="article-2-a" URI="http://www.legislation.gov.uk/id/nisr/2022/110/article/2/a">art. 2(a)</ukm:Section></ukm:CommencingProvisions></ukm:InForce><ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/nisr/2022/110" CommencingClass="NorthernIrelandStatutoryRule" Date="2022-04-06" Qualification="in force in so far as not already in force" CommencingYear="2022" CommencingNumber="110"><ukm:CommencingProvisions><ukm:Section Ref="article-2-b" URI="http://www.legislation.gov.uk/id/nisr/2022/110/article/2/b">art. 2(b)</ukm:Section></ukm:CommencingProvisions></ukm:InForce></ukm:InForceDates></ukm:UnappliedEffect></ukm:UnappliedEffects></ukm:PrimaryMetadata>
+					
+
+                    
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/nia/2021/6/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nia/2021/6/pdfs/niaen_20210006_en.pdf" Date="2021-09-01" Title="Explanatory Note" Size="2046672"/></ukm:Alternatives>       
+								</ukm:Notes> 
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/nia/2021/6/pdfs/nia_20210006_en.pdf" Date="2021-09-01" Size="512829"/></ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="97"/>
+									<ukm:BodyParagraphs Value="45"/>
+									<ukm:ScheduleParagraphs Value="52"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><Primary><Body DocumentURI="http://www.legislation.gov.uk/nia/2021/6/body" IdURI="http://www.legislation.gov.uk/id/nia/2021/6/body" NumberOfProvisions="45" RestrictStartDate="2021-08-10" RestrictExtent="N.I."><Part DocumentURI="http://www.legislation.gov.uk/nia/2021/6/part/3" IdURI="http://www.legislation.gov.uk/id/nia/2021/6/part/3" NumberOfProvisions="4" RestrictStartDate="2021-08-10" id="part-3" RestrictExtent="N.I."><Number>PART 3</Number><Title>General</Title><P1group RestrictStartDate="2021-08-10" RestrictExtent="N.I."><Title>General interpretation</Title><P1 DocumentURI="http://www.legislation.gov.uk/nia/2021/6/section/43" IdURI="http://www.legislation.gov.uk/id/nia/2021/6/section/43" id="section-43"><Pnumber><CommentaryRef Ref="key-98a091987b82622f3cae81f1b4898a23"/>43</Pnumber><P1para><P2 DocumentURI="http://www.legislation.gov.uk/nia/2021/6/section/43/1" IdURI="http://www.legislation.gov.uk/id/nia/2021/6/section/43/1" id="section-43-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>In this Act—</Text>
+<UnorderedList Decoration="none" Class="Definition">
+<ListItem>
+<Para>
+<Text>“the 1995 Order” means the Pensions (Northern Ireland) Order 1995;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“the 2005 Order” means the Pensions (Northern Ireland) Order 2005;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“the Department” means the Department for Communities;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“the Pension Schemes Act” means the Pension Schemes (Northern Ireland) Act 1993;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“the Pensions (No. 2) Act” means the Pensions (No. 2) Act (Northern Ireland) 2008;</Text>
+</Para>
+</ListItem>
+<ListItem>
+<Para>
+<Text>“statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954.</Text>
+</Para>
+</ListItem>
+</UnorderedList>
+</P2para>
+</P2></P1para></P1></P1group></Part></Body></Primary><Commentaries><Commentary Type="I" id="key-98a091987b82622f3cae81f1b4898a23"><Para><Text>S. 43 in operation at 10.8.2021, see <CitationSubRef id="na5e0e5e4206caed4" SectionRef="section-44-1-e" URI="http://www.legislation.gov.uk/id/nia/2021/6/section/44/1/e" Operative="true">s. 44(1)(e)</CitationSubRef></Text></Para></Commentary></Commentaries></Legislation>

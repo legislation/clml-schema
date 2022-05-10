@@ -1,0 +1,594 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/1996/3166/made" IdURI="http://www.legislation.gov.uk/id/uksi/1996/3166" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/1996/3166/schedule/made</dc:identifier>
+		<dc:title>The Double Taxation Relief (Taxes on Income)(Finland) Order 1996</dc:title>
+		<dc:subject>Tax</dc:subject>
+		<dc:subject>Capital gains tax</dc:subject>
+		<dc:subject>Corporation tax</dc:subject>
+		<dc:subject>Income tax</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2011-07-04</dc:modified>
+		<dc:subject scheme="SIheading">INCOME TAX</dc:subject>
+		<dc:description>The Protocol set out in the Schedule to this Order makes certain alterations to the Convention set out in the Schedule to the Double Taxation Relief (Taxes on Income) (Finland) Order 1970 as amended by four subsequent Protocols.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/1996/3166/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/1996/3166/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/1996/3166/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/1996/3166/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/1996/3166/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/1996/3166/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/1996/3166/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/1996/3166/contents/made" title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/1996/3166/made" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/1996/3166/signature/made" title="Signature; Signature"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/uksi/1996/3166/signature/made" title="Signature; Signature"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/1996/3166/note/made" title="Explanatory Note; Explanatory Note"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/1996/3166/note/made" title="Explanatory Note; Explanatory Note"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1996"/>
+			<ukm:Number Value="3166"/>
+			<ukm:Made Date="1996-12-19"/>
+			<ukm:RoyalPresence Date="1996-12-19"/>
+			<ukm:ISBN Value="0110634748"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/1996/3166/schedule/made" IdURI="http://www.legislation.gov.uk/id/uksi/1996/3166/schedule" NumberFormat="default" id="schedule">
+				<Number><Strong>SCHEDULE</Strong></Number>
+				<ScheduleBody>
+					<IncludedDocument ResourceRef="r00000"> </IncludedDocument>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Secondary>
+	<Resources>
+		<Resource id="r00000">
+			<InternalVersion>
+				<XMLcontent>
+					<Body NumberFormat="default">
+						<Part id="part-I">
+							<Number><Strong>PART I</Strong></Number>
+							<Title><Strong>PROTOCOL BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OFTHE REPUBLIC OF FINLAND TO AMEND THE CONVENTION FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND CAPITAL, SIGNED AT LONDON ON 17TH JULY 1969 AS AMENDED BY THE PROTOCOLS SIGNED AT LONDON ON 17TH MAY 1973, 16TH NOVEMBER 1979, 1ST OCTOBER 1985 AND 26TH SEPTEMBER 1991.</Strong></Title>
+							<P>
+								<Text>The Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Finland;</Text>
+							</P>
+							<P>
+								<Text>Desiring to conclude a Protocol to amend the Convention between the Contracting Parties for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and Capital, signed at London on 17th July 1969, as amended by the Protocols signed at London on 17th May 1973, 16th November 1979, 1st October 1985 and 26th September 1991 (hereinafter referred to as “the Convention”);</Text>
+							</P>
+							<P>
+								<Text>Have agreed as follows:</Text>
+							</P>
+							<Pblock id="part-I-crossheading-1">
+								<Number>ARTICLE I</Number>
+								<P>
+									<Text>Paragraph (1) of Article 2 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<P2>
+											<Pnumber>1</Pnumber>
+											<P2para>
+												<Text>The taxes which are the subject of this Convention are:</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>in the United Kingdom of Great Britain and Northern Ireland:</Text>
+														<P4>
+															<Pnumber>i</Pnumber>
+															<P4para>
+																<Text>the income tax;</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>ii</Pnumber>
+															<P4para>
+																<Text>the corporation tax;</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>iii</Pnumber>
+															<P4para>
+																<Text>the petroleum revenue tax; and</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>iv</Pnumber>
+															<P4para>
+																<Text>the capital gains tax;</Text>
+															</P4para>
+														</P4>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>in Finland:</Text>
+														<P4>
+															<Pnumber>i</Pnumber>
+															<P4para>
+																<Text>the state income taxes (valtion tuloverot; de statliga inkomstskatterna);</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>ii</Pnumber>
+															<P4para>
+																<Text>the corporate income tax (yhteisöjen tulovero; inkomstskatten för samfund);</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>iii</Pnumber>
+															<P4para>
+																<Text>the communal tax (kunnallisvero; kommunalskatten);</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>iv</Pnumber>
+															<P4para>
+																<Text>the church tax (kirkollisvero; kyrkoskatten);</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>v</Pnumber>
+															<P4para>
+																<Text>the tax withheld at source from interest (korkotulon lähdevero; källskatten på ränteinkomst);</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>vi</Pnumber>
+															<P4para>
+																<Text>the tax withheld at source from non-residents' income (rajoitetusti verovelvollisen lähdevero; källskatten för begränsat skattskyldig); and</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>vii</Pnumber>
+															<P4para>
+																<Text>the state capital tax (valtion varallisuusvero; den statliga förmögenhetsskatten).</Text>
+															</P4para>
+														</P4>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-2">
+								<Number>ARTICLE II</Number>
+								<P>
+									<Text>Article 6 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<Pblock>
+											<Number>ARTICLE 6</Number>
+											<Title>Limitation of relief</Title>
+											<P>
+												<Text>Where under any provision of this Convention income or capital gains are relieved from Finnish tax and, under the law in force in the United Kingdom, an individual in respect of the said income or capital gains is subject to tax by reference to the amount thereof which is remitted to or received in the United Kingdom and not by reference to the full amount thereof,then the relief to be allowed under this Convention in Finland shall apply only to so much of the income or capital gains as is remitted to or received in the United Kingdom.</Text>
+											</P>
+										</Pblock>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-3">
+								<Number>ARTICLE III</Number>
+								<P>
+									<Text>Article 10 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<Pblock>
+											<Number>ARTICLE 10</Number>
+											<Title>Associated enterprises</Title>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>Where</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,</Text>
+														</P3para>
+													</P3>
+													<Text>and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then, if it agrees that the taxation of such profits by the first-mentioned State is justified both in principle and as regards the amount under the provisions of paragraph (1) of this Article, that other State shall make an appropriate adjustment to the amount of tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.</Text>
+												</P2para>
+											</P2>
+										</Pblock>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-4">
+								<Number>ARTICLE IV</Number>
+								<P>
+									<Text>Article 11 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<Pblock>
+											<Number>ARTICLE 11</Number>
+											<Title>Dividends</Title>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>Dividends paid by a company being a resident of a Contracting State which are derived and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>The term “dividends” as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights assimilated to income from shares by the taxation law of the State of which the company making the distribution is a resident and also includes any other item (other than interest or royalties relieved from tax under the provisions of Article 12 or Article 13 of this Convention) which, under the law of the Contracting State of which the company paying the dividend is a resident, is treated as a dividend or distribution of a company.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>3</Pnumber>
+												<P2para>
+													<Text>The provisions of paragraph (1) of this Article shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 8 or Article 15, as the case may be, shall apply.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>4</Pnumber>
+												<P2para>
+													<Text>If the beneficial owner of the dividends being a resident of a Contracting State owns 10 per cent. or more of the class of shares in respect of which the dividends are paid and does not suffer tax thereon in that State then paragraph (1) of this Article shall not apply to the dividends to the extent that they can have been paid only out of profits which the company paying the dividends earned or other income which it received in a period ending twelve months or more before the relevant date. For the purposes of this paragraph the term “relevant date” means the date on which the beneficial owner of the dividends became the owner of 10 per cent. or more of the class of shares in question. Provided that this paragraph shall apply only if the shares were acquired primarily for the purpose of securing the benefit of this Article and not for <Emphasis>bona fide</Emphasis> commercial reasons.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>5</Pnumber>
+												<P2para>
+													<Text>Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.</Text>
+												</P2para>
+											</P2>
+										</Pblock>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-5">
+								<Number>ARTICLE V</Number>
+								<P>
+									<Text>Paragraphs (4) and (7) of Article 12 of the Convention shall be deleted and the existing paragraphs (5), (6) and (8) shall be renumbered (4), (5) and (6) respectively.</Text>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-6">
+								<Number>ARTICLE VI</Number>
+								<P>
+									<Text>Paragraph (2) of Article 14 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<P2>
+											<Pnumber>2</Pnumber>
+											<P2para>
+												<Text>Gains derived by a resident of a Contracting State from the alienation of:</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>shares or other corporate rights, other than shares quoted on an approved Stock Exchange, deriving more than half of their value directly or indirectly from immovable property situated in the other Contracting State, or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>an interest in a partnership or trust the assets of which derive more than half of their value from immovable property situated in the other Contracting State, or from shares or other corporate rights referred to in sub-paragraph (a) above,may be taxed in that other State.</Text>
+													</P3para>
+												</P3>
+											</P2para>
+										</P2>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-7">
+								<Number>ARTICLE VII</Number>
+								<P>
+									<Text>Sub-paragraph (a) of paragraph (2) of Article 16 shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<P3>
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days within any twelve-month period; and</Text>
+											</P3para>
+										</P3>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-8">
+								<Number>ARTICLE VIII</Number>
+								<P>
+									<Text>Article 19 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<Pblock>
+											<Number>ARTICLE 19</Number>
+											<Title>Pensions, annuities and social welfare payments</Title>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>Subject to the provisions of paragraph (2) of Article 20:</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>pensions and other similar payments arising in a Contracting State,</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>benefits, whether periodic or lump-sum compensation, awarded under the social security legislation of a Contracting State or under any public scheme organised by a Contracting State for social welfare purposes, or</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>c</Pnumber>
+														<P3para>
+															<Text>any annuity arising in a Contracting State,shall be taxable only in that Contracting State.</Text>
+														</P3para>
+													</P3>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>The term “annuity” as used in this Article means a stated sum payable periodically to an individual at stated times during his life, or during a specified or ascertainable period of time, under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.</Text>
+												</P2para>
+											</P2>
+										</Pblock>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-9">
+								<Number>ARTICLE IX</Number>
+								<P>
+									<Text>Paragraph (2) of Article 24 of the Convention shall be deleted and replaced by the following:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<P2>
+											<Pnumber>2</Pnumber>
+											<P2para>
+												<Text>Capital represented by:</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>shares or other corporate rights, other than shares quoted on an approved Stock Exchange, deriving more than half of their value directly or indirectly from immovable property situated in a Contracting State, or</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>an interest in partnership or trust the assets of which derive more than half of their value from immovable property situated in a Contracting State, or from shares or other corporate rights referred to in sub-paragraph (a) above,</Text>
+													</P3para>
+												</P3>
+												<Text>may be taxed in that State.</Text>
+											</P2para>
+										</P2>
+									</BlockAmendment>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-10">
+								<Number>ARTICLE X</Number>
+								<P2 id="article-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Sub-paragraph (b) of paragraph (1) of Article 25 of the Convention shall be deleted and replaced by the following:</Text>
+										<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+											<P3>
+												<Pnumber>b</Pnumber>
+												<P3para>
+													<Text>in the case of a dividend paid by a company being a resident of Finland to a company which is a resident of the United Kingdom and which controls directly or indirectly at least 10 per cent. of the voting power in the company paying the dividend, the credit shall take into account (in addition to any Finnish tax creditable under the provisions of sub-paragraph (a) of this paragraph) the Finnish tax payable by the company in respect of the profits out of which such dividend is paid.</Text>
+												</P3para>
+											</P3>
+										</BlockAmendment>
+									</P2para>
+								</P2>
+								<P2 id="article-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Paragraph (2) of Article 25 of the Convention shall be deleted and replaced by the following:</Text>
+										<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>Subject to the provisions of the law of Finland regarding the elimination of international double taxation (which shall not affect the general principle hereof), double taxation shall be eliminated in Finland as follows:</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>Where a resident of Finland derives income or chargeable gains which, in accordance with the provisions of the Convention, may be taxed in the United Kingdom, Finland shall, subject to the provisions of sub-paragraph (b) of this paragraph, allow as a deduction from the Finnish tax of that person, an amount equal to the United Kingdom tax paid under the law of the United Kingdom and in accordance with the Convention, as computed by reference to the same income or chargeable gains by reference to which the Finnish tax is computed.</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>Dividends paid by a company being a resident of the United Kingdom to a company which is a resident of Finland and which controls directly at least 10 per cent. of the voting power in the company paying the dividends shall be exempt from Finnish tax.</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>c</Pnumber>
+														<P3para>
+															<Text>Where a resident of Finland derives income which, in accordance with the provisions of Article 19 or Article 20, shall be taxable only in the United Kingdom, such income shall be exempt from Finnish tax; however, Finland may, in calculating the amount of tax on the remaining income of such person, take into account the exempted income.</Text>
+														</P3para>
+													</P3>
+												</P2para>
+											</P2>
+										</BlockAmendment>
+									</P2para>
+								</P2>
+							</Pblock>
+							<Pblock id="part-I-crossheading-11">
+								<Number>ARTICLE XI</Number>
+								<P>
+									<Text>Article 26 of the Convention shall be deleted.</Text>
+								</P>
+							</Pblock>
+							<Pblock id="part-I-crossheading-12">
+								<Number>ARTICLE XII</Number>
+								<P>
+									<Text>Each of the Contracting Parties shall notify to the other the completion of the procedures required by its law for the bringing into force of this Protocol. The Protocol shall enter into force fifteen days after the date of the later of these notifications and shall thereupon have effect:</Text>
+									<P3 id="article-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>in the United Kingdom:</Text>
+											<P4 id="article-a-i">
+												<Pnumber>i</Pnumber>
+												<P4para>
+													<Text>in respect of income tax and capital gains tax, for any year of assessment beginning on or after 6th April in the calendar year next following that in which the Protocol enters into force;</Text>
+												</P4para>
+											</P4>
+											<P4 id="article-a-ii">
+												<Pnumber>ii</Pnumber>
+												<P4para>
+													<Text>in respect of corporation tax, for any financial year beginning on or after 1st April in the calendar year next following that in which the Protocol enters into force;</Text>
+												</P4para>
+											</P4>
+										</P3para>
+									</P3>
+									<P3 id="article-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in Finland:</Text>
+											<P4 id="article-b-i">
+												<Pnumber>i</Pnumber>
+												<P4para>
+													<Text>in respect of taxes withheld at source, on income derived on or after 1st January in the calendar year next following that in which the Protocol enters into force, and thereafter;</Text>
+												</P4para>
+											</P4>
+											<P4 id="article-b-ii">
+												<Pnumber>ii</Pnumber>
+												<P4para>
+													<Text>in respect of other taxes on income, and taxes on capital, for taxes chargeable for any tax year beginning on or after 1st January in the calendar year next following that in which the Protocol enters into force.</Text>
+												</P4para>
+											</P4>
+										</P3para>
+									</P3>
+								</P>
+								<P>
+									<Text>In witness whereof the undersigned, duly authorised thereto, have signed this Protocol.</Text>
+								</P>
+								<P>
+									<Text>For the Government of the United Kingdom of Great Britain and Northern Ireland:</Text>
+								</P>
+								<P>
+									<Text>Done in duplicate at Helsinki this 31st day of July 1996, in the English and Finnish languages, both texts being equally authentic.</Text>
+								</P>
+								<P>
+									<Text><Emphasis>David Allan Burns</Emphasis></Text>
+								</P>
+								<P>
+									<Text>For the Government of the Republic of Finland:</Text>
+								</P>
+								<P>
+									<Text><Emphasis>Hillel Skurnik</Emphasis></Text>
+								</P>
+							</Pblock>
+						</Part>
+						<Part id="part-II">
+							<Number><Strong>PART II</Strong></Number>
+							<Title><Strong>EXCHANGE OF NOTES</Strong></Title>
+							<Pblock id="part-II-crossheading-1">
+								<P>
+									<Text>Your Excellency,</Text>
+								</P>
+								<P>
+									<Text>Helsinki 31st July 1996</Text>
+								</P>
+								<P>
+									<Text>I have the honour to refer to the Convention between the Government of the Republic of Finland and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital, signed at London on 17th July 1969 as amended by the Protocols signed at London on 17th May 1973, 16th November 1979, 1st October 1985 and 26th September 1991 and by the Protocol signed today (hereinafter referred to as “the Convention”), and to make, on behalf of the Government of the Republic of Finland, the following proposals:</Text>
+								</P>
+								<P>
+									<Text>With reference to paragraph (2) of Article 2, sub-paragraph (1)(j) of Article 3, sub-paragraph (2)(d) of Article 4, paragraphs 1, 2, 3 and 4 of Article 28 and Article 29 of the Convention, it is noted that in the Convention the Finnish-language term “asianomainen viranomainen” is used as the equivalent for the English-language term “competent authority”. However, the correct equivalent in Finnish is now “toimivaltainen viranomainen”. It has been agreed that, in relation to the Finnish-language text as amended, the term “toimivaltainen viranomainen” as used in the Protocol between the two Governments to amend the Convention, signed today, should be read in place of “asianomainen viranomainen” used heretofore in the Convention.</Text>
+								</P>
+								<P>
+									<Text>With reference to sub-paragraph (b) of paragraph (1) and sub-paragraph (b) of paragraph (2) of Article 25 of the Convention, by continuing to use the criterion of a holding of voting power the Contracting States are exercising the option provided in paragraph 2 of Article 3 of Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1990/0435" id="c00009" Class="EuropeanEconomicCommunityDirective" Year="1990" Number="435">90/435/<Acronym Expansion="European Economic Community">EEC</Acronym></Citation> of 23rd July 1990 to derogate from paragraph 1 of that Article by replacing the criterion of a holding in the capital of a company of another Member State by that of a holding of voting rights.</Text>
+								</P>
+								<P>
+									<Text>If the foregoing proposals are acceptable to the Government of the United Kingdom of Great Britain and Northern Ireland, I have the honour to suggest that the present Note and Your Excellency’s reply to that effect should be regarded as constituting an agreement between the two Governments in this matter, which shall enter into force at the same time as the entry into force of this Protocol to the Convention.</Text>
+								</P>
+								<P>
+									<Text>I avail myself of this opportunity to extend to you, Your Excellency, the assurance of my highest consideration.</Text>
+								</P>
+								<P>
+									<Text><Strong>Hillel Skurnik</Strong></Text>
+								</P>
+								<P>
+									<Text>Director for International Tax Affairs</Text>
+								</P>
+							</Pblock>
+							<Pblock id="part-II-crossheading-2">
+								<P>
+									<Text>Your Excellency,</Text>
+								</P>
+								<P>
+									<Text>Helsinki,</Text>
+								</P>
+								<P>
+									<Text>31st July 1996</Text>
+								</P>
+								<P>
+									<Text>I have the honour to acknowledge receipt of your Note of today’s date which reads as follows:</Text>
+									<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+										<P1para>
+											<Text>I have the honour to refer to the Convention between the Government of the Republic of Finland and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital, signed at London on 17th July 1969 as amended by the Protocols signed at London on 17th May 1973, 16th November 1979, 1st October 1985 and 26th September 1991 and by the Protocol signed today (hereinafter referred to as “the Convention”), and to make, on behalf of the Government of the Republic of Finland, the following proposals:</Text>
+										</P1para>
+										<P1para>
+											<Text>With reference to paragraph (2) of Article 2, sub-paragraph (1)(j) of Article 3, sub-paragraph (2)(d) of Article 4, paragraphs 1, 2, 3 and 4 of Article 28 and Article 29 of the Convention, it is noted that in the Convention the Finnish-language term “asianomainen viranomainen” is used as the equivalent for the English-language term “competent authority”. However, the correct equivalent in Finnish is now “toimivaltainen viranomainen”. It has been agreed that, in relation to the Finnish-language text as amended, the term “toimivaltainen viranomainen” as used in the Protocol between the two Governments to amend the Convention, signed today, should be read in place of “asianomainen viranomainen” used heretofore in the Convention.</Text>
+										</P1para>
+										<P1para>
+											<Text>With reference to sub-paragraph (b) of paragraph (1) and sub-paragraph (b) of paragraph (2) of Article 25 of the Convention, by continuing to use the criterion of a holding of voting power the Contracting States are exercising the option provided in paragraph 2 of Article 3 of Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1990/0435" id="c00010" Class="EuropeanEconomicCommunityDirective" Year="1990" Number="435">90/435/EEC</Citation> of 23rd July 1990 to derogate from paragraph 1 of that Article by replacing the criterion of a holding in the capital of a company of another Member State by that of a holding of voting rights.</Text>
+										</P1para>
+										<P1para>
+											<Text>If the foregoing proposals are acceptable to the Government of the United Kingdom of Great Britain and Northern Ireland, I have the honour to suggest that the present Note and Your Excellency’s reply to that effect should be regarded as constituting an agreement between the two Governments in this matter, which shall enter into force at the same time as the entry into force of this Protocol to the Convention.</Text>
+										</P1para>
+									</BlockAmendment>
+									<AppendText>.</AppendText>
+								</P>
+								<P>
+									<Text>The foregoing proposals being acceptable to the Government of the United Kingdom of Great Britain and Northern Ireland, I have the honour to confirm that Your Excellency’s Note and this reply shall be regarded as constituting an agreement between the two Governments in this matter which shall enter into force at the same time as the entry into force of this Protocol to the Convention.</Text>
+								</P>
+								<P>
+									<Text>I avail myself of this opportunity to renew to Your Excellency, the assurance of my highest consideration.</Text>
+								</P>
+								<P>
+									<Text><Emphasis>David Allan Burns</Emphasis></Text>
+								</P>
+								<P>
+									<Text>His Excellency the Ambassador of the United Kingdom of Great Britain and Northern Ireland</Text>
+								</P>
+							</Pblock>
+						</Part>
+					</Body>
+				</XMLcontent>
+			</InternalVersion>
+		</Resource>
+	</Resources>
+</Legislation>

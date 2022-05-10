@@ -1,0 +1,810 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24" NumberOfProvisions="1242" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted</dc:identifier>
+		<dc:title>Finance Act 2016</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2020-04-17</dc:modified>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/2016/24/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/2016/24/enacted" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/2016/24/introduction/enacted" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/2016/24/body/enacted" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/2016/24/schedules/enacted" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/2016/24/contents/enacted" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26/2016-09-15" title="2016-09-15"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2016/24/section/26" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/2016/24/enacted" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/2016/24/section/25/enacted" title="Provision; Section 25"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/2016/24/section/25/enacted" title="Provision; Section 25"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/2016/24/section/27/enacted" title="Provision; Section 27"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/2016/24/section/27/enacted" title="Provision; Section 27"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="final"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2016"/>
+			<ukm:Number Value="24"/>
+			<ukm:EnactmentDate Date="2016-09-15"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-461fee3b439e007e1a12c3177b9a4837" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-96469c0602ab1a91dd00d5afd1cd09e8" Row="1353" Type="words inserted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 51(8)(b)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 48(2)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-51-8-b" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/51/8/b" FoundRef="schedule-19-paragraph-51">para. 51(8)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-48-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/48/2">para. 48(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-04474e8080d1f1999dd2f272897dbebf" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-682d2a60ece4139b86e189c6b6880f0c" Row="1357" Type="words inserted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 53(1)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 48(4)(a)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-53-1" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/53/1" FoundRef="schedule-19-paragraph-53">para. 53(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-48-4-a" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/48/4/a">para. 48(4)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-611ca47521605e1cc195ddbb0694d67b" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-a81165bde85e183b51a506e565fb426a" Row="1358" Type="words inserted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 53(1)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 48(4)(b)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-53-1" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/53/1" FoundRef="schedule-19-paragraph-53">para. 53(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-48-4-b" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/48/4/b">para. 48(4)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-7a5ecf29c18bb4c2291209f7831c348a" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-23dcbedd9701224ea28eb4e51da1cff7" Row="1359" Type="words substituted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 58(1)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 48(5)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-58-1" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/58/1" FoundRef="schedule-19">para. 58(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-48-5" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/48/5">para. 48(5)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1a25d5c1cccb20747c8f777543ff934a" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-904dd0790ea1ff2e01294f0dc5fe2d87" Row="1360" Type="words renumbered as Sch. 19 para. 12(5)(a)" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 12(5)(a)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 49(2)(a)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-12-5-a" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/12/5/a" FoundRef="schedule-19-paragraph-12">para. 12(5)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-49-2-a" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/49/2/a">para. 49(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-474d5d33914772ee44b6565378935668" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-be0f90317180ef324334c6e1f44dadf9" Row="1361" Type="word inserted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 12(5)(a)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 49(2)(b)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-12-5-a" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/12/5/a" FoundRef="schedule-19-paragraph-12">para. 12(5)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-49-2-b" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/49/2/b">para. 49(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2d24ddf721066aac80f44cc6267c679e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/32" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-168bc2e9acc7e733a03e6f0d0368bd29" Row="1362" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 19 para. 12(5)(b)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2017" AffectingNumber="32" AffectingProvisions="Sch. 14 para. 49(2)(c)" AffectedYear="2016" AffectedNumber="24" Modified="2021-09-30T11:25:34Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-19" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19">Sch. 19 </ukm:Section><ukm:Section Ref="schedule-19-paragraph-12-5-b" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/19/paragraph/12/5/b" FoundRef="schedule-19-paragraph-12">para. 12(5)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance (No. 2) Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-14" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14">Sch. 14 </ukm:Section><ukm:Section Ref="schedule-14-paragraph-49-2-c" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/schedule/14/paragraph/49/2/c">para. 49(2)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-61-6" URI="http://www.legislation.gov.uk/id/ukpga/2017/32/section/61/6">s. 61(6)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+						<ukm:InForce CommencingURI="http://www.legislation.gov.uk/id/uksi/2021/1079" CommencingClass="UnitedKingdomStatutoryInstrument" Date="2024-04-06" Qualification="wholly in force" CommencingYear="2021" CommencingNumber="1079">
+							<ukm:CommencingProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2021/1079/regulation/2">reg. 2</ukm:Section></ukm:CommencingProvisions>
+						</ukm:InForce>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8249fe8b264d9ba0391744d7f740eed6" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2021/26" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-8249fe8b264d9ba0391744d7f740eed6" Row="2438" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 20 para. 1(4)(e)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2021" AffectingNumber="26" AffectingProvisions="Sch. 27 para. 47(2)" AffectedYear="2016" AffectedNumber="24" Modified="2022-01-05T12:02:13Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-20" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20">Sch. 20 </ukm:Section><ukm:Section Ref="schedule-20-paragraph-1-4-e" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20/paragraph/1/4/e" FoundRef="schedule-20-paragraph-1">para. 1(4)(e)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance Act 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-47-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27/paragraph/47/2">para. 47(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-118-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/section/118/2">s. 118(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-43cf05fbafb8b0e7fa4ea8002a9337ce" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2021/26" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-43cf05fbafb8b0e7fa4ea8002a9337ce" Row="2440" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 20 para. 3(3)(d) and word" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2021" AffectingNumber="26" AffectingProvisions="Sch. 27 para. 47(3)(b)" AffectedYear="2016" AffectedNumber="24" Modified="2022-01-05T12:02:13Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-20" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20">Sch. 20 </ukm:Section><ukm:Section Ref="schedule-20-paragraph-3-3-d" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20/paragraph/3/3/d" FoundRef="schedule-20-paragraph-3">para. 3(3)(d)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance Act 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-47-3-b" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27/paragraph/47/3/b">para. 47(3)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-118-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/section/118/2">s. 118(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-ed7608f8018ec37bf6574534af46e7f9" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2021/26" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-ed7608f8018ec37bf6574534af46e7f9" Row="2443" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 20 para. 5(5)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2021" AffectingNumber="26" AffectingProvisions="Sch. 27 para. 47(5)" AffectedYear="2016" AffectedNumber="24" Modified="2022-01-05T12:02:13Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-20" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20">Sch. 20 </ukm:Section><ukm:Section Ref="schedule-20-paragraph-5-5" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/20/paragraph/5/5" FoundRef="schedule-20-paragraph-5">para. 5(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance Act 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-47-5" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27/paragraph/47/5">para. 47(5)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-118-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/section/118/2">s. 118(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-bd69e4c6f431f02e1bb3baf50b65fe04" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2021/26" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-bd69e4c6f431f02e1bb3baf50b65fe04" Row="2446" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 22 para. 2(4B)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2021" AffectingNumber="26" AffectingProvisions="Sch. 27 para. 48(2)(c)" AffectedYear="2016" AffectedNumber="24" Modified="2022-01-05T12:02:13Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-2-4B" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/22/paragraph/2/4B" FoundRef="schedule-22-paragraph-2">para. 2(4B)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance Act 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-48-2-c" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27/paragraph/48/2/c" FoundRef="schedule-27-paragraph-48">para. 48(2)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-118-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/section/118/2">s. 118(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f2c0e86e08f2f0cb56d2dc65338ef0d1" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2016/24" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2021/26" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-f2c0e86e08f2f0cb56d2dc65338ef0d1" Row="2447" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 22 para. 3(4A)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2021" AffectingNumber="26" AffectingProvisions="Sch. 27 para. 48(3)" AffectedYear="2016" AffectedNumber="24" Modified="2022-01-05T12:02:13Z">
+					<ukm:AffectedTitle>Finance Act 2016</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-3-4A" URI="http://www.legislation.gov.uk/id/ukpga/2016/24/schedule/22/paragraph/3/4A" FoundRef="schedule-22-paragraph-3">para. 3(4A)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Finance Act 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-48-3" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/schedule/27/paragraph/48/3">para. 48(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-118-2" URI="http://www.legislation.gov.uk/id/ukpga/2021/26/section/118/2">s. 118(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:CorrectionSlips>
+			<ukm:CorrectionSlip URI="http://www.legislation.gov.uk/ukpga/2016/24/pdfs/ukpgacs_20160024_en.pdf" Date="2017-09-01" Title="Correction Slip" Size="10094"/>
+		</ukm:CorrectionSlips>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/ukpga/2016/24/pdfs/ukpga_20160024_en.pdf" Date="2016-09-16" Size="4975245"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="1243"/>
+			<ukm:BodyParagraphs Value="510"/>
+			<ukm:ScheduleParagraphs Value="733"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="45"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/body/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/body" NumberOfProvisions="510" NumberFormat="default">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/part/1/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/part/1" NumberOfProvisions="120" id="part-1">
+				<Number>PART 1</Number>
+				<Title>Income tax</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/part/1/crossheading/trading-and-other-income/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/part/1/crossheading/trading-and-other-income" NumberOfProvisions="10" id="part-1-crossheading-trading-and-other-income">
+					<Title>Trading and other income</Title>
+					<P1group>
+						<Title>Relief for finance costs related to residential property businesses</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/section/26/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/section/26" id="section-26">
+							<Pnumber>26</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/section/26/1/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/section/26/1" id="section-26-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>In ITTOIA 2005, for sections 274A and 274B and the preceding italic heading (tax reductions for non-deductible costs of dwelling-related loans: individuals, and accumulated or discretionary trust income) substitute—</Text>
+										<BlockAmendment TargetClass="primary" Context="main" TargetSubClass="unknown" Format="double" NumberFormat="default">
+											<Pblock>
+												<Title>Tax reductions for non-deductible costs of a dwelling-related loan</Title>
+												<P1group>
+													<Title>Reduction for individuals: entitlement</Title>
+													<P1>
+														<Pnumber>274A</Pnumber>
+														<P1para>
+															<P2>
+																<Pnumber>1</Pnumber>
+																<P2para>
+																	<Text>If for a tax year an individual has—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>a relievable amount in respect of a property business, or</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>two or more relievable amounts each in respect of a different property business,</Text>
+																		</P3para>
+																	</P3>
+																	<Text>the individual is entitled to relief under this section for that year in respect of that relievable amount or (as the case may be) each of those relievable amounts.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>2</Pnumber>
+																<P2para>
+																	<Text>An individual has a relievable amount for a tax year in respect of a property business if for that year the individual has any one or more of the following in respect of that business—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>a current-year amount;</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>a current-year estate amount;</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>c</Pnumber>
+																		<P3para>
+																			<Text>a brought-forward amount.</Text>
+																		</P3para>
+																	</P3>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>3</Pnumber>
+																<P2para>
+																	<Text>An individual’s relievable amount for a tax year in respect of a property business is the total of—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>the individual’s current-year amount (if any) for that year in respect of that business,</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the individual’s current-year estate amounts (if any) for that year in respect of that business, and</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>c</Pnumber>
+																		<P3para>
+																			<Text>the individual’s brought-forward amount (if any) for that year in respect of that business.</Text>
+																		</P3para>
+																	</P3>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>4</Pnumber>
+																<P2para>
+																	<Text>An individual has a current-year amount for a tax year in respect of a property business if—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>an amount (“A”) would be deductible in calculating the profits for income tax purposes of that business for that year but for section 272A,</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the individual is liable for income tax on N% of those profits, where N is a number—</Text>
+																			<P4>
+																				<Pnumber>i</Pnumber>
+																				<P4para>
+																					<Text>greater than 0, and</Text>
+																				</P4para>
+																			</P4>
+																			<P4>
+																				<Pnumber>ii</Pnumber>
+																				<P4para>
+																					<Text>less than or equal to 100, and</Text>
+																				</P4para>
+																			</P4>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>c</Pnumber>
+																		<P3para>
+																			<Text>that liability is not under Chapter 6 of Part 5 (estate income),</Text>
+																		</P3para>
+																	</P3>
+																	<Text>in which event the individual’s current-year amount for that tax year in respect of that business is equal to N% of A.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>5</Pnumber>
+																<P2para>
+																	<Text>An individual has a current-year estate amount for a tax year (“the current year”), in respect of a property business and a particular deceased person’s estate, if—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>an amount (“A”) would, but for section 272A, be deductible in calculating the profits for income tax purposes of that business for a particular tax year (“the profits year”), whether that year is the current year or an earlier tax year,</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the personal representatives of the deceased person are liable for income tax on N% of those profits, where N is a number—</Text>
+																			<P4>
+																				<Pnumber>i</Pnumber>
+																				<P4para>
+																					<Text>greater than 0, and</Text>
+																				</P4para>
+																			</P4>
+																			<P4>
+																				<Pnumber>ii</Pnumber>
+																				<P4para>
+																					<Text>less than or equal to 100,</Text>
+																				</P4para>
+																			</P4>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>c</Pnumber>
+																		<P3para>
+																			<Text>the individual is liable for income tax on estate income treated under Chapter 6 of Part 5 as arising in the current year from an interest in the estate, and</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>d</Pnumber>
+																		<P3para>
+																			<Text>the basic amount of that estate income consists of, or includes, an amount representative of E% of the personal representatives’ N% of the profits of the business for the profits year, where E is a number—</Text>
+																			<P4>
+																				<Pnumber>i</Pnumber>
+																				<P4para>
+																					<Text>greater than 0, and</Text>
+																				</P4para>
+																			</P4>
+																			<P4>
+																				<Pnumber>ii</Pnumber>
+																				<P4para>
+																					<Text>less than or equal to 100,</Text>
+																				</P4para>
+																			</P4>
+																		</P3para>
+																	</P3>
+																	<Text>in which event the individual’s current-year estate amount for the current tax year, in respect of that business and estate and the profits year, is equal to E% of N% of A.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>6</Pnumber>
+																<P2para>
+																	<Text>As to whether an individual has a brought-forward amount for a tax year in respect of a property business, see section 274AA(4).</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>7</Pnumber>
+																<P2para>
+																	<Text>In this section and section 274AA—</Text>
+																	<UnorderedList Decoration="none">
+																		<ListItem>
+																			<Para>
+																				<Text>“estate income”, and</Text>
+																			</Para>
+																		</ListItem>
+																		<ListItem>
+																			<Para>
+																				<Text>“basic amount” in relation to any estate income,</Text>
+																			</Para>
+																		</ListItem>
+																	</UnorderedList>
+																	<Text>have the same meaning as in Chapter 6 of Part 5 (see sections 649 and 656(4)).</Text>
+																</P2para>
+															</P2>
+														</P1para>
+													</P1>
+												</P1group>
+												<P1group>
+													<Title>Reduction for individuals: calculation</Title>
+													<P1>
+														<Pnumber>274AA</Pnumber>
+														<P1para>
+															<P2>
+																<Pnumber>1</Pnumber>
+																<P2para>
+																	<Text>This section applies if for a tax year an individual is entitled to relief under section 274A in respect of a relievable amount or in respect of each of two or more relievable amounts, and in the following subsections of this section “relievable amount” means that relievable amount or (as the case may be) any of those relievable amounts.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>2</Pnumber>
+																<P2para>
+																	<Text>In respect of a relievable amount, the actual amount on which relief for the year is to be given is (subject to subsection (3)) the amount (“L”) that is the lower of—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>the relievable amount, and</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the total of—</Text>
+																			<P4>
+																				<Pnumber>i</Pnumber>
+																				<P4para>
+																					<Text>the profits for income tax purposes of the property business concerned for the year after any deduction under section 118 of ITA 2007 (“the adjusted profits”) or, if less, the share (if any) of the adjusted profits on which the individual is liable to income tax otherwise than under Chapter 6 of Part 5, and</Text>
+																				</P4para>
+																			</P4>
+																			<P4>
+																				<Pnumber>ii</Pnumber>
+																				<P4para>
+																					<Text>so much (if any) of the relievable amount as consists of current-year estate amounts.</Text>
+																				</P4para>
+																			</P4>
+																		</P3para>
+																	</P3>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>3</Pnumber>
+																<P2para>
+																	<Text>If S is greater than the individual’s adjusted total income for the year (“ATI”), the actual amount on which relief for the year is to be given in respect of a relievable amount is given by—</Text>
+																	<Formula AltVersionRefs="v00003">
+																		<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll">
+																			<mfrac linethickness="1" denomalign="center" numalign="center">
+																				<mrow>
+																					<mi mathvariant="normal">ATI</mi>
+																				</mrow>
+																				<mrow>
+																					<mi mathvariant="normal">S</mi>
+																				</mrow>
+																			</mfrac>
+																			<mo>×</mo>
+																			<mi mathvariant="normal">L</mi>
+																		</math>
+																		<Where>
+																			<Para>
+																				<Text>where—</Text>
+																				<UnorderedList Decoration="none" Class="Definition">
+																					<ListItem>
+																						<Para>
+																							<Text>S is the total obtained by identifying the amount that is L for each relievable amount and then finding the total of the amounts identified, and</Text>
+																						</Para>
+																					</ListItem>
+																					<ListItem>
+																						<Para>
+																							<Text>L has the same meaning as in subsection (2).</Text>
+																						</Para>
+																					</ListItem>
+																				</UnorderedList>
+																			</Para>
+																		</Where>
+																	</Formula>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>4</Pnumber>
+																<P2para>
+																	<Text>Where—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>a relievable amount,</Text>
+																		</P3para>
+																	</P3>
+																	<Text>is greater than—</Text>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the actual amount on which relief for the year is to be given in respect of the relievable amount,</Text>
+																		</P3para>
+																	</P3>
+																	<Text>the difference is the individual’s brought-forward amount for the following tax year in respect of the property business concerned.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>5</Pnumber>
+																<P2para>
+																	<Text>The amount of the relief for the year in respect of a relievable amount is given by—</Text>
+																	<Formula AltVersionRefs="v00004">
+																		<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll">
+																			<mi mathvariant="normal">AA</mi>
+																			<mo>×</mo>
+																			<mi mathvariant="normal">BR</mi>
+																		</math>
+																		<Where>
+																			<Para>
+																				<Text>where—</Text>
+																				<UnorderedList Decoration="none" Class="Definition">
+																					<ListItem>
+																						<Para>
+																							<Text>AA is the actual amount on which relief for the year is to be given in respect of the relievable amount, and</Text>
+																						</Para>
+																					</ListItem>
+																					<ListItem>
+																						<Para>
+																							<Text>BR is the basic rate of income tax for the year,</Text>
+																						</Para>
+																					</ListItem>
+																				</UnorderedList>
+																			</Para>
+																		</Where>
+																	</Formula>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>6</Pnumber>
+																<P2para>
+																	<Text>For the purposes of this section, an individual’s adjusted total income for a tax year is identified as follows—</Text>
+																	<UnorderedList Decoration="none">
+																		<ListItem>
+																			<Para>
+																				<Text><Emphasis>Step 1</Emphasis></Text>
+																				<Text>Identify the individual’s net income for the year (see Step 2 of the calculation in section 23 of ITA 2007).</Text>
+																			</Para>
+																		</ListItem>
+																		<ListItem>
+																			<Para>
+																				<Text><Emphasis>Step 2</Emphasis></Text>
+																				<Text>Exclude from that net income—</Text>
+																				<OrderedList Type="alpha" Decoration="parens">
+																					<ListItem>
+																						<Para>
+																							<Text>so much of it as is within section 18(3) or (4) of ITA 2007 (income from savings), and</Text>
+																						</Para>
+																					</ListItem>
+																					<ListItem>
+																						<Para>
+																							<Text>so much of it as is dividend income.</Text>
+																						</Para>
+																					</ListItem>
+																				</OrderedList>
+																			</Para>
+																		</ListItem>
+																		<ListItem>
+																			<Para>
+																				<Text><Emphasis>Step 3</Emphasis></Text>
+																				<Text>Reduce what is left after Step 2 of this calculation by the amount of any allowances deducted for the year in the individual’s case at Step 3 of the calculation in section 23 of ITA 2007. The result is the individual’s adjusted total income for the year.</Text>
+																			</Para>
+																		</ListItem>
+																	</UnorderedList>
+																</P2para>
+															</P2>
+														</P1para>
+													</P1>
+												</P1group>
+												<P1group>
+													<Title>Reduction for accumulated or discretionary trust income: entitlement</Title>
+													<P1>
+														<Pnumber>274B</Pnumber>
+														<P1para>
+															<P2>
+																<Pnumber>1</Pnumber>
+																<P2para>
+																	<Text>If for a tax year the trustees of a settlement have—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>a relievable amount in respect of a property business, or</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>two or more relievable amounts each in respect of a different property business,</Text>
+																		</P3para>
+																	</P3>
+																	<Text>the trustees of the settlement are entitled to relief under this section for that year in respect of that relievable amount or (as the case may be) each of those relievable amounts.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>2</Pnumber>
+																<P2para>
+																	<Text>The trustees of a settlement have a relievable amount for a tax year in respect of a property business if for that year the trustees of the settlement have a current-year amount, or brought-forward amount, in respect of that business (or have both).</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>3</Pnumber>
+																<P2para>
+																	<Text>In the case of trustees of a settlement, their relievable amount for a tax year in respect of a property business is the total of—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>their current-year amount (if any) for that year in respect of that business, and</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>their brought-forward amount (if any) for that year in respect of that business.</Text>
+																		</P3para>
+																	</P3>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>4</Pnumber>
+																<P2para>
+																	<Text>The trustees of a settlement have a current-year amount for a tax year in respect of a property business if—</Text>
+																	<P3>
+																		<Pnumber>a</Pnumber>
+																		<P3para>
+																			<Text>an amount (“A”) would be deductible in calculating the profits for income tax purposes of that business for that year but for section 272A,</Text>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>b</Pnumber>
+																		<P3para>
+																			<Text>the trustees of the settlement are liable for income tax on N% of those profits, where N is a number—</Text>
+																			<P4>
+																				<Pnumber>i</Pnumber>
+																				<P4para>
+																					<Text>greater than 0, and</Text>
+																				</P4para>
+																			</P4>
+																			<P4>
+																				<Pnumber>ii</Pnumber>
+																				<P4para>
+																					<Text>less than or equal to 100, and</Text>
+																				</P4para>
+																			</P4>
+																		</P3para>
+																	</P3>
+																	<P3>
+																		<Pnumber>c</Pnumber>
+																		<P3para>
+																			<Text>in relation to the trustees of the settlement, that N% of those profits is accumulated or discretionary income,</Text>
+																		</P3para>
+																	</P3>
+																	<Text>in which event the current-year amount of the trustees of the settlement for that tax year in respect of that business is equal to N% of A.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>5</Pnumber>
+																<P2para>
+																	<Text>As to whether the trustees of a settlement have a brought-forward amount for a tax year in respect of a property business, see section 274C(3).</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>6</Pnumber>
+																<P2para>
+																	<Text>In this section and section 274C “accumulated or discretionary income” has the meaning given by section 480 of ITA 2007.</Text>
+																</P2para>
+															</P2>
+														</P1para>
+													</P1>
+												</P1group>
+												<P1group>
+													<Title>Reduction for accumulated or discretionary trust income: calculation</Title>
+													<P1>
+														<Pnumber>274C</Pnumber>
+														<P1para>
+															<P2>
+																<Pnumber>1</Pnumber>
+																<P2para>
+																	<Text>This section applies if for a tax year the trustees of a settlement are entitled to relief under section 274B in respect of a relievable amount or in respect of each of two or more relievable amounts, and in the following subsections of this section “relievable amount” means that relievable amount or (as the case may be) any of those relievable amounts.</Text>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>2</Pnumber>
+																<P2para>
+																	<Text>The amount of the relief in respect of a relievable amount is given by—</Text>
+																	<Formula AltVersionRefs="v00005">
+																		<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll">
+																			<mi mathvariant="normal">L</mi>
+																			<mo>×</mo>
+																			<mi mathvariant="normal">BR</mi>
+																		</math>
+																		<Where>
+																			<Para>
+																				<Text>where—</Text>
+																				<UnorderedList Decoration="none" Class="Definition">
+																					<ListItem>
+																						<Para>
+																							<Text>BR is the basic rate of income tax for the year, and</Text>
+																						</Para>
+																					</ListItem>
+																					<ListItem>
+																						<Para>
+																							<Text>L is the lower of—</Text>
+																							<OrderedList Decoration="parens" Type="alpha">
+																								<ListItem>
+																									<Para>
+																										<Text>the relievable amount, and</Text>
+																									</Para>
+																								</ListItem>
+																								<ListItem>
+																									<Para>
+																										<Text>the profits for income tax purposes of the property business concerned for the year after any deduction under section 118 of ITA 2007 (“the adjusted profits”) or, if less, the share of the adjusted profits—</Text>
+																										<OrderedList Decoration="parens" Type="roman">
+																											<ListItem>
+																												<Para>
+																													<Text>on which the trustees of the settlement are liable for income tax, and</Text>
+																												</Para>
+																											</ListItem>
+																											<ListItem>
+																												<Para>
+																													<Text>which, in relation to the trustees of the settlement, is accumulated or discretionary income.</Text>
+																												</Para>
+																											</ListItem>
+																										</OrderedList>
+																									</Para>
+																								</ListItem>
+																							</OrderedList>
+																						</Para>
+																					</ListItem>
+																				</UnorderedList>
+																			</Para>
+																		</Where>
+																	</Formula>
+																</P2para>
+															</P2>
+															<P2>
+																<Pnumber>3</Pnumber>
+																<P2para>
+																	<Text>Where L in the case of a relievable amount is less than the relievable amount, the difference between them is the brought-forward amount of the trustees of the settlement for the following tax year in respect of the property business concerned.</Text>
+																</P2para>
+															</P2>
+														</P1para>
+													</P1>
+												</P1group>
+											</Pblock>
+										</BlockAmendment>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2016/24/section/26/2/enacted" IdURI="http://www.legislation.gov.uk/id/ukpga/2016/24/section/26/2" id="section-26-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In consequence of the amendment made by subsection (1), in F(No.2)A 2015 omit section 24(5).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Part>
+		</Body>
+	</Primary>
+	<Versions>
+		<Version id="v00003" Description="Equation graphical version" RestrictOutput="false">
+			<Figure>
+				<Image ResourceRef="r00003" Width="46.08pt" Height="27.60pt"/>
+			</Figure>
+		</Version>
+		<Version id="v00004" Description="Equation graphical version" RestrictOutput="false">
+			<Figure>
+				<Image ResourceRef="r00004" Width="50.16pt" Height="11.28pt"/>
+			</Figure>
+		</Version>
+		<Version id="v00005" Description="Equation graphical version" RestrictOutput="false">
+			<Figure>
+				<Image ResourceRef="r00005" Width="39.60pt" Height="10.80pt"/>
+			</Figure>
+		</Version>
+	</Versions>
+	<Resources>
+		<Resource id="r00003">
+			<ExternalVersion URI="http://www.legislation.gov.uk/ukpga/2016/24/images/ukpga_20160024_en_003"/>
+		</Resource>
+		<Resource id="r00004">
+			<ExternalVersion URI="http://www.legislation.gov.uk/ukpga/2016/24/images/ukpga_20160024_en_004"/>
+		</Resource>
+		<Resource id="r00005">
+			<ExternalVersion URI="http://www.legislation.gov.uk/ukpga/2016/24/images/ukpga_20160024_en_005"/>
+		</Resource>
+	</Resources>
+</Legislation>

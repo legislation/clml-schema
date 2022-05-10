@@ -1,0 +1,487 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/made"
+	IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167" NumberOfProvisions="16" xml:lang="en"
+	xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd"
+	SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made</dc:identifier>
+		<dc:title>The Double Taxation Relief (Taxes on Income) (Latvia) Order 1996</dc:title>
+		<dc:subject>Income tax</dc:subject>
+		<dc:subject>Tax</dc:subject>
+		<dc:subject>Citizenship</dc:subject>
+		<dc:subject>Capital gains tax</dc:subject>
+		<dc:subject>Corporation tax</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2012-04-26</dc:modified>
+		<dc:subject scheme="SIheading">INCOME TAX</dc:subject>
+		<dc:description>The Convention with Latvia is set out in Part I of the Schedule to this
+			Order.</dc:description>
+		<atom:link rel="self"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.xml"
+			type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/introduction/made"
+			title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.rdf"
+			title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.xht"
+			title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made/data.html"
+			title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/contents/made"
+			title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/1996/3167/made"
+			title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/made"
+			title="Schedule; Schedule"/>
+		<atom:link rel="prevInForce"
+			href="http://www.legislation.gov.uk/uksi/1996/3167/schedule/made"
+			title="Schedule; Schedule"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/1996/3167/note/made"
+			title="Explanatory Note; Explanatory Note"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/1996/3167/note/made"
+			title="Explanatory Note; Explanatory Note"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1996"/>
+			<ukm:Number Value="3167"/>
+			<ukm:Made Date="1996-12-19"/>
+			<ukm:RoyalPresence Date="1996-12-19"/>
+			<ukm:ISBN Value="0110634829"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="42"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="40"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="1"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/made"
+				IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2"
+				NumberOfProvisions="14" NumberFormat="default" id="schedule-2">
+				<Number>PART II</Number>
+				<TitleBlock>
+					<Title>EXCHANGE OF NOTES</Title>
+				</TitleBlock>
+				<ScheduleBody>
+					<P>
+						<Text><Emphasis>London</Emphasis></Text>
+					</P>
+					<P>
+						<Text><Emphasis>8th May 1996</Emphasis></Text>
+					</P>
+					<P>
+						<Text>Your Excellency</Text>
+					</P>
+					<P>
+						<Text>I have the honour to refer to the Convention between the Government of
+							the United Kingdom of Great Britain and Northern Ireland and the
+							Government of the Republic of Latvia for the Avoidance of Double
+							Taxation and the Prevention of Fiscal Evasion with respect to Taxes on
+							Income and Capital Gains which has been signed today and to make on
+							behalf of the Government of the United Kingdom the following proposals
+							for the purpose of applying:</Text>
+					</P>
+					<P1group Layout="side">
+						<Title><Strong>Article 2(3)</Strong></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/1/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/1" id="schedule-2-paragraph-1">
+							<Pnumber>1</Pnumber>
+							<P1para>
+								<Text>The United Kingdom takes note of the fact that the existing taxes as listed in the Convention are subject to a substantial
+									programme of reform and wherever it is not possible to agree that a particular new tax satisfies the conditions of 
+									paragraph (4), the United Kingdom is ready to negotiate an amending Protocol to the Convention without delay.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 4(3)</Strong></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/2/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/2" id="schedule-2-paragraph-2">
+							<Pnumber>2</Pnumber>
+							<P1para>
+								<Text>Where a person other than an individual is a resident of both Contracting States and the competent authorities of the
+									Contracting States endeavour to determine its status by mutual agreement, they shall have regard to such factors as the place
+									of effective management, the place where it is incorporated or otherwise constituted and any other relevant factors.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 5(6)</Strong></Title>
+						<P1
+							DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/3/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/3"
+							id="schedule-2-paragraph-3">
+							<Pnumber>3</Pnumber>
+							<P1para>
+								<Text>The Contracting States agree that:</Text>
+								<P4
+									DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/3/i/made"
+									IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/3/i"
+									id="schedule-2-paragraph-3-i">
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>where the transactions between the agent and the
+											enterprise are made under the conditions which would be
+											made between unrelated persons the second sentence of
+											paragraph (6) shall not apply; and</Text>
+									</P4para>
+								</P4>
+								<P3
+									DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/3/ii/made"
+									IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/3/ii"
+									id="schedule-2-paragraph-3-ii">
+									<Pnumber>ii</Pnumber>
+									<P3para>
+										<Text>in considering whether the activities are devoted
+											wholly or almost wholly on behalf of that enterprise,
+											the Contracting States shall have regard to any relevant
+											factors during any 12 month period commencing or ending
+											in the fiscal year concerned. In particular if the
+											relevant activities are devoted wholly or almost wholly
+											on behalf of that enterprise for a period exceeding 9
+											months within that period of 12 months, they will be
+											considered to have been so devoted in that fiscal
+											year.</Text>
+									</P3para>
+								</P3>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 6(3)</Strong></Title>
+						<P1
+							DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/4/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/4"
+							id="schedule-2-paragraph-4">
+							<Pnumber>4</Pnumber>
+							<P1para>
+								<Text>The Contracting States understand that all income and gains
+									arising from the alienation of immovable property situated in a
+									Contracting State may be taxed in that Contracting State in
+									accordance with Article 13 of this Convention.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 7(3)</Strong></Title>
+						<P1
+							DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/5/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/5"
+							id="schedule-2-paragraph-5">
+							<Pnumber>5</Pnumber>
+							<P1para>
+								<Text>In determining the profits of a permanent establishment, it is
+									understood that expenses to be allowed as deductions by a
+									Contracting State include only expenses that are deductible
+									under the domestic laws of that State.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 12</Strong></Title>
+						<P1
+							DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/6/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/6"
+							id="schedule-2-paragraph-6">
+							<Pnumber>6</Pnumber>
+							<P1para>
+								<Text>Where, in any Convention for the avoidance of double taxation,
+									signed after the date of signature of this Convention, between
+									Latvia and a third State, which is a member of the Organisation
+									for Economic Co-operation and Development at the date of
+									signature of this Convention, Latvia agrees to a definition of
+									royalties which excludes any rights or other property referred
+									to in paragraph 3 or to exempt royalties arising in Latvia from
+									Latvian tax on royalties or to lower rates of tax than those
+									provided for in paragraph 2, such narrower definition,
+									exemption, or lower rate shall automatically apply as if it had
+									been specified in paragraph 3 or paragraph 2 of Article 12 with
+									effect from the date of entry into force of that
+									Convention.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group Layout="side">
+						<Title><Strong>Article 24(2)</Strong></Title>
+						<P1
+							DocumentURI="http://www.legislation.gov.uk/uksi/1996/3167/schedule/2/paragraph/7/made"
+							IdURI="http://www.legislation.gov.uk/id/uksi/1996/3167/schedule/2/paragraph/7"
+							id="schedule-2-paragraph-7">
+							<Pnumber>7</Pnumber>
+							<P1para>
+								<Text>It is understood that incentives to promote foreign investment
+									shall not include incentives promoting only domestic
+									investment.</Text>
+								<UnorderedList Decoration="none">
+									<ListItem>
+										<Para>
+											<Text>If the foregoing proposals are acceptable to the
+												Government of the Republic of Latvia, I have the
+												honour to suggest that the present Note and Your
+												Excellency’s reply to that effect should be regarded
+												as constituting an agreement between the two
+												Governments in this matter, which shall enter into
+												force at the same time as the entry into force of
+												the Convention.</Text>
+										</Para>
+									</ListItem>
+									<ListItem>
+										<Para>
+											<Text>I avail myself of this opportunity to extend to
+												Your Excellency the assurance of my highest
+												consideration.</Text>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P1para>
+						</P1>
+					</P1group>
+					<P>
+						<Text><Emphasis>Nicholas Bonsor</Emphasis></Text>
+					</P>
+					<P>
+						<Text>Minister of State</Text>
+					</P>
+					<P>
+						<Text><Emphasis>London</Emphasis></Text>
+					</P>
+					<P>
+						<Text><Emphasis>8th May 1996</Emphasis></Text>
+					</P>
+					<P>
+						<Text>Your Excellency</Text>
+					</P>
+					<P>
+						<Text>I am in receipt of your note dated 8th May 1996 which states as
+							follows:</Text>
+						<BlockExtract SourceClass="unknown" Format="double" Context="unknown"
+							NumberFormat="default">
+							<P1para>
+								<Text>I have the honour to refer to the Convention between the
+									Government of the United Kingdom of Great Britain and Northern
+									Ireland and the Government of the Republic of Latvia for the
+									Avoidance of Double Taxation and the Prevention of Fiscal
+									Evasion with respect to Taxes on Income and Capital Gains which
+									has been signed today and to make on behalf of the Government of
+									the United Kingdom the following proposals for the purpose of
+									applying:</Text>
+							</P1para>
+							<P1group Layout="side">
+								<Title><Strong>Article 2(3)</Strong></Title>
+								<P1>
+									<Pnumber>1</Pnumber>
+									<P1para>
+										<Text>The United Kingdom takes note of the fact that the
+											existing taxes as listed in the Convention are subject
+											to a substantial programme of reform and wherever it is
+											not possible to agree that a particular new tax
+											satisfies the conditions of paragraph (4), the United
+											Kingdom is ready to negotiate an amending Protocol to
+											the Convention without delay.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 4(3)</Strong></Title>
+								<P1>
+									<Pnumber>2</Pnumber>
+									<P1para>
+										<Text>Where a person other than an individual is a resident
+											of both Contracting States and the competent authorities
+											of the Contracting States endeavour to determine its
+											status by mutual agreement, they shall have regard to
+											such factors as the place of effective management, the
+											place where it is incorporated or otherwise constituted
+											and any other relevant factors.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 5(6)</Strong></Title>
+								<P1>
+									<Pnumber>3</Pnumber>
+									<P1para>
+										<Text>The Contracting States agree that:</Text>
+										<P4>
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>where the transactions between the agent and
+												the enterprise are made under the conditions which
+												would be made between unrelated persons the second
+												sentence of paragraph (6) shall not apply;
+												and</Text>
+											</P4para>
+										</P4>
+										<P3>
+											<Pnumber>ii</Pnumber>
+											<P3para>
+												<Text>in considering whether the activities are
+												devoted wholly or almost wholly on behalf of that
+												enterprise, the Contracting States shall have
+												regard to any relevant factors during any 12 month
+												period commencing or ending in the fiscal year
+												concerned. In particular if the relevant
+												activities are devoted wholly or almost wholly on
+												behalf of that enterprise for a period exceeding 9
+												months within that period of 12 months, they will
+												be considered to have been so devoted in that
+												fiscal year.</Text>
+											</P3para>
+										</P3>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 6(3)</Strong></Title>
+								<P1>
+									<Pnumber>4</Pnumber>
+									<P1para>
+										<Text>The Contracting States understand that all income and
+											gains arising from the alienation of immovable property
+											situated in a Contracting State may be taxed in that
+											Contracting State in accordance with Article 13 of this
+											Convention.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 7(3)</Strong></Title>
+								<P1>
+									<Pnumber>5</Pnumber>
+									<P1para>
+										<Text>In determining the profits of a permanent
+											establishment, it is understood that expenses to be
+											allowed as deductions by a Contracting State include
+											only expenses that are deductible under the domestic
+											laws of that State.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 12</Strong></Title>
+								<P1>
+									<Pnumber>6</Pnumber>
+									<P1para>
+										<Text>Where, in any Convention for the avoidance of double
+											taxation, signed after the date of signature of this
+											Convention, between Latvia and a third State, which is a
+											member of the Organisation for Economic Co-operation and
+											Development at the date of signature of this Convention,
+											Latvia agrees to a definition of royalties which
+											excludes any rights or other property referred to in
+											paragraph 3 or to exempt royalties arising in Latvia
+											from Latvian tax on royalties or to lower rates of tax
+											than those provided for in paragraph 2, such narrower
+											definition, exemption, or lower rate shall automatically
+											apply as if it had been specified in paragraph 3 or
+											paragraph 2 of Article 12 with effect from the date of
+											entry into force of that Convention.</Text>
+									</P1para>
+								</P1>
+							</P1group>
+							<P1group Layout="side">
+								<Title><Strong>Article 24(2)</Strong></Title>
+								<P1>
+									<Pnumber>7</Pnumber>
+									<P1para>
+										<Text>It is understood that incentives to promote foreign
+											investment shall not include incentives promoting only
+											domestic investment.</Text>
+										<UnorderedList Decoration="none">
+											<ListItem>
+												<Para>
+												<Text>If the foregoing proposals are acceptable to
+												the Government of the Republic of Latvia, I have
+												the honour to suggest that the present Note and
+												Your Excellency’s reply to that effect should be
+												regarded as constituting an agreement between the
+												two Governments in this matter, which shall enter
+												into force at the same time as the entry into
+												force of the Convention.</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+												<Text>I avail myself of this opportunity to extend
+												to Your Excellency the assurance of my highest
+												consideration.</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P1para>
+								</P1>
+							</P1group>
+						</BlockExtract>
+					</P>
+					<P>
+						<Text>The foregoing proposals being acceptable to the Government of the
+							Republic of Latvia, I have the honour to confirm Your Excellency’s Note
+							and this reply shall be regarded as constituting an agreement between
+							the two Governments in this matter which shall enter into force at the
+							same time as the entry into force of the Convention.</Text>
+					</P>
+					<P>
+						<Text>I take this opportunity to renew to Your Excellency the assurances of
+							my highest consideration.</Text>
+					</P>
+					<P>
+						<Text><Emphasis>Valdis Birkavs</Emphasis></Text>
+					</P>
+					<P>
+						<Text>Minister of Foreign Affairs</Text>
+					</P>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Secondary>
+</Legislation>

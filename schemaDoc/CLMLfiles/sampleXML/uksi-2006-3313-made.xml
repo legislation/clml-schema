@@ -1,0 +1,1213 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313" NumberOfProvisions="24" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2006/3313/made</dc:identifier>
+		<dc:title>The Oil Taxation (Market Value of Oil) Regulations 2006</dc:title>
+		<dc:subject>corporation tax</dc:subject>
+		<dc:subject>petroleum revenue tax</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2018-03-02</dc:modified>
+		<dc:subject scheme="SIheading">CORPORATION TAX</dc:subject>
+		<dc:subject scheme="SIheading">PETROLEUM REVENUE TAX</dc:subject>
+		<dc:description>These Regulations prescribe which oils are Category 1 oils for the purposes of paragraph 2(2) of Schedule 3 to the Oil Taxation Act 1975. They also prescribe the methods of valuing Category 1 and Category 2 oils which are held as part of a participator’s stock, sold otherwise than at arm’s length or are relevantly appropriated.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2006/3313/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2006/3313/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2006/3313/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2006/3313/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2006/3313/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2006/3313/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2006/3313/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2006/3313/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2006/3313/made/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2006/3313/pdfs/uksi_20063313_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2006/3313/contents/made" title="Table of Contents"/>
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2006/0110753453" title="The Oil Taxation (Market Value of Oil) Regulations 2006"/>
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2006"/>
+			<ukm:Number Value="3313"/>
+			<ukm:Made Date="2006-12-13"/>
+			<ukm:ISBN Value="0110754905"/>
+		</ukm:SecondaryMetadata>
+		<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2006/0110753453">
+			<dc:title>The Oil Taxation (Market Value of Oil) Regulations 2006</dc:title>
+			<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+			<ukm:Year Value="2006"/>
+			<ukm:ISBN Value="0110753453"/>
+		</ukm:Supersedes>
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2008-12-11" URI="http://www.legislation.gov.uk/uksi/2006/3313/pdfs/uksiem_20063313_en.pdf" Title="Explanatory Memorandum"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-12-11" URI="http://www.legislation.gov.uk/uksi/2006/3313/pdfs/uksi_20063313_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="24"/>
+			<ukm:BodyParagraphs Value="24"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/introduction">
+			<Number>2006 No. 3313</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>corporation tax</Title>
+				</Subject>
+				<Subject>
+					<Title>petroleum revenue tax</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Oil Taxation (Market Value of Oil) Regulations 2006</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>13th December 2006</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force in accordance with regulation 1(1)</Text>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>A draft of these Regulations was laid before the House of Commons in accordance with paragraph 10 of Schedule 3 to the Oil Taxation Act 1975<FootnoteRef Ref="f00001"/>.</Text>
+					</P>
+					<P>
+						<Text>The draft was approved by a resolution of that House.</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text>Accordingly, the Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 21(2) of, and paragraph 2(1B), (1C), (2E) and (2F) of Schedule 3 to that Act, <FootnoteRef Ref="f00002"/> and section 147(4) and (7) of the Finance Act 2006<FootnoteRef Ref="f00003"/>.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/body" NumberOfProvisions="24" NumberFormat="default">
+			<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/crossheading/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/crossheading/introduction" NumberOfProvisions="4" id="crossheading-introduction">
+				<Title>Introduction</Title>
+				<P1group>
+					<Title>Citation, commencement and effect</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/1" id="regulation-1">
+						<Pnumber>1</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/1/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/1/1" id="regulation-1-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>These Regulations may be cited as the Oil Taxation (Market Value of Oil) Regulations 2006, and shall come into force on the day after that on which they are made.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/1/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/1/2" id="regulation-1-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>These Regulations have effect in relation to the first new period, within the meaning of section 147(4)(b) of <Abbreviation Expansion="Finance Act 2006 c. 25">FA 2006</Abbreviation> (commencement and transitional provisions for amendments to Schedule 3 to <Abbreviation Expansion="Oil Taxation Act 1975 c. 22">OTA</Abbreviation> by section 146 of, and Schedule 18 to, FA 2006) and subsequent periods.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Interpretation</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/2" id="regulation-2">
+						<Pnumber>2</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/2/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/2/1" id="regulation-2-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>This paragraph gives the meaning of the abbreviated references used in these Regulations—</Text>
+									<UnorderedList Decoration="none" Class="Definition">
+										<ListItem>
+											<Para>
+												<Text>“FA 2006” means the Finance Act 2006;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Abbreviation Expansion="Income and Corporation Taxes Act 1988 c. 1">ICTA</Abbreviation>” means the Income and Corporation Taxes Act 1988<FootnoteRef Ref="f00004"/>; and</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“OTA” means the Oil Taxation Act 1975.</Text>
+											</Para>
+										</ListItem>
+									</UnorderedList>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/2/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/2/2" id="regulation-2-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>This paragraph gives the meaning of other terms used in these Regulations—</Text>
+									<UnorderedList Decoration="none" Class="Definition">
+										<ListItem>
+											<Para>
+												<Text>“bank holiday” means a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971<FootnoteRef Ref="f00005"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“Category 1 oil” is oil of any of the kinds specified in regulation <InternalLink Ref="regulation-3" id="i00003">3</InternalLink>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“relevantly appropriated” has the meaning given by section 12(1) of OTA<FootnoteRef Ref="f00006"/>.</Text>
+											</Para>
+										</ListItem>
+									</UnorderedList>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/2/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/2/3" id="regulation-2-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>A sale of oil is at arm’s length if (but only if) it satisfies paragraph 1 of Schedule 3 to OTA<FootnoteRef Ref="f00007"/>.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Category 1 oil</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3" id="regulation-3">
+						<Pnumber>3</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1" id="regulation-3-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>Category 1 oil is oil of any of the following kinds—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1/a" id="regulation-3-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>Brent blend;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1/b" id="regulation-3-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>Ekofisk blend;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1/c" id="regulation-3-1-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>Flotta blend;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1/d" id="regulation-3-1-d">
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>Forties blend;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/1/e/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/1/e" id="regulation-3-1-e">
+										<Pnumber>e</Pnumber>
+										<P3para>
+											<Text>Statfjord oil.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/3/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/3/2" id="regulation-3-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In these Regulations—</Text>
+									<UnorderedList Decoration="none" Class="Definition">
+										<ListItem>
+											<Para>
+												<Text>“Brent blend” means the blend of crude oils landed at Sullom Voe in Shetland via either the Brent or Ninian pipeline systems;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“Ekofisk blend” means the blend of crude oils landed at the Teesside Oil Terminal at Seal Sands via the Norpipe pipeline;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“Flotta blend” means the blend of crude oils landed at the Flotta Oil Terminal in Orkney and originating from the Flotta catchment area;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“Forties blend” means the blend of crude oils landed at Cruden Bay, Aberdeenshire via the Forties pipeline system;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“Statfjord oil” means oil to which article 23 of the Agreement between Her Majesty’s Government of the United Kingdom and Northern Ireland and the Government of the Kingdom of Norway relating to the exploitation of the Statfjord Field Reservoirs signed at Oslo on 16th October 1979<FootnoteRef Ref="f00008"/> applies.</Text>
+											</Para>
+										</ListItem>
+									</UnorderedList>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Interpretation – reports and factors used in calculations</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4" id="regulation-4">
+						<Pnumber>4</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/1" id="regulation-4-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>In these Regulations the terms defined in the following paragraphs, which relate to the way in which the market value of a Category 1 oil is determined, have the meanings given there.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/2" id="regulation-4-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>“The relevant reports” means—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/2/a" id="regulation-4-2-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>Argus Crude published by Argus Media Limited, whose registered office is Argus House, <Abbreviation Expansion="Saint">St.</Abbreviation> John Street London EC1V 4LW;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/2/b" id="regulation-4-2-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>ICIS (the Independent Chemical Information Services’ World Crude Report), published by Reed Elsevier Group plc whose registered office is Quadrant House, The Quadrant, Sutton, Surrey, SM2 5AS; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/2/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/2/c" id="regulation-4-2-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>Platts Oilgram published by Platts, a division of the McGraw-Hill Companies, whose registered office is Two Penn Plaza, 25<Superior>th</Superior> Floor, New York, N.Y. 10121-2298.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/3" id="regulation-4-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>“The reference value” is the value quoted—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/3/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/3/a" id="regulation-4-3-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>in the case of Argus Crude as “Dated BFO” in the section of the report entitled “Atlantic Basin Crudes, London 16.30 hours, North Sea”;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/3/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/3/b" id="regulation-4-3-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in the case of ICIS, as “Dated BFO” in the North Sea 3<Superior>rd</Superior> Update; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/3/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/3/c" id="regulation-4-3-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>in the case of Platts Oilgram, as “Brent (DTD)” in the International section of the report.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4" id="regulation-4-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>“Adjustment factor” means the differential, upon the day in question, from the reference value—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4/a" id="regulation-4-4-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>found, in the case of Brent blend, in accordance with regulation <InternalLink Ref="regulation-14" id="i00006">14</InternalLink>;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4/b" id="regulation-4-4-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>for any other Category 1 oil, shown—</Text>
+											<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/b/i/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4/b/i" id="regulation-4-4-b-i">
+												<Pnumber>i</Pnumber>
+												<P4para>
+													<Text>in the case of Argus Crude, in the report under “Atlantic Basin Crudes, London 16.30 hours North Sea”;</Text>
+												</P4para>
+											</P4>
+											<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/b/ii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4/b/ii" id="regulation-4-4-b-ii">
+												<Pnumber>ii</Pnumber>
+												<P4para>
+													<Text>in the case of ICIS, in North Sea 3<Superior>rd</Superior> Update; and</Text>
+												</P4para>
+											</P4>
+											<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/4/4/b/iii/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/4/4/b/iii" id="regulation-4-4-b-iii">
+												<Pnumber>iii</Pnumber>
+												<P4para>
+													<Text>in the case of Platts Oilgram, as the assessment of the spread against forward dated Brent blend (described in the report as “spread vs fwd DTD Brent”).</Text>
+												</P4para>
+											</P4>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/crossheading/scope/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/crossheading/scope" NumberOfProvisions="1" id="crossheading-scope">
+				<Title>Scope</Title>
+				<P1group>
+					<Title>General scope of these Regulations</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/5" id="regulation-5">
+						<Pnumber>5</Pnumber>
+						<P1para>
+							<Text>These Regulations apply for the purpose of determining the market value of oil won from a field to which section 2(5)(b) or (c) of OTA applies and which is—</Text>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/5/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/5/a" id="regulation-5-a">
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>delivered, or relevantly appropriated, on or after 1st July 2006; or</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/5/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/5/b" id="regulation-5-b">
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>held by a participator and not delivered at the end of a chargeable period.</Text>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/crossheading/valuing-category-1-oil/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/crossheading/valuing-category-1-oil" NumberOfProvisions="11" id="crossheading-valuing-category-1-oil">
+				<Title>Valuing Category 1 oil</Title>
+				<P1group>
+					<Title>General</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/6" id="regulation-6">
+						<Pnumber>6</Pnumber>
+						<P1para>
+							<Text>The method of determining the market value of Category 1 oil to which these Regulations apply is as follows—</Text>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/6/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/6/a" id="regulation-6-a">
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>find the notional delivery day (see regulations 7 and 8);</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/6/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/6/b" id="regulation-6-b">
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>find the average reference value for that day (see regulations 9 to 12);</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/6/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/6/c" id="regulation-6-c">
+								<Pnumber>c</Pnumber>
+								<P3para>
+									<Text>add the adjustment factor (see regulations 13 to 15); and</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/6/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/6/d" id="regulation-6-d">
+								<Pnumber>d</Pnumber>
+								<P3para>
+									<Text>find the total market value of the oil (see regulation 16).</Text>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The notional delivery day: the general rule</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/7" id="regulation-7">
+						<Pnumber>7</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/7/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/7/1" id="regulation-7-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The general rule is that the notional delivery day is found in accordance with paragraph 1A of Schedule 3 to OTA<FootnoteRef Ref="f00009"/> (determination of market value: notional delivery day for a quantity of oil).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/7/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/7/2" id="regulation-7-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The general rule is subject to regulation 8.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The notional delivery day: additional rule</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8" id="regulation-8">
+						<Pnumber>8</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/1" id="regulation-8-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>Paragraph (2) applies to a delivery of Category 1 oil by way of a sale otherwise than at arm’s length if—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/1/a" id="regulation-8-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>during any period of 24 months, beginning on or after 1st July 2006, the total quantity of equity oil of that type disposed of by a participator and persons connected with him is not less than 4,000,000 barrels;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/1/b" id="regulation-8-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>a lower price would fall to be taken into account in determining the participator’s gross profit under section 2(1) of OTA for the delivery from that which would have applied if it had been by way of a sale at arm’s length;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/1/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/1/c" id="regulation-8-1-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>the reason for that lower price is because the notional delivery day is a day other than that on which the actual delivery takes place;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/1/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/1/d" id="regulation-8-1-d">
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>the whole or main benefit which might reasonably be expected to be obtained from a sale otherwise than at arm’s length, when compared with a sale at arm’s length, is a tax advantage within the meaning of section 709 of ICTA<FootnoteRef Ref="f00010"/>.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/2" id="regulation-8-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The notional delivery day is the day specified in paragraph (a) or (b) (as the case requires) of paragraph 1A(7) of Schedule 3 to OTA.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/3" id="regulation-8-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>In this regulation—</Text>
+									<UnorderedList Decoration="none" Class="Definition">
+										<ListItem>
+											<Para>
+												<Text>“barrel” means a volume of 0.158987 cubic metres of oil; and</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“equity oil” means oil forming part of the trading stock of a participator or a person connected with him which has been won by that participator or a person connected with him from a field in the United Kingdom sector of the North Sea.</Text>
+											</Para>
+										</ListItem>
+									</UnorderedList>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/8/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/8/4" id="regulation-8-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>Section 839 of ICTA (connected persons) applies for determining whether persons are connected for the purposes of this regulation.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The average reference value: notional delivery day one for which reference values available</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9" id="regulation-9">
+						<Pnumber>9</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/1" id="regulation-9-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>If the notional delivery day is a day for which reference values are available find the daily average of the reference values from each of the three relevant reports for—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/1/a" id="regulation-9-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>each of the two dates immediately preceding the notional delivery day;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/1/b" id="regulation-9-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>the notional delivery day; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/1/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/1/c" id="regulation-9-1-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>each of the two dates immediately following notional delivery day.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/2" id="regulation-9-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>If any of the relevant reports contains more than one reference value for any of these dates, the result for that report for that date is the arithmetical mean of those values.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/3" id="regulation-9-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>Find the average of the daily averages found for each of the five days referred to in paragraph (1).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/9/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/9/4" id="regulation-9-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>The result is the average reference value for the notional delivery day.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The average reference value: notional delivery day a Saturday, or a Bank Holiday which is not a Monday, and for which reference values not available</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10" id="regulation-10">
+						<Pnumber>10</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/1" id="regulation-10-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>If the notional delivery day is not a day for which reference values are available but is a Saturday, or a bank holiday which is not a Monday, find the daily average of the reference values from each of the three relevant reports for—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/1/a" id="regulation-10-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>each of the three business days immediately preceding the notional delivery day; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/1/b" id="regulation-10-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>each of the two business days immediately following the notional delivery day.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/2" id="regulation-10-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>If any of the relevant reports contains more than one reference value for any of these dates, the result for that report for that date is the arithmetical mean of those values.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/3" id="regulation-10-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>Find the average of the daily averages found for each of the five days referred to in paragraph (1).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/10/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/10/4" id="regulation-10-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>The result is the average reference value for the notional delivery day.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The average reference value: notional delivery day a Sunday, or a Bank Holiday which is a Monday</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11" id="regulation-11">
+						<Pnumber>11</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/1" id="regulation-11-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>If the notional delivery day is not a day for which reference values are available but is a Sunday, or a bank holiday which is a Monday, find the daily average of the reference values from each of the three relevant reports for—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/1/a" id="regulation-11-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>each of the two business days immediately preceding the notional delivery day; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/1/b" id="regulation-11-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>each of the three business days immediately following the notional delivery day.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/2" id="regulation-11-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>If any of the relevant reports contains more than one reference value for any of these dates, the result for that report for that date is the arithmetical mean of those values.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/3" id="regulation-11-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>Find the average of the daily averages found for each of the five days referred to in paragraph (1).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/11/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/11/4" id="regulation-11-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>The result is the average reference value for the notional delivery day.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The average reference value: additional provisions</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12" id="regulation-12">
+						<Pnumber>12</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/1" id="regulation-12-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>If in respect of any of the days specified in a provision of regulation 9, 10 or 11 one or two of the relevant reports is not published, that provision has effect as if references to the relevant reports were to such of the relevant reports as are actually published in respect of that day.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/2" id="regulation-12-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>If in respect of any of the days specified in a provision of regulation 9, 10 or 11 other than the notional delivery day, none of the relevant reports is published (“a non-publication day”), that provision has effect as if—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/2/a" id="regulation-12-2-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>references to a day which is a non-publication day falling before the notional delivery day were to the day falling next before that day on which at least one of the relevant reports is published; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/2/b" id="regulation-12-2-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>references to a day which is a non-publication day falling after the notional delivery day were to the day falling next after that day on which at least one of the relevant reports is published.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/3" id="regulation-12-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>If the application of the rule in paragraph (2) would lead to the reports for a day being taken into account more than once, a reference to the day falling next before, or after, the non-publication day shall be read as a reference to the first day falling next before or after (as the case may be) the non-publication day which would not otherwise be taken into account for the purposes of this regulation.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/12/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/12/4" id="regulation-12-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>In cases where the date of completion of load or the date of the bill of lading is substituted for the notional delivery day under regulation <InternalLink Ref="regulation-8" id="i00013">8</InternalLink>, references in this regulation to the notional delivery day are to be read as references to the day substituted under that regulation.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The adjustment factors — general</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/13/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/13" id="regulation-13">
+						<Pnumber>13</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/13/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/13/1" id="regulation-13-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The adjustment factor applicable to the Category 1 oil in question must be added to the average reference value.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/13/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/13/2" id="regulation-13-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The adjustment factor is found—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/13/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/13/2/a" id="regulation-13-2-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>in accordance with regulation <InternalLink Ref="regulation-14" id="i00015">14</InternalLink> in the case of Brent blend; and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/13/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/13/2/b" id="regulation-13-2-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in accordance with regulation <InternalLink Ref="regulation-15" id="i00016">15</InternalLink> in the case of other Category 1 oil.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Adjustment factor — Brent blend</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14" id="regulation-14">
+						<Pnumber>14</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/1" id="regulation-14-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The adjustment factor for Brent blend is found as follows.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/2" id="regulation-14-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>Find the daily average of the differentials from the reference value quoted in the relevant reports for each of the days—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/2/a" id="regulation-14-2-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>during the period which begins 21 days, and ends 14 days before the notional delivery day, and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/2/b" id="regulation-14-2-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in respect of which at least one such report is produced,</Text>
+										</P3para>
+									</P3>
+									<Text>as follows.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/3" id="regulation-14-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>Find the Argus Crude differential for a particular day by taking the value shown as the “Brent” assessment and subtracting from it the value shown as “Dated BFO” in that report.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/4" id="regulation-14-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>Find the ICIS differential for a particular day by taking the value shown as the “Brent” assessment and subtracting from it the value shown as “Dated BFO” in that report.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/5" id="regulation-14-5">
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>Find the Platts differential for a particular day by taking the value for “Brent Assessment 10 — 21 days out” in Platts Crude Oil Marketwire and subtracting from it the value for “North Sea Dated Strip” in that report.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/6" id="regulation-14-6">
+								<Pnumber>6</Pnumber>
+								<P2para>
+									<Text>In this regulation “Platts Crude Oil Marketwire” means the report of that name published by Platts, a division of the McGraw-Hill Companies, whose registered office is Two Penn Plaza, 25<Superior>th</Superior> Floor, New York, N.Y. 10121-2298.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/7" id="regulation-14-7">
+								<Pnumber>7</Pnumber>
+								<P2para>
+									<Text>If any of the reports referred to in this regulation contains more than one value for the relevant quote for any of these days, the result for that report for that day is the arithmetical mean of those values.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/8" id="regulation-14-8">
+								<Pnumber>8</Pnumber>
+								<P2para>
+									<Text>Find the average of the daily averages found in accordance with this regulation for each of the days specified in paragraph (2).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/14/9/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/14/9" id="regulation-14-9">
+								<Pnumber>9</Pnumber>
+								<P2para>
+									<Text>The result is the adjustment factor for Brent blend.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Adjustment factor — other Category 1 oil</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15" id="regulation-15">
+						<Pnumber>15</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/1" id="regulation-15-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The adjustment factor for a Category 1 oil other than Brent blend is found as follows.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/2" id="regulation-15-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>Find the daily average of the differentials, from reference value, for the Category 1 oil in question quoted in the three relevant reports for each of the days—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/2/a" id="regulation-15-2-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>during the period which begins 21 days, and ends 14 days before the notional delivery day, and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/2/b" id="regulation-15-2-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in respect of which at least one such report is produced.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/3" id="regulation-15-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>If any of the relevant reports contains more than one value for the Category 1 oil in question for any of these days, the result for that report for that day is the arithmetical mean of those values.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/4" id="regulation-15-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>Find the average of the daily averages found by paragraphs (2) and (3) for each of the days specified in paragraph (2).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/15/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/15/5" id="regulation-15-5">
+								<Pnumber>5</Pnumber>
+								<P2para>
+									<Text>The result is the adjustment factor for the relevant Category 1 oil.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>The total market value of the oil</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16" id="regulation-16">
+						<Pnumber>16</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16/1" id="regulation-16-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The total market value of a volume of Category 1 oil to which these Regulations apply is found as follows—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16/1/a" id="regulation-16-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>take the average reference value for the notional delivery day (see regulations 9 to 12);</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16/1/b" id="regulation-16-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>add the adjustment factor applicable to the Category 1 oil in question (see regulations 13 to 15); and</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/1/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16/1/c" id="regulation-16-1-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>multiply the sum found by sub-paragraph (b) by the volume of Category 1 oil in question.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/16/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/16/2" id="regulation-16-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The result is the total market value of the oil.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/crossheading/valuing-category-2-oils/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/crossheading/valuing-category-2-oils" NumberOfProvisions="8" id="crossheading-valuing-category-2-oils">
+				<Title>Valuing Category 2 oils</Title>
+				<P1group>
+					<Title>Market value: Category 2 oils</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/17/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/17" id="regulation-17">
+						<Pnumber>17</Pnumber>
+						<P1para>
+							<Text>The market value of a quantity of Category 2 oil to which these Regulations apply is found by whichever of the methods in regulation 18 (method 1) or regulations 19 to 23 (method 2) would produce a sum which more closely reflects the price which would normally apply in a sale at arm’s length for a similar quantity of that oil on the notional delivery day (found in accordance with paragraph 1A of Schedule 3 to OTA), but subject to the special rules in regulation 24.</Text>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Method 1</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/18/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/18" id="regulation-18">
+						<Pnumber>18</Pnumber>
+						<P1para>
+							<Text>The first method is to find the average unit price for actual sales at arm’s length of the relevant Category 2 oil under contracts meeting the conditions set out in paragraphs (a) to (e) of paragraph 2(2AA) of Schedule 3 to OTA<FootnoteRef Ref="f00011"/>.</Text>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Method 2: general</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/19/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/19" id="regulation-19">
+						<Pnumber>19</Pnumber>
+						<P1para>
+							<Text>The second method is as follows—</Text>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/19/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/19/a" id="regulation-19-a">
+								<Pnumber>a</Pnumber>
+								<P3para>
+									<Text>find the relevant reference oils (“the marker crudes”) for the relevant Category 2 oil (see regulation 20);</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/19/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/19/b" id="regulation-19-b">
+								<Pnumber>b</Pnumber>
+								<P3para>
+									<Text>find the average marker crude price quoted in respect of the relevant Category 2 oil (see regulation 21);</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/19/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/19/c" id="regulation-19-c">
+								<Pnumber>c</Pnumber>
+								<P3para>
+									<Text>adjust the average marker crude price (see regulation 22);</Text>
+								</P3para>
+							</P3>
+							<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/19/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/19/d" id="regulation-19-d">
+								<Pnumber>d</Pnumber>
+								<P3para>
+									<Text>find the total market value of the oil (see regulation 23).</Text>
+								</P3para>
+							</P3>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Finding the relevant reference oils for the Category 2 oil in question</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/20/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/20" id="regulation-20">
+						<Pnumber>20</Pnumber>
+						<P1para>
+							<Text>Ascertain which crude oils are normally used as marker crudes for the purposes of determining the market value of the relevant Category 2 oil under contracts at arm’s length.</Text>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Finding the average marker crude price</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/21/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/21" id="regulation-21">
+						<Pnumber>21</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/21/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/21/1" id="regulation-21-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>Find the average of the prices quoted by the relevant reports for the sale of the marker crudes in respect of trades during the reference period in contracts for the sale at arm’s length of the relevant Category 2 oil.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/21/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/21/2" id="regulation-21-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In paragraph (1) “the reference period” means the period ordinarily used to find the market value of oils, by reference to which the price of the oil in question is determined, in a contract for the sale of that oil at arm’s length.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Adjusting the average marker crude price</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/22/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/22" id="regulation-22">
+						<Pnumber>22</Pnumber>
+						<P1para>
+							<Text>Add to the result of regulation 21 differential or combination of differentials normally applied in a contract for the sale at arm’s length of the relevant Category 2 oil.</Text>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Total value of the Category 2 oil sold or relevantly appropriated</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/23/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/23" id="regulation-23">
+						<Pnumber>23</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/23/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/23/1" id="regulation-23-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>Multiply the result of regulation 22 by the volume of Category 2 oil to which these Regulations apply in the particular case.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/23/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/23/2" id="regulation-23-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The product so found is the market value of the Category 2 oil in question.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/23/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/23/3" id="regulation-23-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>This is subject to regulation 24.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+				<P1group>
+					<Title>Special rules</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/24/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/24" id="regulation-24">
+						<Pnumber>24</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/24/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/24/1" id="regulation-24-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>If a participator’s contracts for the sale of Category 2 oil in sales at arm’s length normally provide for the price to be determined—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/24/1/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/24/1/a" id="regulation-24-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>in the case of oil transported by ship from the place of extraction to a place in the United Kingdom or elsewhere, by reference to the actual date of the completion of the load, or completion of the discharge, of the cargo; or</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/24/1/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/24/1/b" id="regulation-24-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>in the case of oil transported by pipeline to a place in the United Kingdom and loaded on to a ship there, by reference to the date of the bill of lading;</Text>
+										</P3para>
+									</P3>
+									<Text>references to the notional delivery day in regulation 17 are to be construed, in relation to that participator as references to the day mentioned in sub-paragraph (a) or (b) (as the case requires).</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/regulation/24/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/regulation/24/2" id="regulation-24-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The modification in paragraph (1) also applies where Category 2 oil is loaded onto a ship at least 7 days later than the date provided for by the contract for sale by reason of circumstances wholly beyond the control of the parties.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/signature">
+				<Signatory>
+					<Signee>
+						<PersonName>Paul Gray</PersonName>
+						<PersonName>Mike Eland</PersonName>
+						<JobTitle>Two of the Commissioners for Her Majesty’s Revenue and Customs</JobTitle>
+						<DateSigned Date="2006-12-13">
+							<DateText>13th December 2006</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2006/3313/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/2006/3313/note">
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations prescribe which oils are Category 1 oils for the purposes of paragraph 2(2) of Schedule 3 to the Oil Taxation Act 1975. They also prescribe the methods of valuing Category 1 and Category 2 oils which are held as part of a participator’s stock, sold otherwise than at arm’s length or are relevantly appropriated.</Text>
+			</P>
+			<P>
+				<Text>Regulation 1 provides for citation and commencement.</Text>
+			</P>
+			<P>
+				<Text>Regulation 2 defines terms used in the Regulations.</Text>
+			</P>
+			<P>
+				<Text>Regulation 3 prescribes those oils which are Category 1 oils for the purposes of valuation.</Text>
+			</P>
+			<P>
+				<Text>Regulation 4 defines terms used in connection with the valuation of Category 1 oils.</Text>
+			</P>
+			<P>
+				<Text>Regulation 5 explains the scope of the Regulations.</Text>
+			</P>
+			<P>
+				<Text>Regulation 6 describes the steps to be taken in determining the value of Category 1 oils.</Text>
+			</P>
+			<P>
+				<Text>Regulations 7 and 8 set out the rules for determining the notional delivery day to be used in the calculation for a Category 1 oil.</Text>
+			</P>
+			<P>
+				<Text>Regulations 9 to 12 set out the rules for determining the average reference value to be used in such a calculation.</Text>
+			</P>
+			<P>
+				<Text>Regulations 13 to 15 set out the rules about adjustment factors to be applied in such a calculation.</Text>
+			</P>
+			<P>
+				<Text>Regulation 16 sets out the process by which to arrive at the market value of a quantity of Category 1 oil to which the Regulations apply.</Text>
+			</P>
+			<P>
+				<Text>Regulation 17 prescribes two methods of valuing Category 2 oils to which the Regulations apply.</Text>
+			</P>
+			<P>
+				<Text>Regulation 18 sets out the first of those methods, and regulations 19 to 23 the second.</Text>
+			</P>
+			<P>
+				<Text>Regulation 24 prescribes an alternative method in cases where the participator’s contracts normally provide for the price to be determined—</Text>
+				<P3>
+					<Pnumber>a</Pnumber>
+					<P3para>
+						<Text>in the case of oil transported by ship from the place of extraction to a place in the United Kingdom or elsewhere, by reference to the actual date of the completion of the load, or completion of the discharge, of the cargo; or</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>b</Pnumber>
+					<P3para>
+						<Text>in the case of oil transported by pipeline to a place in the United Kingdom and loaded on to a ship there, by reference to the date of the bill of lading.</Text>
+					</P3para>
+				</P3>
+			</P>
+			<P>
+				<Text>By virtue of section 147(1) of the Finance Act 2006 these Regulations have effect in relation to oil delivered or appropriated on or after 1st July 2006.</Text>
+			</P>
+			<P>
+				<Text>The effect of subsection (A1) of section 493 of the Income and Corporation Taxes Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/1" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0001">1988 (c. 1)</Citation>, inserted by paragraph 12(2) of Schedule 18 to the Finance Act 2006 is to provide that the value of oil disposed of in an arm’s length sale is to be computed, for all purposes of income tax, and for the purposes of corporation tax in relation to that disposal, in accordance with section 2(5A) of the Oil Taxation Act 1975.</Text>
+			</P>
+			<P>
+				<Text>A regulatory impact assessment was prepared by <Acronym Expansion="Her Majesty">HM</Acronym> Revenue and Customs in respect of Part 5 of the Finance (<Abbreviation Expansion="Number">No.</Abbreviation> 2) Bill of the 2005-06 Session and was published on 22nd March 2006. That Bill received Royal Assent as the Finance Act 2006.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1975/22" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1975" Number="0022">1975 c. 22</Citation>. Paragraph 10 is added to Schedule 3 by paragraph 10 of Schedule 18 to the Finance Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/25" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0025">2006 (c. 25)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>Section 21(2) is cited because of the definition of “the Board”. The functions of the Commissioners of Inland Revenue (“the former Commissioners”) were transferred to the Commissioners for Her Majesty’s Revenue and Customs (“the new Commissioners”) by section 5 of the Commissioners for Revenue and Customs Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/11" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="2005" Number="0011">2005 (c. 11)</Citation>. Section 50 of that Act provides that a reference in any other enactment to the former Commissioners is to be construed, in so far as is appropriate in consequence of section 5 of the 2005 Act, as a reference to the new Commissioners. Paragraph 2 of Schedule 3 is amended by subsections (2) to (10) of section 146 of the Finance Act 2006.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>Section 147(4) is cited because of the definition of “the first new period”, which is relevant to the power contained in section 147(7) exercised in the making of these Regulations.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/1" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0001">1988 c. 1</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1971/80" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1971" Number="0080">1971 c. 80</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text>The definition of “relevantly appropriated” in section 12(1) was amended by section 39 of the Finance Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/28" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1983" Number="0028">1983 (c. 28)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text>Paragraph 1 was amended by paragraph 32 of Schedule 29 to the Income and Corporation Taxes Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/1" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0001">1988 (c. 1)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text>Treaty Series No 44 1981, Cmnd 8282, supplemented by an exchange of notes effective from 24<Superior>th</Superior> March 1995 (<Abbreviation Expansion="Command Paper">Cm</Abbreviation> 2941).</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text>Paragraph 1A was inserted by section 146(1) of the Finance Act 2006.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text>Section 709 has been amended. Subsection (2A) was inserted by section 73 of the Finance Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/16" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0016">1997 (c. 16)</Citation> and partly repealed by the relevant entry in Part II(9) of Schedule 8 to the Finance (No. 2) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/58" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0058">1997 (c. 58)</Citation></Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00011">
+			<FootnoteText>
+				<Para>
+					<Text>Sub-paragraph (2AA) was inserted by section 146(5) of the Finance Act 2006.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

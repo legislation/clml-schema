@@ -17,11 +17,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-12</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.4			Karl Rajangam	Annotation added for attribute NumberOverride, and updated OrderedList
 			2.0			Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
 			1.2			Paul Appleby	Fixed error where separator attribute was changed to Separator
 			1.1			Paul Appleby	Added Class attribute to UnorderedList with the intention that it is used to indicate a list consisting of definitions
@@ -33,12 +34,12 @@
 	<xsd:element name="OrderedList">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>An ordered list of items.</h:p>
+				<h:p>An ordered list of items. These are used for numbered sub-provisions where the hierarchy of numbered subprovisions is broken, such as in a definition list - except for in tables, where <h:code>&lt;P<h:i>n</h:i>&gt;</h:code> elements are still used.</h:p>
 				<h:p>Ordered lists should not be confused with provisions. Provisions are numbered paragraphs, whereas ordered lists are semantically grouped paragraphs.</h:p>
 				<h:p>The schema takes the approach that if there is a break in the hierarchy of the provisions then any subsequent structure must be a list. This typically occurs where defined terms contain numbered items. These should be done as ordered lists within unordered lists, i.e. the defined term is an entry in an unordered list. Subsequently the chain of numbered provisions is broken and any children must be ordered lists. This approach comes from the schema provisions as being controlled by the indent of the provisions.</h:p>
-				<h:p>The format of the list numbering is defined using the Type attribute.</h:p>
-				<h:p>The text surrounding the number is defined using the Decoration attribute.</h:p>
-				<h:p>A specific starting number can be specified using the Start attribute.</h:p>
+				<h:p>The format of the list numbering is defined using the <h:code>Type</h:code> attribute.</h:p>
+				<h:p>The text surrounding the number is defined using the <h:code>Decoration</h:code> attribute.</h:p>
+				<h:p>A specific starting number can be specified using the <h:code>Start</h:code> attribute.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
@@ -49,58 +50,90 @@
 			<xsd:attribute name="Type" use="required">
 				<xsd:annotation>
 					<xsd:documentation>
-						<h:p>The format of the ordered list e.g. 1., 2., 3. or a, b, c</h:p>
-						<h:ul>
-							<h:li>arabic - 1, 2, 3</h:li>
-							<h:li>roman - i, ii, iii</h:li>
-							<h:li>romanupper - I, II, III</h:li>
-							<h:li>alpha - a, b, c</h:li>
-							<h:li>alphaupper - A, B, C</h:li>
-						</h:ul>
+						<h:p>The numbering format of the list</h:p>
 					</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:NMTOKEN">
-						<xsd:enumeration value="arabic"/>
-						<xsd:enumeration value="roman"/>
-						<xsd:enumeration value="romanUpper"/>
-						<xsd:enumeration value="alpha"/>
-						<xsd:enumeration value="alphaUpper"/>
+						<xsd:enumeration value="arabic">
+							<xsd:annotation>
+								<xsd:documentation>1, 2, 3</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="roman">
+							<xsd:annotation>
+								<xsd:documentation>i, ii, iii</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="romanUpper">
+							<xsd:annotation>
+								<xsd:documentation>I, II, III</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="alpha">
+							<xsd:annotation>
+								<xsd:documentation>a, b, c</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="alphaUpper">
+							<xsd:annotation>
+								<xsd:documentation>A, B, C</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
 			<xsd:attribute name="Decoration" use="required">
 				<xsd:annotation>
 					<xsd:documentation>
-						<h:p>The text that surrounds the number defined by the decoration attribute:</h:p>
-						<h:ul>
-							<h:li>none - 1, 2, 3</h:li>
-							<h:li>parens - (1), (2), (3)</h:li>
-							<h:li>parenRight - 1), 2), 3)</h:li>
-							<h:li>brackets - [1], [2], [3]</h:li>
-							<h:li>bracketRight - 1], 2], 3]</h:li>
-							<h:li>period - 1., 2., 3.</h:li>
-							<h:li>colon - 1:, 2:, 3:</h:li>
-						</h:ul>
+						<h:p>The text that decorates the numbering defined by the <h:code>Decoration</h:code> attribute</h:p>
 					</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:NMTOKEN">
-						<xsd:enumeration value="none"/>
-						<xsd:enumeration value="parens"/>
-						<xsd:enumeration value="parenRight"/>
-						<xsd:enumeration value="brackets"/>
-						<xsd:enumeration value="bracketRight"/>
-						<xsd:enumeration value="period"/>
-						<xsd:enumeration value="colon"/>
+						<xsd:enumeration value="none">
+							<xsd:annotation>
+								<xsd:documentation>No text surrounding the number e.g. 1, 2, 3</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="parens">
+							<xsd:annotation>
+								<xsd:documentation>Parentheses surrounding the number e.g. (1), (2), (3)</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="parenRight">
+							<xsd:annotation>
+								<xsd:documentation>Parenthesis to the right of the number e.g. 1), 2), 3)</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="brackets">
+							<xsd:annotation>
+								<xsd:documentation>Square brackets surrounding the number e.g. [1], [2], [3]</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="bracketRight">
+							<xsd:annotation>
+								<xsd:documentation>Square bracket to the right of the number e.g. 1], 2], 3]</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="period">
+							<xsd:annotation>
+								<xsd:documentation>Period to the right of the number e.g. 1., 2., 3.</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="colon">
+							<xsd:annotation>
+								<xsd:documentation>Colon to the right of the number e.g. 1:, 2:, 3:</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
 			<xsd:attribute name="Start" type="xsd:positiveInteger">
 				<xsd:annotation>
 					<xsd:documentation>
-						<h:p>The start attribute defines the number (or letter, etc) at which the list should start being numbered</h:p>
-						<h:p>For example a value of 3 in an alpha list would start the numbering with a letter ‘c’.</h:p>
+						<h:p>The start attribute defines the number (or letter) at which the list numbering should start.</h:p>
+						<h:p>For example a value of 3 in an alpha list would start the numbering with a letter “c”.</h:p>
 						<h:p>The default value is 1.</h:p>
 					</xsd:documentation>
 				</xsd:annotation>
@@ -201,7 +234,11 @@
 		<xsd:complexType>
 			<xsd:complexContent>
 				<xsd:extension base="ParaBasicStructure">
-					<xsd:attribute name="NumberOverride" type="xsd:string"/>
+					<xsd:attribute name="NumberOverride" type="xsd:string">
+						<xsd:annotation>
+							<xsd:documentation>The text value it holds will be used to override the default number values</xsd:documentation>
+						</xsd:annotation>
+					</xsd:attribute>
 				</xsd:extension>
 			</xsd:complexContent>
 		</xsd:complexType>

@@ -1,0 +1,623 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250" NumberOfProvisions="15" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+   <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+      <dc:identifier>http://www.legislation.gov.uk/uksi/1954/1250/made</dc:identifier>
+      <dc:title>The Local Government Superannuation (England and Scotland) (Amendment) Regulations 1954</dc:title>
+      <dc:publisher>Westlaw</dc:publisher>
+      <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+      <dc:modified>2011-04-05</dc:modified>
+      <dc:subject scheme="SIheading">PENSIONS;LOCAL GOVERNMENT SUPERANNUATION ACTS</dc:subject>
+      <dc:description>These regulations amend the Local Government Superannuation (England and Scotland) Regulations, 1948 (which regulate the superannuation rights of persons who having been in superannuable Local Government employment in England move to superannuable Local Government employment in Scotland and the corresponding rights of persons who move from Scotland to England). The amendments are consequential on the Local Government Superannuation Act, 1953 and provide for the reckoning of qualifying service (i.e. service reckonable for the purpose of determining a person's right to superannuation benefits but not for calculating the amount of the benefits) and additional years of service which may now be granted to certain persons with special professional or other qualifications (regulations 4 and 8); for the continuation of payments made as a condition of reckoning non-contributing service as contributing service (regulations 5 and 9); and for the rights of certain re-employed pensioners (regulations 6, 7, 10 and 11).</dc:description>
+      <atom:link rel="self" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.xml" type="application/xml"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/1954/1250/resources" title="More Resources"/>
+
+
+
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/1954/1250/made" title="whole act"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/1954/1250/introduction/made" title="introduction"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/1954/1250/signature/made" title="signature"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/1954/1250/note/made" title="note"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/1954/1250/body/made" title="body"/>
+
+
+
+
+
+      <atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.rdf" title="RDF/XML"/>
+      <atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.akn" title="AKN"/>
+      <atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.xht" title="HTML snippet"/>
+      <atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.pdf" title="PDF"/>
+      <atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/1954/1250/made/data.html" title="HTML5 snippet"/>
+
+
+      <atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/1954/1250/contents/made" title="Table of Contents"/>
+
+
+
+
+      <ukm:SecondaryMetadata>
+         <ukm:DocumentClassification>
+            <ukm:DocumentCategory Value="secondary"/>
+            <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+            <ukm:DocumentStatus Value="final"/>
+            <ukm:DocumentMinorType Value="regulation"/>
+         </ukm:DocumentClassification>
+         <ukm:Year Value="1954"/>
+         <ukm:Number Value="1250"/>
+         <ukm:Made Date="1954-09-21"/>
+         <ukm:Laid Class="UnitedKingdomParliament" Date="1954-09-28"/>
+         <ukm:ComingIntoForce>
+            <ukm:DateTime Date="1954-10-01"/>
+         </ukm:ComingIntoForce>
+      </ukm:SecondaryMetadata>
+
+
+
+
+
+
+      <ukm:Statistics>
+         <ukm:TotalParagraphs Value="15"/>
+         <ukm:BodyParagraphs Value="15"/>
+         <ukm:ScheduleParagraphs Value="0"/>
+         <ukm:AttachmentParagraphs Value="0"/>
+         <ukm:TotalImages Value="0"/>
+      </ukm:Statistics>
+   </ukm:Metadata>
+   <Secondary>
+      <SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/introduction">
+         <Number>1954 No. 1250</Number>
+         <SubjectInformation>
+            <Subject>
+               <Title>PENSIONS</Title>
+               <Subtitle>LOCAL GOVERNMENT SUPERANNUATION ACTS</Subtitle>
+            </Subject>
+         </SubjectInformation>
+         <Title>The Local Government Superannuation (England and Scotland) (Amendment) Regulations, 1954</Title>
+         <MadeDate>
+            <Text>Made</Text>
+            <DateText>21st September 1954</DateText>
+         </MadeDate>
+         <LaidDate>
+            <Text>Laid before Parliament</Text>
+            <DateText>28th September 1954</DateText>
+         </LaidDate>
+         <ComingIntoForce>
+            <Text>Coming into force</Text>
+            <DateText>1st October 1954</DateText>
+         </ComingIntoForce>
+         <SecondaryPreamble>
+            <EnactingText>
+               <Para>
+                  <Text>The Minister of Housing and Local Government and the Secretary of State, acting jointly, in exercise of their powers under section 38 of the Local Government Superannuation Act, 1937, and section 36 of the Local Government Superannuation (Scotland) Act, 1937, as amended by the Local Government Superannuation Act, 1953, and of all other powers enabling them in that behalf, hereby make the following regulations:—</Text>
+               </Para>
+            </EnactingText>
+         </SecondaryPreamble>
+      </SecondaryPrelims>
+      <Body DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/body" NumberOfProvisions="15">
+         <P1group>
+            <Title>Citation and commencement</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/1" id="regulation-1">
+               <Pnumber>1</Pnumber>
+               <P1para>
+                  <Text>These regulations may be cited as the Local Government Superannuation (England and Scotland) (Amendment) Regulations, 1954, and shall come into operation on the first day of October, 1954.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Interpretation</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/2" id="regulation-2">
+               <Pnumber>2</Pnumber>
+               <P1para>
+                  <P2 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/2/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/2/1" id="regulation-2-1">
+                     <Pnumber>1</Pnumber>
+                     <P2para>
+                        <Text>These regulations and the Local Government Superannuation (England and Scotland) Regulations, 1948<FootnoteRef Ref="f00001"/>, and the Local Government Superannuation (England and Scotland) (Amendment) Regulations, 1949<FootnoteRef Ref="f00002"/>, shall be construed as one and may be cited together as the Local Government Superannuation (England and Scotland) Regulations, 1948 to 1954.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/2/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/2/2" id="regulation-2-2">
+                     <Pnumber>2</Pnumber>
+                     <P2para>
+                        <Text>In these regulations, unless the context otherwise requires, the following expressions have the respective meanings hereby assigned to them:—</Text>
+                        <UnorderedList Decoration="none" Class="Definition">
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d001">the Act of 1953</Term>” means <Definition TermRef="d001">the Local Government Superannuation Act, 1953</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d002">the principal regulations</Term>” means <Definition TermRef="d002">the Local Government Superannuation (England and Scotland) Regulations, 1948</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d003">the English benefits regulations</Term>” means <Definition TermRef="d003">the Local Government Superannuation (Benefits) Regulations, 1954<FootnoteRef Ref="f00003"/>
+                                    </Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d004">the Scottish benefits regulations</Term>” means <Definition TermRef="d004">the Local Government Superannuation (Benefits) (Scotland) Regulations, 1954<FootnoteRef Ref="f00004"/>
+                                    </Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d005">regulation</Term>” means <Definition TermRef="d005">regulation contained in the principal regulations</Definition>.</Text>
+                              </Para>
+                           </ListItem>
+                        </UnorderedList>
+                     </P2para>
+                  </P2>
+                  <P2 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/2/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/2/3" id="regulation-2-3">
+                     <Pnumber>3</Pnumber>
+                     <P2para>
+                        <Text>The Interpretation Act, 1889, applies to the interpretation of these regulations as it applies to the interpretation of an Act of Parliament.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Definitions and adaptations of references</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3" id="regulation-3">
+               <Pnumber>3</Pnumber>
+               <P1para>
+                  <P2 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/1" id="regulation-3-1">
+                     <Pnumber>1</Pnumber>
+                     <P2para>
+                        <Text>In regulation 2 (which defines expressions used in the principal regulations), in paragraph (2) the words<InlineAmendment>“local Act contributor”</InlineAmendment> shall be omitted and there shall be inserted the following definitions—</Text>
+                        <UnorderedList Decoration="none" Class="Definition">
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d006">the Act of 1953</Term>” means <Definition TermRef="d006">the Local Government Superannuation Act, 1953</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d007">added years</Term>” <Definition Mark="Start" TermRef="d007"/>—</Text>
+                                 <OrderedList Type="alpha" Decoration="parens">
+                                    <ListItem>
+                                       <Para>
+                                          <Text>in relation to an English contributory employee means additional years of service reckonable by him under regulations made by the Minister under section 1 and subsection (1) of section 2 of the Act of 1953 or under regulations made by the Minister under paragraph (b) of subsection (1) of section 13 of the English Act, or under these regulations or under a local Act, and in relation to an English local Act contributor means any additional years of service similarly reckonable under a local Act scheme or under these regulations; and</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>in relation to a Scottish contributory employee means additional years of service reckonable by him under regulations made by the Secretary of State under section 1 and subsection (1) of section 2 of the Act of 1953 or under regulations made by the Secretary of State under paragraph (b) of subsection (1) of section 13 of the Scottish Act, or under these regulations or under a local Act, and in relation to a Scottish local Act contributor means any additional years of service similarly reckonable under a local Act scheme or under these regulations;<Definition Mark="End" TermRef="d007"/>
+                                          </Text>
+                                       </Para>
+                                    </ListItem>
+                                 </OrderedList>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d008">the English benefits regulations</Term>” means <Definition TermRef="d008">the Local Government Superannuation (Benefits) Regulations, 1954</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d009">English local Act contributor</Term>” means <Definition TermRef="d009">a local Act contributor within the meaning of the English Act in the employment of an English local Act authority</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d010">the Minister</Term>” means <Definition TermRef="d010">the Minister of Housing and Local Government</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d011">qualifying service</Term>” means <Definition TermRef="d011">service which is reckonable only for the purpose of determining whether a person is qualified to receive a superannuation benefit and not for the purpose of calculating the amount of that benefit</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d012">Scottish local Act contributor</Term>” means <Definition TermRef="d012">a local Act contributor within the meaning of the Scottish Act in the employment of a Scottish local Act authority</Definition>;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem>
+                              <Para>
+                                 <Text>“<Term id="d013">the Scottish benefits regulations</Term>” means <Definition TermRef="d013">the Local Government Superannuation (Benefits) (Scotland) Regulations, 1954</Definition>.</Text>
+                              </Para>
+                           </ListItem>
+                        </UnorderedList>
+                     </P2para>
+                  </P2>
+                  <P2 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/2" id="regulation-3-2">
+                     <Pnumber>2</Pnumber>
+                     <P2para>
+                        <Text>Throughout the principal regulations unless the context otherwise requires—</Text>
+                        <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/2/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/2/a" id="regulation-3-2-a">
+                           <Pnumber>a</Pnumber>
+                           <P3para>
+                              <Text>any reference to a specific provision of the English Act or the Scottish Act shall be construed as a reference to that provision as amended by the Act of 1953 and any other reference to the English Act or the Scottish Act shall be construed as a reference to the Local Government Superannuation Acts, 1937 to 1953, or, as the case may be, the Local Government Superannuation (Scotland) Acts, 1937 to 1953;</Text>
+                           </P3para>
+                        </P3>
+                        <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/2/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/2/b" id="regulation-3-2-b">
+                           <Pnumber>b</Pnumber>
+                           <P3para>
+                              <Text>any reference to a local Act scheme shall include a reference to any scheme made in relation thereto under section 26 of the English Act (which relates to the modification of local Act schemes in consequence of the English Act), section 22 of the Scottish Act (which relates to the modification of local Act schemes in consequence of the Scottish Act) or section 3 or section 22 of the Act of 1953 (both of which sections relate to the modification of local Acts in consequence of the Act of 1953);</Text>
+                           </P3para>
+                        </P3>
+                        <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/2/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/2/c" id="regulation-3-2-c">
+                           <Pnumber>c</Pnumber>
+                           <P3para>
+                              <Text>any reference to a scheme under section 26 of the English Act and any reference to a scheme under section 22 of the Scottish Act shall include a reference to a scheme made under section 3 or section 22 of the Act of 1953;</Text>
+                           </P3para>
+                        </P3>
+                        <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/3/2/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/3/2/d" id="regulation-3-2-d">
+                           <Pnumber>d</Pnumber>
+                           <P3para>
+                              <Text>any reference to a superannuation allowance under Part I of the English Act and any reference to a superannuation allowance under Part I of the Scottish Act shall include a reference to a benefit under the English benefits regulations or, as the case may be, to a benefit under the Scottish benefits regulations, being in either case a benefit by way of annual amount such as is mentioned in paragraph (a) or (c) of subsection (3) of section 1 of the Act of 1953.</Text>
+                           </P3para>
+                        </P3>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Amendments with respect to the reckoning of previous English service</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/4" id="regulation-4">
+               <Pnumber>4</Pnumber>
+               <P1para>
+                  <Text>In regulation 4 (which relates to the reckoning of previous service)—</Text>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/4/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/4/a" id="regulation-4-a">
+                     <Pnumber>a</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (1) after the words <InlineAmendment>“an English local Act contributor”</InlineAmendment> there shall be inserted the words <InlineAmendment>“(other than a person to whom regulation 14 or 14A of these regulations applies)”</InlineAmendment>;</Text>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/4/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/4/b" id="regulation-4-b">
+                     <Pnumber>b</Pnumber>
+                     <P3para>
+                        <Text>for paragraph (2) there shall be substituted the following paragraph—</Text>
+                        <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="double">
+                           <P2>
+                              <Pnumber>2</Pnumber>
+                              <P2para>
+                                 <Text>If a person to whom this article applies was an English contributory employee and is a Scottish contributory employee he shall—</Text>
+                                 <P3>
+                                    <Pnumber>a</Pnumber>
+                                    <P3para>
+                                       <Text>be entitled to reckon as contributing service, non-contributing service and qualifying service respectively under the Scottish Act all service (other than added years) which in relation to his English employment he was entitled to reckon as contributing service, non-contributing service and qualifying service under the English Act immediately before he ceased to hold that employment; and</Text>
+                                    </P3para>
+                                 </P3>
+                                 <P3>
+                                    <Pnumber>b</Pnumber>
+                                    <P3para>
+                                       <Text>in respect of added years enjoy rights and be subject to liabilities as if, instead of having been an English contributory employee, he had been a Scottish contributory employee.</Text>
+                                    </P3para>
+                                 </P3>
+                              </P2para>
+                           </P2>
+                        </BlockAmendment>
+                        <AppendText>;</AppendText>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/4/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/4/c" id="regulation-4-c">
+                     <Pnumber>c</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (4) after the words <InlineAmendment>“previous service”</InlineAmendment> there shall be added the words <InlineAmendment>“and of added years”</InlineAmendment>;</Text>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/4/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/4/d" id="regulation-4-d">
+                     <Pnumber>d</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (5) the words <InlineAmendment>“or service for the purposes of a local Act scheme”</InlineAmendment> and the words <InlineAmendment>“or local Act contributor”</InlineAmendment> shall be omitted.</Text>
+                     </P3para>
+                  </P3>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Payments in respect of English non-contributing service</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/5" id="regulation-5">
+               <Pnumber>5</Pnumber>
+               <P1para>
+                  <Text>For regulation 12 there shall be substituted the following regulation:—</Text>
+                  <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="double">
+                     <P1group>
+                        <Title>Payments under subsections (3) and (4) of section 2 of the Act of 1953</Title>
+                        <P1>
+                           <Pnumber>12</Pnumber>
+                           <P1para>
+                              <P2>
+                                 <Pnumber>1</Pnumber>
+                                 <P2para>
+                                    <Text>Where an English contributory employee who is, or by virtue of subsection (4) of section 2 of the Act of 1953 (which relates to (inter alia) the up-grading of non-contributing service) is deemed to be, in course of paying a sum by instalments in pursuance of subsection (3) of that section ceases to hold his employment and becomes a Scottish contributory employee in such circumstances that if the employment he holds were an English employment the provisions of paragraph 5 of the second schedule to the English benefits regulations would become applicable in relation to him, the corresponding provisions of the regulations made by the Secretary of State under sections 1 and 2 of the Act of 1953 and for the time being in force shall apply in relation to him and to the Scottish employing authority as if he had previously been a Scottish contributory employee paying a sum by instalments under those regulations.</Text>
+                                 </P2para>
+                              </P2>
+                              <P2>
+                                 <Pnumber>2</Pnumber>
+                                 <P2para>
+                                    <Text>Where an English contributory employee who is, or is deemed to be, in course of paying such a sum as aforesaid by instalments ceases to hold his employment and becomes a Scottish local Act contributor, the provisions of the scheme made under section 22 of the Scottish Act by the Scottish local Act authority whose employment he has entered and for the time being in force relating to the reckoning of previous service by a person who, having been a Scottish contributory employee paying such a sum as aforesaid by instalments under regulations made by the Secretary of State under sections 1 and 2 of the Act of 1953, has become subject to the local Act scheme administered by the Scottish local Act authority shall apply as if the scheme contained a similar provision in relation to such English contributory employee as aforesaid in terms applicable to regulations made by the Minister under sections 1 and 2 of the Act of 1953.</Text>
+                                 </P2para>
+                              </P2>
+                           </P1para>
+                        </P1>
+                     </P1group>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Reduction of allowance during re-employment in Scotland and adjustment of rights thereafter</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/6" id="regulation-6">
+               <Pnumber>6</Pnumber>
+               <P1para>
+                  <Text>In regulation 14 (which relates to reduction of superannuation allowances during re-employment and adjustment of rights thereafter) for paragraph (2) there shall be substituted the following paragraph:—</Text>
+                  <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="double">
+                     <P2>
+                        <Pnumber>2</Pnumber>
+                        <P2para>
+                           <Text>In any such case as aforesaid—</Text>
+                           <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                 <Text>the superannuation allowance shall be deemed to be an allowance to which subsection (2) of section 26 of the Scottish Act applies;</Text>
+                              </P3para>
+                           </P3>
+                           <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                 <Text>the service in respect of which the allowance was granted shall be reckonable as service for the purpose of determining whether the person is entitled to become a Scottish contributory employee or a Scottish local Act contributor; and</Text>
+                              </P3para>
+                           </P3>
+                           <P3>
+                              <Pnumber>c</Pnumber>
+                              <P3para>
+                                 <Text>regulations made under the said subsection shall apply accordingly with any necessary modifications including the modification that references to a local authority or an authority shall be construed as if they included references to an English local authority or an English authority respectively, and that references to the Scottish Act and to the Scottish benefits regulations shall be construed as if they included references to the corresponding provisions of the English Act and the English benefits regulations.</Text>
+                              </P3para>
+                           </P3>
+                        </P2para>
+                     </P2>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Re-employment in Scotland of certain English pensioners</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/7" id="regulation-7">
+               <Pnumber>7</Pnumber>
+               <P1para>
+                  <Text>After regulation 14 there shall be inserted the following regulation:—</Text>
+                  <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="double">
+                     <P1group>
+                        <Title>Re-employment in Scotland of certain English pensioners</Title>
+                        <P1>
+                           <Pnumber>14A</Pnumber>
+                           <P1para>
+                              <P2>
+                                 <Pnumber>1</Pnumber>
+                                 <P2para>
+                                    <Text>Where a person having left the employment of an English local authority is entitled to a pension or injury allowance payable under an English local Act scheme then if he enters the employment of a Scottish employing authority or a Scottish local Act authority and that pension or allowance is on that account liable to be reduced or suspended, the service in respect of which that pension or allowance was granted shall be deemed to be service rendered to a Scottish local authority for the purpose of determining whether the person is entitled to become a Scottish contributory employee or a Scottish local Act contributor, or to receive a benefit under the Scottish benefits regulations or, as the case may be, under the Scottish local Act scheme, but for no other purpose.</Text>
+                                 </P2para>
+                              </P2>
+                              <P2>
+                                 <Pnumber>2</Pnumber>
+                                 <P2para>
+                                    <Text>In the calculation of any benefit payable to or in respect of such a person as a Scottish contributory employee or Scottish local Act contributor, regulations made by the Secretary of State under subsection (2) of section 6 of the Act of 1953 (which relates to the re-employment of certain pensioners) shall apply as if the years of service in respect of which the pension or allowance was granted had been reckonable under a Scottish local Act scheme.</Text>
+                                 </P2para>
+                              </P2>
+                           </P1para>
+                        </P1>
+                     </P1group>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Amendments with respect to the reckoning of previous Scottish service</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/8" id="regulation-8">
+               <Pnumber>8</Pnumber>
+               <P1para>
+                  <Text>In regulation 15 (which relates to the reckoning of previous service)—</Text>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/8/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/8/a" id="regulation-8-a">
+                     <Pnumber>a</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (1) after the words <InlineAmendment>“a Scottish local Act contributor”</InlineAmendment> there shall be inserted the words <InlineAmendment>“(other than a person to whom regulation 25 or 25A of these regulations applies)”</InlineAmendment>;</Text>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/8/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/8/b" id="regulation-8-b">
+                     <Pnumber>b</Pnumber>
+                     <P3para>
+                        <Text>for paragraph (2) there shall be substituted the following paragraph—</Text>
+                        <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="double">
+                           <P2>
+                              <Pnumber>2</Pnumber>
+                              <P2para>
+                                 <Text>If a person to whom this article applies was a Scottish contributory employee and is an English contributory employee he shall</Text>
+                                 <P3>
+                                    <Pnumber>a</Pnumber>
+                                    <P3para>
+                                       <Text>be entitled to reckon as contributing service, non-contributing service and qualifying service respectively under the English Act all service (other than added years) which in relation to his Scottish employment he was entitled to reckon as contributing service, non-contributing service and qualifying service under the Scottish Act immediately before he ceased to hold that employment;</Text>
+                                    </P3para>
+                                 </P3>
+                                 <P3>
+                                    <Pnumber>b</Pnumber>
+                                    <P3para>
+                                       <Text>in respect of added years enjoy rights and be subject to liabilities as if, instead of having been a Scottish contributory employee, he had been an English contributory employee.</Text>
+                                    </P3para>
+                                 </P3>
+                              </P2para>
+                           </P2>
+                        </BlockAmendment>
+                        <AppendText>;</AppendText>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/8/c/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/8/c" id="regulation-8-c">
+                     <Pnumber>c</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (4) after the words <InlineAmendment>“previous service”</InlineAmendment> there shall be added the words <InlineAmendment>“and of added years”</InlineAmendment>;</Text>
+                     </P3para>
+                  </P3>
+                  <P3 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/8/d/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/8/d" id="regulation-8-d">
+                     <Pnumber>d</Pnumber>
+                     <P3para>
+                        <Text>in paragraph (5) the words <InlineAmendment>“or service for the purposes of a local Act scheme”</InlineAmendment> and the words <InlineAmendment>“or local Act contributor”</InlineAmendment> shall be omitted.</Text>
+                     </P3para>
+                  </P3>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Payments in respect of Scottish non-contributing service</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/9/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/9" id="regulation-9">
+               <Pnumber>9</Pnumber>
+               <P1para>
+                  <Text>For regulation 23 there shall be substituted the following regulation:—</Text>
+                  <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="double">
+                     <P1group>
+                        <Title>Payments under subsections (3) and (4) of section 2 of the Act of 1953</Title>
+                        <P1>
+                           <Pnumber>23</Pnumber>
+                           <P1para>
+                              <P2>
+                                 <Pnumber>1</Pnumber>
+                                 <P2para>
+                                    <Text>Where a Scottish contributory employee who is, or by virtue of subsection (4) of section 2 of the Act of 1953 is deemed to be, in course of paying a sum by instalments in pursuance of subsection (3) of that section ceases to hold his employment and becomes an English contributory employee in such circumstances that if the employment he holds were a Scottish employment the provisions of paragraph 5 of the second schedule to the Scottish benefits regulations would become applicable in relation to him, the corresponding provisions of the regulations made by the Minister under sections 1 and 2 of the Act of 1953 and for the time being in force shall apply in relation to him and to the English employing authority as if he had previously been an English contributory employee paying a sum by instalments under those regulations.</Text>
+                                 </P2para>
+                              </P2>
+                              <P2>
+                                 <Pnumber>2</Pnumber>
+                                 <P2para>
+                                    <Text>Where a Scottish contributory employee who is, or is deemed to be, in course of paying such a sum as aforesaid by instalments ceases to hold his employment and becomes an English local Act contributor, the provisions of the scheme made under section 26 of the English Act by the English local Act authority whose employment he has entered and for the time being in force relating to the reckoning of previous service by a person who having been an English contributory employee paying such a sum as aforesaid by instalments under regulations made by the Minister under sections 1 and 2 of the Act of 1953 has become subject to the local Act scheme administered by the English local Act authority, shall apply as if the scheme contained a similar provision in relation to such Scottish contributory employee as aforesaid in terms applicable to regulations made by the Secretary of State under sections 1 and 2 of the Act of 1953.</Text>
+                                 </P2para>
+                              </P2>
+                           </P1para>
+                        </P1>
+                     </P1group>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Reduction of allowance during re-employment in England and adjustment of rights thereafter</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/10/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/10" id="regulation-10">
+               <Pnumber>10</Pnumber>
+               <P1para>
+                  <Text>In regulation 25 (which relates to reduction of superannuation allowances during re-employment and adjustment of rights thereafter) for paragraph (2) there shall be substituted the following paragraph:—</Text>
+                  <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="double">
+                     <P2>
+                        <Pnumber>2</Pnumber>
+                        <P2para>
+                           <Text>In any such case as aforesaid—</Text>
+                           <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                 <Text>the superannuation allowance shall be deemed to be an allowance to which subsection (2) of section 31 of the English Act applies;</Text>
+                              </P3para>
+                           </P3>
+                           <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                 <Text>the service in respect of which the allowance was granted shall be reckonable as service for the purpose of determining whether the person is entitled to become an English contributory employee or an English local Act contributor; and</Text>
+                              </P3para>
+                           </P3>
+                           <P3>
+                              <Pnumber>c</Pnumber>
+                              <P3para>
+                                 <Text>regulations made under the said subsection shall apply accordingly with any necessary modifications including the modification that references to a local authority or an authority shall be construed as if they included references to a Scottish local authority or a Scottish authority respectively, and that references to the English Act and to the English benefits regulations shall be construed as if they included references to the corresponding provisions of the Scottish Act and the Scottish benefits regulations.</Text>
+                              </P3para>
+                           </P3>
+                        </P2para>
+                     </P2>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Re-employment in England of certain Scottish pensioners</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/regulation/11/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/regulation/11" id="regulation-11">
+               <Pnumber>11</Pnumber>
+               <P1para>
+                  <Text>After regulation 25 there shall be inserted the following regulation:—</Text>
+                  <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="double">
+                     <P1group>
+                        <Title>Re-employment in England of certain Scottish pensioners</Title>
+                        <P1>
+                           <Pnumber>25A</Pnumber>
+                           <P1para>
+                              <P2>
+                                 <Pnumber>1</Pnumber>
+                                 <P2para>
+                                    <Text>Where a person having left the employment of a Scottish local authority is entitled to a pension or injury allowance payable under a Scottish local Act scheme then if he enters the employment of an English employing authority or an English local Act authority and that pension or allowance is on that account liable to be reduced or suspended, the service in respect of which that pension or allowance was granted shall be deemed to be service rendered to an English local authority for the purpose of determining whether the person is entitled to become an English contributory employee or an English local Act contributor, or to receive a benefit under the English benefits regulations or, as the case may be, under the English local Act scheme, but for no other purpose.</Text>
+                                 </P2para>
+                              </P2>
+                              <P2>
+                                 <Pnumber>2</Pnumber>
+                                 <P2para>
+                                    <Text>In the calculation of any benefit payable to or in respect of such a person as an English contributory employee or an English local Act contributor, regulations made by the Minister under subsection (2) of section 6 of the Act of 1953 shall apply as if the years of service in respect of which the pension or allowance was granted had been reckonable under an English local Act scheme.</Text>
+                                 </P2para>
+                              </P2>
+                           </P1para>
+                        </P1>
+                     </P1group>
+                  </BlockAmendment>
+               </P1para>
+            </P1>
+         </P1group>
+         <SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/signature">
+            <Signatory>
+               <Para>
+                  <Text>Given under the official seal of the Minister of Housing and Local Government this seventeenth day of September, nineteen hundred and fifty-four.</Text>
+               </Para>
+               <Signee>
+                  <LSseal/>
+                  <PersonName>Harold Macmillan</PersonName>
+                  <JobTitle>Minister of Housing and Local Government</JobTitle>
+               </Signee>
+            </Signatory>
+            <Signatory>
+               <Para>
+                  <Text>Given under the seal of the Secretary of State for Scotland this twenty-first day of September, nineteen hundred and fifty-four.</Text>
+               </Para>
+               <Signee>
+                  <LSseal/>
+                  <PersonName>James Stuart</PersonName>
+                  <JobTitle>Secretary of State</JobTitle>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </Body>
+      <ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/1954/1250/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/1954/1250/note">
+         <Title>EXPLANATORY NOTE</Title>
+         <P>
+            <Text>These regulations amend the Local Government Superannuation (England and Scotland) Regulations, 1948 (which regulate the superannuation rights of persons who having been in superannuable Local Government employment in England move to superannuable Local Government employment in Scotland and the corresponding rights of persons who move from Scotland to England). The amendments are consequential on the Local Government Superannuation Act, 1953 and provide for the reckoning of qualifying service (i.e. service reckonable for the purpose of determining a person's right to superannuation benefits but not for calculating the amount of the benefits) and additional years of service which may now be granted to certain persons with special professional or other qualifications (regulations 4 and 8); for the continuation of payments made as a condition of reckoning non-contributing service as contributing service (regulations 5 and 9); and for the rights of certain re-employed pensioners (regulations 6, 7, 10 and 11).</Text>
+         </P>
+      </ExplanatoryNotes>
+   </Secondary>
+   <Footnotes>
+      <Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>(<Abbreviation Expansion="Reverand">Rev.</Abbreviation>
+                  <Acronym Expansion="17">XVII</Acronym>, p. 813: 1948 I, p. 3304).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00002">
+         <FootnoteText>
+            <Para>
+               <Text>(1949 I, p. 3052).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00003">
+         <FootnoteText>
+            <Para>
+               <Text>p. 1595 below.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00004">
+         <FootnoteText>
+            <Para>
+               <Text>p. 1632 below.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+   </Footnotes>
+</Legislation>

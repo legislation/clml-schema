@@ -27,9 +27,9 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name						Modification
-			2.0			Colin Mackenzie					Numbering restarted at 2 for new EU and merged schema
-			0.1			Jeni Tennison		Created
-			0.2			Jeni Tennison		Added SubSubSubDivision
+			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
+			0.1			Jeni Tennison			Created
+			0.2			Jeni Tennison			Added SubSubSubDivision
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>

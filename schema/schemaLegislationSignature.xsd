@@ -17,12 +17,13 @@
 				<dcq:created>2003-03-10</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-04-28</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.1			William Jonadoss	Added Time attribute to Signatory
+			2.4			Karl Rajangam		Document update of SignedSection and Signatory
+			2.4			William Jonadoss	Added Time attribute to Signatory
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.2			William Holmes		Added Time attribute to DateSigned
 			1.2			Jim Mangiafico		Expanded to accommodate European Union legislation
@@ -33,7 +34,7 @@
 	</xsd:annotation>
 	<xsd:element name="SignedSection">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level container for a signature.</xsd:documentation>
+			<xsd:documentation>This is the top level container for a signature. And it can hold information about one or more persons (Signatory) connected by some reasons. This can occur in both primary and secondary legislation although they are very rare in primary legislation</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -47,7 +48,7 @@
 	</xsd:element>
 	<xsd:element name="Signatory">
 		<xsd:annotation>
-			<xsd:documentation>The person(s) signing-off the document. A group of signees may have lead-in text.</xsd:documentation>
+			<xsd:documentation>The person(s) signing-off the document. Each 'Signatory' can contain one or more 'Signee' and 'Para' elements. It may also have a Date attribute</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

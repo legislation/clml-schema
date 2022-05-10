@@ -1,0 +1,311 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38" NumberOfProvisions="1034" RestrictEndDate="2014-04-15" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictStartDate="2014-04-01" RestrictExtent="E+W+S+N.I.">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01</dc:identifier>
+		<dc:title>Transport Act 2000</dc:title>
+		<dc:description>An Act to make provision about transport.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2022-03-15</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2014-04-01</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/2000/38/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/ukpga/2000/38/notes/contents" title="Explanatory Notes Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/2000/38/2014-04-01" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/2000/38/introduction/2014-04-01" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/2000/38/body/2014-04-01" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/2000/38/schedules/2014-04-01" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/2000/38/contents/2014-04-01" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2003-06-20" title="2003-06-20"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2021-06-29" title="2021-06-29"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2001-02-01" title="2001-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2003-06-20" title="2003-06-20"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2021-06-29" title="2021-06-29"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2000/38/section/19" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/2000/38/2014-04-01" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/2000/38/section/18/2014-04-01" title="Provision; Section 18"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/2000/38/section/18/2014-04-01" title="Provision; Section 18"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/2000/38/section/20/2014-04-01" title="Provision; Section 20"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/2000/38/section/20/2014-04-01" title="Provision; Section 20"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2000"/>
+			<ukm:Number Value="38"/>
+			<ukm:EnactmentDate Date="2000-11-30"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-d7b1084dc88f13b32fab2ef7bacc4aa4" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2005/14" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-d7b1084dc88f13b32fab2ef7bacc4aa4" Row="1003" Type="repealed" RequiresApplied="true" AffectedProvisions="Sch. 16 para. 34(4)(a) para. 34(4)(b) (c)" AffectedExtent="E+W+S" AffectedEffectsExtent="E+W+S" AffectingEffectsExtent="E+W+S" AffectingYear="2005" AffectingNumber="14" AffectingProvisions="Sch. 13 Pt. 1" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-16" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/16">Sch. 16 </ukm:Section><ukm:Section Ref="schedule-16-paragraph-34-4-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/16/paragraph/34/4/a">para. 34(4)(a)</ukm:Section>
+						<ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="paragraph-34-4-b" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/paragraph/34/4/b" err:Ref="Section missing in legislation" Missing="true">para. 34(4)(b)</ukm:Section>
+						<ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="paragraph-34-4-c" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/paragraph/34/4/c" err:Ref="Section missing in legislation" Missing="true">(c)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Railways Act 2005</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-13" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/schedule/13">Sch. 13 </ukm:Section><ukm:Section Ref="schedule-13-part-1" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/schedule/13/part/1">Pt. 1</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-14-4" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/14/4">s. 14(4)</ukm:Section>
+						<ukm:Section Ref="section-14-5" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/14/5">(5)</ukm:Section>
+						<ukm:Section Ref="schedule-11" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/schedule/11">Sch. 11 </ukm:Section><ukm:Section Ref="schedule-11-paragraph-11-2" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/schedule/11/paragraph/11/2">para. 11(2)</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-60-2" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/60/2">s. 60(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3534bd9ca4cb5c7b2c93aeef95135515" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-3534bd9ca4cb5c7b2c93aeef95135515" Row="437" Type="words omitted" RequiresApplied="false" AffectedProvisions="s. 131A(2)(a)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 13(a)(i)" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-131A-2-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/131A/2/a" FoundRef="section-131A">s. 131A(2)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-13-a-i" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/13/a/i">para. 13(a)(i)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-38ebc21a936ca8deea0711dc64021689" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-38ebc21a936ca8deea0711dc64021689" Row="438" Type="omitted" RequiresApplied="false" AffectedProvisions="s. 131A(2)(b)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 13(a)(ii)" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-131A-2-b" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/131A/2/b" FoundRef="section-131A">s. 131A(2)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-13-a-ii" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/13/a/ii">para. 13(a)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-14dd82a809a90aa71d23e0120e7c2992" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-14dd82a809a90aa71d23e0120e7c2992" Row="439" Type="omitted" RequiresApplied="false" AffectedProvisions="s. 131A(4)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 13(b)" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-131A-4" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/131A/4" FoundRef="section-131A">s. 131A(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-13-b" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/13/b">para. 13(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-c4823db800365c842e8f693b0805b819" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-c4823db800365c842e8f693b0805b819" Row="441" Type="words omitted" RequiresApplied="false" AffectedProvisions="s. 131A(5)(b)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 13(c)(i)" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-131A-5-b" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/131A/5/b" FoundRef="section-131A">s. 131A(5)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-13-c-i" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/13/c/i">para. 13(c)(i)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8709572e18bc1d41c4361ec569db0f97" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-8709572e18bc1d41c4361ec569db0f97" Row="442" Type="words omitted" RequiresApplied="false" AffectedProvisions="s. 131A(5)(c)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 13(c)(ii)" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-131A-5-c" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/131A/5/c" FoundRef="section-131A">s. 131A(5)(c)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-13-c-ii" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/13/c/ii">para. 13(c)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4a8fea4f7e99c8d9e198fac127b3e073" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2017/21" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-4a8fea4f7e99c8d9e198fac127b3e073" Row="489" Type="omitted" RequiresApplied="false" AffectedProvisions="s. 132B(1)(a)" Comments="These amendments have been completed manually at higher level. The correct information has been added to the manual annotations." AffectedExtent="E+W" AffectingEffectsExtent="E+W" AffectingYear="2017" AffectingNumber="21" AffectingProvisions="Sch. 2 para. 19" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z" AppliedModified="2019-06-25T12:49:29.514701+01:00">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-132B-1-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/132B/1/a" FoundRef="section-132B">s. 132B(1)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Bus Services Act 2017</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2">Sch. 2 </ukm:Section><ukm:Section Ref="schedule-2-paragraph-19" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/schedule/2/paragraph/19">para. 19</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-26-3" URI="http://www.legislation.gov.uk/id/ukpga/2017/21/section/26/3">s. 26(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2017-04-27" Qualification="for specified purposes"/>
+						<ukm:InForce Date="2017-06-27" Qualification="in force in so far as not already in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-aae2c7401a2a2883ff53f3256cc2b87e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/uksi/2011/1043" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-aae2c7401a2a2883ff53f3256cc2b87e" Row="1206" Type="words substituted" RequiresApplied="false" AffectedProvisions="Blanket amendment" Comments="The words &#34;the European Communities or to the European Community or the European Coal and Steel Community (including references to â€œthe Communitiesâ€&#157;, â€œthe Communityâ€&#157;, â€œthe ECâ€&#157; or â€œthe EECâ€&#157;)&#34; do not appear in the text." AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2011" AffectingNumber="1043" AffectingProvisions="art. 3 4" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Blanket amendment</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Treaty of Lisbon (Changes in Terminology) Order 2011</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="article-3" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/3">art. 3</ukm:Section>
+						<ukm:Section Ref="article-4" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/4">4</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="article-3-2" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/3/2">art. 3(2)</ukm:Section><ukm:Section Ref="article-3-3" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/3/3">art. 3(3)</ukm:Section>
+						<ukm:Section Ref="article-4-2" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/4/2">4(2)</ukm:Section>
+						<ukm:Section Ref="article-6-4" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/6/4">6(4)</ukm:Section><ukm:Section Ref="article-6-5" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/6/5">(5)</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-2" URI="http://www.legislation.gov.uk/id/uksi/2011/1043/article/2">art. 2</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2011-04-22" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-b689a721bccf58ae2152717937364a3e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/1245" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-b689a721bccf58ae2152717937364a3e" Row="115" Type="word omitted by virtue of S.I. 2019/93, Sch. 1 para. 9(1C)(a) (as inserted)" RequiresApplied="false" AffectedProvisions="s. 19(2)(a)" Notes="This amendment not applied to legislation.gov.uk. The affecting statutory instrument has no legal effect. It was made under a procedure which meant that it ceased to have effect 28 days after signing unless it was debated and approved in Parliament within that time. It was not debated and approved within 28 days, so it has expired with no effect." Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(with S.I. 2019/93, Sch. 4 paras. 7, 13, 15A, 15B as amended by reg. 35(2)-(8)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="1245" AffectingProvisions="reg. 25" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-19-2-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/a">s. 19(2)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Competition (Amendment etc.) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-25" URI="http://www.legislation.gov.uk/id/uksi/2019/1245/regulation/25">reg. 25</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/1245/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4b4b104a0d4566609dfba1d4a86abe0d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/1245" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4b4b104a0d4566609dfba1d4a86abe0d" Row="116" Type="inserted by S.I. 2019/93, Sch. 1 para. 9(1C)(b) (as inserted)" RequiresApplied="false" AffectedProvisions="s. 19(2)(aa)" Notes="This amendment not applied to legislation.gov.uk. The affecting statutory instrument has no legal effect. It was made under a procedure which meant that it ceased to have effect 28 days after signing unless it was debated and approved in Parliament within that time. It was not debated and approved within 28 days, so it has expired with no effect." Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(with S.I. 2019/93, Sch. 4 paras. 7, 13, 15A, 15B as amended by reg. 35(2)-(8)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="1245" AffectingProvisions="reg. 25" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-19-2-aa" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/aa" FoundRef="section-19">s. 19(2)(aa)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Competition (Amendment etc.) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-25" URI="http://www.legislation.gov.uk/id/uksi/2019/1245/regulation/25">reg. 25</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/1245/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2883f78a430fb443e3d993003d9886b9" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-2883f78a430fb443e3d993003d9886b9" Row="48" Type="" RequiresApplied="true" AffectedProvisions="s. 146(1)(defn.)(a)(b)" AffectedExtent="E+W" AffectingYear="2000" AffectingNumber="38" AffectingProvisions="s. 274 Sch. 31 Pt. 2" AffectedYear="2000" AffectedNumber="38" Modified="2022-03-15T10:47:22Z">
+					<ukm:AffectedTitle>Transport Act 2000</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="section" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section" err:Ref="Section missing in legislation" Missing="true">s. </ukm:Section>146(1)(defn.)(a)(b)</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport Act 2000</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-274" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/274">s. 274</ukm:Section>
+						<ukm:Section Ref="schedule-31" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/31">Sch. 31 </ukm:Section><ukm:Section Ref="schedule-31-part-II" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/31/part/II">Pt. 2</ukm:Section></ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/ukpga/2000/38/pdfs/ukpgaen_20000038_en.pdf" Title="Explanatory Note"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/ukpga/2000/38/pdfs/ukpga_20000038_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="1037"/>
+			<ukm:BodyParagraphs Value="346"/>
+			<ukm:ScheduleParagraphs Value="691"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/body/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/body" NumberOfProvisions="346" RestrictExtent="E+W+S+N.I." RestrictStartDate="2014-04-01" RestrictEndDate="2014-04-15">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/part/I/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/part/I" NumberOfProvisions="109" RestrictEndDate="2015-01-31" id="part-I" RestrictStartDate="2014-04-01" RestrictExtent="E+W+S+N.I.">
+				<Number>Part I</Number>
+				<Title> Air traffic</Title>
+				<Chapter DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/part/I/chapter/I/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/part/I/chapter/I" NumberOfProvisions="42" RestrictEndDate="2021-06-29" id="part-I-chapter-I" RestrictStartDate="2014-04-01" RestrictExtent="E+W+S+N.I.">
+					<Number>Chapter I</Number>
+					<Title> Air traffic services</Title>
+					<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/part/I/chapter/I/crossheading/modification-of-licences/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/part/I/chapter/I/crossheading/modification-of-licences" NumberOfProvisions="11" RestrictEndDate="2021-06-29" id="part-I-chapter-I-crossheading-modification-of-licences" RestrictStartDate="2014-04-01" RestrictExtent="E+W+S+N.I.">
+						<Title> Modification of licences</Title>
+						<P1group RestrictEndDate="2021-06-29" ConfersPower="true" RestrictStartDate="2014-04-01" RestrictExtent="E+W+S+N.I.">
+							<Title> Modification by order under other enactments.</Title>
+							<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19" id="section-19">
+								<Pnumber><CommentaryRef Ref="c14878881"/>19</Pnumber>
+								<P1para>
+									<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/1/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/1" id="section-19-1">
+										<Pnumber><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">1</Substitution></Pnumber>
+										<P2para>
+											<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">Where the </Substitution><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865"><Substitution ChangeId="key-f7862bd68ce03862879d329c6a693098-1560248756626" CommentaryRef="key-f7862bd68ce03862879d329c6a693098">CMA</Substitution></Substitution><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865"> or (as the case may be) the Secretary of State (in this section “</Substitution><Term><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">the relevant authority</Substitution></Term><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">”) makes a relevant order, the order may also provide for the modification of the conditions of a licence to such extent as may appear to the relevant authority to be requisite or expedient for the purpose of giving effect to, or taking account of, any provision made by the order.</Substitution></Text>
+										</P2para>
+									</P2>
+									<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2" id="section-19-2">
+										<Pnumber><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">2</Substitution></Pnumber>
+										<P2para>
+											<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">In subsection (1) above “</Substitution><Term><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">relevant order</Substitution></Term><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">” means—</Substitution></Text>
+											<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2/a/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/a" id="section-19-2-a">
+												<Pnumber><CommentaryRef Ref="key-c8f55c6a5354c6fa58b9207594c8dc6b"/><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">a</Substitution></Pnumber>
+												<P3para>
+													<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">an order under section 75, 83 or 84 of, or paragraph 5, 10 or 11 of Schedule 7 to, the 2002 Act where—</Substitution></Text>
+													<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2/a/i/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/a/i" id="section-19-2-a-i">
+														<Pnumber><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">i</Substitution></Pnumber>
+														<P4para>
+															<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">one or more than one of the enterprises which have, or may have, ceased to be distinct enterprises was engaged in the provision of air traffic services; or</Substitution></Text>
+														</P4para>
+													</P4>
+													<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2/a/ii/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/a/ii" id="section-19-2-a-ii">
+														<Pnumber><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">ii</Substitution></Pnumber>
+														<P4para>
+															<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">one or more than one of the enterprises which will or may cease to be distinct enterprises is engaged in the provision of air traffic services; or</Substitution></Text>
+														</P4para>
+													</P4>
+												</P3para>
+											</P3>
+											<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/2/b/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/b" id="section-19-2-b">
+												<Pnumber><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">b</Substitution></Pnumber>
+												<P3para>
+													<Text><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865">an order under section 160 or 161 of that Act where the feature, or combination of features, of the market </Substitution><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865"><Addition ChangeId="key-900109e9ac94464cb7d3364feef5017e-1560248808542" CommentaryRef="key-900109e9ac94464cb7d3364feef5017e">or markets</Addition></Substitution><Substitution ChangeId="key-5210e8714467b4c8ba8934a7edfc1865-1507641864822" CommentaryRef="key-5210e8714467b4c8ba8934a7edfc1865"> in the United Kingdom for goods or services which prevents, restricts or distorts competition relates to the provision of air traffic services.</Substitution></Text>
+												</P3para>
+											</P3>
+										</P2para>
+									</P2>
+									<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/5/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/5" id="section-19-5">
+										<Pnumber>5</Pnumber>
+										<P2para>
+											<Text>As soon as practicable after making modifications under this section the <Substitution ChangeId="key-1738ac3aaedd7f8405e7435f286f9272-1507641987674" CommentaryRef="key-1738ac3aaedd7f8405e7435f286f9272">relevant authority</Substitution> must send a copy of them to the licence holder and a copy to the CAA.</Text>
+										</P2para>
+									</P2>
+									<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/6/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/6" id="section-19-6">
+										<Pnumber><Substitution ChangeId="key-06783f45d270920ba5be2092214f1add-1507642074226" CommentaryRef="key-06783f45d270920ba5be2092214f1add">6</Substitution></Pnumber>
+										<P2para>
+											<Text><Substitution ChangeId="key-06783f45d270920ba5be2092214f1add-1507642074226" CommentaryRef="key-06783f45d270920ba5be2092214f1add">Expressions used in subsection (2) above and in Part 3 or (as the case may be) Part 4 of the 2002 Act have the same meanings in that subsection as in that Part.</Substitution></Text>
+										</P2para>
+									</P2>
+									<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/2000/38/section/19/7/2014-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/7" id="section-19-7">
+										<Pnumber>7</Pnumber>
+										<P2para>
+											<Text>The <Substitution ChangeId="key-163d56bc2623e6a9710b1199d1e2df31-1507642142157" CommentaryRef="key-163d56bc2623e6a9710b1199d1e2df31">2002 Act is the Enterprise Act 2002</Substitution>.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+						</P1group>
+					</Pblock>
+				</Chapter>
+			</Part>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="c14878881" Type="I"><Para>
+				<Text>S. 19 wholly in force at 1.2.2001, see s. 275(1)(2) and <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/57" id="c00170" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="57">S.I. 2001/57</Citation>, <CitationSubRef id="c00171" CitationRef="c00170" URI="http://www.legislation.gov.uk/id/uksi/2001/57/article/3/1" SectionRef="article-3-1">art. 3(1)</CitationSubRef>, <CitationSubRef id="c00172" CitationRef="c00170" URI="http://www.legislation.gov.uk/id/uksi/2001/57/schedule/2/part/I" Operative="true" SectionRef="schedule-2-part-I">Sch. 2 Pt. I</CitationSubRef> (subject to the transitional provision and saving in <CitationSubRef id="c00173" CitationRef="c00170" URI="http://www.legislation.gov.uk/id/uksi/2001/57/schedule/2/part/II" SectionRef="schedule-2-part-II">Sch. 2 Pt. II</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="key-5210e8714467b4c8ba8934a7edfc1865" Type="F"><Para>
+				<Text>S. 19(1)(2) substituted for s. 19(1)-(4) (20.6.2003) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/40" id="cq7y7ff82-00007" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="40" Title="Enterprise Act 2002">Enterprise Act 2002 (c. 40)</Citation>, <CitationSubRef id="cq7y7ff82-00008" CitationRef="cq7y7ff82-00007" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/section/279" SectionRef="section-279">s. 279</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00009" CitationRef="cq7y7ff82-00007" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/schedule/9/paragraph/15/2" SectionRef="schedule-9-paragraph-15-2" Operative="true">Sch. 9 para. 15(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1397" id="cq7y7ff82-00010" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1397" Title="The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003">S.I. 2003/1397</Citation>, <CitationSubRef id="cq7y7ff82-00011" CitationRef="cq7y7ff82-00010" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/article/2/1" SectionRef="article-2-1">art. 2(1)</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00012" CitationRef="cq7y7ff82-00010" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/schedule" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-1738ac3aaedd7f8405e7435f286f9272" Type="F"><Para>
+				<Text>Words in s. 19(5) substituted (20.6.2003) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/40" id="cq7y7ff82-00019" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="40" Title="Enterprise Act 2002">Enterprise Act 2002 (c. 40)</Citation>, <CitationSubRef id="cq7y7ff82-00020" CitationRef="cq7y7ff82-00019" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/section/279" SectionRef="section-279">s. 279</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00021" CitationRef="cq7y7ff82-00019" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/schedule/9/paragraph/15/3" SectionRef="schedule-9-paragraph-15-3" Operative="true">Sch. 9 para. 15(3)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1397" id="cq7y7ff82-00022" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1397" Title="The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003">S.I. 2003/1397</Citation>, <CitationSubRef id="cq7y7ff82-00023" CitationRef="cq7y7ff82-00022" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/article/2/1" SectionRef="article-2-1">art. 2(1)</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00024" CitationRef="cq7y7ff82-00022" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/schedule" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-06783f45d270920ba5be2092214f1add" Type="F"><Para>
+				<Text>S. 19(6) substituted (20.6.2003) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/40" id="cq7y7ff82-00032" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="40" Title="Enterprise Act 2002">Enterprise Act 2002 (c. 40)</Citation>, <CitationSubRef id="cq7y7ff82-00033" CitationRef="cq7y7ff82-00032" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/section/279" SectionRef="section-279">s. 279</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00034" CitationRef="cq7y7ff82-00032" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/schedule/9/paragraph/15/4" SectionRef="schedule-9-paragraph-15-4" Operative="true">Sch. 9 para. 15(4)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1397" id="cq7y7ff82-00035" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1397" Title="The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003">S.I. 2003/1397</Citation>, <CitationSubRef id="cq7y7ff82-00036" CitationRef="cq7y7ff82-00035" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/article/2/1" SectionRef="article-2-1">art. 2(1)</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00037" CitationRef="cq7y7ff82-00035" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/schedule" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-163d56bc2623e6a9710b1199d1e2df31" Type="F"><Para>
+				<Text>Words in s. 19(7) substituted (20.6.2003) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/40" id="cq7y7ff82-00044" Class="UnitedKingdomPublicGeneralAct" Year="2002" Number="40" Title="Enterprise Act 2002">Enterprise Act 2002 (c. 40)</Citation>, <CitationSubRef id="cq7y7ff82-00045" CitationRef="cq7y7ff82-00044" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/section/279" SectionRef="section-279">s. 279</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00046" CitationRef="cq7y7ff82-00044" URI="http://www.legislation.gov.uk/id/ukpga/2002/40/schedule/9/paragraph/15/5" SectionRef="schedule-9-paragraph-15-5" Operative="true">Sch. 9 para. 15(5)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1397" id="cq7y7ff82-00047" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1397" Title="The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003">S.I. 2003/1397</Citation>, <CitationSubRef id="cq7y7ff82-00048" CitationRef="cq7y7ff82-00047" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/article/2/1" SectionRef="article-2-1">art. 2(1)</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00049" CitationRef="cq7y7ff82-00047" URI="http://www.legislation.gov.uk/id/uksi/2003/1397/schedule" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-c8f55c6a5354c6fa58b9207594c8dc6b" Type="C"><Para>
+				<Text>S. 19(2)(a) modified (20.6.2003) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/1592" id="cq7y7ff82-00056" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="1592" Title="The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003">The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 (S.I. 2003/1592)</Citation>, <CitationSubRef id="cq7y7ff82-00057" CitationRef="cq7y7ff82-00056" URI="http://www.legislation.gov.uk/id/uksi/2003/1592/article/1/1" SectionRef="article-1-1">art. 1(1)</CitationSubRef>, <CitationSubRef id="cq7y7ff82-00058" CitationRef="cq7y7ff82-00056" URI="http://www.legislation.gov.uk/id/uksi/2003/1592/schedule/4/paragraph/17" SectionRef="schedule-4-paragraph-17" Operative="true">Sch. 4 para. 17</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-f7862bd68ce03862879d329c6a693098" Type="F"><Para>
+				<Text>Word in <CitationSubRef id="cedz0fzf3-00006" SectionRef="section-19-1" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/1">s. 19(1)</CitationSubRef> substituted (1.4.2014) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2013/24" id="cedz0fzf3-00007" Class="UnitedKingdomPublicGeneralAct" Year="2013" Number="24" Title="Enterprise and Regulatory Reform Act 2013">Enterprise and Regulatory Reform Act 2013 (c. 24)</Citation>, <CitationSubRef id="cedz0fzf3-00008" CitationRef="cedz0fzf3-00007" SectionRef="section-103-3" URI="http://www.legislation.gov.uk/id/ukpga/2013/24/section/103/3">s. 103(3)</CitationSubRef>, <CitationSubRef id="cedz0fzf3-00009" CitationRef="cedz0fzf3-00007" SectionRef="schedule-6-paragraph-95" URI="http://www.legislation.gov.uk/id/ukpga/2013/24/schedule/6/paragraph/95" Operative="true">Sch. 6 para. 95</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/416" id="cedz0fzf3-00010" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="416" Title="The Enterprise and Regulatory Reform Act 2013 (Commencement No. 6, Transitional Provisions and Savings) Order 2014">S.I. 2014/416</Citation>, <CitationSubRef id="cedz0fzf3-00011" CitationRef="cedz0fzf3-00010" SectionRef="article-2-1-d" URI="http://www.legislation.gov.uk/id/uksi/2014/416/article/2/1/d">art. 2(1)(d)</CitationSubRef> (with <CitationSubRef id="cedz0fzf3-00012" CitationRef="cedz0fzf3-00010" SectionRef="schedule" URI="http://www.legislation.gov.uk/id/uksi/2014/416/schedule">Sch.</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="key-900109e9ac94464cb7d3364feef5017e" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="cedz0fzf3-00018" SectionRef="section-19-2-b" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/19/2/b">s. 19(2)(b)</CitationSubRef> inserted (1.4.2014) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/892" id="cedz0fzf3-00019" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="892" Title="The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014">The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)</Citation>, <CitationSubRef id="cedz0fzf3-00020" CitationRef="cedz0fzf3-00019" SectionRef="article-1-1" URI="http://www.legislation.gov.uk/id/uksi/2014/892/article/1/1">art. 1(1)</CitationSubRef>, <CitationSubRef id="cedz0fzf3-00021" CitationRef="cedz0fzf3-00019" SectionRef="schedule-1-paragraph-152" URI="http://www.legislation.gov.uk/id/uksi/2014/892/schedule/1/paragraph/152" Operative="true">Sch. 1 para. 152</CitationSubRef> (with <CitationSubRef id="cedz0fzf3-00022" CitationRef="cedz0fzf3-00019" SectionRef="article-3" URI="http://www.legislation.gov.uk/id/uksi/2014/892/article/3">art. 3</CitationSubRef>)</Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>

@@ -1,0 +1,80 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2019/1" IdURI="http://www.legislation.gov.uk/id/nisr/2019/1" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/nisr/2019/1</dc:identifier>
+		<dc:title>The Gas (Designation of Pipelines) Order (Northern Ireland) 2019</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Government Printer for Northern Ireland</dc:publisher>
+		<dc:modified>2019-01-11</dc:modified>
+		<dc:subject scheme="SIheading">GAS</dc:subject>
+		<dct:valid>2019-02-04</dct:valid>
+		<dc:description>Article 8(1) of the Gas (Northern Ireland) Order 1996 (“the Gas Order”) authorises the holder of a licence issued under sub-paragraph (a) to participate in the conveyance of gas from one place to another.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/nisr/2019/1/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2019/1/resources" title="More Resources"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/impacts" href="http://www.legislation.gov.uk/nisr/2019/1/impacts" title="Impact Assessments"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/nisr/2019/1/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/nisr/2019/1/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2019/1" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2019/1/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2019/1/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2019/1/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2019/1/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/nisr/2019/1/schedules" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/nisr/2019/1/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/nisr/2019/1/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/nisr/2019/1/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/nisr/2019/1/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/nisr/2019/1/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/nisr/2019/1/pdfs/nisr_20190001_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/nisr/2019/1/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/nisr/2019/1/made" title="made"/>
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2019"/>
+			<ukm:Number Value="1"/>
+			<ukm:Made Date="2019-01-09"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2019-02-04"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780338010186"/>
+		</ukm:SecondaryMetadata>
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/nisr/2019/1/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2019/1/pdfs/nisrem_20190001_en.pdf" Date="2019-01-14" Title="NI Explanatory Memorandum" Size="30007"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:OtherDocuments>
+			<ukm:OtherDocument URI="http://www.legislation.gov.uk/nisr/2019/1/pdfs/nisrod_20190001_en.pdf" Date="2019-01-14" Title="Rural Needs Impact Assessment" Size="117824"/>
+		</ukm:OtherDocuments>
+		<ukm:PolicyEqualityStatements>
+			<ukm:PolicyEqualityStatement URI="http://www.legislation.gov.uk/nisr/2019/1/pdfs/nisrpes_20190001_en.pdf" Date="2019-01-14" Title="Policy Equality Statement" Size="108631"/>
+		</ukm:PolicyEqualityStatements>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/nisr/2019/1/pdfs/nisr_20190001_en.pdf" Date="2019-01-14" Size="38208"/>
+		</ukm:Alternatives>
+		<ukm:ImpactAssessments>
+			<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ukia/2019/10/pdfs/ukia_20190010_en.pdf" Date="2019-01-14" Title="The Gas (Designation of Pipelines) Order (Northern Ireland) 2019" Stage="Final" Department="Department for the Economy" Year="2019" Number="10" Size="70207"/>
+		</ukm:ImpactAssessments>
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="3"/>
+			<ukm:BodyParagraphs Value="3"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

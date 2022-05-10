@@ -1,0 +1,126 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/asp/2005/10" IdURI="http://www.legislation.gov.uk/id/asp/2005/10" NumberOfProvisions="154" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="S" RestrictStartDate="2018-01-12">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/asp/2005/10</dc:identifier>
+		<dc:title>Charities and Trustee Investment (Scotland) Act 2005</dc:title>
+		<dc:description>An Act of the Scottish Parliament to make provision about charities and other benevolent bodies; to make provision about fundraising in connection with charities and other benevolent bodies; to amend the law in relation to the investment powers of trustees; and for connected purposes.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2018-03-08</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2018-01-12</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/asp/2005/10/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/asp/2005/10/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/asp/2005/10/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/asp/2005/10/notes/contents" title="Explanatory Notes Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/asp/2005/10" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/asp/2005/10/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/asp/2005/10/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/asp/2005/10/schedules" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/asp/2005/10/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/asp/2005/10/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/asp/2005/10/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/asp/2005/10/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/asp/2005/10/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/asp/2005/10/pdfs/asp_20050010_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/asp/2005/10/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/asp/2005/10/2016-11-30" title="2016-11-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2005-07-14" title="2005-07-14"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2006-01-01" title="2006-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2006-02-24" title="2006-02-24"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2006-04-01" title="2006-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2006-04-24" title="2006-04-24"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2007-02-27" title="2007-02-27"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2007-05-31" title="2007-05-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2007-10-01" title="2007-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2008-04-06" title="2008-04-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2008-06-27" title="2008-06-27"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2009-01-31" title="2009-01-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2009-10-01" title="2009-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2010-08-01" title="2010-08-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2010-10-01" title="2010-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2011-01-21" title="2011-01-21"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2011-02-28" title="2011-02-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2011-04-01" title="2011-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2012-01-01" title="2012-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2012-03-14" title="2012-03-14"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2012-04-01" title="2012-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2012-11-01" title="2012-11-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2013-04-01" title="2013-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2014-01-06" title="2014-01-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2014-08-01" title="2014-08-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2015-04-01" title="2015-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2016-11-30" title="2016-11-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/asp/2005/10/2018-01-12" title="2018-01-12"/>
+
+
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="ScottishAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2005"/>
+			<ukm:Number Value="10"/>
+			<ukm:EnactmentDate Date="2005-07-14"/>
+			<ukm:ISBN Value="0105900842"/>
+		</ukm:PrimaryMetadata>
+
+
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/6" title="Section 6: Applications: further procedure"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/7" title="Section 7: The charity test"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/15" title="Section 15: References in documents"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/19" title="Section 19: Removal from Register: protection of assets"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/23" title="Section 23: Entitlement to information about charities"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/25" title="Section 25: Removal of restrictions on disclosure of certain information"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/35" title="Section 35: Transfer schemes"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/39" title="Section 39: Reorganisation of charities: applications by charity"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/44" title="Section 44: Accounts"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/48" title="Section 48: Dormant accounts of charities: procedure and interpretation"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/52" title="Section 52: Name and status"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/64" title="Section 64: Regulations relating to SCIOs"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/82" title="Section 82: Prevention of unauthorised fundraising"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/83" title="Section 83: Regulations about fundraising"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/86" title="Section 86: Local authority consents"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/87" title="Section 87: Designated national collectors"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/90" title="Section 90: Regulations relating to public benevolent collections"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/91" title="Section 91: Collection of goods"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/99" title="Section 99: Population of Register etc."/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/102" title="Section 102: Ancillary provision"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/103" title="Section 103: Orders, regulations and rules"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/section/107" title="Section 107: Short title and commencement"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/schedule/1/paragraph/1" title="Schedule 1 paragraph 1: Membership"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/asp/2005/10/schedule/2/paragraph/4" title="Schedule 2 paragraph 4: Rules of procedure"/>
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/asp/2005/10/notes" DocumentURI="http://www.legislation.gov.uk/asp/2005/10/notes"/>
+			<ukm:CorrectionSlips>
+				<ukm:CorrectionSlip URI="http://www.legislation.gov.uk/asp/2005/10/pdfs/aspencs_20050010_en.pdf" Date="2012-06-01" Title="Correction Slip" Size="10656"/>
+			</ukm:CorrectionSlips>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/asp/2005/10/pdfs/aspen_20050010_en.pdf" Title="Explanatory Note"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/asp/2005/10/pdfs/asp_20050010_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="154"/>
+			<ukm:BodyParagraphs Value="114"/>
+			<ukm:ScheduleParagraphs Value="40"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

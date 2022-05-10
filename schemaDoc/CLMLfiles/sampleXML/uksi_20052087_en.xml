@@ -857,15 +857,10 @@
 		</Footnote>
 	</Footnotes>
 	
-<!-- This is the resources section of the document. All items such as images are stored in this section -->	
-<!-- See the 'Resources' section in the user guide for more details -->
-	
+	<!-- This is the resources section of the document. All items such as images are stored in this section -->	
+	<!-- See the 'Resources' section in the user guide for more details. Under 'Resource', an ExternalVersion element references a file external to the main file -->
 	<Resources>
 		<Resource id="r00001">
-
-<!-- An ExternalVersion element references a file external to the main file -->
-<!-- See the 'Resources' section in the user guide for more details -->
-
 			<ExternalVersion URI="uksi_20052087_en_001.tif" Format="tiff"/>
 		</Resource>
 	</Resources>

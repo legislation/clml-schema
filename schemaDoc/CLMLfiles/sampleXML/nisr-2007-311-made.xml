@@ -1,0 +1,769 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/nisr/2007/311/made</dc:identifier>
+		<dc:title>The Traffic Signs (Amendment) Regulations (Northern Ireland) 2007</dc:title>
+		<dc:subject>Car parking permits</dc:subject>
+		<dc:publisher>Government Printer for Northern Ireland</dc:publisher>
+		<dc:modified>2016-09-15</dc:modified>
+		<dc:subject scheme="SIheading">ROAD TRAFFIC AND VEHICLES</dc:subject>
+		<dc:description>These Regulations further amend the Traffic Signs Regulations (Northern Ireland) 1997.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/nisr/2007/311/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/nisr/2007/311/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/nisr/2007/311/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/nisr/2007/311/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/nisr/2007/311/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/nisr/2007/311/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/nisr/2007/311/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/nisr/2007/311/made/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/nisr/2007/311/pdfs/nisr_20070311_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/nisr/2007/311/contents/made" title="Table of Contents"/>
+
+
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2007"/>
+			<ukm:Number Value="311"/>
+			<ukm:Made Date="2007-06-26"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2007-10-08"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780337970634"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2007-12-05" URI="http://www.legislation.gov.uk/nisr/2007/311/pdfs/nisr_20070311_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="4"/>
+			<ukm:BodyParagraphs Value="4"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="7"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/introduction/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/introduction">
+			<Number>2007 No. 311</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>ROAD TRAFFIC AND VEHICLES</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Traffic Signs (Amendment) Regulations (Northern Ireland) 2007</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>26th June 2007</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into operation</Text>
+				<DateText>8th October 2007</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Department for Regional Development<FootnoteRef Ref="f00001"/> makes the following Regulations in exercise of the powers conferred by Article 28(2) of the Road Traffic Regulation (Northern Ireland) Order 1997<FootnoteRef Ref="f00002"/> and now vested in it<FootnoteRef Ref="f00003"/>:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/body/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/body" NumberOfProvisions="4" NumberFormat="default">
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/1" id="regulation-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as The Traffic Signs (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 8th October 2007.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendments</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2" id="regulation-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/1/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/1" id="regulation-2-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The Traffic Signs Regulations (Northern Ireland) 1997<FootnoteRef Ref="f00004"/> shall be amended as provided by paragraphs (2) to (8).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/2/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/2" id="regulation-2-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In Schedule 1 (warning signs) in diagram 563 in item 3 of the table after the words “13. “Pedestrians crossing”” there shall be inserted the following—</Text>
+								<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="schedule" Format="default" NumberFormat="default">
+									<P1>
+										<Pnumber>14</Pnumber>
+										<P1para>
+											<Text>“Runners in road”</Text>
+										</P1para>
+									</P1>
+									<P1>
+										<Pnumber>15</Pnumber>
+										<P1para>
+											<Text>“Walkers in road”</Text>
+										</P1para>
+									</P1>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3" id="regulation-2-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In Schedule 2 (regulatory signs)—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/a/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/a" id="regulation-2-3-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>for diagram 639.1A and the words specified in and under it there shall be substituted the diagram and the words specified in and under it specified in Part I of the Schedule;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/b/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/b" id="regulation-2-3-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in diagram 660 in item 3 of the table after the words “5. “Resident permit holders only”” there shall be inserted the following—</Text>
+										<UnorderedList Decoration="none">
+											<ListItem>
+												<Para>
+													<Text>Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/c/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/c" id="regulation-2-3-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>in diagram 660.3 in item 3 of the table after the word “appropriate” there shall be inserted “. The size of the code letter and patch may be varied and may be in any contrasting colours. The code letter may be varied to a number or a combination of letters (capitals, lower case or both) and number, or a name identifying a parking zone or parking permit identification”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/d/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/d" id="regulation-2-3-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>in diagram 660.4 in item 3 of the table after the words ““Loading only”” there shall be inserted the following—</Text>
+										<UnorderedList Decoration="none">
+											<ListItem>
+												<Para>
+													<Text>Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.;</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/e/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/e" id="regulation-2-3-e">
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>in diagram 660.5 in item 3 of the table for the words “Permit identification code letters as shown in diagram 660.3 may be added” there shall be substituted “Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/f/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/f" id="regulation-2-3-f">
+									<Pnumber>f</Pnumber>
+									<P3para>
+										<Text>for diagrams 660.6 and 660.7 and the words specified in and under them there shall be substituted the diagrams and the words specified in and under them specified in Part II of the Schedule;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/g/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/g" id="regulation-2-3-g">
+									<Pnumber>g</Pnumber>
+									<P3para>
+										<Text>in diagram 661A in item 3 of the table after the words “Permitted variants: Schedule 16, items 11, 22” there shall be inserted “. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/h/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/h" id="regulation-2-3-h">
+									<Pnumber>h</Pnumber>
+									<P3para>
+										<Text>in diagram 661.1 in item 3 of the table after the word ““Free”” there shall be inserted “. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/i/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/i" id="regulation-2-3-i">
+									<Pnumber>i</Pnumber>
+									<P3para>
+										<Text>in diagrams 661.2 and 661.3 in item 3 of the respective tables after the word ““machine”” there shall be inserted “. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/j/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/j" id="regulation-2-3-j">
+									<Pnumber>j</Pnumber>
+									<P3para>
+										<Text>in diagram 661.4 in item 2 of the table after the word “Diagrams:” there shall be inserted “639.1A, 660.7,”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/k/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/k" id="regulation-2-3-k">
+									<Pnumber>k</Pnumber>
+									<P3para>
+										<Text>in diagram 661.4 in item 3 of the table for the word “None” there shall be substituted “Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/l/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/l" id="regulation-2-3-l">
+									<Pnumber>l</Pnumber>
+									<P3para>
+										<Text>in diagram 662 in item 3 of the table after the word ““Ticket”” there shall be inserted “. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/m/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/m" id="regulation-2-3-m">
+									<Pnumber>m</Pnumber>
+									<P3para>
+										<Text>in diagram 663 in item 3 of the table—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/m/i/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/m/i" id="regulation-2-3-m-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>after the words “Permitted variants: Schedule 16, item 21” there shall be inserted “The legend “Meter ZONE” may be placed below the no waiting roundel.”;</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/m/ii/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/m/ii" id="regulation-2-3-m-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>after the words “6. “Pay and display”” there shall be inserted “7. “Residents' parking””;</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/m/iii/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/m/iii" id="regulation-2-3-m-iii">
+											<Pnumber>iii</Pnumber>
+											<P4para>
+												<Text>after the words “no waiting roundel” there shall be inserted “. The legend “Permit holder parking only past this point” may be added below the no waiting roundel. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”;</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/m/iv/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/m/iv" id="regulation-2-3-m-iv">
+											<Pnumber>iv</Pnumber>
+											<P4para>
+												<Text>the words “, number or letter” shall be deleted;</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/n/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/n" id="regulation-2-3-n">
+									<Pnumber>n</Pnumber>
+									<P3para>
+										<Text>in diagram 663.1 in item 3 of the table after the word “roundel” there shall be inserted “. Permit identification code letters, as shown in diagram 660.3, may be added and may be varied in the manner indicated in that diagram in item 3 of the table.”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/3/o/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/3/o" id="regulation-2-3-o">
+									<Pnumber>o</Pnumber>
+									<P3para>
+										<Text>after diagram 670.2 there shall be inserted the diagram and the words specified in and under it specified in Part III of the Schedule.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/4/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/4" id="regulation-2-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>In Schedule 4 (other informatory signs)—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/4/a/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/4/a" id="regulation-2-4-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in diagram 857.1 in item 2 of the table after the word “Diagrams:” there shall be inserted “ 639.1A,”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/4/b/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/4/b" id="regulation-2-4-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in diagram 878 in item 2 of the table after the words “879” there shall be inserted “, 879.1 (when diagram 878 is varied to “Speed cameras”)”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/4/c/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/4/c" id="regulation-2-4-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>in diagram 879 in item 2 of the table after the words “878” there shall be inserted “, 879.1”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/4/d/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/4/d" id="regulation-2-4-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>after diagram 879 there shall be inserted the diagrams and the words specified in and under them specified in Part IV of the Schedule.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/5/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/5" id="regulation-2-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>In Schedule 6 (road markings)—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/5/a/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/5/a" id="regulation-2-5-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in diagram 1019 in item 2 of the table after the words “638.1” there shall be inserted “, 639.1A”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/5/b/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/5/b" id="regulation-2-5-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in diagram 1028.3 in item 2 of the table after the words “Diagrams:” there shall be inserted “639.1A,”.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/6/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/6" id="regulation-2-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>In Schedule 12 Part I (miscellaneous warning, informatory and regulatory signs for roadworks) after diagram 7001.2 there shall be inserted the diagram and the words specified in and under it specified in Part V of the Schedule.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7" id="regulation-2-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>In Schedule 16 (permitted variants) —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/a/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/a" id="regulation-2-7-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in item 1 in column (2) after the words “670.2” there shall be inserted “, 670.3”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/b/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/b" id="regulation-2-7-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in item 13 in column (2) after the words “644” there shall be inserted “, 660.7”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/c/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/c" id="regulation-2-7-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>in item 14 in column (2) after the words “640.2A” there shall be inserted “, 660.7”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/d/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/d" id="regulation-2-7-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>in item 22 in column (2)—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/d/i/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/d/i" id="regulation-2-7-d-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>after the words “620.1” there shall be inserted “, 639.1A”; and</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/7/d/ii/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/7/d/ii" id="regulation-2-7-d-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>after the words “660.4” there shall be inserted “, 660.6, 660.7”.</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/8/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/8" id="regulation-2-8">
+							<Pnumber>8</Pnumber>
+							<P2para>
+								<Text>In Schedule 17 (illumination requirements) in item 1 in column (2)—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/8/a/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/8/a" id="regulation-2-8-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>after the words “670” there shall be inserted “, 670.3”;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/8/b/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/8/b" id="regulation-2-8-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>after the words “879” there shall be inserted “, 879.1, 880”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/regulation/2/8/c/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/regulation/2/8/c" id="regulation-2-8-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>after the words “7001” there shall be inserted “7001.3”.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/signature/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/signature">
+				<Signatory>
+					<Para>
+						<Text>Sealed with the Official Seal of the Department for Regional Development on 26th June 2007.</Text>
+					</Para>
+					<Signee>
+						<LSseal Date="2007-06-26"/>
+						<PersonName>R. Sherman</PersonName>
+						<JobTitle>A senior officer of the</JobTitle>
+						<Department>Department for Regional Development</Department>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule" NumberFormat="default" id="schedule">
+				<Number>SCHEDULE</Number>
+				<Reference>Regulation 2(3), (4) and (6)</Reference>
+				<ScheduleBody>
+					<Part DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/part/I/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule/part/I" id="schedule-part-I">
+						<Number>PART I</Number>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>639.1A</Number>
+							<Title>Waiting prohibited during the periods indicated on the upper panel and restrictions on waiting during the period indicated on the lower panel</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: 661.4, 857.1, 1017, 1019, 1028.3, 1028.4, 1032, 1033</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: Schedule 16, items 11, 21, 22 “URBAN CLEARWAY” may be varied to “BUS LANE” or omitted. The relative positions of the “no waiting” symbol and other legend in the upper panel may be as shown in diagram 639 or in the upper panel of diagram 640. The upper panel may be varied to diagram 650.2. The lower panel may be varied in a similar manner to diagram 661.1, or varied to diagram 660, 660.3, 660.4, 660.5, 660.6, 660.7, 661.2, 661.3, 661A or 662. The sign shown in diagram 638.1 may be added as a middle panel with the size of the legend as shown for diagram 639.1A. A code letter or letters, as shown in diagram 660.3, may be added and may be varied in the same way as indicated in item3 of the table below that diagram</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 2</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="266.88pt" Width="594.00pt" ResourceRef="r00000"/>
+						</Figure>
+					</Part>
+					<Part DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/part/II/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule/part/II" id="schedule-part-II">
+						<Number>PART II</Number>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>660.6</Number>
+							<Title>Parking place for permit holders with limited waiting permitted by others at specified times (Alternative types)</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: 1028.4, 1032, 1033</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: Schedule 16, items 11, 21, 22 “Permit holders” may be varied to “Resident permit holders”, “Business permit holders”, “Doctor permit holders”, “Card holders” or “Resident permit holder parking only past this point”. The number of panels in the left hand diagram may be varied. Each panel in the left hand diagram, other than the top panel, shall be in the form shown in the second or third panels from the top. In the third panel from the top, the legend “Permit holders A or” may be omitted. Where the “P” symbol only is shown in the top panel of the left hand diagram, it shall be centred horizontally on the sign. A code letter or letters, as shown in diagram 660.3, may be added and may be varied in the same way as indicated in item 3 of the table below that diagram</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 2</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="356.16pt" Width="592.08pt" ResourceRef="r00001"/>
+						</Figure>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>660.7</Number>
+							<Title>Parking place for permit holders with paid limited waiting permitted by others at specified times (Alternative types)</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: 661.4, 1028.4, 1032, 1033</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: Schedule 16, items 13, 14, 21, 22 Same as diagram 660.6. The arrow below the legend “Pay at machine” may be replaced by the legend “across road” or “opposite”, or, when the arrow at the top of the sign is omitted, replaced by two horizontal arrows pointing in opposite directions. A code letter or letters, as shown in diagram 660.3, may be added and may be varied in the same way as indicated in item 3 of the table below that diagram</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 2</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="424.32pt" Width="594.96pt" ResourceRef="r00002"/>
+						</Figure>
+					</Part>
+					<Part DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/part/III/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule/part/III" id="schedule-part-III">
+						<Number>PART III</Number>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>670.3</Number>
+							<Title>Maximum speed limit and reminder to drivers that speed limits are in miles per hour</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Item</Emphasis></th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: Schedule 16, item 1</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 1</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="215.04pt" Width="594.96pt" ResourceRef="r00003"/>
+						</Figure>
+					</Part>
+					<Part DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/part/IV/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule/part/IV" id="schedule-part-IV">
+						<Number>PART IV</Number>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>879.1</Number>
+							<Title>Average speed enforcement area</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: 878 (when varied to “Speed cameras”), 879</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 1</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="101.76pt" Width="594.00pt" ResourceRef="r00004"/>
+						</Figure>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>880</Number>
+							<Title>Speed camera ahead and reminder of speed limit</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1">Permitted variants: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 1</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="257.28pt" Width="594.00pt" ResourceRef="r00005"/>
+						</Figure>
+					</Part>
+					<Part DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/schedule/part/5/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/schedule/part/5" id="schedule-part-5">
+						<Title>PART V</Title>
+						<Figure Orientation="portrait" ImageLayout="vertical">
+							<Number>7001.3</Number>
+							<Title>Vehicular traffic should proceed slowly owing to workforce in road ahead</Title>
+							<Para>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1">Item</th>
+												<th colspan="1" rowspan="1"/>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1">1</td>
+												<td colspan="1" rowspan="1">Regulations: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">2</td>
+												<td colspan="1" rowspan="1">Diagrams: None</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">3</td>
+												<td colspan="1" rowspan="1"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text>Permitted variants:</Text>
+													</Para>
+													<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text>“WORKFORCE IN ROAD” may be varied to “SETTING OUT ROAD WORKS AHEAD” and “SLOW” omitted</Text>
+													</Para>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1">4</td>
+												<td colspan="1" rowspan="1">Illumination requirements: Schedule 17, item 1</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Para>
+							<Image Height="117.12pt" Width="593.04pt" ResourceRef="r00006"/>
+						</Figure>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/nisr/2007/311/note/made" IdURI="http://www.legislation.gov.uk/id/nisr/2007/311/note">
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations further amend the Traffic Signs Regulations (Northern Ireland) 1997.</Text>
+			</P>
+			<P>
+				<Text>The principal amendments are to—</Text>
+				<P3>
+					<Pnumber>a</Pnumber>
+					<P3para>
+						<Text>substitute new diagrams, and the words and tables immediately below them, for the signs shown in diagrams 639.1A, 660.6 and 660.7 (regulation 2(3)(a) and (f) and (7)(b), (c) and (d));</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>b</Pnumber>
+					<P3para>
+						<Text>prescribe new permitted variants for the signs shown in diagrams 563, 660, 660.3, 660.4, 660.5, 661A, 661.1, 661.2, 661.3, 661.4, 662, 663 and 663.1 (regulation 2(2) and (3)(b) to (e), (g) to (i) and (k) to (n)); and</Text>
+					</P3para>
+				</P3>
+				<P3>
+					<Pnumber>c</Pnumber>
+					<P3para>
+						<Text>prescribe four new signs shown in diagrams 670.3 (for use in indicating that the maximum speed limit is in miles per hour), 879.1 (for use in indicating an “average speed” enforcement area), 880 (for use in reminding drivers of the maximum speed limit and that speed cameras are in place) and 7001.3 (to advise vehicular traffic that it should proceed slowly owing to workforce in road ahead) (regulations 2(3)(o), (4)(d), (6), (7)(a) and (8)).</Text>
+					</P3para>
+				</P3>
+			</P>
+			<P>
+				<Text>These Regulations have been notified to the European Commission pursuant to Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1998/0034" id="c00001" Class="EuropeanUnionDirective" Year="1998" Number="34">98/34/<Acronym Expansion="European Community">EC</Acronym></Citation> of 22nd June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society Services (O.J. <Abbreviation Expansion="Number">No.</Abbreviation> L204, 21.07.98, p. 37-48) as amended by Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1998/0048" id="c00002" Class="EuropeanUnionDirective" Year="1998" Number="48">98/48/EC</Citation> of 20th July 1998 (O.J. No. L217, 05.08.98, p. 18-26). Copies of the Directives can be obtained from The Stationery Office Bookshop, 16 Arthur Street, Belfast, BT1 4GD.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Acronym Expansion="Statutory Instrument">S.I.</Acronym>
+						<Citation URI="http://www.legislation.gov.uk/id/nisi/1999/283" id="c00003" Class="NorthernIrelandOrderInCouncil" AlternativeNumber="N.I. 1" Year="1999" Number="0283">1999/283 (N.I. 1)</Citation> Article 3(1)</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>S.I. <Citation URI="http://www.legislation.gov.uk/id/nisi/1997/276" id="c00004" Class="NorthernIrelandOrderInCouncil" AlternativeNumber="N.I. 2" Year="1997" Number="0276">1997/276 (N.I. 2)</Citation></Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/nisr/1999/481" id="c00005" Year="1999" Number="0481" Class="NorthernIrelandStatutoryRule">S.R. 1999 No. 481</Citation> Article 6(d) and Schedule 4 Part IV</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/nisr/1997/386" id="c00006" Year="1997" Number="0386" Class="NorthernIrelandStatutoryRule">S.R. 1997 No. 386</Citation> relevant amending Regulations are <Citation URI="http://www.legislation.gov.uk/id/nisr/2002/143" id="c00007" Year="2002" Number="0143" Class="NorthernIrelandStatutoryRule">S.R. 2002 No. 143</Citation></Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	<Resources>
+		<Resource id="r00000">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_001"/>
+		</Resource>
+		<Resource id="r00001">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_002"/>
+		</Resource>
+		<Resource id="r00002">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_003"/>
+		</Resource>
+		<Resource id="r00003">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_004"/>
+		</Resource>
+		<Resource id="r00004">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_005"/>
+		</Resource>
+		<Resource id="r00005">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_006"/>
+		</Resource>
+		<Resource id="r00006">
+			<ExternalVersion URI="http://www.legislation.gov.uk/nisr/2007/311/images/nisr_20070311_en_007"/>
+		</Resource>
+	</Resources>
+</Legislation>

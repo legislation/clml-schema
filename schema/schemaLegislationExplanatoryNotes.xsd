@@ -16,19 +16,20 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-14</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
+			2.4			Karl Rajangam		Annotation updated/added for ExplanatoryNotes
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
 	<xsd:element name="ExplanatoryNotes">
 		<xsd:annotation>
-			<xsd:documentation>Explanatory Notes to legislation</xsd:documentation>
+			<xsd:documentation>Explanatory Notes contains explanatory notes for secondary legislation. The explanatory notes for primary legislation do not use this element</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>

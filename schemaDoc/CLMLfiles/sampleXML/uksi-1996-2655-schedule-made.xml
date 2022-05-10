@@ -1,0 +1,4982 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	DocumentURI="http://www.legislation.gov.uk/uksi/1996/2655/made"
+	IdURI="http://www.legislation.gov.uk/id/uksi/1996/2655" NumberOfProvisions="52" xml:lang="en"
+	xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd"
+	SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/1996/2655/schedule/made</dc:identifier>
+		<dc:title>The Legal Aid in Criminal and Care Proceedings (Costs) (Amendment) (No. 2)
+			Regulations 1996</dc:title>
+		<dc:subject>Crown courts</dc:subject>
+		<dc:subject>Legal aid and advice</dc:subject>
+		<dc:subject>Legal services</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2012-04-25</dc:modified>
+		<dc:subject scheme="SIheading">LEGAL AID AND ADVICE, ENGLAND AND WALES</dc:subject>
+		<dc:description>These Regulations amend the Legal Aid in Criminal and Care Proceedings
+			(Costs) Regulations 1989 by instituting a new system for the payment of graduated fees
+			for advocacy and preparation work on the occasion of a trial or guilty plea in the Crown
+			Court, with fixed fees for appeals to the Crown Court against conviction or sentence and
+			for committals for sentence. The graduated fees vary with the nature of the offence and
+			a number of indicators designed to reflect the complexity of the case, and apply to both
+			barrister and solicitor advocates.</dc:description>
+		<atom:link rel="self"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.xml"
+			type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/introduction/made"
+			title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.rdf"
+			title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.xht"
+			title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made/data.html"
+			title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/contents/made"
+			title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/1996/2655/made"
+			title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/1996/2655/signature/made"
+			title="Signature; Signature"/>
+		<atom:link rel="prevInForce"
+			href="http://www.legislation.gov.uk/uksi/1996/2655/signature/made"
+			title="Signature; Signature"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/1996/2655/note/made"
+			title="Explanatory Note; Explanatory Note"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/1996/2655/note/made"
+			title="Explanatory Note; Explanatory Note"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1996"/>
+			<ukm:Number Value="2655"/>
+			<ukm:Made Date="1996-10-15"/>
+			<ukm:Laid Date="1996-10-18" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1997-01-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="011063182X"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="52"/>
+			<ukm:BodyParagraphs Value="28"/>
+			<ukm:ScheduleParagraphs Value="24"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="1"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+<Schedules>
+	<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/1996/2655/schedule/made" id="schedule" 
+	 IdURI="http://www.legislation.gov.uk/id/uksi/1996/2655/schedule" NumberOfProvisions="24" NumberFormat="default">
+		<Number>SCHEDULE</Number>
+		<Reference>Regulation 16</Reference>
+		<ScheduleBody>
+			<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="schedule" Format="default" NumberFormat="default">
+				<Schedule NumberFormat="default">
+					<Number>SCHEDULE 3</Number>
+					<TitleBlock><Title>FEES FOR ADVOCACY IN THE CROWN COURT</Title></TitleBlock>
+					<Reference>Regulations 6(2C), 9(2A)</Reference>
+					<ScheduleBody>
+						<Part>
+							<Number>PART I</Number>
+							<Title>DEFINITIONS AND SCOPE</Title>
+							<P1>
+								<Pnumber>1</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+											<Text>In this Schedule:</Text>
+											<UnorderedList Decoration="none" Class="Definition">
+												<ListItem>
+													<Para><Text>“advocate” means a person instructed in accordance with a legal aid
+														 order to represent the legally assisted person at the main hearing in any case;</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+												<Para>
+													<Text>“case” means proceedings in the Crown Court against any one legally assisted person: —</Text>
+													<OrderedList Decoration="parens" Type="alpha">
+														<ListItem>
+															<Para><Text>on one or more counts of a single indictment;</Text></Para>
+														</ListItem>
+														<ListItem>
+															<Para>
+																<Text>arising out of a single notice of appeal against conviction
+																	or sentence, or a single committal for sentence, whether on one or more charges, or</Text>
+															</Para>
+														</ListItem>
+														<ListItem>
+															<Para>
+															<Text>arising out of a single alleged breach of an order of the Crown Court</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												<Text>and a case falling within paragraph (c)
+												shall be treated as a separate case from the
+												proceedings in which the order was made;</Text>
+												</Para>
+												</ListItem>
+												<ListItem>
+												<Para>
+												<Text>“cracked trial” and “guilty plea” have the
+												meanings given in paragraph 9(3), (4) and (5) of
+												this Schedule;</Text>
+												</Para>
+												</ListItem>
+										<ListItem>
+										<Para>
+										<Text>“main hearing” means:</Text>
+										<OrderedList Decoration="parens" Type="alpha">
+										<ListItem>
+										<Para>
+										<Text>in relation to a case which goes to trial,
+										the trial;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>in relation to a guilty plea or cracked
+										trial, the hearing at which pleas are taken or,
+										where there is more than one such hearing, the
+										last such hearing;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>in relation to an appeal against conviction
+										or sentence, the hearing of the appeal;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>in relation to proceedings arising out of a
+										committal for sentence, the sentencing
+										hearing;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>in relation to proceedings arising out of an
+										alleged breach of an order of the Crown Court, the
+										final hearing;</Text>
+										</Para>
+										</ListItem>
+										</OrderedList>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>“Newton hearing” means a hearing at which
+										evidence is heard for the purpose of determining
+										the sentence of a convicted person in accordance
+										with the principles of <Emphasis>R. v.
+										Newton</Emphasis><FootnoteRef Ref="f00005"
+										/>;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>“preparation” means work of any of the
+										following types when done by an advocate:</Text>
+										<OrderedList Decoration="parens" Type="alpha">
+										<ListItem>
+										<Para>
+										<Text>reading the papers in the case;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>the first conference with the legally
+										assisted person;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>contact with prosecution
+										representatives;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>written or oral advice on plea;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>researching the law, preparation for
+										examination of witnesses and preparation of oral
+										submissions for the main hearing;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>viewing exhibits or undisclosed material at
+										police stations;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>conferences with the legally assisted
+										person, after the first such conference;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>written advice on evidence;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>written and oral advice on appeal (where
+										covered under the same legal aid order as the main
+										hearing);</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>preparation of written submissions, notices
+										or other documents for use at the main
+										hearing;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>views.</Text>
+										</Para>
+										</ListItem>
+										</OrderedList>
+										</Para>
+										</ListItem>
+										</UnorderedList>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>For the purposes of this Schedule, the
+										number of pages of prosecution evidence shall
+										include all witness statements, documentary and
+										pictorial exhibits and records of interview with
+										the legally assisted person and with other
+										defendants forming part of the committal documents
+										or included in any notice of additional
+										evidence.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>In the case of proceedings on indictment in
+										the Crown Court initiated otherwise than by
+										committal for trial, the appropriate authority
+										shall determine the number of pages of prosecution
+										evidence as nearly in accordance with the
+										preceding sub-paragraph as the nature of the case
+										permits.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>2</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>Subject to the following sub-paragraphs of
+										this paragraph and to paragraph 4, this Schedule
+										applies to every case on indictment in which:
+										—</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>every count (apart from any count which is
+										withdrawn before the pleas and directions hearing)
+										is for an offence referred to in paragraph 5
+										below, or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>one or more counts is for an offence
+										referred to in paragraph 5 below, and the advocate
+										elects that the remaining counts should be
+										disregarded for the purposes of calculating his
+										remuneration.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>This Schedule does not apply to a case which
+										goes to trial where: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the prosecution evidence exceeds 1,000
+										pages;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the number of prosecution witnesses exceeds
+										80, or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>it was accepted at the pleas and directions
+										hearing that the trial would exceed 10 days (or 5
+										days where one of the counts is for an offence
+										falling within Class I), and the trial did not
+										exceed that length by reason only that it came to
+										an end without the jury being required to consider
+										their verdict.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>This Schedule does not apply to a guilty
+										plea where: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the prosecution evidence exceeds 400 pages,
+										or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the number of prosecution witnesses exceeds
+										80.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>This Schedule does not apply to a cracked
+										trial where: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>at the pleas and directions hearing, it was
+										accepted by the court that the trial would exceed
+										10 days in length (or 5 days where one of the
+										counts is for an offence falling within Class
+										I);</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the prosecution evidence exceeds 250 pages,
+										or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>the number of prosecution witnesses exceeds
+										80.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>5</Pnumber>
+										<P2para>
+										<Text>Where following a trial an order was made
+										for a new trial, and the same advocate appeared
+										for a legally assisted person at both trials, this
+										Schedule shall not apply in relation to the
+										remuneration of that advocate for —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the original trial, unless remuneration for
+										that trial has been paid in full prior to the
+										making of the order for a new trial, or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the new trial, in any event.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>6</Pnumber>
+										<P2para>
+										<Text>Where following a case on indictment a
+										Newton hearing takes place —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the case shall for all the purposes of this
+										Schedule be treated as having gone to
+										trial;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the length of the trial shall be taken to be
+										the combined length of the main hearing and of the
+										Newton hearing;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>the provisions of this Schedule relating to
+										cracked trials and guilty pleas shall not apply,
+										and</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>no fee shall be payable under paragraph 15
+										in respect of that hearing.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>7</Pnumber>
+										<P2para>
+										<Text>A case on indictment which is discontinued
+										at the pleas and directions hearing other than by
+										reason of pleas of guilty being entered shall for
+										all the purposes of this Schedule be treated as a
+										guilty plea.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>3</Pnumber>
+								<P1para>
+									<Text>This Schedule also applies to the following
+										proceedings in the Crown Court, subject to paragraph
+										4: —</Text>
+									<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>an appeal against conviction or
+										sentence;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>a sentencing hearing following a committal
+										to the Crown Court for sentence;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>proceedings arising out of an alleged breach
+										of an order of the Crown Court (whether or not
+										this Schedule applies to the proceedings in which
+										the order was made).</Text>
+										</P3para>
+									</P3>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>4</Pnumber>
+								<P1para>
+									<Text>This Schedule does not apply to any case where:
+										—</Text>
+									<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the legal aid order provides for the
+										services of more than two advocates;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>(without prejudice to regulation 55 of the
+										General Regulations) any of the advocate’s work in
+										connection with the case is done or remunerated
+										otherwise than under a legal aid order;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>a hearing is held to determine the question
+										of whether the legally assisted person is unfit to
+										plead or unfit to be tried;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>the case results in a restriction order
+										under section 41 of the Mental Health Act
+										1983<FootnoteRef Ref="f00006"/>, or</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>e</Pnumber>
+										<P3para>
+										<Text>the length of the main hearing, or the
+										combined length of the main hearing and of any
+										hearing to which paragraph 2(6), 13 or 14 applies,
+										exceeds 10 days (or 5 days where one of the counts
+										is for an offence falling within Class I).</Text>
+										</P3para>
+									</P3>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>5</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The offences to which this paragraph refers
+										are: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>those listed in the Table of Offences
+										following paragraph 24 of this Schedule;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>conspiracy to commit any of the offences in
+										the Table of Offences, contrary to section 1 of
+										the Criminal Law Act 1977<FootnoteRef Ref="f00007"
+										/>;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>incitement to commit any of the offences in
+										the Table of Offences;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>attempt to commit any of the offences in the
+										Table of Offences, contrary to section 1 of the
+										Criminal Attempts Act 1981<FootnoteRef
+										Ref="f00008"/>.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>For the purposes of this Schedule: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>every offence within sub-paragraph (l)(a)
+										falls within the Class under which it is listed in
+										the Table of Offences;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>every offence within sub-paragraph (l)(b),
+										(c) or (d) falls within the same Class as the
+										substantive offence to which it relates;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>where the Table specifies that the Class
+										within which an offence falls depends on whether
+										the value involved exceeds a stated limit, the
+										value shall be presumed not to exceed that limit
+										unless the person claiming remuneration proves
+										otherwise to the satisfaction of the appropriate
+										authority;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>where more than one count of an indictment
+										is for an offence in relation to which the Class
+										depends on the value involved, that value shall be
+										taken to be the total value involved in all those
+										offences, so however that where two or more counts
+										relate to the same property the value of that
+										property shall be taken into account once
+										only;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>e</Pnumber>
+										<P3para>
+										<Text>where an entry in the Table of Offences
+										specifies an offence as being contrary to a
+										statutory provision, then subject to any express
+										limitation in the entry that entry shall include
+										every offence contrary to that statutory provision
+										whether or not the words of description in the
+										entry are apt to cover all such offences.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>6</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The classes of work for which a graduated or
+										fixed fee calculated in accordance with the
+										following paragraphs of this Schedule shall be
+										allowed in accordance with regulation 9(2) are
+										those specified in sub-paragraph (2), and the fees
+										for classes of work which are not so specified
+										shall be determined in accordance with regulation
+										6.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>The classes of work specified for the
+										purposes of sub-paragraph (1) are: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>all preparation not falling within paragraph
+										(c) below;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>advocacy on the first day of the main
+										hearing;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>preparation and advocacy on the second and
+										subsequent days of the main hearing;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>appearing at the pleas and directions
+										hearing if any;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>e</Pnumber>
+										<P3para>
+										<Text>appearing at other hearings and
+										applications;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>f</Pnumber>
+										<P3para>
+										<Text>listening to or viewing evidence recorded on
+										tape or video cassette;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>g</Pnumber>
+										<P3para>
+										<Text>attending conferences with expert
+										witnesses.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+						</Part>
+						<Part>
+							<Number>PART II</Number>
+							<Title>GRADUATED FEES FOR TRIALS</Title>
+							<P1>
+								<Pnumber>7</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The amount of the graduated fee for a single
+										advocate representing one legally assisted person
+										being tried on one indictment in the Crown Court
+										shall be calculated according to the following
+										formula:</Text>
+										<Formula AltVersionRefs="v00000">
+										<math xmlns="http://www.w3.org/1998/Math/MathML"
+										display="inline" overflow="scroll">
+										<mrow>
+										<mi mathvariant="normal">G</mi>
+										<mo>=</mo>
+										<mi mathvariant="normal">B</mi>
+										<mo>+</mo>
+										<mrow>
+										<mo fence="true">(</mo>
+										<mrow>
+										<mi mathvariant="normal">d</mi>
+										<mo>×</mo>
+										<mi mathvariant="normal">D</mi>
+										</mrow>
+										<mo fence="true">)</mo>
+										</mrow>
+										<mo>+</mo>
+										<mrow>
+										<mo fence="true">(</mo>
+										<mrow>
+										<mi mathvariant="normal">e</mi>
+										<mo>×</mo>
+										<mi mathvariant="normal">E</mi>
+										</mrow>
+										<mo fence="true">)</mo>
+										</mrow>
+										<mo>+</mo>
+										<mrow>
+										<mo fence="true">(</mo>
+										<mrow>
+										<mi mathvariant="normal">w</mi>
+										<mo>×</mo>
+										<mi mathvariant="normal">W</mi>
+										</mrow>
+										<mo fence="true">)</mo>
+										</mrow>
+										<mo>+</mo>
+										<mrow>
+										<mo fence="true">(</mo>
+										<mrow>
+										<mi mathvariant="normal">d</mi>
+										<mo>×</mo>
+										<mi mathvariant="normal">R</mi>
+										</mrow>
+										<mo fence="true">)</mo>
+										</mrow>
+										<mn>.</mn>
+										</mrow>
+										</math>
+										</Formula>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>In the formula in sub-paragraph (1):</Text>
+										<UnorderedList Decoration="none">
+										<ListItem>
+										<Para>
+										<Text>G is the amount of the graduated fee;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>B is the basic fee specified in paragraph 8
+										as appropriate to the offence for which the
+										legally assisted person is tried and the category
+										of advocate instructed;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>d is the number of days or parts of a day by
+										which the trial exceeds one day;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>e is the number of pages of prosecution
+										evidence excluding the first 50;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>w is the number of prosecution witnesses
+										excluding the first 10;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>D is the length of trial uplift specified in
+										paragraph 8 as appropriate to the offence for
+										which the legally assisted person is tried and the
+										category of advocate instructed;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>E is the evidence uplift specified in
+										paragraph 8 as appropriate to the offence for
+										which the legally assisted person is tried and the
+										category of advocate instructed;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>W is the witnesses uplift specified in
+										paragraph 8 as appropriate to the offence for
+										which the legally assisted person is tried and the
+										category of advocate instructed;</Text>
+										</Para>
+										</ListItem>
+										<ListItem>
+										<Para>
+										<Text>R is the refresher specified in paragraph 8
+										as appropriate to the offence for which the
+										legally assisted person is tried and the category
+										of advocate instructed.</Text>
+										</Para>
+										</ListItem>
+										</UnorderedList>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>8</Pnumber>
+								<P1para>
+									<Text>For the purposes of paragraph 7 the basic fee,
+										refresher, length of trial uplift, evidence uplift
+										and witnesses uplift appropriate to any offence
+										shall be those specified in the Table below as
+										appropriate to the Class within which that offence
+										falls according to paragraph 5 and the category of
+										advocate instructed.</Text>
+									<Tabular Orientation="portrait">
+										<Number><Strong>TABLE OF FEES AND
+										UPLIFTS</Strong></Number>
+										<Title>(a) Trials — Queen’s Counsel</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Refresher</th>
+										<th colspan="1" rowspan="1">Length of trial
+										uplift: per day</th>
+										<th colspan="1" rowspan="1">Evidence uplift: per
+										page</th>
+										<th colspan="1" rowspan="1">Witnesses uplift: per
+										witness</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£1616.50</td>
+										<td colspan="1" rowspan="1">£413.50</td>
+										<td colspan="1" rowspan="1">£835.50</td>
+										<td colspan="1" rowspan="1">£1.44</td>
+										<td colspan="1" rowspan="1">£6.12</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£1091.00</td>
+										<td colspan="1" rowspan="1">£510.00</td>
+										<td colspan="1" rowspan="1">£636.50</td>
+										<td colspan="1" rowspan="1">£4.93</td>
+										<td colspan="1" rowspan="1">£46.47</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£839.50</td>
+										<td colspan="1" rowspan="1">£431.50</td>
+										<td colspan="1" rowspan="1">£581.00</td>
+										<td colspan="1" rowspan="1">£8.47</td>
+										<td colspan="1" rowspan="1">£55.12</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£1550.50</td>
+										<td colspan="1" rowspan="1">£413.50</td>
+										<td colspan="1" rowspan="1">£574.50</td>
+										<td colspan="1" rowspan="1">£2.75</td>
+										<td colspan="1" rowspan="1">£18.13</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£875.00</td>
+										<td colspan="1" rowspan="1">£431.50</td>
+										<td colspan="1" rowspan="1">£345.50</td>
+										<td colspan="1" rowspan="1">£3.55</td>
+										<td colspan="1" rowspan="1">£23.45</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£847.50</td>
+										<td colspan="1" rowspan="1">£431.50</td>
+										<td colspan="1" rowspan="1">£467.00</td>
+										<td colspan="1" rowspan="1">£5.00</td>
+										<td colspan="1" rowspan="1">£17.12</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£1561.50</td>
+										<td colspan="1" rowspan="1">£510.00</td>
+										<td colspan="1" rowspan="1">£929.00</td>
+										<td colspan="1" rowspan="1">£7.71</td>
+										<td colspan="1" rowspan="1">£63.30</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£1000.50</td>
+										<td colspan="1" rowspan="1">£431.50</td>
+										<td colspan="1" rowspan="1">£637.00</td>
+										<td colspan="1" rowspan="1">£6.91</td>
+										<td colspan="1" rowspan="1">£60.18</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£1032.00</td>
+										<td colspan="1" rowspan="1">£510.00</td>
+										<td colspan="1" rowspan="1">£462.00</td>
+										<td colspan="1" rowspan="1">£10.83</td>
+										<td colspan="1" rowspan="1">£71.45</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+									<Tabular Orientation="portrait">
+										<Title>(b) Trials — other advocate</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Refresher</th>
+										<th colspan="1" rowspan="1">Length of trial
+										uplift</th>
+										<th colspan="1" rowspan="1">Evidence uplift</th>
+										<th colspan="1" rowspan="1">Witnesses uplift</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£808.50</td>
+										<td colspan="1" rowspan="1">£207.00</td>
+										<td colspan="1" rowspan="1">£418.00</td>
+										<td colspan="1" rowspan="1">£0.72</td>
+										<td colspan="1" rowspan="1">£3.06</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£311.50</td>
+										<td colspan="1" rowspan="1">£145.50</td>
+										<td colspan="1" rowspan="1">£182.00</td>
+										<td colspan="1" rowspan="1">£1.41</td>
+										<td colspan="1" rowspan="1">£13.28</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£240.00</td>
+										<td colspan="1" rowspan="1">£123.50</td>
+										<td colspan="1" rowspan="1">£166.00</td>
+										<td colspan="1" rowspan="1">£2.42</td>
+										<td colspan="1" rowspan="1">£15.75</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£446.00</td>
+										<td colspan="1" rowspan="1">£145.50</td>
+										<td colspan="1" rowspan="1">£282.00</td>
+										<td colspan="1" rowspan="1">£1.08</td>
+										<td colspan="1" rowspan="1">£7.14</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£250.00</td>
+										<td colspan="1" rowspan="1">£123.50</td>
+										<td colspan="1" rowspan="1">£98.50</td>
+										<td colspan="1" rowspan="1">£1.02</td>
+										<td colspan="1" rowspan="1">£6.70</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£242.00</td>
+										<td colspan="1" rowspan="1">£123.50</td>
+										<td colspan="1" rowspan="1">£133.50</td>
+										<td colspan="1" rowspan="1">£1.43</td>
+										<td colspan="1" rowspan="1">£4.89</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£446.00</td>
+										<td colspan="1" rowspan="1">£145.50</td>
+										<td colspan="1" rowspan="1">£265.50</td>
+										<td colspan="1" rowspan="1">£2.20</td>
+										<td colspan="1" rowspan="1">£18.09</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£286.00</td>
+										<td colspan="1" rowspan="1">£123.50</td>
+										<td colspan="1" rowspan="1">£182.00</td>
+										<td colspan="1" rowspan="1">£1.97</td>
+										<td colspan="1" rowspan="1">£17.19</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£295.00</td>
+										<td colspan="1" rowspan="1">£145.50</td>
+										<td colspan="1" rowspan="1">£132.00</td>
+										<td colspan="1" rowspan="1">£3.09</td>
+										<td colspan="1" rowspan="1">£20.41</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+								</P1para>
+							</P1>
+						</Part>
+						<Part>
+							<Number>PART III</Number>
+							<Title>GRADUATED FEES FOR GUILTY PLEAS AND CRACKED
+								TRIALS</Title>
+							<P1>
+								<Pnumber>9</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The amount of the graduated fee for a single
+										advocate representing one legally assisted person
+										in a guilty plea or cracked trial shall be the
+										basic fee specified in paragraph 10 as appropriate
+										to the offence with which the legally assisted
+										person is charged, the category of advocate
+										instructed and whether the case is a guilty plea
+										or a cracked trial, increased by the evidence
+										uplift.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>The evidence uplift shall be calculated as
+										follows:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>there shall be no uplift in respect of the
+										first 10 pages;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the uplift set out in the third column of
+										the applicable Table in paragraph 10 shall be
+										payable in respect of each page from the 11th to
+										the 50th;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>the uplift set out in the fourth column of
+										the applicable Table in paragraph 10 shall be
+										payable in respect of each page from the 51st to
+										the 100th;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>the uplift set out in the fifth column of
+										the applicable Table in paragraph 10 shall be
+										payable in respect of each page from and after the
+										101st.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>A case on indictment in which a pleas and
+										directions hearing takes place is a cracked trial
+										if it fulfils the following conditions:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the matter did not proceed to trial (whether
+										by reason of pleas of guilty or for other reasons)
+										or the prosecution offered no evidence, and</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<P4>
+										<Pnumber>i</Pnumber>
+										<P4para>
+										<Text>in respect of one or more counts to which
+										the legally assisted person pleaded guilty, he did
+										not so plead at the pleas and directions hearing,
+										or</Text>
+										</P4para>
+										</P4>
+										<P4>
+										<Pnumber>ii</Pnumber>
+										<P4para>
+										<Text>in respect of one or more counts which were
+										not proceeded with, the prosecution did not,
+										before or at the pleas and directions hearing,
+										declare an intention of not proceeding with
+										them.</Text>
+										</P4para>
+										</P4>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>A case on indictment in which no pleas and
+										directions hearing takes place is a cracked trial
+										if it was listed for trial but the case was
+										disposed of without a trial (whether by reason of
+										pleas of guilty or for other reasons) or the
+										prosecution offered no evidence.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>5</Pnumber>
+										<P2para>
+										<Text>A case on indictment is a guilty plea if it
+										was disposed of without a trial because the
+										legally assisted person pleaded guilty to one or
+										more counts and is not a cracked trial.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>10</Pnumber>
+								<P1para>
+									<Text>For the purposes of paragraph 9 the basic fee and
+										evidence uplifts appropriate to any offence shall be
+										those specified in the Table below as appropriate to
+										the Class within which that offence falls according
+										to paragraph 5 and the category of advocate
+										instructed.</Text>
+									<Tabular Orientation="portrait">
+										<Number><Strong>TABLE OF FEES AND
+										UPLIFTS</Strong></Number>
+										<Title>(a) Guilty plea — Queen’s Counsel</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 11 to 50)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 51 to 100)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 101 to 400)</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£1619.50</td>
+										<td colspan="1" rowspan="1">£6.14</td>
+										<td colspan="1" rowspan="1">£3.06</td>
+										<td colspan="1" rowspan="1">£2.04</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£715.50</td>
+										<td colspan="1" rowspan="1">£6.03</td>
+										<td colspan="1" rowspan="1">£4.02</td>
+										<td colspan="1" rowspan="1">£2.68</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£595.00</td>
+										<td colspan="1" rowspan="1">£6.03</td>
+										<td colspan="1" rowspan="1">£4.02</td>
+										<td colspan="1" rowspan="1">£2.68</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£998.00</td>
+										<td colspan="1" rowspan="1">£6.03</td>
+										<td colspan="1" rowspan="1">£4.02</td>
+										<td colspan="1" rowspan="1">£2.68</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£446.00</td>
+										<td colspan="1" rowspan="1">£4.02</td>
+										<td colspan="1" rowspan="1">£2.68</td>
+										<td colspan="1" rowspan="1">£1.79</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£438.50</td>
+										<td colspan="1" rowspan="1">£3.22</td>
+										<td colspan="1" rowspan="1">£2.14</td>
+										<td colspan="1" rowspan="1">£1.43</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£1242.00</td>
+										<td colspan="1" rowspan="1">£8.04</td>
+										<td colspan="1" rowspan="1">£5.36</td>
+										<td colspan="1" rowspan="1">£3.57</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£504.00</td>
+										<td colspan="1" rowspan="1">£8.04</td>
+										<td colspan="1" rowspan="1">£5.36</td>
+										<td colspan="1" rowspan="1">£3.57</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£403.50</td>
+										<td colspan="1" rowspan="1">£8.04</td>
+										<td colspan="1" rowspan="1">£5.36</td>
+										<td colspan="1" rowspan="1">£3.57</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+									<Tabular Orientation="portrait">
+										<Title>(b) Guilty plea — other advocate</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 11 to 50)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 51 to 100)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 101 to 400)</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£810.00</td>
+										<td colspan="1" rowspan="1">£3.07</td>
+										<td colspan="1" rowspan="1">£1.53</td>
+										<td colspan="1" rowspan="1">£1.02</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£204.50</td>
+										<td colspan="1" rowspan="1">£1.72</td>
+										<td colspan="1" rowspan="1">£1.15</td>
+										<td colspan="1" rowspan="1">£0.77</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£170.00</td>
+										<td colspan="1" rowspan="1">£1.72</td>
+										<td colspan="1" rowspan="1">£1.15</td>
+										<td colspan="1" rowspan="1">£0.77</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£285.00</td>
+										<td colspan="1" rowspan="1">£1.72</td>
+										<td colspan="1" rowspan="1">£1.15</td>
+										<td colspan="1" rowspan="1">£0.77</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£127.50</td>
+										<td colspan="1" rowspan="1">£1.15</td>
+										<td colspan="1" rowspan="1">£0.77</td>
+										<td colspan="1" rowspan="1">£0.51</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£125.50</td>
+										<td colspan="1" rowspan="1">£0.92</td>
+										<td colspan="1" rowspan="1">£0.61</td>
+										<td colspan="1" rowspan="1">£0.41</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£355.00</td>
+										<td colspan="1" rowspan="1">£2.30</td>
+										<td colspan="1" rowspan="1">£1.53</td>
+										<td colspan="1" rowspan="1">£1.02</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£144.00</td>
+										<td colspan="1" rowspan="1">£2.30</td>
+										<td colspan="1" rowspan="1">£1.53</td>
+										<td colspan="1" rowspan="1">£1.02</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£115.00</td>
+										<td colspan="1" rowspan="1">£2.30</td>
+										<td colspan="1" rowspan="1">£1.53</td>
+										<td colspan="1" rowspan="1">£1.02</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+									<Tabular Orientation="portrait">
+										<Title>(c) Cracked trial — Queen’s Counsel</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 11 to 50)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 51 to 100)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 101 to 250)</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£1694.50</td>
+										<td colspan="1" rowspan="1">£50.72</td>
+										<td colspan="1" rowspan="1">£17.04</td>
+										<td colspan="1" rowspan="1">£4.26</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£1143.50</td>
+										<td colspan="1" rowspan="1">£22.29</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£880.00</td>
+										<td colspan="1" rowspan="1">£21.96</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£1625.00</td>
+										<td colspan="1" rowspan="1">£34.62</td>
+										<td colspan="1" rowspan="1">£12.78</td>
+										<td colspan="1" rowspan="1">£3.19</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£917.00</td>
+										<td colspan="1" rowspan="1">£10.38</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£888.50</td>
+										<td colspan="1" rowspan="1">£12.66</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£1637.00</td>
+										<td colspan="1" rowspan="1">£68.65</td>
+										<td colspan="1" rowspan="1">£16.77</td>
+										<td colspan="1" rowspan="1">£11.18</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£1048.50</td>
+										<td colspan="1" rowspan="1">£24.78</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£1081.50</td>
+										<td colspan="1" rowspan="1">£17.84</td>
+										<td colspan="1" rowspan="1">£8.39</td>
+										<td colspan="1" rowspan="1">£5.59</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+									<Tabular Orientation="portrait">
+										<Title>(d) Cracked trial — other advocate</Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence falling
+										within</th>
+										<th colspan="1" rowspan="1">Basic fee</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 11 to 50)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 51 to 100)</th>
+										<th colspan="1" rowspan="1">Evidence uplift per
+										page (pages 101 to 250)</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Class A</td>
+										<td colspan="1" rowspan="1">£847.00</td>
+										<td colspan="1" rowspan="1">£25.36</td>
+										<td colspan="1" rowspan="1">£8.52</td>
+										<td colspan="1" rowspan="1">£2.13</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class B</td>
+										<td colspan="1" rowspan="1">£326.50</td>
+										<td colspan="1" rowspan="1">£6.37</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class C</td>
+										<td colspan="1" rowspan="1">£251.50</td>
+										<td colspan="1" rowspan="1">£6.27</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class D</td>
+										<td colspan="1" rowspan="1">£467.50</td>
+										<td colspan="1" rowspan="1">£10.51</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class E</td>
+										<td colspan="1" rowspan="1">£262.00</td>
+										<td colspan="1" rowspan="1">£2.97</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class F</td>
+										<td colspan="1" rowspan="1">£254.00</td>
+										<td colspan="1" rowspan="1">£3.62</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class G</td>
+										<td colspan="1" rowspan="1">£467.50</td>
+										<td colspan="1" rowspan="1">£19.61</td>
+										<td colspan="1" rowspan="1">£4.79</td>
+										<td colspan="1" rowspan="1">£3.19</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class H</td>
+										<td colspan="1" rowspan="1">£299.50</td>
+										<td colspan="1" rowspan="1">£7.08</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Class I</td>
+										<td colspan="1" rowspan="1">£309.00</td>
+										<td colspan="1" rowspan="1">£5.10</td>
+										<td colspan="1" rowspan="1">£2.40</td>
+										<td colspan="1" rowspan="1">£1.60</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+								</P1para>
+							</P1>
+						</Part>
+						<Part>
+							<Number>PART IV</Number>
+							<Title>FIXED AND HOURLY FEES</Title>
+							<P1>
+								<Pnumber>11</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The basic fee payable to an advocate for
+										appearing at a pleas and directions hearing or a
+										pre-trial review shall be that set out in the
+										Table following paragraph 21 as appropriate to the
+										category of advocate.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>Where the advocate appears at a pleas and
+										directions hearing or a pre-trial review of a case
+										which goes to trial, he shall be entitled to
+										receive the length of trial uplift set out in that
+										Table in respect of each day by which the trial
+										exceeds five days.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>The fee payable to a person other than the
+										advocate for attendance at a pleas and directions
+										hearing or pre-trial review shall be that set out
+										in the Table following paragraph 21 as appropriate
+										to the category of person appearing and the type
+										of hearing.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>This paragraph does not apply to a pleas and
+										directions hearing which is or forms part of the
+										main hearing in a case.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>12</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The fixed fee set out in the Table following
+										paragraph 21 as appropriate to the category of
+										advocate shall be payable where:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the legally assisted person fails to attend
+										any hearing at which the advocate appears;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>at that hearing a bench warrant is issued
+										for the arrest of the legally assisted person,
+										and</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>that warrant is not executed within the
+										three months beginning on the date on which it was
+										issued.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>The fixed fee set out in the Table following
+										paragraph 21 as appropriate to the category of
+										advocate shall be payable in respect of each
+										occasion on which the case was listed for trial
+										but did not proceed on the day for which it was
+										listed (other than by reason of an application for
+										postponement by the prosecution or the
+										defence).</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>13</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>This paragraph applies to:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the hearing of an application to stay the
+										indictment or any count on the ground that the
+										proceedings constitute an abuse of the process of
+										the court;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>any hearing relating to the question of
+										whether any material should be disclosed by the
+										prosecution to the defence, or by the defence to
+										the prosecution (whether or not any claim to
+										public interest immunity is made);</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>the hearing of an application under section
+										2(1) of the Criminal Procedure (Attendance of
+										Witnesses) Act 1965<FootnoteRef Ref="f00009"/> for
+										disclosure of material held by third
+										parties.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>Where a hearing to which this paragraph
+										applies is held on any day of the main hearing of
+										a case on indictment, no separate fee shall be
+										payable in respect of attendance at that hearing,
+										but the hearing shall be included in the length of
+										the main hearing for the purpose of calculating
+										remuneration.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>Where a hearing to which this paragraph
+										applies is held prior to the first or only day of
+										the main hearing, it shall not be included in the
+										length of the main hearing for the purpose of
+										calculating remuneration, and the advocate shall
+										be remunerated for attendance at such a
+										hearing</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>in respect of any day where the hearing
+										begins before and ends after the luncheon
+										adjournment, at the daily rate set out in the
+										Table following paragraph 21 as appropriate to the
+										category of advocate;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>in respect of any day where the hearing
+										begins and ends before the luncheon adjournment,
+										or begins after the luncheon adjournment, at the
+										half-daily rate set out in the Table following
+										paragraph 21 as appropriate to the category of
+										advocate.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>14</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>This paragraph applies to:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>a hearing at which the court proceeds under
+										section 2 of the Drug Trafficking Act
+										1994<FootnoteRef Ref="f00010"/>;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>a hearing at which the court proceeds under
+										section 71 of the Criminal Justice Act
+										1988<FootnoteRef Ref="f00011"/>.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>A hearing to which this paragraph applies
+										shall not be included in the length of the main
+										hearing or of any sentencing hearing for the
+										purpose of calculating remuneration, and the
+										advocate shall be remunerated for attendance at
+										such a hearing.</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>in respect of any day where the hearing
+										begins before and ends after the luncheon
+										adjournment, at the daily rate set out in the
+										Table following paragraph 21 as appropriate to the
+										category of advocate;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>in respect of any day where the hearing
+										begins and ends before the luncheon adjournment,
+										or begins after the luncheon adjournment, at the
+										half-daily rate set out in the Table following
+										paragraph 21 as appropriate to the category of
+										advocate.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>15</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The fee payable to any person for appearing
+										at a hearing to which this paragraph applies shall
+										be that set out in the Table following paragraph
+										21 as appropriate to the category of person
+										appearing and the circumstances of the
+										hearing.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>This paragraph applies to the following
+										hearings: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>a sentencing hearing following a case on
+										indictment to which this Schedule applies, where
+										sentence has been deferred under section 1 of the
+										Powers of Criminal Courts Act 1973<FootnoteRef
+										Ref="f00012"/>;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>a sentencing hearing following a case on
+										indictment to which this Schedule applies, other
+										than a hearing within paragraph (a) or a
+										sentencing hearing forming part of the main
+										hearing.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>16</Pnumber>
+								<P1para>
+									<Text>A fee under this paragraph, of the amount set out
+										in the Table following paragraph 21 as appropriate
+										to the category of person appearing, shall be
+										payable to any person (whether the advocate or not)
+										for appearing in the following hearings in a case on
+										indictment, when not forming part of the main
+										hearing or of a hearing for which a fee is provided
+										elsewhere in this Schedule:</Text>
+									<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the hearing of a case listed for plea which
+										is adjourned for trial;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>any hearing (other than a trial) which is
+										listed but cannot proceed because of the failure
+										of the legally assisted person or a witness to
+										attend, the unavailability of a pre-sentence
+										report or other good reason;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>bail and other applications;</Text>
+										</P3para>
+									</P3>
+									<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>the hearing of a case listed for mention
+										only.</Text>
+										</P3para>
+									</P3>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>17</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>Where this paragraph applies, a special
+										preparation fee may be claimed in addition to the
+										graduated fee payable under this Schedule.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>This paragraph applies where, in any case on
+										indictment in the Crown Court in respect of which
+										a graduated fee is payable under this Schedule, it
+										has been necessary for the advocate to do work by
+										way of preparation substantially in excess of the
+										amount normally done for cases of the same type
+										because the case involves a very unusual or novel
+										point of law or factual issue.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>The amount of the special preparation fee
+										shall be calculated from the number of hours of
+										preparation in excess of the amount normally done
+										for cases of the same type, using the rates for
+										hourly fees set out in the Table following
+										paragraph 21 as appropriate to the category of
+										advocate.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>An advocate claiming a special preparation
+										fee shall supply such information and documents as
+										may be required by the appropriate authority as
+										proof of the unusual nature or novelty of the
+										point of law or factual issue and of the number of
+										hours of preparation.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>18</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>A wasted preparation fee may be claimed
+										where an advocate instructed in any case to which
+										this paragraph applies is prevented from
+										representing the legally assisted person in the
+										main hearing by any of the following
+										circumstances: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the advocate is instructed to appear in
+										other proceedings at the same time as the main
+										hearing in the case and has been unable to secure
+										a change of date for either the main hearing or
+										the other proceedings;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the date fixed for the main hearing is
+										changed by the court despite the advocate’s
+										objection;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>the advocate has withdrawn from the case
+										with the leave of the court because of his
+										professional code of conduct or to avoid
+										embarrassment in the exercise of his
+										profession;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>d</Pnumber>
+										<P3para>
+										<Text>the advocate has been dismissed by his
+										client;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>e</Pnumber>
+										<P3para>
+										<Text>the advocate is obliged to attend at any
+										place by reason of a judicial office held by him
+										or other public duty.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>This paragraph applies to every case on
+										indictment to which this Schedule applies provided
+										that —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the case goes to trial, and the trial lasts
+										for five days or more, or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>the case is a cracked trial, and the number
+										of pages of prosecution evidence exceeds
+										150.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>The amount of the wasted preparation fee
+										shall be calculated from the number of hours of
+										preparation reasonably carried out by the
+										advocate, using the rates for hourly fees set out
+										in the Table following paragraph 21; but no such
+										fee shall be payable unless the number of hours of
+										preparation is eight or more.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>An advocate claiming a wasted preparation
+										fee shall supply such information and documents as
+										may be required by the determining officer as
+										proof of the circumstances in which he was
+										prevented from representing the legally assisted
+										person and of the number of hours of
+										preparation.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>19</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>The hourly fee set out in the Table
+										following paragraph 21 as appropriate to the
+										category of advocate shall be payable in respect
+										of work of the following types, provided that the
+										advocate satisfies the appropriate authority that
+										the work was reasonably necessary, namely:</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>attendance by the advocate at conferences
+										with prospective or actual expert witnesses;
+										or</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>travel to and from a prison for the purpose
+										of attending a conference with the legally
+										assisted person.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>In any case on indictment, an advocate shall
+										be entitled to a fee in accordance with the Table
+										following paragraph 21 for the number of periods
+										or parts of a period of 10 minutes of running time
+										of any tape or video cassette or part thereof
+										which he listens to or views as part of the
+										evidence in the case.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>20</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>Subject to regulation 9(3) and to paragraph
+										22(2), the remuneration payable to an advocate
+										instructed in any case mentioned in paragraph 3
+										shall be the fixed fee set out in the Table
+										following paragraph 21.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>Where the advocate appears in any case
+										mentioned in paragraph 3 unattended by an
+										authorised litigator or representative, he shall
+										be entitled to the additional fee set out in that
+										Table.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>21</Pnumber>
+								<P1para>
+									<Text>The remuneration payable to an authorised advocate
+										retained solely for the purpose of making a note of
+										any hearing shall be the daily fee set out in the
+										Table following this paragraph.</Text>
+									<Tabular Orientation="portrait">
+										<Title><Strong>TABLE</Strong></Title>
+										<table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Type of work</th>
+										<th colspan="1" rowspan="1">Paragraph providing
+										for fee</th>
+										<th colspan="1" rowspan="1">Fee for Queen’s
+										Counsel</th>
+										<th colspan="1" rowspan="1">Fee for leading
+										advocate (other than Queen’s Counsel)</th>
+										<th colspan="1" rowspan="1">Fee for junior or sole
+										advocate (other than Queen’s Counsel)</th>
+										</tr>
+										<tr>
+										<th colspan="1" rowspan="1"/>
+										<th colspan="1" rowspan="1"/>
+										<th colspan="1" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>£</Emphasis></th>
+										<th colspan="1" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>£</Emphasis></th>
+										<th colspan="1" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>£</Emphasis></th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="1" rowspan="1">Pleas and directions
+										hearing or pre-trial review — basic fee</td>
+										<td colspan="1" rowspan="1">11(1)</td>
+										<td colspan="1" rowspan="1">188.00</td>
+										<td colspan="1" rowspan="1">127.00</td>
+										<td colspan="1" rowspan="1">75.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Pleas and directions
+										hearing — length of trial uplift</td>
+										<td colspan="1" rowspan="1">11(2)</td>
+										<td colspan="1" rowspan="1">37.00</td>
+										<td colspan="1" rowspan="1">25.00</td>
+										<td colspan="1" rowspan="1">15.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing at pleas and
+										directions hearing or pre-trial review (other than
+										by advocate)</td>
+										<td colspan="1" rowspan="1">11(3)</td>
+										<td colspan="1" rowspan="1">116.00</td>
+										<td colspan="1" rowspan="1">79.00</td>
+										<td colspan="1" rowspan="1">46.50</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Attendance where bench
+										warrant issued</td>
+										<td colspan="1" rowspan="1">12(1)</td>
+										<td colspan="1" rowspan="1">250.00</td>
+										<td colspan="1" rowspan="1">170.00</td>
+										<td colspan="1" rowspan="1">100.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing at listed
+										trial which did not proceed — basic fee</td>
+										<td colspan="1" rowspan="1">12(2)</td>
+										<td colspan="1" rowspan="1">275.00</td>
+										<td colspan="1" rowspan="1">187.00</td>
+										<td colspan="1" rowspan="1">110.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Work for which daily
+										or half-daily fee is payable</td>
+										<td colspan="1" rowspan="1">13,14</td>
+										<td colspan="1" rowspan="1">330.00 per day 185.00
+										per half day</td>
+										<td colspan="1" rowspan="1">250.00 per day 140.00
+										per half day</td>
+										<td colspan="1" rowspan="1">178.25 per day 99.50
+										per half day</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing at deferred
+										sentencing hearing</td>
+										<td colspan="1" rowspan="1">15(2)(a)</td>
+										<td colspan="1" rowspan="1">300.00</td>
+										<td colspan="1" rowspan="1">204.00</td>
+										<td colspan="1" rowspan="1">120.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing at other
+										sentencing hearing</td>
+										<td colspan="1" rowspan="1">15(2)(b)</td>
+										<td colspan="1" rowspan="1">150.00</td>
+										<td colspan="1" rowspan="1">102.00</td>
+										<td colspan="1" rowspan="1">60.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Other appearances</td>
+										<td colspan="1" rowspan="1">16</td>
+										<td colspan="1" rowspan="1">116.00</td>
+										<td colspan="1" rowspan="1">79.00</td>
+										<td colspan="1" rowspan="1">46.50</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Work for which hourly
+										fee is payable</td>
+										<td colspan="1" rowspan="1">17, 18 19(1)</td>
+										<td colspan="1" rowspan="1">62.50 per hour</td>
+										<td colspan="1" rowspan="1">47.00 per hour</td>
+										<td colspan="1" rowspan="1">33.50 per hour</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Listening to or
+										viewing tapes <Abbreviation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										Expansion="et cetera" xml:lang="la"
+										>etc.</Abbreviation></td>
+										<td colspan="1" rowspan="1">19(2)</td>
+										<td colspan="1" rowspan="1">27.15 per 10
+										minutes</td>
+										<td colspan="1" rowspan="1">18.50 per 10
+										minutes</td>
+										<td colspan="1" rowspan="1">10.90 per 10
+										minutes</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing in appeal
+										against conviction</td>
+										<td colspan="1" rowspan="1">20(1)</td>
+										<td colspan="1" rowspan="1">292.25</td>
+										<td colspan="1" rowspan="1">199.00</td>
+										<td colspan="1" rowspan="1">117.00</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Appearing in other
+										case within paragraph 3</td>
+										<td colspan="1" rowspan="1">20(1)</td>
+										<td colspan="1" rowspan="1">184.50</td>
+										<td colspan="1" rowspan="1">125.00</td>
+										<td colspan="1" rowspan="1">73.50</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Additional fee for
+										unattended advocate</td>
+										<td colspan="1" rowspan="1">20(2)</td>
+										<td colspan="1" rowspan="1">19.25</td>
+										<td colspan="1" rowspan="1">19.25</td>
+										<td colspan="1" rowspan="1">19.25</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Noting brief</td>
+										<td colspan="1" rowspan="1">21</td>
+										<td colspan="1" rowspan="1">—</td>
+										<td colspan="1" rowspan="1">—</td>
+										<td colspan="1" rowspan="1">100.00 per day</td>
+										</tr>
+										</tbody>
+										</table>
+									</Tabular>
+								</P1para>
+							</P1>
+						</Part>
+						<Part>
+							<Number>PART V</Number>
+							<Title>MISCELLANEOUS</Title>
+							<P1>
+								<Pnumber>22</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>Where a legally assisted person is charged
+										with more than one offence on one indictment, the
+										graduated fee payable to the advocate shall be
+										based on whichever of those offences he shall
+										select for the purpose.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>Where two or more cases to which this
+										Schedule applies involving the same advocate are
+										heard concurrently (whether involving the same or
+										different legally assisted persons): —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>the advocate shall select one case (“the
+										principal case”), which shall be treated for the
+										purposes of remuneration in accordance with the
+										previous paragraphs of this Schedule;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>in respect of the main hearing in each of
+										the other cases the advocate shall be paid a fixed
+										fee of one-fifth of: —</Text>
+										<P4>
+										<Pnumber>i</Pnumber>
+										<P4para>
+										<Text>the basic fee for the principal case, where
+										that is a case falling within paragraph 2,
+										or</Text>
+										</P4para>
+										</P4>
+										<P4>
+										<Pnumber>ii</Pnumber>
+										<P4para>
+										<Text>the fixed fee for the principal case, where
+										that is a case falling within paragraph 3.</Text>
+										</P4para>
+										</P4>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>Where a person appears at a hearing
+										specified in paragraph 11, 12(2), 13, 14, 15 or
+										16(a) or (b), forming part of two or more cases
+										involving different legally assisted persons, he
+										shall be paid: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>in respect of the first such case, the fixed
+										fee for that hearing specified in the Table
+										following paragraph 21;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>in respect of each of the other cases,
+										one-fifth of that fee.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+										<Text>Subject to sub-paragraphs (1) to (3), where
+										a person appears at a hearing forming part of two
+										or more cases, he shall be paid the fixed fee for
+										that hearing specified in the Table following
+										paragraph 21 in respect of one such case, without
+										any increase in respect of the other cases.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>23</Pnumber>
+								<P1para>
+									<P2>
+										<Pnumber>1</Pnumber>
+										<P2para>
+										<Text>Where in any case on indictment two
+										advocates are instructed to represent the same
+										legally assisted person: —</Text>
+										<P3>
+										<Pnumber>a</Pnumber>
+										<P3para>
+										<Text>if the leading advocate is a Queen’s
+										Counsel, he shall receive the same graduated fee
+										as if he were appearing alone;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>b</Pnumber>
+										<P3para>
+										<Text>if the leading advocate is not a Queen’s
+										Counsel, he shall receive three-quarters of the 5
+										graduated fee payable to a Queen’s Counsel
+										appearing alone;</Text>
+										</P3para>
+										</P3>
+										<P3>
+										<Pnumber>c</Pnumber>
+										<P3para>
+										<Text>in either case, the junior advocate shall
+										receive one-half of the graduated fee payable to a
+										Queen’s Counsel appearing alone.</Text>
+										</P3para>
+										</P3>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>2</Pnumber>
+										<P2para>
+										<Text>Where the legally assisted person is
+										represented by a single advocate and another
+										person charged on the same indictment with an
+										offence falling within the same Class is
+										represented by two advocates, the single advocate
+										shall receive the same graduated fee as if he were
+										appearing as junior to another advocate.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+										<Text>Sub-paragraph (2) shall not apply where the
+										charge which the single advocate is instructed to
+										defend (or where there is more than one such
+										charge, the charge forming the basis of
+										remuneration in accordance with paragraph 22(1))
+										is for an offence falling within Class A.</Text>
+										</P2para>
+									</P2>
+								</P1para>
+							</P1>
+							<P1>
+								<Pnumber>24</Pnumber>
+								<P1para>
+									<Text>Where a person is instructed to appear in a court
+										which is not within 40 kilometres of his office or
+										chambers, the appropriate authority may allow an
+										amount for travelling and other expenses incidental
+										to that appearance; provided that the amount shall
+										not be greater than the amount, if any, which would
+										be payable to an advocate from the nearest local Bar
+										or the nearest authorised advocate’s office
+										(whichever is the nearer) unless the person
+										instructed to appear can justify his attendance
+										having regard to all the relevant circumstances of
+										the case.</Text>
+								</P1para>
+							</P1>
+							<Pblock>
+								<Title>TABLE OF OFFENCES</Title>
+								<Reference>Paragraph 5</Reference>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+										<thead>
+										<tr>
+										<th colspan="1" rowspan="1">Offence</th>
+										<th colspan="1" rowspan="1">Contrary to</th>
+										<th colspan="1" rowspan="1">Year and chapter</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class A: Homicide and related grave
+										offences</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Murder</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Manslaughter</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Soliciting to
+										murder</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 4</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00001" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Child destruction</td>
+										<td colspan="1" rowspan="1">Infant Life
+										(Preservation) Act 1929 section 1(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1929/34"
+										id="c00002" Class="UnitedKingdomPublicGeneralAct"
+										Year="1929" Number="0034">1929 c.
+										34</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Infanticide</td>
+										<td colspan="1" rowspan="1">Infanticide Act 1938
+										section 1(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1938/36"
+										id="c00003" Class="UnitedKingdomPublicGeneralAct"
+										Year="1938" Number="0036">1938 c.
+										36</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing explosion
+										likely to endanger life or property</td>
+										<td colspan="1" rowspan="1">Explosive Substances
+										Act 1883 section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1883/3"
+										id="c00004" Class="UnitedKingdomPublicGeneralAct"
+										Year="1883" Number="0003">1883 c.
+										3</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Attempt to cause
+										explosion, making or keeping explosive etc.</td>
+										<td colspan="1" rowspan="1">Explosive Substances
+										Act 1883 section 3</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class B: Offences involving serious violence or
+										damage, and serious drugs offences</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Kidnapping</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">False
+										imprisonment</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aggravated criminal
+										damage</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 1(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/48"
+										id="c00005" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0048">1971 c.
+										48</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aggravated arson</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 1(2), (3)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Arson (where value
+										exceeds £30,000)</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 1(3)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of firearm
+										with intent to endanger life</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 16</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/27"
+										id="c00006" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0027">1968 c.
+										27</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Use of firearm to
+										resist arrest</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of firearm
+										with criminal intent</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 18</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession or
+										acquisition of certain prohibited weapons
+										etc.</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 5</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/27"
+										id="c00007" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0027">1968 c.
+										27</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aggravated
+										burglary</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										10</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00008" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Armed robbery</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										8(1)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assault with weapon
+										with intent to rob</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										8(2)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Blackmail</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										21</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Riot</td>
+										<td colspan="1" rowspan="1">Public Order Act 1986
+										section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/64"
+										id="c00009" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0064">1986 c.
+										64</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Violent disorder</td>
+										<td colspan="1" rowspan="1">Public Order Act 1986
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/64"
+										id="c00010" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0064">1986 c.
+										64</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Contamination of goods
+										with intent</td>
+										<td colspan="1" rowspan="1">Public Order Act 1986
+										section 38</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/64"
+										id="c00011" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0064">1986 c.
+										64</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing death by
+										dangerous driving</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1988
+										section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/52"
+										id="c00012" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0052">1988 c.
+										52</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing death by
+										careless driving while under the influence of
+										drink or drugs</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1988
+										section 3A</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aggravated vehicle
+										taking resulting in death</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										12A</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00013" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing danger to road
+										users</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1988
+										section 22A</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/52"
+										id="c00014" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0052">1988 c.
+										52</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Attempting to choke,
+										suffocate, strangle etc.</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 21</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00015" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing miscarriage by
+										poison, instrument</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 58</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making threats to
+										kill</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 16</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Wounding or grievous
+										bodily harm with intent to cause grievous bodily
+										harm etc.</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 18</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Endangering the safety
+										of railway passengers</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 sections 32, 33, 34</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Impeding persons
+										endeavouring to escape wrecks</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Administering
+										chloroform, laudanum etc.</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 22</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Administering poison
+										etc. so as to endanger life</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 23</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00016" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Cruelty to persons
+										under 16</td>
+										<td colspan="1" rowspan="1">Children and Young
+										Persons Act 1933 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1933/12"
+										id="c00017" Class="UnitedKingdomPublicGeneralAct"
+										Year="1933" Number="0012">1933 c.
+										12</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aiding and abetting
+										suicide</td>
+										<td colspan="1" rowspan="1">Suicide Act 1961
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1961/60"
+										id="c00018" Class="UnitedKingdomPublicGeneralAct"
+										Year="1961" Number="0060">1961 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Placing wood etc. on
+										railway</td>
+										<td colspan="1" rowspan="1">Malicious Damage Act
+										1861 section 35</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/97"
+										id="c00019" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0097">1861 c.
+										97</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Exhibiting false
+										signals etc.</td>
+										<td colspan="1" rowspan="1">Malicious Damage Act
+										1861 section 47</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Prison mutiny</td>
+										<td colspan="1" rowspan="1">Prison Security Act
+										1992 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1992/25"
+										id="c00020" Class="UnitedKingdomPublicGeneralAct"
+										Year="1992" Number="0025">1992 c.
+										25</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assaulting prison
+										officer whilst possessing firearm etc.</td>
+										<td colspan="1" rowspan="1">Criminal Justice Act
+										1991 section 90</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1991/53"
+										id="c00021" Class="UnitedKingdomPublicGeneralAct"
+										Year="1991" Number="0053">1991 c.
+										53</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Acquiring, possessing
+										etc. the proceeds of criminal conduct</td>
+										<td colspan="1" rowspan="1">Criminal Justice Act
+										1988 section 93</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/33"
+										id="c00022" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0033">1988 c.
+										33</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Producing or supplying
+										a Class A or B drug</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 4</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00023" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of a Class
+										A or B drug with intent to supply</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 5(3)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Manufacture and supply
+										of scheduled substances</td>
+										<td colspan="1" rowspan="1">Criminal Justice
+										(International Co-operation) Act 1990 section
+										12</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1990/5"
+										id="c00024" Class="UnitedKingdomPublicGeneralAct"
+										Year="1990" Number="0005">1990 c.
+										5</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent evasion of
+										controls on Class A and B drugs</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 170(2)(b), (c)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00025" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Illegal importation of
+										Class A and B drugs</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 50</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences in relation
+										to proceeds of drug trafficking</td>
+										<td colspan="1" rowspan="1">Drug Trafficking Act
+										1994 sections 49, 50 and 51</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1994/37"
+										id="c00026" Class="UnitedKingdomPublicGeneralAct"
+										Year="1994" Number="0037">1994 c.
+										37</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences in relation
+										to money laundering investigations</td>
+										<td colspan="1" rowspan="1">Drug Trafficking Act
+										1994 sections 52 and 53</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Practitioner
+										contravening drug supply regulations</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 12, 13</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00027" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Cultivation of
+										cannabis plant</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 6</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Occupier knowingly
+										permitting drugs offences etc.</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 8</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Activities relating to
+										opium</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 9</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Drug trafficking
+										offences at sea</td>
+										<td colspan="1" rowspan="1">Criminal Justice
+										(International Co-operation) Act 1990 section
+										18</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1990/5"
+										id="c00028" Class="UnitedKingdomPublicGeneralAct"
+										Year="1990" Number="0005">1990 c.
+										5</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Firing on Revenue
+										vessel</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 85</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making or possession
+										of explosive in suspicious circumstances</td>
+										<td colspan="1" rowspan="1">Explosive Substances
+										Act 1883 section 4(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1883/3"
+										id="c00029" Class="UnitedKingdomPublicGeneralAct"
+										Year="1883" Number="0003">1883 c.
+										3</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing bodily injury
+										by explosives</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 28</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00030" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Using explosive or
+										corrosives with intent to cause grievous bodily
+										harm</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 29</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Hostage taking</td>
+										<td colspan="1" rowspan="1">Taking of Hostages Act
+										1982 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1982/28"
+										id="c00031" Class="UnitedKingdomPublicGeneralAct"
+										Year="1982" Number="0028">1982 c.
+										28</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assisting another to
+										retain proceeds of terrorist activities</td>
+										<td colspan="1" rowspan="1">Northern Ireland
+										(Emergency Provisions) Act 1991 section 53</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1991/24"
+										id="c00032" Class="UnitedKingdomPublicGeneralAct"
+										Year="1991" Number="0024">1991 c.
+										24</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Concealing or
+										transferring proceeds of terrorist activities</td>
+										<td colspan="1" rowspan="1">Northern Ireland
+										(Emergency Provisions) Act 1991 section 54</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences against
+										international protection of nuclear material</td>
+										<td colspan="1" rowspan="1">Nuclear Material
+										(Offences) Act 1983 section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1983/18"
+										id="c00033" Class="UnitedKingdomPublicGeneralAct"
+										Year="1983" Number="0018">1983 c.
+										18</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Placing explosives
+										with intent to cause bodily injury</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 30</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00034" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Membership, support or
+										meeting of proscribed organisations</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1989/4"
+										id="c00035" Class="UnitedKingdomPublicGeneralAct"
+										Year="1989" Number="0004">1989 c.
+										4</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences involving
+										money or property to be used for acts of
+										terrorism</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										9</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences involving
+										contributions to proscribed organisations</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										10</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assisting in the
+										retention or control of terrorist funds</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										11</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of articles
+										for terrorist purposes</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										16A</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Unlawful collection of
+										information for terrorist purposes</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										16B</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Frustrating
+										investigation of terrorist activities</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class C: Lesser offences involving violence or
+										damage, and less serious drugs
+										offences</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Robbery (other than
+										armed robbery)</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										8(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00036" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Unlawful wounding</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 20</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00037" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assault occasioning
+										actual bodily harm</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 47</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Concealment of
+										birth</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 60</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abandonment of
+										children under two</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 27</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Arson (other than
+										aggravated arson) where value does not exceed
+										£30,000</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 1(3)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/48"
+										id="c00038" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0048">1971 c.
+										48</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Criminal damage (other
+										than aggravated criminal damage)</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 1(1)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of firearm
+										without certificate</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/27"
+										id="c00039" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0027">1968 c.
+										27</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Carrying loaded
+										firearm in public place</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 19</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Trespassing with a
+										firearm</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 20</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Shortening of shotgun
+										or possession of shortened shotgun</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 4</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Shortening of smooth
+										bore gun</td>
+										<td colspan="1" rowspan="1">Firearms Amendment Act
+										1988 section 6(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/45"
+										id="c00040" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0045">1988 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession or
+										acquisition of shotgun without certificate</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/27"
+										id="c00041" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0027">1968 c.
+										27</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of firearms
+										by persons convicted of crime</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 21(4)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Acquisition by or
+										supply of firearms to person denied them</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 21(5)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Dealing in
+										firearms</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 3</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Failure to comply with
+										certificate when transferring firearm</td>
+										<td colspan="1" rowspan="1">Firearms Act 1968
+										section 42</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Permitting an
+										escape</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Rescue</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Escaping from lawful
+										custody without force</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Breach of prison</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Harbouring escaped
+										prisoners</td>
+										<td colspan="1" rowspan="1">Criminal Justice Act
+										1961 section 22</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1961/39"
+										id="c00042" Class="UnitedKingdomPublicGeneralAct"
+										Year="1961" Number="0039">1961 c.
+										39</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assisting prisoners to
+										escape</td>
+										<td colspan="1" rowspan="1">Prison Act 1952
+										section 39</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1952/52"
+										id="c00043" Class="UnitedKingdomPublicGeneralAct"
+										Year="1952" Number="0052">1952 c.
+										52</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent evasion of
+										agricultural levy</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 68A(1) and (2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00044" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offender armed or
+										disguised</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 86</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making threats to
+										destroy or damage property</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/48"
+										id="c00045" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0048">1971 c.
+										48</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possessing anything
+										with intent to destroy or damage property</td>
+										<td colspan="1" rowspan="1">Criminal Damage Act
+										1971 section 3</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Child abduction by
+										connected person</td>
+										<td colspan="1" rowspan="1">Child Abduction Act
+										1984 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1984/37"
+										id="c00046" Class="UnitedKingdomPublicGeneralAct"
+										Year="1984" Number="0037">1984 c.
+										37</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Child abduction by
+										other person</td>
+										<td colspan="1" rowspan="1">Child Abduction Act
+										1984 section 2</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Bomb hoax</td>
+										<td colspan="1" rowspan="1">Criminal Law Act 1977
+										section 51</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1977/45"
+										id="c00047" Class="UnitedKingdomPublicGeneralAct"
+										Year="1977" Number="0045">1977 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Cutting away buoys
+										etc.</td>
+										<td colspan="1" rowspan="1">Malicious Damage Act
+										1861 section 48</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/97"
+										id="c00048" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0097">1861 c.
+										97</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Producing or supplying
+										Class C drug</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 4</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00049" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of a Class
+										C drug with intent to supply</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 5(3)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent evasion of
+										controls on Class C drugs</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 170(2)(b), (c)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00050" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Illegal importation of
+										Class C drugs</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 50</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of Class A
+										drug</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 5(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00051" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Failure to disclose
+										knowledge or suspicion of money laundering</td>
+										<td colspan="1" rowspan="1">Drug Trafficking
+										Offences Act 1986 section 26B</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/32"
+										id="c00052" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0032">1986 c.
+										32</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Tipping-off in
+										relation to money laundering investigations</td>
+										<td colspan="1" rowspan="1">Drug Trafficking
+										Offences Act 1986 section 26C</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assaults on officers
+										saving wrecks</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 37</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00053" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Attempting to injure
+										or alarm the Sovereign</td>
+										<td colspan="1" rowspan="1">Treason Act 1842
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1842/51"
+										id="c00054" Class="UnitedKingdomPublicGeneralAct"
+										Year="1842" Number="0051">1842 c.
+										51</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assisting illegal
+										entry or harbouring persons</td>
+										<td colspan="1" rowspan="1">Immigration Act 1971
+										section 25</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/77"
+										id="c00055" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0077">1971 c.
+										77</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Administering poison
+										with intent to injure etc.</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 24</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00056" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Neglecting to provide
+										food for or assaulting servants etc.</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 26</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Setting spring guns
+										with intent to inflict grievous bodily harm</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 31</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Supplying instrument
+										etc. to cause miscarriage</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 59</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Failure to disclose
+										information about terrorism</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										18</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1989/4"
+										id="c00057" Class="UnitedKingdomPublicGeneralAct"
+										Year="1989" Number="0004">1989 c.
+										4</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences in respect of
+										exclusion orders</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Terrorism (Temporary Provisions) Act 1989 section
+										8</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Circumcision of
+										females</td>
+										<td colspan="1" rowspan="1">Prohibition of Female
+										Circumcision Act 1985 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1985/38"
+										id="c00058" Class="UnitedKingdomPublicGeneralAct"
+										Year="1985" Number="0038">1985 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Breaking or injuring
+										submarine telegraph cables</td>
+										<td colspan="1" rowspan="1">Submarine Telegraph
+										Act 1885 section 3</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1885/49"
+										id="c00059" Class="UnitedKingdomPublicGeneralAct"
+										Year="1885" Number="0049">1885 c.
+										49</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Failing to keep dogs
+										under proper control resulting in injury</td>
+										<td colspan="1" rowspan="1">Dangerous Dogs Act
+										1991 section 3</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1991/65"
+										id="c00060" Class="UnitedKingdomPublicGeneralAct"
+										Year="1991" Number="0065">1991 c.
+										65</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making gunpowder etc.
+										to commit offences</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 64</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00061" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Stirring up racial
+										hatred</td>
+										<td colspan="1" rowspan="1">Public Order Act 1986
+										sections 18-23</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/64"
+										id="c00062" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0064">1986 c.
+										64</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class D: Serious sexual offences, offences
+										against children</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Rape</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 1(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00063" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Administering drugs to
+										obtain intercourse</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 4</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Sexual intercourse
+										with girl under 13</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 5</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Sexual intercourse
+										with girl under 16</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 6</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Sexual intercourse
+										with defective</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 7</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Procurement of a
+										defective</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 9</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Incest</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 10</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Buggery of male of 16
+										or over without consent</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 12</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Buggery of male under
+										16, woman or animal</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 12</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Buggery by male of 21
+										or over of consenting male of 16-18</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 12</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Gross indecency
+										between male of 18 or over and male under 18</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 13</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Indecent assault on a
+										woman</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 14</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Indecent assault on a
+										man</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 15</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Indecency with
+										children under 14</td>
+										<td colspan="1" rowspan="1">Indecency with
+										Children Act 1960 section 1(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1960/33"
+										id="c00064" Class="UnitedKingdomPublicGeneralAct"
+										Year="1960" Number="0033">1960 c.
+										33</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Taking, having etc.
+										indecent photographs of children</td>
+										<td colspan="1" rowspan="1">Protection of Children
+										Act 1978 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1978/37"
+										id="c00065" Class="UnitedKingdomPublicGeneralAct"
+										Year="1978" Number="0037">1978 c.
+										37</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assault with intent to
+										commit buggery</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 16</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00066" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abduction of woman by
+										force</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Permitting girl under
+										13 to use premises for sexual intercourse</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 25</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Man living on earnings
+										of prostitution</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 30</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Woman exercising
+										control over prostitute</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 31</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Living on earnings of
+										male prostitution</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1967 section 5</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1967/60"
+										id="c00067" Class="UnitedKingdomPublicGeneralAct"
+										Year="1967" Number="0060">1967 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Incitement to commit
+										incest</td>
+										<td colspan="1" rowspan="1">Criminal Law Act 1977
+										section 54</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1977/45"
+										id="c00068" Class="UnitedKingdomPublicGeneralAct"
+										Year="1977" Number="0045">1977 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Allowing or procuring
+										child under 16 to go abroad to perform</td>
+										<td colspan="1" rowspan="1">Children and Young
+										Persons Act 1933 sections 25, 26</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1933/12"
+										id="c00069" Class="UnitedKingdomPublicGeneralAct"
+										Year="1933" Number="0012">1933 c.
+										12</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Sexual intercourse
+										with patients</td>
+										<td colspan="1" rowspan="1">Mental Health Act 1959
+										section 128</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1959/72"
+										id="c00070" Class="UnitedKingdomPublicGeneralAct"
+										Year="1959" Number="0072">1959 c.
+										72</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Ill-treatment of
+										persons of unsound mind</td>
+										<td colspan="1" rowspan="1">Mental Health Act 1983
+										section 127</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1983/20"
+										id="c00071" Class="UnitedKingdomPublicGeneralAct"
+										Year="1983" Number="0020">1983 c.
+										20</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abduction of unmarried
+										girl under 18 from parent</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 19</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00072" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abduction of unmarried
+										girl under 16 from parent</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 20</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abduction of defective
+										from parent</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 21</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Procuration of girl
+										under 21</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 23</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Permitting girl under
+										16 to use premises for intercourse</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 26</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Permitting defective
+										to use premises for intercourse</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 27</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing or encouraging
+										prostitution of girl under 16</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 28</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing or encouraging
+										prostitution of defective</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 29</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class E: Burglary etc.</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Burglary
+										(domestic)</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										9(3)(a)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00073" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Going equipped to
+										steal</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										25</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Burglary
+										(non-domestic)</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										9(3)(b)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Classes F and G: Other offences of
+										dishonesty</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>The following offences are always in Class
+										F</Emphasis></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Destruction of
+										registers of births etc.</td>
+										<td colspan="1" rowspan="1">Forgery Act 1861
+										section 36</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/98"
+										id="c00074" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0098">1861 c.
+										98</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making false entries
+										in copies of registers sent to registrar</td>
+										<td colspan="1" rowspan="1">Forgery Act 1861
+										section 37</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>The following offences are always in Class
+										G</Emphasis></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Counterfeiting notes
+										and coins</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 14</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1981/45"
+										id="c00075" Class="UnitedKingdomPublicGeneralAct"
+										Year="1981" Number="0045">1981 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Passing counterfeit
+										notes and coins</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 15</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences involving
+										custody or control of counterfeit notes or
+										coins</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 16</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making, custody or
+										control of counterfeiting materials etc.</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Illegal importation:
+										counterfeit notes or coins</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 50</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00076" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent evasion:
+										counterfeit notes or coins</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 170(2)(b), (c)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Emphasis
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>The following offences are in Class G if the
+										value involved exceeds £30,000, and in Class F
+										otherwise</Emphasis></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Theft</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00077" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Removal of articles
+										from places open to the public</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										11</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Abstraction of
+										electricity</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										13</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obtaining property by
+										deception</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										15</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obtaining pecuniary
+										advantage by deception</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										16</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">False accounting</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										17</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Handling stolen
+										goods</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										22</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obtaining services by
+										deception</td>
+										<td colspan="1" rowspan="1">Theft Act 1978 section
+										1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1978/31"
+										id="c00078" Class="UnitedKingdomPublicGeneralAct"
+										Year="1978" Number="0031">1978 c.
+										31</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Evasion of liability
+										by deception</td>
+										<td colspan="1" rowspan="1">Theft Act 1978 section
+										2</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Illegal importation:
+										not elsewhere specified</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 50</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00079" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Counterfeiting Customs
+										documents</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 168</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent evasion:
+										not elsewhere specified</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 170(2)(b), (c)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Forgery</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1981/45"
+										id="c00080" Class="UnitedKingdomPublicGeneralAct"
+										Year="1981" Number="0045">1981 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Copying false
+										instrument with intent</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 2</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Using a false
+										instrument</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 3</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Using a copy of a
+										false instrument</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 4</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Custody or control of
+										false instruments etc.</td>
+										<td colspan="1" rowspan="1">Forgery and
+										Counterfeiting Act 1981 section 5</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences in relation
+										to dies or stamps</td>
+										<td colspan="1" rowspan="1">Stamp Duties
+										Management Act 1891 section 13</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1891/38"
+										id="c00081" Class="UnitedKingdomPublicGeneralAct"
+										Year="1891" Number="0038">1891 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Counterfeiting of dies
+										or marks</td>
+										<td colspan="1" rowspan="1">Hallmarking Act 1973
+										section 6</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1973/43"
+										id="c00082" Class="UnitedKingdomPublicGeneralAct"
+										Year="1973" Number="0043">1973 c.
+										43</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fraudulent application
+										of trade mark</td>
+										<td colspan="1" rowspan="1">Trade Marks Act 1938
+										section 58A</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1938/22"
+										id="c00083" Class="UnitedKingdomPublicGeneralAct"
+										Year="1938" Number="0022">1938 c.
+										22</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class H: Miscellaneous lesser
+										offences</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of
+										offensive weapon</td>
+										<td colspan="1" rowspan="1">Prevention of Crime
+										Act 1953 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1953/14"
+										id="c00084" Class="UnitedKingdomPublicGeneralAct"
+										Year="1953" Number="0014">1953 c.
+										14</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Affray</td>
+										<td colspan="1" rowspan="1">Public Order Act 1986
+										section 3</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1986/64"
+										id="c00085" Class="UnitedKingdomPublicGeneralAct"
+										Year="1986" Number="0064">1986 c.
+										64</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assault with intent to
+										resist arrest</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 38</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00086" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Unlawful eviction and
+										harassment of occupier</td>
+										<td colspan="1" rowspan="1">Protection from
+										Eviction Act 1977 s.1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1977/43"
+										id="c00087" Class="UnitedKingdomPublicGeneralAct"
+										Year="1977" Number="0043">1977 c.
+										43</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obscene articles
+										intended for publication for gain</td>
+										<td colspan="1" rowspan="1">Obscene Publications
+										Act 1964 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1964/74"
+										id="c00088" Class="UnitedKingdomPublicGeneralAct"
+										Year="1964" Number="0074">1964 c.
+										74</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Gross indecency
+										between males (other than where one is 18 or over
+										and the other is under 18)</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 13</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00089" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Solicitation for
+										immoral purposes</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 32</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Buggery by male under
+										21 of consenting male 16 – 18</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 12</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00090" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Buggery of males of 21
+										or over otherwise than in private</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 12</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Acts outraging public
+										decency</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences of
+										publication of obscene matter</td>
+										<td colspan="1" rowspan="1">Obscene Publications
+										Act 1959 section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1959/66"
+										id="c00091" Class="UnitedKingdomPublicGeneralAct"
+										Year="1959" Number="0066">1959 c.
+										66</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Keeping a disorderly
+										house</td>
+										<td colspan="1" rowspan="1">Common law; Disorderly
+										Houses Act 1751 section 8</td>
+										<td colspan="1" rowspan="1">25 <Abbreviation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										Expansion="George">Geo.</Abbreviation> 2 c.36</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Indecent display</td>
+										<td colspan="1" rowspan="1">Indecent Displays
+										(Control) Act 1981 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1981/42"
+										id="c00092" Class="UnitedKingdomPublicGeneralAct"
+										Year="1981" Number="0042">1981 c.
+										42</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Presentation of
+										obscene performance</td>
+										<td colspan="1" rowspan="1">Theatres Act 1968
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/54"
+										id="c00093" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0054">1968 c.
+										54</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Procurement of
+										intercourse by threats etc.</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1956/69"
+										id="c00094" Class="UnitedKingdomPublicGeneralAct"
+										Year="1956" Number="0069">1956 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Causing prostitution
+										of women</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 22</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Detention of woman in
+										brothel or other premises</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 24</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Procurement of a woman
+										by false pretences</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1956 section 3</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Procuring others to
+										commit homosexual acts</td>
+										<td colspan="1" rowspan="1">Sexual Offences Act
+										1967 section 4</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1967/60"
+										id="c00095" Class="UnitedKingdomPublicGeneralAct"
+										Year="1967" Number="0060">1967 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Trade description
+										offences (9 offences)</td>
+										<td colspan="1" rowspan="1">Trade Descriptions Act
+										1968 sections 1, 8, 9, 12, 13, 14, 18</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/29"
+										id="c00096" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0029">1968 c.
+										29</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Absconding by person
+										released on bail</td>
+										<td colspan="1" rowspan="1">Bail Act 1976 section
+										6(1), (2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1976/63"
+										id="c00097" Class="UnitedKingdomPublicGeneralAct"
+										Year="1976" Number="0063">1976 c.
+										63</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Misconduct endangering
+										ship or persons on board ship</td>
+										<td colspan="1" rowspan="1">Merchant Shipping Act
+										1970 section 27</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1970/36"
+										id="c00098" Class="UnitedKingdomPublicGeneralAct"
+										Year="1970" Number="0036">1970 c.
+										36</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obstructing engine or
+										carriage on railway</td>
+										<td colspan="1" rowspan="1">Malicious Damage Act
+										1861</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/97"
+										id="c00099" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0097">1861 c.
+										97</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Offences relating to
+										the safe custody of controlled drugs</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 11</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00100" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Possession of Class B
+										or C drug</td>
+										<td colspan="1" rowspan="1">Misuse of Drugs Act
+										1971 section 5(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/38"
+										id="c00101" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0038">1971 c.
+										38</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Wanton or furious
+										driving</td>
+										<td colspan="1" rowspan="1">Offences against the
+										Person Act 1861 section 35</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/100"
+										id="c00102" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0100">1861 c.
+										100</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Dangerous driving</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1988
+										section 2</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/52"
+										id="c00103" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0052">1988 c.
+										52</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Forgery and misuse of
+										driving documents</td>
+										<td colspan="1" rowspan="1">Public Passenger
+										Vehicles Act 1981 section 65</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1981/14"
+										id="c00104" Class="UnitedKingdomPublicGeneralAct"
+										Year="1981" Number="0014">1981 c.
+										14</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Forgery of driving
+										documents</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1960
+										section 233</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1960/59"
+										id="c00105" Class="UnitedKingdomPublicGeneralAct"
+										Year="1960" Number="0059">1960 c.
+										59</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Forgery etc. of
+										licences and other documents</td>
+										<td colspan="1" rowspan="1">Road Traffic Act 1988
+										section 173</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1988/52"
+										id="c00106" Class="UnitedKingdomPublicGeneralAct"
+										Year="1988" Number="0052">1988 c.
+										52</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Mishandling or
+										falsifying parking documents etc.</td>
+										<td colspan="1" rowspan="1">Road Traffic
+										Regulations Act 1984 section 115</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1984/27"
+										id="c00107" Class="UnitedKingdomPublicGeneralAct"
+										Year="1984" Number="0027">1984 c.
+										27</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Aggravated vehicle
+										taking</td>
+										<td colspan="1" rowspan="1">Theft Act 1968 section
+										12A</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/60"
+										id="c00108" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0060">1968 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Forgery, alteration,
+										fraud of licences etc.</td>
+										<td colspan="1" rowspan="1">Vehicle (Excise) Act
+										1971 section 26</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1971/10"
+										id="c00109" Class="UnitedKingdomPublicGeneralAct"
+										Year="1971" Number="0010">1971 c.
+										10</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making off without
+										payment</td>
+										<td colspan="1" rowspan="1">Theft Act 1978 section
+										3</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1978/31"
+										id="c00110" Class="UnitedKingdomPublicGeneralAct"
+										Year="1978" Number="0031">1978 c.
+										31</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Agreeing to indemnify
+										sureties</td>
+										<td colspan="1" rowspan="1">Bail Act 1976 section
+										9(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1976/63"
+										id="c00111" Class="UnitedKingdomPublicGeneralAct"
+										Year="1976" Number="0063">1976 c.
+										63</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Sending prohibited
+										articles by post</td>
+										<td colspan="1" rowspan="1">Post Office Act 1953
+										section 11</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1953/36"
+										id="c00112" Class="UnitedKingdomPublicGeneralAct"
+										Year="1953" Number="0036">1953 c.
+										36</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Impersonating Customs
+										officer</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 13</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1979/2"
+										id="c00113" Class="UnitedKingdomPublicGeneralAct"
+										Year="1979" Number="0002">1979 c.
+										2</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Obstructing Customs
+										officer</td>
+										<td colspan="1" rowspan="1">Customs and Excise
+										Management Act 1979 section 16</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="3" rowspan="1"><Strong
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										>Class I: Offences against public justice and
+										similar offences</Strong></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Perverting the course
+										of public justice</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Perjuries (7
+										offences)</td>
+										<td colspan="1" rowspan="1">Perjury Act 1911
+										sections 1 – 7(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1911/6"
+										id="c00114" Class="UnitedKingdomPublicGeneralAct"
+										Year="1911" Number="0006">1911 c.
+										6</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Corrupt transactions
+										with agents</td>
+										<td colspan="1" rowspan="1">Prevention of
+										Corruption Act 1906 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1906/34"
+										id="c00115" Class="UnitedKingdomPublicGeneralAct"
+										Year="1906" Number="0034">1906 c.
+										34</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Corruption in public
+										office</td>
+										<td colspan="1" rowspan="1">Public Bodies Corrupt
+										Practices Act 1889 section 1</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1889/69"
+										id="c00116" Class="UnitedKingdomPublicGeneralAct"
+										Year="1889" Number="0069">1889 c.
+										69</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Embracery</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Fabrication of
+										evidence with intent to mislead a tribunal</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Personation of
+										jurors</td>
+										<td colspan="1" rowspan="1">Common law</td>
+										<td colspan="1" rowspan="1"/>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Concealing an
+										arrestable offence</td>
+										<td colspan="1" rowspan="1">Criminal Law Act 1967
+										section 5</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1967/45"
+										id="c00117" Class="UnitedKingdomPublicGeneralAct"
+										Year="1967" Number="0045">1967 c.
+										45</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Assisting
+										offenders</td>
+										<td colspan="1" rowspan="1">Criminal Law Act 1967
+										section 4(1)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">False evidence before
+										European Court</td>
+										<td colspan="1" rowspan="1">European Communities
+										Act 1972 section 11</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1972/68"
+										id="c00118" Class="UnitedKingdomPublicGeneralAct"
+										Year="1972" Number="0068">1972 c.
+										68</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Personating for
+										purposes of bail etc.</td>
+										<td colspan="1" rowspan="1">Forgery Act 1861
+										section 34</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1861/60"
+										id="c00119" Class="UnitedKingdomPublicGeneralAct"
+										Year="1861" Number="0060">1861 c.
+										60</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Intimidating a
+										witness, juror etc.</td>
+										<td colspan="1" rowspan="1">Criminal Justice and
+										Public Order Act 1994 section 51(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1994/33"
+										id="c00120" Class="UnitedKingdomPublicGeneralAct"
+										Year="1994" Number="0033">1994 c.
+										33</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Harming, threatening
+										to harm a witness, juror etc.</td>
+										<td colspan="1" rowspan="1">Criminal Justice and
+										Public Order Act 1994 section 51(2)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Prejudicing a drug
+										trafficking investigation</td>
+										<td colspan="1" rowspan="1">Drug Trafficking Act
+										1994 section 58(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1994/37"
+										id="c00121" Class="UnitedKingdomPublicGeneralAct"
+										Year="1994" Number="0037">1994 c.
+										37</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Giving false
+										statements to procure cremation</td>
+										<td colspan="1" rowspan="1">Cremation Act 1902
+										section 8(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1902/8"
+										id="c00122" Class="UnitedKingdomPublicGeneralAct"
+										Year="1902" Number="0008">1902 c.
+										8</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">False statement
+										tendered under section 9 of the Criminal Justice
+										Act 1967</td>
+										<td colspan="1" rowspan="1">Criminal Justice Act
+										1967 section 89</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1967/80"
+										id="c00123" Class="UnitedKingdomPublicGeneralAct"
+										Year="1967" Number="0080">1967 c.
+										80</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making a false
+										statement to obtain interim possession order</td>
+										<td colspan="1" rowspan="1">Criminal Justice and
+										Public Order Act 1994 section 75(1)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1994/33"
+										id="c00124" Class="UnitedKingdomPublicGeneralAct"
+										Year="1994" Number="0033">1994 c.
+										33</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making false statement
+										to resist making of interim possession order</td>
+										<td colspan="1" rowspan="1">Criminal Justice and
+										Public Order Act 1994 section 75(2)</td>
+										<td colspan="1" rowspan="1">as above</td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">False statement
+										tendered under section 102 of the Magistrates'
+										Courts Act 1980</td>
+										<td colspan="1" rowspan="1">Magistrates' Courts
+										Act 1980 section 106</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1980/43"
+										id="c00125" Class="UnitedKingdomPublicGeneralAct"
+										Year="1980" Number="0043">1980 c.
+										43</Citation></td>
+										</tr>
+										<tr>
+										<td colspan="1" rowspan="1">Making false statement
+										to authorised officer</td>
+										<td colspan="1" rowspan="1">Trade Descriptions Act
+										1968 section 29(2)</td>
+										<td colspan="1" rowspan="1"><Citation
+										xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+										URI="http://www.legislation.gov.uk/id/ukpga/1968/29"
+										id="c00126" Class="UnitedKingdomPublicGeneralAct"
+										Year="1968" Number="0029">1968 c.
+										29</Citation></td>
+										</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</Pblock>
+						</Part>
+					</ScheduleBody>
+				</Schedule>
+			</BlockAmendment>
+		</ScheduleBody>
+	</Schedule>
+</Schedules>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text>(1982) 77 Cr. App. Rep. 13.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/20" id="c00142"
+							Class="UnitedKingdomPublicGeneralAct" Year="1983" Number="0020">1983 c.
+							20</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00007">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1977/45" id="c00143"
+							Class="UnitedKingdomPublicGeneralAct" Year="1977" Number="0045">1977 c.
+							45</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00008">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/47" id="c00144"
+							Class="UnitedKingdomPublicGeneralAct" Year="1981" Number="0047">1981 c.
+							47</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00009">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1965/69" id="c00145"
+							Class="UnitedKingdomPublicGeneralAct" Year="1965" Number="0069">1965 c.
+							69</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00010">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1994/37" id="c00146"
+							Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0037">1994 c.
+							37</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00011">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/33" id="c00147"
+							Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0033">1988 c.
+							33</Citation>; section 71 was amended by section 1 of the Proceeds of
+						Crime Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1995/11"
+							id="c00148" Class="UnitedKingdomPublicGeneralAct" Year="1995"
+							Number="0011">1995 (c. 11)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00012">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1973/62" id="c00149"
+							Class="UnitedKingdomPublicGeneralAct" Year="1973" Number="0062">1973 c.
+							62</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+	<Versions>
+		<Version id="v00000" Description="Equation graphical version" RestrictOutput="false">
+			<Figure>
+				<Image ResourceRef="r00000" Width="190.56pt" Height="15.12pt"/>
+			</Figure>
+		</Version>
+	</Versions>
+	<Resources>
+		<Resource id="r00000">
+			<ExternalVersion
+				URI="http://www.legislation.gov.uk/uksi/1996/2655/images/uksi_19962655_en_001"/>
+		</Resource>
+	</Resources>
+</Legislation>

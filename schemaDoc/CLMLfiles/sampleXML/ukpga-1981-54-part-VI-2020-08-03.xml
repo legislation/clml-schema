@@ -1,0 +1,1601 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54" NumberOfProvisions="212" RestrictEndDate="2020-12-01" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2019-02-20">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03</dc:identifier>
+		<dc:title>Senior Courts Act 1981</dc:title>
+		<dc:description>An Act to consolidate with amendments the Supreme Court of Judicature (Consolidation) Act 1925 and other enactments relating to the Senior Courts in England and Wales and the administration of justice therein; to repeal certain obsolete or unnecessary enactments so relating; to amend Part VIII of the Mental Health Act 1959, the Courts-Martial (Appeals) Act 1968, the Arbitration Act 1979 and the law relating to county courts; and for connected purposes.</dc:description>
+		<dc:date>1981-09-01</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2021-05-12</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2019-02-20</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1981/54/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1981/54/2020-08-03" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1981/54/introduction/2020-08-03" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1981/54/body/2020-08-03" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1981/54/schedules/2020-08-03" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1981/54/contents/2020-08-03" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2012-09-17" title="2012-09-17"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-12-01" title="2020-12-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1991-02-01" title="1991-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1991-04-01" title="1991-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1991-07-01" title="1991-07-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1996-01-01" title="1996-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1997-01-31" title="1997-01-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/1999-04-26" title="1999-04-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2000-08-25" title="2000-08-25"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2004-03-15" title="2004-03-15"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2004-07-22" title="2004-07-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2004-09-01" title="2004-09-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2005-01-04" title="2005-01-04"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2005-04-01" title="2005-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2006-04-03" title="2006-04-03"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2009-10-01" title="2009-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2012-04-02" title="2012-04-02"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2012-09-18" title="2012-09-18"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-12-01" title="2020-12-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1981/54/part/VI" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1981/54/2020-08-03" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1981/54/part/V/2020-08-03" title="Part; Part V"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1981/54/part/V/2020-08-03" title="Part; Part V"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1981/54/schedule/1/2020-08-03" title="Schedule; Schedule 1"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1981/54/schedule/1/2020-08-03" title="Schedule; Schedule 1"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1981"/>
+			<ukm:Number Value="54"/>
+			<ukm:EnactmentDate Date="1981-07-28"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-97896836ce2137f3617a3352c3cf730e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-b0e68a254c465d09c74e249224af142f" Row="42" Type="word inserted" RequiresApplied="true" AffectedProvisions="s. 31(3)(a)" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(1)(a)" AffectedYear="1981" AffectedNumber="54" Modified="2017-11-02T09:28:24Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3-a" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3/a" FoundRef="section-31">s. 31(3)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-1-a" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/1/a">s. 85(1)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-0ed71b1b81ae4fa4ae21d58d6d3b2932" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-5190f10be1f8b109c09d4666933ccce2" Row="43" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 31(3)(b) and word" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(1)(b)" AffectedYear="1981" AffectedNumber="54" Modified="2017-11-02T09:28:24Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3-b" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3/b" FoundRef="section-31">s. 31(3)(b)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-1-b" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/1/b">s. 85(1)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e2738dceb2ac81b9b22f94318d1f4349" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-0f091f6195351cc1b787f48f00877f0c" Row="44" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 31(3A)(3B)" Comments="Contains power" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(2)" AffectedYear="1981" AffectedNumber="54" Modified="2017-11-02T09:28:24Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3A" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3A" FoundRef="section-31">s. 31(3A)</ukm:Section><ukm:Section Ref="section-31-3B" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3B" FoundRef="section-31">(3B)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-2" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/2">s. 85(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-97896836ce2137f3617a3352c3cf730e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-97896836ce2137f3617a3352c3cf730e" Row="5" Type="word inserted" RequiresApplied="true" AffectedProvisions="s. 31(3)(a)" AffectedExtent="E+W" AffectedEffectsExtent="E+W" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(1)(a)" AffectedYear="1981" AffectedNumber="54" Modified="2019-04-12T15:13:13Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3-a" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3/a" FoundRef="section-31">s. 31(3)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-1-a" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/1/a">s. 85(1)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-0ed71b1b81ae4fa4ae21d58d6d3b2932" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-0ed71b1b81ae4fa4ae21d58d6d3b2932" Row="6" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 31(3)(b) and word" AffectedExtent="E+W" AffectedEffectsExtent="E+W" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(1)(b)" AffectedYear="1981" AffectedNumber="54" Modified="2019-04-12T15:13:13Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3-b" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3/b" FoundRef="section-31">s. 31(3)(b)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-1-b" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/1/b">s. 85(1)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e2738dceb2ac81b9b22f94318d1f4349" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2015/2" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-e2738dceb2ac81b9b22f94318d1f4349" Row="7" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 31(3A)(3B)" Comments="Contains power" AffectedExtent="E+W" AffectedEffectsExtent="E+W" AffectingEffectsExtent="Same as affected" AffectingYear="2015" AffectingNumber="2" AffectingProvisions="s. 85(2)" AffectedYear="1981" AffectedNumber="54" Modified="2019-04-12T15:13:13Z">
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-31-3A" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3A" FoundRef="section-31">s. 31(3A)</ukm:Section><ukm:Section Ref="section-31-3B" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/31/3B" FoundRef="section-31">(3B)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Courts Act 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-85-2" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/85/2">s. 85(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-95-1" URI="http://www.legislation.gov.uk/id/ukpga/2015/2/section/95/1">s. 95(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f0a48faabd2e23da34c352a51df970a3" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1981/54" AffectedClass="UnitedKingdomPublicGeneralAct" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2020/11" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/ukpga-2020-11-u8o03xu3-169" Row="169" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 18(da)" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="11" AffectingProvisions="Sch. para. 46" AffectedYear="1981" AffectedNumber="54" Created="2020-07-14T08:01:21Z" Modified="2020-07-14T08:01:21Z">
+					<ukm:AffectedTitle>Supreme Court Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedTitle>Senior Courts Act 1981</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-18-da" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/18/da" FoundRef="section-18">s. 18(da)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Divorce, Dissolution and Separation Act 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/ukpga/2020/11/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-46" URI="http://www.legislation.gov.uk/id/ukpga/2020/11/schedule/paragraph/46">para. 46</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-8-1" URI="http://www.legislation.gov.uk/id/ukpga/2020/11/section/8/1">s. 8(1)</ukm:Section><ukm:Section Ref="section-8-8" URI="http://www.legislation.gov.uk/id/ukpga/2020/11/section/8/8">(8)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-10-27" URI="http://www.legislation.gov.uk/ukpga/1981/54/pdfs/ukpga_19810054_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="264"/>
+			<ukm:BodyParagraphs Value="169"/>
+			<ukm:ScheduleParagraphs Value="95"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/body/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/body" NumberOfProvisions="169" RestrictStartDate="2019-02-20">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/part/VI" NumberOfProvisions="29" RestrictEndDate="2020-12-01" id="part-VI" RestrictStartDate="2012-09-18">
+				<Number>Part VI</Number>
+				<Title> MISCELLANEOUS AND SUPPLEMENTARY</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/crossheading/miscellaneous-provisions/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/part/VI/crossheading/miscellaneous-provisions" NumberOfProvisions="25" RestrictEndDate="2020-12-01" id="part-VI-crossheading-miscellaneous-provisions">
+					<Title> Miscellaneous provisions</Title>
+					<P1group RestrictExtent="E+W" ConfersPower="true">
+						<Title> Lords Commissioners to represent Lord Chancellor when Great Seal in commission.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/129/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/129" id="section-129">
+							<Pnumber>129</Pnumber>
+							<P1para>
+								<Text>When the Great Seal is in commission, the Lords Commissioners shall represent the Lord Chancellor for the purposes of this Act; but the powers vested in him by this Act in relation to—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/129/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/129/a" id="section-129-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the appointment of officers, and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/129/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/129/b" id="section-129-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>any act for which the concurrence or presence of the Lord Chancellor is required by this Act,</Text>
+									</P3para>
+								</P3>
+								<Text>may be exercised by the senior Lord Commissioner for the time being.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2005-01-04" ConfersPower="true">
+						<Title> Fees to be taken in Supreme Court.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/130/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/130" id="section-130">
+							<Pnumber>130</Pnumber>
+							<P1para>
+								<Text><CommentaryRef Ref="c20643691"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2009-10-01">
+						<Title> Conveyancing counsel of <Substitution ChangeId="d29p9741" CommentaryRef="c20724931">Senior Courts</Substitution>.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/131/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131" id="section-131">
+							<Pnumber>131</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/131/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131/1" id="section-131-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The conveyancing counsel of the <Substitution ChangeId="d29p9755" CommentaryRef="c20724931">Senior Courts</Substitution> shall be <Addition ChangeId="d29p9759" CommentaryRef="c12336811">persons who have a 10 year High Court qualification, within the meaning of section 71 of the Courts and Legal Services Act 1990.</Addition>
+										</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/131/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131/2" id="section-131-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>The conveyancing counsel of the court shall be not more than six, not less than three, in number, and shall be appointed by the Lord Chancellor <Addition ChangeId="d29p9768" CommentaryRef="c20693051">with the concurrence of the Lord Chief Justice</Addition>.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/131/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131/3" id="section-131-3">
+									<Pnumber><Addition ChangeId="d29p9772" CommentaryRef="c20693071">3</Addition></Pnumber>
+									<P2para>
+										<Text>
+											<Addition ChangeId="d29p9772" CommentaryRef="c20693071">The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.</Addition>
+										</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2009-10-01">
+						<Title> Proof of documents bearing seal or stamp of <Substitution ChangeId="d29p9784" CommentaryRef="c20725541">Senior Courts</Substitution> or any office thereof.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/132/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/132" id="section-132">
+							<Pnumber>132</Pnumber>
+							<P1para>
+								<Text>Every document purporting to be sealed or stamped with the seal or stamp of the <Substitution ChangeId="d29p9794" CommentaryRef="c20725541">Senior Courts</Substitution> or of any office of the <Substitution ChangeId="d29p9798" CommentaryRef="c20725541">Senior Courts</Substitution> shall be received in evidence in all parts of the United Kingdom without further proof.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2009-10-01" ConfersPower="true">
+						<Title> Enrolment and engrossment of instruments.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133" id="section-133">
+							<Pnumber>133</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133/1" id="section-133-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The Master of the Rolls may make regulations for authorising and regulating the enrolment or filing of instruments in the <Substitution ChangeId="d29p9816" CommentaryRef="c20725581">Senior Courts</Substitution>, and for prescribing the form in which certificates of enrolment or filing are to be issued.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133/2" id="section-133-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Regulations under subsection (1) shall not affect the operation of any enactment requiring or authorising the enrolment of any instrument in the <Substitution ChangeId="d29p9826" CommentaryRef="c20725581">Senior Courts</Substitution> or prescribing the manner in which any instrument is to be enrolled there.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133/3" id="section-133-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Any instrument which is required or authorised by or under this or any other Act to be enrolled or engrossed in the <Substitution ChangeId="d29p9836" CommentaryRef="c20725581">Senior Courts</Substitution> shall be deemed to have been duly enrolled or engrossed if it is written on material authorised or required by regulations under subsection (1) and has been filed or otherwise preserved in accordance with regulations under that subsection.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133/4" id="section-133-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>The Lord Chancellor may, with the concurrence of the Master of the Rolls and of the Treasury, make regulations prescribing the fees to be paid on the enrolment or filing of any instrument in the <Substitution ChangeId="d29p9846" CommentaryRef="c20725581">Senior Courts</Substitution>, including any additional fees payable on the enrolment or filing of any instrument out of time.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/133/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133/5" id="section-133-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>Any regulations under this section shall be made by statutory instrument, which shall be laid before Parliament after being made; and the <CommentaryRef Ref="c12336821"/>Statutory Instruments Act 1946 shall apply to a statutory instrument containing regulations under subsection (1) in like manner as if the regulations had been made by a Minister of the Crown.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2009-10-01">
+						<Title> Powers of attorney deposited before October 1971.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134" id="section-134">
+							<Pnumber>134</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/1" id="section-134-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>This section applies to any instrument creating, or verifying the execution of, a power of attorney which was deposited in the Central Office of the <Substitution ChangeId="d29p9872" CommentaryRef="c20725621">Senior Courts</Substitution> before 1st October 1971.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/2" id="section-134-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>A separate file of such instruments shall continue to be kept and, subject to payment of any <Substitution ChangeId="d29p9882" CommentaryRef="c20643821">the fee prescribed by an order under section 92 of the Courts Act 2003 (fees)</Substitution>—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/2/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/2/a" id="section-134-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>any person may search that file, and may inspect any such instrument; and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/2/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/2/b" id="section-134-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>an office copy of any such instrument shall be issued to any person on request.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/134/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/3" id="section-134-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>A document purporting to be an office copy of any such instrument shall, in any part of the United Kingdom, without further proof be sufficient evidence of the contents of the instrument and of its having been deposited as mentioned in subsection (1).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title> Bonds given under order of court.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135" id="section-135">
+							<Pnumber>135</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135/1" id="section-135-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>A bond to be given by any person under or for the purposes of any order of the High Court or the civil division of the Court of Appeal shall be given in such form and to such officer of the court as may be prescribed and, if the court so requires, with one or more sureties.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135/2" id="section-135-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>An officer of the court to whom a bond is given in accordance with subsection (1) shall as such have power to enforce it or to assign it, pursuant to an order of the court under subsection (4), to some other person.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135/3" id="section-135-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Where by rules of court made for the purposes of this section another officer is at any time substituted for the officer previously prescribed as the officer to whom bonds of any class are to be given, the rules may provide that bonds of that class given before the rules come into operation shall have effect as if references in the bonds to the officer previously prescribed were references to the substituted officer.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135/4" id="section-135-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Where it appears to the court that the condition of a bond given in accordance with subsection (1) has been broken, the court may, on an application in that behalf, order the bond to be assigned to such person as may be specified in the order.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/135/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/135/5" id="section-135-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>A person to whom a bond is ordered to be assigned under subsection (4) shall be entitled by virtue of the order to sue on the bond in his own name as if it had been originally given to him, and to recover on it as trustee for all persons interested the full amount recoverable in respect of the breach of condition.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2009-10-01" ConfersPower="true">
+						<Title> Production of documents filed in, or in custody of, <Substitution ChangeId="d29p9946" CommentaryRef="c20725681">Senior Courts</Substitution>.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136" id="section-136">
+							<Pnumber>136</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/1" id="section-136-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text><Substitution ChangeId="d29p9959" CommentaryRef="c20693131">Rules may be made in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005</Substitution> for providing that, in any case where a document filed in, or in the custody of, any office of the <Substitution ChangeId="d29p9963" CommentaryRef="c20725681">Senior Courts</Substitution> is required to be produced to any court or tribunal (including an umpire or arbitrator) sitting elsewhere than at the Royal Courts of Justice—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/1/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/1/a" id="section-136-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>it shall not be necessary for any officer, whether served with a subpoena in that behalf or not, to attend for the purpose of producing the document; but</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/1/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/1/b" id="section-136-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the document may be produced to the court or tribunal by sending it to the court or tribunal, in the manner prescribed in the rules, together with a certificate, in the form so prescribed, to the effect that the document has been filed in, or is in the custody of, the office;</Text>
+											</P3para>
+										</P3>
+										<Text>and any such certificate shall be prima facie evidence of the facts stated in it.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/2" id="section-136-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Rules under this section may contain—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/2/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/2/a" id="section-136-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>provisions for securing the safe custody and return to the proper office of the <Substitution ChangeId="d29p9993" CommentaryRef="c20725681">Senior Courts</Substitution> of any document sent to a court or tribunal in pursuance of the rules; and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/2/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/2/b" id="section-136-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>such incidental and supplementary provisions as appear to the <Substitution ChangeId="d29p10003" CommentaryRef="c20693151">person making the rules</Substitution> to be necessary or expedient.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/136/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/3" id="section-136-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text><CommentaryRef Ref="c20693181"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2009-10-01">
+						<Title> Money paid into court under enactment subsequently repealed.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/137/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137" id="section-137">
+							<Pnumber>137</Pnumber>
+							<P1para>
+								<Text>Where in pursuance of any enactment, whenever passed, any money has (before or after the commencement of this Act) been paid—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/137/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137/a" id="section-137-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>into the Bank of England in the name of the Accountant General of the <Substitution ChangeId="d29p10030" CommentaryRef="c20725721">Senior Courts</Substitution>; or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/137/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137/b" id="section-137-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>into the <Substitution ChangeId="d29p10040" CommentaryRef="c20725721">Senior Courts</Substitution>,</Text>
+									</P3para>
+								</P3>
+								<Text>then, if that enactment has been or is subsequently repealed—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/137/i/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137/i" id="section-137-i">
+									<Pnumber>i</Pnumber>
+									<P3para>
+										<Text>the Accountant General may continue to deal with the money; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/137/ii/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137/ii" id="section-137-ii">
+									<Pnumber>ii</Pnumber>
+									<P3para>
+										<Text>any powers of the High Court with respect to the money shall continue to be exercisable,</Text>
+									</P3para>
+								</P3>
+								<Text>in all respects as if that enactment had not been repealed.</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2004-03-15">
+						<Title> Effect of writs of execution against goods.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/138/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138" id="section-138">
+							<Pnumber>138</Pnumber>
+							<P1para>
+								<Text><CommentaryRef Ref="c20644021"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2004-03-15">
+						<Title> Sales under executions.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/138A/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138A" id="section-138A">
+							<Pnumber>138A</Pnumber>
+							<P1para>
+								<Text><CommentaryRef Ref="c20644041"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2004-03-15">
+						<Title> Protection of officer selling goods under execution.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/138B/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138B" id="section-138B">
+							<Pnumber>138B</Pnumber>
+							<P1para>
+								<Text><CommentaryRef Ref="c20644051"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" ConfersPower="true">
+						<Title> Attachment of National Savings Bank deposits.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139" id="section-139">
+							<Pnumber>139</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/1" id="section-139-1">
+									<Pnumber><CommentaryRef Ref="c12336871"/>1</Pnumber>
+									<P2para>
+										<Text>In section 27 of the <CommentaryRef Ref="c12336881"/>Crown Proceedings Act 1947 (attachment of moneys payable by the Crown)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/1/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/1/a" id="section-139-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>in subsection (1), paragraph (c) of the proviso (which precludes the making of orders under that subsection by the High Court or a county court in respect of money payable on account of a deposit in the National Savings Bank) shall cease to have effect; and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/1/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/1/b" id="section-139-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>after subsection (2) there shall be added—</Text>
+												<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+													<P2>
+														<Pnumber>3</Pnumber>
+														<P2para>
+															<Text>In their application to England and Wales the preceding provisions of this section shall have effect subject to any order for the time being in force under section 139(2) of the Supreme Court Act 1981.</Text>
+														</P2para>
+													</P2>
+												</BlockAmendment>
+												<AppendText>.</AppendText>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/2" id="section-139-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>The Lord Chancellor may by order direct that section 27(1) and (2) of the <CommentaryRef Ref="c12336891"/>Crown Proceedings Act 1947 (attachment of moneys payable by the Crown) shall not apply in relation to any money payable by the Crown to any person on account of—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/2/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/2/a" id="section-139-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>any deposit in the National Savings Bank; or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/2/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/2/b" id="section-139-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>a deposit in that Bank of any description specified in the order.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/3" id="section-139-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Any order under subsection (2) shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/139/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/139/4" id="section-139-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Without prejudice to section 153(4), this section extends to England and Wales only.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictEndDate="2020-12-01" RestrictExtent="E+W" RestrictStartDate="2000-08-25">
+						<Title> Enforcement of fines and forfeited recognizances.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140" id="section-140">
+							<Pnumber>140</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/1" id="section-140-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Payment of a fine imposed, or sum due under a recognizance forfeited, by the High Court or the civil division of the Court of Appeal may be enforced upon the order of the court—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/1/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/1/a" id="section-140-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>in like manner as a judgment of the High Court for the payment of money; or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/1/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/1/b" id="section-140-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>in like manner as a fine imposed by the Crown Court.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/2" id="section-140-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Where payment of a fine or other sum falls to be enforced as mentioned in paragraph (a) of subsection (1) upon an order of the High Court or the civil division of the Court of Appeal under that subsection—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/2/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/2/a" id="section-140-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the court shall, if the fine or the other sum is not paid in full forthwith or within such time as the court may allow, certify to Her Majesty’s Remembrancer the sum payable; and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/2/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/2/b" id="section-140-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>Her Majesty’s Remembrancer shall thereupon proceed to enforce payment of that sum as if it were due to him as a judgment debt.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/3" id="section-140-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Where payment of a fine or other sum falls to be enforced as mentioned in paragaph (b) of subsection (1) upon an order of the High Court or the civil division of the Court of Appeal under that subsection, the provisions of <Addition ChangeId="d29p10214" CommentaryRef="c12336921">sections 139 and 140 of the Powers of Criminal Courts (Sentencing) Act 2000</Addition> shall apply to that fine or other sum as they apply to a fine imposed by the Crown Court.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/4" id="section-140-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Where payment of a fine or other sum has become enforceable by Her Majesty’s Remembrancer by virtue of this section or section 16 of the <CommentaryRef Ref="c12336931"/>Contempt of Court Act 1981, any payment received by him in respect of that fine or other sum shall be dealt with by him in such manner as the Lord Chancellor may direct.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/140/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/5" id="section-140-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>In this section, and in <Addition ChangeId="d29p10232" CommentaryRef="c12336921">sections 139 and 140 of the Powers of Criminal Courts (Sentencing) Act 2000</Addition> as extended by this section, “<Term id="term-fine">fine</Term>” includes a penalty imposed in civil proceedings.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2004-07-22">
+						<Title> Abolition of certain writs.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/141/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/141" id="section-141">
+							<Pnumber>141</Pnumber>
+							<P1para>
+								<Text><CommentaryRef Ref="c20652761"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title> Selection of judges for trial of election petitions.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/142/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/142" id="section-142">
+							<Pnumber>142</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/142/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/142/1" id="section-142-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The judges to be placed on the rota for the trial of parliamentary election petitions in England and Wales under Part III of the <Addition ChangeId="d29p10264" CommentaryRef="c12336961">Representation of the People Act 1983</Addition> in each year shall be selected, in such manner as may be provided by rules of court, from the judges of the Queen’s Bench Division of the High Court exclusive of any who are members of the House of Lords.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/142/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/142/2" id="section-142-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Notwithstanding the expiry of the year for which a judge has been placed on the rota he may act as if that year had not expired for the purpose of continuing to deal with, giving judgment in, or dealing with ancillary matter relating to, any case with which he may have been concerned during that year.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/142/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/142/3" id="section-142-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Any judge placed on the rota shall be eligible to be placed on the rota again in the succeeding or any subsequent year.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/143/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/143" id="section-143">
+							<Pnumber><CommentaryRef Ref="c12336971"/>143</Pnumber>
+							<P1para>
+								<Text/>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/144/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/144" id="section-144">
+							<Pnumber><CommentaryRef Ref="c12336981"/>144</Pnumber>
+							<P1para>
+								<Text/>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group>
+						<Title> Amendment of Courts-Martial (Appeals) Act 1968.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145" id="section-145">
+							<Pnumber><CommentaryRef Ref="c12336991"/>145</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145/1" id="section-145-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>The <CommentaryRef Ref="c12337001"/>Courts-Martial (Appeals) Act 1968 shall be amended as follows.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145/2" id="section-145-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>In section 2(1)(a) (under which the judges of the Courts-Martial Appeal Court include such judges of the Queen’s Bench Division of the High Court as may be nominated for that purpose by the Lord Chief Justice after consultation with the Master of the Rolls), the words “of the Queen’s Bench Division” and “after consultation with the Master of the Rolls” shall be omitted.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145/3" id="section-145-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>In section 3(a) (under which the powers of the Courts-Martial Appeal Court may be exercised by any judge of the Queen’s Bench Division of the High Court), the words “of the Queen’s Bench Division” shall be omitted.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145/4" id="section-145-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>For section 5 (constitution of Appeal Court for particular sittings) there shall be substituted—</Text>
+										<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+											<P1group Layout="below">
+												<Title/>
+												<P1>
+													<Pnumber>5</Pnumber>
+													<P1para>
+														<P2>
+															<Pnumber>1</Pnumber>
+															<P2para>
+																<Text>Subject to subsection (4) below, the Appeal Court shall be duly constituted if it consists of an uneven number of judges not less than three.</Text>
+															</P2para>
+														</P2>
+														<P2>
+															<Pnumber>2</Pnumber>
+															<P2para>
+																<Text>Where—</Text>
+																<P3>
+																	<Pnumber>a</Pnumber>
+																	<P3para>
+																		<Text>part of any proceedings before the Appeal Court has been heard by an uneven number of judges greater than three; and</Text>
+																	</P3para>
+																</P3>
+																<P3>
+																	<Pnumber>b</Pnumber>
+																	<P3para>
+																		<Text>one or more members of the Court as constituted for the purpose of those proceedings are unable to continue,</Text>
+																	</P3para>
+																</P3>
+																<Text>then, subject to subsection (4) below, the Court shall remain duly constituted for the purpose of those proceedings so long as the number of members (whether even or uneven) is not reduced to less than three.</Text>
+															</P2para>
+														</P2>
+														<P2>
+															<Pnumber>3</Pnumber>
+															<P2para>
+																<Text>Subject to subsection (4) below, the Appeal Court shall, if it consists of two judges, be duly constituted for every purpose except—</Text>
+																<P3>
+																	<Pnumber>a</Pnumber>
+																	<P3para>
+																		<Text>determining an appeal against—</Text>
+																		<P4>
+																			<Pnumber>i</Pnumber>
+																			<P4para>
+																				<Text>conviction; or</Text>
+																			</P4para>
+																		</P4>
+																		<P4>
+																			<Pnumber>ii</Pnumber>
+																			<P4para>
+																				<Text>a finding of not guilty by reason of insanity; or</Text>
+																			</P4para>
+																		</P4>
+																		<P4>
+																			<Pnumber>iii</Pnumber>
+																			<P4para>
+																				<Text>a finding of unfitness to stand trial;</Text>
+																			</P4para>
+																		</P4>
+																	</P3para>
+																</P3>
+																<P3>
+																	<Pnumber>b</Pnumber>
+																	<P3para>
+																		<Text>determining an application for leave to appeal to the House of Lords; and</Text>
+																	</P3para>
+																</P3>
+																<P3>
+																	<Pnumber>c</Pnumber>
+																	<P3para>
+																		<Text>refusing an application for leave to appeal to the Appeal Court against conviction or any such finding as is mentioned in paragraph (a)(ii) or (iii), other than an application which has been refused by a single judge.</Text>
+																	</P3para>
+																</P3>
+															</P2para>
+														</P2>
+														<P2>
+															<Pnumber>4</Pnumber>
+															<P2para>
+																<Text>At least one of the judges of which the Appeal Court consists at any sitting must be a judge of the Court by virtue of section 2(1) of this Act, except that where the Court is directed to sit at a place outside the United Kingdom the Lord Chancellor may, if he thinks it expedient to do so, direct that this provision shall not apply to the Court while sitting at that place.</Text>
+															</P2para>
+														</P2>
+														<P2>
+															<Pnumber>5</Pnumber>
+															<P2para>
+																<Text>Where an appeal has been heard by the Appeal Court and the Court as constituted for that purpose consists of an even number of judges, then, if those judges are equally divided, the case shall be re-argued before and determined by an uneven number of judges not less than three.</Text>
+															</P2para>
+														</P2>
+													</P1para>
+												</P1>
+											</P1group>
+										</BlockAmendment>
+										<AppendText>.</AppendText>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/145/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/145/5" id="section-145-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>In section 36(2) (rights of appellant on refusal of single judge to exercise certain powers in his favour) for “for the hearing and determination of appeals” there shall be substituted “for the purpose in accordance with section 5 of this Act”.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title> Amendment of Courts Act 1971.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/146/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/146" id="section-146">
+							<Pnumber><CommentaryRef Ref="c12337011"/>146</Pnumber>
+							<P1para>
+								<Text>For section 24 of the <CommentaryRef Ref="c12337021"/>Courts Act 1971 (deputy High Court and Circuit judges) there shall be substituted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P1group>
+										<Title> Deputy Circuit judges and assistant Recorders.</Title>
+										<P1>
+											<Pnumber>24</Pnumber>
+											<P1para>
+												<P2>
+													<Pnumber>1</Pnumber>
+													<P2para>
+														<Text>If it appears to the Lord Chancellor that it is expedient as a temporary measure to make an appointment under this section in order to facilitate the disposal of business in the Crown Court or a county court or official referees’ business in the High Court, he may—</Text>
+														<P3>
+															<Pnumber>a</Pnumber>
+															<P3para>
+																<Text>appoint to be a deputy Circuit judge, during such period or on such occasions as he thinks fit, any person who has held office as a judge of the Court of Appeal or of the High Court or as a Circuit judge; or</Text>
+															</P3para>
+														</P3>
+														<P3>
+															<Pnumber>b</Pnumber>
+															<P3para>
+																<Text>appoint to be an assistant Recorder, during such period or on such occasions as he thinks fit, any barrister or solicitor of at least ten years’ standing.</Text>
+															</P3para>
+														</P3>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>2</Pnumber>
+													<P2para>
+														<Text>Except as provided by subsection (3) below, during the period or on the occasions for which a deputy Circuit judge or assistant Recorder is appointed under this section he shall be treated for all purposes as, and accordingly may perform any of the functions of, a Circuit judge or a Recorder, as the case may be.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>3</Pnumber>
+													<P2para>
+														<Text>A deputy Circuit judge appointed under this section shall not be treated as a Circuit judge for the purpose of any provision made by or under any enactment and relating to the appointment, retirement, removal or disqualification of Circuit judges, the tenure of office and oaths to be taken by such judges, or the remuneration, allowances or pensions of such judges; and section 21 of this Act shall not apply to an assistant Recorder appointed under this section.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>4</Pnumber>
+													<P2para>
+														<Text>Notwithstanding the expiry of any period for which a person is appointed under this section a deputy Circuit judge or an assistant Recorder, he may attend at the Crown Court or a county court or, as regards any official referees’ business, at the High Court for the purpose of continuing to deal with, giving judgment in, or dealing with any ancillary matter relating to, any case which may have been begun before him when sitting as a deputy Circuit judge or an assistant Recorder, and for that purpose and for the purpose of any proceedings subsequent thereon he shall be treated as a Circuit judge or a Recorder, as the case may be.</Text>
+													</P2para>
+												</P2>
+												<P2>
+													<Pnumber>5</Pnumber>
+													<P2para>
+														<Text>There shall be paid out of money provided by Parliament to deputy Circuit judges and assistant Recorders appointed under this section such remuneration and allowances as the Lord Chancellor may, with the approval of the Minister for the Civil Service, determine.</Text>
+													</P2para>
+												</P2>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="2009-10-01">
+						<Title> Amendment of Solicitors Act 1974.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/147/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/147" id="section-147">
+							<Pnumber><CommentaryRef Ref="c12337031"/>147</Pnumber>
+							<P1para>
+								<Text>In section 50 of the <CommentaryRef Ref="c12337041"/>Solicitors Act 1974 (jurisdiction of <Substitution ChangeId="d29p10511" CommentaryRef="c20725901">Senior Courts</Substitution> over solicitors), after subsection (2) there shall be inserted—</Text>
+								<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
+									<P2>
+										<Pnumber>3</Pnumber>
+										<P2para>
+											<Text>An appeal shall lie to the Court of Appeal from any order made against a solicitor by the High Court or the Crown Court in the exercise of its jurisdiction in respect of solicitors under subsection (2).</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>.</AppendText>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W" RestrictStartDate="1997-01-31">
+						<Title>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/148/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/148" id="section-148">
+							<Pnumber><CommentaryRef Ref="c12337071"/>148</Pnumber>
+							<P1para>
+								<Text/>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W">
+						<Title>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/149/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/149" id="section-149">
+							<Pnumber><CommentaryRef Ref="c12337081"/>149</Pnumber>
+							<P1para>
+								<Text/>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/part/VI/crossheading/supplementary/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/part/VI/crossheading/supplementary" NumberOfProvisions="4" id="part-VI-crossheading-supplementary" RestrictStartDate="2012-09-18">
+					<Title> Supplementary</Title>
+					<P1group ConfersPower="true">
+						<Title> Admiralty jurisdiction: provisions as to Channel Islands, Isle of Man, colonies <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150" id="section-150">
+							<Pnumber>150</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/1" id="section-150-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>Her Majesty may by Order in Council—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/1/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/1/a" id="section-150-1-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>direct that any of the provisions of sections 20 to 24 specified in the Order shall extend, with such exceptions, adaptations and modifications as may be so specified, to any of the Channel Islands or the Isle of Man; or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/1/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/1/b" id="section-150-1-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>make, for any of the Channel Islands or the Isle of Man, provision for any purposes corresponding to the purposes of any of the provisions of those sections.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/2" id="section-150-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Her Majesty may by order in Council direct, either generally or in relation to particular courts or territories, that the <CommentaryRef Ref="c12337091"/>Colonial Courts of Admiralty Act 1890 shall have effect as if for the reference in section 2(2) of that Act to the Admiralty jurisdiction of the High Court in England there were substituted a reference to the Admiralty jurisdiction of that court as defined by section 20 of this Act, subject, however to such adaptations and modifications of section 20 as may be specified in the Order.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/3" id="section-150-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Her Majesty may by Order in Council direct that any of the provisions of sections 21 to 24 shall extend, with such exceptions, adaptations and modifications as may be specified in the Order, to any colony or to any country outside Her Majesty’s dominions in which Her Majesty has jurisdiction in right of the government of the United Kingdom.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/150/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/150/4" id="section-150-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Subsections (1) and (3) shall each have effect as if the provisions there mentioned included section 2(2) of the <CommentaryRef Ref="c12337101"/>Hovercraft Act 1968 (application of the law relating to maritime liens in relation to hovercraft and property connected with them).</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2012-09-18">
+						<Title> Interpretation of this Act, and rules of construction for other Acts and documents.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151" id="section-151">
+							<Pnumber><CommentaryRef Ref="c12337221"/>151</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/1" id="section-151-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>In this Act, unless the context otherwise requires—</Text>
+										<UnorderedList Decoration="none" Class="Definition">
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-action">action</Term>” means any civil proceedings commenced by writ or in any other manner prescribed by rules of court;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-appeal">appeal</Term>”, in the context of appeals to the civil division of the Court of Appeal, includes—</Text>
+												</Para>
+												<OrderedList Type="alpha" Decoration="parens">
+													<ListItem NumberOverride="a">
+														<Para>
+															<Text>an application for a new trial, and</Text>
+														</Para>
+													</ListItem>
+													<ListItem NumberOverride="b">
+														<Para>
+															<Text>an application to set aside a verdict, finding or judgment in any cause or matter in the High Court which has been tried, or in which any issue has been tried, by a jury; </Text>
+														</Para>
+													</ListItem>
+												</OrderedList>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text><Addition ChangeId="d29p10635" CommentaryRef="c12337231">“</Addition><Term id="term-arbitration-agreement"><Addition ChangeId="d29p10635" CommentaryRef="c12337231">arbitration agreement</Addition></Term><Addition ChangeId="d29p10635" CommentaryRef="c12337231">” has the same meaning as it has in the </Addition><Addition ChangeId="d29p10635" CommentaryRef="c12337231"><Addition ChangeId="d29p10643" CommentaryRef="c12337241">Part I of the Arbitration Act 1996;</Addition></Addition></Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-cause">cause</Term>” means any action or any criminal proceedings;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-division">Division</Term>”, where it appears with a capital letter, means a division of the High Court;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-judgment">judgment</Term>” includes a decree;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-jurisdiction">jurisdiction</Term>” includes powers;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-matter">matter</Term>” means any proceedings in court not in a cause;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-party">party</Term>”, in relation to any proceedings, includes any person who pursuant to or by virtue of rules of court or any other statutory provision has been served with notice of, or has intervened in, those proceedings;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-prescribed">prescribed</Term>” means—</Text>
+												</Para>
+												<OrderedList Type="alpha" Decoration="parens">
+													<ListItem NumberOverride="a">
+														<Para>
+															<Text>except in relation to fees, prescribed by rules of court; <CommentaryRef Ref="c20644081"/>. . . </Text>
+														</Para>
+													</ListItem>
+													<ListItem NumberOverride="b">
+														<Para>
+															<Text><CommentaryRef Ref="c20644081"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+														</Para>
+													</ListItem>
+												</OrderedList>
+											</ListItem>
+											<ListItem NumberOverride="a">
+												<Para>
+													<Text>
+														<Addition ChangeId="key-9daa2799ebef8f41fa66f9c9e76c2b03-1509631998619" CommentaryRef="key-9daa2799ebef8f41fa66f9c9e76c2b03">“</Addition><Term><Addition ChangeId="key-9daa2799ebef8f41fa66f9c9e76c2b03-1509631998619" CommentaryRef="key-9daa2799ebef8f41fa66f9c9e76c2b03">qualifying judge advocate</Addition></Term><Addition ChangeId="key-9daa2799ebef8f41fa66f9c9e76c2b03-1509631998619" CommentaryRef="key-9daa2799ebef8f41fa66f9c9e76c2b03">” means— </Addition></Text>
+												</Para>
+												<OrderedList Type="alpha" Decoration="parens">
+													<ListItem>
+														<Para>
+															<Text><Addition ChangeId="key-9daa2799ebef8f41fa66f9c9e76c2b03-1509631998619" CommentaryRef="key-9daa2799ebef8f41fa66f9c9e76c2b03">the Judge Advocate General; or</Addition></Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text><Addition ChangeId="key-9daa2799ebef8f41fa66f9c9e76c2b03-1509631998619" CommentaryRef="key-9daa2799ebef8f41fa66f9c9e76c2b03">a person appointed under section 30(1)(a) or (b) of the Courts-Martial (Appeals) Act 1951 (assistants to the Judge Advocate General);</Addition></Text>
+														</Para>
+													</ListItem>
+												</OrderedList>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text><Substitution ChangeId="d29p10708" CommentaryRef="c20693401">“</Substitution><Term id="term-senior-judge"><Substitution ChangeId="d29p10708" CommentaryRef="c20693401">senior judge</Substitution></Term><Substitution ChangeId="d29p10708" CommentaryRef="c20693401">”, where the reference is to the senior judge of a Division, means the president of that Division;</Substitution></Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-solicitor">solicitor</Term>” means a solicitor of the <Substitution ChangeId="d29p10725" CommentaryRef="c20725961">Senior Courts</Substitution>;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-statutory-provision">statutory provision</Term>” means any enactment, whenever passed, or any provision contained in subordinate legislation (as defined 0 in section 21(1) of the <CommentaryRef Ref="c12337251"/>Interpretation Act 1978), whenever made;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-this-or-any-other-act">this or any other Act</Term>” includes an Act passed after this Act.</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/2" id="section-151-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Section 128 contains definitions of expressions used in Part V and in the other provisions of this Act relating to probate causes and matters.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/3" id="section-151-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Any reference in this Act to rules of court under section 84 includes a reference to rules of court under any provision of this or any other Act which confers on the <Addition ChangeId="d29p10757" CommentaryRef="c12337261">Civil Procedure Rule Committee</Addition>
+											<CommentaryRef Ref="key-02bdc83c47b5ea8b9314bfb26c0b40af"/>... power to make rules of court <Addition ChangeId="d29p10761" CommentaryRef="c12337271">in relation to the </Addition><Addition ChangeId="d29p10761" CommentaryRef="c12337271"><Substitution ChangeId="d29p10763" CommentaryRef="c20725961">Senior Courts</Substitution></Addition>.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/4" id="section-151-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Except where the context otherwise requires, in this or any other Act—</Text>
+										<UnorderedList Decoration="none">
+											<ListItem>
+												<Para>
+													<Text><CommentaryRef Ref="c20652771"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text><CommentaryRef Ref="c20652791"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-divisional-court">divisional court</Term>” (with or without capital letters) means a divisional court constituted under section 66;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-judge-of-the-senior-courts">judge of the <Substitution ChangeId="d29p10798" CommentaryRef="c20725961">Senior Courts</Substitution></Term>” means—</Text>
+												</Para>
+												<OrderedList Type="alpha" Decoration="parens">
+													<ListItem NumberOverride="a">
+														<Para>
+															<Text>a judge of the Court of Appeal other than an ex-officio judge within paragraph (b) or (c) of section 2(2), or</Text>
+														</Para>
+													</ListItem>
+													<ListItem NumberOverride="b">
+														<Para>
+															<Text>a judge of the High Court,</Text>
+														</Para>
+													</ListItem>
+												</OrderedList>
+												<Para>
+													<Text>and accordingly does not include, as such, a judge of the Crown Court;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>“<Term id="term-official-referees-business">official referees’ business</Term>” has the meaning given by section 68(6);</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text><Addition ChangeId="d29p10824" CommentaryRef="c12337281"> “</Addition><Term id="term-rules-of-the-senior-courts"><Addition ChangeId="d29p10824" CommentaryRef="c12337281">Rules of the </Addition><Addition ChangeId="d29p10824" CommentaryRef="c12337281"><Substitution ChangeId="d29p10829" CommentaryRef="c20725961">Senior Courts</Substitution></Addition></Term><Addition ChangeId="d29p10824" CommentaryRef="c12337281">” means rules of court made by the </Addition><Addition ChangeId="d29p10824" CommentaryRef="c12337281"><Substitution ChangeId="d29p10833" CommentaryRef="c20725961">Senior Courts</Substitution></Addition><Addition ChangeId="d29p10824" CommentaryRef="c12337281"> Rules Committee.</Addition></Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/151/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/5" id="section-151-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>The provisions of Schedule 4 (construction of references to superseded courts and officers) shall have effect.</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2004-07-22">
+						<Title> Amendments of other Acts, transitional provisions, savings and repeals.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152" id="section-152">
+							<Pnumber>152</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/1" id="section-152-1">
+									<Pnumber><CommentaryRef Ref="c12337291"/>1</Pnumber>
+									<P2para>
+										<Text>The enactments specified in Schedule 5 shall have effect subject to the amendments there specified, being amendments consequential on the provisions of this Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/2" id="section-152-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text><CommentaryRef Ref="c20652801"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/3" id="section-152-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>This Act shall have effect subject to the transitional provisions and savings contained in Schedule 6.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/4" id="section-152-4">
+									<Pnumber><CommentaryRef Ref="c12337291"/>4</Pnumber>
+									<P2para>
+										<Text>The enactments mentioned in Schedule 7 (which include certain obsolete or unnecessary provisions) are hereby repealed to the extent specified in the third column of that Schedule.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/152/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/5" id="section-152-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text><CommentaryRef Ref="c20652811"/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+					<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2009-10-01">
+						<Title> Citation, commencement and extent.</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153" id="section-153">
+							<Pnumber>153</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/1/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/1" id="section-153-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>This Act may be cited as the <Substitution ChangeId="d29p10900" CommentaryRef="c20726011">Senior Courts</Substitution> Act 1981.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/2/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/2" id="section-153-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>This Act, except the provisions mentioned in subsection (3), shall come into force on 1st January 1982; and references to the commencement of this Act shall be construed as references to the beginning of that day.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/3/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/3" id="section-153-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>Sections 72, 143 and 152(2) and this section shall come into force on the passing of this Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/4/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4" id="section-153-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>In this Act—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/4/a/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4/a" id="section-153-4-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the following provisions extend to Scotland, namely—</Text>
+												<UnorderedList Decoration="none">
+													<ListItem>
+														<Para>
+															<Text>section 80(3);</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 152(4) and Schedule 7, so far as they relate to the <CommentaryRef Ref="c12337541"/>Admiralty Court Act 1861;</Text>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/4/b/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4/b" id="section-153-4-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the following provisions extend to Northern Ireland so far as they relate to the <CommentaryRef Ref="c12337551"/>Northern Ireland Assembly Disqualification Act 1975, namely—</Text>
+												<UnorderedList Decoration="none">
+													<ListItem>
+														<Para>
+															<Text>section 152(1) and Schedule 5;</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 152(3) and paragraph 3(1) of Schedule 6;</Text>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/4/c/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4/c" id="section-153-4-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>the following provisions extend to Scotland and Northern Ireland, namely—</Text>
+												<UnorderedList Decoration="none">
+													<ListItem>
+														<Para>
+															<Text>section 36;</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>sections 132 and 134(3);</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 152(1) and Schedule 5, so far as they amend—</Text>
+														</Para>
+														<OrderedList Type="roman" Decoration="parens">
+															<ListItem NumberOverride="i">
+																<Para>
+																	<Text>references to section 49 of the <CommentaryRef Ref="c12337561"/><Substitution ChangeId="d29p10981" CommentaryRef="c20726011">Senior Courts</Substitution> of Judicature (Consolidation) Act 1925,</Text>
+																</Para>
+															</ListItem>
+															<ListItem NumberOverride="ii">
+																<Para>
+																	<Text>the <CommentaryRef Ref="c12337571"/>House of Commons Disqualification Act 1975, and</Text>
+																</Para>
+															</ListItem>
+															<ListItem NumberOverride="iii">
+																<Para>
+																	<Text>section 4 of the <CommentaryRef Ref="c12337581"/>Evidence (Proceedings in Other Jurisdictions) Act 1975;</Text>
+																</Para>
+															</ListItem>
+														</OrderedList>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 152(3) and paragraph 3(1) of Schedule 6, so far as they relate to the House of Commons Disqualification Act 1975;</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 152(4) and Schedule 7, so far as they relate to—</Text>
+														</Para>
+														<OrderedList Type="roman" Decoration="parens">
+															<ListItem NumberOverride="i">
+																<Para>
+																	<Text>provisions of the <CommentaryRef Ref="c12337591"/><Substitution ChangeId="d29p11011" CommentaryRef="c20726011">Senior Courts</Substitution> of Judicature (Consolidation) Act 1925 which extend throughout the United Kingdom,</Text>
+																</Para>
+															</ListItem>
+															<ListItem NumberOverride="ii">
+																<Para>
+																	<Text>the <CommentaryRef Ref="c12337601"/>Evidence and Powers of Attorney Act 1940, and</Text>
+																</Para>
+															</ListItem>
+															<ListItem NumberOverride="iii">
+																<Para>
+																	<Text>section 57(3)(a) of the <CommentaryRef Ref="c12337611"/>Courts Act 1971;</Text>
+																</Para>
+															</ListItem>
+														</OrderedList>
+													</ListItem>
+												</UnorderedList>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/4/d/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4/d" id="section-153-4-d">
+											<Pnumber>d</Pnumber>
+											<P3para>
+												<Text>section 145 extends to any place to which the <CommentaryRef Ref="c12337621"/>Courts-Martial (Appeals) Act 1968 extends, and section 152(1) and (4) and Schedules 5 and 7, so far as they relate to any of the following enactments, namely—</Text>
+												<UnorderedList Decoration="none">
+													<ListItem>
+														<Para>
+															<Text><CommentaryRef Ref="c12337631"/>Army Act 1955,</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text><CommentaryRef Ref="c12337641"/>Air Force Act 1955,</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>section 9(2) of, and Part II of Schedule 1 to, the <CommentaryRef Ref="c12337651"/>Criminal Appeal Act 1966,</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>Courts-Martial (Appeals) Act 1968,</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text><CommentaryRef Ref="c12337661"/>Hovercraft Act 1968,</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text><CommentaryRef Ref="c12337671"/>. . .</Text>
+														</Para>
+													</ListItem>
+												</UnorderedList>
+												<Text>extend to any place to which that enactment extends;</Text>
+											</P3para>
+										</P3>
+										<Text>but, save as aforesaid, the provisions of this Act, other than those mentioned in subsection (5), extend to England and Wales only.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1981/54/section/153/5/2020-08-03" IdURI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/5" id="section-153-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>The provisions of this Act whose extent is not restricted by subsection (4) are—</Text>
+										<UnorderedList Decoration="none">
+											<ListItem>
+												<Para>
+													<Text>section 27;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>section 150;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>section 151(1);</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>section 152(4) and Schedule 7 as far as they relate to the <CommentaryRef Ref="c12337681"/>Naval Prize Act 1864, the <CommentaryRef Ref="c12337691"/>Prize Courts Act 1915 and section 56 of the <CommentaryRef Ref="c12337701"/>Administration of Justice Act 1956;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>this section;</Text>
+												</Para>
+											</ListItem>
+											<ListItem>
+												<Para>
+													<Text>paragraph 1 of Schedule 4.</Text>
+												</Para>
+											</ListItem>
+										</UnorderedList>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Part>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="c20643691" Type="F"><Para>
+				<Text><CitationSubRef id="c02889" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/130" SectionRef="section-130">S. 130</CitationSubRef> repealed (4.1.2005) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c02890" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c02891" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1/3" CitationRef="c02890" SectionRef="section-109-1-3">ss. 109(1)(3)</CitationSubRef>, <CitationSubRef id="c02892" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" CitationRef="c02890" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c02893" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/263" CitationRef="c02890" SectionRef="schedule-8-paragraph-263">Sch. 8 para. 263</CitationSubRef>, <CitationSubRef id="c02894" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/10" CitationRef="c02890" SectionRef="schedule-10" Operative="true">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/3123" id="c02895" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="3123">S.I. 2004/3123</Citation>, <CitationSubRef id="c02896" URI="http://www.legislation.gov.uk/id/uksi/2004/3123/article/2/c/i" CitationRef="c02895" SectionRef="article-2-c-i" Operative="true">art. 2(c)(i)</CitationSubRef> (with <CitationSubRef id="c02897" URI="http://www.legislation.gov.uk/id/uksi/2004/3123/article/3" CitationRef="c02895" SectionRef="article-3">art. 3</CitationSubRef>) and s. 130(2)(a) amended (3.4.2006) by the <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02898" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02899" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/15" CitationRef="c02898" SectionRef="section-15">ss. 15</CitationSubRef>, <CitationSubRef id="c02900" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02898" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02901" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/4/paragraph/378" CitationRef="c02898" SectionRef="schedule-4-paragraph-378" Operative="true">Sch. 4 para. 378</CitationSubRef> (with <CitationSubRef id="c02902" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/4/paragraph/361" CitationRef="c02898" SectionRef="schedule-4-paragraph-361">Sch. 4 para. 361</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02903" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02904" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02903" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02905" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/11/cc" CitationRef="c02903" SectionRef="schedule-1-paragraph-11-cc">Sch. 1 para. 11(cc)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20724931" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02906" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131" SectionRef="section-131">s. 131</CitationSubRef> and sidenote substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02907" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02908" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02907" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02909" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02907" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02910" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02907" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c02911" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c02912" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c02911" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12336811" Type="F"><Para>
+				<Text>Words substituted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/41" id="c02913" Year="1990" Class="UnitedKingdomPublicGeneralAct" Number="41" Title="Courts and Legal Services Act 1990">Courts and Legal Services Act 1990 (c. 41, SIF 37)</Citation>, <CitationSubRef id="c02914" URI="http://www.legislation.gov.uk/id/ukpga/1990/41/section/71/2" CitationRef="c02913" SectionRef="section-71-2">s. 71(2)</CitationSubRef>, <CitationSubRef id="c02915" URI="http://www.legislation.gov.uk/id/ukpga/1990/41/schedule/10/paragraph/48" Operative="true" CitationRef="c02913" SectionRef="schedule-10-paragraph-48">Sch. 10 para. 48</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693051" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02916" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131/2" SectionRef="section-131-2">s. 131(2)</CitationSubRef> inserted (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02917" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02918" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/15" CitationRef="c02917" SectionRef="section-15">ss. 15</CitationSubRef>, <CitationSubRef id="c02919" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02917" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02920" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/4/paragraph/145/2" CitationRef="c02917" SectionRef="schedule-4-paragraph-145-2" Operative="true">Sch. 4 para. 145(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02921" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02922" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02921" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02923" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/11/q" CitationRef="c02921" SectionRef="schedule-1-paragraph-11-q">Sch. 1 para. 11(q)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693071" Type="F"><Para>
+				<Text><CitationSubRef id="c02924" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/131/3" SectionRef="section-131-3">S. 131(3)</CitationSubRef> inserted (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02925" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02926" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/15" CitationRef="c02925" SectionRef="section-15">ss. 15</CitationSubRef>, <CitationSubRef id="c02927" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02925" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02928" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/4/paragraph/145/3" CitationRef="c02925" SectionRef="schedule-4-paragraph-145-3" Operative="true">Sch. 4 para. 145(3)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02929" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02930" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02929" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02931" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/11/q" CitationRef="c02929" SectionRef="schedule-1-paragraph-11-q">Sch. 1 para. 11(q)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20725541" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02932" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/132" SectionRef="section-132">s. 132</CitationSubRef> and sidenote substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02933" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02934" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02933" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02935" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02933" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02936" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02933" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c02937" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c02938" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c02937" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20725581" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02939" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/133" SectionRef="section-133">s. 133</CitationSubRef> substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02940" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02941" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02940" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02942" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02940" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02943" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02940" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c02944" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c02945" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c02944" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12336821" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1946/36" id="c02946" Year="1946" Class="UnitedKingdomPublicGeneralAct" Number="36">1946 c. 36</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c20725621" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02947" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134" SectionRef="section-134">s. 134</CitationSubRef> substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02948" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02949" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02948" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02950" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02948" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02951" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02948" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c02952" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c02953" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c02952" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20643821" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02954" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/134/2" SectionRef="section-134-2">s. 134(2)</CitationSubRef> substituted (1.4.2005) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c02955" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c02956" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1" CitationRef="c02955" SectionRef="section-109-1">ss. 109(1)</CitationSubRef>, <CitationSubRef id="c02957" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" CitationRef="c02955" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c02958" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/262" CitationRef="c02955" SectionRef="schedule-8-paragraph-262" Operative="true">Sch. 8 para. 262</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/910" id="c02959" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="910">S.I. 2005/910</Citation>, <CitationSubRef id="c02960" URI="http://www.legislation.gov.uk/id/uksi/2005/910/article/3/y" CitationRef="c02959" SectionRef="article-3-y" Operative="true">art. 3(y)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20725681" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02961" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136" SectionRef="section-136">s. 136</CitationSubRef> and sidenote substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02962" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02963" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02962" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02964" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02962" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02965" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02962" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c02966" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c02967" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c02966" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693131" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02968" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/1" SectionRef="section-136-1">s. 136(1)</CitationSubRef> substituted (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02969" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02970" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/12" CitationRef="c02969" SectionRef="section-12">ss. 12</CitationSubRef>, <CitationSubRef id="c02971" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02969" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02972" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/1/paragraph/13/2" CitationRef="c02969" SectionRef="schedule-1-paragraph-13-2" Operative="true">Sch. 1 para. 13(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02973" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02974" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02973" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02975" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/7" CitationRef="c02973" SectionRef="schedule-1-paragraph-7">Sch. 1 para. 7</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693151" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02976" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/2/b" SectionRef="section-136-2-b">s. 136(2)(b)</CitationSubRef> substituted (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02977" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02978" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/12" CitationRef="c02977" SectionRef="section-12">ss. 12</CitationSubRef>, <CitationSubRef id="c02979" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02977" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02980" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/1/paragraph/13/3" CitationRef="c02977" SectionRef="schedule-1-paragraph-13-3" Operative="true">Sch. 1 para. 13(3)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02981" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02982" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02981" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02983" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/7" CitationRef="c02981" SectionRef="schedule-1-paragraph-7">Sch. 1 para. 7</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693181" Type="F"><Para>
+				<Text><CitationSubRef id="c02984" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/136/3" SectionRef="section-136-3">S. 136(3)</CitationSubRef> repealed (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02985" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02986" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/12" CitationRef="c02985" SectionRef="section-12">ss. 12</CitationSubRef>, <CitationSubRef id="c02987" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/146" CitationRef="c02985" SectionRef="section-146">146</CitationSubRef>, <CitationSubRef id="c02988" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02985" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02989" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/1/paragraph/13/3" CitationRef="c02985" SectionRef="schedule-1-paragraph-13-3">Sch. 1 para. 13(3)</CitationSubRef>, <CitationSubRef id="c02990" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/18/part/1" CitationRef="c02985" SectionRef="schedule-18-part-1" Operative="true">Sch. 18 Pt. 1</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c02991" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c02992" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" CitationRef="c02991" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c02993" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/7" CitationRef="c02991" SectionRef="schedule-1-paragraph-7">Sch. 1 paras. 7</CitationSubRef>, <CitationSubRef id="c02994" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/30/a" CitationRef="c02991" SectionRef="schedule-1-paragraph-30-a">30(a)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20725721" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c02995" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/137" SectionRef="section-137">s. 137</CitationSubRef> substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c02996" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c02997" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c02996" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c02998" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c02996" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c02999" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c02996" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c03000" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c03001" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c03000" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20644021" Type="F"><Para>
+				<Text><CitationSubRef id="c03002" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138" SectionRef="section-138">S. 138</CitationSubRef> repealed (15.3.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c03003" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c03004" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1/3" CitationRef="c03003" SectionRef="section-109-1-3">ss. 109(1)(3)</CitationSubRef>, <CitationSubRef id="c03005" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" CitationRef="c03003" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c03006" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/264" CitationRef="c03003" SectionRef="schedule-8-paragraph-264">Sch. 8 para. 264</CitationSubRef>, <CitationSubRef id="c03007" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/10" CitationRef="c03003" SectionRef="schedule-10" Operative="true">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/401" id="c03008" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="401">S.I. 2004/401</Citation>, <CitationSubRef id="c03009" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/2/b" CitationRef="c03008" SectionRef="article-2-b" Operative="true">art. 2(b)</CitationSubRef> (with <CitationSubRef id="c03010" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/3" CitationRef="c03008" SectionRef="article-3">art. 3</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c20644041" Type="F"><Para>
+				<Text><CitationSubRef id="c03011" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138A" SectionRef="section-138A">S. 138A</CitationSubRef> repealed (15.3.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c03012" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c03013" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1/3" CitationRef="c03012" SectionRef="section-109-1-3">ss. 109(1)(3)</CitationSubRef>, <CitationSubRef id="c03014" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" CitationRef="c03012" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c03015" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/264" CitationRef="c03012" SectionRef="schedule-8-paragraph-264">Sch. 8 para. 264</CitationSubRef>, <CitationSubRef id="c03016" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/10" CitationRef="c03012" SectionRef="schedule-10" Operative="true">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/401" id="c03017" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="401">S.I. 2004/401</Citation>, <CitationSubRef id="c03018" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/2/b" CitationRef="c03017" SectionRef="article-2-b" Operative="true">art. 2(b)</CitationSubRef> (with <CitationSubRef id="c03019" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/3" CitationRef="c03017" SectionRef="article-3">art. 3</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c20644051" Type="F"><Para>
+				<Text><CitationSubRef id="c03020" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/138B" SectionRef="section-138B">S. 138B</CitationSubRef> repealed (15.3.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c03021" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c03022" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1/3" CitationRef="c03021" SectionRef="section-109-1-3">ss. 109(1)(3)</CitationSubRef>, <CitationSubRef id="c03023" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" CitationRef="c03021" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c03024" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/264" CitationRef="c03021" SectionRef="schedule-8-paragraph-264">Sch. 8 para. 264</CitationSubRef>, <CitationSubRef id="c03025" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/10" CitationRef="c03021" SectionRef="schedule-10" Operative="true">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/401" id="c03026" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="401">S.I. 2004/401</Citation>, <CitationSubRef id="c03027" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/2/b" CitationRef="c03026" SectionRef="article-2-b" Operative="true">art. 2(b)</CitationSubRef> (with <CitationSubRef id="c03028" URI="http://www.legislation.gov.uk/id/uksi/2004/401/article/3" CitationRef="c03026" SectionRef="article-3">art. 3</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c12336871" Type="X"><Para>
+				<Text>The text of ss. 139(1), 145–148 is in the form in which it was originally enacted: it was not reproduced in Statutesin Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991</Text>
+			</Para></Commentary>
+		<Commentary id="c12336881" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1947/44" id="c03029" Year="1947" Class="UnitedKingdomPublicGeneralAct" Number="44">1947 c. 44</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12336891" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1947/44" id="c03030" Year="1947" Class="UnitedKingdomPublicGeneralAct" Number="44">1947 c. 44</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12336921" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c03031" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/140/3/5" SectionRef="section-140-3-5">s. 140(3)(5)</CitationSubRef> substituted (28.8.2000) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/6" id="c03032" Year="2000" Class="UnitedKingdomPublicGeneralAct" Number="6">2000 c. 6</Citation>, <CitationSubRef id="c03033" URI="http://www.legislation.gov.uk/id/ukpga/2000/6/section/165/1" CitationRef="c03032" SectionRef="section-165-1">ss. 165(1)</CitationSubRef>, <CitationSubRef id="c03034" URI="http://www.legislation.gov.uk/id/ukpga/2000/6/section/168/1" CitationRef="c03032" SectionRef="section-168-1">168(1)</CitationSubRef>, <CitationSubRef id="c03035" URI="http://www.legislation.gov.uk/id/ukpga/2000/6/schedule/9/paragraph/88" Operative="true" CitationRef="c03032" SectionRef="schedule-9-paragraph-88">Sch. 9 para. 88</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12336931" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1981/49" id="c03036" Year="1981" Class="UnitedKingdomPublicGeneralAct" Number="49">1981 c. 49</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c20652761" Type="F"><Para>
+				<Text><CitationSubRef id="c03037" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/141" SectionRef="section-141">S. 141</CitationSubRef> repealed (22.7.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/14" id="c03038" Year="2004" Class="UnitedKingdomPublicGeneralAct" Number="14" Title="Statute Law (Repeals) Act 2004">Statute Law (Repeals) Act 2004 (c. 14)</Citation>, <CitationSubRef id="c03039" URI="http://www.legislation.gov.uk/id/ukpga/2004/14/section/1/1" Operative="true" CitationRef="c03038" SectionRef="section-1-1">s. 1(1)</CitationSubRef>, {Sch. 1 Pt. 1 Group 4}</Text>
+			</Para></Commentary>
+		<Commentary id="c12336961" Type="F"><Para>
+				<Text>Words substituted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/2" id="c03040" Year="1983" Class="UnitedKingdomPublicGeneralAct" Number="2" Title="Representation of the People Act 1983">Representation of the People Act 1983 (c. 2, SIF 42)</Citation>, <CitationSubRef id="c03041" URI="http://www.legislation.gov.uk/id/ukpga/1983/2/section/206" Operative="true" CitationRef="c03040" SectionRef="section-206">s. 206</CitationSubRef>(<Emphasis>b</Emphasis>)(i), Sch. 8 para. 26</Text>
+			</Para></Commentary>
+		<Commentary id="c12336971" Type="F"><Para>
+				<Text><CitationSubRef id="c03042" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/143" SectionRef="section-143">S. 143</CitationSubRef> repealed by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1982/53" id="c03043" Year="1982" Class="UnitedKingdomPublicGeneralAct" Number="53" Title="Administration of Justice Act 1982">Administration of Justice Act 1982 (c. 53, SIF 37)</Citation>, <CitationSubRef id="c03044" URI="http://www.legislation.gov.uk/id/ukpga/1982/53/section/75/1/schedule/9/part/I" Operative="true" CitationRef="c03043" SectionRef="section-75-1-schedule-9-part-I">s. 75(1) Sch. 9 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12336981" Type="F"><Para>
+				<Text><CitationSubRef id="c03045" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/144" SectionRef="section-144">S. 144</CitationSubRef> repealed by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/20" id="c03046" Year="1983" Class="UnitedKingdomPublicGeneralAct" Number="20" Title="Mental Health Act 1983">Mental Health Act 1983 (c. 20, SIF 85)</Citation>, <CitationSubRef id="c03047" URI="http://www.legislation.gov.uk/id/ukpga/1983/20/section/148/3" CitationRef="c03046" SectionRef="section-148-3">s. 148(3)</CitationSubRef>, <CitationSubRef id="c03048" URI="http://www.legislation.gov.uk/id/ukpga/1983/20/schedule/6" Operative="true" CitationRef="c03046" SectionRef="schedule-6">Sch. 6</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12336991" Type="X"><Para>
+				<Text>The text of ss. 139(1), 145–148 is in the form in which it was originally enacted: it was not reproduced in Statutesin Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991</Text>
+			</Para></Commentary>
+		<Commentary id="c12337001" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1968/20" id="c03049" Year="1968" Class="UnitedKingdomPublicGeneralAct" Number="20">1968 c. 20</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337011" Type="X"><Para>
+				<Text>The text of ss. 139(1), 145–148 is in the form in which it was originally enacted: it was not reproduced in Statutesin Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991</Text>
+			</Para></Commentary>
+		<Commentary id="c12337021" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1971/23" id="c03050" Year="1971" Class="UnitedKingdomPublicGeneralAct" Number="23">1971 c. 23</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337031" Type="X"><Para>
+				<Text>The text of ss. 139(1), 145–148 is in the form in which it was originally enacted: it was not reproduced in Statutesin Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991</Text>
+			</Para></Commentary>
+		<Commentary id="c12337041" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1974/47" id="c03051" Year="1974" Class="UnitedKingdomPublicGeneralAct" Number="47">1974 c. 47</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c20725901" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c03052" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/147" SectionRef="section-147">s. 147</CitationSubRef> substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c03053" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c03054" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c03053" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c03055" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c03053" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c03056" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c03053" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c03057" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c03058" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c03057" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337071" Type="F"><Para>
+				<Text><CitationSubRef id="c03059" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/148" SectionRef="section-148">S. 148</CitationSubRef> repealed (31.1.1997) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1996/23" id="c03060" Year="1996" Class="UnitedKingdomPublicGeneralAct" Number="23">1996 c. 23</Citation>, <CitationSubRef id="c03061" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/section/107/2" CitationRef="c03060" SectionRef="section-107-2">s. 107(2)</CitationSubRef>, <CitationSubRef id="c03062" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/schedule/4" Operative="true" CitationRef="c03060" SectionRef="schedule-4">Sch. 4</CitationSubRef> (with <CitationSubRef id="c03063" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/section/81/2" CitationRef="c03060" SectionRef="section-81-2">s. 81(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1996/3146" id="c03064" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="3146">S.I. 1996/3146</Citation>, <CitationSubRef id="c03065" URI="http://www.legislation.gov.uk/id/uksi/1996/3146/article/3" CitationRef="c03064" SectionRef="article-3">art. 3</CitationSubRef> (with <CitationSubRef id="c03066" URI="http://www.legislation.gov.uk/id/uksi/1996/3146/schedule/2/paragraph/1" Operative="true" CitationRef="c03064" SectionRef="schedule-2-paragraph-1">Sch. 2 para. 1</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c12337081" Type="F"><Para>
+				<Text><CitationSubRef id="c03067" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/149" SectionRef="section-149">S. 149</CitationSubRef> repealed by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1984/28" id="c03068" Year="1984" Class="UnitedKingdomPublicGeneralAct" Number="28" Title="County Courts Act 1984">County Courts Act 1984 (c. 28, SIF 34)</Citation>, <CitationSubRef id="c03069" URI="http://www.legislation.gov.uk/id/ukpga/1984/28/section/148/3" CitationRef="c03068" SectionRef="section-148-3">s. 148(3)</CitationSubRef>, <CitationSubRef id="c03070" URI="http://www.legislation.gov.uk/id/ukpga/1984/28/schedule/4" Operative="true" CitationRef="c03068" SectionRef="schedule-4">Sch. 4</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337091" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1890/27" id="c03071" Year="1890" Class="UnitedKingdomPublicGeneralAct" Number="27">1890 c. 27</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337101" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1968/59" id="c03072" Year="1968" Class="UnitedKingdomPublicGeneralAct" Number="59">1968 c. 59</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337221" Type="E"><Para>
+				<Text>S. 151: for extent of s. 151(1), see s. 135(5); s. 151(2) -(5) extends to E.W. only</Text>
+			</Para></Commentary>
+		<Commentary id="c12337231" Type="F"><Para>
+				<Text>Definition of "arbitration agreement" inserted (<Emphasis>1.4.1991</Emphasis>) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/41" id="c03076" Year="1990" Class="UnitedKingdomPublicGeneralAct" Number="41" Title="Courts and Legal Services Act 1990">Courts and Legal Services Act 1990 (c. 41, SIF 37)</Citation>, <CitationSubRef id="c03077" CitationRef="c03076" URI="http://www.legislation.gov.uk/id/ukpga/1990/41/section/125/3" SectionRef="section-125-3">s. 125(3)</CitationSubRef>, <CitationSubRef id="c03078" CitationRef="c03076" URI="http://www.legislation.gov.uk/id/ukpga/1990/41/schedule/18/paragraph/41" Operative="true" SectionRef="schedule-18-paragraph-41">Sch. 18 para. 41</CitationSubRef>.; <Citation URI="http://www.legislation.gov.uk/id/uksi/1991/608" id="c03079" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="608">S.I. 1991/608</Citation>, <CitationSubRef id="c03080" CitationRef="c03079" URI="http://www.legislation.gov.uk/id/uksi/1991/608/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c03081" CitationRef="c03079" URI="http://www.legislation.gov.uk/id/uksi/1991/608/schedule" Operative="true" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337241" Type="F"><Para>
+				<Text>Words in definition of “arbitration agreement” in s. 151 substituted (31.1.1997) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1996/23" id="c03082" Year="1996" Class="UnitedKingdomPublicGeneralAct" Number="23">1996 c. 23</Citation>, <CitationSubRef id="c03083" CitationRef="c03082" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/section/107/2" SectionRef="section-107-2">s. 107(2)</CitationSubRef>, <CitationSubRef id="c03084" CitationRef="c03082" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/schedule/3/paragraph/37/3" Operative="true" SectionRef="schedule-3-paragraph-37-3">Sch. 3 para. 37(3)</CitationSubRef> (with <CitationSubRef id="c03085" CitationRef="c03082" URI="http://www.legislation.gov.uk/id/ukpga/1996/23/section/81/2" SectionRef="section-81-2">s. 81(2)</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/uksi/1996/3146" id="c03086" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="3146">S.I. 1996/3146</Citation>, <CitationSubRef id="c03087" CitationRef="c03086" URI="http://www.legislation.gov.uk/id/uksi/1996/3146/article/3" Operative="true" SectionRef="article-3">art. 3</CitationSubRef> (with <CitationSubRef id="c03088" CitationRef="c03086" URI="http://www.legislation.gov.uk/id/uksi/1996/3146/schedule/2/paragraph/1" SectionRef="schedule-2-paragraph-1">Sch. 2 para. 1</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c20644081" Type="F"><Para>
+				<Text>S. 151(1): para. (b) and preceding word in definition of "prescribed" repealed (1.4.2005) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/39" id="c03090" Year="2003" Class="UnitedKingdomPublicGeneralAct" Number="39" Title="Courts Act 2003">Courts Act 2003 (c. 39)</Citation>, <CitationSubRef id="c03091" CitationRef="c03090" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/109/1/3" SectionRef="section-109-1-3">ss. 109(1)(3)</CitationSubRef>, <CitationSubRef id="c03092" CitationRef="c03090" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/section/110" SectionRef="section-110">110</CitationSubRef>, <CitationSubRef id="c03093" CitationRef="c03090" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/8/paragraph/265" SectionRef="schedule-8-paragraph-265">Sch. 8 para. 265</CitationSubRef>, <CitationSubRef id="c03094" CitationRef="c03090" URI="http://www.legislation.gov.uk/id/ukpga/2003/39/schedule/10" SectionRef="schedule-10" Operative="true">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/910" id="c03095" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="910">S.I. 2005/910</Citation>, <CitationSubRef id="c03096" CitationRef="c03095" URI="http://www.legislation.gov.uk/id/uksi/2005/910/article/3/y/aa" SectionRef="article-3-y-aa" Operative="true">art. 3(y)(aa)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20693401" Type="F"><Para>
+				<Text>S. 151(1): definition of "senior judge" substituted (3.4.2006) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c03098" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c03099" CitationRef="c03098" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/15" SectionRef="section-15">ss. 15</CitationSubRef>, <CitationSubRef id="c03100" CitationRef="c03098" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c03101" CitationRef="c03098" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/4/paragraph/146" SectionRef="schedule-4-paragraph-146" Operative="true">Sch. 4 para. 146</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/1014" id="c03102" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="1014">S.I. 2006/1014</Citation>, <CitationSubRef id="c03103" CitationRef="c03102" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/article/2/a" SectionRef="article-2-a" Operative="true">art. 2(a)</CitationSubRef>, <CitationSubRef id="c03104" CitationRef="c03102" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/10" SectionRef="schedule-1-paragraph-10">Sch. 1 paras. 10</CitationSubRef>, <CitationSubRef id="c03105" CitationRef="c03102" URI="http://www.legislation.gov.uk/id/uksi/2006/1014/schedule/1/paragraph/11/q" SectionRef="schedule-1-paragraph-11-q">11(q)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20725961" Type="F"><Para>
+				<Text>Words in s. 151 substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c03107" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c03108" CitationRef="c03107" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c03109" CitationRef="c03107" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c03110" CitationRef="c03107" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1/2" SectionRef="schedule-11-paragraph-26-1-2" Operative="true">Sch. 11 para. 26(1)(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c03111" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c03112" CitationRef="c03111" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/b/d" SectionRef="article-2-b-d" Operative="true">art. 2(b)(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337251" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1978/30" id="c03113" Year="1978" Class="UnitedKingdomPublicGeneralAct" Number="30">1978 c. 30</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337261" Type="F"><Para>
+				<Text>Words in s. 151(3) substituted (26.4.1999) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/12" id="c03115" Year="1997" Class="UnitedKingdomPublicGeneralAct" Number="12">1997 c. 12</Citation>, <CitationSubRef id="c03116" CitationRef="c03115" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/section/10" SectionRef="section-10">s. 10</CitationSubRef>, <CitationSubRef id="c03117" CitationRef="c03115" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/schedule/2/paragraph/1/7/a" Operative="true" SectionRef="schedule-2-paragraph-1-7-a">Sch. 2 para. 1(7)(a)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1999/1009" id="c03118" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1009">S.I. 1999/1009</Citation>, <CitationSubRef id="c03119" CitationRef="c03118" URI="http://www.legislation.gov.uk/id/uksi/1999/1009/article/3/e" Operative="true" SectionRef="article-3-e">art. 3(e)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337271" Type="F"><Para>
+				<Text>Words in s. 151(3) inserted (26.4.1999) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/12" id="c03121" Year="1997" Class="UnitedKingdomPublicGeneralAct" Number="12">1997 c. 12</Citation>, <CitationSubRef id="c03122" CitationRef="c03121" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/section/10" SectionRef="section-10">s. 10</CitationSubRef>, <CitationSubRef id="c03123" CitationRef="c03121" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/schedule/2/paragraph/1/7/a" Operative="true" SectionRef="schedule-2-paragraph-1-7-a">Sch. 2 para. 1(7)(a)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1999/1009" id="c03124" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1009">S.I. 1999/1009</Citation>, <CitationSubRef id="c03125" CitationRef="c03124" URI="http://www.legislation.gov.uk/id/uksi/1999/1009/article/3/e" Operative="true" SectionRef="article-3-e">art. 3(e)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c20652771" Type="F"><Para>
+				<Text>S. 151(4): definition of "Criminal Appeal Rules" repealed (1.9.2004) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/2035" id="c03127" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="2035" Title="The Courts Act 2003 (Consequential Amendments) Order 2004">The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)</Citation>, <CitationSubRef id="c03128" CitationRef="c03127" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/article/3" SectionRef="article-3">art. 3</CitationSubRef>, <CitationSubRef id="c03129" CitationRef="c03127" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/schedule/paragraph/18" SectionRef="schedule-paragraph-18" Operative="true">Sch. para. 18</CitationSubRef> (with <CitationSubRef id="c03130" CitationRef="c03127" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c20652791" Type="F"><Para>
+				<Text>S. 151(4): definition of "Crown Court Rules" repealed (1.9.2004) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2004/2035" id="c03132" Class="UnitedKingdomStatutoryInstrument" Year="2004" Number="2035" Title="The Courts Act 2003 (Consequential Amendments) Order 2004">The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)</Citation>, <CitationSubRef id="c03133" CitationRef="c03132" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/article/3" SectionRef="article-3">art. 3</CitationSubRef>, <CitationSubRef id="c03134" CitationRef="c03132" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/schedule/paragraph/18" SectionRef="schedule-paragraph-18" Operative="true">Sch. para. 18</CitationSubRef> (with <CitationSubRef id="c03135" CitationRef="c03132" URI="http://www.legislation.gov.uk/id/uksi/2004/2035/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c12337281" Type="F"><Para>
+				<Text>Definition of “Rules of the Supreme Court” in s. 151(4) omitted (26.4.1999) by virtue of <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/12" id="c03136" Year="1997" Class="UnitedKingdomPublicGeneralAct" Number="12">1997 c. 12</Citation>, <CitationSubRef id="c03137" CitationRef="c03136" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/section/10" SectionRef="section-10">s. 10</CitationSubRef>, <CitationSubRef id="c03138" CitationRef="c03136" URI="http://www.legislation.gov.uk/id/ukpga/1997/12/schedule/2/paragraph/1/7/b" Operative="true" SectionRef="schedule-2-paragraph-1-7-b">Sch. 2 para. 1(7)(b)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1999/1009" id="c03139" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1009">S.I. 1999/1009</Citation>, <CitationSubRef id="c03140" CitationRef="c03139" URI="http://www.legislation.gov.uk/id/uksi/1999/1009/article/3/e" Operative="true" SectionRef="article-3-e">art. 3(e)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337291" Type="X"><Para>
+				<Text>The text of s. 152(1)(4)(5), Sch. 5 and Sch. 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991</Text>
+			</Para></Commentary>
+		<Commentary id="c20652801" Type="F"><Para>
+				<Text><CitationSubRef id="c03141" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/2" SectionRef="section-152-2">S. 152(2)</CitationSubRef> repealed (22.7.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/14" id="c03142" Year="2004" Class="UnitedKingdomPublicGeneralAct" Number="14" Title="Statute Law (Repeals) Act 2004">Statute Law (Repeals) Act 2004 (c. 14)</Citation>, <CitationSubRef id="c03143" URI="http://www.legislation.gov.uk/id/ukpga/2004/14/section/1/1" Operative="true" CitationRef="c03142" SectionRef="section-1-1">s. 1(1)</CitationSubRef>, {Sch. 1 Pt. 1 Group 4}</Text>
+			</Para></Commentary>
+		<Commentary id="c20652811" Type="F"><Para>
+				<Text><CitationSubRef id="c03144" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/152/5" SectionRef="section-152-5">S. 152(5)</CitationSubRef> repealed (22.7.2004) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/14" id="c03145" Year="2004" Class="UnitedKingdomPublicGeneralAct" Number="14" Title="Statute Law (Repeals) Act 2004">Statute Law (Repeals) Act 2004 (c. 14)</Citation>, <CitationSubRef id="c03146" URI="http://www.legislation.gov.uk/id/ukpga/2004/14/section/1/1" Operative="true" CitationRef="c03145" SectionRef="section-1-1">s. 1(1)</CitationSubRef>, {Sch. 1 Pt. 1 Group 4}</Text>
+			</Para></Commentary>
+		<Commentary id="c20726011" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c03147" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153" SectionRef="section-153">s. 153</CitationSubRef> substituted (1.10.2009) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/4" id="c03148" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="4" Title="Constitutional Reform Act 2005">Constitutional Reform Act 2005 (c. 4)</Citation>, <CitationSubRef id="c03149" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/59" CitationRef="c03148" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c03150" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/section/148" CitationRef="c03148" SectionRef="section-148">148</CitationSubRef>, <CitationSubRef id="c03151" URI="http://www.legislation.gov.uk/id/ukpga/2005/4/schedule/11/paragraph/26/1" CitationRef="c03148" SectionRef="schedule-11-paragraph-26-1" Operative="true">Sch. 11 para. 26(1)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2009/1604" id="c03152" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="1604">S.I. 2009/1604</Citation>, <CitationSubRef id="c03153" URI="http://www.legislation.gov.uk/id/uksi/2009/1604/article/2/d" CitationRef="c03152" SectionRef="article-2-d" Operative="true">art. 2(d)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c12337541" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1861/10" id="c03154" Year="1861" Class="UnitedKingdomPublicGeneralAct" Number="10">1861 c. 10</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337551" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1975/25" id="c03155" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="25">1975 c. 25</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337561" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1925/49" id="c03156" Year="1925" Class="UnitedKingdomPublicGeneralAct" Number="49">1925 c. 49</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337571" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1975/24" id="c03157" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="24">1975 c. 24</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337581" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1975/34" id="c03158" Year="1975" Class="UnitedKingdomPublicGeneralAct" Number="34">1975 c. 34</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337591" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1925/49" id="c03159" Year="1925" Class="UnitedKingdomPublicGeneralAct" Number="49">1925 c. 49</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337601" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1940/28" id="c03160" Year="1940" Class="UnitedKingdomPublicGeneralAct" Number="28">1940 c. 28</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337611" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1971/23" id="c03161" Year="1971" Class="UnitedKingdomPublicGeneralAct" Number="23">1971 c. 23</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337621" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1968/20" id="c03162" Year="1968" Class="UnitedKingdomPublicGeneralAct" Number="20">1968 c. 20</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337631" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1955/18" id="c03163" Year="1955" Class="UnitedKingdomPublicGeneralAct" Number="18">1955 c. 18</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337641" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1955/19" id="c03164" Year="1955" Class="UnitedKingdomPublicGeneralAct" Number="19">1955 c. 19</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337651" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1966/31" id="c03165" Year="1966" Class="UnitedKingdomPublicGeneralAct" Number="31">1966 c. 31</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337661" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1968/59" id="c03166" Year="1968" Class="UnitedKingdomPublicGeneralAct" Number="59">1968 c. 59</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337671" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c03167" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/153/4/d" SectionRef="section-153-4-d">s. 153(4)(d)</CitationSubRef> repealed (1.1.1996) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1995/21" id="c03168" Year="1995" Class="UnitedKingdomPublicGeneralAct" Number="21">1995 c. 21</Citation>, <CitationSubRef id="c03169" URI="http://www.legislation.gov.uk/id/ukpga/1995/21/section/314/1" CitationRef="c03168" SectionRef="section-314-1">ss. 314(1)</CitationSubRef>, <CitationSubRef id="c03170" URI="http://www.legislation.gov.uk/id/ukpga/1995/21/section/316/2" CitationRef="c03168" SectionRef="section-316-2">316(2)</CitationSubRef>, <CitationSubRef id="c03171" URI="http://www.legislation.gov.uk/id/ukpga/1995/21/schedule/12" Operative="true" CitationRef="c03168" SectionRef="schedule-12">Sch.12</CitationSubRef> (with <CitationSubRef id="c03172" URI="http://www.legislation.gov.uk/id/ukpga/1995/21/section/312/1" CitationRef="c03168" SectionRef="section-312-1">ss. 312(1)</CitationSubRef>, <CitationSubRef id="c03173" URI="http://www.legislation.gov.uk/id/ukpga/1995/21/schedule/14/paragraph/1" CitationRef="c03168" SectionRef="schedule-14-paragraph-1">Sch. 14 para. 1</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c12337681" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1864/25" id="c03174" Year="1864" Class="UnitedKingdomPublicGeneralAct" Number="25">1864 c. 25</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337691" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1915/57" id="c03175" Year="1915" Class="UnitedKingdomPublicGeneralAct" Number="57">1915 c. 57</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c12337701" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1956/46" id="c03176" Year="1956" Class="UnitedKingdomPublicGeneralAct" Number="46">1956 c. 46</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="key-9daa2799ebef8f41fa66f9c9e76c2b03" Type="F"><Para>
+				<Text>Words in s. 151(1) inserted (2.4.2012) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/18" id="cr4svlah2-00007" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="18" Title="Armed Forces Act 2011">Armed Forces Act 2011 (c. 18)</Citation>, <CitationSubRef id="cr4svlah2-00008" CitationRef="cr4svlah2-00007" URI="http://www.legislation.gov.uk/id/ukpga/2011/18/section/32/3" SectionRef="section-32-3">s. 32(3)</CitationSubRef>, <CitationSubRef id="cr4svlah2-00009" CitationRef="cr4svlah2-00007" URI="http://www.legislation.gov.uk/id/ukpga/2011/18/schedule/2/paragraph/5" SectionRef="schedule-2-paragraph-5" Operative="true">Sch. 2 para. 5</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2012/669" id="cr4svlah2-00010" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="669" Title="The Armed Forces Act 2011 (Commencement No. 1, Transitional and Transitory Provisions) Order 2012">S.I. 2012/669</Citation>, <CitationSubRef id="cr4svlah2-00011" CitationRef="cr4svlah2-00010" URI="http://www.legislation.gov.uk/id/uksi/2012/669/article/4/c" SectionRef="article-4-c">art. 4(c)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-02bdc83c47b5ea8b9314bfb26c0b40af" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="cr60g5ob2-00006" SectionRef="section-151-3" URI="http://www.legislation.gov.uk/id/ukpga/1981/54/section/151/3">s. 151(3)</CitationSubRef> repealed (18.9.2012) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2012/2398" id="cr60g5ob2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2398" Title="The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012">The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)</Citation>, <CitationSubRef id="cr60g5ob2-00008" CitationRef="cr60g5ob2-00007" SectionRef="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2012/2398/article/1/2">art. 1(2)</CitationSubRef>, <CitationSubRef id="cr60g5ob2-00009" CitationRef="cr60g5ob2-00007" SectionRef="schedule-1-paragraph-6" URI="http://www.legislation.gov.uk/id/uksi/2012/2398/schedule/1/paragraph/6" Operative="true">Sch. 1 para. 6</CitationSubRef></Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>

@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0">
+   <Metadata xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom">
+      <dc:identifier>http://www.legislation.gov.uk/id/eudn/2004/641</dc:identifier>
+      <dc:title>Commission Decision of 14 September 2004 amending Decision 2002/627/EC establishing the European Regulators Group for Electronic Communications Networks and Services (Text with EEA relevance) (2004/641/EC)</dc:title>
+      <dc:description>Commission Decision of 14 September 2004 amending Decision 2002/627/EC establishing the European Regulators Group for Electronic Communications Networks and Services (Text with EEA relevance) (2004/641/EC)</dc:description>
+      <dc:modified/>
+      <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+      <dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0641</dc:source>
+      <dc:type>text</dc:type>
+      <dc:format>text/xml</dc:format>
+      <dc:language>en</dc:language>
+      <dct:bibliographicCitation>OJ L 293, 14.09.2004, p. 30</dct:bibliographicCitation>
+      <EUMetadata>
+         <DocumentClassification>
+            <DocumentCategory Value="euretained"/>
+            <DocumentMainType Value="EuropeanUnionDecision"/>
+            <DocumentStatus Value="final"/>
+         </DocumentClassification>
+         <Year Value="2004"/>
+         <Number Value="641"/>
+         <EURLexIdentifiers>
+            <Cellar Value="771b5b24-8402-4967-a10d-3df77de8b14a"/>
+            <OfficialJournal Value="JOL_2004_293_R_0030_01"/>
+            <CELEX Value="32004D0641"/>
+            <ELI Value="dec:2004:641:oj"/>
+         </EURLexIdentifiers>
+         <EnactmentDate Date="2004-09-14"/>
+         <EURLexModified Date="2017-12-22T12:28:25Z"/>
+         <EURLexExtracted Date="2018-05-21T09:53:48Z"/>
+         <XMLGenerated Date="2020-12-09T18:41:36Z"/>
+         <Treaty Title="Treaty establishing the European Community (consolidated version 1992)" Code="TEC_1992"/>
+         <CreatedBy Label="European Commission" URI="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+         <Subject Scheme="SubjectMatter" Label="Technical barriers" URI="http://publications.europa.eu/resource/authority/fd_070/ETEC"/>
+         <Subject Scheme="EuroVoc" Label="committee (EU)" URI="http://eurovoc.europa.eu/6049"/>
+         <Subject Scheme="SubjectMatter" Label="Internal market - Principles" URI="http://publications.europa.eu/resource/authority/fd_070/MARI"/>
+         <Subject Scheme="EuroVoc" Label="transmission network" URI="http://eurovoc.europa.eu/3017"/>
+         <Subject Scheme="EuroVoc" Label="regulation of telecommunications" URI="http://eurovoc.europa.eu/6139"/>
+         <Subject Scheme="DirectoryCode" Label="Information technology, telecommunications and data-processing" URI="http://publications.europa.eu/resource/authority/fd_555/132060"/>
+         <Subject Scheme="DirectoryCode" Label="Industrial policy: sectoral operations" URI="http://publications.europa.eu/resource/authority/fd_555/1320"/>
+         <Subject Scheme="DirectoryCode" Label="Industrial policy and internal market" URI="http://publications.europa.eu/resource/authority/fd_555/13"/>
+         <Subject Scheme="SubjectMatter" Label="Telecommunications" URI="http://publications.europa.eu/resource/authority/fd_070/TELE"/>
+         <EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/771b5b24-8402-4967-a10d-3df77de8b14a</VALUE>
+                  <IDENTIFIER>771b5b24-8402-4967-a10d-3df77de8b14a</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_293_R_0030_01</VALUE>
+                     <IDENTIFIER>JOL_2004_293_R_0030_01</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32004D0641</VALUE>
+                     <IDENTIFIER>32004D0641</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/dec/2004/641/oj</VALUE>
+                     <IDENTIFIER>dec:2004:641:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <ID_CELEX type="data">
+                  <VALUE>32004D0641</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS type="data">
+                  <VALUE>{P/EEE|http://publications.europa.eu/resource/authority/fd_400/P%2FEEE}</VALUE>
+               </RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ETEC</VALUE>
+                        <IDENTIFIER>ETEC</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ETEC</OP-CODE>
+                     <IDENTIFIER>ETEC</IDENTIFIER>
+                     <PREFLABEL>Technical barriers</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>LIE</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+                     <IDENTIFIER>JO</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>JO</OP-CODE>
+                  <IDENTIFIER>JO</IDENTIFIER>
+                  <PREFLABEL>JO</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </CREATED_BY>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LAV</VALUE>
+                     <IDENTIFIER>LAV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LAV</OP-CODE>
+                  <IDENTIFIER>LAV</IDENTIFIER>
+                  <PREFLABEL>Latvian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DAN</VALUE>
+                     <IDENTIFIER>DAN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DAN</OP-CODE>
+                  <IDENTIFIER>DAN</IDENTIFIER>
+                  <PREFLABEL>Danish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>false</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FRA</VALUE>
+                     <IDENTIFIER>FRA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FRA</OP-CODE>
+                  <IDENTIFIER>FRA</IDENTIFIER>
+                  <PREFLABEL>French</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/f032226c-6d56-4c5a-a754-a447312545cb</VALUE>
+                     <IDENTIFIER>f032226c-6d56-4c5a-a754-a447312545cb</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002E</VALUE>
+                        <IDENTIFIER>12002E</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a5418b21-405a-40e9-952c-86f15cd3427d</VALUE>
+                     <IDENTIFIER>a5418b21-405a-40e9-952c-86f15cd3427d</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2013_13_038_HR</VALUE>
+                        <IDENTIFIER>DD_2013_13_038_HR</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.HRV.13.038.FULL</VALUE>
+                        <IDENTIFIER>DD.HRV.13.038.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <DATE type="date">
+                  <VALUE>2004-09-14</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>14</DAY>
+               </DATE>
+               <DATE type="date">
+                  <VALUE>2004-09-22</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>22</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/01097955-800d-4509-9207-f8bb5e6fbfb3</VALUE>
+                     <IDENTIFIER>01097955-800d-4509-9207-f8bb5e6fbfb3</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2005_267_M</VALUE>
+                        <IDENTIFIER>JOL_2005_267_M</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6049</VALUE>
+                        <IDENTIFIER>6049</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6049</IDENTIFIER>
+                     <PREFLABEL>committee (EU)</PREFLABEL>
+                     <ALTLABEL>EC committee</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5769</VALUE>
+                        <IDENTIFIER>5769</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5769</IDENTIFIER>
+                     <PREFLABEL>EU office or agency</PREFLABEL>
+                     <ALTLABEL>specialised Community agency</ALTLABEL>
+                     <ALTLABEL>European Union office or agency</ALTLABEL>
+                     <ALTLABEL>EC specialised body</ALTLABEL>
+                     <ALTLABEL>European agency</ALTLABEL>
+                     <ALTLABEL>European Monitoring Centre</ALTLABEL>
+                     <ALTLABEL>EC institutional body</ALTLABEL>
+                     <ALTLABEL>Community service body</ALTLABEL>
+                     <ALTLABEL>EC satellite body</ALTLABEL>
+                     <ALTLABEL>EU Agencies and decentralised bodies</ALTLABEL>
+                     <ALTLABEL>European foundation</ALTLABEL>
+                     <ALTLABEL>decentralised Community body</ALTLABEL>
+                     <ALTLABEL>autonomous Community body</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2004_293_R_0030_01</VALUE>
+               </WORK_ID_DOCUMENT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/28df3843-4f63-4ba8-8902-bf54c42b996f</VALUE>
+                     <IDENTIFIER>28df3843-4f63-4ba8-8902-bf54c42b996f</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_293_R</VALUE>
+                        <IDENTIFIER>JOL_2004_293_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/3908d945-4fd0-4f34-bed3-2060dfeb0608</VALUE>
+                     <IDENTIFIER>3908d945-4fd0-4f34-bed3-2060dfeb0608</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2002D0627%2F20040916</VALUE>
+                        <IDENTIFIER>2002D0627/20040916</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2002/627/2004-09-16</VALUE>
+                        <IDENTIFIER>dec:2002:627:2004-09-16</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02002D0627-20040916</VALUE>
+                        <IDENTIFIER>02002D0627-20040916</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SWE</VALUE>
+                     <IDENTIFIER>SWE</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SWE</OP-CODE>
+                  <IDENTIFIER>SWE</IDENTIFIER>
+                  <PREFLABEL>Swedish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/MARI</VALUE>
+                        <IDENTIFIER>MARI</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>MARI</OP-CODE>
+                     <IDENTIFIER>MARI</IDENTIFIER>
+                     <PREFLABEL>Internal market - Principles</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32004D0641</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/132060</VALUE>
+                     <IDENTIFIER>132060</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>132060</OP-CODE>
+                  <IDENTIFIER>132060</IDENTIFIER>
+                  <PREFLABEL>Information technology, telecommunications and data-processing</PREFLABEL>
+               </IS_ABOUT>
+               <YEAR type="data">
+                  <VALUE>2004</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/ETEC</VALUE>
+                     <IDENTIFIER>ETEC</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>ETEC</OP-CODE>
+                  <IDENTIFIER>ETEC</IDENTIFIER>
+                  <PREFLABEL>Technical barriers</PREFLABEL>
+               </IS_ABOUT>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/641/oj</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2004</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2017-12-22T13:28:25.614+01:00</VALUE>
+                  <YEAR>2017</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>22</DAY>
+               </LASTMODIFICATIONDATE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ISL</VALUE>
+                     <IDENTIFIER>ISL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ISL</OP-CODE>
+                  <IDENTIFIER>ISL</IDENTIFIER>
+                  <PREFLABEL>Icelandic</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/CES</VALUE>
+                     <IDENTIFIER>CES</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>CES</OP-CODE>
+                  <IDENTIFIER>CES</IDENTIFIER>
+                  <PREFLABEL>Czech</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32004D0641</VALUE>
+               </WORK_ID_DOCUMENT>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2004-09-14</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>14</DAY>
+               </DATE_DOCUMENT>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/f032226c-6d56-4c5a-a754-a447312545cb</VALUE>
+                     <IDENTIFIER>f032226c-6d56-4c5a-a754-a447312545cb</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002E</VALUE>
+                        <IDENTIFIER>12002E</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_030/DECBES</VALUE>
+                     <IDENTIFIER>DECBES</IDENTIFIER>
+                     <TYPE>fd_030</TYPE>
+                  </URI>
+                  <OP-CODE>DECBES</OP-CODE>
+                  <IDENTIFIER>DECBES</IDENTIFIER>
+                  <PREFLABEL>decision without addressee</PREFLABEL>
+               </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/MLT</VALUE>
+                     <IDENTIFIER>MLT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>MLT</OP-CODE>
+                  <IDENTIFIER>MLT</IDENTIFIER>
+                  <PREFLABEL>Maltese</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2004-09-22</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>22</DAY>
+               </DATE_CREATION_LEGACY>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <IDENTIFIER type="data">
+                  <VALUE>434008</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/6139</VALUE>
+                     <IDENTIFIER>6139</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>6139</IDENTIFIER>
+                  <PREFLABEL>regulation of telecommunications</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SPA</VALUE>
+                     <IDENTIFIER>SPA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SPA</OP-CODE>
+                  <IDENTIFIER>SPA</IDENTIFIER>
+                  <PREFLABEL>Spanish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>641</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/641/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/MARI</VALUE>
+                     <IDENTIFIER>MARI</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>MARI</OP-CODE>
+                  <IDENTIFIER>MARI</IDENTIFIER>
+                  <PREFLABEL>Internal market - Principles</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3017</VALUE>
+                        <IDENTIFIER>3017</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3017</IDENTIFIER>
+                     <PREFLABEL>transmission network</PREFLABEL>
+                     <ALTLABEL>data-transmission network</ALTLABEL>
+                     <ALTLABEL>Euronet</ALTLABEL>
+                     <ALTLABEL>telecommunications network</ALTLABEL>
+                     <ALTLABEL>broadcasting network</ALTLABEL>
+                     <ALTLABEL>Transpac</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4361</VALUE>
+                        <IDENTIFIER>4361</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4361</IDENTIFIER>
+                     <PREFLABEL>communications systems</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100150</VALUE>
+                        <IDENTIFIER>100150</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>32</IDENTIFIER>
+                     <PREFLABEL>32 EDUCATION AND COMMUNICATIONS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100221</VALUE>
+                        <IDENTIFIER>100221</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3226</IDENTIFIER>
+                     <PREFLABEL>3226 communications</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>D</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLK</VALUE>
+                     <IDENTIFIER>SLK</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLK</OP-CODE>
+                  <IDENTIFIER>SLK</IDENTIFIER>
+                  <PREFLABEL>Slovak</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6139</VALUE>
+                        <IDENTIFIER>6139</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6139</IDENTIFIER>
+                     <PREFLABEL>regulation of telecommunications</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4361</VALUE>
+                        <IDENTIFIER>4361</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4361</IDENTIFIER>
+                     <PREFLABEL>communications systems</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100150</VALUE>
+                        <IDENTIFIER>100150</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>32</IDENTIFIER>
+                     <PREFLABEL>32 EDUCATION AND COMMUNICATIONS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100221</VALUE>
+                        <IDENTIFIER>100221</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3226</IDENTIFIER>
+                     <PREFLABEL>3226 communications</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POR</VALUE>
+                     <IDENTIFIER>POR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POR</OP-CODE>
+                  <IDENTIFIER>POR</IDENTIFIER>
+                  <PREFLABEL>Portuguese</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/4c02ef5f-b146-4028-a77b-d368ff70c937</VALUE>
+                     <IDENTIFIER>4c02ef5f-b146-4028-a77b-d368ff70c937</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2007_13_045_RO</VALUE>
+                        <IDENTIFIER>DD_2007_13_045_RO</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.RON.13.045.FULL</VALUE>
+                        <IDENTIFIER>DD.RON.13.045.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </BASED_ON>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3017</VALUE>
+                     <IDENTIFIER>3017</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3017</IDENTIFIER>
+                  <PREFLABEL>transmission network</PREFLABEL>
+                  <ALTLABEL>data-transmission network</ALTLABEL>
+                  <ALTLABEL>Euronet</ALTLABEL>
+                  <ALTLABEL>telecommunications network</ALTLABEL>
+                  <ALTLABEL>broadcasting network</ALTLABEL>
+                  <ALTLABEL>Transpac</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ELL</VALUE>
+                     <IDENTIFIER>ELL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ELL</OP-CODE>
+                  <IDENTIFIER>ELL</IDENTIFIER>
+                  <PREFLABEL>Greek</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/TELE</VALUE>
+                     <IDENTIFIER>TELE</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>TELE</OP-CODE>
+                  <IDENTIFIER>TELE</IDENTIFIER>
+                  <PREFLABEL>Telecommunications</PREFLABEL>
+               </IS_ABOUT>
+               <DATE type="date">
+                  <VALUE>2004-09-16</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>16</DAY>
+               </DATE>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32004D0641</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ITA</VALUE>
+                     <IDENTIFIER>ITA</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ITA</OP-CODE>
+                  <IDENTIFIER>ITA</IDENTIFIER>
+                  <PREFLABEL>Italian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/132060</VALUE>
+                        <IDENTIFIER>132060</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>132060</OP-CODE>
+                     <IDENTIFIER>132060</IDENTIFIER>
+                     <PREFLABEL>Information technology, telecommunications and data-processing</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/1320</VALUE>
+                        <IDENTIFIER>1320</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>1320</OP-CODE>
+                     <IDENTIFIER>1320</IDENTIFIER>
+                     <PREFLABEL>Industrial policy: sectoral operations</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/13</VALUE>
+                        <IDENTIFIER>13</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>13</OP-CODE>
+                     <IDENTIFIER>13</IDENTIFIER>
+                     <PREFLABEL>Industrial policy and internal market</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2004-09-14</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>14</DAY>
+               </WORK_DATE_DOCUMENT>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/HUN</VALUE>
+                     <IDENTIFIER>HUN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>HUN</OP-CODE>
+                  <IDENTIFIER>HUN</IDENTIFIER>
+                  <PREFLABEL>Hungarian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/641/oj</VALUE>
+               </ELI>
+               <RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS type="data">
+                  <VALUE>{EXT|http://publications.europa.eu/resource/authority/fd_400/EXT} {22005D0038|http://publications.europa.eu/resource/celex/22005D0038}</VALUE>
+               </RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NOR</VALUE>
+                     <IDENTIFIER>NOR</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NOR</OP-CODE>
+                  <IDENTIFIER>NOR</IDENTIFIER>
+                  <PREFLABEL>Norwegian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <IDENTIFIER type="data">
+                  <VALUE>32004D0641</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/EST</VALUE>
+                     <IDENTIFIER>EST</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>EST</OP-CODE>
+                  <IDENTIFIER>EST</IDENTIFIER>
+                  <PREFLABEL>Estonian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/LIT</VALUE>
+                     <IDENTIFIER>LIT</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>LIT</OP-CODE>
+                  <IDENTIFIER>LIT</IDENTIFIER>
+                  <PREFLABEL>Lithuanian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/6049</VALUE>
+                     <IDENTIFIER>6049</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>6049</IDENTIFIER>
+                  <PREFLABEL>committee (EU)</PREFLABEL>
+                  <ALTLABEL>EC committee</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_TABLE-OF-CONTENTS type="data">
+                  <VALUE>
+         &lt;table-of-contents&gt;
+            &lt;p&gt;0030 - 0031&lt;/p&gt;
+         &lt;/table-of-contents&gt;
+      </VALUE>
+               </WORK_TABLE-OF-CONTENTS>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/TELE</VALUE>
+                        <IDENTIFIER>TELE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>TELE</OP-CODE>
+                     <IDENTIFIER>TELE</IDENTIFIER>
+                     <PREFLABEL>Telecommunications</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>2010-05-31</VALUE>
+                  <YEAR>2010</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{AI/PAR|http://publications.europa.eu/resource/authority/fd_330/AI%2FPAR} 32010D0229</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2004_293_R_0030_01</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0641</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DEC</VALUE>
+                     <IDENTIFIER>DEC</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DEC</OP-CODE>
+                  <IDENTIFIER>DEC</IDENTIFIER>
+                  <PREFLABEL>Decision</PREFLABEL>
+                  <ALTLABEL>Decisions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <DATE type="date">
+                  <VALUE>2010-05-31</VALUE>
+                  <YEAR>2010</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>31</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/FIN</VALUE>
+                     <IDENTIFIER>FIN</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>FIN</OP-CODE>
+                  <IDENTIFIER>FIN</IDENTIFIER>
+                  <PREFLABEL>Finnish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/SLV</VALUE>
+                     <IDENTIFIER>SLV</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>SLV</OP-CODE>
+                  <IDENTIFIER>SLV</IDENTIFIER>
+                  <PREFLABEL>Slovenian</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/NLD</VALUE>
+                     <IDENTIFIER>NLD</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>NLD</OP-CODE>
+                  <IDENTIFIER>NLD</IDENTIFIER>
+                  <PREFLABEL>Dutch</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/7dda72ae-f699-4aab-9ada-d459904cd745</VALUE>
+                     <IDENTIFIER>7dda72ae-f699-4aab-9ada-d459904cd745</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2002_200_R_0038_01</VALUE>
+                        <IDENTIFIER>JOL_2002_200_R_0038_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32002D0627</VALUE>
+                        <IDENTIFIER>32002D0627</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2002/627/oj</VALUE>
+                        <IDENTIFIER>dec:2002:627:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{SU|http://publications.europa.eu/resource/authority/fd_375/SU}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 5.1</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{C|http://publications.europa.eu/resource/authority/fd_375/C}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 3</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{J|http://publications.europa.eu/resource/authority/fd_375/J}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AN|http://publications.europa.eu/resource/authority/fd_370/AN}</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{R|http://publications.europa.eu/resource/authority/fd_375/R}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 7</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{SU|http://publications.europa.eu/resource/authority/fd_375/SU}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 2</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+                  <ANNOTATION>
+                     <START_OF_VALIDITY>2004-09-16</START_OF_VALIDITY>
+                     <ROLE2>{M|http://publications.europa.eu/resource/authority/fd_375/M}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 5</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/62390c8b-3bff-4bcd-b5ce-71a504932827</VALUE>
+                     <IDENTIFIER>62390c8b-3bff-4bcd-b5ce-71a504932827</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2007_13_045_BG</VALUE>
+                        <IDENTIFIER>DD_2007_13_045_BG</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.BUL.13.045.FULL</VALUE>
+                        <IDENTIFIER>DD.BUL.13.045.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2004-09-16</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>16</DAY>
+                  <ANNOTATION>
+                     <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_335/DATPUB} {V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 2</COMMENT_ON_DATE>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/04/2014 15:17:05</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/DEU</VALUE>
+                     <IDENTIFIER>DEU</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>DEU</OP-CODE>
+                  <IDENTIFIER>DEU</IDENTIFIER>
+                  <PREFLABEL>German</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+                     <IDENTIFIER>POL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POL</OP-CODE>
+                  <IDENTIFIER>POL</IDENTIFIER>
+                  <PREFLABEL>Polish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <TYPE>D</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:decision</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/771b5b24-8402-4967-a10d-3df77de8b14a.0005</VALUE>
+                  <IDENTIFIER>771b5b24-8402-4967-a10d-3df77de8b14a.0005</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_293_R_0030_01.ENG</VALUE>
+                     <IDENTIFIER>JOL_2004_293_R_0030_01.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32004D0641.ENG</VALUE>
+                     <IDENTIFIER>32004D0641.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2004.293.01.0030.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2004.293.01.0030.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <TITLE type="data">
+                  <VALUE>2004/641/EC: Commission Decision of 14 September 2004 amending Decision 2002/627/EC establishing the European Regulators Group for Electronic Communications Networks and Services(Text with EEA relevance)</VALUE>
+               </TITLE>
+               <TITLE type="data">
+                  <VALUE>CELEX1</VALUE>
+               </TITLE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>2004/641/EC: Commission Decision of 14 September 2004 amending Decision 2002/627/EC establishing the European Regulators Group for Electronic Communications Networks and Services(Text with EEA relevance)</VALUE>
+               </EXPRESSION_TITLE>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-06-30T00:29:12.109+02:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>30</DAY>
+               </LASTMODIFICATIONDATE>
+            </EXPRESSION>
+         </EURLexMetadata>
+      </EUMetadata>
+   </Metadata>
+   <EURetained>
+      <EUPrelims>
+         <MultilineTitle>
+            <Text>
+               <Uppercase>Commission Decision</Uppercase>
+            </Text>
+            <Text>of 14 September 2004</Text>
+            <Text>amending Decision 2002/627/EC establishing the European Regulators Group for Electronic Communications Networks and Services</Text>
+            <Text>(Text with EEA relevance)</Text>
+            <Text>(2004/641/EC)</Text>
+         </MultilineTitle>
+         <EUPreamble>
+            <P>
+               <Text>THE COMMISSION OF THE EUROPEAN COMMUNITIES,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the Treaty establishing the European Community,</Text>
+            </P>
+            <P>
+               <Text>Whereas:</Text>
+            </P>
+            <Division>
+               <Number>(1)</Number>
+               <P>
+                  <Text>Commission Decision 2002/627/EC<FootnoteRef Ref="f00001"/> established the European Regulators Group for Electronic Communications Networks and Services.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(2)</Number>
+               <P>
+                  <Text>Operational experience with this group has highlighted the need to clarify issues concerning the membership of the Group and to focus the work of the Group on the tasks linked to day-to-day supervision of implementation of the new regulatory framework for electronic communications networks and services.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(3)</Number>
+               <P>
+                  <Text>All Member States have established regulatory authorities with responsibilities for day to day oversight of the market for electronic communications,</Text>
+               </P>
+            </Division>
+            <P>
+               <Text>HAS DECIDED AS FOLLOWS:</Text>
+            </P>
+         </EUPreamble>
+      </EUPrelims>
+      <EUBody>
+         <P1 id="article-1">
+            <Pnumber>Article 1</Pnumber>
+            <P1para>
+               <Text>Decision 2002/627/EC is amended as follows:</Text>
+            </P1para>
+            <P1para>
+               <OrderedList Type="arabic" Decoration="period">
+                  <ListItem NumberOverride="1.">
+                     <Para>
+                        <Text>Article 2 is deleted;</Text>
+                     </Para>
+                  </ListItem>
+                  <ListItem NumberOverride="2.">
+                     <Para>
+                        <Text>in Article 3 the following paragraph is added:</Text>
+                     </Para>
+                     <Para>
+                        <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="single">
+                           <Para>
+                              <Text>The Group shall advise and assist the Commission on any matter related to electronic communications networks and services within its competence, either at its own initiative or at the Commission’s request.</Text>
+                           </Para>
+                        </BlockAmendment>
+                        <AppendText>;</AppendText>
+                     </Para>
+                  </ListItem>
+                  <ListItem NumberOverride="3.">
+                     <Para>
+                        <Text>Article 4 is replaced by the following:</Text>
+                     </Para>
+                     <Para>
+                        <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="single">
+                           <P1group>
+                              <Title>Membership</Title>
+                              <P1>
+                                 <Pnumber>Article 4</Pnumber>
+                                 <P1para>
+                                    <P2>
+                                       <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                                       <P2para>
+                                          <Text>The Group shall be composed of the heads of the independent national regulatory authority established in each Member State with primary responsibility for overseeing the day-to-day operation of the market for electronic communications networks and services, or their representatives.</Text>
+                                       </P2para>
+                                       <P2para>
+                                          <Text>There shall be one member per Member State. The Commission shall be represented at an appropriate level and shall provide the secretariat to the Group.</Text>
+                                       </P2para>
+                                    </P2>
+                                    <P2>
+                                       <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                                       <P2para>
+                                          <Text>The relevant national authorities referred to in paragraph 1 are listed in the Annex. The Commission shall keep this list under review in the light of any changes introduced by Member States to the names or responsibilities of these authorities.</Text>
+                                       </P2para>
+                                    </P2>
+                                 </P1para>
+                              </P1>
+                           </P1group>
+                        </BlockAmendment>
+                        <AppendText>.</AppendText>
+                     </Para>
+                  </ListItem>
+                  <ListItem NumberOverride="4.">
+                     <Para>
+                        <Text>Article 5 is amended as follows:</Text>
+                     </Para>
+                     <Para>
+                        <OrderedList Type="alpha" Decoration="parens">
+                           <ListItem NumberOverride="(a)">
+                              <Para>
+                                 <Text>the first paragraph is deleted;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem NumberOverride="(b)">
+                              <Para>
+                                 <Text>in the last paragraph, the first sentence is replaced by the following:</Text>
+                              </Para>
+                              <Para>
+                                 <Text>‘Experts from EEA States that are not members of the European Union and those States that are candidates for accession to the European Union may participate as observers in the Group.’</Text>
+                              </Para>
+                           </ListItem>
+                        </OrderedList>
+                     </Para>
+                  </ListItem>
+                  <ListItem NumberOverride="5.">
+                     <Para>
+                        <Text>The text in the Annex to this Decision is added as an Annex.</Text>
+                     </Para>
+                  </ListItem>
+               </OrderedList>
+            </P1para>
+         </P1>
+         <P1 id="article-2">
+            <Pnumber>Article 2</Pnumber>
+            <P1para>
+               <Text>This Decision shall enter into force on the day of its publication in the <Emphasis>Official Journal of the European Union</Emphasis>.</Text>
+            </P1para>
+         </P1>
+         <SignedSection>
+            <Signatory>
+               <Para>
+                  <Text>Done at Brussels, 14 September 2004.</Text>
+               </Para>
+               <Signee>
+                  <Para>
+                     <Text>
+                        <Emphasis>For the Commission</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>Olli <Uppercase>Rehn</Uppercase>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>
+                        <Emphasis>Member of the Commission</Emphasis>
+                     </Text>
+                  </Para>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </EUBody>
+      <Schedules><!--L_2004293EN.01003201.xml-->
+         <Schedule id="annex-ANEXO-PLOHA-BILAG-ANHANG-ANNEKS--ANNEX-ANNEXE-ALLEGATO-PIELIKUMS-PRIEDAS-MELLKLET-ANNESS-BIJLAGE-ZACZNIK-ANEXO-PRLOHA-PRILOGA-LIITE-BILAGA">
+            <Number>ANEXO — PŘÍLOHA — BILAG — ANHANG — ANNEKS — ΠΑΡΑΡΤΗΜΑ — ANNEX — ANNEXE — ALLEGATO — PIELIKUMS — PRIEDAS — MELLÉKLET — ANNESS — BIJLAGE — ZAŁĄCZNIK — ANEXO — PRÍLOHA — PRILOGA — LIITE — BILAGA</Number>
+            <ScheduleBody>
+               <Tabular Orientation="portrait">
+                  <Title>List of Members of the ERG</Title>
+                  <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                     <tbody>
+                        <tr>
+                           <th>Country</th>
+                           <th>National Regulatory Authority</th>
+                        </tr>
+                        <tr>
+                           <td>Belgique/België</td>
+                           <td>
+                              <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                 <Text>Institut belge des services postaux et des télécommunications (IBPT)</Text>
+                              </Para>
+                              <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                 <Text>Belgisch Instituut voor postdiensten en telecommunicatie (BIPT)</Text>
+                              </Para>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>Česká republika</td>
+                           <td>Český telekomunikační úřad (ČTÚ)</td>
+                        </tr>
+                        <tr>
+                           <td>Danmark</td>
+                           <td>IT- og Telestyrelsen — National IT and Telecom Agency (NITA)</td>
+                        </tr>
+                        <tr>
+                           <td>Deutschland</td>
+                           <td>Regulierungsbehörde für Telekommunikation und Post (Reg TP)</td>
+                        </tr>
+                        <tr>
+                           <td>Eesti</td>
+                           <td>Sideamet (SIDEAMET)</td>
+                        </tr>
+                        <tr>
+                           <td>Ελλάδα</td>
+                           <td>Εθνική Επιτροπή Τηλεπικοινωνιών και Ταχυδρομείων</td>
+                        </tr>
+                        <tr>
+                           <td>Elláda</td>
+                           <td>National Telecommunications and Post Commission (EETT)</td>
+                        </tr>
+                        <tr>
+                           <td>España</td>
+                           <td>Comisión del Mercado de las Telecomunicaciones (CMT)</td>
+                        </tr>
+                        <tr>
+                           <td>France</td>
+                           <td>Autorité de Régulation des Télécommunications (ART)</td>
+                        </tr>
+                        <tr>
+                           <td>Ireland</td>
+                           <td>Commission for Communications Regulation (ComReg)</td>
+                        </tr>
+                        <tr>
+                           <td>Italia</td>
+                           <td>Autorità per le garanzie nelle comunicazioni (AGCOM)</td>
+                        </tr>
+                        <tr>
+                           <td>Kypros</td>
+                           <td>Office of the Commissioner of Telecommunications and Postal Regulation (OCTPR)</td>
+                        </tr>
+                        <tr>
+                           <td>Latvija</td>
+                           <td>Sabiedrisko pakalpojumu regulēšanas komisija (SPRK)</td>
+                        </tr>
+                        <tr>
+                           <td>Lietuva</td>
+                           <td>Ryšių reguliavimo tarnyba (RRT)</td>
+                        </tr>
+                        <tr>
+                           <td>Luxembourg</td>
+                           <td>Institut Luxembourgeois de Régulation (ILR)</td>
+                        </tr>
+                        <tr>
+                           <td>Magyarország</td>
+                           <td>Nemzeti Hírközlési Hatóság (NHH)</td>
+                        </tr>
+                        <tr>
+                           <td>Malta</td>
+                           <td>Malta Communications Authority (MCA)</td>
+                        </tr>
+                        <tr>
+                           <td>Nederland</td>
+                           <td>Onafhankelijke Post en Telecommunicatie Autoriteit (OPTA)</td>
+                        </tr>
+                        <tr>
+                           <td>Österreich</td>
+                           <td>Rundfunk und Telekom Regulierungs-GmbH (RTR)</td>
+                        </tr>
+                        <tr>
+                           <td>Polska</td>
+                           <td>Urząd Regulacji Telekomunikacji i Poczty (URTiP)</td>
+                        </tr>
+                        <tr>
+                           <td>Portugal</td>
+                           <td>ICP — Autoridade Nacional de Comunicações (ICP-ANACOM)</td>
+                        </tr>
+                        <tr>
+                           <td>Slovenija</td>
+                           <td>Agencija za telekomunikacije, radiodifuzijo in pošto Republike Slovenije (ATRP)</td>
+                        </tr>
+                        <tr>
+                           <td>Slovensko</td>
+                           <td>Telekomunikačný úrad Slovenskej republiky (TU SR)</td>
+                        </tr>
+                        <tr>
+                           <td>Suomi Finland</td>
+                           <td>Viestintävirasto Kommunikationsverket (FICORA)</td>
+                        </tr>
+                        <tr>
+                           <td>Sverige</td>
+                           <td>Post- och telestyrelsen (PTS)</td>
+                        </tr>
+                        <tr>
+                           <td>United Kingdom</td>
+                           <td>Office of Communications (Ofcom)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </Tabular>
+            </ScheduleBody>
+         </Schedule>
+      </Schedules>
+   </EURetained>
+   <Footnotes>
+      <Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="2002" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.200.01.0038.01.ENG" Date="2002-07-30">OJ L 200, 30.7.2002, p. 38</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+   </Footnotes>
+</Legislation>

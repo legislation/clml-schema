@@ -1,0 +1,329 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2006/255/made" IdURI="http://www.legislation.gov.uk/id/ssi/2006/255" NumberOfProvisions="10" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ssi/2006/255/schedule/made</dc:identifier>
+		<dc:title>The Parental Responsibilities and Parental Rights Agreement (Scotland) Amendment Regulations 2006</dc:title>
+		<dc:subject>Child protection</dc:subject>
+		<dc:subject>Legislation</dc:subject>
+		<dc:subject>Children in need</dc:subject>
+		<dc:publisher>Queen's Printer for Scotland</dc:publisher>
+		<dc:modified>2014-07-16</dc:modified>
+		<dc:subject scheme="SIheading">CHILDREN AND YOUNG PERSONS</dc:subject>
+		<dc:description>These Regulations amend the Parental Responsibilities and Parental Rights Agreement (Scotland) Regulations 1996 to update references in the Schedule to the law in relation to fathers who automatically obtain parental responsibilities and rights in terms of section 3 of the Children (Scotland) Act 1995 as amended by section 23 of the Family Law (Scotland) Act 2006.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2006/255/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/executive-note" href="http://www.legislation.gov.uk/ssi/2006/255/executive-note" title="Executive Note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/executive-note/toc" href="http://www.legislation.gov.uk/ssi/2006/255/executive-note/contents" title="Executive Note Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2006/255/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2006/255/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2006/255/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2006/255/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2006/255/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ssi/2006/255/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ssi/2006/255/schedule/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ssi/2006/255/contents/made" title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ssi/2006/255/made" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ssi/2006/255/signature/made" title="Signature; Signature"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ssi/2006/255/signature/made" title="Signature; Signature"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ssi/2006/255/note/made" title="Explanatory Note; Explanatory Note"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ssi/2006/255/note/made" title="Explanatory Note; Explanatory Note"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2006"/>
+			<ukm:Number Value="255"/>
+			<ukm:Made Date="2006-05-11"/>
+			<ukm:Laid Date="2006-05-12" Class="ScottishParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2006-06-03"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="0110704886"/>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ssi/2006/255/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2008-12-10" URI="http://www.legislation.gov.uk/ssi/2006/255/pdfs/ssien_20060255_en.pdf" Title="Executive Note"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-12-09" URI="http://www.legislation.gov.uk/ssi/2006/255/pdfs/ssi_20060255_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="17"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="15"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="2"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/ssi/2006/255/schedule/made" IdURI="http://www.legislation.gov.uk/id/ssi/2006/255/schedule" NumberOfProvisions="8" NumberFormat="default" id="schedule">
+				<Number>SCHEDULE</Number>
+				<Reference>Regulation 2</Reference>
+				<ScheduleBody>
+					<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="schedule" Format="default" NumberFormat="default">
+						<Schedule NumberFormat="default">
+							<Number>SCHEDULE</Number>
+							<TitleBlock>
+								<Title>PARENTAL RESPONSIBILITIES AND PARENTAL RIGHTS AGREEMENT UNDER SECTION 4(1) OF THE CHILDREN (SCOTLAND) ACT 1995</Title>
+							</TitleBlock>
+							<Reference>Regulation 2</Reference>
+							<ScheduleBody>
+								<P1group>
+									<Title>IMPORTANT</Title>
+									<P>
+										<Text>Making this agreement will affect the legal position of the mother and father. Read the following information and the notes very carefully before you make the agreement.</Text>
+									</P>
+									<P>
+										<Text>You are strongly recommended to seek advice before you make the agreement from, for example, a Citizen’s Advice Bureau, a law centre or a solicitor. They can also help you if you have any problems making the agreement. If you need a solicitor’s advice you may be eligible for legal aid.</Text>
+									</P>
+									<P>
+										<Text>This agreement will give the father of a child parental responsibilities and parental rights in relation to the child where he does not already have them. The mother of the child will continue to have parental responsibilities and parental rights in relation to the child.</Text>
+									</P>
+									<P>
+										<Text>The mother of a child always has parental responsibilities and parental rights in relation to the child, unless she has been deprived of them by a court order. However a father of a child only has parental responsibilities and parental rights in relation to a child if–</Text>
+										<P3>
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>he is married to the child’s mother at the time of the child’s conception or subsequently;</Text>
+											</P3para>
+										</P3>
+										<P3>
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>on or after 4th May 2006 he is registered as the father of a child under any of the following enactments–</Text>
+												<P4>
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>sections 18(1)(a), (b)(i) and (c) of the Registration of Births, Deaths and Marriages (Scotland) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1965/49" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1965" Number="0049">1965 (c. 49)</Citation>;</Text>
+													</P4para>
+												</P4>
+												<P4>
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>sections 10(1)(a) to (e) and 10A(1)(a) to (e) of the Births and Deaths Registration Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1953/20" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1953" Number="0020">1953 (c. 20)</Citation>; and</Text>
+													</P4para>
+												</P4>
+												<P4>
+													<Pnumber>iii</Pnumber>
+													<P4para>
+														<Text>article 14(3)(a) to (e) of the Births and Deaths Registration (Northern Ireland) Order 1976 (<Acronym Expansion="Statutory Instrument">S.I.</Acronym>
+															<Citation URI="http://www.legislation.gov.uk/id/uksi/1976/1041" id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="1976" Number="1041">1976/1041</Citation>);</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3>
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>he is given parental responsibilities and parental rights by a court order under section 11 of the Children (Scotland) Act 1995 (“<Abbreviation Expansion="Children (Scotland) Act 1995 c. 36">the Act</Abbreviation>”); or</Text>
+											</P3para>
+										</P3>
+										<P3>
+											<Pnumber>d</Pnumber>
+											<P3para>
+												<Text>he is given parental responsibilities and parental rights by this agreement.</Text>
+											</P3para>
+										</P3>
+									</P>
+									<P>
+										<Text>In deciding whether or not to enter into this agreement the mother should consider whether, in doing so, she would be fulfilling her parental responsibilities towards the child and, in particular, her responsibility in section 1(1)(a) of the Act–</Text>
+										<BlockExtract SourceClass="unknown" SourceSubClass="unknown" Context="unknown" Format="double" NumberFormat="default">
+											<P3>
+												<Pnumber>a</Pnumber>
+												<P3para>
+													<Text>to safeguard and promote the child’s health, development and welfare … but only insofar as compliance with this section is practicable and in the interests of the child.</Text>
+												</P3para>
+											</P3>
+										</BlockExtract>
+									</P>
+									<P>
+										<Text>Furthermore, in terms of section 6 of the Act, the mother should–</Text>
+										<BlockExtract SourceClass="unknown" SourceSubClass="unknown" Context="unknown" Format="double" NumberFormat="default">
+											<UnorderedList Decoration="none">
+												<ListItem>
+													<Para>
+														<Text>have regard so far as practicable to the views (if he wishes to express them) of the child concerned, taking account of the child’s age and maturity, and to those of any other person who has parental responsibilities or parental rights in relation to the child (and wishes to express those views); and <Character Name="DotPadding"/> a child twelve years of age or more shall be presumed to be of sufficient age and maturity to form a view.</Text>
+													</Para>
+												</ListItem>
+											</UnorderedList>
+										</BlockExtract>
+									</P>
+									<P>
+										<Figure Orientation="portrait" ImageLayout="vertical">
+											<Image Height="678.24pt" Width="450.36pt" ResourceRef="r00000"/>
+										</Figure>
+									</P>
+								</P1group>
+								<Pblock>
+									<Title>NOTES ABOUT THE PARENTAL RESPONSIBILITIES AND PARENTAL RIGHTS AGREEMENT</Title>
+									<P1group>
+										<Title>Who can make the agreement</Title>
+										<P1>
+											<Pnumber>1</Pnumber>
+											<P1para>
+												<Text>This agreement can only be made if–</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the mother has not been deprived of any of her parental responsibilities and parental rights in relation to the child;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>the father does not have any parental responsibilities or rights in relation to the child because he was not married to the child’s mother at the time of the child’s conception or subsequently;</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>c</Pnumber>
+													<P3para>
+														<Text>the father does not have any parental responsibilities or rights in relation to the child by virtue of his registration as the father of the child on or after 4th May 2006 under any of the following enactments–</Text>
+														<P4>
+															<Pnumber>i</Pnumber>
+															<P4para>
+																<Text>section 18(1)(a), (b)(i) and (c) and (2)(b) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965;</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>ii</Pnumber>
+															<P4para>
+																<Text>sections 10(1)(a) to (e) and 10A(1)(a) to (e) of the Births and Deaths Registration Act 1953; and</Text>
+															</P4para>
+														</P4>
+														<P4>
+															<Pnumber>iii</Pnumber>
+															<P4para>
+																<Text>article 14(3)(a) to (e) of the Births and Deaths Registration (Northern Ireland) Order 1976.</Text>
+															</P4para>
+														</P4>
+													</P3para>
+												</P3>
+											</P1para>
+										</P1>
+									</P1group>
+									<P1group>
+										<Title>The child</Title>
+										<P1>
+											<Pnumber>2</Pnumber>
+											<P1para>
+												<Text>Put the name of one child only on the agreement. If the father is to have parental responsibilities and rights in relation to more than one child, you should make a separate agreement for each child.</Text>
+											</P1para>
+										</P1>
+									</P1group>
+									<P1group>
+										<Title>When the agreement has effect</Title>
+										<P1>
+											<Pnumber>3</Pnumber>
+											<P1para>
+												<Text>This agreement only has effect if–</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>it is in the form prescribed by the Scottish Ministers, and</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>it is registered in the Books of Council and Session while the mother still has the parental responsibilities and parental rights which she had when the agreement was made.</Text>
+													</P3para>
+												</P3>
+											</P1para>
+										</P1>
+									</P1group>
+									<P1group>
+										<Title>Signing the agreement</Title>
+										<P1>
+											<Pnumber>4</Pnumber>
+											<P1para>
+												<Text>In signing this agreement, you are also consenting to its registration in the Books of Council and Session where it is then preserved.</Text>
+											</P1para>
+										</P1>
+										<P1>
+											<Pnumber>5</Pnumber>
+											<P1para>
+												<Text>The child’s mother and the child’s father must each sign the agreement, where indicated, in the presence of one witness who must be aged 16 or over. It is not necessary that the witness should be made aware of the contents of the agreement. The same person can witness both signatures.</Text>
+											</P1para>
+										</P1>
+										<P1>
+											<Pnumber>6</Pnumber>
+											<P1para>
+												<Text>After the agreement has been signed and witnessed, the agreement should be sent to–</Text>
+												<BlockText>
+													<Para>
+														<Text>The Keeper of the Registers of Scotland</Text>
+														<Text>Books of Council and Session</Text>
+														<Text>Meadowbank House</Text>
+														<Text>153 London Road</Text>
+														<Text>Edinburgh</Text>
+														<Text>EH8 7AU</Text>
+													</Para>
+												</BlockText>
+											</P1para>
+											<P1para>
+												<Text>You must also enclose the fee to cover the cost of registration and the sending of an extract of the agreement to you at the addresses you have given on the form. You can find out the fee by telephoning the Registers of Scotland on 0131 659-6111. Cheques or postal orders should be made out to the Registers of Scotland and crossed.</Text>
+											</P1para>
+										</P1>
+									</P1group>
+									<P1group>
+										<Title>Ending the agreement</Title>
+										<P1>
+											<Pnumber>7</Pnumber>
+											<P1para>
+												<Text>When an agreement has been made and has effect, it cannot be revoked by either the child’s mother or the child’s father but it can be brought to an end by a court order under section 11 of the Act. The court can also make an order under section 11 depriving a person of some or all of his parental responsibilities or parental rights.</Text>
+											</P1para>
+										</P1>
+									</P1group>
+									<P1group>
+										<Title>Contact details</Title>
+										<P1>
+											<Pnumber>8</Pnumber>
+											<P1para>
+												<Text>In case the Keeper of the Registers of Scotland needs to contact you about the agreement, you may wish to say who you would like him to contact:–</Text>
+												<Figure Orientation="portrait" ImageLayout="vertical">
+													<Image Height="312.84pt" Width="450.36pt" ResourceRef="r00001"/>
+												</Figure>
+											</P1para>
+										</P1>
+									</P1group>
+								</Pblock>
+							</ScheduleBody>
+						</Schedule>
+					</BlockAmendment>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Secondary>
+	<Resources>
+		<Resource id="r00000">
+			<ExternalVersion URI="http://www.legislation.gov.uk/ssi/2006/255/images/ssi_20060255_en_001"/>
+		</Resource>
+		<Resource id="r00001">
+			<ExternalVersion URI="http://www.legislation.gov.uk/ssi/2006/255/images/ssi_20060255_en_002"/>
+		</Resource>
+	</Resources>
+</Legislation>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
-	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaCommonAttributes">
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.2" id="SchemaCommonAttributes">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Common Attributes Schema</dc:title>
@@ -17,40 +14,29 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2019-03-17</dcq:modified>
+				<dcq:modified>2021-06-03</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
-                Modification information
-                Version		Name				Modification
-                2.2			Colin Mackenzie	 #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective"
-                2.1			Colin Mackenzie	 Removed default values from FragmentAttributes (was added as part of unified schema merge) see issue #171599021
-                2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
-                1.1			Colin Mackenzie	 Changed to use "RefsLinkType" so that validation differs between legislation top-level schema and editorial fragment
-                1.0			Paul Appleby		Created
-            </xsd:documentation>
+			Modification information
+			Version		Name				Modification
+			2.4			Karl Rajangam		Annotation added for various attributes of FragmentAttributes, updated for QuotesAttributes with minor spell correction
+											Moving in RefsLinkType, since both edit (fragment.xsd) and non-edit (schemaCommonNonEdit) use cases ended up being the same, removed it from those two files. Its annotation text also updated.
+      2.2			Colin Mackenzie	 #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective"
+			2.1			Colin Mackenzie		Removed default values from FragmentAttributes (was added as part of unified schema merge) see issue #171599021
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1			Colin Mackenzie		Changed to use "RefsLinkType" so that validation differs between legislation top-level schema and editorial fragment
+			1.0			Paul Appleby		Created
+			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-	<xsd:import namespace="http://www.w3.org/XML/1998/namespace"
-		schemaLocation="../schemaModules/namespace.xsd"/>
+	<xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="../schemaModules/namespace.xsd"/>
 	<xsd:attributeGroup name="CommonAttributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
 				<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-					<h:p>A unique identifier for the element</h:p>
+					<h:p>A unique identifier for the element.</h:p>
 					<h:p>The format of this identifier is yxxxxx where y is a letter and xxxxx is a number, padded to five digits.</h:p>
-					<h:p>Those elements that are commonly referenced have fixed values for y and are listed in the below.</h:p>
-					<h:ul>
-						<h:li>c<h:i>xxxxx</h:i> - Citation, CitationSubRef</h:li>
-						<h:li>e<h:i>xxxxx</h:i> - ExternalVersion</h:li>
-						<h:li>f<h:i>xxxxx</h:i> - Footnote</h:li>
-						<h:li>g<h:i>xxxxx</h:i> - Figure, Image</h:li>
-						<h:li>i<h:i>xxxxx</h:i> - InternalVersion</h:li>
-						<h:li>m<h:i>xxxxx</h:i> - P1group, P2group, P3group, P1, P2, P3, P4, P5, P6, P7, P</h:li>
-						<h:li>r<h:i>xxxxx</h:i> - ResourceGroup, Resource</h:li>
-						<h:li>t<h:i>xxxxx</h:i> - Citation, CitationSubRef</h:li>
-						<h:li>v<h:i>xxxxx</h:i> - Version</h:li>
-						<h:li>x<h:i>xxxxx</h:i> - Formula</h:li>
-					</h:ul>
+					<h:p>Note that most elements that normally have identifiers have a separate, element-specific definition of the id attribute in the schema.</h:p>
 				</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
@@ -84,7 +70,6 @@
 		<xsd:attribute name="NumberFormat" default="default">
 			<xsd:annotation>
 				<xsd:documentation>Defines whether section numbering (top level) should be formatted in a way other then the default. This is basically for legacy data. The use of a default attribute has been considered and kept due to the fact that the attribute is only to be used for legacy data and it would be a hinderance to have to consider its use going forward. It is expected that this attribute could be changed to a fixed value of default if required</xsd:documentation>
-				
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -98,7 +83,7 @@
 	<xsd:attributeGroup name="QuotesAttributes">
 		<xsd:attribute name="Format" use="required">
 			<xsd:annotation>
-				<xsd:documentation>Defines they type of quotes to be used when formatting block or inline amendments or extracts.</xsd:documentation>
+				<xsd:documentation>Defines the type of quotes to be used when formatting block or inline amendments or extracts.</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -111,14 +96,36 @@
 		</xsd:attribute>
 	</xsd:attributeGroup>
 	<xsd:attributeGroup name="FragmentAttributes">
-		<xsd:attribute name="FragmentId" type="xsd:NMTOKEN"/>
-		<xsd:attribute name="Version" type="xsd:integer"/>
-		<!--#154553309
-			<xsd:attribute name="RestrictExtent" type="xsd:token"/>-->
-		<xsd:attribute name="RestrictExtent" type="ExtentType"/>
-		<xsd:attribute name="RestrictStartDate" type="xsd:date"/>
-		<xsd:attribute name="RestrictEndDate" type="xsd:date"/>
+		<xsd:attribute name="FragmentId" type="xsd:NMTOKEN">
+			<xsd:annotation>
+				<xsd:documentation>The identifier for the fragment used in the old SLD (Statute Law Database) system</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Version" type="xsd:integer">
+			<xsd:annotation>
+				<xsd:documentation>The version of the provision in the old SLD (Statute Law Database) system</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<!--#154553309 <xsd:attribute name="RestrictExtent" type="xsd:token"/>-->
+		<xsd:attribute name="RestrictExtent" type="ExtentType">
+			<xsd:annotation>
+				<xsd:documentation>The geographic extent to which the provision applies</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="RestrictStartDate" type="xsd:date">
+			<xsd:annotation>
+				<xsd:documentation>The date of the current version of the provision and the amendments applied to it</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="RestrictEndDate" type="xsd:date">
+			<xsd:annotation>
+				<xsd:documentation>The date of the next version of the current fragment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 		<xsd:attribute name="Status">
+			<xsd:annotation>
+				<xsd:documentation>The status of the provision when not in force, i.e. prospective, repealed</xsd:documentation>
+			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:token">
 					<xsd:enumeration value="Prospective"/>
@@ -133,10 +140,26 @@
 		<xsd:attribute default="false" name="BlanketAmendment" type="xsd:boolean"/>
 		<xsd:attribute default="false" name="Concurrent" type="xsd:boolean"/>
 		<xsd:attribute default="true" name="Match" type="xsd:boolean"/> -->
-		<xsd:attribute name="ConfersPower" type="xsd:boolean"/>
-		<xsd:attribute name="BlanketAmendment" type="xsd:boolean"/>
-		<xsd:attribute name="Concurrent" type="xsd:boolean"/>
-		<xsd:attribute name="Match" type="xsd:boolean"/>
+		<xsd:attribute name="ConfersPower" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>A Boolean value to indicate whether the provision includes confers power to make secondary legislation</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="BlanketAmendment" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>A Boolean value to indicate whether the provision includes blanket amendments, ie general amendments to legislation as a whole rather than a specific enactment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Concurrent" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>A Boolean value to indicate if there are concurrent versions of the same provision. This is presently used for concurrent geographic extent versions but may be used in future to indicate other versions of the same provision</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Match" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>A boolean value indicator as to whether the provision should be displayed or is in force, i.e. if the status is prospective, then it will not display as in force. Similarly with the status set to repealed, then this will prevent the provision from displaying when viewed from high level</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 		<!-- #172192332 Tighten the validation of AltDates and ValidDates to only allow a list of dates and the word "prospective" 
 		e.g.
 		2006-01-01
@@ -145,10 +168,19 @@
 		2006-01-01 2010-01-01 prospective
 		MAYBE empty string
 		-->
-		<xsd:attribute name="AltDates" type="DateOrProspectiveListType"/>
-		<xsd:attribute name="ValidDates" type="DateOrProspectiveListType"/>
-        <xsd:attributeGroup ref="ProvisionCountAttributes"/>
+		<xsd:attribute name="AltDates" type="DateOrProspectiveListType">
+			<xsd:annotation>
+				<xsd:documentation>A space separated sequence of dates where amendments have been applied to the provision</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="ValidDates" type="DateOrProspectiveListType">
+			<xsd:annotation>
+				<xsd:documentation>A space separated sequence of valid dates where the provision is in force</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attributeGroup ref="ProvisionCountAttributes"/>
 	</xsd:attributeGroup>
+
 	<xsd:attributeGroup name="ProvisionCountAttributes">
 		<xsd:attribute name="NumberOfProvisions" type="xsd:integer">
 			<xsd:annotation>
@@ -156,25 +188,34 @@
 			</xsd:annotation>
 		</xsd:attribute>
 	</xsd:attributeGroup>
-<!-- #172192332 Due to limitations of xsd schema this is the best we can do. 
+
+	<!-- #172192332 Due to limitations of xsd schema this is the best we can do. 
 		As it is a list of values this will allow multiple "prospective" but those do not apply and would have extra impact if they did.
 	-->
-    <xsd:simpleType name="DateOrProspectiveListType">
-        <xsd:list itemType="DateOrProspectiveType"/>
-    </xsd:simpleType>
+	<xsd:simpleType name="DateOrProspectiveListType">
+		<xsd:list itemType="DateOrProspectiveType"/>
+	</xsd:simpleType>
 
-    <xsd:simpleType name="DateOrProspectiveType">
-        <xsd:union>
-            <xsd:simpleType>
-                <xsd:restriction base="xsd:date"/>
-            </xsd:simpleType>
-            <xsd:simpleType>
-                <xsd:restriction base="xsd:string">
-                    <xsd:pattern value="prospective"/>
-                    <!-- allow empty strings for now -->
-                    <xsd:pattern value=""/>
-                </xsd:restriction>
-            </xsd:simpleType>
-        </xsd:union>
-    </xsd:simpleType>
+	<xsd:simpleType name="DateOrProspectiveType">
+		<xsd:union>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:date"/>
+			</xsd:simpleType>
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:pattern value="prospective"/>
+					<!-- allow empty strings for now -->
+					<xsd:pattern value=""/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:union>
+	</xsd:simpleType>
+
+	<!--  LEGDEV-1125 Moving it here, after removing the duplicates from schemaCommonNonEdit.xsd & fragment.xsd files -->
+	<xsd:simpleType name="RefsLinkType">
+		<xsd:annotation>
+			<xsd:documentation>This refers to one or more IDs, that may not exist in the currently open file but is necessary when editing a fragment of a CLML document, which may refer to elements in a different fragment. The AltVersionRefs attribute can use this type to refer to alternative versions of the content in the current element, but when an editor checks out a fragment containing the element, it may also not contain the alternative versions. It also allow for valid data where a fragment is amended resulting in an equation with an orphaned AltVersionRefs. The IDREFS type is unsuitable for these purposes as it requires the value to refer to IDs that exist within the current document</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:NMTOKENS"/>
+	</xsd:simpleType>
 </xsd:schema>

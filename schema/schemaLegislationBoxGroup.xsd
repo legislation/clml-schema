@@ -29,10 +29,8 @@
 	<xsd:element name="DecoratedGroup">
 		<xsd:annotation>
 			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>A mechanism for adding accolades to blocks of text (usually a right brace)</h:p>
-				<h:p>Accolades are very long vertical or horizontal objects that typically occur within tables and are used to ‘group’ content together by visual presentation.</h:p>
-				<h:p>The element exists so that the ‘grouping’ concept is held structurally within the XML mark-up and the decoration (normally a brace) can then be auto-generated for output.</h:p>
-				<h:p>Usually a decorated group will be made up of two GroupItem elements, the first containing the text of the first half of the content and the second one containing the second half of the content.</h:p>
+				<h:p>A mechanism for adding accolades to blocks of text (usually a right brace). Accolades are very long vertical or horizontal objects that typically occur within tables and are used to “group” content together by visual presentation. The element exists so that the “grouping” concept is held structurally within the XML mark-up and the decoration (normally a brace) can then be auto-generated for output.</h:p>  
+           <h:p>Usually a decorated group will be made up of two <h:code>&lt;GroupItem&gt;</h:code> elements, the first containing the text of the first half of the content and the second one containing the second half of the content.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
@@ -47,7 +45,7 @@
 			<xsd:attribute name="Orientation" use="required">
 				<xsd:annotation>
 					<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-						<h:p>Used to specify the orientation of the accolade. The following table is a list of possible values:</h:p>
+						<h:p>Specifies the orientation of the accolade. The following table is a list of possible values:</h:p>
 						<h:ul>
 							<h:li>leftToRight - Group item 1 on the left, group item 2 on the right, accolade should be output as normal</h:li>
 							<h:li>topToBottom - Group item 1 on the top, group item 2 on the bottom, accolade should be rotated 90 degrees right</h:li>

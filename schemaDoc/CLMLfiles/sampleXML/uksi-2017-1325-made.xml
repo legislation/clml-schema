@@ -1,0 +1,223 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325" NumberOfProvisions="3" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2017/1325/made</dc:identifier>
+		<dc:title>The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2017</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2017-12-22</dc:modified>
+		<dc:subject scheme="SIheading">PREVENTION AND SUPPRESSION OF TERRORISM</dc:subject>
+		<dc:description>Part 2 of the Terrorism Act 2000 (c. 11) makes provision about proscribed organisations (including setting out offences in relation to such organisations in sections 11 to 13). An organisation is proscribed if it is listed in Schedule 2 to that Act or, in most cases, if it operates under the same name as an organisation so listed (section 3(1)). Article 2 of this Order adds four organisations (with known aliases included in parentheses) to the list in that Schedule. Article 3 of this Order removes an organisation from the list in Schedule 2, so that it is no longer proscribed.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2017/1325/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2017/1325/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2017/1325/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2017/1325/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2017/1325/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2017/1325/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2017/1325/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2017/1325/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2017/1325/made/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2017/1325/pdfs/uksi_20171325_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2017/1325/contents/made" title="Table of Contents"/>
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2017/9780111163504" title="The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2017"/>
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2017"/>
+			<ukm:Number Value="1325"/>
+			<ukm:Made Date="2017-12-21"/>
+			<ukm:ISBN Value="9780111163993"/>
+		</ukm:SecondaryMetadata>
+		<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2017/9780111163504">
+			<dc:title>The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2017</dc:title>
+			<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+			<ukm:Year Value="2017"/>
+			<ukm:ISBN Value="9780111163504"/>
+		</ukm:Supersedes>
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2017/1325/pdfs/uksiem_20171325_en.pdf" Date="2017-12-22" Title="UK Explanatory Memorandum" Size="42577"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2017/1325/pdfs/uksi_20171325_en.pdf" Date="2017-12-22" Size="32452"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="3"/>
+			<ukm:BodyParagraphs Value="3"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/introduction">
+			<Number>2017 No. 1325</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Prevention And Suppression Of Terrorism</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2017</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>21st December 2017</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force in accordance with article 1(1)</Text>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>The Secretary of State makes the following Order in exercise of the powers conferred by section 3(3)(a) and (b) of the Terrorism Act 2000<FootnoteRef Ref="f00001"/>.</Text>
+					</P>
+					<P>
+						<Text>The Secretary of State believes that the organisations to be added to Schedule 2 to that Act<FootnoteRef Ref="f00002"/> by article 2 of this Order are concerned in terrorism.</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text>In accordance with section 123(4)(a) of that Act, a draft of this Order was laid before Parliament and approved by resolution of each House of Parliament.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/body" NumberOfProvisions="3">
+			<P1group>
+				<Title>Citation, commencement and interpretation</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/article/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/article/1" id="article-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/article/1/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/article/1/1" id="article-1-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>This Order may be cited as the Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2017 and comes into force on the day after the day on which it is made.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/article/1/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/article/1/2" id="article-1-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In this Order “the Act” means the Terrorism Act 2000.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Proscribed organisations</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/article/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/article/2" id="article-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>In Schedule 2 to the Act (proscribed organisations), after the entry for National Action, insert the following entries—</Text>
+						<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+							<UnorderedList Decoration="none">
+								<ListItem>
+									<Para>
+										<Text>al-Ashtar Brigades (Saraya al-Ashtar) (The Wa’ad Allah Brigades) (Islamic Allah Brigades) (Imam al-Mahdi Brigades) (al-Haydariyah Brigades)</Text>
+									</Para>
+								</ListItem>
+								<ListItem>
+									<Para>
+										<Text>al-Mukhtar Brigades (Saraya al-Mukhtar)</Text>
+									</Para>
+								</ListItem>
+								<ListItem>
+									<Para>
+										<Text>Hasam (Harakat Sawa’d Misr) (Harakat Hasm) (Hasm)</Text>
+									</Para>
+								</ListItem>
+								<ListItem>
+									<Para>
+										<Text>Liwa al-Thawra</Text>
+									</Para>
+								</ListItem>
+							</UnorderedList>
+						</BlockAmendment>
+						<AppendText>.</AppendText>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Deproscribed organisation</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/article/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/article/3" id="article-3">
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<Text>In Schedule 2 to the Act (proscribed organisations), omit “Hezb-e Islami Gulbuddin”<FootnoteRef Ref="f00003"/>.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/signature">
+				<Signatory>
+					<Signee>
+						<PersonName>Brandon Lewis</PersonName>
+						<JobTitle>Minister of State</JobTitle>
+						<Department>Home Office</Department>
+						<DateSigned Date="2017-12-21">
+							<DateText>21st December 2017</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2017/1325/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/2017/1325/note">
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>Part 2 of the Terrorism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/11" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0011">2000 (c. 11)</Citation> makes provision about proscribed organisations (including setting out offences in relation to such organisations in sections 11 to 13). An organisation is proscribed if it is listed in Schedule 2 to that Act or, in most cases, if it operates under the same name as an organisation so listed (section 3(1)). Article 2 of this Order adds four organisations (with known aliases included in parentheses) to the list in that Schedule. Article 3 of this Order removes an organisation from the list in Schedule 2, so that it is no longer proscribed.</Text>
+			</P>
+			<P>
+				<Text>An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/11" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0011">2000 c. 11</Citation>; relevant amendments to section 3 were made by sections 21 and 22 of the Terrorism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/11" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0011">2006 (c. 11)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>Schedule 2 has been amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/1261" id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="1261">S.I. 2001/1261</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2002/2724" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="2724">2002/2724</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/2892" id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="2892">2005/2892</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2016" id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2016">2006/2016</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/2184" id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="2184">2007/2184</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/1645" id="c00009" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1645">2008/1645</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/1931" id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="1931">2008/1931</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/611" id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="0611">2010/611</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2011/108" id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="0108">2011/108</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2012/1771" id="c00013" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="1771">2012/1771</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2012/2937" id="c00014" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2937">2012/2937</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/1746" id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="1746">2013/1746</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3172" id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3172">2013/3172</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/927" id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="0927">2014/927</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/1624" id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="1624">2014/1624</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2014/3189" id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="3189">2014/3189</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/55" id="c00020" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0055">2015/55</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2015/959" id="c00021" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0959">2015/959</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/391" id="c00022" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0391">2016/391</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/770" id="c00023" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0770">2016/770</Citation> and <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1238" id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1238">2016/1238</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>“Hezb-e Islami Gulbuddin” was added to Schedule 2 by <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/2892" id="c00025" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="2892">S.I. 2005/2892</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/2009/3157" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/uksi/2009/3157</dc:identifier>
+    <dc:subject>European Union</dc:subject>
+    <dc:subject>Legislation</dc:subject>
+    <dc:subject>Freedom of information</dc:subject>
+    <dc:title>The INSPIRE Regulations 2009</dc:title>
+    <dc:identifier>urn:isbn:9780111488720</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2016-03-21</dc:modified>
+    <dct:valid>2009-12-31</dct:valid>
+    <dc:subject scheme="SIheading">ENVIRONMENTAL PROTECTION</dc:subject>
+    <dc:subject scheme="SIheading">PUBLIC SECTOR INFORMATION</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2009"/>
+      <ukm:Number Value="3157"/>
+      <ukm:ISBN Value="9780111488720"/>
+      <ukm:Made Date="2009-12-01"/>
+      <ukm:Laid Date="2009-12-07" Class="UnitedKingdomParliament"/>
+      <ukm:ComingIntoForce>
+        <ukm:DateTime Date="2009-12-31"/>
+      </ukm:ComingIntoForce>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents xmlns:local="#local">
+    <ContentsTitle>The INSPIRE Regulations 2009</ContentsTitle>
+    <ContentsItem ContentRef="paragraph-1" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/paragraph/1">
+      <ContentsNumber/>
+      <ContentsTitle Generated="true">These Regulations make provision for a purpose mentioned in section...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Citation and commencement</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Interpretation</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/3">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle>Public authority</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/4">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle>Scope of application of the Regulations: spatial data sets and spatial data services</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/5">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle>Intellectual property rights</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-6" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/6">
+      <ContentsNumber>6</ContentsNumber>
+      <ContentsTitle>Metadata</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-7" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/7">
+      <ContentsNumber>7</ContentsNumber>
+      <ContentsTitle>Network services</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-8" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/8">
+      <ContentsNumber>8</ContentsNumber>
+      <ContentsTitle>Linking to a network</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-9" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/9">
+      <ContentsNumber>9</ContentsNumber>
+      <ContentsTitle>Public access to spatial data sets and spatial data services</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-10" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/10">
+      <ContentsNumber>10</ContentsNumber>
+      <ContentsTitle>Charges for public access</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-11" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/11">
+      <ContentsNumber>11</ContentsNumber>
+      <ContentsTitle>Enforcement and appeals in relation to public access</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-12" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/12">
+      <ContentsNumber>12</ContentsNumber>
+      <ContentsTitle>Data-sharing between public authorities <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-13" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/13">
+      <ContentsNumber>13</ContentsNumber>
+      <ContentsTitle>Internal complaints procedure</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-14" IdURI="http://www.legislation.gov.uk/id/uksi/2009/3157/regulation/14">
+      <ContentsNumber>14</ContentsNumber>
+      <ContentsTitle>Coordination and monitoring</ContentsTitle>
+    </ContentsItem>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2009 No. 3157</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Environmental Protection</Title>
+        </Subject>
+        <Subject>
+          <Title>Public Sector Information</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The INSPIRE Regulations 2009</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>1st December 2009</DateText>
+      </MadeDate>
+      <LaidDate>
+        <Text>Laid before Parliament</Text>
+        <DateText>7th December 2009</DateText>
+      </LaidDate>
+      <ComingIntoForce>
+        <Text>Coming into force</Text>
+        <DateText>31st December 2009</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>The Secretary of State, who is designated for the purposes of section 2(2) of the European Communities Act 1972<FootnoteRef Ref="f00001"/> in relation to the environment<FootnoteRef Ref="f00002"/>, makes the following Regulations in exercise of the powers conferred under section 2(2) of and paragraph 1A of Schedule 2<FootnoteRef Ref="f00003"/> to the European Communities Act 1972.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body>
+      <P id="paragraph-1">
+        <Text>These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the references in these Regulations to the Regulation specified in paragraph (a), and to the provisions of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> specified in paragraph (b), to be construed as references to that Regulation or those provisions as amended from time to time—</Text>
+        <P3 id="regulation-a">
+          <Pnumber>a</Pnumber>
+          <P3para>
+            <Text><Citation URI="http://www.legislation.gov.uk/european/regulation/2008/1205" id="c00001" Class="EuropeanUnionRegulation" Year="2008" Number="1205">Commission Regulation (EC) No 1205/2008</Citation> regarding metadata<FootnoteRef Ref="f00004"/>, and</Text>
+          </P3para>
+        </P3>
+        <P3 id="regulation-b">
+          <Pnumber>b</Pnumber>
+          <P3para>
+            <Text>Annexes I, <Acronym Expansion="2">II</Acronym> and <Acronym Expansion="3">III</Acronym> to Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2007/0002" id="c00002" Class="EuropeanUnionDirective" Year="2007" Number="2">2007/2/<Acronym Expansion="European Community">EC</Acronym></Citation> of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (<Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym>)<FootnoteRef Ref="f00005"/>.</Text>
+          </P3para>
+        </P3>
+      </P>
+      <P1group>
+        <Title>Citation and commencement</Title>
+        <P1 id="regulation-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <Text>These Regulations may be cited as the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009 and come into force on 31st December 2009.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Interpretation</Title>
+        <P1 id="regulation-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <P2 id="regulation-2-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>In these Regulations—</Text>
+                <UnorderedList Decoration="none" Class="Definition">
+                  <ListItem>
+                    <Para>
+                      <Text>“<Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>” means the Freedom of Information Act 2000<FootnoteRef Ref="f00006"/>;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“<Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>” means Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2007/0002" id="c00003" Class="EuropeanUnionDirective" Year="2007" Number="2">2007/2/<Acronym Expansion="European Community">EC</Acronym></Citation> of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (<Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym>);</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“discovery service” means a service described in regulation 7(2)(a);</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“metadata” means information describing spatial data sets and spatial data services and making it possible to discover, inventory and use them;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“<Abbreviation Expansion="Commission Regulation (EC) No 1205/2008 regarding metadata">Metadata Regulation</Abbreviation>” means <Citation URI="http://www.legislation.gov.uk/european/regulation/2008/1205" id="c00004" Class="EuropeanUnionRegulation" Year="2008" Number="1205">Commission Regulation (EC) No 1205/2008</Citation> regarding metadata;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“public authority” has the meaning given by regulation 3;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“Scottish public authority” means—</Text>
+                      <OrderedList Decoration="parens" Type="alpha">
+                        <ListItem>
+                          <Para>
+                            <Text>a body referred to in section 80(2) of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, or</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>in so far as not such a body, a Scottish public authority as defined in section 3 of the Freedom of Information (Scotland) Act 2002<FootnoteRef Ref="f00007"/>;</Text>
+                          </Para>
+                        </ListItem>
+                      </OrderedList>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“Scottish third party” means—</Text>
+                      <OrderedList Decoration="parens" Type="alpha">
+                        <ListItem>
+                          <Para>
+                            <Text>an individual whose address is in Scotland, or</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>a body corporate, partnership or unincorporated association whose principal office is in Scotland,</Text>
+                          </Para>
+                        </ListItem>
+                      </OrderedList>
+                      <Text>but does not include a Scottish public authority;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“spatial data” means any data with a direct or indirect reference to a specific location or geographical area;</Text>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“spatial data service” means a service which consists of operations which may be performed, by invoking a computer application—</Text>
+                      <OrderedList Decoration="parens" Type="alpha">
+                        <ListItem>
+                          <Para>
+                            <Text>on the spatial data contained in a spatial data set, or</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>on the metadata related to a spatial data set;</Text>
+                          </Para>
+                        </ListItem>
+                      </OrderedList>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“spatial data set” means an identifiable collection of spatial data which—</Text>
+                      <OrderedList Decoration="parens" Type="alpha">
+                        <ListItem>
+                          <Para>
+                            <Text>are in electronic format,</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>relate to one or more of the themes listed in Annex I, <Acronym Expansion="2">II</Acronym> or <Acronym Expansion="3">III</Acronym> to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>, and</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>relate to—</Text>
+                            <OrderedList Decoration="parens" Type="roman">
+                              <ListItem>
+                                <Para>
+                                  <Text>the United Kingdom,</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>Gibraltar,</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>the territorial sea of the United Kingdom<FootnoteRef Ref="f00008"/>,</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>an area of the continental shelf for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964<FootnoteRef Ref="f00009"/>, or</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>an area, outside the territorial sea of the United Kingdom, for the time being designated by an Order in Council under section 84(4) of the Energy Act 2004<FootnoteRef Ref="f00010"/>;</Text>
+                                </Para>
+                              </ListItem>
+                            </OrderedList>
+                          </Para>
+                        </ListItem>
+                      </OrderedList>
+                    </Para>
+                  </ListItem>
+                  <ListItem>
+                    <Para>
+                      <Text>“third party” means (except as otherwise provided by regulation 9(7)) a person other than—</Text>
+                      <OrderedList Decoration="parens" Type="alpha">
+                        <ListItem>
+                          <Para>
+                            <Text>a public authority or a Scottish public authority,</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>a person holding a spatial data set or operating a spatial data service on behalf of a public authority or a Scottish public authority,</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>a Scottish third party, or</Text>
+                          </Para>
+                        </ListItem>
+                        <ListItem>
+                          <Para>
+                            <Text>a person holding a spatial data set or operating a spatial data service on behalf of a Scottish third party.</Text>
+                          </Para>
+                        </ListItem>
+                      </OrderedList>
+                    </Para>
+                  </ListItem>
+                </UnorderedList>
+              </P2para>
+            </P2>
+            <P2 id="regulation-2-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>Other terms used in these Regulations that are also used in <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> have the meaning they bear in <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-2-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>For the purposes of these Regulations—</Text>
+                <P3 id="regulation-2-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>a public authority is responsible for a spatial data set if—</Text>
+                    <P4 id="regulation-2-3-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>that authority holds that data set (other than on behalf of another person), or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-2-3-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>another person holds that data set on behalf of that authority;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-2-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>a public authority is responsible for a spatial data service if—</Text>
+                    <P4 id="regulation-2-3-b-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>that authority operates that data service (other than on behalf of another person), or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-2-3-b-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>another person operates that data service on behalf of that authority;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-2-3-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>a third party is responsible for a spatial data set if—</Text>
+                    <P4 id="regulation-2-3-c-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>that third party holds that data set (other than on behalf of another person), or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-2-3-c-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>another person holds that data set on behalf of that third party; and</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-2-3-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>a third party is responsible for a spatial data service if—</Text>
+                    <P4 id="regulation-2-3-d-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>that third party operates that data service (other than on behalf of another person), or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-2-3-d-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>another person operates that data service on behalf of that third party.</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-2-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>In these Regulations—</Text>
+                <P3 id="regulation-2-4-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>any reference to the <Abbreviation Expansion="Commission Regulation (EC) No 1205/2008 regarding metadata">Metadata Regulation</Abbreviation> is a reference to the <Abbreviation Expansion="Commission Regulation (EC) No 1205/2008 regarding metadata">Metadata Regulation</Abbreviation> as amended from time to time; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-2-4-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>any reference to Annex I, <Acronym Expansion="2">II</Acronym> or <Acronym Expansion="3">III</Acronym> to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> is a reference to that Annex to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> as amended from time to time.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Public authority</Title>
+        <P1 id="regulation-3">
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <P2 id="regulation-3-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>In these Regulations “public authority” means—</Text>
+                <P3 id="regulation-3-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>a government department;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>any other public authority as defined in section 3(1) of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, disregarding for this purpose the exceptions in paragraph 6 of Schedule 1 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, but excluding—</Text>
+                    <P4 id="regulation-3-1-b-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>any body or office-holder listed in Schedule 1 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation> only in relation to information of a specified description, or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-3-1-b-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>any person designated by order under section 5 of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-1-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>any other body or other person that carries out functions of public administration; or</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-1-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>any other body or other person that is under the control of a person falling within sub-paragraph (a), (b) or (c) and has public responsibilities relating to the environment, exercises functions of a public nature relating to the environment, or provides public services relating to the environment.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>But in regulation 12 (data-sharing between public authorities <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation>), “public authority” does not include the bodies or persons falling within paragraph (1)(d).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>Except as provided by regulation 9(7), a Scottish public authority is not a public authority for the purposes of these Regulations.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>These Regulations do not apply to any public authority to the extent that it is acting in a judicial or legislative capacity.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>These Regulations do not apply to either House of Parliament to the extent required for the purpose of avoiding an infringement of the privileges of either House.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>Each government department is to be treated as a person separate from any other government department for the purposes of these Regulations.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Scope of application of the Regulations: spatial data sets and spatial data services</Title>
+        <P1 id="regulation-4">
+          <Pnumber>4</Pnumber>
+          <P1para>
+            <P2 id="regulation-4-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>In so far as a provision of these Regulations concerns a spatial data set for which a public authority is responsible, that provision applies in relation to that spatial data set only if that data set is held—</Text>
+                <P3 id="regulation-4-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>by a public authority which has produced or received that data set, or manages or updates that data set, within the scope of its public tasks; or</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-4-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>by another person on behalf of a public authority which has produced or received that data set, or managed or updated that data set, within the scope of that authority’s public tasks.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>But—</Text>
+                <P3 id="regulation-4-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>that provision does not apply in relation to a spatial data set which is held by or on behalf of—</Text>
+                    <P4 id="regulation-4-2-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>in England, a parish council within the meaning of the Local Government Act 1972<FootnoteRef Ref="f00011"/>, or</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-4-2-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>in Wales, a community council within the meaning of that Act,</Text>
+                      </P4para>
+                    </P4>
+                    <Text>unless that body is subject to a legal requirement to collect or disseminate the data contained in that data set; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-4-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>where multiple identical copies of the same spatial data set are held by or on behalf of various public authorities, that provision applies only in relation to the reference version from which the various copies are derived.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>Subject to paragraph (4), in so far as a provision of these Regulations concerns a spatial data set for which a third party is responsible, that provision applies in relation to that spatial data set only if that data set has been linked to a network of related spatial data sets following satisfaction of the conditions specified in regulation 8(3).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>The proviso specified in paragraph (3) does not apply to regulation 8(2).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>In so far as a provision of these Regulations concerns a spatial data service, that provision applies in relation to that spatial data service only if that provision applies in relation to the spatial data set to which that spatial data service relates.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Intellectual property rights</Title>
+        <P1 id="regulation-5">
+          <Pnumber>5</Pnumber>
+          <P1para>
+            <Text>Where—</Text>
+            <P3 id="regulation-5-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>a public authority or a third party (“P”) is responsible for a spatial data set; and</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-5-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>a person other than P (“X”) holds intellectual property rights in relation to that data set,</Text>
+              </P3para>
+            </P3>
+            <Text>P must not take any action under these Regulations in relation to that data set unless P has X’s consent to take that action.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Metadata</Title>
+        <P1 id="regulation-6">
+          <Pnumber>6</Pnumber>
+          <P1para>
+            <P2 id="regulation-6-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party must create metadata<FootnoteRef Ref="f00012"/> in relation to any spatial data set or spatial data service for which that authority or third party is responsible.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-6-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>Metadata in relation to a spatial data set or a spatial data service must include the following information—</Text>
+                <P3 id="regulation-6-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>the quality and validity of that data set or data service;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>the person responsible for the establishment, management, maintenance and distribution of that data set or data service;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-2-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>any limitations on public access to that data set or data service, and the reasons for such limitations;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-2-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>any conditions applying to access to, and use of, that data set or data service; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-2-e">
+                  <Pnumber>e</Pnumber>
+                  <P3para>
+                    <Text>any charges payable in relation to access to, and use of, that data set or data service.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-6-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>Metadata must be complete and must be kept up to date.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-6-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>Metadata relating to—</Text>
+                <P3 id="regulation-6-4-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>spatial data sets corresponding to the themes listed in Annex I or Annex <Acronym Expansion="2">II</Acronym> to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-4-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>spatial data services relating to those data sets,</Text>
+                  </P3para>
+                </P3>
+                <Text>must be created by 24th December 2010.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-6-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>Metadata relating to—</Text>
+                <P3 id="regulation-6-5-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>spatial data sets corresponding to the themes listed in Annex <Acronym Expansion="3">III</Acronym> to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-6-5-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>spatial data services relating to those data sets,</Text>
+                  </P3para>
+                </P3>
+                <Text>must be created by 24th December 2013.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Network services</Title>
+        <P1 id="regulation-7">
+          <Pnumber>7</Pnumber>
+          <P1para>
+            <P2 id="regulation-7-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party must establish and operate the services<FootnoteRef Ref="f00013"/> described in paragraph (2) in relation to any spatial data set or spatial data service—</Text>
+                <P3 id="regulation-7-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>for which that authority or third party is responsible; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in relation to which metadata have been created in accordance with regulation 6 and the <Abbreviation Expansion="Commission Regulation (EC) No 1205/2008 regarding metadata">Metadata Regulation</Abbreviation>.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-7-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>The services are—</Text>
+                <P3 id="regulation-7-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>discovery services—</Text>
+                    <P4 id="regulation-7-2-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>making it possible to search for spatial data sets and spatial data services on the basis of the content of the corresponding metadata and to display the content of the metadata, and</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-7-2-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>making it possible to search according to, as a minimum, the search criteria specified in paragraph (3) (used alone or in combination);</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>view services making it possible, as a minimum, to display, navigate, zoom in and out, pan, or overlay viewable spatial data sets and to display legend information and any relevant content of metadata;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-2-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>download services, enabling copies of spatial data sets, or parts of such sets, to be downloaded and, where practicable, accessed directly;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-2-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>transformation services, enabling spatial data sets to be transformed with a view to achieving interoperability; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-2-e">
+                  <Pnumber>e</Pnumber>
+                  <P3para>
+                    <Text>services allowing spatial data services to be invoked.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-7-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>The search criteria referred to in paragraph (2)(a)(ii) are—</Text>
+                <P3 id="regulation-7-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>keywords;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>classification of spatial data and spatial data services;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-3-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>the quality and validity of spatial data sets;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-3-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>geographical location;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-3-e">
+                  <Pnumber>e</Pnumber>
+                  <P3para>
+                    <Text>conditions applying to the access to and use of spatial data sets and spatial data services; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-3-f">
+                  <Pnumber>f</Pnumber>
+                  <P3para>
+                    <Text>the person responsible for the establishment, management, maintenance and distribution of spatial data sets and spatial data services.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-7-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>The services specified in paragraph (2) must—</Text>
+                <P3 id="regulation-7-4-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>take into account relevant user requirements;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-4-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>be easy to use; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-7-4-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>subject to regulation 9, be available to the public and accessible via the internet or any other appropriate means of telecommunication.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-7-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>In paragraph (2) “interoperability” means the possibility for spatial data sets to be combined, and for services to interact, without repetitive manual intervention, in such a way that the result is coherent and the added value of the data sets and services is enhanced.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Linking to a network</Title>
+        <P1 id="regulation-8">
+          <Pnumber>8</Pnumber>
+          <P1para>
+            <P2 id="regulation-8-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Secretary of State must enable a public authority to link any spatial data set or spatial data service for which that authority is responsible to a network of related spatial data sets or spatial data services, provided that the conditions specified in paragraph (3) are satisfied in relation to that data set or data service.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-8-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>The Secretary of State must enable a third party to link any spatial data set or spatial data service for which that third party is responsible to a network of related spatial data sets or spatial data services, provided that—</Text>
+                <P3 id="regulation-8-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>the third party makes a request to that effect; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-8-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>the conditions specified in paragraph (3) are satisfied in relation to that data set or data service.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-8-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>The conditions are—</Text>
+                <P3 id="regulation-8-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>metadata have been created in accordance with regulation 6 and the <Abbreviation Expansion="Commission Regulation (EC) No 1205/2008 regarding metadata">Metadata Regulation</Abbreviation>; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-8-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>services have been established and are operated in accordance with regulation 7.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Public access to spatial data sets and spatial data services</Title>
+        <P1 id="regulation-9">
+          <Pnumber>9</Pnumber>
+          <P1para>
+            <P2 id="regulation-9-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Subject to paragraph (6), access by the public to a spatial data set or spatial data service by means of a service specified in regulation 7(2) may be limited only if—</Text>
+                <P3 id="regulation-9-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>a limitation is permitted or required under paragraph (2), (3) or (4); and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>except in the case of a limitation under paragraph (2)(a), the public interest in limiting or placing conditions on public access outweighs the public interest in providing full access, in all the circumstances of the case.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party must not provide public access to personal data included in a spatial data set for which that authority or third party is responsible, if the provision of public access to that personal data otherwise than under these Regulations would contravene—</Text>
+                <P3 id="regulation-9-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>any of the data protection principles; or</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>section 10 of the Data Protection Act 1998<FootnoteRef Ref="f00014"/> (right to prevent processing likely to cause damage or distress),</Text>
+                  </P3para>
+                </P3>
+                <Text>and in this paragraph “personal data” and “the data protection principles” have the same meanings as in the Data Protection Act 1998.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party may, in relation to a spatial data set or spatial data service for which that authority or third party is responsible, limit public access to that data set or data service through a discovery service if such access would adversely affect international relations, public security or national defence.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party may, in relation to a spatial data set or spatial data service for which that authority or third party is responsible—</Text>
+                <P3 id="regulation-9-4-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>limit public access to that data set or data service through a service described in regulation 7(2)(b), (c), (d) or (e); or</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-4-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>limit public access to the e-commerce services referred to in regulation 10(4) which relate to that data set or data service,</Text>
+                  </P3para>
+                </P3>
+                <Text>if such access would adversely affect any matter specified in paragraph (5).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>The matters are—</Text>
+                <P3 id="regulation-9-5-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>international relations, defence, national security or public safety;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>the course of justice, the ability of a person to receive a fair trial or the ability of a public authority to conduct an inquiry of a criminal or disciplinary nature;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>intellectual property rights;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>the confidentiality of the proceedings of that or any other public authority or third party where such confidentiality is provided by law;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-e">
+                  <Pnumber>e</Pnumber>
+                  <P3para>
+                    <Text>the confidentiality of commercial or industrial information where such confidentiality is provided by law to protect a legitimate economic interest;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-f">
+                  <Pnumber>f</Pnumber>
+                  <P3para>
+                    <Text>the interests or protection of the person who provided the spatial data in question where that person—</Text>
+                    <P4 id="regulation-9-5-f-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>was not under, and could not have been put under, any legal obligation to supply that data to that or any other public authority or third party,</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-9-5-f-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>did not provide that data in circumstances such that that or any other public authority or third party is entitled apart from these Regulations to provide public access to that data, and</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-9-5-f-iii">
+                      <Pnumber>iii</Pnumber>
+                      <P4para>
+                        <Text>has not consented to the public being provided with access to that data; and</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-9-5-g">
+                  <Pnumber>g</Pnumber>
+                  <P3para>
+                    <Text>the protection of the environment to which the spatial data set or spatial data service in question relates.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party may not limit public access to a spatial data set or spatial data service which contains information on emissions into the environment, on a ground specified in paragraph (5)(d), (e), (f) or (g).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-9-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>For the purposes of paragraph (5)(b), (d) and (f), “public authority” includes a Scottish public authority, and for the purposes of paragraph (5)(d) and (f), “third party” includes a Scottish third party.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Charges for public access</Title>
+        <P1 id="regulation-10">
+          <Pnumber>10</Pnumber>
+          <P1para>
+            <P2 id="regulation-10-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Except as provided by paragraph (2), a public authority or a third party must not charge the public for a discovery service or a view service which that authority or third party operates in relation to a spatial data set or spatial data service for which that authority or third party is responsible.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-10-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party may charge the public for a view service where that charge secures the maintenance of spatial data sets and spatial data services, especially in cases involving very large volumes of frequently updated data.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-10-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party may charge the public a reasonable sum for a service described in regulation 7(2)(c), (d) or (e) which that authority or third party operates in relation to a spatial data set or spatial data service for which that authority or third party is responsible.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-10-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>Where a public authority or a third party charges the public for a view service or a service described in regulation 7(2)(c) or (e), that authority or third party must ensure that e-commerce services are available in relation to that service.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-10-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>Spatial data made available through a view service may be in a form preventing their re-use for commercial purposes.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-10-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>In this regulation “view service” means a service described in regulation 7(2)(b).</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Enforcement and appeals in relation to public access</Title>
+        <P1 id="regulation-11">
+          <Pnumber>11</Pnumber>
+          <P1para>
+            <P2 id="regulation-11-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The enforcement and appeals provisions of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation> apply for the purposes of regulations 7(4)(c) and 9 as they apply for the purposes of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, but with the modifications specified in paragraphs (3) to (11) of this regulation.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In this regulation “the enforcement and appeals provisions of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>” means—</Text>
+                <P3 id="regulation-11-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>section 50 (application for decision by Commissioner);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>section 51 (information notices);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>section 52 (enforcement notices);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>section 54 (failure to comply with notice);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-e">
+                  <Pnumber>e</Pnumber>
+                  <P3para>
+                    <Text>section 55 and Schedule 3 (powers of entry and inspection);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-f">
+                  <Pnumber>f</Pnumber>
+                  <P3para>
+                    <Text>section 56 (no action against public authority);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-g">
+                  <Pnumber>g</Pnumber>
+                  <P3para>
+                    <Text>section 57 (appeal against notices served under Part IV);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-h">
+                  <Pnumber>h</Pnumber>
+                  <P3para>
+                    <Text>section 58 (determination of appeals);</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-i">
+                  <Pnumber>i</Pnumber>
+                  <P3para>
+                    <Text>section 59 (appeals from decision of Tribunal); and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-2-j">
+                  <Pnumber>j</Pnumber>
+                  <P3para>
+                    <Text>section 61 (appeal proceedings), and paragraphs 3 and 4 of Schedule 4 (appeal proceedings: amendments of Schedule 6 to Data Protection Act 1998).</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>In the enforcement and appeals provisions of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>—</Text>
+                <P3 id="regulation-11-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>after each reference to “public authority” or “authority”, insert “or third party”;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>any reference to “public authority” or “authority” is a reference to a public authority as defined in these Regulations; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-3-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>any reference to “third party” is a reference to a third party as defined in these Regulations.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>In section 50 of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>—</Text>
+                <P3 id="regulation-11-4-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in subsection (1), for “a request for information” to the end, substitute “a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009.”;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-4-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>for paragraph (a) of subsection (2) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P3>
+                        <Pnumber>a</Pnumber>
+                        <P3para>
+                          <Text>that the complainant has not exhausted the complaints procedure provided by the public authority or third party under regulation 13 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009,</Text>
+                        </P3para>
+                      </P3>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-4-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>for subsection (4) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P2>
+                        <Pnumber>4</Pnumber>
+                        <P2para>
+                          <Text>Where the Commissioner decides that a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009, the decision notice must specify the steps which must be taken by the authority or third party for rectifying the incompatibility, and the period within which they must be taken.</Text>
+                        </P2para>
+                      </P2>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-4-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>omit subsection (7).</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>In section 51 of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>—</Text>
+                <P3 id="regulation-11-5-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in subsection (1)—</Text>
+                    <P4 id="regulation-11-5-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>for paragraph (b)(i) substitute—</Text>
+                        <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                          <P4>
+                            <Pnumber>i</Pnumber>
+                            <P4para>
+                              <Text>for the purpose of determining whether a public authority or a third party has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009,</Text>
+                            </P4para>
+                          </P4>
+                        </BlockAmendment>
+                        <AppendText>,</AppendText>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-11-5-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>omit paragraph (b)(ii), and</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-11-5-a-iii">
+                      <Pnumber>iii</Pnumber>
+                      <P4para>
+                        <Text>in the tailpiece, for “application” to the end substitute “application, or to the purpose specified in paragraph (b), as is so specified.”; and</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-5-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (b)(i) of subsection (2), for “either of the purposes” substitute “the purpose”.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>In section 52 of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>—</Text>
+                <P3 id="regulation-11-6-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>for subsection (1) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P2>
+                        <Pnumber>1</Pnumber>
+                        <P2para>
+                          <Text>If the Commissioner is satisfied that a public authority or a third party has acted in a way which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009,<Character Name="NonBreakingSpace"/>the Commissioner may serve the authority or third party with a notice (in this Act referred to as “an enforcement notice”) requiring the authority or third party to take, within such time as may be specified in the notice, such steps as may be so specified to rectify that incompatibility.</Text>
+                        </P2para>
+                      </P2>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-6-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>for subsection (2)(a) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P3>
+                        <Pnumber>a</Pnumber>
+                        <P3para>
+                          <Text>a statement of the provision of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009 with which the Commissioner is satisfied that the public authority or third party’s actions are not compatible and his reasons for reaching that conclusion, and</Text>
+                        </P3para>
+                      </P3>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-6-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>omit subsection (5).</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>In section 56(1) of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, for “failure to comply with any duty imposed by or under this Act” substitute “action which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-8">
+              <Pnumber>8</Pnumber>
+              <P2para>
+                <Text>In section 57 of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, omit subsection (3).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-9">
+              <Pnumber>9</Pnumber>
+              <P2para>
+                <Text>In Schedule 3 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>—</Text>
+                <P3 id="regulation-11-9-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>for sub-paragraph (1) of paragraph 1 (issue of warrants) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P2>
+                        <Pnumber>1</Pnumber>
+                        <P2para>
+                          <Text>If a circuit judge or a District Judge (Magistrates’ Courts) is satisfied by information on oath supplied by the Commissioner that there are reasonable grounds for suspecting that a public authority or a third party—</Text>
+                          <P3>
+                            <Pnumber>a</Pnumber>
+                            <P3para>
+                              <Text>has acted or is acting in a way which is not compatible with regulation 7(4)(c) or 9 of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009,</Text>
+                            </P3para>
+                          </P3>
+                          <P3>
+                            <Pnumber>b</Pnumber>
+                            <P3para>
+                              <Text>has failed or is failing to comply with so much of a decision notice as requires steps to be taken, or</Text>
+                            </P3para>
+                          </P3>
+                          <P3>
+                            <Pnumber>c</Pnumber>
+                            <P3para>
+                              <Text>has failed or is failing to comply with an information notice or an enforcement notice,</Text>
+                            </P3para>
+                          </P3>
+                          <Text>and that evidence of such actions or such a failure to comply is to be found on any premises specified in the information, the circuit judge or District Judge may, subject to paragraph 2, grant a warrant to the Commissioner.</Text>
+                        </P2para>
+                      </P2>
+                    </BlockAmendment>
+                    <AppendText>; and</AppendText>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-11-9-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph 8 (matters exempt from inspection and seizure), for “information which is exempt information by virtue of section 23(1) or 24(1)” (bodies and information relating to national security) substitute “information to which public access may be limited under regulation 9(5)(a) of the <Acronym Expansion="Infrastructure for Spatial Information in the European Community">INSPIRE</Acronym> Regulations 2009 on the ground that such access would adversely affect national security”.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-10">
+              <Pnumber>10</Pnumber>
+              <P2para>
+                <Text>In paragraph 4 of Schedule 4 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation> (rules of procedure), in the words in sub-paragraph (1)(a)(ii) of paragraph 7 of Schedule 6 to the Data Protection Act 1998 substituted by sub-paragraph (2), omit “and section 60(1) and (4)”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-11">
+              <Pnumber>11</Pnumber>
+              <P2para>
+                <Text>Section 76(1) of <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation> (disclosure of information between Commissioner and ombudsmen) applies to any information obtained by, or furnished to, the Information Commissioner under or for the purposes of regulation 7(4)(c) or 9.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-12">
+              <Pnumber>12</Pnumber>
+              <P2para>
+                <Text>A person found guilty of an offence under paragraph 12 of Schedule 3 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation> (offences relating to obstruction of the execution of a warrant) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-11-13">
+              <Pnumber>13</Pnumber>
+              <P2para>
+                <Text>A government department or the Welsh Assembly Government is not liable to prosecution in relation to an offence under paragraph 12 of Schedule 3 to <Abbreviation Expansion="Freedom of Information Act 2000 c. 36">the Act</Abbreviation>, but that provision applies to a person in the public service of the Crown and to a person acting on behalf of either House of Parliament, the Northern Ireland Assembly or the National Assembly for Wales as it applies to any other person.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Data-sharing between public authorities <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation></Title>
+        <P1 id="regulation-12">
+          <Pnumber>12</Pnumber>
+          <P1para>
+            <P2 id="regulation-12-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>A public authority (“P”) must, in relation to a spatial data set or spatial data service for which P is responsible—</Text>
+                <P3 id="regulation-12-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>enable another public authority or a relevant body to gain access to that data set or data service; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-12-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>enable another public authority or a relevant body to exchange and use that data set or data service,</Text>
+                  </P3para>
+                </P3>
+                <Text>where that authority or body requires that data set or data service for the purpose of its public tasks that may have an impact on the environment.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>But a public authority may limit sharing of the kind described in paragraph (1) when this would compromise the course of justice, public security, national defence or international relations.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>Subject to paragraphs (4), (5) and (6), a public authority which supplies a spatial data set or spatial data service to another public authority or a relevant body may impose conditions on the access to or exchange or use of that data set or data service, for example by doing either or both of the following—</Text>
+                <P3 id="regulation-12-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>providing that access to that data set or data service, or exchange or use of that data set or data service, is subject to terms and conditions imposed by a licence;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-12-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>making a charge for the access to, or exchange or use of, that data set or data service.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>But any such conditions must be compatible with the aim of facilitating the sharing of spatial data sets and spatial data services among public authorities and between public authorities and relevant bodies, and must avoid creating practical obstacles, occurring at the point of use, to such sharing.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>Where a public authority makes a charge as described in paragraph (3)(b), the charge must be kept to the minimum required to ensure the necessary quality and supply of spatial data sets and spatial data services together with a reasonable return on investment, and any requirement on an authority to be self-financing is to be respected.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>Where, under <Acronym Expansion="European Union">EU</Acronym> legislation relating to the environment, a public authority is required to report a matter to an institution or body of the <Acronym Expansion="European Union">EU</Acronym>, that authority must not charge that body in relation to the provision to that body of a spatial data set or spatial data service in satisfaction of that requirement.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-12-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>In this regulation “relevant body” means—</Text>
+                <P3 id="regulation-12-7-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>a Scottish public authority;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-12-7-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>a public body in another member State;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-12-7-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>an institution or body of the <Acronym Expansion="European Union">EU</Acronym>; or</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-12-7-d">
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>a body established by an international agreement to which the <Acronym Expansion="European Union">EU</Acronym> and the United Kingdom are parties.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Internal complaints procedure</Title>
+        <P1 id="regulation-13">
+          <Pnumber>13</Pnumber>
+          <P1para>
+            <P2 id="regulation-13-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party must establish an internal complaints procedure for dealing with a complaint relating to the performance of its functions under these Regulations.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-13-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>A complaint relating to the performance by a public authority or a third party of its functions under these Regulations—</Text>
+                <P3 id="regulation-13-2-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>must be pursued according to the complaints procedure established by that authority or third party under paragraph (1); and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-13-2-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>must be made in writing.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-13-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>A public authority or a third party must determine a complaint within a reasonable time, and must notify the complainant of its determination without delay.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-13-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>Notification under paragraph (3) must be in writing and give reasons for the determination.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Coordination and monitoring</Title>
+        <P1 id="regulation-14">
+          <Pnumber>14</Pnumber>
+          <P1para>
+            <P2 id="regulation-14-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Secretary of State is designated in accordance with Article 18 of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> (mechanism for coordinating the contributions of all those with an interest in the infrastructure for spatial information), and accordingly has the coordination functions referred to in that Article.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>The Secretary of State is designated in accordance with Article 19 of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> (contact point with the Commission in relation to implementation of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>The Secretary of State has the following further functions in relation to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>—</Text>
+                <P3 id="regulation-14-3-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>enforcing the requirements of—</Text>
+                    <P4 id="regulation-14-3-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>regulation 6 (metadata), and</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-14-3-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>regulation 7 (network services), except regulation 7(4)(c); and</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-14-3-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>monitoring the implementation and use of the infrastructure for spatial information and making the findings available to the public and to the European Commission<FootnoteRef Ref="f00015"/>.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>The Secretary of State must issue guidance to public authorities and third parties which are responsible for spatial data sets or spatial data services regarding their implementation of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>Guidance issued under paragraph (4) must include provision relating to the internal complaints procedure which authorities and third parties are required to establish under regulation 13.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>In performing their functions under these Regulations, public authorities and third parties must have regard to guidance issued under paragraph (4).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>Public authorities and third parties must provide such information to the Secretary of State as the Secretary of State may require in order to perform the functions described or referred to in paragraphs (1), (3) and (4).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-14-8">
+              <Pnumber>8</Pnumber>
+              <P2para>
+                <Text>In this regulation “infrastructure for spatial information” means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Signee>
+            <PersonName>Huw Irranca-Davies</PersonName>
+            <JobTitle>Parliamentary Under Secretary of State</JobTitle>
+            <Department>Department for Environment, Food and Rural Affairs</Department>
+            <DateSigned Date="2009-12-01">
+              <DateText>1st December 2009</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes>
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Regulations)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text Hanging="indented">These Regulations implement Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2007/0002" id="c00005" Class="EuropeanUnionDirective" Year="2007" Number="2">2007/2/<Acronym Expansion="European Community">EC</Acronym></Citation> (<Acronym Expansion="Official Journal">OJ</Acronym> No L 108, 25.4.2007, p. 1) (“<Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>”) which concerns the creation and operation of national and European Union infrastructures relating to spatial information for the purposes of <Acronym Expansion="European Union">EU</Acronym> environmental policies and other policies or activities which may have an impact on the environment.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Certain provisions of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> are dependent on the adoption by the European Commission of further implementing rules, and where those rules have not yet been adopted, those provisions are not implemented in these Regulations.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">These Regulations do not apply in relation to Scottish public authorities; <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation> is separately implemented in relation to such bodies.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 2 contains definitions, including a definition of “spatial data set” which refers to the spatial data themes listed in Annex I, <Acronym Expansion="2">II</Acronym> or <Acronym Expansion="3">III</Acronym> to <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 3 defines “public authority” and regulation 4 provides for the scope of application of the Regulations to spatial data sets and spatial data services.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 6 requires authorities to create and update metadata relating to their spatial data sets and services, by dates specified in that regulation.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 7 provides that authorities must establish and operate network services, including discovery and view services, in relation to their spatial data sets and services, and regulation 8 provides for the linking of such services to a network.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 9 permits certain limitations on the right of public access to spatial data sets and services through the services described in regulation 7, and regulation 10 relates to charging for the provision of those services.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 11 provides for specified provisions of the Freedom of Information Act 2000 to apply (with modifications) for the purposes of regulations 7(4)(c) and 9, so that the Information Commissioner has an enforcement role in this regard.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 12 relates to data-sharing among public authorities for the purposes of public tasks relating to the environment, and to sharing between public authorities and public bodies in other member States, <Acronym Expansion="European Union">EU</Acronym> or international bodies.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 13 requires authorities to establish an internal complaints procedure for dealing with complaints relating to the performance of their functions under these Regulations.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">Regulation 14 provides that the Secretary of State is responsible for coordinating the spatial information infrastructure and monitoring the implementation of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>. The Secretary of State is required to issue guidance to authorities and third parties regarding their implementation of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">A transposition note is available at <ExternalLink URI="http://www.defra.gov.uk/" id="i00025">www.defra.gov.uk</ExternalLink><Underline>/location/inspire/</Underline> or from the Department for Environment, Food and Rural Affairs, Ergon House, Horseferry Road, London SW1P 2AL, giving further information about the implementation of <Abbreviation Expansion="Directive 2007/2/EC of the European Parliament and of the Council establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)">the Directive</Abbreviation>.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">An impact assessment of the effect that this instrument will have on the costs of business is available from the same address, and on the same website, as the transposition note.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c. 68</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2008/301" id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="0301">S.I. 2008/301</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text>Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/51" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0051">2006 (c. 51)</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00004">
+      <FootnoteText>
+        <Para>
+          <Text><Acronym Expansion="Official Journal">OJ</Acronym> No L 326, 4.12.2008, p 12.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00005">
+      <FootnoteText>
+        <Para>
+          <Text><Acronym Expansion="Official Journal">OJ</Acronym> No L 108, 25.4.2007, p 1.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00006">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/36" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0036">2000 c. 36</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00007">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/asp/2002/13" id="c00010" Class="ScottishAct" Year="2002" Number="0013">2002 asp 13</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00008">
+      <FootnoteText>
+        <Para>
+          <Text>See section 1 of the Territorial Sea Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1987/49" id="c00011" Class="UnitedKingdomPublicGeneralAct" Year="1987" Number="0049">1987 (c. 49)</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00009">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1964/29" id="c00012" Class="UnitedKingdomPublicGeneralAct" Year="1964" Number="0029">1964 c. 29</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00010">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/20" id="c00013" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="0020">2004 c. 20</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00011">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/70" id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0070">1972 c. 70</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00012">
+      <FootnoteText>
+        <Para>
+          <Text>See <Citation URI="http://www.legislation.gov.uk/european/regulation/2008/1205" id="c00015" Class="EuropeanUnionRegulation" Year="2008" Number="1205">Commission Regulation (EC) No 1205/2008</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00013">
+      <FootnoteText>
+        <Para>
+          <Text>See <Citation URI="http://www.legislation.gov.uk/european/regulation/2009/0976" id="c00016" Class="EuropeanUnionRegulation" Year="2009" Number="0976">Commission Regulation (EC) No 976/2009</Citation>, <Acronym Expansion="Official Journal">OJ</Acronym> No L 274, 20.10.2009, p 9.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00014">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/29" id="c00017" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0029">1998 c. 29</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00015">
+      <FootnoteText>
+        <Para>
+          <Text>See Commission Decision <Citation URI="http://www.legislation.gov.uk/european/decision/2009/0442" id="c00018" Class="EuropeanUnionDecision" Year="2009" Number="442">2009/442/<Acronym Expansion="European Community">EC</Acronym></Citation>, <Acronym Expansion="Official Journal">OJ</Acronym> No L 148, 11.6.2009, p 18.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

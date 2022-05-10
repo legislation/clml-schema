@@ -19,11 +19,12 @@
 				<dcq:created>2018-11-10</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>>2018-11-20</dcq:modified>
+				<dcq:modified>>2021-05-04</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.4			Karl Rajangam		Annotation added for attributes MatchExtentEntries and MatchTextEntries
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0			Colin Mackenzie		Created
 			</xsd:documentation>
@@ -67,8 +68,16 @@
 			</xsd:choice>
 		</xsd:sequence>
 		<xsd:attributeGroup ref="CommonAttributes"/>
-		<xsd:attribute name="MatchExtentEntries" type="xsd:string" use="optional"/>
-		<xsd:attribute name="MatchTextEntries" type="xsd:string" use="optional"/>
+		<xsd:attribute name="MatchExtentEntries" type="xsd:string" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Used to hold a space separated list of values where a match has occurred when performing a geographic extent search when viewing the ToC from one of the search items. The values are the levels within the document structure where a match has occurred, such as Introduction, Body, Schedules etc</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="MatchTextEntries" type="xsd:string" use="optional"> 
+			<xsd:annotation>
+				<xsd:documentation>Used to hold a space separated list of values where a match has occurred when performing a keyword search when viewing the ToC from one of the search items. The values are the levels within the document structure where a match has occurred, such as Introduction, Body, Schedules etc</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 	
 	<!-- This will allow changes to emphasis model for main legislation schema

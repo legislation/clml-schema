@@ -1,0 +1,1151 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080" NumberOfProvisions="44" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2019-03-27">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2014/2080/article/1</dc:identifier>
+		<dc:title>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</dc:title>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:subject scheme="SIheading">BANKS AND BANKING</dc:subject>
+		<dc:modified>2020-04-30</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2019-03-27</dct:valid>
+		<dc:description>This Order defines the circumstances in which ring-fenced bodies will be able to deal with investments as principal by providing for exceptions to the excluded activity set out in section 142D of the Financial Services and Markets Act 2000 in relation to the management by the ring-fenced body of its own risks or of its liquid assets or the provision of derivatives to its clients. The Order also imposes prohibitions on ring-fenced bodies under section 142E, which (with the exceptions provided for) limit the way in which a ring-fenced body may have access to clearing and settlement services provided by a recognised inter-bank payment system, restrict the exposures a ring-fenced body may have to relevant financial institutions, and ensure that a ring-fenced body may not have a subsidiary or branch in any country outside the EEA (other than operational subsidiaries which do not provide banking services).</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2014/2080/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2014/2080/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2014/2080/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2014/2080" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2014/2080/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2014/2080/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2014/2080/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2014/2080/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2014/2080/schedules" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2014/2080/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2018-01-12" title="2018-01-12"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/made" title="made"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2015-01-01" title="2015-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2016-12-01" title="2016-12-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2017-11-28" title="2017-11-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2017-11-30" title="2017-11-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2018-01-13" title="2018-01-13"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2014/9780111117101" title="The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014"/>
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2014/2080" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/2014/2080/introduction" title="Introduction; Introduction"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/uksi/2014/2080/introduction" title="Introduction; Introduction"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2014/2080/article/2" title="Provision; Article 2"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2014/2080/article/2" title="Provision; Article 2"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="revised"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2014"/>
+			<ukm:Number Value="2080"/>
+			<ukm:Made Date="2014-07-23"/>
+			<ukm:ISBN Value="9780111119617"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-65bc0cc3f4c2fdcc2cfb3a3712162467" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-65bc0cc3f4c2fdcc2cfb3a3712162467" Row="788" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(a)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-a" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/a">reg. 192(2)(a)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-cbd42c359d96a5d081b93719cf23b8a2" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-cbd42c359d96a5d081b93719cf23b8a2" Row="789" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(b)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/b">reg. 192(2)(b)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-56af73744bd5bac45d83972e92983aa1" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-56af73744bd5bac45d83972e92983aa1" Row="790" Type="words inserted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(c)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-c" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/c">reg. 192(2)(c)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6800369538b9f741b1f04c62852f6ce6" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-6800369538b9f741b1f04c62852f6ce6" Row="791" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(d)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-d" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/d">reg. 192(2)(d)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-689d028ea5c96fa254c923d7da945a28" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-689d028ea5c96fa254c923d7da945a28" Row="792" Type="words inserted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(e)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-e" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/e">reg. 192(2)(e)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-262f7c923a895affe12bbcb61516a726" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-262f7c923a895affe12bbcb61516a726" Row="793" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(f)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-f" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/f">reg. 192(2)(f)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-d3e874e470384d786e28d240210ece31" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d3e874e470384d786e28d240210ece31" Row="794" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(g)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-g" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/g">reg. 192(2)(g)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-69ba59c58720443042b5a781b60c412f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-69ba59c58720443042b5a781b60c412f" Row="795" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(h)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-h" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/h">reg. 192(2)(h)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-452f41e6abf875ba72c2ee56ba415223" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-452f41e6abf875ba72c2ee56ba415223" Row="796" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(i)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-i" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/i">reg. 192(2)(i)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3e86385fc1a0c8e65a5f31137117c48f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3e86385fc1a0c8e65a5f31137117c48f" Row="797" Type="words inserted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(j)(i)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-j-i" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/j/i">reg. 192(2)(j)(i)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4e7eb12319c89aa68818619ee85d1e3d" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4e7eb12319c89aa68818619ee85d1e3d" Row="798" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(j)(ii)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-j-ii" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/j/ii">reg. 192(2)(j)(ii)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e46dd9f1f8c79cd19d54631b4c8f46c9" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e46dd9f1f8c79cd19d54631b4c8f46c9" Row="799" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(k)(i)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-k-i" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/k/i">reg. 192(2)(k)(i)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f3092d45f49a08181e393bda6d1f4610" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f3092d45f49a08181e393bda6d1f4610" Row="800" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(k)(ii)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-k-ii" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/k/ii">reg. 192(2)(k)(ii)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e1e1829288617d775e0deaef7bd2dc7e" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e1e1829288617d775e0deaef7bd2dc7e" Row="801" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(k)(iii)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-k-iii" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/k/iii">reg. 192(2)(k)(iii)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-494942a375c4baf7e8543e0bcecaff8b" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-494942a375c4baf7e8543e0bcecaff8b" Row="802" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(k)(iv)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-k-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/k/iv">reg. 192(2)(k)(iv)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-5ac2f667fd20b9c075be3c3fdec3ae96" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-5ac2f667fd20b9c075be3c3fdec3ae96" Row="803" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(l)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-l" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/l">reg. 192(2)(l)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2d1e246ab036d58be58ac0eb0a9fad71" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-2d1e246ab036d58be58ac0eb0a9fad71" Row="804" Type="words omitted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(m)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-m" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/m">reg. 192(2)(m)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-02a8d6a507dad08dab8f3265f3867cba" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-02a8d6a507dad08dab8f3265f3867cba" Row="805" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(n)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-n" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/n">reg. 192(2)(n)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-760358090f9148cdd4773a1277c3bb67" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-760358090f9148cdd4773a1277c3bb67" Row="806" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(o)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-o" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/o">reg. 192(2)(o)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-7c10acdf4f4839e59fd7aa4ddd8d304c" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-7c10acdf4f4839e59fd7aa4ddd8d304c" Row="807" Type="words substituted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(p)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-p" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/p">reg. 192(2)(p)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4b407f33ad69a44c90ed576147bbf67f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4b407f33ad69a44c90ed576147bbf67f" Row="808" Type="words inserted" RequiresApplied="true" AffectedProvisions="art. 1(4)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(2)(q)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-1-4" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4">art. 1(4)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-2-q" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/2/q">reg. 192(2)(q)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-37671ccc4bca3ac6f8c75a39af90ee7f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-37671ccc4bca3ac6f8c75a39af90ee7f" Row="815" Type="substituted for art. 12(1)(e)(i)(ii)" RequiresApplied="true" AffectedProvisions="art. 12(1)(e)(i)-(iii)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(5)(a)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:SectionRange Start="article-12-1-e-i" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/1/e/i" End="article-12-1-e-iii" UpTo="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/1/e/iii" FoundEnd="article-12" MissingEnd="true"><ukm:Section Ref="article-12-1-e-i" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/1/e/i">art. 12(1)(e)(i)</ukm:Section>-<ukm:Section Ref="article-12-1-e-iii" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/1/e/iii" FoundRef="article-12">(iii)</ukm:Section></ukm:SectionRange>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-5-a" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/5/a">reg. 192(5)(a)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-5005ca1ffa96c861596dff9757bb0aeb" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2014/2080" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-5005ca1ffa96c861596dff9757bb0aeb" Row="817" Type="inserted" RequiresApplied="true" AffectedProvisions="art. 12(2)(ca)(cb)" Comments="IP completion day" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="(with savings in S.I. 2019/680, reg. 11 (as amended by S.I. 2019/1212, regs. 1(3), 22(3)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="632" AffectingProvisions="reg. 192(5)(b)(ii)" AffectedYear="2014" AffectedNumber="2080" Modified="2020-10-21T09:41:01Z">
+					<ukm:AffectedTitle>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="article-12-2-ca" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/2/ca" FoundRef="article-12">art. 12(2)(ca)</ukm:Section>
+						<ukm:Section Ref="article-12-2-cb" URI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/12/2/cb" FoundRef="article-12">(cb)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-192-5-b-ii" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/192/5/b/ii">reg. 192(5)(b)(ii)</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:CommencementAuthority>
+						<ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2019/632/regulation/1/3">reg. 1(3)</ukm:Section>
+					</ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+		<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2014/9780111117101">
+			<dc:title>The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014</dc:title>
+			<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+			<ukm:Year Value="2014"/>
+			<ukm:ISBN Value="9780111117101"/>
+		</ukm:Supersedes>
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2014/2080/pdfs/uksiem_20142080_en.pdf" Date="2014-08-05" Title="UK Explanatory Memorandum" Size="51081"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2014/2080/pdfs/uksi_20142080_en.pdf" Date="2014-08-05" Size="140886"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="44"/>
+			<ukm:BodyParagraphs Value="23"/>
+			<ukm:ScheduleParagraphs Value="21"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/body" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/body" NumberOfProvisions="23" RestrictStartDate="2019-03-27">
+			<Part DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/part/1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/part/1" NumberOfProvisions="3" RestrictStartDate="2018-01-13" id="part-1" RestrictExtent="E+W+S+N.I.">
+				<Number>
+					<Strong>PART 1</Strong>
+				</Number>
+				<Title>GENERAL</Title>
+				<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2018-01-13">
+					<Title>Citation, commencement and interpretation</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/article/1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1" id="article-1">
+						<Pnumber>1</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/article/1/1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/1" id="article-1-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>This Order may be cited as the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/article/1/2" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/2" id="article-1-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>This article, articles 2 and 3 and the Schedule to this Order come into force on 1st January 2015.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/article/1/3" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/3" id="article-1-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>The other provisions of this Order come into force on 1st January 2019.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2014/2080/article/1/4" IdURI="http://www.legislation.gov.uk/id/uksi/2014/2080/article/1/4" id="article-1-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>In this Order—</Text>
+									<UnorderedList Decoration="none" Class="Definition">
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-account-holder">account holder</Term>” means any person, other than a relevant financial institution, who has an account with a ring-fenced body <CommentaryRef Ref="c22188661"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-the-act">the Act</Term>” means the Financial Services and Markets Act 2000;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-alternative-investment-fund">alternative investment fund</Term>” means an AIF within the meaning of Article 4(1)(a) of the Directive of the European Parliament and of the Council of 8 June 2011 on alternative investment fund managers <CommentaryRef Ref="c22188671"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-alternative-investment-fund-manager">alternative investment fund manager</Term>” means an AIFM within the meaning of Article 4(1)(b) of the Directive of the European Parliament and of the Council of 8 June 2011 on alternative investment fund managers;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-building-society">building society</Term>” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986 <CommentaryRef Ref="c22188681"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-capital-market-arrangement">capital market arrangement</Term>” has the meaning given in paragraph 1 of Schedule 2A to the Insolvency Act 1986 <CommentaryRef Ref="c22188691"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-e71e440ce1c88a5fcd6579700d1791cb-1579600594604" CommentaryRef="key-e71e440ce1c88a5fcd6579700d1791cb">“charity” has the meaning given in section 1 of the Charities Act 2011, section 1 of the Charities Act (Northern Ireland) 2008 or section 106 of the Charities and Trustee Investment (Scotland) Act 2005;</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-e71e440ce1c88a5fcd6579700d1791cb-1579600594604" CommentaryRef="key-e71e440ce1c88a5fcd6579700d1791cb">“</Addition>
+													<Acronym Expansion="Charitable Incorporated Organisation">
+														<Addition ChangeId="key-e71e440ce1c88a5fcd6579700d1791cb-1579600594604" CommentaryRef="key-e71e440ce1c88a5fcd6579700d1791cb">CIO</Addition>
+													</Acronym>
+													<Addition ChangeId="key-e71e440ce1c88a5fcd6579700d1791cb-1579600594604" CommentaryRef="key-e71e440ce1c88a5fcd6579700d1791cb">” means a body constituted and registered as a charitable incorporated organisation under Part 11 of the Charities Act 2011 or Part 11 of the Charities Act (Northern Ireland) 2008, or as a Scottish charitable incorporated organisation under Part 1 of the Charities and Trustee Investment (Scotland) Act 2005;</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-commodity">commodity</Term>” means any goods of a fungible nature that are capable of being delivered including metals and their ores and alloys, agricultural products, and energy such as electricity;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“conduit vehicle” of a ring-fenced body means an undertaking which satisfies the conditions set out in article 17(2) for the relevant financial institution described as D;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-1870cc853e8b4cac79f3f694811c957c-1579600627253" CommentaryRef="key-1870cc853e8b4cac79f3f694811c957c">“core deposit” has the meaning given in article 2(2) of the Financial Services and Markets Act 2000 (Ring-fenced Bodies and Core Activities) Order 2014;</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-correspondent-banking">correspondent banking</Term>” means an arrangement between two credit institutions pursuant to which one credit institution provides payment services to the clients of the other credit institution on behalf of that credit institution;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-covered-bond-vehicle">covered bond vehicle</Term>” means a body corporate, partnership or unincorporated association—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>which is a party to a capital market arrangement, or a transaction in pursuance of a capital market arrangement, and</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>whose business consists (apart from incidental activities) only of—</Text>
+													</Para>
+													<OrderedList Type="roman" Decoration="parens">
+														<ListItem NumberOverride="i">
+															<Para>
+																<Text>providing guarantees, and</Text>
+															</Para>
+														</ListItem>
+														<ListItem NumberOverride="ii">
+															<Para>
+																<Text>acquiring, owning and managing assets directly or indirectly forming the whole or part of the security for a capital market arrangement;</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-credit-institution">credit institution</Term>” has the meaning given in Article 4.1(1) of the prudential requirements regulation;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-credit-institutions-directive">credit institutions directive</Term>” means the Directive of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive <Citation URI="http://www.legislation.gov.uk/id/eudr/2002/87" id="c00001" Class="EuropeanUnionDirective" Year="2002" Number="87">2002/87/EC</Citation> and repealing Directives <Citation URI="http://www.legislation.gov.uk/id/eudr/2006/48" id="c00002" Class="EuropeanUnionDirective" Year="2006" Number="48">2006/48/EC</Citation> and <Citation URI="http://www.legislation.gov.uk/id/eudr/2006/49" id="c00003" Class="EuropeanUnionDirective" Year="2006" Number="49">2006/49/EC</Citation>
+													<CommentaryRef Ref="c22188701"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-credit-union">credit union</Term>” means a credit union as defined by section 31 of the Credit Unions Act 1979 <CommentaryRef Ref="c22188711"/> or a credit union as defined by Article 2(2) of the Credit Unions (Northern Ireland) Order 1985 <CommentaryRef Ref="c22188721"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“debentures” include any investment of the kind specified by article 77 of the Regulated Activities Order 2001 <CommentaryRef Ref="c22188731"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-default-risk">default risk</Term>”, in relation to a ring-fenced body, means the risk that—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>one or more persons will default under a transaction with a ring-fenced body or with a subsidiary undertaking of the ring-fenced body or will become unlikely, unwilling or unable to pay or repay sums owing at law or in equity to the ring-fenced body or to a subsidiary undertaking of the ring-fenced body,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>an obligation to pay or repay sums owing at law or in equity to the ring-fenced body or to a subsidiary undertaking of the ring-fenced body will be restructured so as to reduce or postpone the payments due as principal, interest or fees resulting in a loss to the ring-fenced body or to its subsidiary undertaking, or</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="c">
+													<Para>
+														<Text>the value of any security or collateral taken by the ring-fenced body or a subsidiary undertaking of the ring-fenced body in connection with one or more transactions entered into by the ring-fenced body or its subsidiary undertaking will be insufficient to meet the obligations of the counterparty to the transaction when the security is enforced or the collateral is sold;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+											<Para>
+												<Text>and for the purposes of paragraph (b), “<Term id="term-restructuring">restructuring</Term>” includes restructuring through a voluntary arrangement made with creditors, by court order or through the exercise of powers under the Banking Act 2009 or in equivalent legislation in other countries)</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-derivative-instrument">derivative instrument</Term>” includes any of the instruments listed in paragraphs (4) to (10) of Section C of Annex 1 to the markets in financial instruments directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-exposure">exposure</Term>” means—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>an asset referred to in Part Three, Title II, Chapter 2 of the prudential requirements regulation, or</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>an off-balance sheet item listed in Annex I to the prudential requirements regulation <CommentaryRef Ref="c22188741"/>,</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+											<Para>
+												<Text>without applying the risk weights or degrees of risk set out in the prudential requirements regulation;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-financial-holding-company">financial holding company</Term>” means a financial institution which is not a mixed financial holding company, the subsidiary undertakings of which are either exclusively or mainly credit institutions, investment firms or financial institutions and which has at least one subsidiary undertaking which is a credit institution or investment firm, and for the purposes of this definition, a financial institution is an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to pursue one or more of the activities listed in points 2 to 12 and 15 of Annex I to the credit institutions directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-financial-institution-exposure">financial institution exposure</Term>” means an exposure to a relevant financial institution or an exposure to securities or other financial instruments issued by a relevant financial institution, but does not include an exposure where the sole or main purpose for which the ring-fenced body incurs the exposure to the relevant financial institution is to provide for—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>the safeguarding and administration of assets of the ring-fenced body by that financial institution, or</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>client money or client assets to be held for the ring-fenced body by that relevant financial institution;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-global-systemically-important-insurer">global systemically important insurer</Term>” means an insurance undertaking, third country insurance undertaking, reinsurance undertaking or third country reinsurance undertaking which is included on the list of global systemically important insurers published by the Financial Stability Board on 18 July 2013, or on any updated version of that list or supplementary list of such undertakings published by the Financial Stability Board<Addition ChangeId="key-0da68ecda5bcd00be360aac829d605dc-1579600675021" CommentaryRef="key-0da68ecda5bcd00be360aac829d605dc">, and any subsidiary undertaking of any such undertaking provided that the subsidiary undertaking is also an insurance undertaking, third country insurance undertaking, reinsurance undertaking or third country reinsurance undertaking</Addition>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-instruments-giving-an-entitlement-to-shares-or-debentures">instruments giving an entitlement to shares or debentures</Term>” includes any instrument of the kind specified by article 79 (instruments giving entitlements to investments) of the Regulated Activities Order 2001 <CommentaryRef Ref="c22188751"/> which relates to shares or, as the case may be, debentures;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-insurance-undertaking">insurance undertaking</Term>” has the meaning given in Article 13.1 of the solvency II directive <CommentaryRef Ref="c22188761"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-4778e9159239c7d2fa51cf5180d0f7b5-1579618651996" CommentaryRef="key-4778e9159239c7d2fa51cf5180d0f7b5">“inter-bank payment system” means arrangements which are—</Addition>
+												</Text>
+												<OrderedList Decoration="parens" Type="alpha">
+													<ListItem>
+														<Para>
+															<Text>
+																<Addition ChangeId="key-4778e9159239c7d2fa51cf5180d0f7b5-1579618651996" CommentaryRef="key-4778e9159239c7d2fa51cf5180d0f7b5">a payment system as defined in section 182 of the Banking Act 2009, and</Addition>
+															</Text>
+														</Para>
+													</ListItem>
+													<ListItem>
+														<Para>
+															<Text>
+																<Addition ChangeId="key-4778e9159239c7d2fa51cf5180d0f7b5-1579618651996" CommentaryRef="key-4778e9159239c7d2fa51cf5180d0f7b5">designed to facilitate or control the transfer of money between banks and building societies which participate in the arrangements, </Addition>
+															</Text>
+														</Para>
+													</ListItem>
+												</OrderedList>
+												<Text>
+													<Addition ChangeId="key-4778e9159239c7d2fa51cf5180d0f7b5-1579618651996" CommentaryRef="key-4778e9159239c7d2fa51cf5180d0f7b5">(and see article 13(11) for further provision as to the meaning of inter-bank payment system in that article);</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-interest-rate-swap">interest rate swap</Term>” has the meaning given in article 10(2)(c);</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-liquid-assets">liquid assets</Term>” means assets which qualify towards the liquidity coverage requirement provided for in Article 412 of the prudential requirements regulation as further specified in delegated acts adopted by the European Commission under Article 460 of that regulation;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-liquidity-risk">liquidity risk</Term>” means the risk that <Substitution ChangeId="key-e710e61c5fa06b044a50cf4867ebef3d-1579601276046" CommentaryRef="key-e710e61c5fa06b044a50cf4867ebef3d">the undertaking</Substitution> does not have, or is unable to obtain, sufficient financial resources to enable it to meet its financial obligations as they fall due;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-management-company">management company</Term>” has the meaning given in Article 2.1(b) of the UCITS directive <CommentaryRef Ref="c22188771"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-mixed-financial-holding-company">mixed financial holding company</Term>” means an undertaking which is not a credit institution, an insurance undertaking or an investment firm, which has at least one subsidiary undertaking which is a credit institution, an insurance undertaking or an investment firm and which, together with its subsidiary undertakings, constitutes a financial conglomerate (within the meaning given by Article 2.14 of Directive <Citation URI="http://www.legislation.gov.uk/id/eudr/2002/87" id="c00004" Class="EuropeanUnionDirective" Year="2002" Number="87">2002/87/EC</Citation> of the European Parliament and of the Council of 16 December 2002 <CommentaryRef Ref="c22188781"/> on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (disregarding any decision taken under Article 3(3) of that directive);</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-own-funds">own funds</Term>” means own funds as defined in Article 4.1(118) of the prudential requirements regulation;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-payment-exposures">payment exposures</Term>” means—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>in the case of foreign exchange transactions, exposures incurred in the ordinary course of settlement;</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>in the case of transactions for the purchase or sale of securities, exposures incurred in the ordinary course of settlement;</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="c">
+													<Para>
+														<Text>exposures arising from the provision of money transmission including—</Text>
+													</Para>
+													<OrderedList Type="roman" Decoration="parens">
+														<ListItem NumberOverride="i">
+															<Para>
+																<Text>the execution of payment services,</Text>
+															</Para>
+														</ListItem>
+														<ListItem NumberOverride="ii">
+															<Para>
+																<Text>clearing and settlement in any currency, and</Text>
+															</Para>
+														</ListItem>
+														<ListItem NumberOverride="iii">
+															<Para>
+																<Text>correspondent banking; and</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</ListItem>
+												<ListItem NumberOverride="d">
+													<Para>
+														<Text>exposures incurred by the ring-fenced body to satisfy a condition required for participation by it in an inter-bank payment system <CommentaryRef Ref="key-4d7597952e13b8e614c3b3bedcef8dcb"/>... or in the services provided by a recognised clearing house <CommentaryRef Ref="c22188801"/>, an EEA central counterparty <CommentaryRef Ref="c22188811"/>
+															<Substitution ChangeId="key-31a2c0657b2ca7ae526521194ef1d026-1579617652029" CommentaryRef="key-31a2c0657b2ca7ae526521194ef1d026">, a third country central counterparty, a recognised CSD, an EEA CSD or a third country CSD</Substitution> provided that such exposures are only to a relevant financial institution which is <CommentaryRef Ref="key-4f565ab57f72bc388f72485ef3c37b8c"/>... a member or operator of the inter-bank payment system or a member of the relevant recognised clearing house, EEA central counterparty<Substitution ChangeId="key-576dab0712facc261c6a5779331dbf8c-1579617719551" CommentaryRef="key-576dab0712facc261c6a5779331dbf8c">, third country central counterparty, recognised CSD, EEA CSD or third country CSD</Substitution>;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-payment-services">payment services</Term>” has the same meaning as in regulation 2(1) of the Payment Services Regulations <Substitution ChangeId="M_F_e7404e2d-d8ed-4a00-d47a-bb3b63b91e71-1579620277860" CommentaryRef="M_F_e7404e2d-d8ed-4a00-d47a-bb3b63b91e71">2017</Substitution>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-prudential-requirements-regulation">prudential requirements regulation</Term>” means the Regulation of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms <CommentaryRef Ref="c22188841"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-regulated-activities-order-2001">Regulated Activities Order 2001</Term>” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 <CommentaryRef Ref="c22188851"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-f564f0cb6b47af7ecfc57552ab1991cc-1579601362866" CommentaryRef="key-f564f0cb6b47af7ecfc57552ab1991cc">“related undertaking” means any subsidiary undertaking of a parent undertaking where the parent undertaking is subject to rules made by the appropriate regulator pursuant to section 192JA of the Act, but does not include a subsidiary undertaking that is a ring-fenced body;</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-reinsurance-undertaking">reinsurance undertaking</Term>” has the meaning given in article 13(4) of the solvency II directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-relevant-financial-institution">relevant financial institution</Term>” has the meaning given in article 2;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-securitisation-undertaking">securitisation undertaking</Term>” has the meaning given in article 3(1)(a);</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-securities">securities</Term>” means, any investments of the kind specified by any of articles 76 to 82 of the Regulated Activities Order 2001 <CommentaryRef Ref="c22188861"/>, or so far as relevant to any such investment, article 89 of that Order <CommentaryRef Ref="c22188871"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-security-interest">security interest</Term>” means any legal or equitable interest created or otherwise arising by way of security including—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>a pledge,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>a mortgage,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="c">
+													<Para>
+														<Text>a fixed charge,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="d">
+													<Para>
+														<Text>a floating charge,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="e">
+													<Para>
+														<Text>a lien;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-sell">sell</Term>”, in relation to any investment, includes disposing of the investment for valuable consideration, and for these purposes “<Term id="term-disposing-of">disposing of</Term>” includes—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>in the case of an investment consisting of rights under a contract—</Text>
+													</Para>
+													<OrderedList Type="roman" Decoration="parens">
+														<ListItem NumberOverride="i">
+															<Para>
+																<Text>surrendering, assigning or converting those rights, or</Text>
+															</Para>
+														</ListItem>
+														<ListItem NumberOverride="ii">
+															<Para>
+																<Text>assuming the corresponding liabilities under the contract,</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>in the case of an investment consisting of other arrangements, assuming the corresponding liabilities under the arrangements,</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="c">
+													<Para>
+														<Text>in the case of any other investment, issuing or creating the investment or granting the rights or interests of which it consists;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“shares” include any investment of the kind specified by article 76 of the Regulated Activities Order 2001;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-solvency-ii-directive">solvency II directive</Term>” means the Directive of the European Parliament and Council of 25 November 2009 on the taking up and pursuit of the business of Insurance and Reinsurance <CommentaryRef Ref="c22188881"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-sponsored-structured-finance-vehicle">sponsored structured finance vehicle</Term>” means a structured finance vehicle which satisfies the conditions in article 3(2);</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-structured-finance-vehicle">structured finance vehicle</Term>” means a securitisation undertaking or a covered bond vehicle;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-third-country-insurance-undertaking">third country insurance undertaking</Term>” has the meaning given in Article 13(3) of the solvency II directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-third-country-reinsurance-undertaking">third country reinsurance undertaking</Term>” has the meaning given in Article 13(6) of the solvency II directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-title-transfer-collateral-arrangement">title transfer collateral arrangement</Term>” means an agreement or arrangement, including a repurchase agreement, evidenced in writing, where—</Text>
+											</Para>
+											<OrderedList Type="alpha" Decoration="parens">
+												<ListItem NumberOverride="a">
+													<Para>
+														<Text>the collateral provider transfers legal and beneficial ownership in the collateral to a collateral-taker on terms that when the relevant financial obligations are discharged the collateral-taker must transfer legal and beneficial ownership of the collateral (or equivalent collateral) to the collateral provider, and</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="b">
+													<Para>
+														<Text>the purpose of the agreement or arrangement is to secure or otherwise cover the relevant financial obligations owed to the collateral-taker;</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-ucits">UCITS</Term>” has the meaning given in Article 1.2 of the UCITS directive;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>
+													<Addition ChangeId="key-0e56e3b61c9772aa4905f038724cafbb-1579601389229" CommentaryRef="key-0e56e3b61c9772aa4905f038724cafbb">“</Addition>
+													<Acronym Expansion="United Kingdom">
+														<Addition ChangeId="key-0e56e3b61c9772aa4905f038724cafbb-1579601389229" CommentaryRef="key-0e56e3b61c9772aa4905f038724cafbb">UK</Addition>
+													</Acronym>
+													<Addition ChangeId="key-0e56e3b61c9772aa4905f038724cafbb-1579601389229" CommentaryRef="key-0e56e3b61c9772aa4905f038724cafbb"> deposit-taker” means a body corporate incorporated in the United Kingdom which carries on the regulated activity of accepting deposits in relation to which it has a permission under Part 4A of the 2000 Act;</Addition>
+												</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>“<Term id="term-undertaking">undertaking</Term>” includes a company, body corporate, partnership or unincorporated association.</Text>
+											</Para>
+										</ListItem>
+									</UnorderedList>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Part>
+		</Body>
+	</Secondary>
+	<Commentaries>
+		<Commentary id="c22188661" Type="F">
+			<Para>
+				<Text>“Ring-fenced body” is defined in section 142A of the Act.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188671" Type="F">
+			<Para>
+				<Text>Directive 2011/61/EU, OJ L174, 1.7.2011, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188681" Type="F">
+			<Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1986/53" id="c00010" Year="1986" Class="UnitedKingdomPublicGeneralAct" Number="53">1986 c. 53</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188691" Type="F">
+			<Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1986/45" id="c00011" Year="1986" Class="UnitedKingdomPublicGeneralAct" Number="45">1986 c.45</Citation>. Schedule 2A was inserted by the <Citation URI="http://www.legislation.gov.uk/id/ukpga/2002/40" id="c00012" Year="2002" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Enterprise Act 2002">Enterprise Act 2002 (c.40)</Citation> s. 250(2) and Schedule 18. Paragraph 1 of that Schedule was amended by SI 2003/1468.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188701" Type="F">
+			<Para>
+				<Text>Directive 2013/36/EU, OJ L 174 27.6.2013, p338.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188711" Type="F">
+			<Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1979/34" id="c00013" Year="1979" Class="UnitedKingdomPublicGeneralAct" Number="34">1979 c. 34</Citation>. Section 31 has been amended by the Co-operative and <Citation URI="http://www.legislation.gov.uk/id/ukpga/2010/7" id="c00014" Year="2010" Class="UnitedKingdomPublicGeneralAct" Number="7" Title="Community Benefit Societies and Credit Unions Act 2010">Community Benefit Societies and Credit Unions Act 2010 (c.7)</Citation>, <CitationSubRef id="c00015" CitationRef="c00014" URI="http://www.legislation.gov.uk/id/ukpga/2010/7/section/2" Operative="true" SectionRef="section-2">section 2</CitationSubRef>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188721" Type="F">
+			<Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/nisi/1985/1205" id="c00016" Class="NorthernIrelandOrderInCouncil" Year="1985" Number="1205">S.I. 1985/1205 (N.I. 12)</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188731" Type="F">
+			<Para>
+				<Text>SI 2001/544. Article 77 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/86" id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="86">S.I. 2010/86</Citation>; 2011/133.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188741" Type="F">
+			<Para>
+				<Text>OJ L 176, 27.6.2013, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188751" Type="F">
+			<Para>
+				<Text>Article 79 of the Regulated Activities Order 2001 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/86" id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="86">S.I. 2010/86</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188761" Type="F">
+			<Para>
+				<Text>OJ L 335, 17.12.2009, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188771" Type="F">
+			<Para>
+				<Text>OJ L 302, 17.11.2009, p32. “UCITS directive” is defined in paragraph 4B of Schedule 3 to the Act.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188781" Type="F">
+			<Para>
+				<Text>OJ L 35, 11.02.2003, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188801" Type="F">
+			<Para>
+				<Text>Defined in section 285(1)(b) of the Act. Paragraphs (b) to (d) of section 285(1) were substituted for the original paragraphs by <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/504" id="c00021" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="504">S.I. 2013/504</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188811" Type="F">
+			<Para>
+				<Text>Defined in section 285(1)(c) of the Act.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188841" Type="F">
+			<Para>
+				<Text>Regulation (EU) No 575/2013/EU, OJ L 176, 27.6.2013, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188851" Type="F">
+			<Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2001/544" id="c00023" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="544">S.I. 2001/544</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188861" Type="F">
+			<Para>
+				<Text>These articles were amended by S.I 2006/1969; 2010/86; 2011/133; 2011/2687, and article 77A was inserted by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/86" id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="86">S.I. 2010/86</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188871" Type="F">
+			<Para>
+				<Text>Article 89 was amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/2383" id="c00026" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="2383">S.I. 2006/2383</Citation>.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c22188881" Type="F">
+			<Para>
+				<Text>Directive 2009/138/EC, OJ L 335, 17.12.2009, p1.</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-e71e440ce1c88a5fcd6579700d1791cb" Type="F">
+			<Para>
+				<Text>Words in art. 1 inserted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00007" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00008" CitationRef="cn9xmn1m3-00007" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00009" CitationRef="cn9xmn1m3-00007" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/a" SectionRef="article-3-2-a" Operative="true">3(2)(a)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-1870cc853e8b4cac79f3f694811c957c" Type="F">
+			<Para>
+				<Text>Words in art. 1 inserted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00016" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00017" CitationRef="cn9xmn1m3-00016" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00018" CitationRef="cn9xmn1m3-00016" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/b" SectionRef="article-3-2-b" Operative="true">3(2)(b)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-0da68ecda5bcd00be360aac829d605dc" Type="F">
+			<Para>
+				<Text>Words in art. 1 inserted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00025" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00026" CitationRef="cn9xmn1m3-00025" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00027" CitationRef="cn9xmn1m3-00025" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/c" SectionRef="article-3-2-c" Operative="true">3(2)(c)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-e710e61c5fa06b044a50cf4867ebef3d" Type="F">
+			<Para>
+				<Text>Words in art. 1 substituted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00034" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00035" CitationRef="cn9xmn1m3-00034" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00036" CitationRef="cn9xmn1m3-00034" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/d" SectionRef="article-3-2-d" Operative="true">3(2)(d)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-4f565ab57f72bc388f72485ef3c37b8c" Type="F">
+			<Para>
+				<Text>Word in art. 1 omitted (1.12.2016) by virtue of <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00043" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00044" CitationRef="cn9xmn1m3-00043" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00045" CitationRef="cn9xmn1m3-00043" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/e" SectionRef="article-3-2-e" Operative="true">3(2)(e)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-f564f0cb6b47af7ecfc57552ab1991cc" Type="F">
+			<Para>
+				<Text>Words in art. 1 inserted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00052" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00053" CitationRef="cn9xmn1m3-00052" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00054" CitationRef="cn9xmn1m3-00052" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/f" SectionRef="article-3-2-f" Operative="true">3(2)(f)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-0e56e3b61c9772aa4905f038724cafbb" Type="F">
+			<Para>
+				<Text>Words in art. 1 inserted (1.12.2016) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2016/1032" id="cn9xmn1m3-00061" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="1032" Title="The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016">The Financial Services and Markets Act 2000 (Ring-fenced Bodies, Core Activities, Excluded Activities and Prohibitions) (Amendment) Order 2016 (S.I. 2016/1032)</Citation>, <CitationSubRef id="cn9xmn1m3-00062" CitationRef="cn9xmn1m3-00061" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cn9xmn1m3-00063" CitationRef="cn9xmn1m3-00061" URI="http://www.legislation.gov.uk/id/uksi/2016/1032/article/3/2/g" SectionRef="article-3-2-g" Operative="true">3(2)(g)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-31a2c0657b2ca7ae526521194ef1d026" Type="F">
+			<Para>
+				<Text>Words in art. 1(4) substituted (28.11.2017) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/1064" id="cna8jztr3-00007" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="1064" Title="The Central Securities Depositories Regulations 2017">The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)</Citation>, <CitationSubRef id="cna8jztr3-00008" CitationRef="cna8jztr3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/1" SectionRef="regulation-1">reg. 1</CitationSubRef>, <CitationSubRef id="cna8jztr3-00009" CitationRef="cna8jztr3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/schedule/paragraph/41/2/a" SectionRef="schedule-paragraph-41-2-a" Operative="true">Sch. para. 41(2)(a)</CitationSubRef> (with <CitationSubRef id="cna8jztr3-00010" CitationRef="cna8jztr3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/7/4" SectionRef="regulation-7-4">regs. 7(4)</CitationSubRef>, <CitationSubRef id="cna8jztr3-00011" CitationRef="cna8jztr3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/9/1" SectionRef="regulation-9-1">9(1)</CitationSubRef>)</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-576dab0712facc261c6a5779331dbf8c" Type="F">
+			<Para>
+				<Text>Words in art. 1(4) substituted (28.11.2017) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/1064" id="cna8jztr3-00018" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="1064" Title="The Central Securities Depositories Regulations 2017">The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)</Citation>, <CitationSubRef id="cna8jztr3-00019" CitationRef="cna8jztr3-00018" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/1" SectionRef="regulation-1">reg. 1</CitationSubRef>, <CitationSubRef id="cna8jztr3-00020" CitationRef="cna8jztr3-00018" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/schedule/paragraph/41/2/b" SectionRef="schedule-paragraph-41-2-b" Operative="true">Sch. para. 41(2)(b)</CitationSubRef> (with <CitationSubRef id="cna8jztr3-00021" CitationRef="cna8jztr3-00018" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/7/4" SectionRef="regulation-7-4">regs. 7(4)</CitationSubRef>, <CitationSubRef id="cna8jztr3-00022" CitationRef="cna8jztr3-00018" URI="http://www.legislation.gov.uk/id/uksi/2017/1064/regulation/9/1" SectionRef="regulation-9-1">9(1)</CitationSubRef>)</Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-4778e9159239c7d2fa51cf5180d0f7b5" Type="F">
+			<Para>
+				<Text>Words in art. 1(4) inserted (30.11.2017) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/1167" id="cna96g5r3-00007" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="1167" Title="The Banking Act 2009 (Service Providers to Payment Systems) Order 2017">The Banking Act 2009 (Service Providers to Payment Systems) Order 2017 (S.I. 2017/1167)</Citation>, <CitationSubRef id="cna96g5r3-00008" CitationRef="cna96g5r3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1167/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cna96g5r3-00009" CitationRef="cna96g5r3-00007" URI="http://www.legislation.gov.uk/id/uksi/2017/1167/article/5/2/a" SectionRef="article-5-2-a" Operative="true">5(2)(a)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="key-4d7597952e13b8e614c3b3bedcef8dcb" Type="F">
+			<Para>
+				<Text>Words in art. 1(4) omitted (30.11.2017) by virtue of <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/1167" id="cna96g5r3-00016" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="1167" Title="The Banking Act 2009 (Service Providers to Payment Systems) Order 2017">The Banking Act 2009 (Service Providers to Payment Systems) Order 2017 (S.I. 2017/1167)</Citation>, <CitationSubRef id="cna96g5r3-00017" CitationRef="cna96g5r3-00016" URI="http://www.legislation.gov.uk/id/uksi/2017/1167/article/1/2" SectionRef="article-1-2">arts. 1(2)</CitationSubRef>, <CitationSubRef id="cna96g5r3-00018" CitationRef="cna96g5r3-00016" URI="http://www.legislation.gov.uk/id/uksi/2017/1167/article/5/2/b" SectionRef="article-5-2-b" Operative="true">5(2)(b)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="M_F_e7404e2d-d8ed-4a00-d47a-bb3b63b91e71" Type="F">
+			<Para>
+				<Text>Year in art. 1(4) substituted (13.1.2018) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2017/752" id="d33e2" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="752" Title="The Payment Services Regulations 2017">The Payment Services Regulations 2017 (S.I. 2017/752)</Citation>, <CitationSubRef id="cc00056" CitationRef="d33e2" URI="http://www.legislation.gov.uk/id/uksi/2017/752/regulation/1/6" SectionRef="regulation-1-6">reg. 1(6)</CitationSubRef>, <CitationSubRef id="cc00057" CitationRef="d33e2" URI="http://www.legislation.gov.uk/id/uksi/2017/752/schedule/8/paragraph/18" Operative="true" SectionRef="schedule-8-paragraph-18">Sch. 8 para. 18</CitationSubRef> (with <CitationSubRef id="cc00058" CitationRef="d33e2" URI="http://www.legislation.gov.uk/id/uksi/2017/752/regulation/3" SectionRef="regulation-3">reg. 3</CitationSubRef>)</Text>
+			</Para>
+		</Commentary>
+	</Commentaries>
+</Legislation>

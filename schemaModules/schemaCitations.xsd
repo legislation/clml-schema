@@ -18,11 +18,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-26</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name			Modification
+			2.4		Karl Rajangam	Documentation update for elements CitationSubRef, Citation and many of its attributes
 			2.0		Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
 			1.5		Jim Mangiafico	Added citation class for EU Official Journal
 			1.4		Colin Mackenzie	Removed definition of attribute group for citation id so it can be simpler for XMetaL but tighter for real validation
@@ -67,6 +68,7 @@
 		<xsd:annotation>
 			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
 				<h:p>Describes a cross-reference to another piece of legislation</h:p>
+				<h:p>There are two levels of citation – main citations that refer to the actual document and sub-references that link to the main citation (or another sub-reference) and which highlight fragments within the cited document.</h:p>
 				<h:p>For local secondary cross-references there may not be enough information to indicate that the target is local. In these cases the non-local version is to be synonymous.</h:p>
 				<h:p>If the Number is missing, there must be a Date. This should only happen for Church Instruments.</h:p>
 			</xsd:documentation>
@@ -75,27 +77,111 @@
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">
 				<xsd:group ref="InlineLegislationCitation" minOccurs="0" maxOccurs="unbounded"/>
 			</xsd:choice>
-			<xsd:attribute name="URI" type="xsd:anyURI" use="optional"/>
-			<xsd:attribute name="Class" type="DocumentMainType" use="required"/>
-			<xsd:attribute name="Locator" type="xsd:string"/>
-			<xsd:attribute name="DOI" type="xsd:string"/>
-			<xsd:attribute name="Year" type="xsd:gYear" use="required"/>
-			<xsd:attribute name="Number" type="xsd:nonNegativeInteger"/>
-			<xsd:attribute name="Date" type="xsd:date"/>
-			<xsd:attribute name="Title" type="xsd:string"/>
-			<xsd:attribute name="SectionRef" type="xsd:NCName"/>
-			<xsd:attribute name="StartSectionRef" type="xsd:NCName"/>
-			<xsd:attribute name="EndSectionRef" type="xsd:NCName"/>
-			<xsd:attribute name="AlternativeNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="WelshNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="ScottishNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="NorthernIrishNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="CommencementNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="LegalNumber" type="xsd:string" use="optional"/>
-			<xsd:attribute name="CommentaryRef" type="xsd:NCName"/>
-			<xsd:attribute name="StartDate" type="xsd:date"/>
-			<xsd:attribute name="EndDate" type="xsd:date"/>
-			<xsd:attribute default="false" name="Prospective" type="xsd:boolean" use="optional"/>
+			<xsd:attribute name="URI" type="xsd:anyURI" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The URI of the cited data</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Class" type="DocumentMainType" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Refers to the class of document being cited, with values like: EnglandAct, UnitedKingdomPublicGeneralAct, ScottishStatutoryInstrument etc.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Locator" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>This provides the URI address for those documents that exist at a known location or by using the other attribute values where the target cannot be calculated. Restraint should be shown in using this attribute.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="DOI" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>This refers to the 'Digital Object Identifier' of the target document.</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Year" type="xsd:gYear" use="required">
+				<xsd:annotation>
+					<xsd:documentation>The Year is one of the attributes used to identify a target document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Number" type="xsd:nonNegativeInteger">
+				<xsd:annotation>
+					<xsd:documentation>The Number is one of the attributes used to identify a target document. And it will always be a non-negative numeric value</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Date" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>The date of the cited document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Title" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>The title of the cited data</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="SectionRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>The section identifier of the cited data</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="StartSectionRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>The starting section identifier for a cited data range</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="EndSectionRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>The ending section identifier for a cited data range</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="AlternativeNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>A number for the cited item in an alternative numbering series. For example, an Order that applies to Northern Ireland would have an alternative number of the format 'NI 11'. For early primary legislation (pre-1963), this will usually hold the regnal year e.g. 7 &amp; 8 Eliz. 2</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="WelshNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The Welsh series number for the cited instrument</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="ScottishNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The Scottish series number for the cited instrument</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="NorthernIrishNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The Northern Ireland series number for the cited instrument</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="CommencementNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The Commencement series number for the cited instrument</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="LegalNumber" type="xsd:string" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>The Legal series number for the cited instrument</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="CommentaryRef" type="xsd:NCName">
+				<xsd:annotation>
+					<xsd:documentation>The commentary identifier for the cited commentary</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="StartDate" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>The start date of the cited provision</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="EndDate" type="xsd:date">
+				<xsd:annotation>
+					<xsd:documentation>The end date of the cited provision</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute default="false" name="Prospective" type="xsd:boolean" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>Boolean value of whether the cited item is prospective</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="CitationElementIDAttributes"/>
 		</xsd:complexType>
@@ -105,7 +191,7 @@
 	<xsd:attributeGroup name="CitationElementIDAttributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
-				<xsd:documentation>A unique identifier in the format c00000</xsd:documentation>
+				<xsd:documentation>This is a unique identifier for the citation. The format is cxxxxx, where xxxxx is a five digit padded number, e.g: c00010, c01353</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<!--
@@ -119,7 +205,11 @@
 	
 	<xsd:element name="CitationSubRef">
 		<xsd:annotation>
-			<xsd:documentation>Describes a text fragment of a citation referring to a specific part of the cited document</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>Describes a text fragment of a citation referring to a specific part of the cited document.</h:p>
+				<h:p>The CitationRef attribute normally links the sub-reference back to a single citation, but it is possible to link to multiple citations by separating the IDs with spaces. It is also possible to link to another sub-reference using the CitationRef attribute.</h:p>
+				<h:p>The main citation reference may become a hyperlink to the cited document and that sub-references may become hyperlinks either back to the main citation or sub-reference, or, by de-referencing the sub-references, could also become links to the target document.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">

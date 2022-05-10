@@ -1,0 +1,166 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2007/542/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/542" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made</dc:identifier>
+		<dc:title>The National Health Service (Optical Charges and Payments) Amendment Regulations 2007</dc:title>
+		<dc:subject>National Health Service (NHS)</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2016-02-03</dc:modified>
+		<dc:subject scheme="SIheading">NATIONAL HEALTH SERVICE, ENGLAND</dc:subject>
+		<dc:description>These Regulations amend the National Health Service (Optical Charges and Payments) Regulations 1997 (“the Optical Regulations”) which provide for payments to be made by means of a voucher system in respect of costs incurred by certain categories of persons in connection with the supply, replacement and repair of optical appliances.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2007/542/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2007/542/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2007/542/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2007/542/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2007/542/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2007/542/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2007/542/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2007/542/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2007/542/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2007/542/contents/made" title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/made" title="Regulation 3"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/2/made" title="Provision; Regulation 2"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/2/made" title="Provision; Regulation 2"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/2/made" title="Provision; Regulation 3(2)"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/2/made" title="Provision; Regulation 3(2)"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2007"/>
+			<ukm:Number Value="542"/>
+			<ukm:Made Date="2007-02-22"/>
+			<ukm:Laid Date="2007-03-02" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2007-04-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780110758787"/>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2007/542/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2007-12-05" URI="http://www.legislation.gov.uk/uksi/2007/542/pdfs/uksiem_20070542_en.pdf" Title="Explanatory Memorandum"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2007-12-05" URI="http://www.legislation.gov.uk/uksi/2007/542/pdfs/uksi_20070542_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="4"/>
+			<ukm:BodyParagraphs Value="4"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/2007/542/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/542/body" NumberOfProvisions="4" NumberFormat="default">
+			<P1group>
+				<Title>Amendments to the Schedules to the <Abbreviation Expansion="National Health Service (Optical Charges and Payments) Regulations 1997 (S.I. 1997/818)">Optical Regulations</Abbreviation></Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/542/regulation/3" id="regulation-3">
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2007/542/regulation/3/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2007/542/regulation/3/1" id="regulation-3-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In Schedule 1 to the Optical Regulations (voucher letter codes and face values-supply and replacement) in column (3) of the table (face value of voucher), for each amount specified in column (1) of the table below substitute the amount specified in relation to it in column (2) of the table below.</Text>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" cols="2">
+										<colgroup span="1">
+											<col width="231.05pt" span="1"/>
+											<col width="231.05pt" span="1"/>
+										</colgroup>
+										<thead>
+											<tr>
+												<th colspan="1" rowspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text><Emphasis>(1)</Emphasis></Text>
+													</Para>
+													<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text><Emphasis>Old amount</Emphasis></Text>
+													</Para>
+												</th>
+												<th colspan="1" rowspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black"><Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text><Emphasis>(2)</Emphasis></Text>
+													</Para>
+													<Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+														<Text><Emphasis>New amount</Emphasis></Text>
+													</Para>
+												</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£33.70</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£34.60</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£51.20</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£52.60</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£74.90</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£76.90</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£169.10</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£173.70</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£58.20</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£59.80</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£74.00</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£76.00</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£95.90</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£98.50</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£185.90</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£190.90</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£173.20</td>
+												<td colspan="1" rowspan="1" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£177.90</td>
+											</tr>
+											<tr>
+												<td colspan="1" rowspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black">£49.20</td>
+												<td colspan="1" rowspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" fo:border-left-style="solid" fo:border-left-width="0.5pt" fo:border-left-color="black" fo:border-right-style="solid" fo:border-right-width="0.5pt" fo:border-right-color="black">£50.50</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+		</Body>
+	</Secondary>
+</Legislation>

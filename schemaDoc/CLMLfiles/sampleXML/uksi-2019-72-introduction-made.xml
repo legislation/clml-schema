@@ -1,0 +1,126 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2019/72/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/72" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2019/72/introduction/made</dc:identifier>
+		<dc:title>The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2019-01-18</dc:modified>
+		<dc:subject scheme="SIheading">EXITING THE EUROPEAN UNION</dc:subject>
+		<dc:subject scheme="SIheading">ANIMALS</dc:subject>
+		<dc:description>These Regulations are made in the exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2) of that Act) arising from the withdrawal of the UK from the European Union.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2019/72/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2019/72/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2019/72/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2019/72/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2019/72/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2019/72/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2019/72/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2019/72/introduction/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2019/72/contents/made" title="Table of Contents"/>
+
+
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2019/72/made" title="Entire legislation"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2019/72/regulation/1/made" title="Provision; Regulation 1"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2019/72/regulation/1/made" title="Provision; Regulation 1"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2019"/>
+			<ukm:Number Value="72"/>
+			<ukm:Sifted Date="2018-10-16"/>
+			<ukm:Made Date="2019-01-17"/>
+			<ukm:Laid Date="2019-01-23" Class="UnitedKingdomParliament"/>
+			<ukm:ISBN Value="9780111178928"/>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2019/72/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/72/pdfs/uksiem_20190072_en.pdf" Date="2019-01-23" Title="UK Explanatory Memorandum" Size="53929"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/72/pdfs/uksi_20190072_en.pdf" Date="2019-01-23" Size="33944"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2019/72/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2019/72/introduction">
+			<Number>2019 No. 72</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Exiting The European Union</Title>
+				</Subject>
+				<Subject>
+					<Title>Animals</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Animals (Scientific Procedures) Act 1986 (<Acronym Expansion="European Union">EU</Acronym> Exit) Regulations 2019</Title>
+			<SiftedDate>
+				<Text>Sift requirements satisfied</Text>
+				<DateText>16th October 2018</DateText>
+			</SiftedDate>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>17th January 2019</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>23rd January 2019</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force in accordance with regulation 1</Text>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018<FootnoteRef Ref="f00001"/>.</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text>The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2018/16" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="2018" Number="0016">2018 c. 16</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

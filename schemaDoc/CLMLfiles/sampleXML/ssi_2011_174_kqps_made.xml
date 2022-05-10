@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/ssi/2011/174" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/ssi/2011/174</dc:identifier>
+    <dc:subject>Ancient monuments</dc:subject>
+    <dc:subject>Listed buildings</dc:subject>
+    <dc:title>The Historic Environment (Amendment) (Scotland) Act 2011 (Commencement No. 1) Order 2011</dc:title>
+    <dc:identifier>urn:isbn:9780111013649</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Queen's Printer for Scotland</dc:publisher>
+    <dc:modified>2014-07-25</dc:modified>
+    <dct:valid>2011-03-03</dct:valid>
+    <dc:subject scheme="SIheading">ANCIENT MONUMENTS</dc:subject>
+    <dc:subject scheme="SIheading">TOWN AND COUNTRY PLANNING</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="order"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2011"/>
+      <ukm:Number Value="174"/>
+      <ukm:ISBN Value="9780111013649"/>
+      <ukm:AlternativeNumber Category="C" Value="14"/>
+      <ukm:Made Date="2011-03-03"/>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsTitle>The Historic Environment (Amendment) (Scotland) Act 2011 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation> 1) Order 2011</ContentsTitle>
+    <ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/ssi/2011/174/article/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Citation</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/ssi/2011/174/article/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Appointed Day</ContentsTitle>
+    </ContentsItem>
+    <ContentsSchedules>
+      <ContentsSchedule ContentRef="schedule" IdURI="http://www.legislation.gov.uk/id/ssi/2011/174/schedule">
+        <ContentsNumber>SCHEDULE</ContentsNumber>
+      </ContentsSchedule>
+    </ContentsSchedules>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2011 No. 174 (C. 14)</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Ancient Monuments</Title>
+        </Subject>
+        <Subject>
+          <Title>Town And Country Planning</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Historic Environment (Amendment) (Scotland) Act 2011 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation> 1) Order 2011</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>3rd March 2011</DateText>
+      </MadeDate>
+      <SecondaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>The Scottish Ministers make the following Order in exercise of the powers conferred by section<Character Name="NonBreakingSpace"/>33(2) and (3) of the Historic Environment (Amendment) (Scotland) Act 2011<FootnoteRef Ref="f00001"/>.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body>
+      <P1group>
+        <Title>Citation</Title>
+        <P1 id="article-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <Text>This Order may be cited as the Historic Environment (Amendment) (Scotland) Act 2011 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation><Character Name="NonBreakingSpace"/>1) Order 2011.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Appointed Day</Title>
+        <P1 id="article-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <P2 id="article-2-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Subject to paragraph<Character Name="NonBreakingSpace"/>(2), the day appointed for the coming into force of the provisions of the Historic Environment (Amendment) (Scotland) Act 2011 specified in column<Character Name="NonBreakingSpace"/>1 of the Schedule (the subject matter of which is described in column<Character Name="NonBreakingSpace"/>2 of the Schedule) is 30th<Character Name="NonBreakingSpace"/>June 2011.</Text>
+              </P2para>
+            </P2>
+            <P2 id="article-2-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>Where a purpose is specified in column<Character Name="NonBreakingSpace"/>3 of the Schedule in relation to any provision, that provision comes into force on 30th June 2011 for that purpose only.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Signee>
+            <PersonName>FIONA HYSLOP</PersonName>
+            <JobTitle>A member of the Scottish Executive</JobTitle>
+            <Address>
+              <AddressLine>St Andrew’s House,</AddressLine>
+              <AddressLine>Edinburgh</AddressLine>
+            </Address>
+            <DateSigned Date="2011-03-03">
+              <DateText>3rd March 2011</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <Schedules>
+      <Schedule id="schedule">
+        <Number>SCHEDULE</Number>
+        <Reference>Article 2</Reference>
+        <ScheduleBody>
+          <Tabular Orientation="portrait">
+            <table cols="3" xmlns="http://www.w3.org/1999/xhtml">
+              <colgroup span="1">
+                <col width="135.9pt" span="1"/>
+                <col width="135.9pt" span="1"/>
+                <col width="149.85pt" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th colspan="1" rowspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Column<Character Name="NonBreakingSpace"/>1</Emphasis>
+                      </Text>
+                    </Para>
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Provisions of <Abbreviation Expansion="Historic Environment (Amendment) (Scotland) Act 2011 asp 3">the Act</Abbreviation></Emphasis>
+                      </Text>
+                    </Para>
+                  </th>
+                  <th colspan="1" rowspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Column<Character Name="NonBreakingSpace"/>2</Emphasis>
+                      </Text>
+                    </Para>
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Subject Matter</Emphasis>
+                      </Text>
+                    </Para>
+                  </th>
+                  <th colspan="1" rowspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Column<Character Name="NonBreakingSpace"/>3</Emphasis>
+                      </Text>
+                    </Para>
+                    <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                      <Text>
+                        <Emphasis>Purpose</Emphasis>
+                      </Text>
+                    </Para>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 1</td>
+                  <td colspan="1" rowspan="1">Recovery of grants for repair, maintenance and upkeep of certain property</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section<Character Name="NonBreakingSpace" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/>5</td>
+                  <td colspan="1" rowspan="1">Powers of entry to inspect condition of scheduled monument</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section<Character Name="NonBreakingSpace" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/>6</td>
+                  <td colspan="1" rowspan="1">Works affecting scheduled monuments: enforcement</td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section<Character Name="NonBreakingSpace" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/>7</td>
+                  <td colspan="1" rowspan="1">Control and management of monuments and land under guardianship</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section<Character Name="NonBreakingSpace" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/>8</td>
+                  <td colspan="1" rowspan="1">Provision of facilities, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation> at ancient monuments</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section<Character Name="NonBreakingSpace" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/>9</td>
+                  <td colspan="1" rowspan="1">Financial support for preservation, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation> of monuments</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 11</td>
+                  <td colspan="1" rowspan="1">Inventories of gardens and designed landscapes and of battlefields</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 12</td>
+                  <td colspan="1" rowspan="1">Development and understanding of matters of historic, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation> interest: grants and loans</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 13</td>
+                  <td colspan="1" rowspan="1">Regulations and orders under the 1979 Act</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 15</td>
+                  <td colspan="1" rowspan="1">Scheduled monument consent: applications, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation></td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 20</td>
+                  <td colspan="1" rowspan="1">Declining to determine an application for listed building consent</td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 23</td>
+                  <td colspan="1" rowspan="1">Stop notice and temporary stop notices</td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 24</td>
+                  <td colspan="1" rowspan="1">Non-compliance with listed building enforcement notice: fixed penalty notice</td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 26</td>
+                  <td colspan="1" rowspan="1">Liability of owner and successors for expenses of urgent works</td>
+                  <td colspan="1" rowspan="1">Only for the purpose of enabling regulations to be made</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 27</td>
+                  <td colspan="1" rowspan="1">Recovery of grants for preservation, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation> of listed buildings and conservation areas</td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 29(1)</td>
+                  <td colspan="1" rowspan="1">Regulations in connection with inquiries, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation></td>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                  <td colspan="1" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">Section 30</td>
+                  <td colspan="1" rowspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format">Regulations and orders under the 1997 Act</td>
+                  <td colspan="1" rowspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black" xmlns:fo="http://www.w3.org/1999/XSL/Format"/>
+                </tr>
+              </tbody>
+            </table>
+          </Tabular>
+        </ScheduleBody>
+      </Schedule>
+    </Schedules>
+    <ExplanatoryNotes>
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Order)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text Hanging="indented">This Order brings into force on 30th<Character Name="NonBreakingSpace"/>June 2011 sections<Character Name="NonBreakingSpace"/>1, 5, 7 to 9, 11 to 13, 27, 29(1) and 30 of the Historic Environment (Amendment) (Scotland) Act 2011 (“<Abbreviation Expansion="Historic Environment (Amendment) (Scotland) Act 2011 asp 3">the Act</Abbreviation>”) for all purposes and sections<Character Name="NonBreakingSpace"/>6, 15, 20, 23, 24 and 26 for the limited purposes of enabling the Scottish Ministers to make, or to make provision by means of, subordinate legislation.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">The Bill for <Abbreviation Expansion="Historic Environment (Amendment) (Scotland) Act 2011 asp 3">the Act</Abbreviation> received Royal Assent on 23rd<Character Name="NonBreakingSpace"/>February 2011. Sections<Character Name="NonBreakingSpace"/>31 to 33 of <Abbreviation Expansion="Historic Environment (Amendment) (Scotland) Act 2011 asp 3">the Act</Abbreviation> came into force the following day.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/asp/2011/3" id="c00001" Class="ScottishAct" Year="2011" Number="0003">2011 asp<Character Name="NonBreakingSpace"/>3</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

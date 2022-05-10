@@ -1,0 +1,1654 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263" NumberOfProvisions="46" RestrictEndDate="2016-08-03" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2013-04-01"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2005/263/2013-04-01</dc:identifier><dc:title>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</dc:title><dc:subject>Waste policies and regulation</dc:subject><dc:subject>Environmental protection</dc:subject><dc:subject>Regulation and deregulation</dc:subject><dc:subject scheme="SIheading">ENVIRONMENTAL PROTECTION</dc:subject><dc:publisher>Statute Law Database</dc:publisher><dc:contributor>Expert Participation</dc:contributor><dc:modified>2021-02-03</dc:modified><dc:contributor>Expert Participation</dc:contributor><dct:valid>2013-04-01</dct:valid>
+					<dc:description>These Regulations implement Articles 5(1), (2), (4) and 7 of Directive 2000/53/EC of the European Parliament and the Council on end-of-life vehicles (OJ No. L269, 21.10.2000, p.34) (“the Directive”).</dc:description>
+					<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2005/263/resources" title="More Resources"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2005/263/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2005/263/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2005/263/introduction/2013-04-01" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2005/263/signature/2013-04-01" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2005/263/note/2013-04-01" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2005/263/body/2013-04-01" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2005/263/schedules/2013-04-01" title="schedules"/>
+					
+										
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2005/263/2013-04-01/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2005/263/pdfs/uksi_20050263_en.pdf" type="application/pdf" title="Print Version"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2005/263/contents/2013-04-01" title="Table of Contents"/>
+					
+					<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/uksi/2005/263/2011-03-29" title="2011-03-29"/><atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/uksi/2005/263/2016-08-03" title="2016-08-03"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/made" title="made"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2005-03-03" title="2005-03-03"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2010-07-01" title="2010-07-01"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2011-03-27" title="2011-03-27"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2011-03-29" title="2011-03-29"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2016-08-03" title="2016-08-03"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2018-05-20" title="2018-05-20"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2018-09-17" title="2018-09-17"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2019-02-28" title="2019-02-28"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2020-09-01" title="2020-09-01"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263/2020-10-01" title="2020-10-01"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2005/263" title="current"/>
+					
+					
+					<ukm:SecondaryMetadata><ukm:DocumentClassification><ukm:DocumentCategory Value="secondary"/><ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/><ukm:DocumentStatus Value="revised"/><ukm:DocumentMinorType Value="regulation"/></ukm:DocumentClassification><ukm:Year Value="2005"/><ukm:Number Value="263"/><ukm:Made Date="2005-02-08"/><ukm:Laid Date="2005-02-09" Class="UnitedKingdomParliament"/><ukm:ComingIntoForce>
+<ukm:DateTime Date="2005-03-03"/>
+</ukm:ComingIntoForce><ukm:ISBN Value="0110722159"/><ukm:UnappliedEffects><ukm:UnappliedEffect EffectId="key-aa4ec3932efd5b8ab116c035d5edf531" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8b4586d2edf534a61a20dbccce5ddf49" Row="62" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(a)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-a" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/a">reg. 10(2)(a)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-c3e0f2e5758ff1f79711935327f43452" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-bdac843b6592b92bb66e5afdc8d9a8c8" Row="63" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(b)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/b">reg. 10(2)(b)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-9ef6e033a1cd75a4ff543ee4cb6a67c2" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-b6bb4c9eb1626cd3c62194239d3c33c8" Row="64" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(c)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-c" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/c">reg. 10(2)(c)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-0957324be7e87f4b1d2da5f5f9fb8518" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-482c433153284b0fad394a2961e3262f" Row="65" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(d)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-d" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/d">reg. 10(2)(d)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-9f9e760467c367c7f8e3a1459d4f6b39" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-53a90dfabd7a675980a1cf5b83df86a0" Row="66" Type="words inserted" RequiresApplied="false" AffectedProvisions="reg. 2" Notes="This amendment not applied to legislation.gov.uk. Reg. 10(2)(e) omitted (1.9.2020) by virtue of S.I. 2020/818, reg. 1(b), Sch. 6 para. 36" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(e)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-e" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/e">reg. 10(2)(e)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-4e9c9f71814c1be0bbb7baec1163867e" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-885d01eb291b28a637fed47a60186d28" Row="67" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(2)(f)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2">reg. 2</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-2-f" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/2/f">reg. 10(2)(f)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-540e576f60fcea1aa4eb8d8c7ae4405c" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e3f1fe55ec7224b329b915d6de398185" Row="68" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 2A-2C" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(3)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:SectionRange xmlns:err="http://www.legislation.gov.uk/namespaces/error" Start="regulation-2A" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2A" err:Start="Section missing in legislation" MissingStart="true" End="regulation-2C" UpTo="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2C" err:End="Section missing in legislation" MissingEnd="true" Missing="true"><ukm:Section Ref="regulation-2A" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2A" err:Ref="Section missing in legislation" Missing="true">reg. 2A</ukm:Section>-<ukm:Section Ref="regulation-2C" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2C" err:Ref="Section missing in legislation" Missing="true">2C</ukm:Section></ukm:SectionRange></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-3" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/3">reg. 10(3)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-ccbb1b513ed8f0296aa9563b8996a045" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d95d977e537f3ffbf59328a049b3c007" Row="69" Type="words omitted" RequiresApplied="false" AffectedProvisions="reg. 3(2)" Notes="This amendment not applied to legislation.gov.uk. Reg. 10(4) substituted immediately before IP completion day by S.I. 2020/1540, regs. 1(3), 11(4)(d)" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(4)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-3-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/3/2">reg. 3(2)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-4" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/4">reg. 10(4)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-cb57d11b93f212ee55fd3a9513a5ac9f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f3308e4f90d8cabed00f0e6630ca2c10" Row="70" Type="substituted" RequiresApplied="true" AffectedProvisions="reg. 4 heading" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(5)(a)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/4">reg. 4</ukm:Section> heading</ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-5-a" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/5/a">reg. 10(5)(a)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-1c2c0391855e7f752b367a214258a500" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8b41136b25b74c2ebacb4a1760d7f80e" Row="71" Type="words substituted" RequiresApplied="false" AffectedProvisions="reg. 4" Notes="This amendment not applied to legislation.gov.uk. Reg. 10(5)(b) substituted immediately before IP completion day by S.I. 2020/1540, regs. 1(3), 11(4)(e)" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(5)(b)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/4">reg. 4</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-5-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/5/b">reg. 10(5)(b)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-5e4f560fa1aff5c010d5d492a440a5b1" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d59eba7690407bcf19a2934fe8decb26" Row="72" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 5" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(6)(a)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-5" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/5">reg. 5</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-6-a" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/6/a">reg. 10(6)(a)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-cd09eb411c3768434f638e5fb2d5a57a" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/188" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-7618d5c4c5bdc3ba6177c176e2c226ab" Row="73" Type="words substituted" RequiresApplied="false" AffectedProvisions="reg. 5" Notes="This amendment not applied to legislation.gov.uk. Reg. 10(6)(b) omitted (1.9.2020) by virtue of S.I. 2020/818, reg. 1(b), Sch. 6 para. 36" Comments="IP completion day" AffectedExtent="E+W+S+N.I." AffectingEffectsExtent="Same as affected" AppendedCommentary="(as amended by S.I. 2020/1540, regs. 1(2), 11(2)); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="188" AffectingProvisions="reg. 10(6)(b)" AffectedYear="2005" AffectedNumber="263" Modified="2021-03-10T14:58:28Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-5" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/5">reg. 5</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-10-6-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/10/6/b">reg. 10(6)(b)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/188/regulation/1/2/b">reg. 1(2)(b)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-0761742ce2109661d3f443efa1f4ee38" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-50" Row="50" Type="words substituted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2A(2)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(a)(i)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2A-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2A/2" err:Ref="Section missing in legislation" Missing="true">reg. 2A(2)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-a-i" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/a/i">reg. 11(4)(a)(i)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-879a63fc9ab9e55d1260e476c90fa0f9" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-52" Row="52" Type="substituted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2A(5)(a)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(a)(ii)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2A-5-a" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2A/5/a" err:Ref="Section missing in legislation" Missing="true">reg. 2A(5)(a)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-a-ii" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/a/ii">reg. 11(4)(a)(ii)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-15f6ff620cd927f1b301ef60a5672a61" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-54" Row="54" Type="omitted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2A(6)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(a)(iii)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2A-6" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2A/6" err:Ref="Section missing in legislation" Missing="true">reg. 2A(6)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-a-iii" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/a/iii">reg. 11(4)(a)(iii)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-0d5ba442384d57ab4956756736e73c31" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-56" Row="56" Type="words substituted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2B(2)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(b)(i)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2B-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/2" err:Ref="Section missing in legislation" Missing="true">reg. 2B(2)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-b-i" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/b/i">reg. 11(4)(b)(i)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-e41171b977a8b90aee29b69c1b223ca9" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-58" Row="58" Type="omitted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2B(3)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(b)(ii)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2B-3" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/3" err:Ref="Section missing in legislation" Missing="true">reg. 2B(3)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-b-ii" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/b/ii">reg. 11(4)(b)(ii)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-aa3a1acf7aafe5400eb8bc0b41c470fb" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-60" Row="60" Type="substituted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2B(4)-(6)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(b)(iii)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:SectionRange xmlns:err="http://www.legislation.gov.uk/namespaces/error" Start="regulation-2B-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/4" err:Start="Section missing in legislation" MissingStart="true" End="regulation-2B-6" UpTo="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/6" err:End="Section missing in legislation" MissingEnd="true" Missing="true"><ukm:Section Ref="regulation-2B-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/4" err:Ref="Section missing in legislation" Missing="true">reg. 2B(4)</ukm:Section>-<ukm:Section Ref="regulation-2B-6" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/6" err:Ref="Section missing in legislation" Missing="true">(6)</ukm:Section></ukm:SectionRange></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-b-iii" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/b/iii">reg. 11(4)(b)(iii)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-32ffa0b10d254003a8675e598921cf94" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-62" Row="62" Type="omitted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2B(7)(8)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(b)(iv)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2B-7" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/7" err:Ref="Section missing in legislation" Missing="true">reg. 2B(7)</ukm:Section><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2B-8" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2B/8" err:Ref="Section missing in legislation" Missing="true">(8)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-b-iv" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/b/iv">reg. 11(4)(b)(iv)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-a1999c0206203d44216ef7e8aa3163d3" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-64" Row="64" Type="omitted in earlier amending provision S.I. 2019/188, reg. 10(3)" RequiresApplied="true" AffectedProvisions="reg. 2C" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(c)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-2C" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2C" err:Ref="Section missing in legislation" Missing="true">reg. 2C</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-c" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/c">reg. 11(4)(c)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-220960afea76094de48a826cce6d38be" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-66" Row="66" Type="words substituted by S.I. 2019/188, reg. 10(4) (as substituted)" RequiresApplied="true" AffectedProvisions="reg. 3(2)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(d)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-3-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/3/2">reg. 3(2)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-d" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/d">reg. 11(4)(d)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-f5ebd6f487d794bd1a1bb534559c88ad" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-68" Row="68" Type="words substituted by S.I. 2019/188, reg. 10(5)(b) (as substituted)" RequiresApplied="true" AffectedProvisions="reg. 4" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(e)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/4">reg. 4</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-e" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/e">reg. 11(4)(e)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect><ukm:UnappliedEffect EffectId="key-14f5b8b7f9551819bc4c50467ea851a4" AffectedURI="http://www.legislation.gov.uk/id/uksi/2005/263" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2020/1540" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2020-1540-3q0ekl54-70" Row="70" Type="words substituted by S.I. 2019/188, reg. 10(7) (as inserted)" RequiresApplied="true" AffectedProvisions="reg. 12(1)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2020" AffectingNumber="1540" AffectingProvisions="reg. 11(4)(f)" AffectedYear="2005" AffectedNumber="263" Created="2021-02-24T13:04:01Z" Modified="2021-02-24T13:04:01Z"><ukm:AffectedTitle>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</ukm:AffectedTitle><ukm:AffectedProvisions><ukm:Section Ref="regulation-12-1" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/1">reg. 12(1)</ukm:Section></ukm:AffectedProvisions><ukm:AffectingTitle>The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020</ukm:AffectingTitle><ukm:AffectingProvisions><ukm:Section Ref="regulation-11-4-f" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/11/4/f">reg. 11(4)(f)</ukm:Section></ukm:AffectingProvisions><ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2020/1540/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority><ukm:InForceDates><ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/></ukm:InForceDates></ukm:UnappliedEffect></ukm:UnappliedEffects></ukm:SecondaryMetadata>
+					
+
+                    
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/notes"/><ukm:Alternatives><ukm:Alternative Date="2008-12-08" URI="http://www.legislation.gov.uk/uksi/2005/263/pdfs/uksiem_20050263_en.pdf" Title="Explanatory Memorandum"/></ukm:Alternatives>       
+								</ukm:Notes> 
+					<ukm:Alternatives>
+      <ukm:Alternative Date="2008-12-08" URI="http://www.legislation.gov.uk/uksi/2005/263/pdfs/uksi_20050263_en.pdf" Title="Print Version"/>
+   </ukm:Alternatives>
+					
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="49"/>
+									<ukm:BodyParagraphs Value="29"/>
+									<ukm:ScheduleParagraphs Value="20"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><Secondary>
+<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/introduction/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/introduction" RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+<Number>2005 No. 263</Number>
+<SubjectInformation><Subject>
+<Title>ENVIRONMENTAL PROTECTION</Title>
+</Subject>
+</SubjectInformation>
+<Title>The End-of-Life Vehicles (Producer Responsibility) Regulations 2005</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>8th February 2005</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>9th February 2005</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>3rd March 2005</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State, being a Minister designated <FootnoteRef Ref="f00001"/> for the purposes of section 2(2) of the European Communities Act 1972 <FootnoteRef Ref="f00002"/> in respect of matters relating to the prevention of waste from vehicles and forms of recovery of end-of-life vehicles and their components, in exercise of the powers conferred upon her by that section, hereby makes the following Regulations:—</Text>
+</Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/body/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/body" NumberOfProvisions="29" RestrictExtent="E+W+S+N.I." NumberFormat="default" RestrictStartDate="2013-04-01">
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Citation and commencement</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/1" id="regulation-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as the End-of-Life Vehicles (Producer Responsibility) Regulations 2005 and shall come into force on 3rd March 2005.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictEndDate="2016-08-03" RestrictExtent="E+W+S+N.I." RestrictStartDate="2011-03-29">
+				<Title>Interpretation</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/2" id="regulation-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>In these Regulations—</Text>
+						<UnorderedList Decoration="none" Class="Definition">
+							<ListItem>
+								<Para>
+									<Text>“the Directive” means Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2000/0053" id="c00001" Class="EuropeanUnionDirective" Year="2000" Number="53">2000/53/<Acronym Expansion="European Community">EC</Acronym></Citation> of the European Parliament and of the Council on end-of-life vehicles <FootnoteRef Ref="f00003"/>;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds a site licence that meets the requirements of</Text>
+									<OrderedList Decoration="parens" Type="alpha">
+										<ListItem>
+											<Para>
+												<Text>in England and Wales, Part VII and Schedule 5 of the End-of-Life Vehicles Regulations 2003 <FootnoteRef Ref="f00004"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>in Scotland, regulations 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 <FootnoteRef Ref="f00005"/>;</Text>
+											</Para>
+										</ListItem>
+										<ListItem>
+											<Para>
+												<Text>in Northern Ireland, regulation 26 and Schedule 5 of the Waste Management Licensing Regulations (Northern Ireland) 2003 <FootnoteRef Ref="f00006"/>;</Text>
+											</Para>
+										</ListItem>
+									</OrderedList>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“certificate of compliance” means the type of certificate referred to in regulation 19;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“certificate of destruction” means the type of certificate referred to in Part V of the End-of-Life Vehicles Regulations 2003;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“compliance notice” means the notice referred to in regulation 16;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text><Repeal ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726440" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" RetainText="true" SubstitutionRef="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" Extent="S">“end-of-life vehicle” means a vehicle which is waste within the meaning of </Repeal><Repeal ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726440" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" RetainText="true" SubstitutionRef="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" Extent="S"><Repeal ChangeId="key-6da4238e2e8549789e26d383579a05db-1489661206694" CommentaryRef="key-6da4238e2e8549789e26d383579a05db" RetainText="true" SubstitutionRef="key-6da4238e2e8549789e26d383579a05db-1489661206695" Extent="E+W">Article 1(a)</Repeal></Repeal>
+										<Repeal ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726440" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" RetainText="true" SubstitutionRef="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" Extent="S"><Addition ChangeId="key-6da4238e2e8549789e26d383579a05db-1489661206695" CommentaryRef="key-6da4238e2e8549789e26d383579a05db" Extent="E+W">Article 3(1)</Addition></Repeal><Repeal ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726440" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" RetainText="true" SubstitutionRef="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" Extent="S"> of the Waste Directive;</Repeal>
+									</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text><Addition ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" Extent="S">“end-of-life vehicle” means a vehicle which is waste within the meaning of Article</Addition><Character Name="NonBreakingSpace"/><Addition ChangeId="key-d5a2352cd3f93d5eb283f5e18f75abce-1489660726441" CommentaryRef="key-d5a2352cd3f93d5eb283f5e18f75abce" Extent="S">3(1) of the Waste Directive;</Addition></Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text> “producer” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text><Repeal ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243007" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" RetainText="true" SubstitutionRef="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" Extent="E+W">“recovery” means any of the applicable operations provided for in </Repeal><Repeal ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243007" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" RetainText="true" SubstitutionRef="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" Extent="E+W"><Repeal ChangeId="key-c3a5bd59e861d0c438e49cb98f67459d-1489660696286" CommentaryRef="key-c3a5bd59e861d0c438e49cb98f67459d" RetainText="true" SubstitutionRef="key-c3a5bd59e861d0c438e49cb98f67459d-1489660696287" Extent="S">Annex IIB</Repeal></Repeal>
+										<Repeal ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243007" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" RetainText="true" SubstitutionRef="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" Extent="E+W"><Addition ChangeId="key-c3a5bd59e861d0c438e49cb98f67459d-1489660696287" CommentaryRef="key-c3a5bd59e861d0c438e49cb98f67459d" Extent="S">Annex </Addition></Repeal><Acronym Expansion="2"><Repeal ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243007" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" RetainText="true" SubstitutionRef="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" Extent="E+W"><Addition ChangeId="key-c3a5bd59e861d0c438e49cb98f67459d-1489660696287" CommentaryRef="key-c3a5bd59e861d0c438e49cb98f67459d" Extent="S">II</Addition></Repeal></Acronym><Repeal ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243007" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" RetainText="true" SubstitutionRef="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" Extent="E+W"> to the Waste Directive;</Repeal></Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>
+										<Addition ChangeId="key-62fa1e3b4075c90500ecf8b849b115ca-1489661243008" CommentaryRef="key-62fa1e3b4075c90500ecf8b849b115ca" Extent="E+W">“recovery” has the meaning given by Article 3(15) of the Waste Directive;</Addition>
+									</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“recycling” means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“reuse” means any operation by which components of end-of-life vehicles are used for the same purpose for which they were conceived;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“treatment” means any activity after the end-of-life vehicle has been handed over to a facility for depollution, dismantling, shearing, shredding, recovery or preparation for disposal of the shredder wastes, and any other operation carried out for the recovery and/or disposal of the end-of-life vehicle and its components; and “treat” and “treated” shall be construed accordingly;</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>“vehicle” means any vehicle designated as category M<Inferior>I</Inferior> or N<Inferior>I</Inferior> defined in Annex IIA to Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00002" Class="EuropeanEconomicCommunityDirective" Year="1970" Number="156">70/156/<Acronym Expansion="European Economic Community">EEC</Acronym></Citation> relating to the type-approval of motor vehicles and their trailers <FootnoteRef Ref="f00007"/>, and three-wheel motor vehicles as defined in Council Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2002/0024" id="c00003" Class="EuropeanUnionDirective" Year="2002" Number="24">2002/24/EC</Citation> relating to the type-approval of two- or three-wheel motor vehicles <FootnoteRef Ref="f00008"/>, but excluding motor tricycles; and</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text><Repeal ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357992" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" RetainText="true" SubstitutionRef="key-75862c628c01c3832590acc5139fabb1-1489661357993" Extent="E+W">“the Waste Directive” means Council Directive </Repeal><Citation URI="http://www.legislation.gov.uk/european/directive/1975/0442" id="c00004" Class="EuropeanUnionDirective" Year="1975" Number="442"><Repeal ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357992" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" RetainText="true" SubstitutionRef="key-75862c628c01c3832590acc5139fabb1-1489661357993" Extent="E+W">75/442/</Repeal><Repeal ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357992" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" RetainText="true" SubstitutionRef="key-75862c628c01c3832590acc5139fabb1-1489661357993" Extent="E+W">EC</Repeal></Citation><Repeal ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357992" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" RetainText="true" SubstitutionRef="key-75862c628c01c3832590acc5139fabb1-1489661357993" Extent="E+W"> on waste </Repeal><FootnoteRef Ref="f00009"/><Repeal ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357992" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" RetainText="true" SubstitutionRef="key-75862c628c01c3832590acc5139fabb1-1489661357993" Extent="E+W">. </Repeal>
+									</Text>
+								</Para>
+							</ListItem>
+							<ListItem>
+								<Para>
+									<Text>
+										<Addition ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357993" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" Extent="E+W">“the Waste Directive” means Directive </Addition><Citation URI="http://www.legislation.gov.uk/european/directive/2008/0098" id="c00027" Class="EuropeanUnionDirective" Year="2008" Number="98"><Addition ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357993" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" Extent="E+W">2008/98/</Addition><Addition ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357993" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" Extent="E+W">EC</Addition></Citation><Addition ChangeId="key-75862c628c01c3832590acc5139fabb1-1489661357993" CommentaryRef="key-75862c628c01c3832590acc5139fabb1" Extent="E+W"> of the European Parliament and of the Council on waste.</Addition></Text>
+								</Para>
+							</ListItem>
+						</UnorderedList>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Vehicles and End-of-Life Vehicles to which these Regulations apply</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/3" id="regulation-3">
+					<Pnumber>3</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/3/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/3/1" id="regulation-3-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>These Regulations apply to vehicles and end-of-life vehicles including their components and materials.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/3/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/3/2" id="regulation-3-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The Regulations shall apply irrespective of how the vehicle has been serviced or repaired during use and irrespective of whether it is equipped with components supplied by the producer or with other components whose fitting as spare or replacement parts accords with the appropriate Community or domestic provisions.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Existing Community legislation and relevant national legislation</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/4" id="regulation-4">
+					<Pnumber>4</Pnumber>
+					<P1para>
+						<Text>Nothing in these Regulations shall affect the application of existing Community legislation and relevant national legislation, in particular as regards safety standards, air emissions, noise controls and the protection of soil and water.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictEndDate="2018-09-17" RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Special-purpose vehicles</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/5" id="regulation-5">
+					<Pnumber>5</Pnumber>
+					<P1para>
+						<Text>Regulations 18 to 20 shall not apply to special-purpose vehicles as defined in the second indent of Article 4(1)(a) of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00005" Class="EuropeanEconomicCommunityDirective" Year="1970" Number="156">70/156/EEC</Citation>.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Three-wheel motor vehicles</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/6" id="regulation-6">
+					<Pnumber>6</Pnumber>
+					<P1para>
+						<Text>The following regulations shall not apply to three-wheel motor vehicles —</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/6/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/6/a" id="regulation-6-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>10(6); and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/6/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/6/b" id="regulation-6-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>18 to 20.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Registration and declaration of responsibility by producers</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7" id="regulation-7">
+					<Pnumber>7</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/1" id="regulation-7-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>By 30th April 2005 each producer shall apply to the Secretary of State for registration and declare responsibility for those vehicles which he has placed on the market before the date of his application for registration.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/2" id="regulation-7-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>From 1st May 2005 each producer shall apply to the Secretary of State for registration and declare responsibility for those vehicles which he places on the market, which were not the subject of a previous application for registration under paragraph (1), within six months of placing those vehicles on the market.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/3" id="regulation-7-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Where a producer who has made a declaration under this regulation subsequently ceases to place vehicles on the market he shall inform the Secretary of State within 28 days of the change in his circumstances.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/4" id="regulation-7-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>An application by a producer to register shall—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/4/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/4/a" id="regulation-7-4-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>be made in writing; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/4/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/4/b" id="regulation-7-4-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>contain at least the information set out in Schedule 1.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/5" id="regulation-7-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>The details provided by a producer in compliance with the obligations referred to in paragraphs (1), (2), (3) and (4) shall be included in the register of producers to be maintained by the Secretary of State for the purposes of these Regulations.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/6" id="regulation-7-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>Subject to regulation 9, a producer who has made a declaration under this regulation shall be treated as remaining responsible for the vehicles in respect of which a declaration has been made.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/7/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/7" id="regulation-7-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>Where a producer’s application for registration meets the requirements of paragraph (4), the Secretary of State shall, within—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/7/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/7/a" id="regulation-7-7-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>21 days of receipt of the application for registration made under paragraph (1); and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/7/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/7/b" id="regulation-7-7-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>28 days of receipt of the application for registration made under paragraph (2),</Text>
+									</P3para>
+								</P3>
+								<Text>notify the producer that his application for registration has been granted.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/8/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/8" id="regulation-7-8">
+							<Pnumber>8</Pnumber>
+							<P2para>
+								<Text>Where a producer’s application for registration is refused, the Secretary of State shall notify the producer in writing within 28 days of that decision together with the reasons for the decision.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/7/9/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/7/9" id="regulation-7-9">
+							<Pnumber>9</Pnumber>
+							<P2para>
+								<Text>A registered producer shall inform the Secretary of State of any change in circumstances which relate to his registration (except those mentioned in regulation 8) within 28 days of the occurrence of any change.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>The Secretary of State’s decision to ascribe responsibility to a producer in respect of vehicles placed on the market</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8" id="regulation-8">
+					<Pnumber>8</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/1" id="regulation-8-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In the circumstances where vehicles have been placed on the market but no producer has made a declaration of responsibility in accordance with the requirements of regulation 7, the Secretary of State may ascribe responsibility in respect of any of those vehicles to a producer.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/2" id="regulation-8-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Where the Secretary of State makes a decision to ascribe responsibility to a producer under paragraph (1), she shall send to the producer a notice in writing of her decision within 14 days of having made that decision.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/3" id="regulation-8-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>In reaching her decision under <Substitution ChangeId="key-fb2ebf920882d0a560209823d1826329-1489657742880" CommentaryRef="key-fb2ebf920882d0a560209823d1826329">paragraph (1)</Substitution> the Secretary of State may take into account the matters referred to in Schedule 2.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/4" id="regulation-8-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The notice referred to in paragraph (2) shall include the following—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/4/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/4/a" id="regulation-8-4-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>a description of the vehicle to which it relates;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/4/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/4/b" id="regulation-8-4-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if available, information indicating when the vehicle referred to in sub-paragraph (a) was placed on the market;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/4/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/4/c" id="regulation-8-4-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the reasons for the Secretary of State’s decision to ascribe responsibility;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/4/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/4/d" id="regulation-8-4-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>a statement notifying the producer of his obligations under these Regulations.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/5" id="regulation-8-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Where the Secretary of State makes a decision to ascribe responsibility under paragraph (1), she shall notify the producer that he may make representations to her within a period of 28 days of the date of the notice referred to in paragraph (2) if he objects to the decision.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/6" id="regulation-8-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>If the Secretary of State considers it appropriate to do so, whether in consequence of any representations or proposals made to her under paragraph (5), or otherwise, she may —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/6/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/6/a" id="regulation-8-6-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>revoke the decision which she has made under paragraph (1);</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/6/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/6/b" id="regulation-8-6-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>without revoking her decision, at any time modify the terms of the notice referred to in paragraph (2), in such manner as she considers appropriate.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/8/7/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/7" id="regulation-8-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>Where a vehicle is placed on the market and no producer makes a declaration of responsibility under regulation 7, and the Secretary of State does not ascribe responsibility to a producer under paragraph (1), that vehicle may be subject to an agreement as referred to in regulation 26.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Transfer of a producer’s business to another</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9" id="regulation-9">
+					<Pnumber>9</Pnumber>
+					<P1para>
+						<Text>Where the business of a producer is transferred in whole or in part to another person—</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9/a" id="regulation-9-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>that producer shall be treated as remaining responsible for those vehicles in respect of which he has made a declaration under regulation 7, or in respect of which the Secretary of State has ascribed responsibility to him under regulation 8, unless he is able to demonstrate to the Secretary of State that the person to whom the business has been transferred has agreed to meet the producer’s obligations in respect of those vehicles under these Regulations; and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9/b" id="regulation-9-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>the person to whom the whole or part of a business is transferred shall be treated as a producer for the purposes of these Regulations, and shall—</Text>
+								<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/b/i/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9/b/i" id="regulation-9-b-i">
+									<Pnumber>i</Pnumber>
+									<P4para>
+										<Text>apply to the Secretary of State for registration under regulation 7(2);</Text>
+									</P4para>
+								</P4>
+								<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/b/ii/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9/b/ii" id="regulation-9-b-ii">
+									<Pnumber>ii</Pnumber>
+									<P4para>
+										<Text>submit details of the system for collection of end-of-life vehicles which he has established under regulation 10; and</Text>
+									</P4para>
+								</P4>
+								<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/9/b/iii/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/9/b/iii" id="regulation-9-b-iii">
+									<Pnumber>iii</Pnumber>
+									<P4para>
+										<Text>attain the targets for reuse, recovery and recycling in regulation 18.</Text>
+									</P4para>
+								</P4>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Producer’s obligation to establish and submit details of his system for collection</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10" id="regulation-10">
+					<Pnumber>10</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/1" id="regulation-10-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Each producer shall establish a system for the collection of the vehicles for which he has declared responsibility for placing on the market under regulation 7, or for which the Secretary of State has ascribed responsibility to him under regulation 8, which the producer anticipates will become end-of-life vehicles.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/2" id="regulation-10-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Each producer shall submit to the Secretary of State an application for approval of the system he has established for the collection of the vehicles referred to in paragraph (1) and where—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/2/a" id="regulation-10-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>a producer has declared responsibility for placing vehicles on the market under regulation 7(1), the application shall be made before 31st August 2005;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/2/b" id="regulation-10-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>a producer has declared responsibility for placing vehicles on the market under regulation 7(2), the application shall be made within six months of placing those vehicles on the market;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/2/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/2/c" id="regulation-10-2-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the Secretary of State has ascribed responsibility to a producer in respect of vehicles placed on the market under regulation 8, the application shall be made within three months of the producer receiving notice of the Secretary of State’s decision.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/3" id="regulation-10-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>When submitting an application under paragraph (2), each producer shall submit to the Secretary of State details of the system for collection of vehicles, as set out in Schedule 3, which he has established to meet the obligation referred to in paragraph (1).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/4" id="regulation-10-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Where there is a significant change in the details relating to the system for collection submitted by a producer under regulation 10(3), the producer shall inform the Secretary of State within 28 days of changing the details of the system for collection and submit a revised application for approval of his system for collection under paragraph (2).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/5" id="regulation-10-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Where the Secretary of State believes that there is a significant change in the details relating to a producer’s system for collection which has been submitted in compliance with paragraph (3), she shall send him notice of his obligation to submit a revised application for approval under paragraph (2) within 28 days of his receipt of that notice.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/6" id="regulation-10-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>From 1st January 2007, where an end-of-life vehicle has no market value no charge shall be imposed on the last owner or holder of that end-of-life vehicle when it is delivered to a system for collection provided by the producer in compliance with his obligations under paragraph (1).</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/10/7/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/10/7" id="regulation-10-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>The requirements of paragraph (6) shall not apply where the vehicle does not contain the essential components of a vehicle, in particular the engine, transmission, coachwork, wheels or catalytic converter, if a catalytic converter formed part of the vehicle when it was placed on the market, or contains waste which has been added to it.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Accessibility of the system for collection</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/11/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/11" id="regulation-11">
+					<Pnumber>11</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/11/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/11/1" id="regulation-11-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Each producer shall ensure that, as regards vehicles for which he has declared responsibility for placing on the market under regulation 7, or for which the Secretary of State has ascribed responsibility to him under regulation 8, his system for collection as referred to in regulation 10 is reasonably accessible to any person who wishes to deliver to it an end-of-life vehicle for which that producer is responsible.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/11/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/11/2" id="regulation-11-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Notwithstanding the requirements of paragraph (1), a producer may make alternative arrangements for the collection of vehicles referred to in regulation 10, provided those arrangements are at least as convenient for the last owner or holder of the vehicle as the requirement for delivery referred to in paragraph (1).</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Capacity of a network of authorised treatment facilities</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12" id="regulation-12">
+					<Pnumber>12</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/1" id="regulation-12-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The authorised treatment facilities which comprise all or part of a producer’s system for collection of vehicles shall contain sufficient capacity to treat, in accordance with the requirements of Article 6 and Annex I of the Directive, the number of that producer’s vehicles which are likely to become end-of-life vehicles in 2006 and in each year thereafter.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/2" id="regulation-12-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>From 1st January 2007 it shall be a requirement of any agreement between a producer and an owner or operator of an authorised treatment facility which forms part of that producer’s system for collection that—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/2/a" id="regulation-12-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>where an authorised treatment facility accepts delivery of an end-of-life vehicle to which the agreement applies and which has no market value, no charge shall be imposed upon the last owner or holder of that vehicle; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/2/b" id="regulation-12-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>an authorised treatment facility which is part of a producer’s system for collection shall accept delivery of any end-of-life vehicle which is within the terms of that agreement.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/12/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/12/3" id="regulation-12-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The requirements of paragraph (2)(a) shall not apply where the end-of-life vehicle does not contain the essential components of a vehicle, in particular the engine, transmission, coachwork, wheels or catalytic converter, if a catalytic converter formed part of the vehicle when it was placed on the market, or contains waste which has been added to it.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Approval of a producer’s application to establish a collection system</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/13/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/13" id="regulation-13">
+					<Pnumber>13</Pnumber>
+					<P1para>
+						<Text>Approval of a producer’s application to establish a system for the collection of vehicles under regulation 10 shall be granted where the Secretary of State is satisfied that the requirements of—</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/13/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/13/a" id="regulation-13-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>regulation 10;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/13/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/13/b" id="regulation-13-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>regulation 11; and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/13/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/13/c" id="regulation-13-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>regulation 12.</Text>
+							</P3para>
+						</P3>
+						<Text>are met.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Revisions to a producer’s application for approval of a collection system where it is anticipated the number of end-of-life vehicles will change in a subsequent year</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14" id="regulation-14">
+					<Pnumber>14</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14/1" id="regulation-14-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and he anticipates in respect of a subsequent year that the capacity of the system for collection will be insufficient for the number of end-of-life vehicles for which he will be responsible, he shall submit a revised application for approval of the system for collection to the Secretary of State.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14/2" id="regulation-14-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and the Secretary of State has reason to believe that the capacity of his system for collection is insufficient for the number of end-of-life vehicles for which he will be responsible and that producer has not submitted a revised application under paragraph (1), she shall notify the producer accordingly.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14/3" id="regulation-14-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Where the circumstances in either paragraph (1) or (2) apply, a producer shall submit a revised application for approval of the system for the collection of vehicles to the Secretary of State in writing at least three months before the beginning of the year in which the revised system is intended to come into operation.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14/4" id="regulation-14-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall grant approval of a revised application for approval of the system for the collection of vehicles within 28 days of receipt of the application where she is satisfied that the requirements of regulation 12 have been met.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/14/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/14/5" id="regulation-14-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Where a producer has submitted an application for approval of his system for the collection of vehicles under regulation 10, and he anticipates in respect of a subsequent year that the capacity of that system will exceed the number of end-of-life vehicles for which he will be responsible, he may submit a revised application for approval of that system to the Secretary of State, provided that the revised application shall be submitted not less than three months before the start of the year in which the revised system is intended to operate.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Authorised treatment facilities</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/15/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/15" id="regulation-15">
+					<Pnumber>15</Pnumber>
+					<P1para>
+						<Text>Notwithstanding regulation 12(2), a producer shall not be liable to meet the costs of treatment of a vehicle which he has placed on the market and which has become an end-of-life vehicle, where that vehicle is accepted by an authorised treatment facility which is not part of the system for the collection of vehicles referred to by the producer in the details he has submitted to the Secretary of State under regulation 10(2).</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>Compliance Notice</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/16/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16" id="regulation-16">
+					<Pnumber>16</Pnumber>
+					<P1para>
+						<Text>Where the Secretary of State has reasonable grounds for believing that any or all of the requirements of the following regulations have not been complied with —</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/16/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16/a" id="regulation-16-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>regulation 7, paragraphs (1), (2) <Substitution ChangeId="key-b25839c0a27084cd33ce37347726b701-1489658034279" CommentaryRef="key-b25839c0a27084cd33ce37347726b701">, (3) and (9)</Substitution> ;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/16/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16/b" id="regulation-16-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>regulation 10;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/16/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16/c" id="regulation-16-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>regulation 11; and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/16/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16/d" id="regulation-16-d">
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>regulation 12</Text>
+							</P3para>
+						</P3>
+						<Text>she may serve a compliance notice on the producer.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Content of a compliance notice served under regulation 16</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/17/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/17" id="regulation-17">
+					<Pnumber>17</Pnumber>
+					<P1para>
+						<Text>A notice which is served under regulation 16 shall —</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/17/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/17/a" id="regulation-17-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>include a statement that the Secretary of State believes that a requirement of regulations 7, 10, 11 or 12 has been contravened, specify the particulars thereof and give reasons;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/17/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/17/b" id="regulation-17-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>require the producer to comply with the requirement and specify the period of time within which the producer must do so; and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/17/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/17/c" id="regulation-17-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>warn the producer that unless the requirement is complied with within the period specified in the notice he may be prosecuted under regulation 23.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>Reuse, Recovery and Recycling targets</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18" id="regulation-18">
+					<Pnumber>18</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/1" id="regulation-18-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>For the year 2006 and every year thereafter until 31st December 2014, each producer shall attain the following targets in respect of those end-of-life vehicles treated at authorised treatment facilities which comprise all or part of the system he has established for collection of vehicles as referred to in regulation 10 —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/1/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/1/a" id="regulation-18-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>at least 85% reuse and recovery by an average weight per vehicle and year; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/1/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/1/b" id="regulation-18-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>at least 80% reuse and recycling by an average weight per vehicle and year.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/2" id="regulation-18-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>For the year 2015 and every year thereafter, each producer shall attain the following targets in respect of those end-of-life vehicles treated at authorised treatment facilities which comprise all or part of his system for collection as referred to in regulation 10 —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/2/a" id="regulation-18-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>at least 95% reuse and recovery by an average weight per vehicle and year; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/2/b" id="regulation-18-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>at least 85% reuse and recycling by an average weight per vehicle and year.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/3" id="regulation-18-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>Where an authorised treatment facility treats end-of-life vehicles which it is not obliged to treat under an agreement between the owner or operator of that facility and a producer, the owner or operator of that authorised treatment facility shall attain the targets for reuse, recovery and recycling as set out in paragraphs (1) and (2), in respect of those end-of-life vehicles.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/4" id="regulation-18-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>But as regards vehicles placed on the market before 1st January 1980, the reuse, recovery and recycling targets to be attained for the purposes of paragraph (1)(a) shall be 75% and for the purposes of paragraph (1)(b) shall be 70%.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/5" id="regulation-18-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>Details of the reuse, recovery and recycling rates achieved by a producer or the owner or operator of an authorised treatment facility, as the case may be, shall be submitted to the Secretary of State by 1st April 2007 for the year 2006 and by <Substitution ChangeId="key-80c996d4c6dfb8aef107eddf8c4c3ea7-1489658159030" CommentaryRef="key-80c996d4c6dfb8aef107eddf8c4c3ea7">1st July each</Substitution> year thereafter in respect of the immediately preceding year <Addition ChangeId="M_F_d4b63c77-4daa-4f7b-9c32-df44f9635f3e-1489658200243" CommentaryRef="M_F_d4b63c77-4daa-4f7b-9c32-df44f9635f3e">in the format published by the Secretary of State</Addition> .</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/18/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/18/6" id="regulation-18-6">
+							<Pnumber><Addition ChangeId="key-f63dff49d14734a952aedb2615b60a29-1489658119541" CommentaryRef="key-f63dff49d14734a952aedb2615b60a29">6</Addition></Pnumber>
+							<P2para>
+								<Text><Addition ChangeId="key-f63dff49d14734a952aedb2615b60a29-1489658119541" CommentaryRef="key-f63dff49d14734a952aedb2615b60a29">The Secretary of State shall publish the format in which the details referred to in regulation 18(5) are to be submitted.</Addition></Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>Certificate of Compliance</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19" id="regulation-19">
+					<Pnumber>19</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/1" id="regulation-19-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Where the targets for reuse, recovery and recycling as set out in regulation 18 are attained by —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/1/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/1/a" id="regulation-19-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>a producer, he shall send a certificate of compliance to the Secretary of State;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/1/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/1/b" id="regulation-19-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the owner or operator of an authorised treatment facility, he shall send a certificate of compliance to the Secretary of State.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/2" id="regulation-19-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The certificate of compliance shall be sent to the Secretary of State <Substitution ChangeId="key-79486f452dbc88c5054bbaa70d1a2cb8-1489658755134" CommentaryRef="key-79486f452dbc88c5054bbaa70d1a2cb8">by 1st July</Substitution> each year in respect of the immediately preceding year.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/3" id="regulation-19-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The provisions of Schedule 4 shall apply as regards the information to be contained in a certificate of compliance.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/4" id="regulation-19-4">
+							<Pnumber><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">4</Addition></Pnumber>
+							<P2para>
+								<Text><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">Where a person is under an obligation to send a certificate of compliance to the Secretary of State under this regulation, that certificate shall be submitted by—</Addition></Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/4/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/4/a" id="regulation-19-4-a">
+									<Pnumber><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">a</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">where that person is an individual, that individual;</Addition></Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/4/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/4/b" id="regulation-19-4-b">
+									<Pnumber><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">b</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">where that person is a partnership, a partner; and</Addition></Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/19/4/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/4/c" id="regulation-19-4-c">
+									<Pnumber><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">c</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="key-2638725044765bca58a6fcdbd9377371-1489658725565" CommentaryRef="key-2638725044765bca58a6fcdbd9377371">where that person is a company, a director of that company.</Addition></Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>Approval of persons to issue certificates of compliance</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/20/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/20" id="regulation-20">
+					<Pnumber><CommentaryRef Ref="key-82d24ddabf64d2d9d623668219409957"/>20</Pnumber>
+					<P1para>
+						<Text>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Public Register</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21" id="regulation-21">
+					<Pnumber>21</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/1" id="regulation-21-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall maintain and make available in accordance with this regulation a register relating to those producers who register in accordance with regulation 7 and containing the information prescribed in Schedule 5.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/2" id="regulation-21-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/2/a" id="regulation-21-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>ensure that the register is open for inspection at her principal office by members of the public free of charge at all reasonable hours; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/2/b" id="regulation-21-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>permit members of the public to obtain copies of entries in the register on payment of a reasonable charge.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/3" id="regulation-21-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The register may be kept in any form but shall be indexed and arranged so that members of the public can readily trace information contained in it.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/4" id="regulation-21-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall amend the relevant entry in the register to record any change to the information entered and shall note the date on which the amendment is made.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/5" id="regulation-21-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>For the avoidance of doubt, nothing in this regulation shall require the register to contain information relating to any criminal proceedings (including prospective proceedings) or to anything which is the subject matter of such proceedings, at any time before those proceedings are finally disposed of.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/21/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/21/6" id="regulation-21-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>Nothing in this regulation shall require the register to contain any information which has been superseded by later information after four years have elapsed from that later information being entered in the register.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Entry and Inspection</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/22/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/22" id="regulation-22">
+					<Pnumber>22</Pnumber>
+					<P1para>
+						<Text>For the purposes of carrying out her functions under these Regulations, the Secretary of State and any other person whom she considers suitable and whom she has authorised in writing to act on her behalf, may exercise the powers of entry and inspection referred to in Schedule 6.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-07-01">
+				<Title>Offences</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23" id="regulation-23">
+					<Pnumber>23</Pnumber>
+					<P1para>
+						<Text>
+							<Substitution ChangeId="key-1990cccf4f279702519e5fa3683f9917-1489658948767" CommentaryRef="key-1990cccf4f279702519e5fa3683f9917">A producer who fails to comply with any or all of the requirements of regulations— </Substitution></Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/a" id="regulation-23-a">
+							<Pnumber><Substitution ChangeId="key-1990cccf4f279702519e5fa3683f9917-1489658948767" CommentaryRef="key-1990cccf4f279702519e5fa3683f9917">a</Substitution></Pnumber>
+							<P3para>
+								<Text><Substitution ChangeId="key-1990cccf4f279702519e5fa3683f9917-1489658948767" CommentaryRef="key-1990cccf4f279702519e5fa3683f9917">7(1), (2), (3) or (9)</Substitution></Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/b" id="regulation-23-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>10 (1) to (6);</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/c" id="regulation-23-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>11; and</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/d" id="regulation-23-d">
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>12</Text>
+							</P3para>
+						</P3>
+						<Text>shall be guilty of an offence.</Text>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/2" id="regulation-23-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>A person who fails to comply with regulation 18 shall be guilty of an offence.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3" id="regulation-23-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>A person who —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/a" id="regulation-23-3-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>fails to submit a certificate of compliance in accordance with regulation 19;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/b" id="regulation-23-3-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>furnishes a certificate of compliance under regulation 19 and either —</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/b/i/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/b/i" id="regulation-23-3-b-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>knows the information provided in or in connection with the certificate to be false or misleading in a material particular; or</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/b/ii/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/b/ii" id="regulation-23-3-b-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>furnishes such information recklessly and it is false or misleading in a material particular;</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/c" id="regulation-23-3-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>fails without reasonable excuse to furnish any information required by the Secretary of State in accordance with regulation 19(3); or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/d" id="regulation-23-3-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>furnishes any information required by the Secretary of State in connection with her functions, powers and duties under these Regulations and either—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/d/i/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/d/i" id="regulation-23-3-d-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>knows the information to be false or misleading in a material particular; or</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/3/d/ii/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/3/d/ii" id="regulation-23-3-d-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>furnishes such information recklessly and it is false or misleading in a material particular;</Text>
+											</P4para>
+										</P4>
+										<Text>shall be guilty of an offence.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/23/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23/4" id="regulation-23-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>Any person who intentionally delays or obstructs a person authorised by the Secretary of State in the exercise of the powers referred to in these Regulations shall be guilty of an offence.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2013-04-01">
+				<Title>Enforcement</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24" id="regulation-24">
+					<Pnumber>24</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/1" id="regulation-24-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>It shall be the duty of the Secretary of State to enforce these Regulations.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/2" id="regulation-24-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Where the Secretary of State serves a compliance notice on a producer under regulation 16, proceedings for an offence under regulation 23(1) shall not commence unless the time limit specified for compliance in the notice has expired.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/3" id="regulation-24-3">
+							<Pnumber>3</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall not commence proceedings for an offence in Scotland.</Text>
+							</P2para>
+						</P2>
+						<P2><!-- DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/4" id="regulation-24-4"-->
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>The Secretary of State may appoint one of the Environment Agencies to carry out her enforcement duties under these Regulations as follows:—</Text>
+								<UnorderedList Decoration="none">
+									<ListItem>
+										<Para>
+											<Text>where the relevant person’s registered office or principal place of business is in —</Text>
+											<OrderedList Decoration="parens" Type="alpha">
+												<ListItem>
+													<Para>
+														<Text>England <CommentaryRef Ref="key-ca1b4530738151e24953409e72de2927"/>..., the Environment Agency;</Text>
+													</Para>
+												</ListItem>
+												<ListItem NumberOverride="aa">
+													<Para>
+														<Text><Addition ChangeId="key-645f78a6de0c5235cfa7170deb656011-1489662677249" CommentaryRef="key-645f78a6de0c5235cfa7170deb656011">Wales, the Natural Resources Body for Wales;</Addition></Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Scotland, the Scottish Environment Protection Agency; and</Text>
+													</Para>
+												</ListItem>
+												<ListItem>
+													<Para>
+														<Text>Northern Ireland, the Department of the Environment.</Text>
+													</Para>
+												</ListItem>
+											</OrderedList>
+										</Para>
+									</ListItem>
+								</UnorderedList>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/24/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/5" id="regulation-24-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>For the purposes of paragraph (4), the relevant person means a producer or the owner or operator of an authorised treatment facility as the case may be.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Penalties</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/25/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/25" id="regulation-25">
+					<Pnumber>25</Pnumber>
+					<P1para>
+						<Text>A person guilty of an offence under regulation 23 shall be liable —</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/25/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/25/a" id="regulation-25-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>on summary conviction, to a fine not exceeding the statutory maximum; or</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/25/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/25/b" id="regulation-25-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>on conviction on indictment, to a fine.</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Power of the Secretary of State to enter into agreements</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26" id="regulation-26">
+					<Pnumber>26</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/1" id="regulation-26-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>For the purposes of implementing the detailed rules of Article 5(4) of the Directive the Secretary of State may enter into agreements with —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/1/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/1/a" id="regulation-26-1-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>one or more producers;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/1/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/1/b" id="regulation-26-1-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>organisations which represent the interests of the relevant producers.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/2" id="regulation-26-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>The Secretary of State shall not enter into an agreement unless she is satisfied that it will achieve one or more of the objectives set out in Article 1 of the Directive, that is to say —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/2/a" id="regulation-26-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the prevention of waste from vehicles;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/2/b" id="regulation-26-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the reuse, recycling and other forms of recovery of end-of-life vehicles and their components so as to reduce the disposal of waste; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/26/2/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/26/2/c" id="regulation-26-2-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the improvement in the environmental performance of all the economic operators involved in the life cycle of vehicles, especially the operators directly involved in the treatment of end-of-life vehicles.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Enforcement of Agreements</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/27/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/27" id="regulation-27">
+					<Pnumber>27</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/27/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/27/1" id="regulation-27-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>Where a person who enters into an agreement with the Secretary of State under regulation 26 fails to comply with the terms of the agreement, such failure shall be treated as if it were a breach of these Regulations, and that person shall be guilty of an offence.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/27/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/27/2" id="regulation-27-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>A person who is guilty of an offence under this regulation shall be liable —</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/27/2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/27/2/a" id="regulation-27-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>on summary conviction, to a fine not exceeding the statutory maximum; or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/27/2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/27/2/b" id="regulation-27-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>on conviction on indictment, to a fine.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Title>Amendments to the End-of-Life Vehicles Regulations 2003</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28" id="regulation-28">
+					<Pnumber>28</Pnumber>
+					<P1para>
+						<Text>The End-of-Life Vehicles Regulations 2003 are amended as follows —</Text>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28/a" id="regulation-28-a">
+							<Pnumber>a</Pnumber>
+							<P3para>
+								<Text>after regulation 3(3) the following shall be inserted:—</Text>
+								<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+									<P2>
+										<Pnumber>4</Pnumber>
+										<P2para>
+											<Text>Only the provisions of Part VII of these Regulations shall apply to three-wheel motor vehicles.</Text>
+										</P2para>
+									</P2>
+									<P2>
+										<Pnumber>5</Pnumber>
+										<P2para>
+											<Text>with effect from 31st December 2006, regulations 37 to 43 of these Regulations shall cease to apply.</Text>
+										</P2para>
+									</P2>
+								</BlockAmendment>
+								<AppendText>;</AppendText>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28/b" id="regulation-28-b">
+							<Pnumber>b</Pnumber>
+							<P3para>
+								<Text>in regulation 5, for the words “which are outside the scope of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00006" Class="EuropeanUnionDirective" Year="1970" Number="156">70/156/EC</Citation>, regulations 14 to 26 inclusive shall not apply” there shall be substituted the words “to which Article 8(2)(a) of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00007" Class="EuropeanEconomicCommunityDirective" Year="1970" Number="156">70/156/EEC</Citation> applies, regulations 16 to 26 shall not apply”;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28/c" id="regulation-28-c">
+							<Pnumber>c</Pnumber>
+							<P3para>
+								<Text>in regulation 29, after the words “authorised treatment facility” there shall be inserted the words “on the form which is to be approved by the Secretary of State,”;</Text>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28/d" id="regulation-28-d">
+							<Pnumber>d</Pnumber>
+							<P3para>
+								<Text>after regulation 29 the following shall be inserted —</Text>
+								<BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+									<P1group>
+										<Title>Issue of a certificate of destruction</Title>
+										<P1>
+											<Pnumber PuncAfter=".">29A</Pnumber>
+											<P1para>
+												<Text>A certificate of destruction is validly issued for the purposes of these Regulations only where —</Text>
+												<P3>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>it is issued by an authorised treatment facility; and</Text>
+													</P3para>
+												</P3>
+												<P3>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>it meets the requirements of regulation 29.</Text>
+													</P3para>
+												</P3>
+											</P1para>
+										</P1>
+									</P1group>
+								</BlockAmendment>
+								<AppendText>; and</AppendText>
+							</P3para>
+						</P3>
+						<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/regulation/28/e/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/28/e" id="regulation-28-e">
+							<Pnumber>e</Pnumber>
+							<P3para>
+								<Text>in regulation 31, after paragraph (b) there shall be inserted “or (c) 29A.”;</Text>
+							</P3para>
+						</P3>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/signature/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/signature" RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+				<Signatory>
+					<Signee>
+						<PersonName>Mike O'Brien,</PersonName>
+						<JobTitle>Minister of State for Energy and e-Commerce</JobTitle>
+						<Department>Department of Trade and Industry</Department>
+						<DateSigned Date="2005-02-08">
+							<DateText/>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+<Schedules RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1" NumberOfProvisions="5" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-1" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 1</Number>
+<Reference>Regulation 7(4)</Reference>
+<ScheduleBody>
+<P1group RestrictStartDate="2005-03-03" RestrictExtent="E+W+S+N.I.">
+<Title>INFORMATION TO BE CONTAINED IN AN APPLICATION FOR PRODUCER REGISTRATION</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/1" id="schedule-1-paragraph-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>The name, address and telephone number of the producer and where —</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/1/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/1/a" id="schedule-1-paragraph-1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the producer is a company, the registered office;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/1/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/1/b" id="schedule-1-paragraph-1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the producer is not a company, the principal place of business.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/2" id="schedule-1-paragraph-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>The business name of the producer if different from that referred to in paragraph 1.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/3" id="schedule-1-paragraph-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<Text>The address for service of notices on the producer if different from that referred to in paragraph 1.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/4" id="schedule-1-paragraph-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<Text>The details of the person to whom the Secretary of State may address communications.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/1/paragraph/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/1/paragraph/5" id="schedule-1-paragraph-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<Text>A description of the vehicles in respect of which the producer has declared responsibility for placing on the market under regulation 7.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-2" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 2</Number>
+<Reference>Regulation 8(3)</Reference>
+<ScheduleBody>
+<P1group>
+<Title>MATTERS WHICH THE SECRETARY OF STATE MAY TAKE INTO ACCOUNT IN REACHING A DECISION UNDER REGULATION 8(1)</Title>
+<P DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2/paragraph/1" id="schedule-2-paragraph-1">
+<Text>The identity of any person who —</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/paragraph/wrapper1/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2/paragraph/wrapper1/a" id="schedule-2-paragraph-wrapper1-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>has manufactured the vehicle;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/paragraph/wrapper1/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2/paragraph/wrapper1/b" id="schedule-2-paragraph-wrapper1-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>has put his name on the vehicle;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/paragraph/wrapper1/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2/paragraph/wrapper1/c" id="schedule-2-paragraph-wrapper1-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>has placed the vehicle on the market; or</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/2/paragraph/wrapper1/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/2/paragraph/wrapper1/d" id="schedule-2-paragraph-wrapper1-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>uses, has used or has the right to use, a trade mark or other distinguishing mark in relation to the vehicle.</Text>
+</P3para>
+</P3>
+</P>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3" NumberOfProvisions="5" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-3" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 3</Number>
+<Reference>Regulation 10(3)</Reference>
+<ScheduleBody>
+<P1group RestrictStartDate="2005-03-03" RestrictExtent="E+W+S+N.I.">
+<Title>INFORMATION TO BE CONTAINED IN AN APPLICATION FOR APPROVAL OF A COLLECTION SYSTEM</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/1" id="schedule-3-paragraph-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>The number of vehicles which the producer anticipates may become end-of-life vehicles for the purposes of regulation 10(1).</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/2" id="schedule-3-paragraph-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>Details of the system for collection which the producer has established to meet the requirements of regulations 11 and 12(1).</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/3" id="schedule-3-paragraph-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<Text>Details of the measures a producer will take to ensure the system he has established for collection is publicised.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/4" id="schedule-3-paragraph-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<Text>The location and address of each authorised treatment facility with which the producer has entered into an agreement to treat vehicles and in respect of which he has made a declaration under regulation 7.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/5" id="schedule-3-paragraph-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<Text>In relation to each authorised treatment facility referred to in paragraph 4 —</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/5/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/5/a" id="schedule-3-paragraph-5-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the appropriate Agency licence number; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/3/paragraph/5/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/3/paragraph/5/b" id="schedule-3-paragraph-5-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the depollution capacity of the site in respect of vehicles for which that producer has declared or been ascribed responsibility.</Text>
+</P3para>
+</P3>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-4" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 4</Number>
+<Reference>Regulation 19(3)</Reference>
+<ScheduleBody>
+<P1group>
+<Title>INFORMATION IN THE CERTIFICATE OF COMPLIANCE</Title>
+<P DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4/paragraph/1" id="schedule-4-paragraph-1">
+<Text>The information to be contained in a certificate of compliance is as follows—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/paragraph/wrapper2/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4/paragraph/wrapper2/a" id="schedule-4-paragraph-wrapper2-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the name and address of the person who issues the certificate;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/paragraph/wrapper2/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4/paragraph/wrapper2/b" id="schedule-4-paragraph-wrapper2-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the name and address of the person in respect of whom the certificate is issued;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/paragraph/wrapper2/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4/paragraph/wrapper2/c" id="schedule-4-paragraph-wrapper2-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the date of the certificate;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/4/paragraph/wrapper2/d/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/4/paragraph/wrapper2/d" id="schedule-4-paragraph-wrapper2-d">
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>a statement by the person who is required under regulation 20 to submit the certificate of compliance that the reuse, recovery and recycling obligations have been met.</Text>
+</P3para>
+</P3>
+</P>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/5" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-5" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 5</Number>
+<Reference>Regulation 21</Reference>
+<ScheduleBody>
+<P1group>
+<Title>PUBLIC REGISTER</Title>
+<P DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/5/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/5/paragraph/1" id="schedule-5-paragraph-1">
+<Text>The information to be contained on the public register in respect of each producer is as follows—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/5/paragraph/wrapper3/a/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/5/paragraph/wrapper3/a" id="schedule-5-paragraph-wrapper3-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the producer’s name;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/5/paragraph/wrapper3/b/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/5/paragraph/wrapper3/b" id="schedule-5-paragraph-wrapper3-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the <Acronym Expansion="United Kingdom">UK</Acronym> address of the registered office or principal place of business of the producer; and</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/5/paragraph/wrapper3/c/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/5/paragraph/wrapper3/c" id="schedule-5-paragraph-wrapper3-c">
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>a statement in respect of each year as to whether the producer has met his obligation under regulation 19 to furnish a certificate of compliance.</Text>
+</P3para>
+</P3>
+</P>
+</P1group>
+</ScheduleBody>
+</Schedule>
+<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6" NumberOfProvisions="7" RestrictExtent="E+W+S+N.I." NumberFormat="default" id="schedule-6" RestrictStartDate="2005-03-03">
+<Number>SCHEDULE 6</Number>
+<Reference>Regulation 22</Reference>
+<ScheduleBody>
+<P1group RestrictStartDate="2005-03-03" RestrictExtent="E+W+S+N.I.">
+<Title>POWERS OF ENTRY AND INSPECTION OF PREMISES EXERCISABLE BY THE SECRETARY OF STATE AND PERSONS AUTHORISED UNDER REGULATION 22</Title>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/1/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/1" id="schedule-6-paragraph-1">
+<Pnumber>1</Pnumber>
+<P1para>
+<Text>To enter at any reasonable time and on production, if required, of their credentials, any premises except for a dwelling house which are considered to be necessary for the Secretary of State or any authorised person to enter.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/2/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/2" id="schedule-6-paragraph-2">
+<Pnumber>2</Pnumber>
+<P1para>
+<Text>To make such examination and investigation as may in any circumstances be necessary.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/3/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/3" id="schedule-6-paragraph-3">
+<Pnumber>3</Pnumber>
+<P1para>
+<Text>As regards any premises for which there is a power to enter, direct that those premises or any part of them, or anything in them, shall be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under paragraph 2.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/4/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/4" id="schedule-6-paragraph-4">
+<Pnumber>4</Pnumber>
+<P1para>
+<Text>To take such measurements and photographs and make such recordings as are considered necessary for the purpose of any examination or investigation under paragraph 2.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/5/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/5" id="schedule-6-paragraph-5">
+<Pnumber>5</Pnumber>
+<P1para>
+<Text>To take samples, or cause samples to be taken, of articles or substances found in or on any premises which the Secretary of State or any authorised person has power to enter, and of the air, water or land in, on, or in the vicinity of, the premises.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/6/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/6" id="schedule-6-paragraph-6">
+<Pnumber>6</Pnumber>
+<P1para>
+<Text>To require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any records —</Text>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/6/i/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/6/i" id="schedule-6-paragraph-6-i">
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>which are required to be kept under these Regulations; or</Text>
+</P4para>
+</P4>
+<P4 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/6/ii/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/6/ii" id="schedule-6-paragraph-6-ii">
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>which it is necessary to see for the purposes of an examination or investigation under paragraph 2</Text>
+</P4para>
+</P4>
+<Text>and to inspect and take copies of, or of any entry in, the records.</Text>
+</P1para>
+</P1>
+<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/schedule/6/paragraph/7/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/schedule/6/paragraph/7" id="schedule-6-paragraph-7">
+<Pnumber>7</Pnumber>
+<P1para>
+<Text>To require any person to afford such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the Secretary of State or the authorised person to exercise any of the powers conferred on them by these Regulations.</Text>
+</P1para>
+</P1>
+</P1group>
+</ScheduleBody>
+</Schedule>
+</Schedules>
+<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/2005/263/note/2013-04-01" IdURI="http://www.legislation.gov.uk/id/uksi/2005/263/note" RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-03-03">
+<Comment>
+<Para>
+<Text>(This note is not part of the Regulations)</Text>
+</Para>
+</Comment>
+<P>
+<Text>These Regulations implement Articles 5(1), (2), (4) and 7 of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/2000/0053" id="c00008" Class="EuropeanUnionDirective" Year="2000" Number="53">2000/53/EC</Citation> of the European Parliament and the Council on end-of-life vehicles (<Acronym Expansion="Official Journal">OJ</Acronym> <Abbreviation Expansion="Number">No.</Abbreviation> L269, 21.10.2000, p.34) (“the Directive”).</Text>
+</P>
+<P>
+<Text>The Regulations apply to vehicles and end-of-life vehicles as defined in regulation 2.</Text>
+</P>
+<P>
+<Text>The Regulations require a producer to register with the Secretary of State and declare responsibility for those vehicles which he has placed on the market (regulation 7). Under regulation 8 the Secretary of State has the power to ascribe responsibility to a producer in respect of vehicles which have been placed on the market where no producer has made a declaration of responsibility under regulation 7. A producer is obliged to make provision for vehicles for which he has declared responsibility under regulation 7, or has been ascribed responsibility under regulation 8, or when a producer’s business is transferred to another person as set out in regulation 9.</Text>
+</P>
+<P>
+<Text>The Regulations require a producer to submit to the Secretary of State an application for approval of the system he has established to collect vehicles for which he is responsible (regulation 10). A producer’s system for collection must contain sufficient capacity to treat those end-of-life vehicles for which he is responsible (regulation 12). The system for collection must also be reasonably accessible to any person who wants to deliver an end-of-life vehicle to it (regulation 11).</Text>
+</P>
+<P>
+<Text>Regulation 18 introduces the reuse, recovery and recycling targets for end-of-life vehicles treated at authorised treatment facilities. However, the reuse, recovery and recycling targets do not apply to three-wheel motor vehicles or special-purpose vehicles as defined in the second indent of Article 4(1)(a) of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00009" Class="EuropeanEconomicCommunityDirective" Year="1970" Number="156">70/156/EEC</Citation>. Producers and where appropriate owners or operators of authorised treatment facilities are required to submit a certificate of compliance to demonstrate that they have met their obligations under regulation 18.</Text>
+</P>
+<P>
+<Text>The Regulations are to be enforced by the Secretary of State who may appoint the Environment Agencies to act on her behalf. The powers of the Secretary of State and any person appointed by her to act on her behalf as regards enforcement under these Regulations are set out in regulation 22 and Schedule 6. The offences and penalties are set out in regulations 23 and 24.</Text>
+</P>
+<P>
+<Text>Regulation 26 introduces a power for the Secretary of State to enter into agreements to implement the obligations in Article 5(4) of the Directive, where she is satisfied that it will achieve one or more of the objectives set out in Article 1 of the Directive.</Text>
+</P>
+<P>
+<Text>Certain provisions of the Directive were implemented by the End-of-Life Vehicles Regulations 2003 (<Acronym Expansion="Statutory Instrument">S.I.</Acronym> <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/2635" id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="2635">2003/2635</Citation>) (“the 2003 Regulations”). Transposition of the Directive is completed by these Regulations which also amend the 2003 Regulations. Regulation 28(a) provides that only Part VII of the 2003 Regulations applies to three-wheel motor vehicles, and that the provisions of Part VI of the 2003 Regulations concerning vehicles placed on the market after 1st July 2002 will not apply after 31st December 2006 (regulations 10(6) and 12(2)). Regulation 28(b) concerns vehicles made in small series; it states that those vehicles are within the scope of Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1970/0156" id="c00011" Class="EuropeanEconomicCommunityDirective" Year="1970" Number="156">70/156/EEC</Citation> (OJ No. L042, 23.02.1970 p.1) and disapplies regulations 16 to 26 of the 2003 Regulations in respect of them. Regulation 28(c), (d) and (e) amend Part V of the 2003 Regulations by making provision for the requirements for issuing a valid certificate of destruction.</Text>
+</P>
+<P>
+<Text>A Regulatory Impact Assessment is available, copies of which have been placed in the libraries of both Houses of Parliament. Copies are also available from the Department of Trade and Industry.</Text>
+</P>
+</ExplanatoryNotes>
+</Secondary><Footnotes><Footnote id="f00001">
+<FootnoteText>
+<Para>
+<Text>S.I. <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/3495" id="c00012" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3495">2001/3495</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00002">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00013" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c. 68</Citation>. Under section 57 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c. 46)</Citation>, despite the transfer to Scottish Ministers of the functions in relation to implementing obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by her as regards Scotland.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00003">
+<FootnoteText>
+<Para>
+<Text>OJ No. L269, 21.10.2000, p.34 as amended by Commission Decision <Citation URI="http://www.legislation.gov.uk/european/decision/2002/0525" id="c00015" Class="EuropeanUnionDecision" Year="2002" Number="525">2002/525/EC</Citation> (OJ No. L170, 29.06.2002, p.81).</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00004">
+<FootnoteText>
+<Para>
+<Text>S.I. <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/2635" id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="2635">2003/2635</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00005">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ssi/2003/593" id="c00017" Class="ScottishStatutoryInstrument" Year="2003" Number="0593">S.S.I. 2003/593</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00006">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/nisr/2003/493" id="c00018" Class="NorthernIrelandStatutoryRule" Year="2003" Number="0493">S.R. 2003/493</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00007">
+<FootnoteText>
+<Para>
+<Text>OJ No. L42, 23.02.1970, p.1, amended by Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1998/0091" id="c00019" Class="EuropeanUnionDirective" Year="1998" Number="91">98/91/EC</Citation> of the European Parliament and of the Council (OJ No. L11, 16.01.1999, p.25).</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00008">
+<FootnoteText>
+<Para>
+<Text>OJ No. L124, 09.05.2002, p.l.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00009">
+<FootnoteText>
+<Para>
+<Text>OJ No. L194, 25.07.1975, p.39; amended by Council Directives <Citation URI="http://www.legislation.gov.uk/european/directive/1991/0156" id="c00020" Class="EuropeanEconomicCommunityDirective" Year="1991" Number="156">91/156/EEC</Citation> (OJ No. L78, 20.03.1991, p.32) and <Citation URI="http://www.legislation.gov.uk/european/directive/1991/0692" id="c00021" Class="EuropeanEconomicCommunityDirective" Year="1991" Number="692">91/692/EEC</Citation> (OJ No. L377, 31.12.1991, p.48), and by Commission Directive <Citation URI="http://www.legislation.gov.uk/european/directive/1996/0350" id="c00022" Class="EuropeanUnionDirective" Year="1996" Number="350">96/350/EC</Citation> (OJ No. L135, 06.06.1996, p.32).</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes><Commentaries><Commentary id="key-fb2ebf920882d0a560209823d1826329" Type="F"><Para><Text>Words in <CitationSubRef id="chygs5m22-00006" SectionRef="regulation-8-3" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/8/3">reg. 8(3)</CitationSubRef> substituted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chygs5m22-00007" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chygs5m22-00008" CitationRef="chygs5m22-00007" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chygs5m22-00009" CitationRef="chygs5m22-00007" SectionRef="regulation-2-2" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/2" Operative="true">2(2)</CitationSubRef></Text></Para></Commentary><Commentary id="key-b25839c0a27084cd33ce37347726b701" Type="F"><Para><Text>Words in <CitationSubRef id="chygw1cd2-00006" SectionRef="regulation-16-a" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/16/a">reg. 16(a)</CitationSubRef> substituted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chygw1cd2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chygw1cd2-00008" CitationRef="chygw1cd2-00007" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chygw1cd2-00009" CitationRef="chygw1cd2-00007" SectionRef="regulation-2-3" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/3" Operative="true">2(3)</CitationSubRef></Text></Para></Commentary><Commentary id="key-f63dff49d14734a952aedb2615b60a29" Type="F"><Para><Text>Reg. 18(6) inserted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyh143p2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyh143p2-00008" CitationRef="chyh143p2-00007" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1" SectionRef="regulation-1">regs. 1</CitationSubRef>, <CitationSubRef id="chyh143p2-00009" CitationRef="chyh143p2-00007" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/5" SectionRef="regulation-2-5" Operative="true">2(5)</CitationSubRef></Text></Para></Commentary><Commentary id="key-80c996d4c6dfb8aef107eddf8c4c3ea7" Type="F"><Para><Text>Words in reg. 18(5) substituted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyh143p2-00016" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyh143p2-00017" CitationRef="chyh143p2-00016" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1" SectionRef="regulation-1">regs. 1</CitationSubRef>, <CitationSubRef id="chyh143p2-00018" CitationRef="chyh143p2-00016" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/4" SectionRef="regulation-2-4" Operative="true">2(4)</CitationSubRef></Text></Para></Commentary><Commentary id="M_F_d4b63c77-4daa-4f7b-9c32-df44f9635f3e" Type="F"><Para><Text>Words in reg. 18(5) added (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyh143p2-00016n1" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyh143p2-00017n1" CitationRef="chyh143p2-00016" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1" SectionRef="regulation-1">regs. 1</CitationSubRef>, <CitationSubRef id="chyh143p2-00018n1" CitationRef="chyh143p2-00016" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/4" SectionRef="regulation-2-4" Operative="true">2(4)</CitationSubRef></Text><Text/></Para></Commentary><Commentary id="key-2638725044765bca58a6fcdbd9377371" Type="F"><Para><Text><CitationSubRef id="chyhedwv2-00006" SectionRef="regulation-19-4" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/4">Reg. 19(4)</CitationSubRef> inserted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyhedwv2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyhedwv2-00008" CitationRef="chyhedwv2-00007" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chyhedwv2-00009" CitationRef="chyhedwv2-00007" SectionRef="regulation-2-7" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/7" Operative="true">2(7)</CitationSubRef></Text></Para></Commentary><Commentary id="key-79486f452dbc88c5054bbaa70d1a2cb8" Type="F"><Para><Text>Words in <CitationSubRef id="chyhedwv2-00015" SectionRef="regulation-19-2" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/19/2">reg. 19(2)</CitationSubRef> substituted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyhedwv2-00016" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyhedwv2-00017" CitationRef="chyhedwv2-00016" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chyhedwv2-00018" CitationRef="chyhedwv2-00016" SectionRef="regulation-2-6" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/6" Operative="true">2(6)</CitationSubRef></Text></Para></Commentary><Commentary id="key-82d24ddabf64d2d9d623668219409957" Type="F"><Para><Text><CitationSubRef id="chyhgwp22-00004" SectionRef="regulation-20" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/20">Reg. 20</CitationSubRef> omitted (1.7.2010) by virtue of <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyhgwp22-00005" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyhgwp22-00006" CitationRef="chyhgwp22-00005" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chyhgwp22-00007" CitationRef="chyhgwp22-00005" SectionRef="regulation-2-8" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/8" Operative="true">2(8)</CitationSubRef></Text></Para></Commentary><Commentary id="key-1990cccf4f279702519e5fa3683f9917" Type="F"><Para><Text>Words in <CitationSubRef id="chyhip3w2-00006" SectionRef="regulation-23" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/23">reg. 23</CitationSubRef> substituted (1.7.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/1095" id="chyhip3w2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="1095" Title="End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010">End-of-Life Vehicles (Producer Responsibility) (Amendment) Regulations 2010 (S.I. 2010/1095)</Citation>, <CitationSubRef id="chyhip3w2-00008" CitationRef="chyhip3w2-00007" SectionRef="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/1">regs. 1</CitationSubRef>, <CitationSubRef id="chyhip3w2-00009" CitationRef="chyhip3w2-00007" SectionRef="regulation-2-9" URI="http://www.legislation.gov.uk/id/uksi/2010/1095/regulation/2/9" Operative="true">2(9)</CitationSubRef></Text></Para></Commentary><Commentary id="key-c3a5bd59e861d0c438e49cb98f67459d" Type="F"><Para><Text>Words in reg. 2 substituted (S.) (27.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2011/226" id="chyijpfv2-00016" Class="ScottishStatutoryInstrument" Year="2011" Number="226" Title="The Waste (Scotland) Regulations 2011">The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)</Citation>, <CitationSubRef id="chyijpfv2-00017" CitationRef="chyijpfv2-00016" URI="http://www.legislation.gov.uk/id/ssi/2011/226/regulation/1/1" SectionRef="regulation-1-1">reg. 1(1)</CitationSubRef>, <CitationSubRef id="chyijpfv2-00018" CitationRef="chyijpfv2-00016" URI="http://www.legislation.gov.uk/id/ssi/2011/226/schedule/paragraph/16/b" SectionRef="schedule-paragraph-16-b" Operative="true">sch. para. 16(b)</CitationSubRef></Text></Para></Commentary><Commentary id="key-d5a2352cd3f93d5eb283f5e18f75abce" Type="F"><Para><Text>Words in reg. 2 substituted (S.) (27.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2011/226" id="chyijpfv2-00007" Class="ScottishStatutoryInstrument" Year="2011" Number="226" Title="The Waste (Scotland) Regulations 2011">The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)</Citation>, <CitationSubRef id="chyijpfv2-00008" CitationRef="chyijpfv2-00007" URI="http://www.legislation.gov.uk/id/ssi/2011/226/regulation/1/1" SectionRef="regulation-1-1">reg. 1(1)</CitationSubRef>, <CitationSubRef id="chyijpfv2-00009" CitationRef="chyijpfv2-00007" URI="http://www.legislation.gov.uk/id/ssi/2011/226/schedule/paragraph/16/a" SectionRef="schedule-paragraph-16-a" Operative="true">sch. para. 16(a)</CitationSubRef></Text></Para></Commentary><Commentary id="key-6da4238e2e8549789e26d383579a05db" Type="F"><Para><Text>Words in reg. 2 substituted (E.W.) (29.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2011/988" id="chyiu65i2-00007" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="988" Title="The Waste (England and Wales) Regulations 2011">The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)</Citation>, <CitationSubRef id="chyiu65i2-00008" CitationRef="chyiu65i2-00007" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/1/2" SectionRef="regulation-1-2">reg. 1(2)</CitationSubRef>, <CitationSubRef id="chyiu65i2-00009" CitationRef="chyiu65i2-00007" URI="http://www.legislation.gov.uk/id/uksi/2011/988/schedule/4/paragraph/19/a" SectionRef="schedule-4-paragraph-19-a" Operative="true">Sch. 4 para. 19(a)</CitationSubRef> (with <CitationSubRef id="chyiu65i2-00010" CitationRef="chyiu65i2-00007" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/2" SectionRef="regulation-2">regs. 2</CitationSubRef>, <CitationSubRef id="chyiu65i2-00011" CitationRef="chyiu65i2-00007" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/47/2" SectionRef="regulation-47-2">47(2)</CitationSubRef>)</Text></Para></Commentary><Commentary id="key-62fa1e3b4075c90500ecf8b849b115ca" Type="F"><Para><Text>Words in reg. 2 substituted (E.W.) (29.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2011/988" id="chyiu65i2-00018" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="988" Title="The Waste (England and Wales) Regulations 2011">The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)</Citation>, <CitationSubRef id="chyiu65i2-00019" CitationRef="chyiu65i2-00018" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/1/2" SectionRef="regulation-1-2">reg. 1(2)</CitationSubRef>, <CitationSubRef id="chyiu65i2-00020" CitationRef="chyiu65i2-00018" URI="http://www.legislation.gov.uk/id/uksi/2011/988/schedule/4/paragraph/19/b" SectionRef="schedule-4-paragraph-19-b" Operative="true">Sch. 4 para. 19(b)</CitationSubRef> (with <CitationSubRef id="chyiu65i2-00021" CitationRef="chyiu65i2-00018" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/2" SectionRef="regulation-2">regs. 2</CitationSubRef>, <CitationSubRef id="chyiu65i2-00022" CitationRef="chyiu65i2-00018" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/47/2" SectionRef="regulation-47-2">47(2)</CitationSubRef>)</Text></Para></Commentary><Commentary id="key-75862c628c01c3832590acc5139fabb1" Type="F"><Para><Text>Words in reg. 2 substituted (S.) (27.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2011/226" id="chyihdns2-00025" Class="ScottishStatutoryInstrument" Year="2011" Number="226" Title="The Waste (Scotland) Regulations 2011">The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)</Citation>, <CitationSubRef id="chyihdns2-00026" CitationRef="chyihdns2-00025" URI="http://www.legislation.gov.uk/id/ssi/2011/226/regulation/1/1" SectionRef="regulation-1-1">reg. 1(1)</CitationSubRef>, <CitationSubRef id="chyihdns2-00027" CitationRef="chyihdns2-00025" URI="http://www.legislation.gov.uk/id/ssi/2011/226/schedule/paragraph/16/c" SectionRef="schedule-paragraph-16-c" Operative="true">Sch. para. 16(c)</CitationSubRef>; and words in reg. 2 substituted (E.W) (29.3.2011) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2011/988" id="chyiu65i2-00029" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="988" Title="The Waste (England and Wales) Regulations 2011">The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)</Citation>, <CitationSubRef id="chyiu65i2-00030" CitationRef="chyiu65i2-00029" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/1/2" SectionRef="regulation-1-2">reg. 1(2)</CitationSubRef>, <CitationSubRef id="chyiu65i2-00031" CitationRef="chyiu65i2-00029" URI="http://www.legislation.gov.uk/id/uksi/2011/988/schedule/4/paragraph/19/c" SectionRef="schedule-4-paragraph-19-c" Operative="true">Sch. 4 para. 19(c)</CitationSubRef> (with <CitationSubRef id="chyiu65i2-00032" CitationRef="chyiu65i2-00029" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/2" SectionRef="regulation-2">regs. 2</CitationSubRef>, <CitationSubRef id="chyiu65i2-00033" CitationRef="chyiu65i2-00029" URI="http://www.legislation.gov.uk/id/uksi/2011/988/regulation/47/2" SectionRef="regulation-47-2">47(2)</CitationSubRef>)</Text></Para></Commentary><Commentary id="key-645f78a6de0c5235cfa7170deb656011" Type="F"><Para><Text><CitationSubRef id="chyjqbd92-00006" SectionRef="regulation-24-4-aa" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/4/aa">Reg. 24(4)(aa)</CitationSubRef> inserted (1.4.2013) by <Citation URI="http://www.legislation.gov.uk/id/wsi/2013/755" id="chyjqbd92-00007" Class="WelshStatutoryInstrument" Year="2013" Number="755" Title="The Natural Resources Body for Wales (Functions) Order 2013">The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)</Citation>, <CitationSubRef id="chyjqbd92-00008" CitationRef="chyjqbd92-00007" SectionRef="article-1-2" URI="http://www.legislation.gov.uk/id/wsi/2013/755/article/1/2">art. 1(2)</CitationSubRef>, <CitationSubRef id="chyjqbd92-00009" CitationRef="chyjqbd92-00007" SectionRef="schedule-4-paragraph-201-3" URI="http://www.legislation.gov.uk/id/wsi/2013/755/schedule/4/paragraph/201/3" Operative="true">Sch. 4 para. 201(3)</CitationSubRef> (with <CitationSubRef id="chyjqbd92-00010" CitationRef="chyjqbd92-00007" SectionRef="schedule-7" URI="http://www.legislation.gov.uk/id/wsi/2013/755/schedule/7">Sch. 7</CitationSubRef>)</Text></Para></Commentary><Commentary id="key-ca1b4530738151e24953409e72de2927" Type="F"><Para><Text>Words in <CitationSubRef id="chyjqbd92-00016" SectionRef="regulation-24-4-a" URI="http://www.legislation.gov.uk/id/uksi/2005/263/regulation/24/4/a">reg. 24(4)(a)</CitationSubRef> omitted (1.4.2013) by virtue of <Citation URI="http://www.legislation.gov.uk/id/wsi/2013/755" id="chyjqbd92-00017" Class="WelshStatutoryInstrument" Year="2013" Number="755" Title="The Natural Resources Body for Wales (Functions) Order 2013">The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)</Citation>, <CitationSubRef id="chyjqbd92-00018" CitationRef="chyjqbd92-00017" SectionRef="article-1-2" URI="http://www.legislation.gov.uk/id/wsi/2013/755/article/1/2">art. 1(2)</CitationSubRef>, <CitationSubRef id="chyjqbd92-00019" CitationRef="chyjqbd92-00017" SectionRef="schedule-4-paragraph-201-2" URI="http://www.legislation.gov.uk/id/wsi/2013/755/schedule/4/paragraph/201/2" Operative="true">Sch. 4 para. 201(2)</CitationSubRef> (with <CitationSubRef id="chyjqbd92-00020" CitationRef="chyjqbd92-00017" SectionRef="schedule-7" URI="http://www.legislation.gov.uk/id/wsi/2013/755/schedule/7">Sch. 7</CitationSubRef>)</Text></Para></Commentary></Commentaries></Legislation>

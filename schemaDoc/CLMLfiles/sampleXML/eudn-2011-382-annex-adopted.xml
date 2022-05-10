@@ -1,0 +1,2868 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382" NumberOfProvisions="8" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0">
+   <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+      <dc:identifier>http://www.legislation.gov.uk/eudn/2011/382/annex/adopted</dc:identifier>
+      <dc:title>Commission Decision of 24 June 2011 on establishing the ecological criteria for the award of the EU Ecolabel to hand dishwashing detergents (notified under document C(2011) 4448) (Text with EEA relevance) (2011/382/EU) (repealed)</dc:title>
+      <dc:description>Commission Decision of 24 June 2011 on establishing the ecological criteria for the award of the EU Ecolabel to hand dishwashing detergents (notified under document C(2011) 4448) (Text with EEA relevance) (2011/382/EU) (repealed)</dc:description>
+      <dc:modified>2020-12-11</dc:modified>
+      <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+      <dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0382</dc:source>
+      <dc:type>text</dc:type>
+      <dc:format>text/xml</dc:format>
+      <dc:language>en</dc:language>
+
+      <atom:link rel="self" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.xml" type="application/xml"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/eudn/2011/382/resources" title="More Resources"/>
+
+
+
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/eudn/2011/382/adopted" title="whole act"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/eudn/2011/382/introduction/adopted" title="introduction"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/eudn/2011/382/signature/adopted" title="signature"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/eudn/2011/382/body/adopted" title="body"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/navigation/annexes" href="http://www.legislation.gov.uk/eudn/2011/382/annexes/adopted" title="annexes"/>
+
+      <atom:link rel="http://www.legislation.gov.uk/def/date/euexitday" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/2020-01-31" title="2020-01-31"/>
+      <atom:link rel="http://www.legislation.gov.uk/def/date/euexitTransitionEnd" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/2020-12-31" title="2020-12-31"/>
+
+
+      <atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.rdf" title="RDF/XML"/>
+      <atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.akn" title="AKN"/>
+      <atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.xht" title="HTML snippet"/>
+      <atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.pdf" title="PDF"/>
+      <atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted/data.html" title="HTML5 snippet"/>
+
+
+      <atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/eudn/2011/382/contents/adopted" title="Table of Contents"/>
+
+      <atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2011/382/2011-06-24" title="2011-06-24"/>
+      <atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2011/382/2012-12-01" title="2012-12-01"/>
+      <atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2011/382/2017-07-12" title="2017-07-12"/>
+      <atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2011/382" title="current"/>
+
+      <atom:link rel="up" href="http://www.legislation.gov.uk/eudn/2011/382/adopted" title="Entire legislation"/>
+      <atom:link rel="prev" href="http://www.legislation.gov.uk/eudn/2011/382/signature/adopted" title="Signature; Signature"/>
+      <atom:link rel="prevInForce" href="http://www.legislation.gov.uk/eudn/2011/382/signature/adopted" title="Signature; Signature"/>
+      <ukm:EUMetadata>
+         <ukm:DocumentClassification>
+            <ukm:DocumentCategory Value="euretained"/>
+            <ukm:DocumentMainType Value="EuropeanUnionDecision"/>
+            <ukm:DocumentStatus Value="final"/>
+         </ukm:DocumentClassification>
+         <ukm:Year Value="2011"/>
+         <ukm:Number Value="382"/>
+         <ukm:EURLexIdentifiers>
+            <ukm:Cellar Value="b9ce7d2b-1f31-4631-a18a-21e0c7734654"/>
+            <ukm:ELI Value="dec:2011:382:oj"/>
+            <ukm:CELEX Value="32011D0382"/>
+            <ukm:OfficialJournal Value="JOL_2011_169_R_0040_01"/>
+         </ukm:EURLexIdentifiers>
+         <ukm:EnactmentDate Date="2011-06-24"/>
+         <ukm:EURLexModified Date="2019-09-07T13:33:45Z"/>
+         <ukm:EURLexExtracted Date="2019-09-07T17:59:59Z"/>
+         <ukm:XMLGenerated Date="2020-12-11T17:57:46Z"/>
+         <ukm:XMLImported Date="2020-12-11T18:05:23Z"/>
+         <ukm:Treaty Title="Treaty on the Functioning of the European Union (consolidated version 2008)" Code="TFEU_2008"/>
+         <ukm:CreatedBy Label="European Commission" URI="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="Protection of health and safety" URI="http://publications.europa.eu/resource/authority/fd_555/152030"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="Consumers" URI="http://publications.europa.eu/resource/authority/fd_555/1520"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="Environment, consumers and health protection" URI="http://publications.europa.eu/resource/authority/fd_555/15"/>
+         <ukm:Subject Scheme="SubjectMatter" Label="Consumer protection" URI="http://publications.europa.eu/resource/authority/fd_070/PROT"/>
+         <ukm:Subject Scheme="EuroVoc" Label="polishing and scouring preparations" URI="http://eurovoc.europa.eu/2747"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="General provisions and programmes" URI="http://publications.europa.eu/resource/authority/fd_555/151010"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="Environment" URI="http://publications.europa.eu/resource/authority/fd_555/1510"/>
+         <ukm:Subject Scheme="DirectoryCode" Label="Environment, consumers and health protection" URI="http://publications.europa.eu/resource/authority/fd_555/15"/>
+         <ukm:Subject Scheme="SubjectMatter" Label="Environment" URI="http://publications.europa.eu/resource/authority/fd_070/ENV"/>
+         <ukm:Subject Scheme="EuroVoc" Label="eco-label" URI="http://eurovoc.europa.eu/5696"/>
+         <ukm:Subject Scheme="EuroVoc" Label="environmental impact" URI="http://eurovoc.europa.eu/3139"/>
+         <ukm:Subject Scheme="EuroVoc" Label="consumer information" URI="http://eurovoc.europa.eu/1425"/>
+         <ukm:EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/b9ce7d2b-1f31-4631-a18a-21e0c7734654</VALUE>
+                  <IDENTIFIER>b9ce7d2b-1f31-4631-a18a-21e0c7734654</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/oj</VALUE>
+                     <IDENTIFIER>dec:2011:382:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32011D0382</VALUE>
+                     <IDENTIFIER>32011D0382</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2011_169_R_0040_01</VALUE>
+                     <IDENTIFIER>JOL_2011_169_R_0040_01</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <DATE_NOTIFICATION type="date">
+                  <VALUE>2011-06-27</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>27</DAY>
+               </DATE_NOTIFICATION>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/151010</VALUE>
+                     <IDENTIFIER>151010</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>151010</OP-CODE>
+                  <IDENTIFIER>151010</IDENTIFIER>
+                  <PREFLABEL>General provisions and programmes</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/4a2f9e7e-a905-4a6f-9f9d-cc52080c96b5</VALUE>
+                     <IDENTIFIER>4a2f9e7e-a905-4a6f-9f9d-cc52080c96b5</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20150304_0020010</VALUE>
+                        <IDENTIFIER>2011D0382/20150304_0020010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/135f145d-ab25-465d-a149-bceab7ead9d7</VALUE>
+                     <IDENTIFIER>135f145d-ab25-465d-a149-bceab7ead9d7</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20121201</VALUE>
+                        <IDENTIFIER>02011D0382-20121201</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2012-12-01</VALUE>
+                        <IDENTIFIER>dec:2011:382:2012-12-01</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20121201</VALUE>
+                        <IDENTIFIER>2011D0382/20121201</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <ID_CELEX type="data">
+                  <VALUE>32011D0382</VALUE>
+               </ID_CELEX>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/152030</VALUE>
+                        <IDENTIFIER>152030</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>152030</OP-CODE>
+                     <IDENTIFIER>152030</IDENTIFIER>
+                     <PREFLABEL>Protection of health and safety</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/1520</VALUE>
+                        <IDENTIFIER>1520</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>1520</OP-CODE>
+                     <IDENTIFIER>1520</IDENTIFIER>
+                     <PREFLABEL>Consumers</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/15</VALUE>
+                        <IDENTIFIER>15</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>15</OP-CODE>
+                     <IDENTIFIER>15</IDENTIFIER>
+                     <PREFLABEL>Environment, consumers and health protection</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <RESOURCE_LEGAL_ADDRESSES_INSTITUTION type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS27</VALUE>
+                     <IDENTIFIER>EUMS27</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>EUMS27</OP-CODE>
+                  <IDENTIFIER>EUMS27</IDENTIFIER>
+                  <PREFLABEL>The twenty-seven Member States: Belgium, Bulgaria, Czech Republic, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden, United Kingdom</PREFLABEL>
+               </RESOURCE_LEGAL_ADDRESSES_INSTITUTION>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </CREATED_BY>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/1425</VALUE>
+                     <IDENTIFIER>1425</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>1425</IDENTIFIER>
+                  <PREFLABEL>consumer information</PREFLABEL>
+                  <ALTLABEL>consumer education</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_TABLE-OF-CONTENTS type="data">
+                  <VALUE> &lt;table-of-contents&gt; &lt;p&gt;0040 - 0041&lt;/p&gt; &lt;p&gt;ANX P 0042 - 0051&lt;/p&gt; &lt;/table-of-contents&gt; </VALUE>
+               </WORK_TABLE-OF-CONTENTS>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+                     <IDENTIFIER>JO</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>JO</OP-CODE>
+                  <IDENTIFIER>JO</IDENTIFIER>
+                  <PREFLABEL>JO</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2011/382/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/152030</VALUE>
+                     <IDENTIFIER>152030</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>152030</OP-CODE>
+                  <IDENTIFIER>152030</IDENTIFIER>
+                  <PREFLABEL>Protection of health and safety</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/135f145d-ab25-465d-a149-bceab7ead9d7</VALUE>
+                     <IDENTIFIER>135f145d-ab25-465d-a149-bceab7ead9d7</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20121201</VALUE>
+                        <IDENTIFIER>02011D0382-20121201</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2012-12-01</VALUE>
+                        <IDENTIFIER>dec:2011:382:2012-12-01</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20121201</VALUE>
+                        <IDENTIFIER>2011D0382/20121201</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/PROT</VALUE>
+                        <IDENTIFIER>PROT</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>PROT</OP-CODE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <PREFLABEL>Consumer protection</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS type="data">
+                  <VALUE>{P/EEE|http://publications.europa.eu/resource/authority/fd_400/P%2FEEE}</VALUE>
+               </RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS>
+               <IDENTIFIER type="data">
+                  <VALUE>837888</VALUE>
+               </IDENTIFIER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2747</VALUE>
+                        <IDENTIFIER>2747</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2747</IDENTIFIER>
+                     <PREFLABEL>polishing and scouring preparations</PREFLABEL>
+                     <ALTLABEL>cleaning product</ALTLABEL>
+                     <ALTLABEL>detergent</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3798</VALUE>
+                        <IDENTIFIER>3798</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3798</IDENTIFIER>
+                     <PREFLABEL>special chemicals</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100160</VALUE>
+                        <IDENTIFIER>100160</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>68</IDENTIFIER>
+                     <PREFLABEL>68 INDUSTRY</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100269</VALUE>
+                        <IDENTIFIER>100269</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6811</IDENTIFIER>
+                     <PREFLABEL>6811 chemistry</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/fb67c45f-9251-4e47-beb0-74e7b1f0eb43</VALUE>
+                     <IDENTIFIER>fb67c45f-9251-4e47-beb0-74e7b1f0eb43</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32009D0888</VALUE>
+                        <IDENTIFIER>32009D0888</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2009/888/oj</VALUE>
+                        <IDENTIFIER>dec:2009:888:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2009_318_R_0043_01</VALUE>
+                        <IDENTIFIER>JOL_2009_318_R_0043_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <ROLE2>{AP|http://publications.europa.eu/resource/authority/fd_375/AP}</ROLE2>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:17/03/2015 17:52:55</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/151010</VALUE>
+                        <IDENTIFIER>151010</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>151010</OP-CODE>
+                     <IDENTIFIER>151010</IDENTIFIER>
+                     <PREFLABEL>General provisions and programmes</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/1510</VALUE>
+                        <IDENTIFIER>1510</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>1510</OP-CODE>
+                     <IDENTIFIER>1510</IDENTIFIER>
+                     <PREFLABEL>Environment</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/15</VALUE>
+                        <IDENTIFIER>15</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>15</OP-CODE>
+                     <IDENTIFIER>15</IDENTIFIER>
+                     <PREFLABEL>Environment, consumers and health protection</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>D</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/4a2f9e7e-a905-4a6f-9f9d-cc52080c96b5</VALUE>
+                     <IDENTIFIER>4a2f9e7e-a905-4a6f-9f9d-cc52080c96b5</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20150304_0020010</VALUE>
+                        <IDENTIFIER>2011D0382/20150304_0020010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0382</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c4c88f48-0dcd-4cd1-bb8e-1596dcc5ffdb</VALUE>
+                     <IDENTIFIER>c4c88f48-0dcd-4cd1-bb8e-1596dcc5ffdb</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20150304</VALUE>
+                        <IDENTIFIER>2011D0382/20150304</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2015-03-04</VALUE>
+                        <IDENTIFIER>dec:2011:382:2015-03-04</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20150304</VALUE>
+                        <IDENTIFIER>02011D0382-20150304</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/09c48be5-abcd-11e6-aab7-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>09c48be5-abcd-11e6-aab7-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32016D2003</VALUE>
+                        <IDENTIFIER>32016D2003</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2016/2003/oj</VALUE>
+                        <IDENTIFIER>dec:2016:2003:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_308_R_0009</VALUE>
+                        <IDENTIFIER>JOL_2016_308_R_0009</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <ROLE2>{R|http://publications.europa.eu/resource/authority/fd_375/R}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 4</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2011-06-27</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>27</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATNOT|http://publications.europa.eu/resource/authority/fd_335/DATNOT}</COMMENT_ON_DATE>
+                     <TYPE_OF_DATE>{PE|http://publications.europa.eu/resource/authority/fd_335/PE}</TYPE_OF_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/853c23c9-b3c3-4f20-a12b-9520f974fb27</VALUE>
+                     <IDENTIFIER>853c23c9-b3c3-4f20-a12b-9520f974fb27</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20161116_0030010</VALUE>
+                        <IDENTIFIER>2011D0382/20161116_0030010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/1a00cb9e-c241-11e4-bbe1-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>1a00cb9e-c241-11e4-bbe1-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2015/345/oj</VALUE>
+                        <IDENTIFIER>dec:2015:345:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2015_060_R_0005</VALUE>
+                        <IDENTIFIER>JOL_2015_060_R_0005</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/immc/20150223-003%3AC%282015%291286%2F785833</VALUE>
+                        <IDENTIFIER>20150223-003:C(2015)1286/785833</IDENTIFIER>
+                        <TYPE>immc</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32015D0345</VALUE>
+                        <IDENTIFIER>32015D0345</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/03/2015 19:30:24</BUILD_INFO>
+                     <ROLE2>{R|http://publications.europa.eu/resource/authority/fd_375/R}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AR|http://publications.europa.eu/resource/authority/fd_370/AR} 4</REFERENCE_TO_MODIFIED_LOCATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>REP</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2008</VALUE>
+                     <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2008</OP-CODE>
+                  <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2008)</PREFLABEL>
+                  <ALTLABEL>TFEU (2008)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2008)</ALTLABEL>
+               </BASED_ON>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/853c23c9-b3c3-4f20-a12b-9520f974fb27</VALUE>
+                     <IDENTIFIER>853c23c9-b3c3-4f20-a12b-9520f974fb27</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20161116_0030010</VALUE>
+                        <IDENTIFIER>2011D0382/20161116_0030010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2011_169_R_0040_01</VALUE>
+               </WORK_ID_DOCUMENT>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2011-07-04</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>04</DAY>
+               </DATE_CREATION_LEGACY>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32011D0382</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3139</VALUE>
+                     <IDENTIFIER>3139</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3139</IDENTIFIER>
+                  <PREFLABEL>environmental impact</PREFLABEL>
+                  <ALTLABEL>effect on the environment</ALTLABEL>
+                  <ALTLABEL>ecological balance sheet</ALTLABEL>
+                  <ALTLABEL>eco-balance</ALTLABEL>
+                  <ALTLABEL>environmental assessment</ALTLABEL>
+                  <ALTLABEL>ecological assessment</ALTLABEL>
+                  <ALTLABEL>environmental footprint</ALTLABEL>
+                  <ALTLABEL>environmental effect</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/ENV</VALUE>
+                        <IDENTIFIER>ENV</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>ENV</OP-CODE>
+                     <IDENTIFIER>ENV</IDENTIFIER>
+                     <PREFLABEL>Environment</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>382</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c4c88f48-0dcd-4cd1-bb8e-1596dcc5ffdb</VALUE>
+                     <IDENTIFIER>c4c88f48-0dcd-4cd1-bb8e-1596dcc5ffdb</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20150304</VALUE>
+                        <IDENTIFIER>2011D0382/20150304</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2015-03-04</VALUE>
+                        <IDENTIFIER>dec:2011:382:2015-03-04</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20150304</VALUE>
+                        <IDENTIFIER>02011D0382-20150304</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2011-06-24</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32011D0382</VALUE>
+               </WORK_ID_DOCUMENT>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>false</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/9e09c530-b0c7-477c-944f-5bbfd7e42164</VALUE>
+                     <IDENTIFIER>9e09c530-b0c7-477c-944f-5bbfd7e42164</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2010/66/oj</VALUE>
+                        <IDENTIFIER>reg:2010:66:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2010_027_R_0001_01</VALUE>
+                        <IDENTIFIER>JOL_2010_027_R_0001_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32010R0066</VALUE>
+                        <IDENTIFIER>32010R0066</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <PARAGRAPH>2</PARAGRAPH>
+                     <ARTICLE>08</ARTICLE>
+                     <COMMENT_ON_LEGAL_BASIS>A08P2</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:17/03/2015 17:52:55</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5696</VALUE>
+                        <IDENTIFIER>5696</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5696</IDENTIFIER>
+                     <PREFLABEL>eco-label</PREFLABEL>
+                     <ALTLABEL>environment-friendly label</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/13</VALUE>
+                        <IDENTIFIER>13</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>13</IDENTIFIER>
+                     <PREFLABEL>marketing</PREFLABEL>
+                     <ALTLABEL>marketing campaign</ALTLABEL>
+                     <ALTLABEL>marketing policy</ALTLABEL>
+                     <ALTLABEL>marketing structure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100196</VALUE>
+                        <IDENTIFIER>100196</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2031</IDENTIFIER>
+                     <PREFLABEL>2031 marketing</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <DATE type="date">
+                  <VALUE>2011-06-24</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </DATE>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2011/382/oj</VALUE>
+               </IDENTIFIER>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32011D0382</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/f1ad77a7-22cd-4b68-8bd8-8078c0a86e0e</VALUE>
+                     <IDENTIFIER>f1ad77a7-22cd-4b68-8bd8-8078c0a86e0e</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20170712_0040010</VALUE>
+                        <IDENTIFIER>2011D0382/20170712_0040010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <ADDRESSES type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/EUMS27</VALUE>
+                     <IDENTIFIER>EUMS27</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>EUMS27</OP-CODE>
+                  <IDENTIFIER>EUMS27</IDENTIFIER>
+                  <PREFLABEL>The twenty-seven Member States: Belgium, Bulgaria, Czech Republic, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden, United Kingdom</PREFLABEL>
+               </ADDRESSES>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/47518b3f-eaea-11e3-8cd4-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>47518b3f-eaea-11e3-8cd4-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/immc/20140521-001%3AC-2014-3468</VALUE>
+                        <IDENTIFIER>20140521-001:C-2014-3468</IDENTIFIER>
+                        <TYPE>immc</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2014_164_R_0011</VALUE>
+                        <IDENTIFIER>JOL_2014_164_R_0011</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/planjo/20140521-001</VALUE>
+                        <IDENTIFIER>20140521-001</IDENTIFIER>
+                        <TYPE>planjo</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32014D0313</VALUE>
+                        <IDENTIFIER>32014D0313</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2014/313/oj</VALUE>
+                        <IDENTIFIER>dec:2014:313:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:24/10/2014 17:57:48</BUILD_INFO>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <START_OF_VALIDITY>2012-12-01</START_OF_VALIDITY>
+                     <ROLE2>TXT</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AN|http://publications.europa.eu/resource/authority/fd_370/AN}</REFERENCE_TO_MODIFIED_LOCATION>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDED_BY_RESOURCE_LEGAL>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3139</VALUE>
+                        <IDENTIFIER>3139</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3139</IDENTIFIER>
+                     <PREFLABEL>environmental impact</PREFLABEL>
+                     <ALTLABEL>effect on the environment</ALTLABEL>
+                     <ALTLABEL>ecological balance sheet</ALTLABEL>
+                     <ALTLABEL>eco-balance</ALTLABEL>
+                     <ALTLABEL>environmental assessment</ALTLABEL>
+                     <ALTLABEL>ecological assessment</ALTLABEL>
+                     <ALTLABEL>environmental footprint</ALTLABEL>
+                     <ALTLABEL>environmental effect</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2470</VALUE>
+                        <IDENTIFIER>2470</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2470</IDENTIFIER>
+                     <PREFLABEL>environmental policy</PREFLABEL>
+                     <ALTLABEL>environmental management</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100155</VALUE>
+                        <IDENTIFIER>100155</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>52</IDENTIFIER>
+                     <PREFLABEL>52 ENVIRONMENT</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100242</VALUE>
+                        <IDENTIFIER>100242</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5206</IDENTIFIER>
+                     <PREFLABEL>5206 environmental policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2011-06-24</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>24</DAY>
+               </DATE_DOCUMENT>
+               <RESOURCE_LEGAL_REPEALED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/20db101e-66c4-11e7-b2f2-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>20db101e-66c4-11e7-b2f2-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2017/1214/oj</VALUE>
+                        <IDENTIFIER>dec:2017:1214:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32017D1214</VALUE>
+                        <IDENTIFIER>32017D1214</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2017_180_R_0001</VALUE>
+                        <IDENTIFIER>JOL_2017_180_R_0001</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <START_OF_VALIDITY>2017-06-26</START_OF_VALIDITY>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_REPEALED_BY_RESOURCE_LEGAL>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2011/382/oj</VALUE>
+               </ELI>
+               <IDENTIFIER type="data">
+                  <VALUE>32011D0382</VALUE>
+               </IDENTIFIER>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2011_169_R_0040_01</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5696</VALUE>
+                     <IDENTIFIER>5696</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5696</IDENTIFIER>
+                  <PREFLABEL>eco-label</PREFLABEL>
+                  <ALTLABEL>environment-friendly label</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c829993f-bf45-406d-a0b9-918458a907ba</VALUE>
+                     <IDENTIFIER>c829993f-bf45-406d-a0b9-918458a907ba</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20161116</VALUE>
+                        <IDENTIFIER>02011D0382-20161116</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20161116</VALUE>
+                        <IDENTIFIER>2011D0382/20161116</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2016-11-16</VALUE>
+                        <IDENTIFIER>dec:2011:382:2016-11-16</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_VALIDITY_EXTENDED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/1a00cb9e-c241-11e4-bbe1-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>1a00cb9e-c241-11e4-bbe1-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2015/345/oj</VALUE>
+                        <IDENTIFIER>dec:2015:345:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2015_060_R_0005</VALUE>
+                        <IDENTIFIER>JOL_2015_060_R_0005</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/immc/20150223-003%3AC%282015%291286%2F785833</VALUE>
+                        <IDENTIFIER>20150223-003:C(2015)1286/785833</IDENTIFIER>
+                        <TYPE>immc</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32015D0345</VALUE>
+                        <IDENTIFIER>32015D0345</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:11/03/2015 19:30:24</BUILD_INFO>
+                     <END_OF_VALIDITY>2016/12/31</END_OF_VALIDITY>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_VALIDITY_EXTENDED_BY_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/10b04557-9d14-46b0-85cd-829deee24984</VALUE>
+                     <IDENTIFIER>10b04557-9d14-46b0-85cd-829deee24984</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32008D0889</VALUE>
+                        <IDENTIFIER>32008D0889</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2008_318_R_0012_01</VALUE>
+                        <IDENTIFIER>JOL_2008_318_R_0012_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2008/889/oj</VALUE>
+                        <IDENTIFIER>dec:2008:889:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <ROLE2>{AP|http://publications.europa.eu/resource/authority/fd_375/AP}</ROLE2>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:17/03/2015 17:52:55</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c829993f-bf45-406d-a0b9-918458a907ba</VALUE>
+                     <IDENTIFIER>c829993f-bf45-406d-a0b9-918458a907ba</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20161116</VALUE>
+                        <IDENTIFIER>02011D0382-20161116</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20161116</VALUE>
+                        <IDENTIFIER>2011D0382/20161116</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2016-11-16</VALUE>
+                        <IDENTIFIER>dec:2011:382:2016-11-16</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/PROT</VALUE>
+                     <IDENTIFIER>PROT</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>PROT</OP-CODE>
+                  <IDENTIFIER>PROT</IDENTIFIER>
+                  <PREFLABEL>Consumer protection</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/f1ad77a7-22cd-4b68-8bd8-8078c0a86e0e</VALUE>
+                     <IDENTIFIER>f1ad77a7-22cd-4b68-8bd8-8078c0a86e0e</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20170712_0040010</VALUE>
+                        <IDENTIFIER>2011D0382/20170712_0040010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>2017-06-25</VALUE>
+                  <YEAR>2017</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>25</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{A/PAR|http://publications.europa.eu/resource/authority/fd_330/A%2FPAR} 32017D1214</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <LEGISLATION_SECONDARY_DATE_NOTIFICATION type="date">
+                  <VALUE>2011-06-27</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>27</DAY>
+               </LEGISLATION_SECONDARY_DATE_NOTIFICATION>
+               <RESOURCE_LEGAL_VALIDITY_EXTENDED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/09c48be5-abcd-11e6-aab7-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>09c48be5-abcd-11e6-aab7-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32016D2003</VALUE>
+                        <IDENTIFIER>32016D2003</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2016/2003/oj</VALUE>
+                        <IDENTIFIER>dec:2016:2003:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_308_R_0009</VALUE>
+                        <IDENTIFIER>JOL_2016_308_R_0009</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <END_OF_VALIDITY>2017-12-31</END_OF_VALIDITY>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_VALIDITY_EXTENDED_BY_RESOURCE_LEGAL>
+               <CREATIONDATE type="date">
+                  <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+                  <YEAR>1001</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </CREATIONDATE>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2008</VALUE>
+                     <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2008</OP-CODE>
+                  <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2008)</PREFLABEL>
+                  <ALTLABEL>TFEU (2008)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2008)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <DATE type="date">
+                  <VALUE>2017-06-25</VALUE>
+                  <YEAR>2017</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>25</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a77aca82-b55b-438d-9382-062cbe4c5dab</VALUE>
+                     <IDENTIFIER>a77aca82-b55b-438d-9382-062cbe4c5dab</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20121201_0010010</VALUE>
+                        <IDENTIFIER>2011D0382/20121201_0010010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_REPEALS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/ad484231-aeb4-47ff-a360-26639b54177e</VALUE>
+                     <IDENTIFIER>ad484231-aeb4-47ff-a360-26639b54177e</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2005_115_R_0009_01</VALUE>
+                        <IDENTIFIER>JOL_2005_115_R_0009_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2005/342/oj</VALUE>
+                        <IDENTIFIER>dec:2005:342:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32005D0342</VALUE>
+                        <IDENTIFIER>32005D0342</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7 tdm:1523 xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:17/03/2015 17:52:55</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_REPEALS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/115ff0f2-ce72-11e2-ba1b-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>115ff0f2-ce72-11e2-ba1b-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.HRV.15.017.FULL</VALUE>
+                        <IDENTIFIER>DD.HRV.15.017.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2013_15_017_HR</VALUE>
+                        <IDENTIFIER>DD_2013_15_017_HR</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/34596b46-bd8a-4928-b5ec-6d5a9254ec3e</VALUE>
+                     <IDENTIFIER>34596b46-bd8a-4928-b5ec-6d5a9254ec3e</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2017-07-12</VALUE>
+                        <IDENTIFIER>dec:2011:382:2017-07-12</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20170712</VALUE>
+                        <IDENTIFIER>02011D0382-20170712</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20170712</VALUE>
+                        <IDENTIFIER>2011D0382/20170712</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2747</VALUE>
+                     <IDENTIFIER>2747</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2747</IDENTIFIER>
+                  <PREFLABEL>polishing and scouring preparations</PREFLABEL>
+                  <ALTLABEL>cleaning product</ALTLABEL>
+                  <ALTLABEL>detergent</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2011</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/34596b46-bd8a-4928-b5ec-6d5a9254ec3e</VALUE>
+                     <IDENTIFIER>34596b46-bd8a-4928-b5ec-6d5a9254ec3e</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2011/382/2017-07-12</VALUE>
+                        <IDENTIFIER>dec:2011:382:2017-07-12</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02011D0382-20170712</VALUE>
+                        <IDENTIFIER>02011D0382-20170712</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20170712</VALUE>
+                        <IDENTIFIER>2011D0382/20170712</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <DATE type="date">
+                  <VALUE>2011-07-04</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>07</MONTH>
+                  <DAY>04</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/2ce9a8fc-23ec-49ec-8009-d94319038de6</VALUE>
+                     <IDENTIFIER>2ce9a8fc-23ec-49ec-8009-d94319038de6</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2005D0342%2F20110629_0030010</VALUE>
+                        <IDENTIFIER>2005D0342/20110629_0030010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DEC_ENTSCHEID</VALUE>
+                     <IDENTIFIER>DEC_ENTSCHEID</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DEC_ENTSCHEID</OP-CODE>
+                  <IDENTIFIER>DEC_ENTSCHEID</IDENTIFIER>
+                  <PREFLABEL>Decision</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <DATE type="date">
+                  <VALUE>2011-06-27</VALUE>
+                  <YEAR>2011</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>27</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/220e3ada-8dbe-492f-a351-42ba277bb479</VALUE>
+                     <IDENTIFIER>220e3ada-8dbe-492f-a351-42ba277bb479</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2005/342/2011-06-29</VALUE>
+                        <IDENTIFIER>dec:2005:342:2011-06-29</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02005D0342-20110629</VALUE>
+                        <IDENTIFIER>02005D0342-20110629</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2005D0342%2F20110629</VALUE>
+                        <IDENTIFIER>2005D0342/20110629</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/da90c90c-4e97-46e4-9399-d741c756b7b5</VALUE>
+                     <IDENTIFIER>da90c90c-4e97-46e4-9399-d741c756b7b5</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2011_169_R</VALUE>
+                        <IDENTIFIER>JOL_2011_169_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2019-09-07T15:33:45.262+02:00</VALUE>
+                  <YEAR>2019</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>07</DAY>
+               </LASTMODIFICATIONDATE>
+               <RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a77aca82-b55b-438d-9382-062cbe4c5dab</VALUE>
+                     <IDENTIFIER>a77aca82-b55b-438d-9382-062cbe4c5dab</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2011D0382%2F20121201_0010010</VALUE>
+                        <IDENTIFIER>2011D0382/20121201_0010010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_BASIS_FOR_ACT_CONSOLIDATED>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/9e09c530-b0c7-477c-944f-5bbfd7e42164</VALUE>
+                     <IDENTIFIER>9e09c530-b0c7-477c-944f-5bbfd7e42164</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2010/66/oj</VALUE>
+                        <IDENTIFIER>reg:2010:66:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2010_027_R_0001_01</VALUE>
+                        <IDENTIFIER>JOL_2010_027_R_0001_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32010R0066</VALUE>
+                        <IDENTIFIER>32010R0066</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1425</VALUE>
+                        <IDENTIFIER>1425</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1425</IDENTIFIER>
+                     <PREFLABEL>consumer information</PREFLABEL>
+                     <ALTLABEL>consumer education</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/138</VALUE>
+                        <IDENTIFIER>138</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>138</IDENTIFIER>
+                     <PREFLABEL>consumer</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100195</VALUE>
+                        <IDENTIFIER>100195</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2026</IDENTIFIER>
+                     <PREFLABEL>2026 consumption</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <YEAR type="data">
+                  <VALUE>2011</VALUE>
+               </YEAR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/ENV</VALUE>
+                     <IDENTIFIER>ENV</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>ENV</OP-CODE>
+                  <IDENTIFIER>ENV</IDENTIFIER>
+                  <PREFLABEL>Environment</PREFLABEL>
+               </IS_ABOUT>
+               <TYPE>D</TYPE>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:decision</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/b9ce7d2b-1f31-4631-a18a-21e0c7734654.0004</VALUE>
+                  <IDENTIFIER>b9ce7d2b-1f31-4631-a18a-21e0c7734654.0004</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2011.169.01.0040.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2011.169.01.0040.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2011_169_R_0040_01.ENG</VALUE>
+                     <IDENTIFIER>JOL_2011_169_R_0040_01.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32011D0382.ENG</VALUE>
+                     <IDENTIFIER>32011D0382.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>2011/382/EU: Commission Decision of 24 June 2011 on establishing the ecological criteria for the award of the EU Ecolabel to hand dishwashing detergents (notified under document C(2011) 4448) Text with EEA relevance</VALUE>
+               </EXPRESSION_TITLE>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-03-22T12:12:00.111+01:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>03</MONTH>
+                  <DAY>22</DAY>
+               </LASTMODIFICATIONDATE>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <CREATIONDATE type="date">
+                  <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+                  <YEAR>1001</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </CREATIONDATE>
+               <TITLE type="data">
+                  <VALUE>2011/382/EU: Commission Decision of 24 June 2011 on establishing the ecological criteria for the award of the EU Ecolabel to hand dishwashing detergents (notified under document C(2011) 4448) Text with EEA relevance</VALUE>
+               </TITLE>
+               <TITLE type="data">
+                  <VALUE>CELEX1</VALUE>
+               </TITLE>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+            </EXPRESSION>
+         </ukm:EURLexMetadata>
+      </ukm:EUMetadata>
+
+
+
+
+      <ukm:Alternatives>
+         <ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2011/382/pdfs/eudn_20110382_adopted_en.pdf" Date="2011-06-24" Size="813691"/>
+         <ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2011/382/pdfs/eudn_20110382_2012-12-01_en.pdf" Date="2012-12-01" Size="758497" Revised="2012-12-01"/>
+         <ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2011/382/pdfs/eudn_20110382_2015-03-04_en.pdf" Date="2015-03-04" Size="759201" Revised="2015-03-04"/>
+         <ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2011/382/pdfs/eudn_20110382_2016-11-16_en.pdf" Date="2016-11-16" Size="259310" Revised="2016-11-16"/>
+         <ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2011/382/pdfs/eudn_20110382_2017-07-12_en.pdf" Date="2017-07-12" Size="473787" Revised="2017-07-12"/>
+      </ukm:Alternatives>
+
+      <ukm:Statistics>
+         <ukm:TotalParagraphs Value="97"/>
+         <ukm:BodyParagraphs Value="8"/>
+         <ukm:ScheduleParagraphs Value="89"/>
+         <ukm:AttachmentParagraphs Value="0"/>
+         <ukm:TotalImages Value="3"/>
+      </ukm:Statistics>
+   </ukm:Metadata>
+   <EURetained>
+      <Schedules>
+         <Schedule DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex" id="annex">
+            <Number>ANNEX</Number>
+            <ScheduleBody>
+               <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/1/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/1" id="annex-division-1">
+                  <Title>
+                     <Strong>FRAMEWORK</Strong>
+                  </Title>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/1/division/1/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/1/division/1" id="annex-division-1-division-1">
+                     <Title>
+                        <Strong>The aims of the criteria</Strong>
+                     </Title>
+                     <P>
+                        <Text>These criteria aim, in particular, at promoting products that have a reduced discharges of toxic or otherwise polluting substances into the aquatic environment, reducing or preventing risks to health or the environment related to the use of hazardous substances, minimising packaging waste, providing information that will enable the consumer to use the product in the way that is efficient and minimising environmental impact.</Text>
+                     </P>
+                  </Division>
+               </Division>
+               <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2" id="annex-division-2">
+                  <Title>
+                     <Strong>CRITERIA</Strong>
+                  </Title>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/1/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/1" id="annex-division-2-division-1">
+                     <Number>1.</Number>
+                     <P>
+                        <Text>Toxicity to aquatic organisms</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/2/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/2" id="annex-division-2-division-2">
+                     <Number>2.</Number>
+                     <P>
+                        <Text>Biodegradability of surfactants</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/3/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/3" id="annex-division-2-division-3">
+                     <Number>3.</Number>
+                     <P>
+                        <Text>Excluded or limited substances and mixtures</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/4/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/4" id="annex-division-2-division-4">
+                     <Number>4.</Number>
+                     <P>
+                        <Text>Fragrances</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/5/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/5" id="annex-division-2-division-5">
+                     <Number>5.</Number>
+                     <P>
+                        <Text>Corrosive properties</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/6/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/6" id="annex-division-2-division-6">
+                     <Number>6.</Number>
+                     <P>
+                        <Text>Packaging requirements</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/7/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/7" id="annex-division-2-division-7">
+                     <Number>7.</Number>
+                     <P>
+                        <Text>Fitness for use</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/8/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/8" id="annex-division-2-division-8">
+                     <Number>8.</Number>
+                     <P>
+                        <Text>User instructions</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/9/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/9" id="annex-division-2-division-9">
+                     <Number>9.</Number>
+                     <P>
+                        <Text>Information appearing on the EU Ecolabel</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/10/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/10" id="annex-division-2-division-10">
+                     <Title>
+                        <Strong>Assessment and verification requirements</Strong>
+                     </Title>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/10/division/a/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/10/division/a" id="annex-division-2-division-10-division-a">
+                        <Number>(a)</Number>
+                        <Title>Requirements</Title>
+                        <P>
+                           <Text>The specific assessment and verification requirements are indicated within each criterion.</Text>
+                        </P>
+                        <P>
+                           <Text>Where the applicant is required to provide declarations, documentation, analyses test reports, or other evidence to show compliance with the criteria, it is understood that these may originate from the applicant and/or his supplier(s) and/or their supplier(s), etc as appropriate.</Text>
+                        </P>
+                        <P>
+                           <Text>Where possible, the testing should be performed by laboratories that meet the general requirements of EN ISO 17025 or equivalent.</Text>
+                        </P>
+                        <P>
+                           <Text>Where appropriate, test methods other than those indicated for each criterion may be used if the competent body assessing the application accepts their equivalence.</Text>
+                        </P>
+                        <P>
+                           <Text>Appendix I makes reference to the Detergents Ingredients Database (DID) list which contains the most widely used ingredients used in detergent formulations. It shall be used for deriving the data for the calculations of the Critical Dilution Volume (CDV) and for the assessment of the biodegradability of the ingredients. For substances not present on the DID list, guidance is given on how to calculate or extrapolate the relevant data. The latest version of the DID list is available from the EU Ecolabel website or via the websites of the individual competent bodies.</Text>
+                        </P>
+                        <P>
+                           <Text>Where appropriate, competent bodies may require supporting documentation and may carry out independent verifications.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/10/division/b/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/10/division/b" id="annex-division-2-division-10-division-b">
+                        <Number>(b)</Number>
+                        <Title>Measurement thresholds</Title>
+                        <P>
+                           <Text>All substances in the product, including additives (e.g. preservatives or stabilisers) in the ingredients, of which the concentration exceeds 0,010 % by weight of the final formulation shall comply with the EU Ecolabel criteria except for criterion 1, where each intentionally added substance should be included, irrespective of its weight. Impurities resulting from the production of the ingredients which are present in concentrations &gt; 0,010 % by weight of the final formulation shall also comply with the criteria.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/2/division/10/division/c/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/2/division/10/division/c" id="annex-division-2-division-10-division-c">
+                        <Number>(c)</Number>
+                        <Title>Reference dosage</Title>
+                        <P>
+                           <Text>For hand dishwashing detergents, the dosage in grams of the product recommended by the manufacturer for preparing 1 litre of dishwashing water for cleaning of normally soiled dishes is taken as the reference dosage for the calculations aiming at documenting compliance with the EU Ecolabel criteria and for testing of cleaning ability.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+               </Division>
+               <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3" id="annex-division-3">
+                  <Title>
+                     <Strong>EU ECOLABEL CRITERIA</Strong>
+                  </Title>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 1</Strong> —</Number>
+                     <Title>
+                        <Strong>Toxicity to aquatic organisms</Strong>
+                     </Title>
+                     <P>
+                        <Text>The critical dilution volume (CDV<Inferior>chronic</Inferior>) is calculated for each substance (i) using the following equation:</Text>
+                     </P>
+                     <P>
+                        <Formula AltVersionRefs="v00001">
+                           <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+                              <msub>
+                                 <mrow>
+                                    <mstyle mathvariant="italic">
+                                       <mi>CDV</mi>
+                                    </mstyle>
+                                 </mrow>
+                                 <mrow>
+                                    <mstyle mathvariant="italic">
+                                       <mi>chronic</mi>
+                                    </mstyle>
+                                 </mrow>
+                              </msub>
+                              <mi> = Σ</mi>
+                              <msub>
+                                 <mrow>
+                                    <mstyle mathvariant="italic">
+                                       <mi>CDV</mi>
+                                    </mstyle>
+                                 </mrow>
+                                 <mrow>
+                                    <mi>(</mi>
+                                    <mstyle mathvariant="italic">
+                                       <mi>i</mi>
+                                    </mstyle>
+                                    <mi>)</mi>
+                                 </mrow>
+                              </msub>
+                              <mi> = Σ</mi>
+                              <mrow>
+                                 <mfrac>
+                                    <mrow>
+                                       <msub>
+                                          <mrow>
+                                             <mstyle mathvariant="italic">
+                                                <mi>weight</mi>
+                                             </mstyle>
+                                          </mrow>
+                                          <mrow>
+                                             <mi>(</mi>
+                                             <mstyle mathvariant="italic">
+                                                <mi>i</mi>
+                                             </mstyle>
+                                             <mi>)</mi>
+                                          </mrow>
+                                       </msub>
+                                       <mi> × </mi>
+                                       <msub>
+                                          <mrow>
+                                             <mstyle mathvariant="italic">
+                                                <mi>DF</mi>
+                                             </mstyle>
+                                          </mrow>
+                                          <mrow>
+                                             <mi>(</mi>
+                                             <mstyle mathvariant="italic">
+                                                <mi>i</mi>
+                                             </mstyle>
+                                             <mi>)</mi>
+                                          </mrow>
+                                       </msub>
+                                    </mrow>
+                                    <mrow>
+                                       <msub>
+                                          <mrow>
+                                             <mstyle mathvariant="italic">
+                                                <mi>TF</mi>
+                                             </mstyle>
+                                          </mrow>
+                                          <mrow>
+                                             <mstyle mathvariant="italic">
+                                                <mi>chronic</mi>
+                                             </mstyle>
+                                             <mi>(</mi>
+                                             <mstyle mathvariant="italic">
+                                                <mi>i</mi>
+                                             </mstyle>
+                                             <mi>)</mi>
+                                          </mrow>
+                                       </msub>
+                                    </mrow>
+                                 </mfrac>
+                              </mrow>
+                              <mi> × </mi>
+                              <mi>1 000</mi>
+                           </math>
+                        </Formula>
+                     </P>
+                     <P>
+                        <Text>where weight<Inferior>(i)</Inferior> is the weight of the substance (in grams) contained in the dosage recommended by the manufacturer for 1 litre of dishwashing water. DF<Inferior>(i)</Inferior> is the degradation factor and TF<Inferior>chronic(i)</Inferior> is the toxicity factor of the substance (in milligrams/litre).</Text>
+                     </P>
+                     <P>
+                        <Text>The values of DF and TF chronic shall be as given in the detergent ingredient database list part A (DID list part A) (Appendix I). If the substance in question is not included in the DID list part A, the applicant shall estimate the values following the approach described in the DID list part B (Appendix I). The CDV<Inferior>chronic</Inferior> is summed for each substance, making the CDV<Inferior>chronic</Inferior> for the product.</Text>
+                     </P>
+                     <P>
+                        <Text>The CDV<Inferior>chronic</Inferior> shall be calculated on the basis of the dosage in grams of the product recommended by the manufacturer for preparing 1 litre of dishwashing water for cleaning of normally soiled dishes. The CDV<Inferior>chronic</Inferior> of the recommended dose expressed for 1 litre of dishwashing water shall not exceed 3 800 litres.</Text>
+                     </P>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> the exact formulation of the product shall be provided to the competent body, together with the details of the CDV<Inferior>chronic</Inferior> calculations showing compliance with this criterion.</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 2 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Biodegradability of surfactants</Strong>
+                     </Title>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/a/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/a" id="annex-division-3-division-Criterion-division-a">
+                        <Number>(a)</Number>
+                        <Title>Ready biodegradability (aerobic)</Title>
+                        <P>
+                           <Text>Each surfactant used in the product shall be readily biodegradable.</Text>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification:</Emphasis> the exact formulation of the product as well as a description of the function of each substance shall be provided to the competent body. The DID list part A (Appendix I) indicates whether a specific surfactant is aerobically biodegradable or not (the surfactants with an entry of ‘R’ in the column on aerobic biodegradability are readily biodegradable). For surfactants which are not included in the DID list part A, the relevant information from literature or other sources, or appropriate test results, showing that they are aerobically biodegradable shall be provided. The tests for ready biodegradability shall be as referred to in Regulation (EC) No 648/2004 of the European Parliament and of the Council of 31 March 2004 on detergents<FootnoteRef Ref="f00003"/>. Surfactants shall be considered as readily biodegradable if the level of biodegradability (mineralisation) measured in accordance with one of the five following tests is at least 60 % within 28 days: CO<Inferior>2</Inferior> headspace test (OECD 310), carbon dioxide (CO<Inferior>2</Inferior>) Evolution Modified Sturm test (OECD 301B; Council Regulation (EC) No 440/2008<FootnoteRef Ref="f00004"/> method C.4-C), Closed Bottle test (OECD 301D; Regulation (EC) No 440/2008 method C.4-E), Manometric Respirometry (OECD 301F; Regulation (EC) No 440/2008 method C.4-D), or MITI (I) test (OECD 301C; Regulation (EC) No 440/2008 method C.4-F), or their equivalent ISO tests. Depending on the physical characteristics of the surfactant, one of the following tests might be used to confirm ready biodegradability, if the level of biodegradability is at least 70 % within 28 days: Dissolved Organic Carbon DOC Die-Away (OECD 301A; Regulation (EC) No 440/2008 method C.4-A) or Modified OECD Screening DOC Die-Away (OECD 301E; Regulation (EC) No 440/2008 method C.4-B), or their equivalent ISO tests. The applicability of test methods based on measurement of dissolved organic carbon needs to be appropriately justified as these methods could give results on the removal and not on the biodegradability. Pre-adaptation is not to be used in tests for aerobic ready biodegradability. The 10 days window principle shall not apply.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/b/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/b" id="annex-division-3-division-Criterion-division-b">
+                        <Number>(b)</Number>
+                        <Title>Anaerobic biodegradability</Title>
+                        <P>
+                           <Text>Surfactants that are not biodegradable under anaerobic conditions may be used in the product provided that the surfactants are not classified with H400/R50 (Very toxic to aquatic life) within the limit specified below.</Text>
+                        </P>
+                        <P>
+                           <Text>The total weight of such anaerobically non-biodegradable surfactants must not exceed 0,20 gram of the recommended dose expressed for 1 litre of dishwashing water.</Text>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification</Emphasis>: the exact formulation of the product as well as a description of the function of each substance shall be provided to the competent body. The DID list part A (Appendix I) indicates whether a specific surfactant is anaerobically biodegradable or not (the surfactants with an entry of ‘Y’ in the column on anaerobic biodegradability are biodegradable under anaerobic conditions). For surfactants which are not included in the DID list (<Citation id="c00003" Class="EuropeanUnionOfficialJournal" Year="2005" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.115.01.0018.01.ENG" Date="2005-05-04">OJ L 115, 4.5.2005, p. 18</Citation> part A), the relevant information from literature or other sources, or appropriate test results, showing that they are anaerobically biodegradable shall be provided. The reference test for anaerobic degradability shall be OECD 311, ISO 11734, ECETOC No 28 (June 1988) or an equivalent test method, with the requirement of a minimum of 60 % ultimate degradability under anaerobic conditions. Test methods simulating the conditions in a relevant anaerobic environment may also be used to document that 60 % ultimate degradability has been attained under anaerobic conditions (see Appendix II).</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 3 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Excluded or limited substances and mixtures</Strong>
+                     </Title>
+                     <P>
+                        <Text>The requirements stated in (a), (b) and (c) below shall apply to each substance or mixture, including biocides, colouring agents and fragrances, that exceeds 0,010 % by weight of the final product. This includes also each substance of any mixture used in the formulation that exceeds 0,010 % by weight of the final product. Nanoforms intentionally added to the product shall prove compliance with the criterion 3(c) for any concentration.</Text>
+                     </P>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/a/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/a" id="annex-division-3-division-Criterion-division-a">
+                        <Number>(a)</Number>
+                        <Title>Specified excluded substances</Title>
+                        <P>
+                           <Text>The following substances shall not be included in the product, either as part of the formulation or as part of any mixture included in the formulation:</Text>
+                        </P>
+                        <P>
+                           <UnorderedList Decoration="dash">
+                              <ListItem>
+                                 <Para>
+                                    <Text>Alkyl phenol ethoxylates (APEOs) and derivatives thereof</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>EDTA (ethylene-diamine-tetra-acetic acid) and its salts</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>5-Bromo-5-nitro-1,3-dioxane</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>2-Bromo-2-nitropropane-1,3-diol</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>Diazolinidylurea</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>Formaldehyde</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>Sodium hydroxy methyl glycinate</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem>
+                                 <Para>
+                                    <Text>Nitro-musks and polycyclic musks, including for example:</Text>
+                                 </Para>
+                                 <UnorderedList Decoration="none">
+                                    <ListItem>
+                                       <Para>
+                                          <Text>Musk xylene: 5-Tert-butyl-2,4,6-trinitro-m-xylene</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>Musk ambrette: 4-Tert-butyl-3-methoxy-2,6-dinitrotoluene</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>Moskene: 1,1,3,3,5-Pentamethyl-4,6-dinitroindan</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>Musk tibetine: 1-Tert-butyl-3,4,5-trimethyl-2,6-dinitrobenzene</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>Musk ketone: 4’-Tert-butyl-2’,6’-dimethyl-3’,5’-dinitroacetaphenone</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>HHCB (1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta(g)-2-benzopyran)</Text>
+                                       </Para>
+                                    </ListItem>
+                                    <ListItem>
+                                       <Para>
+                                          <Text>AHTN (6-Acetyl-1,1,2,4,4,7-hexamethyltetralin).</Text>
+                                       </Para>
+                                    </ListItem>
+                                 </UnorderedList>
+                              </ListItem>
+                           </UnorderedList>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide a declaration supported by declarations from manufacturers, as appropriate, confirming that the listed substances have not been included in the product.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/b/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/b" id="annex-division-3-division-Criterion-division-b">
+                        <Number>(b)</Number>
+                        <P>
+                           <Text>Quaternary ammonium salts that are not readily biodegradable shall not be used, either as part of the formulation or as part of any mixture included in the formulation.</Text>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide documentation showing the biodegradability of any quaternary ammonium salt used.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/c/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/c" id="annex-division-3-division-Criterion-division-c">
+                        <Number>(c)</Number>
+                        <Title>Hazardous substances and mixtures</Title>
+                        <P>
+                           <Text>According to the Article 6(6) of Regulation (EC) No 66/2010 on the EU Ecolabel, the product or any part of it shall not contain substances (in any forms, including nanoforms) meeting the criteria for classification with the hazard statements or risk phrases specified below in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council<FootnoteRef Ref="f00005"/> or Council Directive 67/548/EEC<FootnoteRef Ref="f00006"/>, nor shall it contain substances referred to in Article 57 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council<FootnoteRef Ref="f00007"/>. The risk phrases below generally refer to substances. However, for mixtures of enzymes and fragrances, where information on substances cannot be obtained, the classification rules for mixtures shall be applied.</Text>
+                        </P>
+                        <P>
+                           <Text>List of hazard statements and risk phrases:</Text>
+                        </P>
+                        <P>
+                           <Tabular Orientation="portrait">
+                              <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="2">
+                                          <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00008">
+                                             <FootnoteText>
+                                                <Para>
+                                                   <Text>As provided for in Regulation (EC) No 1272/2008.</Text>
+                                                </Para>
+                                             </FootnoteText>
+                                          </Footnote>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="2">
+                                          <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00009">
+                                             <FootnoteText>
+                                                <Para>
+                                                   <Text>As provided for in Directive 67/548/EEC.</Text>
+                                                </Para>
+                                             </FootnoteText>
+                                          </Footnote>
+                                       </td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr>
+                                       <th>Hazard Statement<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00008"/>
+                                       </th>
+                                       <th>Risk Phrase<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00009"/>
+                                       </th>
+                                    </tr>
+                                    <tr>
+                                       <td>H300 Fatal if swallowed</td>
+                                       <td>R28</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H301 Toxic if swallowed</td>
+                                       <td>R25</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H304 May be fatal if swallowed and enters airways</td>
+                                       <td>R65</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H310 Fatal in contact with skin</td>
+                                       <td>R27</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H311 Toxic in contact with skin</td>
+                                       <td>R24</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H330 Fatal if inhaled</td>
+                                       <td>R23; R26</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H331 Toxic if inhaled</td>
+                                       <td>R23</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H340 May cause genetic defects</td>
+                                       <td>R46</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H341 Suspected of causing genetic defects</td>
+                                       <td>R68</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H350 May cause cancer</td>
+                                       <td>R45</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H350i May cause cancer by inhalation</td>
+                                       <td>R49</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H351 Suspected of causing cancer</td>
+                                       <td>R40</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H360F May damage fertility</td>
+                                       <td>R60</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H360D May damage the unborn child</td>
+                                       <td>R61</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H360FD May damage fertility. May damage the unborn child</td>
+                                       <td>R60-61</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H360Fd May damage fertility. Suspected of damaging the unborn child</td>
+                                       <td>R60-63</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H360Df May damage the unborn child. Suspected of damaging fertility</td>
+                                       <td>R61-62</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H361f Suspected of damaging fertility</td>
+                                       <td>R62</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H361d Suspected of damaging the unborn child</td>
+                                       <td>R63</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H361fd Suspected of damaging fertility. Suspected of damaging the unborn child</td>
+                                       <td>R62-63</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H362 May cause harm to breast fed children</td>
+                                       <td>R64</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H370 Causes damage to organs</td>
+                                       <td>R39/23; R39/24; R39/25; R39/26; R39/27; R39/28</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H371 May cause damage to organs</td>
+                                       <td>R68/20; R68/21; R68/22</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H372 Causes damage to organs through prolonged or repeated exposure</td>
+                                       <td>R48/25; R48/24; R48/23</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H373 May cause damage to organs through prolonged or repeated exposure</td>
+                                       <td>R48/20; R48/21; R48/22</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H400 Very toxic to aquatic life</td>
+                                       <td>R50</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H410 Very toxic to aquatic life with long-lasting effects</td>
+                                       <td>R50-53</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H411 Toxic to aquatic life with long-lasting effects</td>
+                                       <td>R51-53</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H412 Harmful to aquatic life with long-lasting effects</td>
+                                       <td>R52-53</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H413 May cause long-lasting harmful effects to aquatic life</td>
+                                       <td>R53</td>
+                                    </tr>
+                                    <tr>
+                                       <td>EUH059 Hazardous to the ozone layer</td>
+                                       <td>R59</td>
+                                    </tr>
+                                    <tr>
+                                       <td>EUH029 Contact with water liberates toxic gas</td>
+                                       <td>R29</td>
+                                    </tr>
+                                    <tr>
+                                       <td>EUH031 Contact with acids liberates toxic gas</td>
+                                       <td>R31</td>
+                                    </tr>
+                                    <tr>
+                                       <td>EUH032 Contact with acids liberates very toxic gas</td>
+                                       <td>R32</td>
+                                    </tr>
+                                    <tr>
+                                       <td>EUH070 Toxic by eye contact</td>
+                                       <td>R39-41</td>
+                                    </tr>
+                                    <tr>
+                                       <th colspan="2">Sensitising substances</th>
+                                    </tr>
+                                    <tr>
+                                       <td>H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled</td>
+                                       <td>R42</td>
+                                    </tr>
+                                    <tr>
+                                       <td>H317: May cause allergic skin reaction</td>
+                                       <td>R43</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </Tabular>
+                        </P>
+                        <P>
+                           <Text>Substances or mixtures which change their properties upon processing (e.g. become no longer bioavailable, undergo chemical modification) so that the identified hazard no longer applies are exempted from the above requirement.</Text>
+                        </P>
+                        <P>
+                           <Text>Derogations: the following substances or mixtures are specifically exempted from this requirement:</Text>
+                        </P>
+                        <P>
+                           <Tabular Orientation="portrait">
+                              <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="3">
+                                          <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00010">
+                                             <FootnoteText>
+                                                <Para>
+                                                   <Text>The percentage must be divided by the M-factor established in accordance with the Regulation (EC) No 1272/2008.</Text>
+                                                </Para>
+                                             </FootnoteText>
+                                          </Footnote>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="3">
+                                          <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00011">
+                                             <FootnoteText>
+                                                <Para>
+                                                   <Text>Including stabilisers and other auxiliary substances in the preparations.</Text>
+                                                </Para>
+                                             </FootnoteText>
+                                          </Footnote>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="3">
+                                          <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00012">
+                                             <FootnoteText>
+                                                <Para>
+                                                   <Text>In concentrations lower than 1,0 % in the raw material as long as the total concentration in the final product is lower than 0,10 %.</Text>
+                                                </Para>
+                                             </FootnoteText>
+                                          </Footnote>
+                                       </td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr>
+                                       <td>
+                                          <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                             <Text>Surfactants</Text>
+                                          </Para>
+                                          <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                             <Text>In concentrations &lt; 25 % in the product<FootnoteRef Ref="f00010"/>
+                                             </Text>
+                                          </Para>
+                                       </td>
+                                       <td>H400 Very toxic to aquatic life</td>
+                                       <td>R 50</td>
+                                    </tr>
+                                    <tr>
+                                       <td>Fragrances</td>
+                                       <td>H412 Harmful to aquatic life with long-lasting effects</td>
+                                       <td>R52-53</td>
+                                    </tr>
+                                    <tr>
+                                       <td>Enzymes<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00011"/>
+                                       </td>
+                                       <td>H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled</td>
+                                       <td>R42</td>
+                                    </tr>
+                                    <tr>
+                                       <td>Enzymes<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00011"/>
+                                       </td>
+                                       <td>H317: May cause allergic skin reaction</td>
+                                       <td>R43</td>
+                                    </tr>
+                                    <tr>
+                                       <td>NTA as an impurity in MGDA and GLDA<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00012"/>
+                                       </td>
+                                       <td>H351 Suspected of causing cancer</td>
+                                       <td>R40</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </Tabular>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification</Emphasis>: the applicant shall provide the exact formulation of the product to the competent body. The applicant shall demonstrate compliance with this criterion for substances in the product on the basis of information consisting as a minimum of that specified in Annex VII to the Regulation (EC) No 1907/2006. Such information shall be specific to the particular form of the substance, including nanoforms, used in the product. For that purpose, the applicant shall provide a declaration of compliance with this criterion, together with a list of ingredients and related safety data sheets in accordance with Annex II to Regulation (EC) No 1907/2006 for the product as well as for all substances listed in the formulation(s). Concentration limits shall be specified in the safety data sheets in accordance with Article 31 of Regulation (EC) No 1907/2006.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/d/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/d" id="annex-division-3-division-Criterion-division-d">
+                        <Number>(d)</Number>
+                        <Title>Substances listed in accordance with Article 59(1) of Regulation (EC) No 1907/2006</Title>
+                        <P>
+                           <Text>No derogation from the exclusion in Article 6(6) of Regulation (EC) No 66/2010 may be given concerning substances identified as substances of very high concern and included in the list foreseen in Article 59 of Regulation (EC) No 1907/2006 present in mixtures in concentrations higher than 0,010 %.</Text>
+                        </P>
+                        <P>
+                           <Text>
+                              <Emphasis>Assessment and verification:</Emphasis> the list of substances identified as substances of very high concern and included in the candidate list in accordance with Article 59 of Regulation (EC) No 1907/2006 can be found here:</Text>
+                        </P>
+                        <P>
+                           <Text>http://echa.europa.eu/chem_data/authorisation_process/candidate_list_table_en.asp</Text>
+                        </P>
+                        <P>
+                           <Text>Reference to the list shall be made on the date of application.</Text>
+                        </P>
+                        <P>
+                           <Text>Concentration limits shall be specified in the safety data sheets in accordance with Article 31 of Regulation (EC) No 1907/2006.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/e/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/e" id="annex-division-3-division-Criterion-division-e">
+                        <Number>(e)</Number>
+                        <Title>Biocides</Title>
+                        <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/i/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/i" id="annex-division-3-division-Criterion-division-e-division-i">
+                           <Number>(i)</Number>
+                           <Title>The product may only include biocides in order to preserve the product, and in the appropriate dosage for this purpose alone. This does not refer to surfactants, which may also have biocidal properties.</Title>
+                           <P>
+                              <Text>
+                                 <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide copies of the material safety data sheets of any preservatives added, together with information on their exact concentration in the product. The manufacturer or supplier of the preservatives shall provide information on the dosage necessary to preserve the product.</Text>
+                           </P>
+                        </Division>
+                        <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/ii/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/ii" id="annex-division-3-division-Criterion-division-e-division-ii">
+                           <Number>(ii)</Number>
+                           <Title>It is prohibited to claim or suggest on the packaging or by any other communication that the product has an antimicrobial action.</Title>
+                           <P>
+                              <Text>
+                                 <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide the texts and layouts used on each type of packaging and/or an example of each different type of packaging to the competent body.</Text>
+                           </P>
+                        </Division>
+                        <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/iii/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/e/division/iii" id="annex-division-3-division-Criterion-division-e-division-iii">
+                           <Number>(iii)</Number>
+                           <Title>Biocides, either as part of the formulation or as part of any mixture included in the formulation, that are used to preserve the product and that are classified H410/R50-53 or H411/R51-53 in accordance with Directive 67/548/EEC, Directive 1999/45/EC of the European Parliament and of the Council<FootnoteRef Ref="f00013"/> or Regulation (EC) No 1272/2008, are permitted but only if their bioaccumulation potentials are characterised by log Pow (log octanol/water partition coefficient) &lt; 3,0 or an experimentally determined bioconcentration factor (BCF) ≤ 100.</Title>
+                           <P>
+                              <Text>
+                                 <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide copies of the material safety data sheets for all biocides, together with a documentation of the concentrations of the biocides in the final product.</Text>
+                           </P>
+                        </Division>
+                     </Division>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 4 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Fragrances</Strong>
+                     </Title>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/a/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/a" id="annex-division-3-division-Criterion-division-a">
+                        <Number>(a)</Number>
+                        <P>
+                           <Text>The product shall not contain perfumes containing nitro-musks or polycyclic musks (as specified in criterion 3(a)).</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/b/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/b" id="annex-division-3-division-Criterion-division-b">
+                        <Number>(b)</Number>
+                        <P>
+                           <Text>Any substances added to the product as a fragrance must have been manufactured and/or handled in accordance with the code of practice of the International Fragrance Association. The code can be found on IFRA website: http://www.ifraorg.org</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/c/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/c" id="annex-division-3-division-Criterion-division-c">
+                        <Number>(c)</Number>
+                        <P>
+                           <Text>Fragrance substances subject to the declaration requirement provided for in Regulation (EC) No 648/2004 on detergents (Annex VII) and which are not already excluded by criterion 3(c) and (other) fragrance substances classified H317/R43 (May cause allergic skin reaction) and/or H334/R42 (May cause allergy or asthma symptoms or breathing difficulties if inhaled) shall not be present in quantities ≥ 0,010 % (≥ 100 ppm) per substance.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/d/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/d" id="annex-division-3-division-Criterion-division-d">
+                        <Number>(d)</Number>
+                        <P>
+                           <Text>Fragrances shall not be used in hand dishwashing detergents for professional use.</Text>
+                        </P>
+                     </Division>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> a declaration of compliance with each part of criterion (a), (b) and (d). For criterion (c), the applicant shall provide a signed declaration of compliance indicating the amount of fragrances in the product. The applicant shall also provide a declaration from the fragrance manufacturer specifying the content of each of the substances in the fragrances which are listed in Annex III, Part I to Council Directive 76/768/EEC<FootnoteRef Ref="f00014"/> as well as the content of (other) substances which have been assigned the risk phrases R43/H317 and/or R42/H334.</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 5 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Corrosive properties</Strong>
+                     </Title>
+                     <P>
+                        <Text>The product shall not be classified as a ‘Corrosive’ (C) mixture with R34 or R35 in accordance with Directive 1999/45/EC, or as a ‘Skin Category 1’ mixture in accordance with Regulation (EC) No 1272/2008.</Text>
+                     </P>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide the exact concentrations of all substances used in the product, either as part of the formulation or as part of any mixture included in the formulation, that are classified as ‘Corrosive’ (C) with R34 or R35 in accordance with Directive 1999/45/EC, or as a ‘Skin Category 1’ mixture in accordance with Regulation (EC) No 1272/2008 to the competent body, together with copies of the material safety data sheets.</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 6 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Packaging requirements</Strong>
+                     </Title>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/a/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/a" id="annex-division-3-division-Criterion-division-a">
+                        <Number>(a)</Number>
+                        <P>
+                           <Text>Plastics that are used for the main container shall be marked in accordance with the European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste<FootnoteRef Ref="f00015"/>, or DIN 6120 part 1 and 2 in connection with DIN 7728 part 1.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/b/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/b" id="annex-division-3-division-Criterion-division-b">
+                        <Number>(b)</Number>
+                        <P>
+                           <Text>If the primary packaging is made of recycled material, any indication of this on the packaging shall be in conformity with the ISO 14021 standard ‘Environmental labels and declarations — Self declared claims (type II environmental labelling)’.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/c/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/c" id="annex-division-3-division-Criterion-division-c">
+                        <Number>(c)</Number>
+                        <P>
+                           <Text>Only phthalates that at the time of application have been risk assessed and have not been classified according to criterion 3(c) may be used in the plastic packaging.</Text>
+                        </P>
+                     </Division>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/division/d/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion/division/d" id="annex-division-3-division-Criterion-division-d">
+                        <Number>(d)</Number>
+                        <Title>The weight utility ratio (WUR) of the primary packaging must not exceed the following values:</Title>
+                        <P>
+                           <Tabular Orientation="portrait">
+                              <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                                 <tbody>
+                                    <tr>
+                                       <th>Product type</th>
+                                       <th>WUR</th>
+                                    </tr>
+                                    <tr>
+                                       <td>Hand dishwashing detergents that are diluted in water prior to use</td>
+                                       <td>1,20 gram packaging per litre use solution (dishwashing water)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </Tabular>
+                        </P>
+                        <P>
+                           <Text>WUR is calculated only for the primary packaging (including caps, stoppers and hand pumps/spraying devices) by using the formula below:</Text>
+                        </P>
+                        <P>
+                           <Text>
+                              <Span AltVersionRefs="v00002">
+                                 <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+                                    <mi>WUR = Σ</mi>
+                                    <mfenced open="(" close=")">
+                                       <mrow>
+                                          <mfenced open="(" close=")">
+                                             <mrow>
+                                                <msub>
+                                                   <mrow>
+                                                      <mi>W</mi>
+                                                   </mrow>
+                                                   <mrow>
+                                                      <mi>i</mi>
+                                                   </mrow>
+                                                </msub>
+                                                <msub>
+                                                   <mrow>
+                                                      <mi> + U</mi>
+                                                   </mrow>
+                                                   <mrow>
+                                                      <mi>i</mi>
+                                                   </mrow>
+                                                </msub>
+                                             </mrow>
+                                          </mfenced>
+                                          <mi>/</mi>
+                                          <mfenced open="(" close=")">
+                                             <mrow>
+                                                <msub>
+                                                   <mrow>
+                                                      <mi>D</mi>
+                                                   </mrow>
+                                                   <mrow>
+                                                      <mi>i</mi>
+                                                   </mrow>
+                                                </msub>
+                                                <msub>
+                                                   <mrow>
+                                                      <mi> * r</mi>
+                                                   </mrow>
+                                                   <mrow>
+                                                      <mi>i</mi>
+                                                   </mrow>
+                                                </msub>
+                                             </mrow>
+                                          </mfenced>
+                                       </mrow>
+                                    </mfenced>
+                                 </math>
+                              </Span>,</Text>
+                        </P>
+                        <P>
+                           <Text>where</Text>
+                        </P>
+                        <P>
+                           <KeyList Separator="=">
+                              <KeyListItem>
+                                 <Key>W<Inferior>i</Inferior>
+                                 </Key>
+                                 <ListItem>
+                                    <Para>
+                                       <Text>The weight (g) of the primary packaging (i) including label if applicable.</Text>
+                                    </Para>
+                                 </ListItem>
+                              </KeyListItem>
+                              <KeyListItem>
+                                 <Key>U<Inferior>i</Inferior>
+                                 </Key>
+                                 <ListItem>
+                                    <Para>
+                                       <Text>The weight (g) of non-recycled (virgin) material in the primary packaging (i). If the proportion of recycled material in the primary packaging is 0 %, then U<Inferior>i</Inferior> = W<Inferior>i</Inferior>.</Text>
+                                    </Para>
+                                 </ListItem>
+                              </KeyListItem>
+                              <KeyListItem>
+                                 <Key>D<Inferior>i</Inferior>
+                                 </Key>
+                                 <ListItem>
+                                    <Para>
+                                       <Text>The number of functional doses (= number of the dosage volume which is recommended by the manufacturer for 1 litre of washing water) contained in the primary packaging (i).</Text>
+                                    </Para>
+                                 </ListItem>
+                              </KeyListItem>
+                              <KeyListItem>
+                                 <Key>r<Inferior>i</Inferior>
+                                 </Key>
+                                 <ListItem>
+                                    <Para>
+                                       <Text>Recycling figure, i.e. the number of times the primary packaging (i) is used for the same purpose through a return or refill system (r<Inferior>i</Inferior> = 1, if the packaging is not re-used for the same purpose. If the packaging is re-used, r<Inferior>i</Inferior> is set to 1 unless the applicant can document a higher number.</Text>
+                                    </Para>
+                                 </ListItem>
+                              </KeyListItem>
+                           </KeyList>
+                        </P>
+                     </Division>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification</Emphasis>: the applicant shall provide a calculation of the WUR of the product to the competent body, together with a declaration of compliance with each part of this criterion. For criterion (c) the applicant shall provide completed and signed declaration of compliance.</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 7 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Fitness for use</Strong>
+                     </Title>
+                     <P>
+                        <Text>The product shall be fit for use, meeting the needs of the consumers.</Text>
+                     </P>
+                     <P>
+                        <Text>The cleaning ability and cleaning capacity must be equivalent to or better than that of the generic reference detergent specified below.</Text>
+                     </P>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> the cleaning ability and cleaning capacity must be tested by means of an adequate and justifiable laboratory performance test carried out and reported within specified parameters as stated in the framework described in ‘Framework for testing the performance of hand dishwashing detergents’ that can be found here:</Text>
+                     </P>
+                     <P>
+                        <Text>http://ec.europa.eu/environment/ecolabel/ecolabelled_products/categories/hand_dishwashing_detergents_en.htm</Text>
+                     </P>
+                     <P>
+                        <Text>The generic reference detergent shall be the one prescribed in IKW performance test ‘Recommendation for the quality assessment of the cleaning performance of hand dishwashing detergents’ (SÖFW-Journal, 128, 5, pp. 11-15, 2002) with the adaptation that the dosage applied in the performance test is set at 2,5 millilitres of the reference detergent per 5 litres of water.</Text>
+                     </P>
+                     <P>
+                        <Text>The IKW performance test ‘Recommendation for the quality assessment of the cleaning performance of hand dishwashing detergents’ (SÖFW-Journal, 128, 5, pp. 11-15, 2002) method may be applied with the mentioned adaptation and can be downloaded from: http://www.ikw.org/pdf/broschueren/EQ_Handgeschirr_e.pdf</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 8 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>User instructions</Strong>
+                     </Title>
+                     <P>
+                        <Text>The product shall bear the following information on the packaging:</Text>
+                     </P>
+                     <P>
+                        <OrderedList Type="alpha" Decoration="parens">
+                           <ListItem NumberOverride="(a)">
+                              <Para>
+                                 <Text>‘Do not use running water but immerse the dishes, and use the recommended dosage’ (or equivalent text);</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem NumberOverride="(b)">
+                              <Para>
+                                 <Text>information on the recommended dosage shall appear on the packaging in a reasonably sufficient size and against a visible background. The information shall be provided in millilitres (and tea spoons) of product for 5 litres of dishwashing water suitable for ‘dirty’ and ‘less dirty’ dishes;</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem NumberOverride="(c)">
+                              <Para>
+                                 <Text>an indication of the approximate number of washes that the consumer can perform with one bottle is recommended but voluntary.</Text>
+                              </Para>
+                           </ListItem>
+                        </OrderedList>
+                     </P>
+                     <P>
+                        <Text>This is calculated by dividing the volume of the product by the dosage required for 5 litres of dishwashing water for dirty dishes.</Text>
+                     </P>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide a sample of the product packaging, including the label to the competent body, together with a declaration of compliance with each part of this criterion.</Text>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/division/3/division/Criterion/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/division/3/division/Criterion" id="annex-division-3-division-Criterion">
+                     <Number>
+                        <Strong>Criterion 9 —</Strong>
+                     </Number>
+                     <Title>
+                        <Strong>Information appearing on the EU Ecolabel</Strong>
+                     </Title>
+                     <P>
+                        <Text>Optional label with text box shall contain the following text:</Text>
+                     </P>
+                     <P>
+                        <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="single">
+                           <UnorderedList Decoration="dash">
+                              <ListItem NumberOverride="—">
+                                 <Para>
+                                    <Text>reduced impact on aquatic life,</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem NumberOverride="—">
+                                 <Para>
+                                    <Text>reduced use of hazardous substances,</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem NumberOverride="—">
+                                 <Para>
+                                    <Text>reduced packaging waste,</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem NumberOverride="—">
+                                 <Para>
+                                    <Text>clear user instructions.</Text>
+                                 </Para>
+                              </ListItem>
+                           </UnorderedList>
+                        </BlockAmendment>
+                     </P>
+                     <P>
+                        <Text>The guidelines for the use of the optional label with text box can be found in the ‘Guidelines for the use of the EU Ecolabel logo’ on the website: http://ec.europa.eu/environment/ecolabel/promo/logos_en.htm</Text>
+                     </P>
+                     <P>
+                        <Text>
+                           <Emphasis>Assessment and verification:</Emphasis> the applicant shall provide a sample of the label, together with a declaration of compliance with this criterion.</Text>
+                     </P>
+                  </Division>
+               </Division>
+            </ScheduleBody>
+
+            <Appendix DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/appendix/I/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/appendix/I" id="annex-appendix-I">
+               <Number>Appendix I</Number>
+               <AppendixBody>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/appendix/I/division/1/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/appendix/I/division/1" id="annex-appendix-I-division-1">
+                     <Title>
+                        <Strong>Detergents Ingredients Database (DID) list</Strong>
+                     </Title>
+                     <P>
+                        <Text>The DID list (part A) is a list containing information of the aquatic toxicity and biodegradability of ingredients typically used in detergent formulations. The list includes information on the toxicity and biodegradability of a range of substances used in washing and cleaning products. The list is not comprehensive, but guidance is given in part B of the DID list concerning the determination of the relevant calculation parameters for substances not present on the DID list (e.g. the Toxicity Factor (TF) and degradation factor (DF), which are used for calculation of the critical dilution volume). The list is a generic source of information and substances present on the DID list are not automatically approved for use in EU Ecolabelled products. The DID list (part A and B) can be found on the EU Ecolabel website: http://ec.europa.eu/environment/ecolabel/ecolabelled_products/categories/did_list_en.htm</Text>
+                     </P>
+                     <P>
+                        <Text>For substances with no data regarding aquatic toxicity and degradability, structure analogies with similar substances may be used to assess the TF and DF. Such structure analogies shall be approved by the competent body granting the EU Ecolabel license. Alternatively, a worst case approach shall be applied, using the parameters below:</Text>
+                     </P>
+                     <P>
+                        <Text>Worst case approach:</Text>
+                     </P>
+                     <P>
+                        <Tabular Orientation="portrait">
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="10">
+                              <tfoot>
+                                 <tr>
+                                    <td colspan="10">
+                                       <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00016">
+                                          <FootnoteText>
+                                             <Para>
+                                                <Text>If no acceptable chronic toxicity data are found, these columns are empty. In that case TF(chronic) is defined as equal to TF(acute).</Text>
+                                             </Para>
+                                          </FootnoteText>
+                                       </Footnote>
+                                    </td>
+                                 </tr>
+                              </tfoot>
+                              <tbody>
+                                 <tr>
+                                    <th/>
+                                    <th colspan="3">Acute toxicity</th>
+                                    <th colspan="3">Chronic toxicity</th>
+                                    <th colspan="3">Degradation</th>
+                                 </tr>
+                                 <tr>
+                                    <th>Ingredient</th>
+                                    <td>LC<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">50</Inferior>/EC<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">50</Inferior>
+                                    </td>
+                                    <td>SF<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">(acute)</Inferior>
+                                    </td>
+                                    <td>TF<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">(acute)</Inferior>
+                                    </td>
+                                    <td>NOEC<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00016"/>
+                                    </td>
+                                    <td>SF<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">(chronic)</Inferior>
+                                       <FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00016"/>
+                                    </td>
+                                    <td>TF<Inferior xmlns="http://www.legislation.gov.uk/namespaces/legislation">(chronic)</Inferior>
+                                    </td>
+                                    <td>DF</td>
+                                    <td>Aerobic</td>
+                                    <td>Anaerobic</td>
+                                 </tr>
+                                 <tr>
+                                    <th>‘Name’</th>
+                                    <td>1 mg/l</td>
+                                    <td>10 000</td>
+                                    <td>0,0001</td>
+                                    <td/>
+                                    <td/>
+                                    <td>0,0001</td>
+                                    <td>1</td>
+                                    <td>P</td>
+                                    <td>N</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </Tabular>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/appendix/I/division/2/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/appendix/I/division/2" id="annex-appendix-I-division-2">
+                     <Title>
+                        <Strong>Documentation of ready biodegradability</Strong>
+                     </Title>
+                     <P>
+                        <Text>The following test methods for ready biodegradability shall be used:</Text>
+                     </P>
+                     <P>
+                        <OrderedList Type="arabic" Decoration="parens">
+                           <ListItem NumberOverride="(1)">
+                              <Para>
+                                 <Text>until 1 December 2010 and during transition period from 1 December 2010 to 1 December 2015:</Text>
+                              </Para>
+                              <Para>
+                                 <Text>The test methods for ready biodegradability provided for in Directive 67/548/EEC, in particular the methods detailed in Annex V.C4 to that Directive, or their equivalent OECD 301 A-F test methods, or their equivalent ISO tests.</Text>
+                              </Para>
+                              <Para>
+                                 <Text>The 10 days window principle shall not apply for surfactants. The pass levels shall be 70 % for the tests referred to in Regulation (EC) No 440/2008 method C.4-A Annex C.4-B (and their equivalent OECD 301 A and E tests and ISO equivalents), and shall be 60 % for methods C4-C, D, E and F (and their equivalent OECD 301 B, C, D and F tests and ISO equivalents);</Text>
+                              </Para>
+                           </ListItem>
+                           <ListItem NumberOverride="(2)">
+                              <Para>
+                                 <Text>after 1 December 2015 and during transition period from 1 December 2010 to 1 December 2015:</Text>
+                              </Para>
+                              <Para>
+                                 <Text>The test methods provided for in Regulation (EC) No 1272/2008.</Text>
+                              </Para>
+                           </ListItem>
+                        </OrderedList>
+                     </P>
+                  </Division>
+                  <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/appendix/I/division/3/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/appendix/I/division/3" id="annex-appendix-I-division-3">
+                     <Title>
+                        <Strong>Documentation of anaerobic biodegradability</Strong>
+                     </Title>
+                     <P>
+                        <Text>The reference test for anaerobic degradability shall be EN ISO 11734, ECETOC No 28 (June 1988), OECD 311 or an equivalent test method, with the requirement of 60 % ultimate degradability under anaerobic conditions. Test methods simulating the conditions in a relevant anaerobic environment may also be used to document that 60 % ultimate degradability has been attained under anaerobic conditions.</Text>
+                     </P>
+                     <Division DocumentURI="http://www.legislation.gov.uk/eudn/2011/382/annex/appendix/I/division/3/division/1/adopted" IdURI="http://www.legislation.gov.uk/id/eudn/2011/382/annex/appendix/I/division/3/division/1" id="annex-appendix-I-division-3-division-1">
+                        <Title>
+                           <Emphasis>Extrapolation for substances not listed in the DID list</Emphasis>
+                        </Title>
+                        <P>
+                           <Text>Where the ingredients that are not listed in the DID list the following approach may be used to provide the necessary documentation of anaerobic biodegradability:</Text>
+                        </P>
+                        <P>
+                           <OrderedList Type="arabic" Decoration="parens">
+                              <ListItem NumberOverride="(1)">
+                                 <Para>
+                                    <Text>apply reasonable extrapolation. Use test results obtained with one raw material to extrapolate the ultimate anaerobic degradability of structurally related surfactants. Where anaerobic biodegradability has been confirmed for a surfactant (or a group of homologues) in accordance with the DID list, it can be assumed that a similar type of surfactant is also anaerobically biodegradable (e.g., C12-15 A 1-3 EO sulphate (DID No 8) is anaerobically biodegradable, and a similar anaerobic biodegradability may also be assumed for C12-15 A 6 EO sulphate). Where anaerobic biodegradability has been confirmed for a surfactant by use of an appropriate test method, it can be assumed that a similar type of surfactant is also anaerobically biodegradable (e.g. literature data confirming the anaerobic biodegradability of surfactants belonging to the group alkyl ester ammonium salts may be used as documentation for a similar anaerobic biodegradability of other quaternary ammonium salts containing ester-linkages in the alkyl chain(s));</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem NumberOverride="(2)">
+                                 <Para>
+                                    <Text>perform screening test for anaerobic degradability. If new testing is necessary, perform a screening test by use of EN ISO 11734, ECETOC No 28 (June 1988), OECD 311 or an equivalent method;</Text>
+                                 </Para>
+                              </ListItem>
+                              <ListItem NumberOverride="(3)">
+                                 <Para>
+                                    <Text>perform low-dosage degradability test. If new testing is necessary, and in the case of experimental problems in the screening test (e.g. inhibition due to toxicity of test substance), repeat testing by using a low dosage of surfactant and monitor degradation by <Span AltVersionRefs="v00003">
+                                          <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+                                             <mn>14</mn>
+                                             <mi>C</mi>
+                                          </math>
+                                       </Span> measurements or chemical analyses. Testing at low dosages may be performed by use of OECD 308 (August 2000) or an equivalent method.</Text>
+                                 </Para>
+                              </ListItem>
+                           </OrderedList>
+                        </P>
+                     </Division>
+                  </Division>
+               </AppendixBody>
+            </Appendix>
+         </Schedule>
+      </Schedules>
+   </EURetained>
+   <Footnotes>
+      <Footnote id="f00003">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="2004" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.104.01.0001.01.ENG" Date="2004-04-08">OJ L 104, 8.4.2004, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00004">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00002" Class="EuropeanUnionOfficialJournal" Year="2008" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.142.01.0001.01.ENG" Date="2008-05-31">OJ L 142, 31.5.2008, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00005">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00004" Class="EuropeanUnionOfficialJournal" Year="2008" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.353.01.0001.01.ENG" Date="2008-12-31">OJ L 353, 31.12.2008, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00006">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00005" Class="EuropeanUnionOfficialJournal" Year="1967" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1967.196.01.0001.01.ENG" Date="1967-08-16">OJ 196, 16.8.1967, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00007">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00006" Class="EuropeanUnionOfficialJournal" Year="2006" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.396.01.0001.01.ENG" Date="2006-12-30">OJ L 396, 30.12.2006, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00013">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00007" Class="EuropeanUnionOfficialJournal" Year="1999" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.200.01.0001.01.ENG" Date="1999-07-30">OJ L 200, 30.7.1999, p. 1</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00014">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00008" Class="EuropeanUnionOfficialJournal" Year="1976" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1976.262.01.0169.01.ENG" Date="1976-09-27">OJ L 262, 27.9.1976, p. 169</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00015">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00009" Class="EuropeanUnionOfficialJournal" Year="1994" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.365.01.0010.01.ENG" Date="1994-12-31">OJ L 365, 31.12.1994, p. 10</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+   </Footnotes>
+   <Versions>
+      <Version id="v00001" Description="alternative image for formula" RestrictOutput="true" Class="graphic">
+         <Figure>
+            <Image ResourceRef="r00001" Height="auto" Width="auto"/>
+         </Figure>
+      </Version>
+      <Version id="v00002" Description="alternative image for formula" RestrictOutput="true" Class="graphic">
+         <Figure>
+            <Image ResourceRef="r00002" Height="auto" Width="auto"/>
+         </Figure>
+      </Version>
+      <Version id="v00003" Description="alternative image for formula" RestrictOutput="true" Class="graphic">
+         <Figure>
+            <Image ResourceRef="r00003" Height="auto" Width="auto"/>
+         </Figure>
+      </Version>
+   </Versions>
+   <Resources>
+      <Resource id="r00001">
+         <ExternalVersion URI="http://www.legislation.gov.uk/eudn/2011/382/images/eudn_20110382_adopted_en_001"/>
+      </Resource>
+      <Resource id="r00002">
+         <ExternalVersion URI="http://www.legislation.gov.uk/eudn/2011/382/images/eudn_20110382_adopted_en_002"/>
+      </Resource>
+      <Resource id="r00003">
+         <ExternalVersion URI="http://www.legislation.gov.uk/eudn/2011/382/images/eudn_20110382_adopted_en_003"/>
+      </Resource>
+   </Resources>
+</Legislation>

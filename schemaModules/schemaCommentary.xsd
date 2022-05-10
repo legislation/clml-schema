@@ -17,11 +17,12 @@
 				<dcq:created>2009-07-07</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-25</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name					Modification
+			2.4			Karl Rajangam			Annotation updated for Commentary and its attribute Type, added for CommentarySource
 			2.0			Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
 			1.0			Jeni Tennison			Created
 			</xsd:documentation>
@@ -42,7 +43,7 @@
 
 	<xsd:element name="Commentary">
 		<xsd:annotation>
-			<xsd:documentation>Holds commentary on the legislation.</xsd:documentation>
+			<xsd:documentation>Commentaries are used in revised legislation to give authority for amendments or other effects and also to provide certain types of editorial information</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:group maxOccurs="unbounded" minOccurs="0" ref="ParaRestricted"/>
@@ -50,7 +51,7 @@
 			<xsd:attribute name="id" use="required" type="CommentaryId" />
 			<xsd:attribute name="Type" use="required" type="CommentaryType">
 				<xsd:annotation>
-					<xsd:documentation>Indicates the role of the commentary.</xsd:documentation>
+					<xsd:documentation>Indicates the role of the commentary. There are seven annotation types currently in use and each type is used to denote different things like whole provisions, repeals etc.</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
 			<xsd:attribute name="Source" type="CommentarySource" />
@@ -104,6 +105,9 @@
 	</xsd:simpleType>
 	
 	<xsd:simpleType name="CommentarySource">
+		<xsd:annotation>
+			<xsd:documentation>Defines the source of the commentary, where the commentary came from a source other than the legislation.gov.uk editorial team. This is currently used only in EU documents and so is restricted to having 'EU' as the value, if present</xsd:documentation>
+		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
 			<xsd:enumeration value="EU">
 				<xsd:annotation>

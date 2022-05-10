@@ -1,0 +1,79 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukdsi/2012/9780111529799" IdURI="http://www.legislation.gov.uk/id/ukdsi/2012/9780111529799" NumberOfProvisions="2" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukdsi/2012/9780111529799</dc:identifier>
+		<dc:title>The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012</dc:title>
+		<dc:subject>Disabled people</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2012-10-22</dc:modified>
+		<dc:subject scheme="SIheading">DISABLED PERSONS, ENGLAND</dc:subject>
+		<dct:valid>2012-12-12</dct:valid>
+		<dc:description>Section 41 of the Welfare Reform Act 2009 enables the Secretary of State to make provision by regulations for the purpose of enabling disabled people aged 18 or over to exercise greater choice in relation to, and greater control over, the way in which certain services are provided to or for them by or on behalf of public bodies. Section 44 enables such regulations to make temporary provision as a pilot scheme having effect for a specified period not exceeding 36 months. The pilot scheme under the Disabled People’s Right to Control (Pilot Scheme) (England) Regulations 2010 (the 2010 regulations) is currently to have effect for 24 months: it first came into force on 13th December 2010 and is to expire on 13th December 2012.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/body" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/pdfs/ukdsi_9780111529799_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/contents" title="Table of Contents"/>
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersededBy" href="http://www.legislation.gov.uk/id/ukdsi/2012/9780111529935" title="The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012"/>
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="draft"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2012"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2012-12-12"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780111529799"/>
+		</ukm:SecondaryMetadata>
+		<ukm:SupersededBy URI="http://www.legislation.gov.uk/id/ukdsi/2012/9780111529935">
+			<dc:title>The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012</dc:title>
+			<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+			<ukm:Year Value="2012"/>
+			<ukm:ISBN Value="9780111529935"/>
+		</ukm:SupersededBy>
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ukdsi/2012/9780111529799/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/pdfs/ukdsiem_9780111529799_en.pdf" Date="2012-10-22" Title="Explanatory Memorandum" Size="25565"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/ukdsi/2012/9780111529799/pdfs/ukdsi_9780111529799_en.pdf" Date="2012-10-22" Size="48425"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

@@ -21,7 +21,7 @@
                 <dcq:created>2018-11-12</dcq:created>
             </dc:date>
             <dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-06-08</dcq:modified>
 			</dc:date>
             <xsd:documentation>
                 Namespace information:
@@ -29,10 +29,11 @@
             </xsd:documentation>
             <xsd:documentation>
                 Modification information
-                Version	Name				Modification
-                2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-                1.1     Colin Mackenzie     Added to enable data to be validated
-                1.0		Dave Pawson  		Created historically but not referenced in released schemas
+                Version	    Name				Modification
+                2.4         Karl Rajangam		Annotation added for attributes Ref, Start and End, updated for missingUnappliedEffect
+                2.0         Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+                1.1         Colin Mackenzie		Added to enable data to be validated
+                1.0         Dave Pawson  		Created historically but not referenced in released schemas
             </xsd:documentation>
         </xsd:appinfo>
     </xsd:annotation>
@@ -42,11 +43,22 @@
             <xsd:documentation>Indicate missing section element(s)</xsd:documentation>
         </xsd:annotation>
         
-        <xsd:attribute name="Ref" type="xsd:string" form="qualified" use="optional"/>
-        <xsd:attribute name="Start" type="xsd:string" form="qualified" use="optional"/>
-        <xsd:attribute name="End" type="xsd:string" form="qualified"  use="optional"/>
+        <xsd:attribute name="Ref" type="xsd:string" form="qualified" use="optional">
+            <xsd:annotation>
+                <xsd:documentation>Indicates that there is a problem with the provision referred to by the Ref attribute. The standard error message “Section missing in legislation” indicates that the referenced provision does not exist, likely because an editor incorrectly entered the provision in TOES or the referenced provision is being created by the effect</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="Start" type="xsd:string" form="qualified" use="optional">
+            <xsd:annotation>
+                <xsd:documentation>Indicates that there is a problem with the range's starting provision, referred to by the Start attribute. The standard error message “Section missing in legislation” indicates that the referenced provision does not exist, likely because an editor incorrectly entered the provision in TOES or the referenced provision is being created by the effect</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="End" type="xsd:string" form="qualified"  use="optional">
+            <xsd:annotation>
+                <xsd:documentation>Indicates that there is a problem with the range's ending provision, referred to by the Start attribute. The standard error message “Section missing in legislation” indicates that the referenced provision does not exist, likely because an editor incorrectly entered the provision in TOES or the referenced provision is being created by the effect</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
     </xsd:attributeGroup>
-    
     
     <xsd:attributeGroup name="missingSectionRange">
         <xsd:annotation>
@@ -58,7 +70,7 @@
     
     <xsd:attributeGroup name="missingUnappliedEffect">
         <xsd:annotation>
-            <xsd:documentation>Indicate missing ukm:UnappliedEffect element(s)</xsd:documentation>
+            <xsd:documentation>The attributes in this group indicate that some of the affected provisions are missing in the system, for example because the provisions are inserted by this effect or an earlier effect not yet applied, and so the provisions do not yet exist</xsd:documentation>
         </xsd:annotation>
         <xsd:attribute name="Affected" type="xsd:string" form="qualified" use="optional"/>
     </xsd:attributeGroup>

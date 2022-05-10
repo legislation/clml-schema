@@ -8,7 +8,7 @@
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
-			<dc:title>Common Non Edit Types Schema </dc:title>
+			<dc:title>Common Non Edit Types Schema</dc:title>
 			<dc:description>Defines common types that can be used across all legislation and associated documents except when editing (local definitions then exist in fragments.xsd)</dc:description>
 			<dc:contributor>Colin Mackenzie</dc:contributor>
 			<dc:creator>TSO</dc:creator>
@@ -20,11 +20,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-06-03</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.4			Karl Rajangam		Removed RefsLinkType, moved it to schemaLegislationCommonAttributes.xsd file
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0			Colin Mackenzie		Created
 			</xsd:documentation>
@@ -87,10 +88,4 @@
 		<xsd:sequence/>
 	</xsd:group>
 	
-	<xsd:simpleType name="RefsLinkType">
-		<xsd:annotation>
-			<xsd:documentation>When editing some of the IDs to which this refers MAY not be available so cannot use the type IDREFS</xsd:documentation>
-		</xsd:annotation>
-		<xsd:restriction base="xsd:NMTOKENS"/>
-	</xsd:simpleType>
 </xsd:schema>

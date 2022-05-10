@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.tso.co.uk/assets/namespace/legislation z:\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns:ukm="http://www.tso.co.uk/assets/namespace/metadata" xmlns:leg="http://www.tso.co.uk/assets/namespace/legislation" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.tso.co.uk/assets/namespace/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--
+Conversion parameters:
+Conversion method: SItemplateToSchema
+Date/time of conversion: Fri Feb 23 2018 12:05:47 UTC
+Error reporting level: 2
+Report unprocessed content: true
+Generated filename: uksi_20180234_en
+Draft status entered by user: uksi
+Document type entered by user: 30100
+-->
+  <ukm:Metadata>
+    <dc:title>The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations 2018</dc:title>
+    <dc:identifier>urn:isbn:9780111166222</dc:identifier>
+    <dc:language>en</dc:language>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2018"/>
+      <ukm:Number Value="234"/>
+      <ukm:Made Date="2018-02-22"/>
+      <ukm:Laid Date="2018-02-26" Class="UnitedKingdomParliament"/>
+      <ukm:ComingIntoForce>
+        <ukm:DateTime Date="2018-04-06"/>
+      </ukm:ComingIntoForce>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2018 No. 234</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Pensions</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations 2018</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>22nd February 2018</DateText>
+      </MadeDate>
+      <LaidDate>
+        <Text>Laid before Parliament</Text>
+        <DateText>26th February 2018</DateText>
+      </LaidDate>
+      <ComingIntoForce>
+        <Text>Coming into force</Text>
+        <DateText>6th April 2018</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <IntroductoryText>
+          <P>
+            <Text>The Secretary of State for Work and Pensions, in exercise of the powers conferred by sections 12C, 20(1)(a) and (3), 37A, 181 and 182(2) and (3) of the Pension Schemes Act 1993<FootnoteRef Ref="f00001"/>, makes the following Regulations.</Text>
+          </P>
+        </IntroductoryText>
+        <EnactingText>
+          <Para>
+            <Text>The Secretary of State has consulted such persons as she considers appropriate, in accordance with section 185(1)<FootnoteRef Ref="f00002"/> of the Pension Schemes Act 1993.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body>
+      <P1group>
+        <Title>Citation and commencement</Title>
+        <P1>
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <Text>These Regulations may be cited as the Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations 2018, and come into force on 6th April 2018.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations 1996</Title>
+        <P1>
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <P2>
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Contracting-out (Transfer and Transfer Payment) Regulations 1996<FootnoteRef Ref="f00003"/> are amended as follows.</Text>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In regulation 1(2) (interpretation)—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in the definition of “connected employer transfer” and “connected employer transfer payment”—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>for the words “from a scheme that was a salary-related contracted-out scheme to a scheme that was a salary-related contracted-out scheme” in both places in which they occur, substitute “from one salary-related scheme to another”; and</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>in paragraph (b)(ii), for “each of the employers is one” substitute “the employers are members”;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in the appropriate place, insert—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <UnorderedList Decoration="none" Class="Definition">
+                        <ListItem>
+                          <Para>
+                            <Text>“salary-related scheme” means a scheme which—</Text>
+                            <OrderedList Decoration="parens" Type="alpha">
+                              <ListItem>
+                                <Para>
+                                  <Text>is not a scheme under which all the benefits that may be provided are money purchase benefits, and</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>does not fall within a class prescribed in regulations made by the Secretary of State under section 100D of the 1993 Act;</Text>
+                                </Para>
+                              </ListItem>
+                            </OrderedList>
+                          </Para>
+                        </ListItem>
+                      </UnorderedList>
+                    </BlockAmendment>
+                    <AppendText>.</AppendText>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>In regulation 7 (general)—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (1)—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>omit “a scheme that was” in both places where it occurs, and</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>omit “contracted-out” in both places where it occurs;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (2A)—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>for “an occupational pension scheme that was a salary-related contracted-out scheme” substitute “a salary-related scheme”, and</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>for “that occupational pension scheme” substitute “that scheme”.</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>For regulation 9 (connected employer transfer payments) substitute—</Text>
+                <BlockAmendment Context="unknown" TargetClass="secondary" TargetSubClass="unknown" Format="double">
+                  <P1group>
+                    <Title>Connected employer transfer payments</Title>
+                    <P1>
+                      <Pnumber PuncAfter=".">9</Pnumber>
+                      <P1para>
+                        <Text>A connected employer transfer payment may be made subject to the condition set out in regulation 12(3) of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991<FootnoteRef Ref="f00004"/> (requirement for an actuarial certificate), irrespective of whether that condition would otherwise apply to the member concerned, and either—</Text>
+                        <P3>
+                          <Pnumber>a</Pnumber>
+                          <P3para>
+                            <Text>for a transfer to a scheme that was a salary-related contracted-out scheme, the condition set out in regulation 8(c); or</Text>
+                          </P3para>
+                        </P3>
+                        <P3>
+                          <Pnumber>b</Pnumber>
+                          <P3para>
+                            <Text>for a transfer to a scheme that has never been a contracted-out scheme, the condition that the benefits (including benefits for the earner’s widow, widower or surviving civil partner) to be credited in the receiving scheme in respect of that part of the transfer payment which relates to the earner’s accrued section 9(2B) rights, or pensions in payment deriving from section 9(2B) rights, must be such as would have complied with section 12A(1) of the 1993 Act (the statutory standard) as it had effect immediately before 6th April 2016.</Text>
+                          </P3para>
+                        </P3>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>In regulation 11A(1) (transfers in respect of section 9(2B) rights), for “an occupational pension scheme that was a salary-related contracted-out scheme” substitute “a salary-related scheme”.</Text>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>In regulation 12 (modification of Part III of the 1993 Act)—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>omit “a scheme that was” and “contracted-out”;</Text>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (b)—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>after “(meaning of “guaranteed minimum pension”)” insert “24A(1)(a) (conversion of guaranteed minimum pension into other benefits: introduction)”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>for “paragraphs 1, 4 and 5” substitute “paragraphs 1, 1A, 4 and 5”;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (c)—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>for “sections 8(2) and 159” substitute “sections 8(2), 24A(1)(a) and 159”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>for “paragraphs 1 and 5” substitute “paragraphs 1, 1A and 5”.</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>In Schedule 1 (further conditions for transfers of guaranteed minimum pensions)—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in the heading to Part 1, omit “a Scheme that was” and “Contracted-out”;</Text>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph 1—</Text>
+                    <P4>
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>at the end of sub-paragraph (a) omit “and”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>in sub-paragraph (b), for “sections 13 and 17 of the 1993 Act” substitute “section 13 or (as the case may be) 17 of the 1993 Act; and”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4>
+                      <Pnumber>iii</Pnumber>
+                      <P4para>
+                        <Text>after sub-paragraph (b) insert—</Text>
+                        <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                          <P3>
+                            <Pnumber>c</Pnumber>
+                            <P3para>
+                              <Text>comply with sections 13 to 24E of the 1993 Act in respect of accrued rights.</Text>
+                            </P3para>
+                          </P3>
+                        </BlockAmendment>
+                        <AppendText>;</AppendText>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>for paragraph 6 substitute—</Text>
+                    <BlockAmendment TargetSubClass="unknown" Context="unknown" TargetClass="unknown" Format="double">
+                      <P1>
+                        <Pnumber PuncAfter=".">6</Pnumber>
+                        <P1para>
+                          <P2>
+                            <Pnumber>1</Pnumber>
+                            <P2para>
+                              <Text>The date of commencement of the pension the liability for which is transferred—</Text>
+                              <P3>
+                                <Pnumber>a</Pnumber>
+                                <P3para>
+                                  <Text>if the pension is payable to the person who has become entitled to it, must be the date from which liability for payment is assumed by the receiving scheme; and</Text>
+                                </P3para>
+                              </P3>
+                              <P3>
+                                <Pnumber>b</Pnumber>
+                                <P3para>
+                                  <Text>if the pension is payable to the widow, widower or surviving civil partner of that person, must be the same as it would have been under the provisions of the transferring scheme.</Text>
+                                </P3para>
+                              </P3>
+                            </P2para>
+                          </P2>
+                          <P2>
+                            <Pnumber>2</Pnumber>
+                            <P2para>
+                              <Text>The receiving scheme must contain the same provision (if any) for suspension and forfeiture of that pension as for guaranteed minimum pensions provided by the receiving scheme in accordance with section 13 or (as the case may be) 17 of the 1993 Act.</Text>
+                            </P2para>
+                          </P2>
+                          <P2>
+                            <Pnumber>3</Pnumber>
+                            <P2para>
+                              <Text>The receiving scheme must provide for the payment of guaranteed minimum pensions to or in respect of a person who has become entitled to them at a rate that is no lower than the rate at which they would have been paid by the transferring scheme, taking into account any increases to the rate which are required by virtue of section 109 of the 1993 Act.</Text>
+                            </P2para>
+                          </P2>
+                        </P1para>
+                      </P1>
+                    </BlockAmendment>
+                    <AppendText>.</AppendText>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>8</Pnumber>
+              <P2para>
+                <Text>In Schedule 2 (modifications of Part III of the 1993 Act)—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph 1, for the definition of “guaranteed minimum pension” substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <UnorderedList Decoration="none" Class="Definition">
+                        <ListItem>
+                          <Para>
+                            <Text>“guaranteed minimum pension” means any pension which is provided—</Text>
+                            <OrderedList Decoration="parens" Type="alpha">
+                              <ListItem>
+                                <Para>
+                                  <Text>by a scheme that was a salary-related contracted-out scheme in accordance with the requirements of sections 13 and 17; or</Text>
+                                </Para>
+                              </ListItem>
+                              <ListItem>
+                                <Para>
+                                  <Text>by a salary-related scheme in compliance with the condition set out in paragraph 1 or 6 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations 1996<FootnoteRef Ref="f00005"/> (or, as the case may be, in paragraph 1 or 5 of Schedule 2 to the Contracting-out (Transfer) Regulations 1985<FootnoteRef Ref="f00006"/>),</Text>
+                                </Para>
+                              </ListItem>
+                            </OrderedList>
+                            <Text>to the extent to which its weekly rate is equal to the earner’s or, as the case may be, the earner’s widow’s, widower’s or surviving same sex spouse’s or surviving civil partner’s guaranteed minimum, as determined for the purposes of those sections or, as the case may be, conditions;;</Text>
+                          </Para>
+                        </ListItem>
+                      </UnorderedList>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>after paragraph 1, insert—</Text>
+                    <BlockAmendment TargetSubClass="unknown" Context="unknown" TargetClass="unknown" Format="double">
+                      <P1>
+                        <Pnumber PuncAfter=".">1A</Pnumber>
+                        <P1para>
+                          <Text>Section 24A(1)(a) shall have effect as if after “17(1)” there were inserted “and in paragraphs 1 and 6 of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations 1996.</Text>
+                        </P1para>
+                      </P1>
+                    </BlockAmendment>
+                    <AppendText>.</AppendText>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.<Character Name="NonBreakingSpace"/>2) Regulations 2015</Title>
+        <P1>
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <P2>
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Occupational Pension Schemes (Schemes that were Contracted-out) (No. 2) Regulations 2015<FootnoteRef Ref="f00007"/> are amended as follows.</Text>
+              </P2para>
+            </P2>
+            <P2>
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In regulation 2(1) (interpretation), in the definition of “section 9(2B) rights”—</Text>
+                <P3>
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>for paragraph (a) substitute—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+                      <P3>
+                        <Pnumber>a</Pnumber>
+                        <P3para>
+                          <Text>rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions)—</Text>
+                          <P4>
+                            <Pnumber>i</Pnumber>
+                            <P4para>
+                              <Text>under a scheme that was a salary-related contracted-out scheme, or</Text>
+                            </P4para>
+                          </P4>
+                          <P4>
+                            <Pnumber>ii</Pnumber>
+                            <P4para>
+                              <Text>under a salary-related scheme, as defined in regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996, that has never been a contracted-out scheme, following a transfer in accordance with regulation 9 of those Regulations,</Text>
+                            </P4para>
+                          </P4>
+                          <Text>so far as attributable to an earner’s service in contracted-out employment on or after 6th April 1997; and</Text>
+                        </P3para>
+                      </P3>
+                    </BlockAmendment>
+                    <AppendText>;</AppendText>
+                  </P3para>
+                </P3>
+                <P3>
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (b)(i), for “another scheme that was a salary-related contracted-out scheme” substitute “another salary-related scheme”.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Para>
+            <Text>Signed by authority of the Secretary of State for Work and Pensions</Text>
+          </Para>
+          <Signee>
+            <PersonName>Guy Opperman</PersonName>
+            <JobTitle>Parliamentary Under Secretary of State</JobTitle>
+            <Department>Department for Work and Pensions</Department>
+            <DateSigned Date="2018-02-22">
+              <DateText>22nd February 2018</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes>
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Regulations)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text>These Regulations amend the Contracting-out (Transfer and Transfer Payment) Regulations 1996 (<Citation id="c00004" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1462">S.I. 1996/1462</Citation>) (“the 1996 Regulations”) and the Occupational Pension Schemes (Schemes that were Contracted-out) (No. 2) Regulations 2015 (<Citation id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1677">S.I. 2015/1677</Citation>) (“the 2015 Regulations”) to allow contracted-out pension rights to be transferred without members’ consent to schemes which have never been contracted out of the Additional State Pension.</Text>
+      </P>
+      <P>
+        <Text>Regulation 2 amends the 1996 Regulations to enable transfers and transfer payments between connected employers to be made to and from schemes that have never been contracted out, and to specify the circumstances in which such transfers can be made without a member’s consent. Regulation 2 also amends the modified definition of “guaranteed minimum pension” in the Pension Schemes Act <Citation id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0048">1993 (c. 48)</Citation> as it applies following a transfer under the 1996 Regulations.</Text>
+      </P>
+      <P>
+        <Text>Regulation 3 amends the definition of “section 9(2B) rights” in the 2015 Regulations to include rights accrued under a salary-related scheme that has never been contracted out, following a transfer in accordance with amended regulation 9 of the 1996 Regulations.</Text>
+      </P>
+      <P>
+        <Text>An impact assessment of the effect that this instrument will have on the costs of business is published with the Explanatory Memorandum alongside this instrument on the UK Legislation website and the <ExternalLink id="i00000" Title="GOV.UK website" URI="http://www.gov.uk">gov.uk</ExternalLink> website, and copies can be obtained from the Department for Work and Pensions, First Floor, Caxton House, Tothill Street, London SW1H 9NA.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00013" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0048">1993 c. 48</Citation>. Section 12C was inserted by section 136(5) of the Pensions Act <Citation id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="1995" Number="0026">1995 (c.26)</Citation> and is repealed by the Pensions Act <Citation id="c00015" Class="UnitedKingdomPublicGeneralAct" Year="2014" Number="0019">2014 (c.19)</Citation> subject to savings specified in <Citation id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1502">S.I. 2015/1502</Citation>, article 2. Section 20(1) was amended, and section 37A inserted, by Schedule 13 to the Pensions Act 2014 and Schedule 5 to the Child Support, Pensions and Social Security Act <Citation id="c00017" Class="UnitedKingdomPublicGeneralAct" Year="2000" Number="0019">2000 (c.19)</Citation>. Section 181 is cited for the meaning it gives to “prescribed” and “regulations”.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text>Section 185(1) was amended by sections 122, 151 and 177 of, and Schedules 3 and 5 and Part 1 of Schedule 7 to, the Pensions Act 1995.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00023" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1462">S.I. 1996/1462</Citation>, amended by <Citation id="c00024" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="1245">S.I. 2011/1245</Citation>, <Citation id="c00025" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="0459">2013/459</Citation>, <Citation id="c00026" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0200">2016/200</Citation> and <Citation id="c00027" Class="UnitedKingdomStatutoryInstrument" Year="2017" Number="0600">2017/600</Citation>; there are other amending instruments but none is relevant.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00004">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00031" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="0167">S.I. 1991/167</Citation>; regulation 12(3) was substituted by <Citation id="c00032" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="1822">S.I. 1993/1822</Citation> and <Citation id="c00033" Class="UnitedKingdomStatutoryInstrument" Year="2011" Number="0672">2011/672</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00005">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00036" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1462">S.I. 1996/1462</Citation>, amended by <Citation id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0200">S.I. 2016/200</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00006">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="1985" Number="1323">S.I. 1985/1323</Citation>, revoked with effect from 6th April 1997 by <Citation id="c00041" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1462">S.I. 1996/1462</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00007">
+      <FootnoteText>
+        <Para>
+          <Text><Citation id="c00046" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="1677">S.I. 2015/1677</Citation>; the definition in regulation 2(1) of “section 9(2B) rights” was amended by <Citation id="c00047" Class="UnitedKingdomStatutoryInstrument" Year="2016" Number="0200">S.I. 2016/200</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

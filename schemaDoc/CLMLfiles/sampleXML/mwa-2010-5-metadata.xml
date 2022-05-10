@@ -1,0 +1,92 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/mwa/2010/5" IdURI="http://www.legislation.gov.uk/id/mwa/2010/5" NumberOfProvisions="12" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="W" RestrictStartDate="2016-04-06">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/mwa/2010/5</dc:identifier>
+		<dc:title>Carers Strategies (Wales) Measure 2010 (repealed)</dc:title>
+		<dc:description>A MEASURE of the National Assembly for Wales to make provision for and in connection with the publication and implementation of strategies for the provision of information to, and consultation of, carers.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2016-08-24</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2016-04-06</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/mwa/2010/5/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/mwa/2010/5/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/mwa/2010/5/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/mwa/2010/5/notes/contents" title="Explanatory Notes Table of Contents"/>
+		<atom:link rel="http://purl.org/dc/terms/provenance" href="http://www.legislation.gov.uk/mwa/2010/5/introduction#commentary-key-26c6e09d1c24f8d9fe7342b4f2db7cf1" title="textual amendment"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/mwa/2010/5" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/mwa/2010/5/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/mwa/2010/5/body" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/mwa/2010/5/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/mwa/2010/5/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/mwa/2010/5/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/mwa/2010/5/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/mwa/2010/5/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_mi.pdf" type="application/pdf" title="Mixed Language Measure"/>
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_we.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/mwa/2010/5/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/mwa/2010/5/2012-01-01" title="2012-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/mwa/2010/5/enacted" title="enacted" hreflang="en"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="              http://www.legislation.gov.uk/mwa/2010/5/enacted/welsh" title="enacted" hreflang="cy"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/mwa/2010/5/2011-11-24" title="2011-11-24"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/mwa/2010/5/2012-01-01" title="2012-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/mwa/2010/5/2016-04-06" title="2016-04-06"/>
+
+
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="WelshAssemblyMeasure"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2010"/>
+			<ukm:Number Value="5"/>
+			<ukm:ISBN Value="9780348104905"/>
+		</ukm:PrimaryMetadata>
+
+
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/2" title="Section 2: Duty to produce strategy"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/3" title="Section 3: Appropriate information and advice"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/4" title="Section 4: Consultation"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/5" title="Section 5: Further provision about strategies"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/6" title="Section 6: Submission of draft strategy to Welsh Ministers"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/8" title="Section 8: Power to add further relevant authorities"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/10" title="Section 10: Orders and regulations"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/section/11" title="Section 11: Commencement"/>
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/mwa/2010/5/notes" DocumentURI="http://www.legislation.gov.uk/mwa/2010/5/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwaen_20100005_mi.pdf" Date="2011-06-07" Title="Explanatory Note" Size="210467" Language="Mixed"/>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwaen_20100005_we.pdf" Date="2010-11-22" Title="Explanatory Note" Size="143296" Language="Welsh"/>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwaen_20100005_en.pdf" Date="2010-11-22" Title="Explanatory Note" Size="104216"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2010-11-17" URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_mi.pdf" Title="Mixed Language Measure" TitleWelsh="Fersiwn ddwyieithog wedi ei hargraffu" Size="94558" Language="Mixed"/>
+			<ukm:Alternative Date="2010-11-17" URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_we.pdf" Title="Print Version" TitleWelsh="Fersiwn i'w hargraffu" Size="120865" Language="Welsh"/>
+			<ukm:Alternative Date="2010-11-17" URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwa_20100005_en.pdf" Title="Print Version" TitleWelsh="Fersiwn i'w hargraffu" Size="120361"/>
+		</ukm:Alternatives>
+		<ukm:OrdersInCouncil>
+			<ukm:OrderInCouncil Date="2010-11-17" URI="http://www.legislation.gov.uk/mwa/2010/5/pdfs/mwaoic_20100005_en.pdf" Title="Order in Council" Size="25944"/>
+		</ukm:OrdersInCouncil>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="12"/>
+			<ukm:BodyParagraphs Value="12"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

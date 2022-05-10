@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- http://www.legislation.gov.uk/ukpga/2006/35/ukpga_2006_35_notes.xml -->
+<EN xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en"
+    xml:base="http://www.legislation.gov.uk/id/ukpga/2006/35"
+    xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/en.xsd"
+    SchemaVersion="1.0" DocumentURI="http://www.legislation.gov.uk/ukpga/2006/35/notes"
+    IdURI="http://www.legislation.gov.uk/id/ukpga/2006/35/notes">
+    <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+        <dc:identifier>http://www.legislation.gov.uk/ukpga/2006/35/notes/division/7</dc:identifier>
+        <dc:subject>Fraud</dc:subject>
+        <dc:subject>Legislation</dc:subject>
+        <dc:subject>Disclosure</dc:subject>
+        <dc:title>Explanatory Notes to Fraud Act 2006</dc:title>
+        <dc:creator>Home Office</dc:creator>
+        <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+        <dc:modified>2013-04-15</dc:modified>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/xml"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes/division/7/data.xml"/>
+
+
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate"
+            type="application/xhtml+xml"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes/division/7/data.xht"
+            title="HTML snippet"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" type="application/pdf"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes/division/7/data.pdf" title="PDF"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="alternate" type="application/pdf"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/pdfs/ukpgaen_20060035_en.pdf"
+            title="Explanatory Note"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="up"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes" title="Entire notes"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="prev"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes/division/6" title="Commencement"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom"
+            rel="http://www.legislation.gov.uk/def/navigation/act/introduction"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/introduction" title="Act Introduction"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom"
+            rel="http://www.legislation.gov.uk/def/navigation/act/toc"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/contents"
+            title="Act Table of Contents"/>
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom"
+            rel="http://www.legislation.gov.uk/def/navigation/resources"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/resources" title="More Resources"/>
+
+        <atom:link xmlns:atom="http://www.w3.org/2005/Atom"
+            rel="http://purl.org/dc/terms/tableOfContents"
+            href="http://www.legislation.gov.uk/ukpga/2006/35/notes/contents"
+            title="Notes Table of Contents"/>
+        <ukm:ENmetadata>
+            <ukm:DocumentClassification>
+                <ukm:DocumentCategory Value="primary"/>
+                <ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+                <ukm:DocumentStatus Value="final"/>
+            </ukm:DocumentClassification>
+            <ukm:Year Value="2006"/>
+            <ukm:Number Value="35"/>
+            <ukm:ISBN Value="0105635065"/>
+        </ukm:ENmetadata>
+        <ukm:Alternatives>
+            <ukm:Alternative Date="2008-03-03"
+                URI="http://www.legislation.gov.uk/ukpga/2006/35/pdfs/ukpgaen_20060035_en.pdf"
+                Title="Explanatory Note"/>
+        </ukm:Alternatives>
+    </ukm:Metadata>
+    <ExplanatoryNotes>
+        <ENprelims>
+            <Title>
+                <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/35" id="c00001"
+                    Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0035">Fraud Act
+                    2006</Citation>
+            </Title>
+            <Number>35</Number>
+            <DateOfEnactment>
+                <DateText>8 November 2006</DateText>
+            </DateOfEnactment>
+        </ENprelims>
+        <Body>
+            <Division id="d00007"
+                DocumentURI="http://www.legislation.gov.uk/ukpga/2006/35/notes/division/7"
+                IdURI="http://www.legislation.gov.uk/id/ukpga/2006/35/notes/division/7">
+                <Title>Hansard References</Title>
+                <Para>
+                    <Text>The following table sets out the dates and Hansard references for each
+                        stage of this Act’s passage through Parliament.</Text>
+                    <Tabular Orientation="portrait">
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="3">
+                            <colgroup>
+                                <col width="30%"/>
+                                <col width="31%"/>
+                                <col width="39%"/>
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th colspan="1" rowspan="1"><Emphasis
+                                            xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+                                                ><Strong>Stage</Strong></Emphasis></th>
+                                    <th colspan="1" rowspan="1"><Emphasis
+                                            xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+                                                ><Strong>Date</Strong></Emphasis></th>
+                                    <th colspan="1" rowspan="1"><Emphasis
+                                            xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+                                                ><Strong>Hansard reference</Strong></Emphasis></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th colspan="3" rowspan="1">
+                                        <Note xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                            <Emphasis><Strong>House of Lords</Strong></Emphasis>
+                                        </Note>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Introduction</td>
+                                    <td colspan="1" rowspan="1">25 May 2005</td>
+                                    <td colspan="1" rowspan="1">
+                                        <Abbreviation xmlns="http://www.legislation.gov.uk/namespaces/legislation"
+                                            Expansion="Volume">Vol.</Abbreviation> 672 Col. 463</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Second Reading</td>
+                                    <td colspan="1" rowspan="1">22 June 2005</td>
+                                    <td colspan="1" rowspan="1">Vol. 672 Cols. 1651-77</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="2">Committee</td>
+                                    <td colspan="1" rowspan="1">19 July 2005</td>
+                                    <td colspan="1" rowspan="1">Vol. 673 Cols. 1411-58</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">31 January 2006</td>
+                                    <td colspan="1" rowspan="1">Vol. 678 Cols.182-6</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Report</td>
+                                    <td colspan="1" rowspan="1">14 March 2006</td>
+                                    <td colspan="1" rowspan="1">Vol. 679 Cols. 1107-33</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Third Reading</td>
+                                    <td colspan="1" rowspan="1">29 March 2006</td>
+                                    <td colspan="1" rowspan="1">Vol. 680 Cols. 779-83</td>
+                                </tr>
+                                <tr>
+                                    <th colspan="3" rowspan="1">
+                                        <Note xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                            <Emphasis><Strong>House of Commons</Strong></Emphasis>
+                                        </Note>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Introduction</td>
+                                    <td colspan="1" rowspan="1">29 March 2006</td>
+                                    <td colspan="1" rowspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Second Reading</td>
+                                    <td colspan="1" rowspan="1">12 June 2006</td>
+                                    <td colspan="1" rowspan="1">Vol. 447 Cols. 534-83</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="2">Committee</td>
+                                    <td colspan="1" rowspan="1">20 June 2006</td>
+                                    <td colspan="1" rowspan="2">Hansard Standing Committee B</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">22 June 2006</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">Report and Third Reading</td>
+                                    <td colspan="1" rowspan="1">26 October 2006</td>
+                                    <td colspan="1" rowspan="1">Vol. 450 Cols.1694-1707</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="2"><Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">Royal Assent </Strong>– 8 November 2006</td>
+                                    <td colspan="1" rowspan="1">House of Lords Hansard Vol. 686 Col 749</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1" rowspan="1">House of Commons Hansard Vol. 451 Col 825</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </Tabular>
+                </Para>
+            </Division>
+        </Body>
+    </ExplanatoryNotes>
+</EN>

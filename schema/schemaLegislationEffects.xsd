@@ -46,12 +46,12 @@
     <xsd:element name="EffectsBatch">
         <xsd:annotation>
             <xsd:documentation>
-                <h:p>The EffectsBatch top level element is used for :</h:p>
+                <h:p>The EffectsBatch top level element is used for:</h:p>
                 <h:ul>
                     <h:li>Multiple effects grouped together produced from the Toes spreadsheet (ukm:EffectsBatch top level element with multiple ukm:Effect children)</h:li>
                     <h:li>Multiple effects delivered together from the bulk downloads site (ukm:EffectsBatch top level element with multiple ukm:Effects with multiple ukm:Effect children)</h:li>
                 </h:ul>
-                <h:p>Attributes ModificationStamp, AffectedExtents, and EffectResearch are present on Toes output</h:p>
+                <h:p>Attributes ModificationStamp, AffectedExtents, and EffectResearch are present on TOES output</h:p>
                 <h:p>Attributes Year is present on BulkDownload output</h:p>
             </xsd:documentation>
         </xsd:annotation>

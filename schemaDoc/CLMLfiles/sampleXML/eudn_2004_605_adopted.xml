@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0">
+   <Metadata xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom">
+      <dc:identifier>http://www.legislation.gov.uk/id/eudn/2004/605</dc:identifier>
+      <dc:title>Decision of the Translation Centre for the bodies of the European Union of 13 April 2004 on the implementation of Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to documents (2004/605/EC)</dc:title>
+      <dc:description>Decision of the Translation Centre for the bodies of the European Union of 13 April 2004 on the implementation of Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to documents (2004/605/EC)</dc:description>
+      <dc:modified/>
+      <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+      <dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0605</dc:source>
+      <dc:type>text</dc:type>
+      <dc:format>text/xml</dc:format>
+      <dc:language>en</dc:language>
+      <dct:bibliographicCitation>OJ L 272, 13.04.2004, p. 13</dct:bibliographicCitation>
+      <EUMetadata>
+         <DocumentClassification>
+            <DocumentCategory Value="euretained"/>
+            <DocumentMainType Value="EuropeanUnionDecision"/>
+            <DocumentStatus Value="final"/>
+         </DocumentClassification>
+         <Year Value="2004"/>
+         <Number Value="605"/>
+         <EURLexIdentifiers>
+            <Cellar Value="e51dc80f-d1c4-489c-8198-33149d1358c7"/>
+            <OfficialJournal Value="JOL_2004_272_R_0013_01"/>
+            <ELI Value="dec:2004:605:oj"/>
+            <CELEX Value="32004D0605"/>
+         </EURLexIdentifiers>
+         <EnactmentDate Date="2004-04-13"/>
+         <EURLexModified Date="2016-06-10T18:34:06Z"/>
+         <EURLexExtracted Date="2018-05-21T08:46:34Z"/>
+         <XMLGenerated Date="2020-12-12T14:35:24Z"/>
+         <Treaty Title="Treaty establishing the European Community (consolidated version 1992)" Code="TEC_1992"/>
+         <CreatedBy Label="Translation Centre" URI="http://publications.europa.eu/resource/authority/corporate-body/CDT"/>
+         <Subject Scheme="EuroVoc" Label="Translation Centre for the Bodies of the European Union" URI="http://eurovoc.europa.eu/6072"/>
+         <Subject Scheme="EuroVoc" Label="access to EU information" URI="http://eurovoc.europa.eu/5399"/>
+         <Subject Scheme="EuroVoc" Label="EU publication" URI="http://eurovoc.europa.eu/2860"/>
+         <Subject Scheme="SubjectMatter" Label="Provisions governing the Institutions" URI="http://publications.europa.eu/resource/authority/fd_070/INST"/>
+         <Subject Scheme="DirectoryCode" Label="General" URI="http://publications.europa.eu/resource/authority/fd_555/014010"/>
+         <Subject Scheme="DirectoryCode" Label="General, financial and institutional matters" URI="http://publications.europa.eu/resource/authority/fd_555/01"/>
+         <Subject Scheme="DirectoryCode" Label="Provisions governing the institutions" URI="http://publications.europa.eu/resource/authority/fd_555/0140"/>
+         <EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/e51dc80f-d1c4-489c-8198-33149d1358c7</VALUE>
+                  <IDENTIFIER>e51dc80f-d1c4-489c-8198-33149d1358c7</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_272_R_0013_01</VALUE>
+                     <IDENTIFIER>JOL_2004_272_R_0013_01</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/dec/2004/605/oj</VALUE>
+                     <IDENTIFIER>dec:2004:605:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32004D0605</VALUE>
+                     <IDENTIFIER>32004D0605</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/605/oj</VALUE>
+               </IDENTIFIER>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6072</VALUE>
+                        <IDENTIFIER>6072</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6072</IDENTIFIER>
+                     <PREFLABEL>Translation Centre for the Bodies of the European Union</PREFLABEL>
+                     <ALTLABEL>CdT</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5769</VALUE>
+                        <IDENTIFIER>5769</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5769</IDENTIFIER>
+                     <PREFLABEL>EU office or agency</PREFLABEL>
+                     <ALTLABEL>specialised Community agency</ALTLABEL>
+                     <ALTLABEL>European Union office or agency</ALTLABEL>
+                     <ALTLABEL>EC specialised body</ALTLABEL>
+                     <ALTLABEL>European agency</ALTLABEL>
+                     <ALTLABEL>European Monitoring Centre</ALTLABEL>
+                     <ALTLABEL>EC institutional body</ALTLABEL>
+                     <ALTLABEL>Community service body</ALTLABEL>
+                     <ALTLABEL>EC satellite body</ALTLABEL>
+                     <ALTLABEL>EU Agencies and decentralised bodies</ALTLABEL>
+                     <ALTLABEL>European foundation</ALTLABEL>
+                     <ALTLABEL>decentralised Community body</ALTLABEL>
+                     <ALTLABEL>autonomous Community body</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a358704d-950b-41f0-84f8-5defe8451a15</VALUE>
+                     <IDENTIFIER>a358704d-950b-41f0-84f8-5defe8451a15</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.BUL.01.005.FULL</VALUE>
+                        <IDENTIFIER>DD.BUL.01.005.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2007_01_005_BG</VALUE>
+                        <IDENTIFIER>DD_2007_01_005_BG</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <YEAR type="data">
+                  <VALUE>2004</VALUE>
+               </YEAR>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32004D0605</VALUE>
+               </WORK_ID_DOCUMENT>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>true</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <IDENTIFIER type="data">
+                  <VALUE>32004D0605</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2004</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_CORRECTED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/cc6017ae-b103-43c7-9766-76df76066251</VALUE>
+                     <IDENTIFIER>cc6017ae-b103-43c7-9766-76df76066251</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32004D0605R%2801%29</VALUE>
+                        <IDENTIFIER>32004D0605R(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2004/605/corrigendum/2009-03-31/oj</VALUE>
+                        <IDENTIFIER>dec:2004:605:corrigendum:2009-03-31:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <BUILD_INFO>cdm:CDM_2.1.5  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.0.3
+1.1.1
+1.1.2
+1.1.3
+1.1.4
+1.1.5 builddate:11/06/2013 08:11:50</BUILD_INFO>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <LANGUAGE_LIST>MT</LANGUAGE_LIST>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_CORRECTED_BY_RESOURCE_LEGAL>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2004_272_R_0013_01</VALUE>
+               </WORK_ID_DOCUMENT>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/7d72ec48-93a1-4848-892f-31c7a1b6d9da</VALUE>
+                     <IDENTIFIER>7d72ec48-93a1-4848-892f-31c7a1b6d9da</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32000X1218%2801%29</VALUE>
+                        <IDENTIFIER>32000X1218(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2000_364_R_0001_01</VALUE>
+                        <IDENTIFIER>JOC_2000_364_R_0001_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/605/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2860</VALUE>
+                     <IDENTIFIER>2860</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2860</IDENTIFIER>
+                  <PREFLABEL>EU publication</PREFLABEL>
+                  <ALTLABEL>European Union publication</ALTLABEL>
+                  <ALTLABEL>Community publication</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DEC</VALUE>
+                     <IDENTIFIER>DEC</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DEC</OP-CODE>
+                  <IDENTIFIER>DEC</IDENTIFIER>
+                  <PREFLABEL>Decision</PREFLABEL>
+                  <ALTLABEL>Decisions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5399</VALUE>
+                        <IDENTIFIER>5399</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5399</IDENTIFIER>
+                     <PREFLABEL>access to EU information</PREFLABEL>
+                     <ALTLABEL>access to Community information</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5640</VALUE>
+                        <IDENTIFIER>5640</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5640</IDENTIFIER>
+                     <PREFLABEL>operation of the Institutions</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/CDT</VALUE>
+                     <IDENTIFIER>CDT</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>CDT</OP-CODE>
+                  <IDENTIFIER>CDT</IDENTIFIER>
+                  <PREFLABEL>Translation Centre</PREFLABEL>
+                  <ALTLABEL>CdT</ALTLABEL>
+                  <ALTLABEL>Translation Centre for the Bodies of the European Union</ALTLABEL>
+               </CREATED_BY>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>INST</OP-CODE>
+                  <IDENTIFIER>INST</IDENTIFIER>
+                  <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2004-04-13</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>13</DAY>
+               </WORK_DATE_DOCUMENT>
+               <DATE type="date">
+                  <VALUE>2004-04-13</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>13</DAY>
+               </DATE>
+               <DATE type="date">
+                  <VALUE>2004-04-01</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>01</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_030/DECBES</VALUE>
+                     <IDENTIFIER>DECBES</IDENTIFIER>
+                     <TYPE>fd_030</TYPE>
+                  </URI>
+                  <OP-CODE>DECBES</OP-CODE>
+                  <IDENTIFIER>DECBES</IDENTIFIER>
+                  <PREFLABEL>decision without addressee</PREFLABEL>
+               </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/8cee1166-7403-469b-8ec8-7eefd83ffca0</VALUE>
+                     <IDENTIFIER>8cee1166-7403-469b-8ec8-7eefd83ffca0</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2007_01_005_RO</VALUE>
+                        <IDENTIFIER>DD_2007_01_005_RO</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.RON.01.005.FULL</VALUE>
+                        <IDENTIFIER>DD.RON.01.005.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/50721be0-fa8f-4ae9-83b3-645e8e35f738</VALUE>
+                     <IDENTIFIER>50721be0-fa8f-4ae9-83b3-645e8e35f738</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/1994/2965/oj</VALUE>
+                        <IDENTIFIER>reg:1994:2965:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1994_314_R_0001_012</VALUE>
+                        <IDENTIFIER>JOL_1994_314_R_0001_012</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31994R2965</VALUE>
+                        <IDENTIFIER>31994R2965</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/2f3dd0aa-8abc-47a5-8521-a7d8ddce5e62</VALUE>
+                     <IDENTIFIER>2f3dd0aa-8abc-47a5-8521-a7d8ddce5e62</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_272_R</VALUE>
+                        <IDENTIFIER>JOL_2004_272_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-06-10T20:34:06.365+02:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>10</DAY>
+               </LASTMODIFICATIONDATE>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+                     <IDENTIFIER>JO</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>JO</OP-CODE>
+                  <IDENTIFIER>JO</IDENTIFIER>
+                  <PREFLABEL>JO</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5399</VALUE>
+                     <IDENTIFIER>5399</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5399</IDENTIFIER>
+                  <PREFLABEL>access to EU information</PREFLABEL>
+                  <ALTLABEL>access to Community information</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2860</VALUE>
+                        <IDENTIFIER>2860</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2860</IDENTIFIER>
+                     <PREFLABEL>EU publication</PREFLABEL>
+                     <ALTLABEL>European Union publication</ALTLABEL>
+                     <ALTLABEL>Community publication</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/486</VALUE>
+                        <IDENTIFIER>486</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>486</IDENTIFIER>
+                     <PREFLABEL>document</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100150</VALUE>
+                        <IDENTIFIER>100150</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>32</IDENTIFIER>
+                     <PREFLABEL>32 EDUCATION AND COMMUNICATIONS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100220</VALUE>
+                        <IDENTIFIER>100220</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3221</IDENTIFIER>
+                     <PREFLABEL>3221 documentation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <WORK_TABLE-OF-CONTENTS type="data">
+                  <VALUE>
+         &lt;table-of-contents&gt;
+            &lt;p&gt;0013 - 0015&lt;/p&gt;
+         &lt;/table-of-contents&gt;
+      </VALUE>
+               </WORK_TABLE-OF-CONTENTS>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2004-04-13</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>13</DAY>
+               </DATE_CREATION_LEGACY>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2004-04-13</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>13</DAY>
+               </DATE_DOCUMENT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/fc2edaf7-a41c-46c7-8d4c-0f8e2c5a788b</VALUE>
+                     <IDENTIFIER>fc2edaf7-a41c-46c7-8d4c-0f8e2c5a788b</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/DD_2013_01_002_HR</VALUE>
+                        <IDENTIFIER>DD_2013_01_002_HR</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/uriserv/DD.HRV.01.002.FULL</VALUE>
+                        <IDENTIFIER>DD.HRV.01.002.FULL</IDENTIFIER>
+                        <TYPE>uriserv</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_SPECIAL-OFFICIAL-JOURNAL>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/2063659d-65fc-4956-b086-8f5a0a2cb9d1</VALUE>
+                     <IDENTIFIER>2063659d-65fc-4956-b086-8f5a0a2cb9d1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2001_145_R_0043_01</VALUE>
+                        <IDENTIFIER>JOL_2001_145_R_0043_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32001R1049</VALUE>
+                        <IDENTIFIER>32001R1049</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2001/1049/oj</VALUE>
+                        <IDENTIFIER>reg:2001:1049:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>D</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <ID_CELEX type="data">
+                  <VALUE>32004D0605</VALUE>
+               </ID_CELEX>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </BASED_ON>
+               <IDENTIFIER type="data">
+                  <VALUE>432846</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/014010</VALUE>
+                     <IDENTIFIER>014010</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>014010</OP-CODE>
+                  <IDENTIFIER>014010</IDENTIFIER>
+                  <PREFLABEL>General</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/d381261f-11ab-4340-a90f-8304a65125b1</VALUE>
+                     <IDENTIFIER>d381261f-11ab-4340-a90f-8304a65125b1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2008_348_M</VALUE>
+                        <IDENTIFIER>JOL_2008_348_M</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32004D0605</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>REP</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2004_272_R_0013_01</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2004-04-01</VALUE>
+                  <YEAR>2004</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>01</DAY>
+                  <ANNOTATION>
+                     <TYPE_OF_DATE>{PE|http://publications.europa.eu/resource/authority/fd_335/PE}</TYPE_OF_DATE>
+                     <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 11</COMMENT_ON_DATE>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:29/01/2015 15:05:16</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0605</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32004D0605</VALUE>
+               </IDENTIFIER>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/6072</VALUE>
+                     <IDENTIFIER>6072</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>6072</IDENTIFIER>
+                  <PREFLABEL>Translation Centre for the Bodies of the European Union</PREFLABEL>
+                  <ALTLABEL>CdT</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/50721be0-fa8f-4ae9-83b3-645e8e35f738</VALUE>
+                     <IDENTIFIER>50721be0-fa8f-4ae9-83b3-645e8e35f738</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/1994/2965/oj</VALUE>
+                        <IDENTIFIER>reg:1994:2965:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1994_314_R_0001_012</VALUE>
+                        <IDENTIFIER>JOL_1994_314_R_0001_012</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31994R2965</VALUE>
+                        <IDENTIFIER>31994R2965</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <ARTICLE>18B</ARTICLE>
+                     <COMMENT_ON_LEGAL_BASIS>A18BI</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:29/01/2015 15:05:16</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/INST</VALUE>
+                        <IDENTIFIER>INST</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>INST</OP-CODE>
+                     <IDENTIFIER>INST</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the Institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2004/605/oj</VALUE>
+               </ELI>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/CDT</VALUE>
+                     <IDENTIFIER>CDT</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>CDT</OP-CODE>
+                  <IDENTIFIER>CDT</IDENTIFIER>
+                  <PREFLABEL>Translation Centre</PREFLABEL>
+                  <ALTLABEL>CdT</ALTLABEL>
+                  <ALTLABEL>Translation Centre for the Bodies of the European Union</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/014010</VALUE>
+                        <IDENTIFIER>014010</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>014010</OP-CODE>
+                     <IDENTIFIER>014010</IDENTIFIER>
+                     <PREFLABEL>General</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/01</VALUE>
+                        <IDENTIFIER>01</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>01</OP-CODE>
+                     <IDENTIFIER>01</IDENTIFIER>
+                     <PREFLABEL>General, financial and institutional matters</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/0140</VALUE>
+                        <IDENTIFIER>0140</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>0140</OP-CODE>
+                     <IDENTIFIER>0140</IDENTIFIER>
+                     <PREFLABEL>Provisions governing the institutions</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <DATE type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>605</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:decision</TYPE>
+               <TYPE>D</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/e51dc80f-d1c4-489c-8198-33149d1358c7.0005</VALUE>
+                  <IDENTIFIER>e51dc80f-d1c4-489c-8198-33149d1358c7.0005</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2004_272_R_0013_01.ENG</VALUE>
+                     <IDENTIFIER>JOL_2004_272_R_0013_01.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2004.272.01.0013.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2004.272.01.0013.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32004D0605.ENG</VALUE>
+                     <IDENTIFIER>32004D0605.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>2004/605/EC: Decision of the Translation Centre for the bodies of the European Union of 13 April 2004 on the implementation of Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to documents</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-06-29T23:52:12.978+02:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>29</DAY>
+               </LASTMODIFICATIONDATE>
+               <TITLE type="data">
+                  <VALUE>2004/605/EC: Decision of the Translation Centre for the bodies of the European Union of 13 April 2004 on the implementation of Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to documents</VALUE>
+               </TITLE>
+               <TITLE type="data">
+                  <VALUE>CELEX1</VALUE>
+               </TITLE>
+            </EXPRESSION>
+         </EURLexMetadata>
+      </EUMetadata>
+   </Metadata>
+   <EURetained>
+      <EUPrelims>
+         <MultilineTitle>
+            <Text>
+               <Uppercase>Decision of the Translation Centre for the bodies of the European Union</Uppercase>
+            </Text>
+            <Text>of 13 April 2004</Text>
+            <Text>on the implementation of Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to documents</Text>
+            <Text>(2004/605/EC)</Text>
+         </MultilineTitle>
+         <EUPreamble>
+            <P>
+               <Text>THE MANAGEMENT BOARD,</Text>
+            </P>
+            <P>
+               <Text>Having regard to Council Regulation (EC) No 2965/94 of 28 November 1994 setting up a Translation Centre for bodies of the European Union<FootnoteRef Ref="f00001"/>, as last amended by Council Regulation (EC) No 1645/2003<FootnoteRef Ref="f00002"/> of 18 June 2003, in particular Article 18a thereof,</Text>
+            </P>
+            <P>
+               <Text>Whereas:</Text>
+            </P>
+            <Division>
+               <Number>(1)</Number>
+               <P>
+                  <Text>The second subparagraph of Article 1 of the Treaty on European Union enshrines the concept of openness, stating that the Treaty marks a new stage in the process of creating an ever closer union among the peoples of Europe, in which decisions are taken as openly as possible and as closely as possible to the citizen.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(2)</Number>
+               <P>
+                  <Text>Openness guarantees that the administration enjoys greater legitimacy and is more effective and more accountable to the citizen in a democratic system and contributes to strengthening the principles of democracy and respect for fundamental rights as laid down in Article 6 of the EU Treaty and in the Charter of Fundamental Rights of the European Union.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(3)</Number>
+               <P>
+                  <Text>Article 18a of Regulation (EC) No 2965/94 provides that Regulation (EC) No 1049/2001 of the European Parliament and of the Council regarding public access to European Parliament, Council and Commission documents<FootnoteRef Ref="f00003"/> (hereinafter Regulation (EC) No 1049/2001) shall also apply to documents held by the Centre and it also provides that the Management Board shall adopt the practical arrangements for implementing Regulation (EC) No 1049/2001,</Text>
+               </P>
+            </Division>
+            <P>
+               <Text>HAS ADOPTED THIS DECISION:</Text>
+            </P>
+         </EUPreamble>
+      </EUPrelims>
+      <EUBody>
+         <P1group>
+            <Title>Beneficiaries and scope</Title>
+            <P1 id="article-1">
+               <Pnumber>Article 1</Pnumber>
+               <P1para>
+                  <P2 id="article-1-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>Any natural or legal person shall have a right of access to documents of the Translation Centre for the bodies of the European Union (the Centre) subject to the principles, conditions and limits laid down in Regulation (EC) No 1049/2001 and in accordance with the provisions of this decision.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-1-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>Documents in the Centre’s possession for translation purposes only are not held by the Centre within the meaning of Article 2(3) of Regulation (EC) No 1049/2001.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Definitions</Title>
+            <P1 id="article-2">
+               <Pnumber>Article 2</Pnumber>
+               <P1para>
+                  <Text>For the purpose of this decision:</Text>
+               </P1para>
+               <P1para>
+                  <OrderedList Type="alpha" Decoration="parens">
+                     <ListItem NumberOverride="(a)">
+                        <Para>
+                           <Text>‘document’ shall mean any content whatever its medium (written on paper or stored in electronic form or as a sound, visual or audiovisual recording) concerning a matter relating to the policies, activities and decisions falling within the Centre’s sphere of responsibility;</Text>
+                        </Para>
+                     </ListItem>
+                     <ListItem NumberOverride="(b)">
+                        <Para>
+                           <Text>‘third party’ shall mean any natural or legal person, or any entity outside the Centre, including the Member States, other Community or non-Community institutions and bodies and third countries.</Text>
+                        </Para>
+                     </ListItem>
+                  </OrderedList>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Applications</Title>
+            <P1 id="article-3">
+               <Pnumber>Article 3</Pnumber>
+               <P1para>
+                  <P2 id="article-3-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>All applications for access to a document shall be sent to the Centre via its website (www.cdt.eu.int), by e-mail (cdt@cdt.eu.int), by mail (Translation Centre for the Bodies of the European Union, Bâtiment Nouvel Hémicycle, 1 rue du Fort Thüngen, L-1499 Luxembourg), or by fax ((352) 421711 220). The Centre shall reply to initial and confirmatory access applications within 15 working days from the date of registration of the application. In the case of complex or bulky applications, the deadline may be extended by 15 working days. Reasons must be given for any extension of the deadline and be notified to the applicant in advance.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-3-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>If an application is not sufficiently precise, as referred to in Article 6(2) of Regulation (EC) No 1049/2001, the Centre shall ask the applicant to provide further information to help identify the documents requested; the deadline for reply shall run only from the date on which the Centre is in receipt of such information.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-3-3">
+                     <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                     <P2para>
+                        <Text>Any decision which is even partly negative shall state the reason for the refusal based on one of the exceptions listed in Article 4 of Regulation (EC) No 1049/2001 and shall inform the applicant of the remedies open to it.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Processing of initial applications</Title>
+            <P1 id="article-4">
+               <Pnumber>Article 4</Pnumber>
+               <P1para>
+                  <P2 id="article-4-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>Once the application has been registered, an acknowledgement of receipt shall be sent to the applicant, unless a reply is sent immediately. The acknowledgement of receipt and the reply shall be sent in writing, where appropriate in electronic form.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-4-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>Subject to the provisions of Article 9 of this decision, the Administration Department shall have the power to decide on the action to be taken with regard to initial applications. To that end, a member of staff shall be assigned to process applications for access and to coordinate replies.</Text>
+                     </P2para>
+                     <P2para>
+                        <Text>The applicant shall be informed of the outcome of its application.</Text>
+                     </P2para>
+                     <P2para>
+                        <Text>Any reply which is even partly negative shall inform the applicant of its right to submit, within 15 working days from receipt of the reply, a confirmatory application to the Centre.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-4-3">
+                     <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                     <P2para>
+                        <Text>In the event of a total or partial refusal, the applicant may, within 15 working days of receiving the Centre’s reply, make a confirmatory application asking the Centre to reconsider its position.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-4-4">
+                     <Pnumber PuncBefore="" PuncAfter=".">4</Pnumber>
+                     <P2para>
+                        <Text>Failure by the Centre to reply within the prescribed time-limit shall entitle the applicant to make a confirmatory application.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Processing of confirmatory applications</Title>
+            <P1 id="article-5">
+               <Pnumber>Article 5</Pnumber>
+               <P1para>
+                  <P2 id="article-5-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>The Director of the Centre shall decide on confirmatory applications. He shall inform the Centre’s Management Board of his decision.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-5-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>The decision shall be notified to the applicant in writing, where appropriate in electronic form, informing the applicant of its right to bring an action before the Court of First Instance or to lodge a complaint with the European Ombudsman.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Consultation</Title>
+            <P1 id="article-6">
+               <Pnumber>Article 6</Pnumber>
+               <P1para>
+                  <P2 id="article-6-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>Where the Centre receives an application for access to a document which it holds but which originates from a third party, the Centre shall examine whether one of the exceptions provided for under Article 4 of Regulation (EC) No 1049/2001 applies.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-6-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>If, after examination, the Centre considers that access to the document requested must be refused by reason of one of the exceptions provided for in Article 4 of Regulation (EC) No 1049/2001, the negative answer shall be sent to the applicant without consultation of the third-party author.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-6-3">
+                     <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                     <P2para>
+                        <Text>Subject to the provisions of paragraph 4 of this Article, the Centre shall grant the application without consulting the third-party author where:</Text>
+                        <P3>
+                           <Pnumber PuncBefore="(" PuncAfter=")">a</Pnumber>
+                           <P3para>
+                              <Text>the document requested has already been disclosed either by its author or pursuant to Regulation (EC) No 1049/2001 or similar provisions;</Text>
+                           </P3para>
+                        </P3>
+                        <P3>
+                           <Pnumber PuncBefore="(" PuncAfter=")">b</Pnumber>
+                           <P3para>
+                              <Text>the disclosure, or partial disclosure, of its contents would not obviously undermine one of the interests referred to in Article 4 of Regulation (EC) No 1049/2001.</Text>
+                           </P3para>
+                        </P3>
+                     </P2para>
+                     <P2para>
+                        <Text>In all other cases, the third-party author shall be consulted.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-6-4">
+                     <Pnumber PuncBefore="" PuncAfter=".">4</Pnumber>
+                     <P2para>
+                        <Text>If an application for access concerns a document originating from a Member State, the Centre shall consult the originator subject to the provisions of paragraph 3(a) of this Article.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-6-5">
+                     <Pnumber PuncBefore="" PuncAfter=".">5</Pnumber>
+                     <P2para>
+                        <Text>The third party consulted shall have not less than five working days in which to reply, or enough time to allow the Centre to meet its own time limits for replying. If no reply is received within the prescribed period, or if the third party cannot be found or identified, the Centre shall decide in accordance with the rules on exceptions stated in Article 4 of Regulation (EC) No 1049/2001, taking account of the legitimate interests of the third party on the basis of the information at its disposal.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-6-6">
+                     <Pnumber PuncBefore="" PuncAfter=".">6</Pnumber>
+                     <P2para>
+                        <Text>If the Centre intends to give access to a document against the explicit opinion of the author, it shall inform the author of its intention to disclose the document after a period of 10 working days and shall draw the author’s attention to the remedies open to it to oppose such disclosure.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Exercise of the right of access</Title>
+            <P1 id="article-7">
+               <Pnumber>Article 7</Pnumber>
+               <P1para>
+                  <P2 id="article-7-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>Documents shall be sent by mail, fax or, if available, by e-mail. If documents are voluminous or unwieldy, the applicant may be asked to consult the documents on the spot. This consultation shall be free of charge.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-7-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>If the document has been published, the reply shall consist of references to the publication and/or the place where the document is available and, where appropriate, the address of the document on the website www.cdt.eu.int.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-7-3">
+                     <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                     <P2para>
+                        <Text>If the volume of the documents requested exceeds 20 pages, the applicant may be charged a fee of EUR 0,10 per page, plus delivery charge. The amount of this fee may be amended by the Centre’s Director. The charges for other media shall be decided individually, but shall not exceed a reasonable amount.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Measures facilitating access to documents</Title>
+            <P1 id="article-8">
+               <Pnumber>Article 8</Pnumber>
+               <P1para>
+                  <P2 id="article-8-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>To make citizens’ rights under Regulation (EC) No 1049/2001 effective, the Centre shall provide public access to a register of documents. Access to the register shall be provided in electronic form.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-8-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>The register shall contain the title of the document (in the languages in which it is available), including, where applicable, other useful references, an indication of its author and the date of its creation or adoption.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-8-3">
+                     <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                     <P2para>
+                        <Text>A help page (in all official languages) shall inform the public how the document can be obtained. If the document is published, there shall be a link to the original text.</Text>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Documents directly accessible to the public</Title>
+            <P1 id="article-9">
+               <Pnumber>Article 9</Pnumber>
+               <P1para>
+                  <P2 id="article-9-1">
+                     <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                     <P2para>
+                        <Text>This article applies only to documents drawn up or received after the date of implementation of Regulation (EC) No 1049/2001.</Text>
+                     </P2para>
+                  </P2>
+                  <P2 id="article-9-2">
+                     <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                     <P2para>
+                        <Text>The following documents shall be automatically provided on request and, as far as possible, made directly accessible in electronic form:</Text>
+                        <P3>
+                           <Pnumber PuncBefore="(" PuncAfter=")">a</Pnumber>
+                           <P3para>
+                              <Text>texts adopted by the Centre’s Director or Management Board intended for publication in the <Emphasis>Official Journal of the European Union</Emphasis> or on the Centre’s website;</Text>
+                           </P3para>
+                        </P3>
+                        <P3>
+                           <Pnumber PuncBefore="(" PuncAfter=")">b</Pnumber>
+                           <P3para>
+                              <Text>documents originating from third parties which have already been disclosed by their author or with its consent;</Text>
+                           </P3para>
+                        </P3>
+                        <P3>
+                           <Pnumber PuncBefore="(" PuncAfter=")">c</Pnumber>
+                           <P3para>
+                              <Text>documents already disclosed following a previous application.</Text>
+                           </P3para>
+                        </P3>
+                     </P2para>
+                  </P2>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Reports</Title>
+            <P1 id="article-10">
+               <Pnumber>Article 10</Pnumber>
+               <P1para>
+                  <Text>The Centre shall publish annually a report for the preceding year including information on implementation of this decision, in particular statistics on the number of applications for access to the Centre’s documents, the number of cases in which the Centre refused to grant access and the reasons for such refusals, in accordance with Article 17(1) of Regulation (EC) No 1049/2001.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Entry into force</Title>
+            <P1 id="article-11">
+               <Pnumber>Article 11</Pnumber>
+               <P1para>
+                  <Text>This decision shall enter into force on 1 April 2004.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group>
+            <Title>Publication</Title>
+            <P1 id="article-12">
+               <Pnumber>Article 12</Pnumber>
+               <P1para>
+                  <Text>This decision shall be published in the <Emphasis>Official Journal of the European Union</Emphasis>.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <SignedSection>
+            <Signatory>
+               <Para>
+                  <Text>Done at Luxembourg, 13 April 2004.</Text>
+               </Para>
+               <Signee>
+                  <Para>
+                     <Text>
+                        <Emphasis>For the Management Board</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>
+                        <Emphasis>The Chairman</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>K.-J. <Uppercase>Lönnroth</Uppercase>
+                     </Text>
+                  </Para>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </EUBody>
+   </EURetained>
+   <Footnotes>
+      <Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="1994" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.314.01.0001.01.ENG" Date="1994-12-07">OJ L 314, 7.12.1994, p. 1</Citation>
+               </Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00002">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00002" Class="EuropeanUnionOfficialJournal" Year="2003" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.245.01.0013.01.ENG" Date="2003-09-29">OJ L 245, 29.9.2003, p. 13</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+      <Footnote id="f00003">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00003" Class="EuropeanUnionOfficialJournal" Year="2001" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.145.01.0043.01.ENG" Date="2001-05-31">OJ L 145, 31.5.2001, p. 43</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+   </Footnotes>
+</Legislation>

@@ -1,0 +1,518 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2002/2677/made" IdURI="http://www.legislation.gov.uk/id/uksi/2002/2677" NumberOfProvisions="36" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2002/2677/introduction/made</dc:identifier>
+		<dc:title>The Control of Substances Hazardous to Health Regulations 2002</dc:title>
+		<dc:subject>Health and safety monitoring</dc:subject>
+		<dc:subject>Health and safety risk assessment</dc:subject>
+		<dc:subject>Health and safety at work</dc:subject>
+		<dc:subject>Safety</dc:subject>
+		<dc:subject>Hazardous substances</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2017-06-12</dc:modified>
+		<dc:subject scheme="SIheading">HEALTH AND SAFETY</dc:subject>
+		<dc:description/>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2002/2677/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2002/2677/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2002/2677/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2002/2677/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2002/2677/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2002/2677/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2002/2677/contents/made" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction/2002-11-21" title="2002-11-21"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2002/2677/introduction" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2002/2677/made" title="Entire legislation"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2002/2677/regulation/1/made" title="Provision; Regulation 1"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2002/2677/regulation/1/made" title="Provision; Regulation 1"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2002"/>
+			<ukm:Number Value="2677"/>
+			<ukm:Made Date="2002-10-24"/>
+			<ukm:Laid Date="2002-10-31" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2002-11-21"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="0110429192"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-8f8a5a1eff04d455d709a3e8ad325c31" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8f8a5a1eff04d455d709a3e8ad325c31" Row="13" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-a" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/a">reg. 12(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4085ab080454e4773a303801165d4ec0" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4085ab080454e4773a303801165d4ec0" Row="14" Type="words omitted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-b" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/b">reg. 12(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-74b2a637c7e6591c77fa6dffa5cbaaa9" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-74b2a637c7e6591c77fa6dffa5cbaaa9" Row="15" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(c)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-c" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/c">reg. 12(2)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-aacd8dfde41f234009a161f26f57013d" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-aacd8dfde41f234009a161f26f57013d" Row="16" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(d)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-d" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/d">reg. 12(2)(d)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f7b32a4cb1174810e771eb10a3e6d8fc" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f7b32a4cb1174810e771eb10a3e6d8fc" Row="17" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(e)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-e" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/e">reg. 12(2)(e)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-48c08d6570fc8d74eaee3b3f5bdc076a" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-48c08d6570fc8d74eaee3b3f5bdc076a" Row="18" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(f)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-f" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/f">reg. 12(2)(f)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-48938f5881406423498754e6c2d13a3e" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-48938f5881406423498754e6c2d13a3e" Row="19" Type="words omitted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(g)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-g" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/g">reg. 12(2)(g)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8b5a4731152dbb5036e9e6e16f7d4093" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8b5a4731152dbb5036e9e6e16f7d4093" Row="20" Type="words omitted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(h)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-h" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/h">reg. 12(2)(h)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f1f7ead68920026980ecf2da3dccb8fb" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f1f7ead68920026980ecf2da3dccb8fb" Row="21" Type="word substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(i)(i)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-i-i" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/i/i">reg. 12(2)(i)(i)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-9f5cb983326d1cba3f9554f12474b6c6" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-9f5cb983326d1cba3f9554f12474b6c6" Row="22" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(2)(i)(ii)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-2-i-ii" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/2/i/ii">reg. 12(2)(i)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-04186bfed2cf293d7febc833226a5f8e" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/1637" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-04186bfed2cf293d7febc833226a5f8e" Row="25" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 3(2)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2015" AffectingNumber="1637" AffectingProvisions="Sch. para. 7(2)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-3-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/3/2">reg. 3(2)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-7-2-a" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule/paragraph/7/2/a">para. 7(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/article/1">art. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-10-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8a5a1587becb2135979ddbc63905eb02" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/1637" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8a5a1587becb2135979ddbc63905eb02" Row="26" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 3(2A)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2015" AffectingNumber="1637" AffectingProvisions="Sch. para. 7(2)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-3-2A" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/3/2A" FoundRef="regulation-3">reg. 3(2A)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-7-2-b" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule/paragraph/7/2/b">para. 7(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/article/1">art. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-10-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8362545ab1c3547ddfc5d1994c93ecce" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8362545ab1c3547ddfc5d1994c93ecce" Row="37" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 7(7)(c)(i)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(3)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-7-c-i" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/7/c/i" FoundRef="regulation-7">reg. 7(7)(c)(i)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-3-a" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/3/a">reg. 12(3)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e36bb9010138679306e14e6d5c147447" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e36bb9010138679306e14e6d5c147447" Row="38" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 7(7)(c)(ii)" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(3)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-7-c-ii" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/7/c/ii" FoundRef="regulation-7">reg. 7(7)(c)(ii)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-3-b" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/3/b">reg. 12(3)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e33ffbf15f53300cb03e8384b73b7b36" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/1682" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e33ffbf15f53300cb03e8384b73b7b36" Row="49" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 16A" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="1682" AffectingProvisions="Sch. para. 10(g)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section xmlns:err="http://www.legislation.gov.uk/namespaces/error" Ref="regulation-16A" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/16A" err:Ref="Section missing in legislation" Missing="true">reg. 16A</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Office of Rail Regulation (Change of Name) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2015/1682/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-10-g" URI="http://www.legislation.gov.uk/id/uksi/2015/1682/schedule/paragraph/10/g">para. 10(g)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2015/1682/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-10-16" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3d0051742a06b31d4934f136b7ff62b9" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/1637" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3d0051742a06b31d4934f136b7ff62b9" Row="52" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 20" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2015" AffectingNumber="1637" AffectingProvisions="Sch. para. 7(3)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-20" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/20">reg. 20</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-7-3-a" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule/paragraph/7/3/a">para. 7(3)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/article/1">art. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-10-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-9fe75a2536ae679b76893b361fbc145a" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/1637" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-9fe75a2536ae679b76893b361fbc145a" Row="53" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 20" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2015" AffectingNumber="1637" AffectingProvisions="Sch. para. 7(3)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-20" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/20">reg. 20</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-7-3-b" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/schedule/paragraph/7/3/b">para. 7(3)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1" URI="http://www.legislation.gov.uk/id/uksi/2015/1637/article/1">art. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-10-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6f6b39e1f914f5a0737c1de843769467" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-6f6b39e1f914f5a0737c1de843769467" Row="57" Type="words omitted" RequiresApplied="true" AffectedProvisions="Sch. 2" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(4)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/schedule/2">Sch. 2</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-4" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/4">reg. 12(4)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e34a11c1da00a2cee1a9bf420b8db341" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-e34a11c1da00a2cee1a9bf420b8db341" Row="63" Type="words substituted" RequiresApplied="true" AffectedProvisions="Sch. 7" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(5)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-7" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/schedule/7">Sch. 7</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-5-a" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/5/a">reg. 12(5)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f1646c04a0a4f4257ed6275d3cf600c8" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2015/21" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f1646c04a0a4f4257ed6275d3cf600c8" Row="64" Type="words substituted" RequiresApplied="true" AffectedProvisions="Sch. 7" AffectingEffectsExtent="E+W+S" AffectingYear="2015" AffectingNumber="21" AffectingProvisions="reg. 12(5)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-7" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/schedule/7">Sch. 7</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-12-5-b" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/12/5/b">reg. 12(5)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2015/21/regulation/1/3">reg. 1(3)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8576848eb1254c74cb703c3fc666a4a2" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/469" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8576848eb1254c74cb703c3fc666a4a2" Row="12" Type="words inserted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" AffectingEffectsExtent="Same as affected" AffectingYear="2014" AffectingNumber="469" AffectingProvisions="Sch. 3 para. 107(2)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-107-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3/paragraph/107/2">para. 107(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/4">Sch. 4</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2014-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4e24299feb293941b74e69092a76886a" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/3248" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4e24299feb293941b74e69092a76886a" Row="31" Type="revoked" RequiresApplied="true" AffectedProvisions="reg. 5(1)(a)(i)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2014" AffectingNumber="3248" AffectingProvisions="Sch. 4 Pt. 2" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-5-1-a-i" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/5/1/a/i">reg. 5(1)(a)(i)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Mines Regulations 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/3248/schedule/4">Sch. 4 </ukm:Section><ukm:Section Ref="schedule-4-part-2" URI="http://www.legislation.gov.uk/id/uksi/2014/3248/schedule/4/part/2">Pt. 2</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-1-3" URI="http://www.legislation.gov.uk/id/uksi/2014/3248/regulation/1/3">reg. 1(3)</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/3248/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2015-04-06" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-a3a67318fde1bdd4560db4a2a63233fd" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/469" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-a3a67318fde1bdd4560db4a2a63233fd" Row="43" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 10(7)(b)" AffectingEffectsExtent="Same as affected" AffectingYear="2014" AffectingNumber="469" AffectingProvisions="Sch. 3 para. 107(3)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-10-7-b" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/10/7/b">reg. 10(7)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-107-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3/paragraph/107/3">para. 107(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/4">Sch. 4</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2014-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-d7716412b51b104b8579f58509ec1b04" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/469" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d7716412b51b104b8579f58509ec1b04" Row="44" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 11(4)(b)" AffectingEffectsExtent="Same as affected" AffectingYear="2014" AffectingNumber="469" AffectingProvisions="Sch. 3 para. 107(4)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-11-4-b" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/11/4/b">reg. 11(4)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-107-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3/paragraph/107/4">para. 107(4)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/4">Sch. 4</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2014-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-50f3bf8b27854b8eb6437d0b865a42e4" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/469" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-50f3bf8b27854b8eb6437d0b865a42e4" Row="50" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 18(2)" AffectingEffectsExtent="Same as affected" AffectingYear="2014" AffectingNumber="469" AffectingProvisions="Sch. 3 para. 107(5)(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-18-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/18/2">reg. 18(2)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-107-5-a" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3/paragraph/107/5/a">para. 107(5)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/4">Sch. 4</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2014-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8174c3df2dd0f3e267ef566d3e2596ce" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2014/469" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8174c3df2dd0f3e267ef566d3e2596ce" Row="51" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 18(3)" AffectingEffectsExtent="Same as affected" AffectingYear="2014" AffectingNumber="469" AffectingProvisions="Sch. 3 para. 107(5)(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-18-3" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/18/3" FoundRef="regulation-18">reg. 18(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-107-5-b" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/3/paragraph/107/5/b">para. 107(5)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/uksi/2014/469/schedule/4">Sch. 4</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="article-1-2" URI="http://www.legislation.gov.uk/id/uksi/2014/469/article/1/2">art. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2014-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6e0909fd17598ef739ec687ead2a3aef" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2008/2852" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-6e0909fd17598ef739ec687ead2a3aef" Row="30" Type="revoked" RequiresApplied="true" AffectedProvisions="reg. 4(4)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2008" AffectingNumber="2852" AffectingProvisions="Sch. 10 Pt. 2" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-4-4" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/4/4">reg. 4(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The REACH Enforcement Regulations 2008</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-10" URI="http://www.legislation.gov.uk/id/uksi/2008/2852/schedule/10">Sch. 10 </ukm:Section><ukm:Section Ref="schedule-10-part-2" URI="http://www.legislation.gov.uk/id/uksi/2008/2852/schedule/10/part/2">Pt. 2</ukm:Section></ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2009-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f0f2af6a91534e3bb465e8b5b88113d9" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2008/2852" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f0f2af6a91534e3bb465e8b5b88113d9" Row="55" Type="entries revoked" RequiresApplied="true" AffectedProvisions="Sch. 2" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2008" AffectingNumber="2852" AffectingProvisions="Sch. 10 Pt. 2" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/schedule/2">Sch. 2</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The REACH Enforcement Regulations 2008</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-10" URI="http://www.legislation.gov.uk/id/uksi/2008/2852/schedule/10">Sch. 10 </ukm:Section><ukm:Section Ref="schedule-10-part-2" URI="http://www.legislation.gov.uk/id/uksi/2008/2852/schedule/10/part/2">Pt. 2</ukm:Section></ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2009-06-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6df2dced01ce85fb6647001c1b2a51a4" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/1370" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-adef0a05f43ff97b4af45331de4d752b" Row="23" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2018" AffectingNumber="1370" AffectingProvisions="reg. 7(2)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z" AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Health and Safety (Amendment) (EU Exit) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7-2" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/7/2">reg. 7(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8da3e1b5fc19780cbbde9dead1ee8816" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/1370" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-ff360f7b4cd25a7e066ba4de66113186" Row="28" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 4(2)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2018" AffectingNumber="1370" AffectingProvisions="reg. 7(3)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z" AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-4-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/4/2">reg. 4(2)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Health and Safety (Amendment) (EU Exit) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7-3" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/7/3">reg. 7(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-aa70df84695921d9302f82890334d380" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/390" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-aa70df84695921d9302f82890334d380" Row="39" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 7(9)(a)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2018" AffectingNumber="390" AffectingProvisions="Sch. 5 para. 3(a)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-9-a" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/9/a">reg. 7(9)(a)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Personal Protective Equipment (Enforcement) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/uksi/2018/390/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-3-a" URI="http://www.legislation.gov.uk/id/uksi/2018/390/schedule/5/paragraph/3/a">para. 3(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:SectionRange Start="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/1" End="regulation-2-3" UpTo="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/3"><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/1">reg. 2(1)</ukm:Section>-<ukm:Section Ref="regulation-2-3" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/3">(3)</ukm:Section></ukm:SectionRange></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2018-04-21" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8fd978b245af2966df35b4e5d2c7cbd4" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/390" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8fd978b245af2966df35b4e5d2c7cbd4" Row="40" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 7(12)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2018" AffectingNumber="390" AffectingProvisions="Sch. 5 para. 3(b)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-12" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/12" FoundRef="regulation-7">reg. 7(12)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Personal Protective Equipment (Enforcement) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/uksi/2018/390/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-3-b" URI="http://www.legislation.gov.uk/id/uksi/2018/390/schedule/5/paragraph/3/b">para. 3(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:SectionRange Start="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/1" End="regulation-2-3" UpTo="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/3"><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/1">reg. 2(1)</ukm:Section>-<ukm:Section Ref="regulation-2-3" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/2/3">(3)</ukm:Section></ukm:SectionRange></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/390/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2018-04-21" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-dccc61eafe739752226dc471ddce295f" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/1370" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1930791c0f79ae87dbf45457f8f3a5a3" Row="41" Type="words omitted" RequiresApplied="true" AffectedProvisions="reg. 7(12)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2018" AffectingNumber="1370" AffectingProvisions="reg. 7(4)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z" AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-12" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/12" FoundRef="regulation-7">reg. 7(12)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Health and Safety (Amendment) (EU Exit) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7-4" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/7/4">reg. 7(4)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-c24d148fce7f118ae3858ae9a3d64563" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2018/1370" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-dd5f3d851a569e247f7fa581335f45ad" Row="47" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 15(1A)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AffectingYear="2018" AffectingNumber="1370" AffectingProvisions="reg. 7(5)" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z" AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-15-1A" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/15/1A" FoundRef="regulation-15">reg. 15(1A)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Health and Safety (Amendment) (EU Exit) Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7-5" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/7/5">reg. 7(5)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2018/1370/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1f74ab73ec57bd69ed5816b4577b4750" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/696" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1f74ab73ec57bd69ed5816b4577b4750" Row="3960" Type="words omitted" RequiresApplied="true" AffectedProvisions="reg. 7(12)" Comments="IP completion day" AffectingEffectsExtent="E+W+S" AppendedCommentary="(as amended by S.I. 2020/676, regs. 1(1), 2, 3); 2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="696" AffectingProvisions="Sch. 35 para. 2(4)" AffectedYear="2002" AffectedNumber="2677" Modified="2021-03-02T16:07:37Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-7-12" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/7/12" FoundRef="regulation-7">reg. 7(12)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-35" URI="http://www.legislation.gov.uk/id/uksi/2019/696/schedule/35">Sch. 35 </ukm:Section><ukm:Section Ref="schedule-35-paragraph-2-4" URI="http://www.legislation.gov.uk/id/uksi/2019/696/schedule/35/paragraph/2/4">para. 2(4)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2019/696/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f3d811d9b262bda4219ea35d46d26a36" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/720" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-c2f6fc09150e58249445f0bfef9dae7d" Row="11" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 2(1)" Comments="IP completion day" AffectingEffectsExtent="Same as affected" AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="720" AffectingProvisions="Sch. 1 para. 3(2)" AffectedYear="2002" AffectedNumber="2677" Modified="2021-03-11T13:20:37Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/2/1">reg. 2(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/uksi/2019/720/schedule/1">Sch. 1 </ukm:Section><ukm:Section Ref="schedule-1-paragraph-3-2" URI="http://www.legislation.gov.uk/id/uksi/2019/720/schedule/1/paragraph/3/2">para. 3(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/720/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-32be5a266691c09d13108cb5767569a2" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2012/632" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-32be5a266691c09d13108cb5767569a2" Row="33" Type="words substituted" RequiresApplied="true" AffectedProvisions="reg. 5(1)(a)(iii)" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2012" AffectingNumber="632" AffectingProvisions="Sch. 3" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-5-1-a-iii" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/regulation/5/1/a/iii">reg. 5(1)(a)(iii)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Control of Asbestos Regulations 2012</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/uksi/2012/632/schedule/3">Sch. 3</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2012/632/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2012-04-06" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-ec001681a7aca970dc316fe20a23d727" AffectedClass="UnitedKingdomStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/uksi/2002/2677" AffectingURI="http://www.legislation.gov.uk/id/uksi/2013/1478" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-ec001681a7aca970dc316fe20a23d727" Row="56" Type="words substituted" RequiresApplied="true" AffectedProvisions="Sch. 2" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2013" AffectingNumber="1478" AffectingProvisions="Sch. 5 para. 13" AffectedYear="2002" AffectedNumber="2677" Modified="2020-01-15T09:24:19Z">
+					<ukm:AffectedTitle>The Control of Substances Hazardous to Health Regulations 2002</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2677/schedule/2">Sch. 2</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Cosmetic Products Enforcement Regulations 2013</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/uksi/2013/1478/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-13" URI="http://www.legislation.gov.uk/id/uksi/2013/1478/schedule/5/paragraph/13">para. 13</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-6-5" URI="http://www.legislation.gov.uk/id/uksi/2013/1478/regulation/6/5">reg. 6(5)</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2013/1478/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2013-07-11" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-11-27" URI="http://www.legislation.gov.uk/uksi/2002/2677/pdfs/uksi_20022677_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="35"/>
+			<ukm:BodyParagraphs Value="21"/>
+			<ukm:ScheduleParagraphs Value="14"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="1"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2002/2677/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2002/2677/introduction">
+			<Number>2002 No. 2677</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>HEALTH AND SAFETY</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Control of Substances Hazardous to Health Regulations 2002</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>24th October 2002</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>31st October 2002</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>21st November 2002</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State being the Minister designated<FootnoteRef Ref="f00001"/> for the purpose of section 2(2) of the European Communities Act 1972<FootnoteRef Ref="f00002"/> in relation to the abolition of restrictions on the import or export of goods, in the exercise of the powers conferred on him by the said section 2(2) and sections 15(1), (2), (3)(b), (4), (5)(b), (6)(b) and (9), 52(2) and (3) and 82(3)(a) of, and paragraphs 1(1) to (4), 2, 6(1), 8, 9, 11, 14, 15(1), 16 and 20 of Schedule 3 to, the Health and Safety at Work <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation> Act 1974<FootnoteRef Ref="f00003"/> (“the <Abbreviation Expansion="Health and Safety at Work etc. Act 1974 c. 37">1974 Act</Abbreviation>”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1992/2661" id="c00028" Class="UnitedKingdomStatutoryInstrument" Year="1992" Number="2661">S.I. 1992/2661</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1972/68" id="c00029" Class="UnitedKingdomPublicGeneralAct" Year="1972" Number="0068">1972 c. 68</Citation>, the definition of the Treaties referred to in section 2(2) of the European Communities Act 1972 was extended by section 1 of the European Economic Area Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1993/51" id="c00030" Class="UnitedKingdomPublicGeneralAct" Year="1993" Number="0051">1993 (c. 51)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1974/37" id="c00031" Class="UnitedKingdomPublicGeneralAct" Year="1974" Number="0037">1974 c. 37</Citation>, sections 11(2), 15(1) and 50(3) were amended by the Employment Protection Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1975/71" id="c00032" Class="UnitedKingdomPublicGeneralAct" Year="1975" Number="0071">1975 (c. 71)</Citation>, Schedule 15, paragraphs 4, 6 and 16(3) respectively.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

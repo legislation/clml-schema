@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/ukpga/Geo6/12-13-14/30" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/ukpga/1949/30</dc:identifier>
+    <dc:subject>Employment terms and conditions</dc:subject>
+    <dc:subject>Overtime</dc:subject>
+    <dc:subject>Pay</dc:subject>
+    <dc:title>Agricultural Wages (Scotland) Act 1949</dc:title>
+    <dc:contributor/>
+    <dc:creator/>
+    <dc:rights/>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2018-07-06</dc:modified>
+    <dct:valid>1949-04-26</dct:valid>
+    <ukm:PrimaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="primary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+        <ukm:DocumentStatus Value="final"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="1949"/>
+      <ukm:Number Value="30"/>
+      <ukm:EnactmentDate Date="1949-04-26"/>
+    </ukm:PrimaryMetadata>
+  </ukm:Metadata>
+  <Contents xmlns:local="#local">
+    <ContentsTitle>Agricultural Wages (Scotland) Act 1949</ContentsTitle>
+    <ContentsPblock ContentRef="crossheading-the-scottish-agricultural-wages-board-and-agricultural-wages-committee" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/the-scottish-agricultural-wages-board-and-agricultural-wages-committee">
+      <ContentsTitle>The Scottish Agricultural Wages Board and Agricultural Wages Committee</ContentsTitle>
+      <ContentsItem ContentRef="section-1" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/1">
+        <ContentsNumber>1</ContentsNumber>
+        <ContentsTitle>The Scottish Agricultural Wages Board.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-2" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/2">
+        <ContentsNumber>2</ContentsNumber>
+        <ContentsTitle>Agricultural wages committees for districts.</ContentsTitle>
+      </ContentsItem>
+    </ContentsPblock>
+    <ContentsPblock ContentRef="crossheading-wages-and-holidays" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/wages-and-holidays">
+      <ContentsTitle>Wages and Holidays</ContentsTitle>
+      <ContentsItem ContentRef="section-3" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/3">
+        <ContentsNumber>3</ContentsNumber>
+        <ContentsTitle>Power of Scottish Agricultural Wages Board to fix rates of wages, and holidays.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-4" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/4">
+        <ContentsNumber>4</ContentsNumber>
+        <ContentsTitle>Enforcement of wages and holidays orders.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-5" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/5">
+        <ContentsNumber>5</ContentsNumber>
+        <ContentsTitle>Permits to infirm and incapacitated persons.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-6" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/6">
+        <ContentsNumber>6</ContentsNumber>
+        <ContentsTitle>Provisions as to learners.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-7" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/7">
+        <ContentsNumber>7</ContentsNumber>
+        <ContentsTitle>Reckoning of benefits and advantages as payment of wages.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-8" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/8">
+        <ContentsNumber>8</ContentsNumber>
+        <ContentsTitle>Power of agricultural wages committee to award additional wages for piece work in certain cases.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-9" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/9">
+        <ContentsNumber>9</ContentsNumber>
+        <ContentsTitle>Provisions as to applications, &amp;c., to agricultural wages committees.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-10" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/10">
+        <ContentsNumber>10</ContentsNumber>
+        <ContentsTitle>Criminal liability of agents and special defence open to employer.</ContentsTitle>
+      </ContentsItem>
+      <ContentsItem ContentRef="section-11" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/11">
+        <ContentsNumber>11</ContentsNumber>
+        <ContentsTitle>Avoidance of agreements in contravention of this Act and saving for other agreements, &amp;c.</ContentsTitle>
+      </ContentsItem>
+    </ContentsPblock>
+    <ContentsPblock ContentRef="crossheading-supplementary" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary">
+      <ContentsTitle>Supplementary</ContentsTitle>
+      <ContentsItem ContentRef="section-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/12">
+        <ContentsNumber>12</ContentsNumber>
+        <ContentsTitle>Officers.</ContentsTitle>
+      </ContentsItem>
+      <ContentsPsubBlock ContentRef="crossheading-supplementary-annual-reports" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary-annual-reports">
+        <ContentsTitle>Annual reports.</ContentsTitle>
+        <ContentsItem ContentRef="section-13" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/13">
+          <ContentsNumber>13</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State shall include in the annual report...</ContentsTitle>
+        </ContentsItem>
+      </ContentsPsubBlock>
+      <ContentsPsubBlock ContentRef="crossheading-supplementary-expenses" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary-expenses">
+        <ContentsTitle>Expenses.</ContentsTitle>
+        <ContentsItem ContentRef="section-14" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/14">
+          <ContentsNumber>14</ContentsNumber>
+          <ContentsTitle Generated="true">Such expenses of the Secretary of State in carrying this...</ContentsTitle>
+        </ContentsItem>
+      </ContentsPsubBlock>
+      <ContentsPsubBlock ContentRef="crossheading-supplementary-evidence-of-resolutions-and-orders-of-the-board-and-agricultural-wages-committees" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary-evidence-of-resolutions-and-orders-of-the-board-and-agricultural-wages-committees">
+        <ContentsTitle>Evidence of resolutions and orders of the Board and agricultural wages committees.</ContentsTitle>
+        <ContentsItem ContentRef="section-15" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/15">
+          <ContentsNumber>15</ContentsNumber>
+          <ContentsTitle Generated="true">In any legal proceedings the production of a document purporting...</ContentsTitle>
+        </ContentsItem>
+      </ContentsPsubBlock>
+      <ContentsItem ContentRef="section-16" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/16">
+        <ContentsNumber>16</ContentsNumber>
+        <ContentsTitle>Power to give effect to, and modify, Act as respects holidays and holiday remuneration.</ContentsTitle>
+      </ContentsItem>
+      <ContentsPsubBlock ContentRef="crossheading-supplementary-interpretation" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary-interpretation">
+        <ContentsTitle>Interpretation.</ContentsTitle>
+        <ContentsItem ContentRef="section-17" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/17">
+          <ContentsNumber>17</ContentsNumber>
+          <ContentsTitle Generated="true">In this Act, unless the context otherwise requires, the following...</ContentsTitle>
+        </ContentsItem>
+      </ContentsPsubBlock>
+      <ContentsItem ContentRef="section-18" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/18">
+        <ContentsNumber>18</ContentsNumber>
+        <ContentsTitle>Repeal and savings.</ContentsTitle>
+      </ContentsItem>
+      <ContentsPsubBlock ContentRef="crossheading-supplementary-short-title-and-extent" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/crossheading/supplementary-short-title-and-extent">
+        <ContentsTitle>Short title and extent.</ContentsTitle>
+        <ContentsItem ContentRef="section-19" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/section/19">
+          <ContentsNumber>19</ContentsNumber>
+          <ContentsTitle Generated="true">This Act may be cited as the Agricultural Wages (Scotland)...</ContentsTitle>
+        </ContentsItem>
+      </ContentsPsubBlock>
+    </ContentsPblock>
+    <ContentsSchedules>
+      <ContentsSchedule ContentRef="schedule-FIRST" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST">
+        <ContentsNumber>FIRST SCHEDULE</ContentsNumber>
+        <ContentsTitle>Constitution and Proceedings of the Scottish Agricultural Wages Board</ContentsTitle>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-1" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/1">
+          <ContentsNumber>1</ContentsNumber>
+          <ContentsTitle Generated="true">The Board shall consist of— (a) six persons representing employers...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-2" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/2">
+          <ContentsNumber>2</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State shall designate as chairman of the...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-3" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/3">
+          <ContentsNumber>3</ContentsNumber>
+          <ContentsTitle Generated="true">At every meeting of the Board the chairman, if present,...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-4" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/4">
+          <ContentsNumber>4</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may appoint a secretary for the...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-5" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/5">
+          <ContentsNumber>5</ContentsNumber>
+          <ContentsTitle Generated="true">The Board may, in accordance with regulations made by the...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-6" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/6">
+          <ContentsNumber>6</ContentsNumber>
+          <ContentsTitle Generated="true">The proceedings of the Board or of a committee thereof...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-7" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/7">
+          <ContentsNumber>7</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may, by statutory instrument which shall...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-FIRST-paragraph-8" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FIRST/paragraph/8">
+          <ContentsNumber>8</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may, out of moneys provided by...</ContentsTitle>
+        </ContentsItem>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-SECOND" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND">
+        <ContentsNumber>SECOND SCHEDULE</ContentsNumber>
+        <ContentsTitle>Constitution and Proceedings of Scottish Agricultural Wages Committees</ContentsTitle>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-1" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/1">
+          <ContentsNumber>1</ContentsNumber>
+          <ContentsTitle Generated="true">An agricultural wages committee shall consist of not more than...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-2" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/2">
+          <ContentsNumber>2</ContentsNumber>
+          <ContentsTitle Generated="true">The representative members of the committee shall be nominated in...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-3" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/3">
+          <ContentsNumber>3</ContentsNumber>
+          <ContentsTitle Generated="true">(1) The chairman of an agricultural wages 'committee shall be...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-4" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/4">
+          <ContentsNumber>4</ContentsNumber>
+          <ContentsTitle Generated="true">At every meeting of an agricultural wages committee the chairman,...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-5" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/5">
+          <ContentsNumber>5</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may appoint a secretary for an...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-6" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/6">
+          <ContentsNumber>6</ContentsNumber>
+          <ContentsTitle Generated="true">(1) At a meeting of an agricultural wages committee the...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-7" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/7">
+          <ContentsNumber>7</ContentsNumber>
+          <ContentsTitle Generated="true">(1) An agricultural wages committee may, in accordance with regulations...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-8" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/8">
+          <ContentsNumber>8</ContentsNumber>
+          <ContentsTitle Generated="true">The proceedings of an agricultural wages committee or of a...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-9" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/9">
+          <ContentsNumber>9</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may make regulations with respect to...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-SECOND-paragraph-10" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/SECOND/paragraph/10">
+          <ContentsNumber>10</ContentsNumber>
+          <ContentsTitle Generated="true">The Secretary of State may, out of moneys provided by...</ContentsTitle>
+        </ContentsItem>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-THIRD" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD">
+        <ContentsNumber>THIRD SCHEDULE</ContentsNumber>
+        <ContentsTitle>Orders of the Scottish Agricultural Wages Board</ContentsTitle>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-1" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/1">
+          <ContentsNumber>1</ContentsNumber>
+          <ContentsTitle Generated="true">Where the Board propose to make an order under any...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-2" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/2">
+          <ContentsNumber>2</ContentsNumber>
+          <ContentsTitle Generated="true">After considering any such objections the Board may make an...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-3" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/3">
+          <ContentsNumber>3</ContentsNumber>
+          <ContentsTitle Generated="true">Notwithstanding anything in the foregoing paragraphs of this Schedule, where...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-4" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/4">
+          <ContentsNumber>4</ContentsNumber>
+          <ContentsTitle Generated="true">As soon as may be after the Board have made...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-5" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/5">
+          <ContentsNumber>5</ContentsNumber>
+          <ContentsTitle Generated="true">An order of the Board under any provision of this...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="schedule-THIRD-paragraph-6" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/THIRD/paragraph/6">
+          <ContentsNumber>6</ContentsNumber>
+          <ContentsTitle Generated="true">Without prejudice to the provisions of this Act as to...</ContentsTitle>
+        </ContentsItem>
+      </ContentsSchedule>
+      <ContentsSchedule ContentRef="schedule-FOURTH" IdURI="http://www.legislation.gov.uk/id/ukpga/1949/30/schedule/FOURTH">
+        <ContentsNumber>FOURTH SCHEDULE</ContentsNumber>
+        <ContentsTitle>Enactments Repealed</ContentsTitle>
+      </ContentsSchedule>
+    </ContentsSchedules>
+  </Contents>
+  <Primary>
+    <PrimaryPrelims>
+      <Title>Agricultural Wages (Scotland) Act 1949</Title>
+      <Number>1949 c. 30</Number>
+      <LongTitle>An Act to consolidate the Agricultural Wages (Regulation) (Scotland) Acts, 1937 to 1947, and so much of the Holidays with Pay Act, 1938, as enables a wage regulating authority to make provision for holidays and holiday remuneration for workers in Agriculture in Scotland.</LongTitle>
+      <DateOfEnactment>
+        <DateText>[26th April 1949]</DateText>
+      </DateOfEnactment>
+      <PrimaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>
+              <SmallCaps>Be it enacted</SmallCaps>by the King's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in the present Parliament assembled, and by the authority of the same, as follows :—</Text>
+          </Para>
+        </EnactingText>
+      </PrimaryPreamble>
+    </PrimaryPrelims>
+    <Body>
+      <Pblock id="crossheading-the-scottish-agricultural-wages-board-and-agricultural-wages-committee">
+        <Title>The Scottish Agricultural Wages Board and Agricultural Wages Committee</Title>
+        <P1group>
+          <Title>The Scottish Agricultural Wages Board.</Title>
+          <P1 id="section-1">
+            <Pnumber>1</Pnumber>
+            <P1para>
+              <P2 id="section-1-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>There shall be a Board, to be called the Scottish Agricultural Wages Board (in this Act referred to as " the Board ") which shall have, in relation to each of the districts for which agricultural wages committees are established under the next following section, such functions with respect to the fixing of minimum rates of wages for workers employed in agriculture and of directing that such workers shall be entitled to be allowed holidays, and such other functions, as are conferred on the Board by the subsequent provisions of this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-1-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>In the exercise, in relation to a district, of their functions under this Act with respect to fixing, cancelling and varying rates of wages, reckoning benefits and advantages as payment of wages and the payment of premiums in respect of apprentices or learners, the Board shall, without prejudice to any other provision of this Act, have regard to representations made to them by the agricultural wages committee established under the next following section for the district.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-1-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>The provisions of the First Schedule to this Act shall have effect with respect to the constitution and proceedings of the Board.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Agricultural wages committees for districts.</Title>
+          <P1 id="section-2">
+            <Pnumber>2</Pnumber>
+            <P1para>
+              <P2 id="section-2-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Subject to the provisions of this Act, the Secretary of State shall, as soon as may be by order made by statutory instrument, divide Scotland into districts and shall establish an agricultural wages committee for each district:</Text>
+                </P2para>
+              </P2>
+              <Text>Provided that, if in the case of each of the committees for two or more districts, there are passed resolutions in favour of varying the boundaries and numbers of these districts, the Secretary of State may, if he thinks it expedient, by order made by statutory instrument vary the boundaries and number of the districts into which Scotland is divided by this subsection and may make such provision as is necessary in consequence of any such variation, with regard to the establishment of committees for the districts affected by the variation.</Text>
+              <P2 id="section-2-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The functions of agricultural wages committees under this Act shall, subject to the provisions of this and any order made thereunder, be exercised in accordance with any direction in that behalf given by the Board.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-2-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>A resolution for the purposes of the proviso to subsection (1) of this section that is passed at a meeting of an agricultural wages committee unanimously by such of the members thereof representing employers and such of the members thereof representing workers in agriculture as are present and voting shall be deemed, for the purposes of the said proviso, to be a resolution of those members.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-2-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>The provisions of the Second Schedule to this Act shall have effect with respect to the constitution and proceedings of agricultural wages committees.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+      </Pblock>
+      <Pblock id="crossheading-wages-and-holidays">
+        <Title>Wages and Holidays</Title>
+        <P1group>
+          <Title>Power of Scottish Agricultural Wages Board to fix rates of wages, and holidays.</Title>
+          <P1 id="section-3">
+            <Pnumber>3</Pnumber>
+            <P1para>
+              <P2 id="section-3-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Subject to and in accordance with the provisions of this section, the Board shall have power, for each district for which an agricultural wages committee is established under this Act,—</Text>
+                  <P3 id="section-3-1-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>to fix minimum rates of wages for workers employed in agriculture ; and</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-3-1-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>to direct that any such workers shall be entitled to be allowed by their employers holidays of such duration as may be specified in the direction.</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2 id="section-3-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The powers of the Board with respect to the fixing of minimum rates of wages as aforesaid shall be powers—</Text>
+                  <P3 id="section-3-2-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>to fix minimum rates for time work ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-3-2-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>to fix minimum rates for piece work ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-3-2-c">
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>to fix minimum rates for time work, to apply in the case of workers employed in piece work, for the purpose of securing to such workers a minimum rate of remuneration on a time work basis ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-3-2-d">
+                    <Pnumber>d</Pnumber>
+                    <P3para>
+                      <Text>to fix separate minimum rates by way of pay in respect of holidays ;</Text>
+                    </P3para>
+                  </P3>
+                  <Text>and the exercise by the Board of their powers under paragraph (a) of this subsection shall be obligatory :</Text>
+                </P2para>
+              </P2>
+              <Text>Provided that the minimum time rate for piece work shall not in any case be higher than the minimum fate which, if the work were time work, would be applicable thereto by virtue of paragraph (a) of this subsection.</Text>
+              <P2 id="section-3-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>A direction under paragraph (b) of subsection (1) of this section that a worker shall be entitled to be allowed a holiday shall not be given unless both minimum rates of wages in respect of the period of the holiday and minimum rates of wages otherwise than in respect of the holiday have been or are being fixed under this section for that worker, shall provide for the duration of the holidays being related to the duration of the period for which the worker has been employed or engaged to be employed by the employer who is to allow the holiday and, subject as aforesaid, may make provision as to the times at which or the periods within which, and the circumstances in which, the holiday shall be allowed ; and the power to fix separate minimum rates of wages by way of pay in respect of holidays shall include power to make provision with respect to the times at which, and the conditions subject to which, those wages shall accrue and shall become payable, and for securing that any such wages which have accrued to a worker during his employment by any employer shall, in the event of his ceasing to be employed by that employer before he becomes entitled to be allowed a holiday by him, nevertheless become payable by the employer to the worker.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-3-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>Any such minimum rates may be fixed so as to vary according as the employment is for a day, week, month or other period, or according to the number of working hours, or the conditions of the employment, or so as to provide for a differential rate in the case of employment defined by the Board as being overtime employment, and, without prejudice to the generality of the preceding words, a minimum time rate for piece work may be fixed so as to provide for a differential rate for work done in such circumstances that, if it were time work, it would be treated as overtime for the purposes of the minimum rate applicable thereto by virtue of paragraph (a) of subsection (1) of this section. In the exercise of their powers under this subsection, the Board shall, so far as is reasonably practicable, secure a weekly half-holiday for workers.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-3-5">
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>The Board may, if they think it expedient, cancel or vary a minimum rate fixed or a direction as to holidays given under this section.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-3-6">
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>The powers conferred on the Board by this section shall be exercised by order made in accordance with the provisions of the Third Schedule to this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-3-7">
+                <Pnumber>7</Pnumber>
+                <P2para>
+                  <Text>Nothing in this section shall be construed as preventing the Board fixing or varying a minimum rate of wages so as to secure that workers receive remuneration calculated by reference to periods during the currency of their employment.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Enforcement of wages and holidays orders.</Title>
+          <P1 id="section-4">
+            <Pnumber>4</Pnumber>
+            <P1para>
+              <P2 id="section-4-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Subject to the provisions of this Act, if an employer fails—</Text>
+                  <P3 id="section-4-1-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>to pay to a worker to whom an order under the last preceding section applies wages at a rate not less than the minimum rate fixed by the order, or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-4-1-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>to pay to any such worker, in respect of a holiday, wages at the times and subject to the conditions specified in the order, or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-4-1-c">
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>to allow to any such worker the holidays fixed by the order;</Text>
+                    </P3para>
+                  </P3>
+                  <Text>he shall be liable on summary conviction in respect of each offence to a fine not exceeding twenty pounds and, in the case of an offence consisting of a failure to pay wages in accordance with the order, to a fine not exceeding one pound for each day on which the offence is continued after conviction ; and in any proceedings against an employer under this subsection in respect of a failure to pay wages at a rate not less than the minimum rate, the court shall, whether there is a conviction or not, order the employer to pay in addition to the fine, if any, such sum to the worker as may be found by the court to represent the difference between the amount which ought, at the minimum rate applicable, to have been paid to the worker by way of wages during the period of six months immediately preceding the date on which the complaint was served, and the amount actually so paid to him.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-4-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Where proceedings are brought under the preceding subsection in respect of an offence consisting of a failure to pay wages to a worker at a rate not less than the minimum rate applicable, then, if notice of intention so to do has been served with the complaint—</Text>
+                  <P3 id="section-4-2-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>evidence may, on the employer's having been convicted of the offence, be given of any failure on the part of the employer to pay wages to that worker at not less than the minimum rate applicable to him at any time during the eighteen months immediately preceding the period of six months mentioned in the preceding subsection ; and</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-4-2-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>on proof of the failure, the court may order the employer to pay to the worker such sum as is found by the court to represent the difference between the amount which ought, at the minimum rate applicable, to have been paid to the worker by way of wages during the said eighteen months and the amount actually so paid to him.</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2 id="section-4-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>In any proceedings against a person under this section it shall lie with him to prove that he has paid wages at not less than the minimum rate or has allowed the holidays fixed by the order, as the case may be.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-4-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>The powers given by this section for the recovery of sums due from an employer to a worker shall not be in derogation of any right of the worker to recover such sums by any other proceedings.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Permits to infirm and incapacitated persons.</Title>
+          <P1 id="section-5">
+            <Pnumber>5</Pnumber>
+            <P1para>
+              <P2 id="section-5-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>If, on an application in that behalf, an agricultural wages committee are satisfied that a worker employed or desiring to be employed in their district on time work to which a minimum rate fixed under this Act is applicable, or on piece work to which a minimum time rate so fixed is applicable, is so affected by any physical injury or mental deficiency, or any infirmity due to age or to any other cause, that he is incapable of earning that minimum rate, the committee shall grant to him a permit exempting, as from the date of the application or from a later date specified in the permit, his employment from the provisions of the last preceding section relating to payment of wages at not less than the minimum rate, subject to such conditions as may be specified in the permit, including, if the committee think fit, a condition as to the wages to be paid to the worker, and, while the permit has effect, an employer shall not be liable to any legal proceedings under the last preceding section for failing to pay to the worker wages at a rate less than the minimum rate if those conditions are complied with.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-5-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>If an application for a permit under the preceding subsection is not disposed of within twenty-one days after the day on which it is received, then the employer of the worker to whom the application relates shall not be liable to any legal proceedings under the last preceding section for failing to pay to the worker wages at a rate not less than the minimum rate during the interval between the expiration of the said period and the date on which the application is ultimately disposed of.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-5-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>Where an agricultural wages committee have granted a permit under subsection (1) of this section and at any time thereafter it appears to the committee, whether on an application under this subsection or otherwise, that the worker to whom the permit relates is no longer so affected by any such incapacity as is mentioned in the said subsection (1) as to be incapable of earning the minimum rate in question, the committee shall revoke the permit.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-5-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>Where an agricultural wages committee have granted such a permit as aforesaid and it appears to the committee, whether on an application under this subsection or otherwise, that by reason of any change in minimum rates of wages or in the circumstances of the worker to whom the permit relates it is expedient to vary any condition specified in the permit, the committee may direct that the condition shall be varied in such manner as may be specified in the direction.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-5-5">
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>Before revoking any permit or varying any condition under the preceding provisions of this section an agricultural wages committee shall serve on the worker to whom the permit relates, and, in a case where the identity of his employer is known to the committee, on his employer, notice of their proposal so to do, and afford to the worker and the employer (where such a notice as aforesaid is required to be served on him) an opportunity of making representations to the committee, and no such revocation or variation as aforesaid shall take effect until notice of the revocation or variation has been served by the agricultural wages committee on the worker to whom the permit relates and, in any case where the identity of his employer is known to the committee, on his employer. A notice under this subsection shall be duly served on a person if sent to him by post in a registered letter.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-5-6">
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>Where a permit granted to a worker under subsection (r) of this section contains a condition for the payment of wages to the worker at a rate not less than the rate therein specified, the amount of wages that may be recovered from an employer of the worker in pursuance of this Act shall, as respects any period, during which the permit had effect, be calculated on the basis of the rate so specified instead of on the basis of the minimum rate.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Provisions as to learners.</Title>
+          <P1 id="section-6">
+            <Pnumber>6</Pnumber>
+            <P1para>
+              <P2 id="section-6-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Where a minimum rate of wages has been fixed under this Act for a special class of workers defined by reference to the fact that they are in receipt of instruction in agriculture, and the order fixing the rate provides that this section shall have effect in relation thereto, the rate shall not apply in relation to a worker unless there is in force a certificate given by the agricultural wages committee for the district in which the worker is employed that they approve the terms of his employment. A certificate under this subsection may provide that it shall be deemed to have been in force from such date not earlier than the making to the agricultural wages committee of the application for the certificate as may be specified in the certificate.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>An agricultural wages committee in granting an application for a certificate under the last foregoing subsection may impose such conditions as appear to them requisite for securing that the worker to whom the application relates shall receive adequate instruction, and that the terms of his employment shall be in other respects satisfactory, and if (whether on an application under this subsection or otherwise) it appears to the committee that a condition imposed under this subsection is not being complied with, or that the terms of the worker's employment are no longer satisfactory, they may revoke the certificate.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>An agricultural wages committee may (whether on an application under this subsection or otherwise) vary a condition imposed under the last preceding subsection.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>Before revoking a certificate or varying a condition under the foregoing provisions of this section an agricultural wages committee shall serve on the. worker to whom the certificate relates and on his employer notice of their proposal so to do, and afford to the worker and employer an opportunity of making representations to the committee, and no such revocation or variation as aforesaid shall take effect until notice of the revocation or variation has been served by the agricultural wages committee on the worker to whom the certificate relates and on his employer. A notice under this subsection shall be duly served on a person if sent to him by post in a registered letter.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-5">
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>It shall not be lawful for the employer of a worker, being an apprentice or learner, who is employed in agriculture in a district for which an agricultural wages committee is established under this Act to receive directly or indirectly from the worker, or on his behalf or on his account, a payment by way of premium unless the payment is duly made in pursuance of an agreement approved for the purposes of this subsection by the agricultural wages committee, and the amount of a payment received in contravention of this subsection shall be recoverable by the person by whom the payment was made.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-6">
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>If an employer acts in contravention of the last preceding subsection, he shall be liable on summary conviction in respect of each offence to a fine not exceeding twenty pounds, and in any proceedings against an employer under this subsection the court shall, whether there is a conviction or not, order the employer to repay any sum which the court finds to have been received by way of premium in contravention of the last preceding subsection.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-7">
+                <Pnumber>7</Pnumber>
+                <P2para>
+                  <Text>Nothing in the last preceding subsection shall be taken to exclude the bringing otherwise than in accordance with that subsection of proceedings for the recovery of an amount due under subsection (5) of this section.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-6-8">
+                <Pnumber>8</Pnumber>
+                <P2para>
+                  <Text>The Board may by order made in accordance with the provisions of the Third Schedule to this Act specify matters with respect to which an agricultural wages committee must be satisfied before granting a certificate under subsection (1) of this section or approving an agreement for the purposes of subsection (5) thereof.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Reckoning of benefits and advantages as payment of wages.</Title>
+          <P1 id="section-7">
+            <Pnumber>7</Pnumber>
+            <P1para>
+              <P2 id="section-7-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The Board shall have power, for each district for which an agricultural wages committee is established under this Act, by order made in accordance with the provisions of the Third Schedule to this Act—</Text>
+                  <P3 id="section-7-1-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>to define the benefits or advantages (not being benefits or advantages prohibited by law) which for the purposes of a minimum rate of wages fixed under this Act may be reckoned as payment of wages in lieu of payment in cash ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-7-1-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>to determine the value at which, for the purposes aforesaid, such benefits or advantages may be so reckoned ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-7-1-c">
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>to limit or prohibit the reckoning for the purposes aforesaid of benefits or advantages as payment of wages in lieu of payment in cash.</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2 id="section-7-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Subject to the provisions of any order under the preceding subsection, the court shall, in any proceedings under this Act, reckon as a payment of wages such amount as in the opinion of the court represents the value of any benefits or advantages (not being benefits or advantages prohibited by law) received by a worker under the terms of his employment.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-7-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>If an agricultural wages committee are satisfied, on an application in that behalf made by a worker employed in agriculture in their district or by his employer, that the value determined by an order or direction under this section for a house or part of a house occupied as a separate dwelling by the worker does not correspond with the true value thereof, the committee may, subject to any limits imposed by the Board by order made in accordance with the provisions of the Third Schedule to this Act, direct that the value of the house or part of a house is to be reckoned for the purposes of a minimum rate of wages fixed under this Act at such different amount as may be specified in the direction.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Power of agricultural wages committee to award additional wages for piece work in certain cases.</Title>
+          <P1 id="section-8">
+            <Pnumber>8</Pnumber>
+            <P1para>
+              <P2 id="section-8-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>A worker employed in agriculture in a district on piece work for which neither a minimum piece rate nor a minimum time rate applicable in the case of workers employed on piece work has been fixed, or any person authorised by such a worker, may complain to the agricultural wages committee for that district that the piece rate of wages paid to the worker for that work is such a rate as would yield in the circumstances of the case to an ordinary worker a less amount of wages than the minimum rate for time work applicable in the case of that worker, and the committee may, on any such complaint, after giving the employer an opportunity of making such representations as he thinks desirable direct that the employer shall pay to the worker such additional sum by way of wages for any piece work done by him at that piece rate at any time within fourteen days before the date of the complaint, or at any time after the date of the complaint and before the decision of the committee thereon, as in their opinion represents the difference between the amount which would have been paid if the work had been done by an ordinary worker at the minimum rate for time work and the amount actually received by the worker by whom or on whose behalf the complaint is made.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-8-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>A sum directed to be paid under the preceding subsection may be recovered by or on behalf of the worker from the employer as a civil debt.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Provisions as to applications, &amp;c., to agricultural wages committees.</Title>
+          <P1 id="section-9">
+            <Pnumber>9</Pnumber>
+            <P1para>
+              <P2 id="section-9-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The procedure to be followed on or in connection with applications and complaints under any of the four last preceding sections to agricultural wages committees and sub-committees thereof shall be such (if any) as may be prescribed.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-9-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The Secretary of State may, out of moneys provided by Parliament, pay to persons attending as parties or witnesses before agricultural wages committees and sub-committees thereof allowances by way of compensation for expenses incurred and time lost by such persons in so attending, at such rates, as he may with the approval of the Treasury, determine, and all such payments made under this subsection shall be defrayed as part of the expenses of the Secretary of State in carrying this Act into effect.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Criminal liability of agents and special defence open to employer.</Title>
+          <P1 id="section-10">
+            <Pnumber>10</Pnumber>
+            <P1para>
+              <P2 id="section-10-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Where an offence for which an employer is under section four or subsection (6) of section six of this Act liable to a fine has in fact been committed by some agent of the employer or other person, that agent or other person shall be liable to be proceeded against for the offence in the same manner as if he were the employer and either together with, or before or after the conviction of, the employer, and shall be liable oh conviction to the same punishment as that to which the employer is liable.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-10-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Where an employer who is charged with an- offence under section four or subsection (6) of section six of this Act proves to the satisfaction of the court that he has used due diligence to secure compliance with the relevant provisions of this Act, and that the offence was in fact committed by his agent or some other person, without his knowledge, consent or connivance, he shall, in the event of the conviction of that agent or other person for the offence, be exempt from any conviction in respect of the offence.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <P1group>
+          <Title>Avoidance of agreements in contravention of this Act and saving for other agreements, &amp;c.</Title>
+          <P1 id="section-11">
+            <Pnumber>11</Pnumber>
+            <P1para>
+              <P2 id="section-11-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>Any such agreement as the following shall be void, that is to say—</Text>
+                  <P3 id="section-11-1-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>an agreement for the payment of wages in contravention of this Act, or for abstaining from exercising a right of enforcing the payment of wages in accordance with this Act;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-11-1-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>an agreement as to holidays that is inconsistent with a direction of the Board in that behalf, or for abstaining from exercising the right to holidays conferred by any such direction.</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2 id="section-11-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Nothing in this Act shall prejudice the operation of an agreement or custom for the payment of wages at a rate higher than the minimum rate fixed under this Act or an agreement or custom as to holidays that is not inconsistent with a direction of the Board in that behalf.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+      </Pblock>
+      <Pblock id="crossheading-supplementary">
+        <Title>Supplementary</Title>
+        <P1group>
+          <Title>Officers.</Title>
+          <P1 id="section-12">
+            <Pnumber>12</Pnumber>
+            <P1para>
+              <P2 id="section-12-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The Secretary of State may, subject to the consent of the Treasury as to number, appoint such officers as he thinks necessary for the purpose of investigating complaints and otherwise securing the proper observance of this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-12-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Every officer appointed under this section shall be furnished by the Secretary of State with a certificate of his employment, and when acting under or exercising any power conferred upon him by this Act shall, if so required, produce the certificate to any person or persons affected.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-12-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>An officer so appointed shall have power—</Text>
+                  <P3 id="section-12-3-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>after giving reasonable notice, to require the production of and to inspect and take copies of wages sheets or other records of wages paid to workers employed in agriculture ;</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-3-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>to enter at all reasonable times any premises or place for the purpose of such inspection or for the enforcement of this Act, but in the case of a dwelling-house not without giving reasonable notice ; and</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-3-c">
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>to require any such worker, or the employer of any such worker, or any agent of the employer, to give any information which it is in his power to give with respect to the employment of the worker or the wages paid to him.</Text>
+                    </P3para>
+                  </P3>
+                </P2para>
+              </P2>
+              <P2 id="section-12-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>Where it appears to the Secretary of State—</Text>
+                  <P3 id="section-12-4-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>that a sum is due from an employer to a worker on account of the payment of wages to him at less than the minimum rate applicable or by reason of a direction given under subsection (1) of section eight of this Act by an agricultural wages committee for the payment of an additional sum by way of wages for piece work ; or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-4-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>that a sum is due from an employer on account of the receipt of a premium in contravention of subsection (5) of section six of this Act ;</Text>
+                    </P3para>
+                  </P3>
+                  <Text>the Secretary of State may institute, on behalf of or in the name of the worker, civil proceedings before any competent court of jurisdiction for the recovery of the sum in question, and in any such civil proceedings instituted by the Secretary of State the court shall, if the Secretary of State is not a party to the proceedings, have the same power to make an order for the payment of expenses by the Secretary of State as if he were a party to the proceedings.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-12-5">
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>Nothing in the last preceding subsection shall be taken to exclude the bringing otherwise than in accordance with that subsection proceedings for the recovery of any such sum as is therein mentioned.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-12-6">
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>If any person—</Text>
+                  <P3 id="section-12-6-a">
+                    <Pnumber>a</Pnumber>
+                    <P3para>
+                      <Text>hinders or molests an officer acting in the exercise of his powers under subsection (3) of this section ; or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-6-b">
+                    <Pnumber>b</Pnumber>
+                    <P3para>
+                      <Text>refuses to produce any document or give any information which an officer so acting lawfully requires him to produce or give ; or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-6-c">
+                    <Pnumber>c</Pnumber>
+                    <P3para>
+                      <Text>produces or causes to be produced or knowingly allows to be produced to an officer so acting any wages sheet, record or other document which is false in a material particular, knowing the document to be false ; or</Text>
+                    </P3para>
+                  </P3>
+                  <P3 id="section-12-6-d">
+                    <Pnumber>d</Pnumber>
+                    <P3para>
+                      <Text>furnishes to an officer so acting any information knowing it to be false,</Text>
+                    </P3para>
+                  </P3>
+                  <Text>he shall be liable on summary conviction to a fine not exceeding twenty pounds or to imprisonment for a term not exceeding three months, or to both such fine and such imprisonment.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <PsubBlock id="crossheading-supplementary-annual-reports">
+          <Title>Annual reports.</Title>
+          <P1 id="section-13">
+            <Pnumber>13</Pnumber>
+            <P1para>
+              <Text>The Secretary of State shall include in the annual report made in pursuance of subsection (2) of section four of the Small Landholders (Scotland) Act, 1911, a report of his proceedings under this Act and of the proceedings of the Board and of agricultural wages committees, and for that purpose the Board and each committee shall, before such date in every year as the Secretary of State may fix, send to the Secretary of State a report of their proceedings under this Act during the preceding year.</Text>
+            </P1para>
+          </P1>
+        </PsubBlock>
+        <PsubBlock id="crossheading-supplementary-expenses">
+          <Title>Expenses.</Title>
+          <P1 id="section-14">
+            <Pnumber>14</Pnumber>
+            <P1para>
+              <Text>Such expenses of the Secretary of State in carrying this Act into effect as the Treasury may determine, and any expenses authorised by the Secretary of State, with the consent of the Treasury, to be incurred by the Board or an agricultural wages committee or sub-committee thereof shall be defrayed out of moneys provided by Parliament.</Text>
+            </P1para>
+          </P1>
+        </PsubBlock>
+        <PsubBlock id="crossheading-supplementary-evidence-of-resolutions-and-orders-of-the-board-and-agricultural-wages-committees">
+          <Title>Evidence of resolutions and orders of the Board and agricultural wages committees.</Title>
+          <P1 id="section-15">
+            <Pnumber>15</Pnumber>
+            <P1para>
+              <Text>In any legal proceedings the production of a document purporting to be a copy of a resolution or order passed or made by the Board or an agricultural wages committee and to be certified by the chairman or secretary of the Board or committee, as the case may be, to be a true copy shall be sufficient evidence of the order or resolution and, in the case of an order, that any notices required to be given by this Act in relation thereto have been duly given, and no proof shall be required of the handwriting or official position of the person certifying the truth of the copy.</Text>
+            </P1para>
+          </P1>
+        </PsubBlock>
+        <P1group>
+          <Title>Power to give effect to, and modify, Act as respects holidays and holiday remuneration.</Title>
+          <P1 id="section-16">
+            <Pnumber>16</Pnumber>
+            <P1para>
+              <P2 id="section-16-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The Secretary of State may make regulations for giving effect to the purposes of, and modifying, this Act so far as it relates to holidays and minimum rates of wages by way of pay in respect of holidays, and for excluding, in relation to those matters or either of them, the operation of all or any of the provisions of sections four and ten to thirteen of this Act and paragraph (5) of the Third Schedule thereto.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-16-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The power conferred by this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <PsubBlock id="crossheading-supplementary-interpretation">
+          <Title>Interpretation.</Title>
+          <P1 id="section-17">
+            <Pnumber>17</Pnumber>
+            <P1para>
+              <Text>In this Act, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say,—</Text>
+              <UnorderedList Decoration="none" Class="Definition">
+                <ListItem>
+                  <Para>
+                    <Text>" agriculture" includes dairy-farming, the production of any consumable produce which is grown for sale or for consumption or other use for the purposes of a trade or business or of any other undertaking (whether carried on for profit or not), and the use of land as grazing, meadow or pasture land or orchard or woodland or for market gardens or nursery grounds ;</Text>
+                  </Para>
+                </ListItem>
+                <ListItem>
+                  <Para>
+                    <Text>" consumable produce" means produce grown for consumption or for other use after severance from the land on which it is grown ;</Text>
+                  </Para>
+                </ListItem>
+                <ListItem>
+                  <Para>
+                    <Text>" employment " means employment under a contract of service or apprenticeship, and the expressions " employed " and " employer " shall be construed accordingly;</Text>
+                  </Para>
+                </ListItem>
+                <ListItem>
+                  <Para>
+                    <Text>" prescribed " means prescribed by regulations made by the Secretary of State by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament;</Text>
+                  </Para>
+                </ListItem>
+                <ListItem>
+                  <Para>
+                    <Text>" worker " includes a boy, woman and girl.</Text>
+                  </Para>
+                </ListItem>
+              </UnorderedList>
+            </P1para>
+          </P1>
+        </PsubBlock>
+        <P1group>
+          <Title>Repeal and savings.</Title>
+          <P1 id="section-18">
+            <Pnumber>18</Pnumber>
+            <P1para>
+              <P2 id="section-18-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The enactments mentioned in the first and second columns of the Fourth Schedule to this Act are hereby repealed to the extent specified in the third column of that Schedule.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>Nothing in this Act shall affect any order, regulation or complaint made, permit granted, resolution passed, direction, certificate or approval given, application made or granted, notice served or given, date fixed or any other thing done, under an enactment repealed by this Act, but any such order, regulation, complaint, permit, resolution, direction, certificate, approval, application, notice, date or thing shall, if in force at the passing of this Act, continue in force, and so far as it could have been made, granted, passed, given, served, fixed or done under the corresponding provisions of this Act, it shall have effect as if it had been made, granted, passed, given, served, fixed or done under that corresponding provision and, in the case of an approval, had been given for the purposes of that provision.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>Any document referring to an enactment repealed by this Act shall be construed as referring to the corresponding provision of this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-4">
+                <Pnumber>4</Pnumber>
+                <P2para>
+                  <Text>Any person holding office or acting or serving under or by virtue of an enactment repealed by this Act shall continue to hold his office or to act or serve as if he had been appointed or authorised under or by virtue of the corresponding provision of this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-5">
+                <Pnumber>5</Pnumber>
+                <P2para>
+                  <Text>Where an offence, being an offence for the continuance of which a penalty was provided, has been committed under an enactment repealed by this Act, proceedings may be taken under this Act in respect of the continuance of the offence in the same manner as if the offence had been committed under the corresponding provision of this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-6">
+                <Pnumber>6</Pnumber>
+                <P2para>
+                  <Text>Where an enactment repealed and re-enacted by this Act provides for the doing of some act within, or not earlier than the expiration of, a specified period from the giving of a notice, and the commencement of this Act falls within the period applicable to the giving of a particular notice, the repeal and re-enactment shall be deemed to have taken effect in relation to that notice immediately before the giving thereof.</Text>
+                </P2para>
+              </P2>
+              <P2 id="section-18-7">
+                <Pnumber>7</Pnumber>
+                <P2para>
+                  <Text>The mention of particular matters in this section shall not be taken to affect the general application of section thirty-eight of the Interpretation Act, 1889, with regard to the effect of repeals.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+        </P1group>
+        <PsubBlock id="crossheading-supplementary-short-title-and-extent">
+          <Title>Short title and extent.</Title>
+          <P1 id="section-19">
+            <Pnumber>19</Pnumber>
+            <P1para>
+              <Text>This Act may be cited as the Agricultural Wages (Scotland) Act, 1949, and shall extend to Scotland only.</Text>
+            </P1para>
+          </P1>
+        </PsubBlock>
+      </Pblock>
+    </Body>
+    <Schedules>
+      <Schedule id="schedule-FIRST">
+        <Number>FIRST SCHEDULE</Number>
+        <TitleBlock>
+          <Title>Constitution and Proceedings of the Scottish Agricultural Wages Board</Title>
+        </TitleBlock>
+        <ScheduleBody>
+          <P1 id="schedule-FIRST-paragraph-1">
+            <Pnumber>1</Pnumber>
+            <P1para>
+              <Text>The Board shall consist of—</Text>
+              <P3 id="schedule-FIRST-paragraph-1-a">
+                <Pnumber>a</Pnumber>
+                <P3para>
+                  <Text>six persons representing employers and six persons (of whom one at least shall be a woman) representing workers in agriculture to be nominated in the prescribed manner or elected in the prescribed manner according as may be prescribed ; and</Text>
+                </P3para>
+              </P3>
+              <P3 id="schedule-FIRST-paragraph-1-b">
+                <Pnumber>b</Pnumber>
+                <P3para>
+                  <Text>five persons to be appointed by the Secretary of State.</Text>
+                </P3para>
+              </P3>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-2">
+            <Pnumber>2</Pnumber>
+            <P1para>
+              <Text>The Secretary of State shall designate as chairman of the Board one of the members thereof appointed by him.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-3">
+            <Pnumber>3</Pnumber>
+            <P1para>
+              <Text>At every meeting of the Board the chairman, if present, shall preside and, if he is absent, such of the other members appointed by the Secretary of State as the members of the Board then present choose shall preside.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-4">
+            <Pnumber>4</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may appoint a secretary for the Board.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-5">
+            <Pnumber>5</Pnumber>
+            <P1para>
+              <Text>The Board may, in accordance with regulations made by the Secretary of State by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament, appoint one or more committees consisting of members representing employers and members representing workers in agriculture in equal proportions, and of one or more of the appointed members, and may refer to any such committee for report and recommendations any matter which they think it expedient so to refer, and may also, if they think fit, delegate to any such committee any of their powers and duties under this Act other than a power or duty to fix, cancel or vary minimum rates of wages or to direct that Workers shall be entitled to be allowed holidays.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-6">
+            <Pnumber>6</Pnumber>
+            <P1para>
+              <Text>The proceedings of the Board or of a committee thereof shall not be invalidated by a vacancy therein or by a defect in the nomination, election or appointment of the chairman or other member of the Board or of a member of the committee.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-7">
+            <Pnumber>7</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may, by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament, make regulations with respect to the proceedings and meetings of the Board and of any committee thereof, including the appointment of the chairman of the Board and the term of office of the chairman and other members of the Board and the members of committees, the method of voting and the number of members necessary to form a quorum, and any such regulations as to committees may be made so as to apply generally to the procedure of all committees or specially to the procedure of any particular committee ; but subject to the provisions of this Schedule and to any regulations so made, the Board and any committee thereof may, respectively, regulate their proceedings in such manner as they think fit.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-FIRST-paragraph-8">
+            <Pnumber>8</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may, out of moneys provided by Parliament, pay to the members of the Board such allowances by way of compensation for expenses incurred and time lost by them in the performance of their duties as he may, with the consent of the Treasury, determine.</Text>
+            </P1para>
+          </P1>
+        </ScheduleBody>
+      </Schedule>
+      <Schedule id="schedule-SECOND">
+        <Number>SECOND SCHEDULE</Number>
+        <TitleBlock>
+          <Title>Constitution and Proceedings of Scottish Agricultural Wages Committees</Title>
+        </TitleBlock>
+        <ScheduleBody>
+          <P1 id="schedule-SECOND-paragraph-1">
+            <Pnumber>1</Pnumber>
+            <P1para>
+              <Text>An agricultural wages committee shall consist of not more than eight and not less than five persons representing employers and an equal number of persons representing workers in agriculture in the district (in this Schedule referred to as representative members), of two impartial persons appointed by the Secretary of State and of a chairman.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-2">
+            <Pnumber>2</Pnumber>
+            <P1para>
+              <Text>The representative members of the committee shall be nominated in the prescribed manner or elected in the prescribed manner, according as may be prescribed.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-3">
+            <Pnumber>3</Pnumber>
+            <P1para>
+              <P2 id="schedule-SECOND-paragraph-3-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>The chairman of an agricultural wages 'committee shall be appointed annually by the representative members of the committee. Provided that if the representative members of the committee at any time fail to appoint a chairman within such period as may be prescribed, the appointment may be made by the Secretary of State.</Text>
+                </P2para>
+              </P2>
+              <P2 id="schedule-SECOND-paragraph-3-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The representative members of a committee may nominate one or more persons for the office of vice-chairman, and the chairman may from time to time appoint one of those persons to act in his place as vice-chairman in his absence.</Text>
+                </P2para>
+              </P2>
+              <P2 id="schedule-SECOND-paragraph-3-3">
+                <Pnumber>3</Pnumber>
+                <P2para>
+                  <Text>A representative member of a committee shall not be qualified to be appointed chairman or vice-chairman of the committee of which he is a member.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-4">
+            <Pnumber>4</Pnumber>
+            <P1para>
+              <Text>At every meeting of an agricultural wages committee the chairman, if present, shall preside. If the chairman is absent, the vice-chairman, if present, shall preside. If both the chairman and vice-chairman are absent, such member as the members then present choose shall preside.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-5">
+            <Pnumber>5</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may appoint a secretary for an agricultural wages committee.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-6">
+            <Pnumber>6</Pnumber>
+            <P1para>
+              <P2 id="schedule-SECOND-paragraph-6-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>At a meeting of an agricultural wages committee the chairman or a vice-chairman presiding at the meeting in his absence shall be entitled to vote, and in case of an equality of votes shall have a second or casting vote, but before exercising his right to vote the chairman or vice-chairman, if so authorised by a resolution of the members of the committee representing employers and the members thereof representing workers, may obtain the advice of the Board or a committee thereof as to the exercise of such right, and may adjourn the meeting in order to enable him to do so.</Text>
+                </P2para>
+              </P2>
+              <P2 id="schedule-SECOND-paragraph-6-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>A resolution for the purposes of the preceding sub-paragraph that is passed at a meeting of an agricultural wages committee unanimously by such of the members thereof representing employers and such of the members thereof representing workers in agriculture as are present and voting shall be deemed, for those purposes, to be a - resolution of those members.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-7">
+            <Pnumber>7</Pnumber>
+            <P1para>
+              <P2 id="schedule-SECOND-paragraph-7-1">
+                <Pnumber>1</Pnumber>
+                <P2para>
+                  <Text>An agricultural wages committee may, in accordance with regulations made by the Secretary of State by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament, appoint one or more sub-committees consisting of persons representing employers and persons representing workers in agriculture in the district in equal proportions, and of a chairman, if the committee think fit, and the committee may refer to any such sub-committee for report and recommendations any matter which they think it expedient so to refer, and may also, if they think fit, delegate to any such sub-committee any of their powers and duties under this Act.</Text>
+                </P2para>
+              </P2>
+              <P2 id="schedule-SECOND-paragraph-7-2">
+                <Pnumber>2</Pnumber>
+                <P2para>
+                  <Text>The members of a sub-committee may, but need not, be members of the committee by which the sub-committee is appointed.</Text>
+                </P2para>
+              </P2>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-8">
+            <Pnumber>8</Pnumber>
+            <P1para>
+              <Text>The proceedings of an agricultural wages committee or of a sub-committee thereof "shall not be invalidated by a vacancy therein or by a defect in the appointment, nomination or election of the chairman, vice-chairman or other member of the committee or subcommittee.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-9">
+            <Pnumber>9</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may make regulations with respect to the proceedings and meetings of agricultural wages committees and sub-committees thereof, including the appointment of chairmen and the term of office of chairmen and other members, the method of voting and the number of members necessary to form a quorum, and any such regulations may be made so as to apply generally to the procedure of all committees or sub-committees or specially to the procedure of any particular committee or sub-committee ; but, subject to the provisions of this Schedule and to any regulations so made, an agricultural wages committee and a sub-committee thereof may respectively regulate their proceedings in such manner as they think fit.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-SECOND-paragraph-10">
+            <Pnumber>10</Pnumber>
+            <P1para>
+              <Text>The Secretary of State may, out of moneys provided by Parliament, pay to the members of an agricultural wages committee and the members of a sub-committee thereof such allowances by way of compensation for expenses incurred and time lost by them in the performance of their duties as he may, with the consent of the Treasury, determine.</Text>
+            </P1para>
+          </P1>
+        </ScheduleBody>
+      </Schedule>
+      <Schedule id="schedule-THIRD">
+        <Number>THIRD SCHEDULE</Number>
+        <TitleBlock>
+          <Title>Orders of the Scottish Agricultural Wages Board</Title>
+        </TitleBlock>
+        <ScheduleBody>
+          <P1 id="schedule-THIRD-paragraph-1">
+            <Pnumber>1</Pnumber>
+            <P1para>
+              <Text>Where the Board propose to make an order under any provision of this Act, the Board shall—</Text>
+              <P3 id="schedule-THIRD-paragraph-1-a">
+                <Pnumber>a</Pnumber>
+                <P3para>
+                  <Text>give, in such manner as appears to the Board requisite for informing persons concerned, public notice of the proposed order and of the manner in which and the time (not being less than fourteen days from the date of the notice) within which objections to the proposals may be lodged ;</Text>
+                </P3para>
+              </P3>
+              <P3 id="schedule-THIRD-paragraph-1-b">
+                <Pnumber>b</Pnumber>
+                <P3para>
+                  <Text>serve a like notice by post on the agricultural wages committee for the district to which the order relates ;</Text>
+                </P3para>
+              </P3>
+              <Text>and shall consider any objections to the proposals which may be lodged in accordance with the notice.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-THIRD-paragraph-2">
+            <Pnumber>2</Pnumber>
+            <P1para>
+              <Text>After considering any such objections the Board may make an order in accordance with their original proposals or with those proposals as modified in such manner as appears to the Board expedient having regard to any objections lodged :</Text>
+              <Text>Provided that where it appears to the Board that, having regard to the nature of any modifications which they propose to make in their original proposals, opportunity should be given for the consideration thereof by persons concerned, the Board shall again give and serve notice under the foregoing paragraph, and this paragraph shall apply accordingly.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-THIRD-paragraph-3">
+            <Pnumber>3</Pnumber>
+            <P1para>
+              <Text>Notwithstanding anything in the foregoing paragraphs of this Schedule, where the Board are satisfied that on the ground of the limited application of a proposed order it is unnecessary to comply with the provisions of those paragraphs and certify accordingly, the Board may, instead of complying with those provisions, give notice of the proposed order in such manner as appears to the Board expedient in the circumstances, and may make the order at any time after the expiration of seven days from the giving of the notice.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-THIRD-paragraph-4">
+            <Pnumber>4</Pnumber>
+            <P1para>
+              <Text>As soon as may be after the Board have made an order under any provision of this Act they shall give public notice of the making of the order and of the contents thereof in such manner as appears to the Board requisite for informing persons concerned, and serve a like notice by post on the agricultural wages committee for the district to which the order relates.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-THIRD-paragraph-5">
+            <Pnumber>5</Pnumber>
+            <P1para>
+              <Text>An order of the Board under any provision of this Act may apply either universally to all workers employed in agriculture in the district to which the order relates or to any special class of workers (as defined in the order) so employed, or to any special area in that district or to any such special class in such a special area, subject in each case to any exceptions specified in the order ; and an order of the Board fixing or varying a minimum rate of wages so as to secure that workers employed in agriculture receive remuneration calculated by reference to periods during the currency of their employment may make alternative provisions applying according to different circumstances arising during the currency of a worker's employment or in connection with the termination thereof.</Text>
+            </P1para>
+          </P1>
+          <P1 id="schedule-THIRD-paragraph-6">
+            <Pnumber>6</Pnumber>
+            <P1para>
+              <Text>Without prejudice to the provisions of this Act as to the cancellation and variation of minimum rates of wages and directions as to holidays, an order of the Board made under any provision of this Act may be varied or revoked by a subsequent order made in the like manner and subject to the like conditions.</Text>
+            </P1para>
+          </P1>
+        </ScheduleBody>
+      </Schedule>
+      <Schedule id="schedule-FOURTH">
+        <Number>FOURTH SCHEDULE</Number>
+        <TitleBlock>
+          <Title>Enactments Repealed</Title>
+        </TitleBlock>
+        <ScheduleBody>
+          <Tabular Orientation="portrait">
+            <table cols="3" xmlns="http://www.w3.org/1999/xhtml">
+              <thead>
+                <tr>
+                  <th fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">Session and Chapter.</th>
+                  <th fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">Short Title.</th>
+                  <th fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">Extent of Repeal.</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">1 <Abbreviation Expansion="Edward" xmlns="http://www.legislation.gov.uk/namespaces/legislation">Edw.</Abbreviation> 8 &amp; 1 <Abbreviation Expansion="George" xmlns="http://www.legislation.gov.uk/namespaces/legislation">Geo.</Abbreviation> 6. c. 53.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">The Agricultural Wages (Regulation) (Scotland) Act, 1937.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">The whole Act.</td>
+                </tr>
+                <tr>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">1 &amp; 2 <Abbreviation Expansion="George" xmlns="http://www.legislation.gov.uk/namespaces/legislation">Geo.</Abbreviation> 6. c. 70.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">The Holidays with Pay Act, 1938.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">Sections one, two, three and five so far as they relate to workers employed in agriculture.</td>
+                </tr>
+                <tr>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">10 &amp; 11 <Abbreviation Expansion="George" xmlns="http://www.legislation.gov.uk/namespaces/legislation">Geo.</Abbreviation> 6. c. 15.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">The Agricultural Wages (Regulation) Act, 1947.</td>
+                  <td fo:border-right-style="solid" xmlns:fo="http://www.w3.org/1999/XSL/Format">The whole Act.</td>
+                </tr>
+              </tbody>
+            </table>
+          </Tabular>
+        </ScheduleBody>
+      </Schedule>
+    </Schedules>
+  </Primary>
+</Legislation>

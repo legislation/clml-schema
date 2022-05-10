@@ -18,12 +18,13 @@
 				<dcq:created>2018-11-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-25</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				Modification
-			2.0		Jim Mangiafico		Created
+			Version		Name				Modification
+			2.4			Karl Rajangam		Annotation added for Number
+			2.0			Jim Mangiafico		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -36,7 +37,11 @@
 			<xsd:sequence>
 				<xsd:element ref="Draft" minOccurs="0"/>
 				<xsd:element ref="MultilineTitle"/>
-				<xsd:element name="Number" type="BasicStringStructure" minOccurs="0"/>
+				<xsd:element name="Number" type="BasicStringStructure" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>An alternative number for the document, such as its Official Journal citation or its number in another series</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element ref="IntroductoryText" minOccurs="0"/>
 				<xsd:element ref="EUPreamble" minOccurs="0"/>
 			</xsd:sequence>

@@ -20,11 +20,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-27</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.4		Karl Rajangam		Annotation updated for various elements: SiftedDate, MadeDate, LaidDate, Draft, Correction and Number under different prelims
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.9		Marc Sturman 		Added Sifted date
 			1.8		Jeni Tennison		Added ENprelims element
@@ -56,7 +57,7 @@
 				</xsd:element>
 				<xsd:element name="Number" type="BasicStringStructure">
 					<xsd:annotation>
-						<xsd:documentation>Standard declaration has been overridden to only allow text</xsd:documentation>
+						<xsd:documentation>This holds the chapter number of the associated legislation item, as an integer</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:element ref="DateOfEnactment" minOccurs="0">
@@ -81,7 +82,7 @@
 				</xsd:element>
 				<xsd:element name="Number" type="BasicStringStructure">
 					<xsd:annotation>
-						<xsd:documentation>Display number (only allows text) e.g. "2011 Chapter 5"</xsd:documentation>
+						<xsd:documentation>This holds the legislation display reference in its longer format and permits only basic text content, e.g. '1992 CHAPTER 5', '2003 c. 4', '2003 No. 376', '2018 anaw 1' etc.</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:group maxOccurs="unbounded" minOccurs="0" ref="err:Errors"/>
@@ -107,7 +108,7 @@
 				<xsd:element ref="Draft" minOccurs="0"/>
 				<xsd:element name="Number" type="BasicStringStructure">
 					<xsd:annotation>
-						<xsd:documentation>Display number (only allows text) e.g. "2011 No. 86"</xsd:documentation>
+						<xsd:documentation>This holds the legislation display reference in its longer format and permits only basic text content, e.g. '2011 No. 86'</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
 				<xsd:element ref="SubjectInformation"/>
@@ -307,7 +308,7 @@
 
 	<xsd:element name="SiftedDate">
 		<xsd:annotation>
-			<xsd:documentation>Text describing the fact that the document has been Sifted.</xsd:documentation>
+			<xsd:documentation>The date refers to the start date of a sifting period, for items that relate to exiting the EU. Sifting refers to a period that allows 10 sitting days for a committee of each House in Parliament to recommend whether a draft EU Exit SI should be subject to negative or affirmative procedure. A Minister of the Crown may make EU Exit instruments that are subject to sifting for up to two years after the end of the transition period, under section 8 of the European Union (Withdrawal Act) 2018 or under section 31 of the European Union (Future Relationship) Act 2020</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -320,7 +321,7 @@
 
 	<xsd:element name="MadeDate">
 		<xsd:annotation>
-			<xsd:documentation>Made date text (e.g. "Made" in Text element and "17th January 2011" in DateText)</xsd:documentation>
+			<xsd:documentation>The made date of the document refers to the date when the document was signed by a minister or a person with authority under the Act. This element contains the textual description and date as text elements. The date should match with secondary metadata &lt;Maid&gt; element date attribute.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -333,7 +334,7 @@
 
 	<xsd:element name="LaidDate">
 		<xsd:annotation>
-			<xsd:documentation>Laid date text (e.g. "Laid before the House of Commons" in Text element and "18th January 2011" in DateText)</xsd:documentation>
+			<xsd:documentation>The laid date of the document refers to the date when the document was laid before a Parliament, Assembly or relevant body. This element contains the textual description and actual date as text elements. The date should match with secondary metadata &lt;Laid&gt; element date attribute.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -389,13 +390,13 @@
 
 	<xsd:element name="Correction" type="ParaBasicStructure">
 		<xsd:annotation>
-			<xsd:documentation>Contains details about the reprinting of a document</xsd:documentation>
+			<xsd:documentation>A headnote above the banner heading indicating the corrective status of the document</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 
 	<xsd:element name="Draft" type="ParaBasicStructure">
 		<xsd:annotation>
-			<xsd:documentation>A note (usually above the banner heading) about the draft status of the document</xsd:documentation>
+			<xsd:documentation>A headnote above the banner heading indicating the legislative procedure used to lay the document</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 

@@ -17,11 +17,12 @@
 				<dcq:created>2009-07-08</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-08-06</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 				Modification information
-				Version	Name					Modification
+				Version		Name				Modification
+				2.4			Karl Rajangam		Annotation updated for Addition, Repeal, Substitution, ChangeType and their attributes
 				2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 				1.2			Jim Mangiafico		Expanded to accommodate European Union
 				1.0			Jeni Tennison		Created
@@ -30,28 +31,42 @@
 	</xsd:annotation>
 	<xsd:element name="Addition" type="ChangeType">
 		<xsd:annotation>
-			<xsd:documentation>Indicates an addition to the text. This is usually displayed in blue with square brackets indicating the beginning and end of the addition. Prospective additions are usually displayed in italic.</xsd:documentation>
+			<xsd:documentation>Indicates an addition to the text. This is usually displayed within square brackets indicating the beginning and end of the addition.</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	<xsd:element name="Repeal">
 		<xsd:annotation>
-			<xsd:documentation>Indicates the repeal of a part of the text. This is usually displayed as dots (three for inline text and a line of dots for a repealed block). If the SubstitutionRef attribute is present, this indicates a substitution; the Addition referenced by the SubstitutionRef attribute holds the replacement text.</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>Indicates the repeal of a part of the text. The current editorial policy is to indicate a repeal by a string of dots and a CommentaryRef pointing to the repeal commentary. The Repeal element is therefore no longer used in new revised data except to indicate a retained text repeal (where the text is still in force for certain extents or purposes). In legacy revised data, the Repeal element is also used to indicate a substitution (with the SubstitutionRef attribute referencing the Addition that replaces the Repeal). Any text within the &lt;Repeal&gt; element will be displayed to the user, unless the text content consists only of a string of dots (which denotes a repeal).</h:p>
+				<h:p>In fragment editing, this element indicates the start or end of a run of text to be repealed. The Editorial system will remove the text and the Repeal tags when the editor checks in the fragment, unless the RetainText attribute is set, in which case the Editorial system will retain the text and the Repeal tags.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>
 				<xsd:extension base="ChangeType">
-					<xsd:attribute name="SubstitutionRef" type="xsd:NCName"/>
-          			<xsd:attribute name="RetainText" type="xsd:boolean"/>
-        		</xsd:extension>
+					<xsd:attribute name="SubstitutionRef" type="xsd:NCName">
+						<xsd:annotation>
+							<xsd:documentation>This indicates that new text is to be substituted for the repealed text, and specifies the change ID of the Addition elements containing the substituted text. If used with the RetainText attribute, it indicates a retained text substitution, where the text is repealed and replaced only for specific extents or specified purposes</xsd:documentation>
+						</xsd:annotation>
+					</xsd:attribute>
+					<xsd:attribute name="RetainText" type="xsd:boolean">
+						<xsd:annotation>
+							<xsd:documentation>Used where a repealed item of text is to be retained. This would occur if, for instance, an item of text is repealed for a specific extent or specified purposes and is still applicable to other extents or for other purposes. If used with the SubstitutionRef attribute, it indicates a retained text substitution, where the text is repealed and replaced only for specific extents or specified purposes</xsd:documentation>
+						</xsd:annotation>
+					</xsd:attribute>
+				</xsd:extension>
 			</xsd:complexContent>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="Substitution" type="ChangeType">
 		<xsd:annotation>
-			<xsd:documentation>Indicates a substitution to the text. This is usually displayed in blue with square brackets indicating the beginning and end of the substitution. Prospective substitutions are usually displayed in italic.</xsd:documentation>
+			<xsd:documentation>Indicates a substitution to the text. This is usually displayed within square brackets indicating the beginning and end of the substitution.</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	<xsd:complexType name="ChangeType" mixed="true">
+		<xsd:annotation>
+			<xsd:documentation>The content model for changes that have been applied to the text of a document</xsd:documentation>
+		</xsd:annotation>
 		<xsd:choice maxOccurs="unbounded" minOccurs="0">
 			<xsd:element ref="Addition"/>
 			<xsd:element ref="Repeal"/>
@@ -63,11 +78,30 @@
 			<xsd:element ref="Span"/>
 		</xsd:choice>
 		<xsd:attributeGroup ref="CommonAttributes"/>
-		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required"/>
-		<xsd:attribute name="CommentaryRef" type="CommentaryId"/>
-		<xsd:attribute default="false" name="Prospective" type="xsd:boolean"/>
-		<xsd:attribute default="false" name="Correction" type="xsd:boolean"/>
+		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The ID for the current instance of the change’s application to the text. Shared by all contiguous change type elements that indicate the same application of the change. (A single change will have multiple ChangeIds if it amends the text in multiple places—for example, an effect that substitutes a word in every place that it occurs in a provision. Each time an editor applies such an change, their XML editing environment will generate a new ChangeId for that instance)</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="CommentaryRef" type="CommentaryId">
+			<xsd:annotation>
+				<xsd:documentation>The commentary for the change. Shared by all change type elements that indicate the same change, whether they refer to the same instance of the change, or different instances in separate parts of the text</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Prospective" default="false" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>Indicates that this change is prospective (i.e. the amending provision has not yet come into force)</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Correction" default="false" type="xsd:boolean">
+			<xsd:annotation>
+				<xsd:documentation>Indicates that the change was applied by a correction to the original document, as opposed to a legislative amendment</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 		<xsd:attribute name="Status">
+			<xsd:annotation>
+				<xsd:documentation>Indicates that this change is proposed (i.e. the amending provision is within a bill or draft instrument not yet enacted or made)</xsd:documentation>
+			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NMTOKEN">
 					<xsd:enumeration value="Proposed" />
@@ -75,6 +109,9 @@
 			</xsd:simpleType>
 		</xsd:attribute>
 		<xsd:attribute name="Mark">
+			<xsd:annotation>
+				<xsd:documentation>Where present, indicates whether this element marks the start or end of the change that it denotes. Only used in the fragment schema</xsd:documentation>
+			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:NMTOKEN">
 					<xsd:enumeration value="Start" />
@@ -83,7 +120,11 @@
 			</xsd:simpleType>
 		</xsd:attribute>
 		<!-- PT #154553309 -->
-		<xsd:attribute name="Extent" type="ExtentType"/>
+		<xsd:attribute name="Extent" type="ExtentType">
+			<xsd:annotation>
+				<xsd:documentation>Indicates the geographical extent (or territorial application) of the change, where it is more limited than the extent or application of the parent provision</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 	
 </xsd:schema>

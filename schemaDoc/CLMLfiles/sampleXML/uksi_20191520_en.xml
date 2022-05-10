@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xml:base="http://www.legislation.gov.uk/id/uksi/2019/1520" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+    <dc:identifier>http://www.legislation.gov.uk/id/uksi/2019/1520</dc:identifier>
+    <dc:title>The Local Government Finance Act 1988 (Non-Domestic Rating Multipliers) (England) Order 2019</dc:title>
+    <dc:identifier>urn:isbn:9780111192948</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2020-02-06</dc:modified>
+    <dct:valid>2019-11-04</dct:valid>
+    <dc:subject scheme="SIheading">RATING AND VALUATION, ENGLAND</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="order"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2019"/>
+      <ukm:Number Value="1520"/>
+      <ukm:ISBN Value="9780111192948"/>
+      <ukm:Made Date="2019-11-04" Time="11:45:00"/>
+      <ukm:Laid Date="2019-11-04" Time="15:30:00" Class="UnitedKingdomParliament"/>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents>
+    <ContentsTitle>The Local Government Finance Act 1988 (Non-Domestic Rating Multipliers) (England) Order 2019</ContentsTitle>
+    <ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/2019/1520/article/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Citation, commencement and application</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/2019/1520/article/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Non-domestic rating multiplier</ContentsTitle>
+    </ContentsItem>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2019 No. 1520</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Rating And Valuation, England</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Local Government Finance Act 1988 (Non-Domestic Rating Multipliers) (England) Order 2019</Title>
+      <Approved>Approved by the House of Commons</Approved>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>at 11.45 a.m. on 4th November 2019</DateText>
+      </MadeDate>
+      <LaidDate>
+        <Text>Laid before the House of Commons</Text>
+        <DateText>at 3.30 p.m. on 4th November 2019</DateText>
+      </LaidDate>
+      <ComingIntoForce>
+        <Text>Coming into force in accordance with article 1</Text>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>The Treasury make the following Order in exercise of the powers conferred by paragraph 5(3) of Schedule 7 to the Local Government Finance Act 1988<FootnoteRef Ref="f00001"/>.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body>
+      <P1group>
+        <Title>Citation, commencement and application</Title>
+        <P1 id="article-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <P2 id="article-1-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>This Order—</Text>
+                <P3 id="article-1-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>may be cited as the Local Government Finance Act 1988 (Non-Domestic Rating Multipliers) (England) Order 2019;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="article-1-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>comes into force on the day after the day on which it is approved by a resolution of the House of Commons, provided that the time condition in paragraph (2) is met; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="article-1-1-c">
+                  <Pnumber>c</Pnumber>
+                  <P3para>
+                    <Text>applies in relation to England only.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="article-1-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>The time condition is that the approval of the Order must be given before the approval by the House of Commons of the local government finance report for the financial year beginning on 1st April 2020.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Non-domestic rating multiplier</Title>
+        <P1 id="article-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <Text>For the purposes of paragraph 3 of Schedule 7 to the Local Government Finance Act 1988, B is specified as 288.7 for the financial year beginning on 1st April 2020.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Signee>
+            <PersonName>David Rutley</PersonName>
+            <PersonName>Rebecca Harris</PersonName>
+            <JobTitle>Two of the Lords Commissioners of Her Majesty’s Treasury</JobTitle>
+            <DateSigned Date="2019-11-04">
+              <DateText>At 11.45 a.m. on 4th November 2019</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes>
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Order)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text>In relation to England, the small business non-domestic rating multiplier is calculated in accordance with paragraph 3 of Schedule 7 to the Local Government Finance Act 1988 for each financial year when new rating lists are not being compiled.</Text>
+      </P>
+      <P>
+        <Text>Item B in those calculations will be the retail prices index for September of the preceding financial year, unless the Treasury by order specify a lower amount.</Text>
+      </P>
+      <P>
+        <Text>New rating lists are not being compiled for the financial year beginning on 1st April 2020 (“2020-21”). This Order specifies that for 2020-21 the amount for item B will be 288.7.</Text>
+      </P>
+      <P>
+        <Text>The Order will only come into force if it is approved by resolution of the House of Commons before the House approves the local government finance report for 2020-21.</Text>
+      </P>
+      <P>
+        <Text>An impact assessment has not been produced for this instrument as no negative impact on the costs of the private or voluntary sectors is foreseen. Further information is available from the Enterprise and Property Tax team, HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and on <ExternalLink Title="GOV.UK website" URI="http://www.gov.uk/government/organisations/hm-treasury" id="i00000">www.gov.uk/government/organisations/hm-treasury</ExternalLink>.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/41" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0041">1988 c.41</Citation>. Paragraph 5(13) of Schedule 7 was amended by paragraph 84(1) of Schedule 13 to the Local Government Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1992/14" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0014">1992 (c.14)</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

@@ -126,8 +126,8 @@
 													<ListItem>
 														<Para>
 															<Text>“moped” means a two or three wheel vehicle with a maximum design speed of not more than 45 km/h which—</Text>
-<!-- User guide example: UG00905. Taken from the section 'Acronyms and Abbreviations' -->
-																		<OrderedList Decoration="parens" Type="alpha">
+															<!-- User guide example: UG00905. Taken from the section 'Acronyms and Abbreviations' -->
+															<OrderedList Decoration="parens" Type="alpha">
 																<ListItem>
 																	<Para>
 																		<Text>if a two wheel vehicle, is fitted with an engine which—</Text>

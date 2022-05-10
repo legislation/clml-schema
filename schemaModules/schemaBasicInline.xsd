@@ -16,14 +16,15 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-07-23</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				Modification
-			2.0			Colin Mackenzie	Numbering restarted at 2 for new EU and merged schema
-			1.1			Paul Appleby	Expanded type for span to be InlineStructure from just EmphasisBasic
-			1.0			Paul Appleby	Created
+			Version		Name				Modification
+			2.4			Karl				Span annotation corrected of typo mistakes and tidied modification information for better readability. 
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.1			Paul Appleby		Expanded type for span to be InlineStructure from just EmphasisBasic
+			1.0			Paul Appleby		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -63,11 +64,11 @@
 	<xsd:element name="Span" type="InlineStructure">
 		<xsd:annotation>
 			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-				<h:p>A general-purpose inline container.. It main uses are:</h:p>
+				<h:p>A general-purpose inline container. Its main uses are:</h:p>
 				<h:ul>
-					<h:li>to serve as an anchor for an InternalLink to provide character accurate linking.</h:li>
-					<h:li>to allow for language information to be added. For example, if there is a fragment of Welsh the span element can use the xml:lang attribute to describe the language of the content, therefore allowing all the benefits that can be provided by this such as localised spellchecking.</h:li>
-					<h:li>to act as a container of inline content when an alternate version is available (for example a graphical version of inline MathML)</h:li>
+					<h:li>to serve as an anchor for an InternalLink to provide character accurate linking;</h:li>
+					<h:li>to allow for language information to be added. For example, if there is a fragment of Welsh the span element can use the xml:lang attribute to describe the language of the content, therefore allowing all the benefits that can be provided by this such as localised spellchecking;</h:li>
+					<h:li>to act as a container of inline content when an alternate version is available (for example a graphical version of inline MathML).</h:li>
 				</h:ul>
 			</xsd:documentation>
 		</xsd:annotation>

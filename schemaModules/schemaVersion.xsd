@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" elementFormDefault="qualified" attributeFormDefault="unqualified" 
 	version="2.0" id="SchemaVersion">
 	
 	<xsd:annotation>
@@ -17,11 +17,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-05</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.4		Karl Rajangam		Documentation update for Versions,  Version and its id and Class attribuites
 			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.2		Paul Appleby		Added RestrictExtent attribute and removed text default from Class attribute
 			1.1		Paul Appleby		Added Class, Language and RestrictOutput attributes to Version element
@@ -32,7 +33,7 @@
 
 	<xsd:element name="Versions">
 		<xsd:annotation>
-			<xsd:documentation>This is the top level wrapper for different versions of elements</xsd:documentation>
+			<xsd:documentation>Contains alternate versions of parts of the document</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -44,17 +45,29 @@
 
 	<xsd:element name="Version">
 		<xsd:annotation>
-			<xsd:documentation>Describes a version - a general container for block level elements</xsd:documentation>
+			<xsd:documentation>
+				<h:p>Contains an alternate version of a part of the document.</h:p>
+				<h:p>Versions commonly serve two purposes in schema documents:</h:p>
+				<h:ul>
+					<h:li>They hold an alternate image version of an equation marked up in MathML, for clients that can render images but not MathML;</h:li>
+					<h:li>They hold concurrent geographical extent versions of provisions—that is, where there are different versions of part of the document for different geographical extents.</h:li>
+				</h:ul>
+				<h:p>A version may also encode the content of a part of the document in a different medium, such as audio or Braille, or a different language, such as Welsh or French.</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
 				<xsd:any processContents="lax" minOccurs="0"/>
 			</xsd:sequence>
-			<xsd:attribute name="Description" type="xsd:string"/>
+			<xsd:attribute name="Description" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>Describes the content of the version</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attribute name="id">
 				<xsd:annotation>
-					<xsd:documentation>A unique identifier in the format v00000</xsd:documentation>
+					<xsd:documentation>A unique identifier in the format v00000, e.g. v00010, v01353</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:ID">
@@ -64,8 +77,7 @@
 			</xsd:attribute>
 			<xsd:attribute name="Class">
 				<xsd:annotation>
-					<xsd:documentation>This attribute along with the Langauge attribute can be used to group together versions, e.g. audio and German would be a German talking version</xsd:documentation>
-					<xsd:documentation>The implied value would be 'text'</xsd:documentation>
+					<xsd:documentation>The medium of the content of the version. If this attribute is absent, a processing application should treat the content as text</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
@@ -80,7 +92,7 @@
 			</xsd:attribute>
 			<xsd:attribute name="Language">
 				<xsd:annotation>
-					<xsd:documentation>Defines the language in which the alternate version is created. The implied value will be the language of the main document</xsd:documentation>
+					<xsd:documentation>The language of the content of the version. If this attribute is absent, a processing application should treat the content as being in the language of the main document</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
@@ -116,7 +128,7 @@
 			</xsd:attribute>
 			<xsd:attribute name="RestrictOutput" type="xsd:boolean" default="false">
 				<xsd:annotation>
-					<xsd:documentation>Defines whether the version should not be output by default</xsd:documentation>
+					<xsd:documentation>Determines whether the version should not be output by the processing application by default</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
 		</xsd:complexType>
