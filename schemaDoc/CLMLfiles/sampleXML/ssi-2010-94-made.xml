@@ -1,0 +1,210 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94" NumberOfProvisions="2" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ssi/2010/94/made</dc:identifier>
+		<dc:title>The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) Amendment Regulations 2010</dc:title>
+		<dc:subject>National Health Service (NHS)</dc:subject>
+		<dc:subject>Health care services and specialisms</dc:subject>
+		<dc:subject>Care</dc:subject>
+		<dc:subject>Primary health care</dc:subject>
+		<dc:subject>Community health services</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer for Scotland</dc:publisher>
+		<dc:modified>2012-10-30</dc:modified>
+		<dc:subject scheme="SIheading">NATIONAL HEALTH SERVICE</dc:subject>
+		<dc:description>These Regulations amend the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No.2) Regulations 2003 (“the Regulations”).</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2010/94/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/executive-note" href="http://www.legislation.gov.uk/ssi/2010/94/executive-note" title="Executive Note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/executive-note/toc" href="http://www.legislation.gov.uk/ssi/2010/94/executive-note/contents" title="Executive Note Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2010/94/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2010/94/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2010/94/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2010/94/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2010/94/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ssi/2010/94/made/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/ssi/2010/94/pdfs/ssi_20100094_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ssi/2010/94/contents/made" title="Table of Contents"/>
+
+
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2010"/>
+			<ukm:Number Value="94"/>
+			<ukm:Made Date="2010-03-04"/>
+			<ukm:Laid Date="2010-03-05" Class="ScottishParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2010-04-06"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780111008324"/>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2010-03-11" URI="http://www.legislation.gov.uk/ssi/2010/94/pdfs/ssien_20100094_en.pdf" Title="Executive Note"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2010-03-11" URI="http://www.legislation.gov.uk/ssi/2010/94/pdfs/ssi_20100094_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/introduction/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/introduction">
+			<Number>2010 No. 94</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>National Health Service</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) Amendment Regulations<Character Name="NonBreakingSpace"/>2010</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>4th<Character Name="NonBreakingSpace"/>March 2010</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before the Scottish Parliament</Text>
+				<DateText>5th<Character Name="NonBreakingSpace"/>March 2010</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>6th<Character Name="NonBreakingSpace"/>April 2010</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections<Character Name="NonBreakingSpace"/>75A, 105(7) and 108(1) of the National Health Service (Scotland) Act 1978<FootnoteRef Ref="f00001"/> and all other powers enabling them to do so.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/body/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/body" NumberOfProvisions="2">
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/1" id="regulation-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) Amendment Regulations 2010 and come into force on 6th<Character Name="NonBreakingSpace"/>April 2010.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (<Abbreviation Expansion="Number">No.</Abbreviation><Character Name="NonBreakingSpace"/>2) Regulations 2003</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2" id="regulation-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/1/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/1" id="regulation-2-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No.<Character Name="NonBreakingSpace"/>2) Regulations 2003<FootnoteRef Ref="f00002"/> are amended as follows.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/2/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/2" id="regulation-2-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>In column<Character Name="NonBreakingSpace"/>2 of Table<Character Name="NonBreakingSpace"/>A of the Schedule—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/2/a/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/2/a" id="regulation-2-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>in the entry relating to regulation<Character Name="NonBreakingSpace"/>45, for “£23,000” substitute “£23,250”; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/2/b/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/2/b" id="regulation-2-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>in the entry relating to regulation<Character Name="NonBreakingSpace"/>53—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/2/b/i/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/2/b/i" id="regulation-2-2-b-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>for “£14,000” substitute “£14,250”; and</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/regulation/2/2/b/ii/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/regulation/2/2/b/ii" id="regulation-2-2-b-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>for “£23,000” substitute “£23,250”.</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/signature/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/signature">
+				<Signatory>
+					<Signee>
+						<PersonName>SHONA ROBISON</PersonName>
+						<JobTitle>Authorised to sign by the Scottish Ministers</JobTitle>
+						<Address>
+							<AddressLine>St Andrew’s House,</AddressLine>
+							<AddressLine>Edinburgh</AddressLine>
+						</Address>
+						<DateSigned Date="2010-03-04">
+							<DateText>4th March 2010</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/ssi/2010/94/note/made" IdURI="http://www.legislation.gov.uk/id/ssi/2010/94/note">
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">These Regulations amend the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No.<Character Name="NonBreakingSpace"/>2) Regulations 2003 (“the Regulations”).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Regulation<Character Name="NonBreakingSpace"/>2(2) amends the entries in Table<Character Name="NonBreakingSpace"/>A of the Schedule to the Regulations relating to regulations<Character Name="NonBreakingSpace"/>45 and 53 of the <Citation URI="http://www.legislation.gov.uk/id/uksi/1987/1967" id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="1967">Income Support (General) Regulations 1987 (<Acronym Expansion="Statutory Instrument">S.I.</Acronym><Character Name="NonBreakingSpace"/>1987/1967)</Citation> to increase the capital limits to be used in calculating entitlement to the remission of charges and/or payment of travelling expenses for certain claimants under the Regulations.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1978/29" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1978" Number="0029">1978 c.29</Citation>. Section<Character Name="NonBreakingSpace"/>75A was inserted by the Social Security Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/7" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0007">1988 (c.7)</Citation>, section<Character Name="NonBreakingSpace"/>14(2) and amended by the Health and Medicines Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/49" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0049">1988 (c.49)</Citation>, Schedule<Character Name="NonBreakingSpace"/>2, paragraph<Character Name="NonBreakingSpace"/>13, the National Health Service and Community Care Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/19" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1990" Number="0019">1990 (c.19)</Citation>, Schedule<Character Name="NonBreakingSpace"/>9, paragraph<Character Name="NonBreakingSpace"/>19(13), the National Health Service (Primary Care) Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1997/46" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1997" Number="0046">1997 (c.46)</Citation>, Schedule<Character Name="NonBreakingSpace"/>2, Part<Character Name="NonBreakingSpace"/>I, paragraphs<Character Name="NonBreakingSpace"/>32 and 50, the <Citation URI="http://www.legislation.gov.uk/id/asp/2004/7" id="c00007" Class="ScottishAct" Year="2004" Number="0007">National Health Service Reform (Scotland) Act 2004 (asp<Character Name="NonBreakingSpace"/>7)</Citation>, Schedule<Character Name="NonBreakingSpace"/>1, paragraph<Character Name="NonBreakingSpace"/>1 and by <Citation URI="http://www.legislation.gov.uk/id/uksi/1998/2385" id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="2385">S.I.<Character Name="NonBreakingSpace"/>1998/2385</Citation>; section<Character Name="NonBreakingSpace"/>105(7) was amended by the Health Services Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1980/53" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0053">1980 (c.53)</Citation>, Schedule<Character Name="NonBreakingSpace"/>6, paragraph<Character Name="NonBreakingSpace"/>5(1) and Schedule<Character Name="NonBreakingSpace"/>7, the Health and Social Services and Social Security Adjudications Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1983/41" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="1983" Number="0041">1983 (c.41)</Citation>, Schedule<Character Name="NonBreakingSpace"/>9, Part<Character Name="NonBreakingSpace"/>I, paragraph<Character Name="NonBreakingSpace"/>24 and the Health Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1999/8" id="c00011" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0008">1999 (c.8)</Citation>, Schedule<Character Name="NonBreakingSpace"/>4, paragraph<Character Name="NonBreakingSpace"/>60; section<Character Name="NonBreakingSpace"/>108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section<Character Name="NonBreakingSpace"/>53 of the Scotland Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/46" id="c00012" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c.46)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ssi/2003/460" id="c00013" Class="ScottishStatutoryInstrument" Year="2003" Number="0460"><Acronym Expansion="Scottish Statutory Instrument">S.S.I.</Acronym><Character Name="NonBreakingSpace"/>2003/460</Citation>. Amended by <Citation URI="http://www.legislation.gov.uk/id/ssi/2004/102" id="c00014" Class="ScottishStatutoryInstrument" Year="2004" Number="0102">S.S.I.<Character Name="NonBreakingSpace"/>2004/102</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2004/166" id="c00015" Class="ScottishStatutoryInstrument" Year="2004" Number="0166">166</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2005/3" id="c00016" Class="ScottishStatutoryInstrument" Year="2005" Number="0003">2005/3</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2005/179" id="c00017" Class="ScottishStatutoryInstrument" Year="2005" Number="0179">179</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2006/142" id="c00018" Class="ScottishStatutoryInstrument" Year="2006" Number="0142">2006/142</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2006/183" id="c00019" Class="ScottishStatutoryInstrument" Year="2006" Number="0183">183</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2006/440" id="c00020" Class="ScottishStatutoryInstrument" Year="2006" Number="0440">440</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2007/225" id="c00021" Class="ScottishStatutoryInstrument" Year="2007" Number="0225">2007/225</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2007/259" id="c00022" Class="ScottishStatutoryInstrument" Year="2007" Number="0259">259</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2007/391" id="c00023" Class="ScottishStatutoryInstrument" Year="2007" Number="0391">391</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2008/27" id="c00024" Class="ScottishStatutoryInstrument" Year="2008" Number="0027">2008/27</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2008/147" id="c00025" Class="ScottishStatutoryInstrument" Year="2008" Number="0147">147</Citation>, <Citation URI="http://www.legislation.gov.uk/id/ssi/2008/288" id="c00026" Class="ScottishStatutoryInstrument" Year="2008" Number="0288">288</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2008/390" id="c00027" Class="ScottishStatutoryInstrument" Year="2008" Number="0390">390</Citation> and <Citation URI="http://www.legislation.gov.uk/id/ssi/2009/124" id="c00028" Class="ScottishStatutoryInstrument" Year="2009" Number="0124">2009/124</Citation>. <Citation URI="http://www.legislation.gov.uk/id/ssi/2006/142" id="c00029" Class="ScottishStatutoryInstrument" Year="2006" Number="0142">S.S.I. 2006/142</Citation> was revoked by <Citation URI="http://www.legislation.gov.uk/id/ssi/2006/183" id="c00030" Class="ScottishStatutoryInstrument" Year="2006" Number="0183">S.S.I. 2006/183</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

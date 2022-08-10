@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
-	xmlns:h="http://www.w3.org/1999/xhtml"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
-	version="2.0" id="SchemaResources">
-	
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="SchemaResources">
+
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Resources schema</dc:title>
@@ -18,11 +15,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-04-28</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.4			Karl Rajangam		Annotation updated for Resource and InternalVersion
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1			Paul Appleby		Added width and height attributes to ExternalVersion and InternalVersion
 			1.0			Paul Appleby		Created
@@ -82,7 +80,7 @@
 
 	<xsd:element name="Resource">
 		<xsd:annotation>
-			<xsd:documentation>A resource referenced the document, both external and internal to the file</xsd:documentation>
+			<xsd:documentation>A resource referenced within the legislation document. This can either be an external resource or internal data contained within the Resource element. Examples, but not limited to, of such resources are images, xml or binary data. The identifier attribute 'id' is a unique value used to reference the resource from within the data.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
@@ -96,7 +94,7 @@
 
 	<xsd:element name="InternalVersion">
 		<xsd:annotation>
-			<xsd:documentation>A resource contained in the document, e.g. an SVG file</xsd:documentation>
+			<xsd:documentation>A resource contained within the document, such as an image, binary data or XML</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
@@ -122,7 +120,7 @@
 	<xsd:element name="BinaryContent">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>An internally stored document, encoded in base 64 format – a format that allows raw binary files to be stored.</h:p>
+				<h:p>An internally stored document, encoded in Base64 format – a format that allows raw binary files to be stored.</h:p>
 				<h:p>The obvious advantage of holding resources internally is that when transporting a file there are no external files to worry about. A Format attribute can be used to give a hint to a processing application as to the format of the encoded data. The possible values are the same as described for ExternalVersion.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
@@ -132,7 +130,7 @@
 					<xsd:attributeGroup ref="CommonAttributes"/>
 					<xsd:attribute name="Format" type="FileFormatsType">
 						<xsd:annotation>
-							<xsd:documentation>Format of decoded resource</xsd:documentation>
+							<xsd:documentation>The format of the decoded resource</xsd:documentation>
 						</xsd:annotation>
 					</xsd:attribute>
 				</xsd:extension>
@@ -148,9 +146,10 @@
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:any processContents="skip"/>
-			</xsd:sequence>
+			<xsd:choice>
+				<xsd:any namespace="##other" processContents="skip"/>
+				<xsd:any namespace="##targetNamespace" processContents="strict"/>
+			</xsd:choice>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>
@@ -172,22 +171,7 @@
 			<xsd:attribute name="Format" type="FileFormatsType">
 				<xsd:annotation>
 					<xsd:documentation>
-						<h:p>Format of external resource</h:p>
-						<h:ul>
-							<h:li>doc - Word document</h:li>
-							<h:li>eps - EPS graphic</h:li>
-							<h:li>gif - GIF graphic</h:li>
-							<h:li>html - HTML document</h:li>
-							<h:li>jpeg - JPEG graphic</h:li>
-							<h:li>mpeg - MPEG video</h:li>
-							<h:li>png - PNG graphic</h:li>
-							<h:li>rtf - Rich Text Format document</h:li>
-							<h:li>svg- SVG graphic</h:li>
-							<h:li>xml - XML document</h:li>
-							<h:li>pdf - PDF document</h:li>
-							<h:li>tiff - TIFF graphic</h:li>
-						</h:ul>
-						<h:p>If the resource is not one of these formats the value ‘other’ can be used but it should be understood that an application processing the document may not know how to handle the file as it would only have the filename to go by.</h:p>
+						<h:p>The format of the external resource</h:p>
 					</xsd:documentation>
 				</xsd:annotation>
 			</xsd:attribute>
@@ -209,19 +193,71 @@
 
 	<xsd:simpleType name="FileFormatsType">
 		<xsd:restriction base="xsd:string">
-			<xsd:enumeration value="doc"/>
-			<xsd:enumeration value="eps"/>
-			<xsd:enumeration value="gif"/>
-			<xsd:enumeration value="html"/>
-			<xsd:enumeration value="jpeg"/>
-			<xsd:enumeration value="mpeg"/>
-			<xsd:enumeration value="png"/>
-			<xsd:enumeration value="rtf"/>
-			<xsd:enumeration value="svg"/>
-			<xsd:enumeration value="xml"/>
-			<xsd:enumeration value="pdf"/>
-			<xsd:enumeration value="tiff"/>
-			<xsd:enumeration value="other"/>
+			<xsd:enumeration value="doc">
+				<xsd:annotation>
+					<xsd:documentation>Word document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="eps">
+				<xsd:annotation>
+					<xsd:documentation>EPS graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="gif">
+				<xsd:annotation>
+					<xsd:documentation>GIF graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="html">
+				<xsd:annotation>
+					<xsd:documentation>HTML document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="jpeg">
+				<xsd:annotation>
+					<xsd:documentation>JPEG graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="mpeg">
+				<xsd:annotation>
+					<xsd:documentation>MPEG video</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="png">
+				<xsd:annotation>
+					<xsd:documentation>PNG graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="rtf">
+				<xsd:annotation>
+					<xsd:documentation>Rich Text Format document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="svg">
+				<xsd:annotation>
+					<xsd:documentation>SVG graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="xml">
+				<xsd:annotation>
+					<xsd:documentation>XML document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="pdf">
+				<xsd:annotation>
+					<xsd:documentation>PDF document</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="tiff">
+				<xsd:annotation>
+					<xsd:documentation>TIFF graphic</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="other">
+				<xsd:annotation>
+					<xsd:documentation>Unspecified format. Note that an application processing the document may not know how to handle the file</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
 		</xsd:restriction>
 	</xsd:simpleType>
 

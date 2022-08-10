@@ -1,0 +1,108 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31" NumberOfProvisions="40" RestrictEndDate="2010-04-12" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-01-12">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12</dc:identifier>
+		<dc:title>Defamation Act 1996</dc:title>
+		<dc:description> An Act to amend the law of defamation and to amend the law of limitation with respect to actions for defamation or malicious falsehood.</dc:description>
+		<dc:date>1996-07-04</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2016-08-26</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2010-01-12</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1996/31/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1996/31/2010-01-12" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1996/31/introduction/2010-01-12" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1996/31/body/2010-01-12" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1996/31/schedules/2010-01-12" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1996/31/contents/2010-01-12" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/1996-07-04" title="1996-07-04"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2011-03-28" title="2011-03-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/1996-07-04" title="1996-07-04"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2011-03-28" title="2011-03-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1996/31/section/20" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1996/31/2010-01-12" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1996/31/section/19/2010-01-12" title="Provision; Section 19"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1996/31/section/19/2010-01-12" title="Provision; Section 19"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1996/31/schedule/1/paragraph/1/2010-01-12" title="Paragraph; Schedule 1 Paragraph 1"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1996/31/schedule/1/paragraph/1/2010-01-12" title="Paragraph; Schedule 1 Paragraph 1"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1996"/>
+			<ukm:Number Value="31"/>
+			<ukm:EnactmentDate Date="1996-07-04"/>
+			<ukm:ISBN Value="0105431966"/>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/ukpga/1996/31/pdfs/ukpga_19960031_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="40"/>
+			<ukm:BodyParagraphs Value="23"/>
+			<ukm:ScheduleParagraphs Value="17"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/body/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31/body" NumberOfProvisions="23" RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-01-12" RestrictEndDate="2010-04-12">
+			<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/crossheading/general-provisions/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31/crossheading/general-provisions" NumberOfProvisions="3" id="crossheading-general-provisions" RestrictStartDate="2010-01-12" RestrictEndDate="2011-03-28">
+				<Title> General provisions</Title>
+				<P1group RestrictExtent="E+W+S+N.I." RestrictEndDate="2011-03-28" RestrictStartDate="2010-01-12">
+					<Title> Short title and saving.</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31/section/20" id="section-20">
+						<Pnumber>20</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/section/20/1/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31/section/20/1" id="section-20-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>This Act may be cited as the Defamation Act 1996.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1996/31/section/20/2/2010-01-12" IdURI="http://www.legislation.gov.uk/id/ukpga/1996/31/section/20/2" id="section-20-2">
+								<Pnumber><Repeal ChangeId="key-c8de9d2b95f7e47242240739336b0b4c-1472236400541" CommentaryRef="key-c8de9d2b95f7e47242240739336b0b4c" RetainText="true" Extent="E+W">2</Repeal></Pnumber>
+								<P2para>
+									<Text><Repeal ChangeId="key-c8de9d2b95f7e47242240739336b0b4c-1472236400541" CommentaryRef="key-c8de9d2b95f7e47242240739336b0b4c" RetainText="true" Extent="E+W">Nothing in this Act affects the law relating to criminal libel.</Repeal></Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="key-c8de9d2b95f7e47242240739336b0b4c" Type="F"><Para>
+				<Text>S. 20(2) repealed (E.W.) (12.1.2010) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2009/25" id="c9yeqpx12-00005" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="25" Title="Coroners and Justice Act 2009">Coroners and Justice Act 2009 (c. 25)</Citation>, <CitationSubRef id="c9yeqpx12-00006" CitationRef="c9yeqpx12-00005" URI="http://www.legislation.gov.uk/id/ukpga/2009/25/section/182/2/e/x" SectionRef="section-182-2-e-x">s. 182(2)(e)(x)</CitationSubRef>, <CitationSubRef id="c9yeqpx12-00007" CitationRef="c9yeqpx12-00005" URI="http://www.legislation.gov.uk/id/ukpga/2009/25/schedule/23/part/2" SectionRef="schedule-23-part-2" Operative="true">Sch. 23 Pt. 2 Notes 1, 2</CitationSubRef> (with <CitationSubRef id="c9yeqpx12-00008" CitationRef="c9yeqpx12-00005" URI="http://www.legislation.gov.uk/id/ukpga/2009/25/section/180" SectionRef="section-180">s. 180</CitationSubRef>)</Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>

@@ -1,0 +1,194 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/wsi/2022/367/made</dc:identifier>
+		<dc:title>The Crime and Disorder Act 1998 (Additional Authority) (Wales) Order 2022</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2022-03-24</dc:modified>
+		<dc:subject scheme="SIheading">LOCAL GOVERNMENT, WALES</dc:subject>
+		<dc:subject scheme="SIheading">CRIMINAL LAW, WALES</dc:subject>
+		<dc:description>This Order amends section 17(2) of the Crime and Disorder Act 1998 (c. 37) (“the Act”) to add corporate joint committees established under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1) to the list of authorities in section 17(2) of the Act and as such are liable to comply with section 17(1).</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/wsi/2022/367/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/wsi/2022/367/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/wsi/2022/367/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/wsi/2022/367/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/wsi/2022/367/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/wsi/2022/367/body/made" title="body"/>
+
+
+
+
+		<atom:link rel="alternate" hreflang="cy" href="http://www.legislation.gov.uk/wsi/2022/367/made/welsh"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="cy" href="http://www.legislation.gov.uk/wsi/2022/367/contents/made/welsh" title="Table of Contents"/>
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/wsi/2022/367/made/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/wsi/2022/367/pdfs/wsi_20220367_mi.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/wsi/2022/367/contents/made" title="Table of Contents"/>
+
+
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="WelshStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2022"/>
+			<ukm:Number Value="367"/>
+			<ukm:AlternativeNumber Value="89" Category="W"/>
+			<ukm:Made Date="2022-03-23"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2022-03-25"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780348392791"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/wsi/2022/367/pdfs/wsi_20220367_mi.pdf" Date="2022-03-24" Size="376024" Language="Mixed"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/introduction/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/introduction">
+			<Number>2022 No. 367 (W. 89)</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Local Government, Wales</Title>
+				</Subject>
+				<Subject>
+					<Title>Criminal Law, Wales</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Crime and Disorder Act 1998 (Additional Authority) (Wales) Order 2022</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>23 March 2022</DateText>
+			</MadeDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>25 March 2022</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<IntroductoryText>
+					<P>
+						<Text>The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales by section 17(4) of the Crime and Disorder Act 1998<FootnoteRef Ref="f00001"/>, and now vested in them<FootnoteRef Ref="f00002"/>, make the following Order.</Text>
+					</P>
+				</IntroductoryText>
+				<EnactingText>
+					<Para>
+						<Text>A draft of this instrument has been laid before, and approved by a resolution of, Senedd Cymru in accordance with section 114(3)<FootnoteRef Ref="f00003"/> of that Act.</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/body/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/body" NumberOfProvisions="2">
+			<P1group>
+				<Title>Title and coming into force</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/article/1/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/article/1" id="article-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/article/1/1/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/article/1/1" id="article-1-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>The title of this Order is the Crime and Disorder Act 1998 (Additional Authority) (Wales) Order 2022.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/article/1/2/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/article/1/2" id="article-1-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>This Order comes into force on 25 March 2022.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Amendment of section 17 of the Crime and Disorder Act 1998</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/article/2/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/article/2" id="article-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<Text>In section 17(2)<FootnoteRef Ref="f00004"/> of the Crime and Disorder Act 1998, after “a joint authority;” insert <InlineAmendment>“a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) <Citation URI="http://www.legislation.gov.uk/id/asc/2021/1" id="c00001" Class="WelshParliamentAct" Year="2021" Number="0001">Act 2021 (asc 1)</Citation>;”</InlineAmendment>.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/signature/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/signature">
+				<Signatory>
+					<Signee>
+						<PersonName>Rebecca Evans</PersonName>
+						<JobTitle>Minister for Finance and Local Government, one of the Welsh Ministers</JobTitle>
+						<DateSigned Date="2022-03-23">
+							<DateText>23 March 2022</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/wsi/2022/367/note/made" IdURI="http://www.legislation.gov.uk/id/wsi/2022/367/note">
+			<Title>EXPLANATORY NOTE</Title>
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Order)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text Hanging="indented">This Order amends section 17(2) of the Crime and Disorder Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/37" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0037">1998 (c. 37)</Citation> (“<Term>the Act</Term>”) to add corporate joint committees established under Part 5 of the Local Government and Elections (Wales) <Citation URI="http://www.legislation.gov.uk/id/asc/2021/1" id="c00003" Class="WelshParliamentAct" Year="2021" Number="0001">Act 2021 (asc 1)</Citation> to the list of authorities in section 17(2) of the Act and as such are liable to comply with section 17(1).</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">Section 17(1) of the Act requires authorities that are subject to it, to have due regard to the likely effect of the exercise of their functions on, and the need to do all that it reasonably can to prevent crime and disorder in its area, the misuse of drugs, alcohol and other substances in its area, and reoffending in its area.</Text>
+			</P>
+			<P>
+				<Text Hanging="indented">These Regulations are connected with regulations which established certain corporate joint committees under Part 5 of the Local Government and Elections (Wales) Act 2021. The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to the regulations which establish corporate joint committees and connected orders and regulations. As a result, a regulatory impact assessment was prepared at the time of making those establishment regulations and is relied upon for the purpose of this Order. A copy can be obtained from the Local Government Strategic Finance Division, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1998/37" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0037">1998 c. 37</Citation>. Section 17(4) was inserted by the Police and Justice Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/48" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0048">2006 (c. 48)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>The power conferred by section 17(4) of the Crime and Disorder Act 1998 on the National Assembly for Wales, as “the appropriate authority” in accordance with sections 5(7) and 17(5) of that Act, was transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/32" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0032">2006 (c. 32)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text>Section 114(3) was amended by the Police and Justice Act 2006. There are other amendments but none is relevant.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text>Section 17 has been amended by the Police and Justice Act 2006; the Policing and Crime Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2009/26" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0026">2009 (c. 26)</Citation>; the Local Democracy, Economic Development and Construction Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2009/20" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0020">2009 (c. 20)</Citation>; the Policing and Crime Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2017/3" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="2017" Number="0003">2017 (c. 3)</Citation>; the Police Reform and Social Responsibility Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/13" id="c00010" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="0013">2011 (c. 13)</Citation>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/78" id="c00011" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="0078">S.I. 2008/78</Citation>; and the Localism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/20" id="c00012" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="0020">2011 (c. 20)</Citation>. There are other amendments but they are not relevant to this Order.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

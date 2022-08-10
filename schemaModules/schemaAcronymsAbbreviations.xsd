@@ -62,7 +62,7 @@
 	</xsd:element>
 	<xsd:element name="Term">
 		<xsd:annotation>
-			<xsd:documentation>Indicates a term that's defined within the text.</xsd:documentation>
+			<xsd:documentation>Indicates a term that is defined in the adjacent text.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:choice minOccurs="0" maxOccurs="unbounded">

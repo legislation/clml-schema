@@ -1,0 +1,451 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ssi/2012/303/made" IdURI="http://www.legislation.gov.uk/id/ssi/2012/303" NumberOfProvisions="282" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made</dc:identifier>
+		<dc:title>The Council Tax Reduction (Scotland) Regulations 2012</dc:title>
+		<dc:subject>Council tax</dc:subject>
+		<dc:subject>Benefits</dc:subject>
+		<dc:subject>Benefits for parents and children</dc:subject>
+		<dc:subject>Tax</dc:subject>
+		<dc:subject>Paternity rights</dc:subject>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer for Scotland</dc:publisher>
+		<dc:modified>2017-01-30</dc:modified>
+		<dc:subject scheme="SIheading">COUNCIL TAX</dc:subject>
+		<dc:description>These Regulations make provision for a reduction in liability for council tax (“council tax reduction”) for persons who have not reached the qualifying age for state pension credit and for persons who have reached that age and receive income support or income-based jobseeker’s allowance. (Provision relating to a reduction in liability for council tax reduction for those who have reached the qualifying age for state pension credit and do not receive those benefits is contained in the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012.)</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ssi/2012/303/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note" href="http://www.legislation.gov.uk/ssi/2012/303/policy-note" title="Policy Note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/policy-note/toc" href="http://www.legislation.gov.uk/ssi/2012/303/policy-note/contents" title="Policy Note Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ssi/2012/303/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ssi/2012/303/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/ssi/2012/303/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/ssi/2012/303/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ssi/2012/303/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ssi/2012/303/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ssi/2012/303/contents/made" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2013-01-28" title="2013-01-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2013-03-18" title="2013-03-18"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2014-04-01" title="2014-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2015-04-01" title="2015-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2017-04-01" title="2017-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/2020-04-01" title="2020-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/made" title="Schedule 1"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/2/made" title="Paragraph; Schedule 1 Paragraph 2"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/2/made" title="Paragraph; Schedule 1 Paragraph 2"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/4/made" title="Paragraph; Schedule 1 Paragraph 4"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/4/made" title="Paragraph; Schedule 1 Paragraph 4"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="ScottishStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2012"/>
+			<ukm:Number Value="303"/>
+			<ukm:Made Date="2012-11-07"/>
+			<ukm:Laid Date="2012-11-09" Class="ScottishParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2013-01-28"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780111018385"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-3cede12bd5daa2b635276d033375dc27" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-7" Row="7" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 12(1A)(1B)" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 4(b)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-12-1A" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/12/1A" FoundRef="regulation-12">reg. 12(1A)</ukm:Section><ukm:Section Ref="regulation-12-1B" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/12/1B" FoundRef="regulation-12">(1B)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-4-b" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/4/b">reg. 4(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-9d0a48b4d604ed3a1e43aed99307f922" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-8" Row="8" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 4 para. 37(aa)" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 5(a)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/4">sch. 4 </ukm:Section><ukm:Section Ref="schedule-4-paragraph-37-aa" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/4/paragraph/37/aa" FoundRef="schedule-4-paragraph-37">para. 37(aa)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-5-a" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/5/a">reg. 5(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-b3b51f3a0c936dd91fd0912b34eb690d" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-9" Row="9" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 4 para. 70 71" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 5(b)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-4" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/4">sch. 4 </ukm:Section><ukm:Section Ref="schedule-4-paragraph-70" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/4/paragraph/70" FoundRef="schedule-4">para. 70</ukm:Section>
+						<ukm:Section Ref="schedule-4-paragraph-71" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/4/paragraph/71" FoundRef="schedule-4">71</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-5-b" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/5/b">reg. 5(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8214709e77f44e61da6f323bd165836f" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-11" Row="11" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 5 para. 11(1)(i) and word" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 6(a)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-11-1-i" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/11/1/i" FoundRef="schedule-5-paragraph-11">para. 11(1)(i)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-6-a" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/6/a">reg. 6(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-aac2c24b2eb007665cf8f87e638724e6" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-12" Row="12" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 5 para. 25(aa)" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 6(b)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-25-aa" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/25/aa" FoundRef="schedule-5-paragraph-25">para. 25(aa)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-6-b" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/6/b">reg. 6(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-0a9edc3f2ae455794bf90d366baae435" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2020/413" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2020-413-00t5mqo4-13" Row="13" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 5 para. 72" AffectingEffectsExtent="S" AffectingYear="2020" AffectingNumber="413" AffectingProvisions="reg. 6(c)" AffectedYear="2012" AffectedNumber="303" Created="2020-12-05T17:53:05Z" Modified="2020-12-05T17:53:05Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-72" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/72" FoundRef="schedule-5">para. 72</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-6-c" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/6/c">reg. 6(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2020/413/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-d0f15399f03543721679ac0e4b16d9a8" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/51" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-51-2c58tap4-17" Row="17" Type="sum substituted" RequiresApplied="true" AffectedProvisions="sch. 1 para. 3 Table" Comments="in both places" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="51" AffectingProvisions="reg. 7(b)" AffectedYear="2012" AffectedNumber="303" Created="2021-02-03T10:33:29Z" Modified="2021-02-03T10:33:29Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1">sch. 1 </ukm:Section><ukm:Section Ref="schedule-1-paragraph-3" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/3">para. 3</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7-b" URI="http://www.legislation.gov.uk/id/ssi/2021/51/regulation/7/b">reg. 7(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/51/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4620ad7de8bbc8c28b70ce91ba50ae9c" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/73" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-73-32stw6h4-36" Row="36" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 28(11)(f)(ivza)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="73" AffectingProvisions="reg. 13(3)(a)" AffectedYear="2012" AffectedNumber="303" Created="2021-02-17T09:00:39Z" Modified="2021-02-17T09:00:39Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-28-11-f" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/28/11/f">reg. 28(11)(f)</ukm:Section><ukm:Section Ref="regulation-28-11-ivza" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/28/11/ivza" FoundRef="regulation-28">(ivza)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-13-3-a" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/13/3/a">reg. 13(3)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-19" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/19">reg. 19</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-07-26" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f5ac4405c32545a0fdd0077e263e7a6b" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/73" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-73-32stw6h4-38" Row="38" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 67(6)(b)(iiza)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="73" AffectingProvisions="reg. 13(4)(a)" AffectedYear="2012" AffectedNumber="303" Created="2021-02-17T09:00:39Z" Modified="2021-02-17T09:00:39Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-6-b" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/6/b">reg. 67(6)(b)</ukm:Section><ukm:Section Ref="regulation-67-6-iiza" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/6/iiza" FoundRef="regulation-67">(iiza)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-13-4-a" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/13/4/a">reg. 13(4)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-19" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/19">reg. 19</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-07-26" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-e1805d20a0f19305379e1695c924dfa6" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/73" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-73-32stw6h4-48" Row="48" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 1 para. 12(1)(bza)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="73" AffectingProvisions="reg. 13(5)(h)(ii)" AffectedYear="2012" AffectedNumber="303" Created="2021-02-17T09:00:39Z" Modified="2021-02-17T09:00:39Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1">sch. 1 </ukm:Section><ukm:Section Ref="schedule-1-paragraph-12-1-bza" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/12/1/bza" FoundRef="schedule-1-paragraph-12">para. 12(1)(bza)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-13-5-h-ii" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/13/5/h/ii">reg. 13(5)(h)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-19" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/19">reg. 19</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/73/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-07-26" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-868d5c486616d3d36cfb25c5027dc83a" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/122" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-122-3zny8nc4-8" Row="8" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 1 para. 12(4)(5)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="122" AffectingProvisions="reg. 4" AffectedYear="2012" AffectedNumber="303" Created="2021-03-17T11:01:41Z" Modified="2021-03-17T11:01:41Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1">sch. 1 </ukm:Section><ukm:Section Ref="schedule-1-paragraph-12-4" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/12/4" FoundRef="schedule-1-paragraph-12">para. 12(4)</ukm:Section><ukm:Section Ref="schedule-1-paragraph-12-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/12/5" FoundRef="schedule-1-paragraph-12">(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Children and Young People (Consequential Amendments) (Scotland) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-4" URI="http://www.legislation.gov.uk/id/ssi/2021/122/regulation/4">reg. 4</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/122/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-07-26" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-06451df3f39f9853e47fe3fc46032be1" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/137" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-137-40bwyp44-6" Row="6" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 32(4)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="137" AffectingProvisions="reg. 4" AffectedYear="2012" AffectedNumber="303" Created="2021-03-15T15:31:51Z" Modified="2021-03-15T15:31:51Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-32-4" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/32/4" FoundRef="regulation-32">reg. 32(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 3) (Coronavirus) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-4" URI="http://www.legislation.gov.uk/id/ssi/2021/137/regulation/4">reg. 4</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/137/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-04-05" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1b90ad5c63ab0fa2990b641c0a42459e" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/137" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-137-40bwyp44-7" Row="7" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 5 para. 74" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="137" AffectingProvisions="reg. 5" AffectedYear="2012" AffectedNumber="303" Created="2021-03-15T15:31:51Z" Modified="2021-03-15T15:31:51Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-74" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/74" FoundRef="schedule-5">para. 74</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 3) (Coronavirus) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-5" URI="http://www.legislation.gov.uk/id/ssi/2021/137/regulation/5">reg. 5</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/137/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-04-05" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-ce003b45ea15f615929399ddc30d6b64" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/337" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-337-bti9sal4-6" Row="6" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 16(5)(e)(iv) and word" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="337" AffectingProvisions="reg. 2(2)(b)" AffectedYear="2012" AffectedNumber="303" Created="2021-09-29T15:46:22Z" Modified="2021-09-29T15:46:22Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-16-5-e-iv" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/16/5/e/iv" FoundRef="regulation-16">reg. 16(5)(e)(iv)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-2-2-b" URI="http://www.legislation.gov.uk/id/ssi/2021/337/regulation/2/2/b">reg. 2(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/337/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-09-24" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-0ea2c6eb819aa491c255b55e1396b8c9" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/337" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-337-bti9sal4-7" Row="7" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 16(5)(j)(k)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="337" AffectingProvisions="reg. 2(3)" AffectedYear="2012" AffectedNumber="303" Created="2021-09-29T15:46:22Z" Modified="2021-09-29T15:46:22Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-16-5-j" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/16/5/j" FoundRef="regulation-16">reg. 16(5)(j)</ukm:Section><ukm:Section Ref="regulation-16-5-k" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/16/5/k" FoundRef="regulation-16">(k)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-2-3" URI="http://www.legislation.gov.uk/id/ssi/2021/337/regulation/2/3">reg. 2(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/337/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-09-24" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-59945e23fa51c3f8f4505e4749fab3da" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/12" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-59945e23fa51c3f8f4505e4749fab3da" Row="11" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 34(2)(ba)" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="12" AffectingProvisions="reg. 5" AffectedYear="2012" AffectedNumber="303" Modified="2021-10-14T09:23:56Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-34-2-ba" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/34/2/ba" FoundRef="regulation-34">reg. 34(2)(ba)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (Coronavirus) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-5" URI="http://www.legislation.gov.uk/id/ssi/2021/12/regulation/5">reg. 5</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/12/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-25" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-c91f3c37ef9ea513b762bf94703fa4db" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/12" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-c91f3c37ef9ea513b762bf94703fa4db" Row="13" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 5 para. 73" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="12" AffectingProvisions="reg. 7" AffectedYear="2012" AffectedNumber="303" Modified="2021-10-14T09:23:56Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-73" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/73" FoundRef="schedule-5">para. 73</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (Coronavirus) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-7" URI="http://www.legislation.gov.uk/id/ssi/2021/12/regulation/7">reg. 7</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/12/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2021-02-25" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-64a5bd755551700c6a6eac6fa14fea35" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/402" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2021-402-dptvr1s4-5" Row="5" Type="inserted" RequiresApplied="true" AffectedProvisions="Sch. 5 para. 75" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="402" AffectingProvisions="reg. 2(2)" AffectedYear="2012" AffectedNumber="303" Created="2021-11-10T12:50:51Z" Modified="2021-11-10T12:50:51Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-75" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/5/paragraph/75" FoundRef="schedule-5">para. 75</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment (No. 5) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-2-2" URI="http://www.legislation.gov.uk/id/ssi/2021/402/regulation/2/2">reg. 2(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/402/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-01-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1e13e0b703ce05803fc4481ea976f9e0" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2021/249" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-853d92f07056f85c10203f074a73ec5a" Row="235" Type="revoked (except regs. 2 (in part), 37, 38, sch. 4 paras. 37, 38)" RequiresApplied="true" AffectedProvisions="Regulations" AffectingEffectsExtent="S" AffectingYear="2021" AffectingNumber="249" AffectingProvisions="sch. 6" AffectedYear="2012" AffectedNumber="303" Modified="2022-04-12T12:43:25Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Regulations</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Regulations 2021</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-6" URI="http://www.legislation.gov.uk/id/ssi/2021/249/schedule/6">sch. 6</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/2">reg. 2</ukm:Section>
+						<ukm:SectionRange Start="regulation-97" URI="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/97" End="regulation-101" UpTo="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/101"><ukm:Section Ref="regulation-97" URI="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/97">97</ukm:Section>-<ukm:Section Ref="regulation-101" URI="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/101">101</ukm:Section></ukm:SectionRange></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2021/249/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2e6c4d686aa8c5247927283a38c7e0a4" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2018/69" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-2e6c4d686aa8c5247927283a38c7e0a4" Row="161" Type="word substituted" RequiresApplied="false" AffectedProvisions="reg. 67(2)(b)(bb)" AffectingEffectsExtent="S" AffectingYear="2018" AffectingNumber="69" AffectingProvisions="reg. 8(b)(ii)" AffectedYear="2012" AffectedNumber="303" Modified="2020-06-15T09:09:35Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-2-b" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/b">reg. 67(2)(b)</ukm:Section><ukm:Section Ref="regulation-67-2-bb" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/bb" FoundRef="regulation-67">(bb)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-8-b-ii" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/8/b/ii">reg. 8(b)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2018-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-517bd94e5e5a3589f60cd2387099b86d" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2018/69" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-517bd94e5e5a3589f60cd2387099b86d" Row="163" Type="word substituted" RequiresApplied="false" AffectedProvisions="reg. 67(2)(b)(cc)" AffectingEffectsExtent="S" AffectingYear="2018" AffectingNumber="69" AffectingProvisions="reg. 8(b)(ii)" AffectedYear="2012" AffectedNumber="303" Modified="2020-06-15T09:09:35Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-2-b" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/b">reg. 67(2)(b)</ukm:Section><ukm:Section Ref="regulation-67-2-cc" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/cc" FoundRef="regulation-67">(cc)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-8-b-ii" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/8/b/ii">reg. 8(b)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2018-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f9b4f93f103d7e24c09e7ac4928b839e" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2018/69" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f9b4f93f103d7e24c09e7ac4928b839e" Row="182" Type="word substituted" RequiresApplied="false" AffectedProvisions="reg. 67(2)(c)(aa)" AffectingEffectsExtent="S" AffectingYear="2018" AffectingNumber="69" AffectingProvisions="reg. 8(b)(iii)" AffectedYear="2012" AffectedNumber="303" Modified="2020-06-15T09:09:35Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-2-c" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/c">reg. 67(2)(c)</ukm:Section><ukm:Section Ref="regulation-67-2-aa" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/aa" FoundRef="regulation-67">(aa)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-8-b-iii" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/8/b/iii">reg. 8(b)(iii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2018-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-b647ab284638cad2746d0b62db0f2ab0" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2018/69" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-b647ab284638cad2746d0b62db0f2ab0" Row="183" Type="word substituted" RequiresApplied="false" AffectedProvisions="reg. 67(2)(c)(bb)" AffectingEffectsExtent="S" AffectingYear="2018" AffectingNumber="69" AffectingProvisions="reg. 8(b)(iii)" AffectedYear="2012" AffectedNumber="303" Modified="2020-06-15T09:09:35Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-2-c" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/c">reg. 67(2)(c)</ukm:Section><ukm:Section Ref="regulation-67-2-bb" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/bb" FoundRef="regulation-67">(bb)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-8-b-iii" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/8/b/iii">reg. 8(b)(iii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2018-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-77130b42a85c124737126417fc2361e1" AffectedClass="ScottishStatutoryInstrument" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectingURI="http://www.legislation.gov.uk/id/ssi/2018/69" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-77130b42a85c124737126417fc2361e1" Row="184" Type="word substituted" RequiresApplied="false" AffectedProvisions="reg. 67(2)(c)(cc)" AffectingEffectsExtent="S" AffectingYear="2018" AffectingNumber="69" AffectingProvisions="reg. 8(b)(iii)" AffectedYear="2012" AffectedNumber="303" Modified="2020-06-15T09:09:35Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-67-2-c" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/c">reg. 67(2)(c)</ukm:Section><ukm:Section Ref="regulation-67-2-cc" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/67/2/cc" FoundRef="regulation-67">(cc)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Council Tax Reduction (Scotland) Amendment Regulations 2018</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-8-b-iii" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/8/b/iii">reg. 8(b)(iii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2018/69/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2018-04-01" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4c5af98a25524324312a4b2338b4902e" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2022/31" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2022-31-h941qe84-34" Row="34" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 28(11)(f)(va)" AffectingEffectsExtent="S" AffectingYear="2022" AffectingNumber="31" AffectingProvisions="reg. 13(3)(a)" AffectedYear="2012" AffectedNumber="303" Created="2022-02-03T07:04:55Z" Modified="2022-02-03T07:04:55Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-28-11-f" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/28/11/f">reg. 28(11)(f)</ukm:Section><ukm:Section Ref="regulation-28-11-va" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/28/11/va" FoundRef="regulation-28">(va)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-13-3-a" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/13/3/a">reg. 13(3)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-20" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/20">reg. 20</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-03-21" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2a0c861650d3cc7c38327afae15270d6" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2022/31" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2022-31-h941qe84-47" Row="47" Type="inserted" RequiresApplied="true" AffectedProvisions="sch. 1 para. 12(d) and word" AffectingEffectsExtent="S" AffectingYear="2022" AffectingNumber="31" AffectingProvisions="reg. 13(5)(d)" AffectedYear="2012" AffectedNumber="303" Created="2022-02-03T07:04:55Z" Modified="2022-02-03T07:04:55Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1">sch. 1 </ukm:Section><ukm:Section Ref="schedule-1-paragraph-12-d" URI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/12/d" FoundRef="schedule-1-paragraph-12">para. 12(d)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-13-5-d" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/13/5/d">reg. 13(5)(d)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-20" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/20">reg. 20</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/ssi/2022/31/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-03-21" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-bd9d1a110569ba129cf687c7c5a5bacd" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2022/108" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2022-108-iyj9l374-33" Row="33" Type="word substituted" RequiresApplied="true" AffectedProvisions="reg. 16(5)(k)" AffectingEffectsExtent="S" AffectingYear="2022" AffectingNumber="108" AffectingProvisions="reg. 9(2)(c)" AffectedYear="2012" AffectedNumber="303" Created="2022-03-29T09:17:48Z" Modified="2022-03-29T09:17:48Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-16-5-k" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/16/5/k" FoundRef="regulation-16">reg. 16(5)(k)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-9-2-c" URI="http://www.legislation.gov.uk/id/ssi/2022/108/regulation/9/2/c">reg. 9(2)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/ssi/2022/108/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-03-22" Qualification="Other" OtherQualification="at 5.40 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-fa084e390ac69eef4d814530e31e59ad" AffectedURI="http://www.legislation.gov.uk/id/ssi/2012/303" AffectedClass="ScottishStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/ssi/2022/108" AffectingClass="ScottishStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/ssi-2022-108-iyj9l374-34" Row="34" Type="inserted" RequiresApplied="true" AffectedProvisions="reg. 16(5)(l) and word" AffectingEffectsExtent="S" AffectingYear="2022" AffectingNumber="108" AffectingProvisions="reg. 9(2)(d)" AffectedYear="2012" AffectedNumber="303" Created="2022-03-29T09:17:48Z" Modified="2022-03-29T09:17:48Z">
+					<ukm:AffectedTitle>The Council Tax Reduction (Scotland) Regulations 2012</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="regulation-16-5-l" URI="http://www.legislation.gov.uk/id/ssi/2012/303/regulation/16/5/l" FoundRef="regulation-16">reg. 16(5)(l)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-9-2-d" URI="http://www.legislation.gov.uk/id/ssi/2022/108/regulation/9/2/d">reg. 9(2)(d)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/ssi/2022/108/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2022-03-22" Qualification="Other" OtherQualification="at 5.40 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ssi/2012/303/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2012/303/pdfs/ssipn_20120303_en.pdf" Date="2012-11-13" Title="Policy Note" Size="15505"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/ssi/2012/303/pdfs/ssi_20120303_en.pdf" Date="2012-11-13" Size="572635"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="282"/>
+			<ukm:BodyParagraphs Value="94"/>
+			<ukm:ScheduleParagraphs Value="188"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="1"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/made" IdURI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1" NumberOfProvisions="29" id="schedule-1" NumberFormat="default">
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>Applicable amount</Title>
+				</TitleBlock>
+				<ScheduleBody>
+					<Part DocumentURI="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/part/1/made" IdURI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/part/1" NumberOfProvisions="3" id="schedule-1-part-1">
+						<Number>PART 1</Number>
+						<Title>Personal Allowances</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ssi/2012/303/schedule/1/paragraph/3/made" IdURI="http://www.legislation.gov.uk/id/ssi/2012/303/schedule/1/paragraph/3" id="schedule-1-paragraph-3">
+							<Pnumber>3</Pnumber>
+							<P1para>
+								<Text>The amounts specified in column (2) below in respect of each person specified in column (1) are, for the relevant period specified in column (1), the amounts specified for the purposes of regulations 21(b) and 22(c)—</Text>
+								<Tabular Orientation="portrait">
+									<table xmlns="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" cols="2">
+										<colgroup span="1">
+											<col width="311.4pt" span="1"/>
+											<col width="115pt" span="1"/>
+										</colgroup>
+										<thead>
+											<tr>
+												<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Column (1)</th>
+												<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Column (2)</th>
+											</tr>
+											<tr>
+												<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Child or Young Person</th>
+												<th rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">Amount</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black">A person in respect of the period—</td>
+												<td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black"/>
+											</tr>
+											<tr>
+												<td rowspan="1" colspan="1">
+													<OrderedList xmlns="http://www.legislation.gov.uk/namespaces/legislation" Decoration="parens" Type="alpha">
+														<ListItem>
+															<Para>
+																<Text>beginning on that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday;</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</td>
+												<td rowspan="1" colspan="1">£64.99</td>
+											</tr>
+											<tr>
+												<td rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+													<OrderedList xmlns="http://www.legislation.gov.uk/namespaces/legislation" Decoration="parens" Type="alpha" Start="2">
+														<ListItem>
+															<Para>
+																<Text>beginning on the first Monday in September following that person’s sixteenth birthday and ending on the day preceding that person’s twentieth birthday.</Text>
+															</Para>
+														</ListItem>
+													</OrderedList>
+												</td>
+												<td rowspan="1" colspan="1" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">£64.99</td>
+											</tr>
+										</tbody>
+									</table>
+								</Tabular>
+							</P1para>
+						</P1>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Secondary>
+</Legislation>

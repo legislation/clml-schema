@@ -1,0 +1,82 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2019/1402" IdURI="http://www.legislation.gov.uk/id/uksi/2019/1402" NumberOfProvisions="24" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2020-12-31">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2019/1402</dc:identifier>
+		<dc:title>The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019</dc:title>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:subject scheme="SIheading">EXITING THE EUROPEAN UNION</dc:subject>
+		<dc:subject scheme="SIheading">AGRICULTURE</dc:subject>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2021-09-06</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2020-12-31</dct:valid>
+		<dc:description>These Regulations are made in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (b), (d) and (g)) arising from the withdrawal of the UK from the European Union.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2019/1402/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2019/1402/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2019/1402/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2019/1402/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2019/1402" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2019/1402/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2019/1402/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2019/1402/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2019/1402/body" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2019/1402/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2019/1402/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2019/1402/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2019/1402/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2019/1402/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2019/1402/pdfs/uksi_20191402_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2019/1402/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2019/1402/made" title="made"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2019/1402/2020-12-31" title="2020-12-31"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2019/9780111189078" title="The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019"/>
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="revised"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2019"/>
+			<ukm:Number Value="1402"/>
+			<ukm:Made Date="2019-10-28"/>
+			<ukm:ISBN Value="9780111191033"/>
+		</ukm:SecondaryMetadata>
+		<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2019/9780111189078">
+			<dc:title>The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019</dc:title>
+			<ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/>
+			<ukm:Year Value="2019"/>
+			<ukm:ISBN Value="9780111189078"/>
+		</ukm:Supersedes>
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2019/1402/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/1402/pdfs/uksiem_20191402_en.pdf" Date="2019-10-30" Title="UK Explanatory Memorandum" Size="112318"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2019/1402/pdfs/uksi_20191402_en.pdf" Date="2019-10-30" Size="70645"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="24"/>
+			<ukm:BodyParagraphs Value="24"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

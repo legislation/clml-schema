@@ -1,0 +1,704 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/2007/29" IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29" NumberOfProvisions="996" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S" RestrictStartDate="2020-12-31">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/2007/29</dc:identifier>
+		<dc:title>Legal Services Act 2007</dc:title>
+		<dc:description>An Act to make provision for the establishment of the Legal Services Board and in respect of its functions; to make provision for, and in connection with, the regulation of persons who carry on certain legal activities; to make provision for the establishment of the Office for Legal Complaints and for a scheme to consider and determine legal complaints; to make provision about claims management services and about immigration advice and immigration services; to make provision in respect of legal representation provided free of charge; to make provision about the application of the Legal Profession and Legal Aid (Scotland) Act 2007; to make provision about the Scottish legal services ombudsman; and for connected purposes.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2021-07-02</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2020-12-31</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/2007/29/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/2007/29/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/ukpga/2007/29/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/ukpga/2007/29/notes/contents" title="Explanatory Notes Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/2007/29" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/2007/29/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/2007/29/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/2007/29/schedules" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/2007/29/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/2007/29/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/2007/29/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/2007/29/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/2007/29/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/ukpga/2007/29/pdfs/ukpga_20070029_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/2007/29/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/2007/29/2020-12-01" title="2020-12-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2007-10-30" title="2007-10-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2008-03-07" title="2008-03-07"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2008-06-30" title="2008-06-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2008-10-01" title="2008-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2008-10-14" title="2008-10-14"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2009-01-01" title="2009-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2009-03-31" title="2009-03-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2009-07-01" title="2009-07-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2009-11-12" title="2009-11-12"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2009-12-30" title="2009-12-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-01-01" title="2010-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-01-18" title="2010-01-18"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-04-01" title="2010-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-08-02" title="2010-08-02"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-10-01" title="2010-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-10-06" title="2010-10-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2010-11-30" title="2010-11-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-01-01" title="2011-01-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-04-01" title="2011-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-04-04" title="2011-04-04"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-04-22" title="2011-04-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-07-13" title="2011-07-13"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-09-12" title="2011-09-12"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-09-30" title="2011-09-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-10-01" title="2011-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-10-06" title="2011-10-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-12-23" title="2011-12-23"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2011-12-31" title="2011-12-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2012-03-14" title="2012-03-14"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2012-07-17" title="2012-07-17"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2012-09-18" title="2012-09-18"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2012-10-01" title="2012-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-01-31" title="2013-01-31"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-02-01" title="2013-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-04-01" title="2013-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-07-26" title="2013-07-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-09-19" title="2013-09-19"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2013-10-07" title="2013-10-07"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2014-03-21" title="2014-03-21"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2014-04-01" title="2014-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2014-04-22" title="2014-04-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2014-07-18" title="2014-07-18"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2014-12-09" title="2014-12-09"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2015-01-20" title="2015-01-20"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2015-01-28" title="2015-01-28"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2015-06-29" title="2015-06-29"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2015-10-01" title="2015-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2015-11-01" title="2015-11-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2017-04-06" title="2017-04-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2018-05-25" title="2018-05-25"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2018-06-27" title="2018-06-27"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2018-10-01" title="2018-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2018-11-29" title="2018-11-29"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2019-04-01" title="2019-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2020-04-06" title="2020-04-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2020-12-01" title="2020-12-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2007/29/2020-12-31" title="2020-12-31"/>
+
+
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2007"/>
+			<ukm:Number Value="29"/>
+			<ukm:EnactmentDate Date="2007-10-30"/>
+			<ukm:ISBN Value="9780105429074"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-a57fa7353a05c779b37add28d9d3c50c" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2008/4" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-a57fa7353a05c779b37add28d9d3c50c" Row="65" Type="repealed" RequiresApplied="true" AffectedProvisions="Sch. 21 para. 73" AffectedExtent="E+W" AffectedEffectsExtent="Same as affected" AffectingEffectsExtent="Same as affected" AffectingYear="2008" AffectingNumber="4" AffectingProvisions="Sch. 28 Pt. 8" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-21" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/21">Sch. 21 </ukm:Section><ukm:Section Ref="schedule-21-paragraph-73" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/21/paragraph/73">para. 73</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Criminal Justice and Immigration Act 2008</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-28" URI="http://www.legislation.gov.uk/id/ukpga/2008/4/schedule/28">Sch. 28 </ukm:Section><ukm:Section Ref="schedule-28-part-8" URI="http://www.legislation.gov.uk/id/ukpga/2008/4/schedule/28/part/8">Pt. 8</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-153-7" URI="http://www.legislation.gov.uk/id/ukpga/2008/4/section/153/7">s. 153(7)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-d6d659731b03cce30af4752a67b5272b" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d6d659731b03cce30af4752a67b5272b" Row="9" Type="modified" RequiresApplied="false" AffectedProvisions="s. 111(2)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(3)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-111-2" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/111/2">s. 111(2)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-3" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/3">para. 13(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-03c998337d12dfde7628544f8e8057cc" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-03c998337d12dfde7628544f8e8057cc" Row="10" Type="substituted for s. 111(2)(c)" RequiresApplied="false" AffectedProvisions="s. 111(2)(c)(ca)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(2)(a)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-111-2-c" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/111/2/c">s. 111(2)(c)</ukm:Section><ukm:Section Ref="section-111-2-ca" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/111/2/ca" FoundRef="section-111">(ca)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-2-a" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/2/a">para. 13(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f9357722a95ad357064805d80424dd7e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f9357722a95ad357064805d80424dd7e" Row="12" Type="words substituted" RequiresApplied="false" AffectedProvisions="s. 111(2)(d)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(2)(b)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-111-2-d" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/111/2/d">s. 111(2)(d)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-2-b" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/2/b">para. 13(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-bd9087f3362dff7aa08d515bf3aedb1e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-bd9087f3362dff7aa08d515bf3aedb1e" Row="14" Type="omitted" RequiresApplied="false" AffectedProvisions="s. 111(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(2)(c)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-111-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/111/3">s. 111(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-2-c" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/2/c">para. 13(2)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-c0970a208167888ca56e7ee7fd0c9465" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-c0970a208167888ca56e7ee7fd0c9465" Row="17" Type="word inserted" RequiresApplied="false" AffectedProvisions="s. 190(5)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(4)(a)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-190-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/190/5">s. 190(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-4-a" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/4/a">para. 13(4)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-b222963a617cf06c7a3bf0661aeceec9" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-b222963a617cf06c7a3bf0661aeceec9" Row="18" Type="modified" RequiresApplied="false" AffectedProvisions="s. 190(5)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(5)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-190-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/190/5">s. 190(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-5" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/5">para. 13(5)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1ea4873735ae7c088560bbcc78b6801d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1ea4873735ae7c088560bbcc78b6801d" Row="19" Type="words inserted by S.I. 2019/375, Sch. para. 13(4) (as substituted)" RequiresApplied="false" AffectedProvisions="s. 190(5)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(i)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-190-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/190/5">s. 190(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-i" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/i">reg. 3(12)(m)(i)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-2ae75e6ecc71fa99a6f69b24ce283477" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-2ae75e6ecc71fa99a6f69b24ce283477" Row="20" Type="modified by S.I. 2019/375, Sch. para. 13(5) (as substituted)" RequiresApplied="false" AffectedProvisions="s. 190(5)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(ii)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-190-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/190/5">s. 190(5)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-ii" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/ii">reg. 3(12)(m)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1f51d78fe6684deba7b2b4dcf3a11a99" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1f51d78fe6684deba7b2b4dcf3a11a99" Row="21" Type="omitted" RequiresApplied="false" AffectedProvisions="s. 190(5)(i) and word" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(4)(b)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-190-5-i" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/190/5/i">s. 190(5)(i)</ukm:Section> and word</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-4-b" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/4/b">para. 13(4)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-bad4bd330d081af93da6a0086cc4e510" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-bad4bd330d081af93da6a0086cc4e510" Row="23" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 3 para. 7" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(6)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-7" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3/paragraph/7">para. 7</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-6" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/6">para. 13(6)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4a0404558b2aa500d226365f4b385945" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4a0404558b2aa500d226365f4b385945" Row="24" Type="words inserted by S.I. 2019/375, Sch. para. 13(6)(a) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 3 para. 7" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iii)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-7" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3/paragraph/7">para. 7</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iii" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iii">reg. 3(12)(m)(iii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-ade0ec7f587f5bfb445d44992a5c7b3a" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-ade0ec7f587f5bfb445d44992a5c7b3a" Row="25" Type="words inserted by S.I. 2019/375, Sch. para. 13(6)(b) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 3 para. 7" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iii)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3">Sch. 3 </ukm:Section><ukm:Section Ref="schedule-3-paragraph-7" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/3/paragraph/7">para. 7</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iii" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iii">reg. 3(12)(m)(iii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-491abc802c151cbab785e308e36aa670" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-491abc802c151cbab785e308e36aa670" Row="28" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(a)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5">para. 5</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-a" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/a">para. 13(7)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-808d50ff4e861bc2b6ea6158dba41656" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-808d50ff4e861bc2b6ea6158dba41656" Row="29" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(b)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5">para. 5</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-b" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/b">para. 13(7)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3f6f8034c66332cb0306bd3ef032faa6" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3f6f8034c66332cb0306bd3ef032faa6" Row="30" Type="modified by S.I. 2019/375, Sch. para. 13(7)(b) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5">para. 5</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f81f4d7e4a6521fdb2a1ebd1b24f131e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-f81f4d7e4a6521fdb2a1ebd1b24f131e" Row="31" Type="words substituted by S.I. 2019/375, Sch. para. 13(7)(a)(i) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5(1)(b)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5-1-b" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5/1/b">para. 5(1)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-d508adea7a73a87874d359f73478a763" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-d508adea7a73a87874d359f73478a763" Row="33" Type="words inserted by S.I. 2019/375, Sch. para. 13(7)(a)(ii)(aa) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5/3">para. 5(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-9d088a83445ce0a2a6174d3b35fc996d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-9d088a83445ce0a2a6174d3b35fc996d" Row="34" Type="words substituted by S.I. 2019/375, Sch. para. 13(7)(a)(ii)(bb) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 5(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-5-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/5/3">para. 5(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1f451a9a06fc228302b7562737be645d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1f451a9a06fc228302b7562737be645d" Row="37" Type="words omitted" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 7(4)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(c)(i)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-7-4" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/7/4">para. 7(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-c-i" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/c/i">para. 13(7)(c)(i)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-773ff479edea701261e3c2f23be7456b" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-773ff479edea701261e3c2f23be7456b" Row="38" Type="words omitted" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 7(4)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(c)(ii)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-7-4" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/7/4">para. 7(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-c-ii" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/c/ii">para. 13(7)(c)(ii)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-0ebf44f643c66dd03ea5690b60c94573" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-0ebf44f643c66dd03ea5690b60c94573" Row="39" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 7(4)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(d)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-7-4" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/7/4">para. 7(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-d" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/d">para. 13(7)(d)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-8603e8fea4b9ea2f58a392373a395fca" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-8603e8fea4b9ea2f58a392373a395fca" Row="40" Type="words inserted by S.I. 2019/375, Sch. para. 13(7)(c) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 7(4)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-7-4" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/7/4">para. 7(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-c5645c8a69aa440fb698c873c3d3ad46" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-c5645c8a69aa440fb698c873c3d3ad46" Row="41" Type="modified by S.I. 2019/375, Sch. para. 13(7)(d) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 7(4)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-7-4" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/7/4">para. 7(4)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-58f85fd1dd5e3b8f60454a47f53c8b37" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-58f85fd1dd5e3b8f60454a47f53c8b37" Row="43" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(e)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8">para. 8</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-e" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/e">para. 13(7)(e)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-4ac38dac21c90134c11a8eeec5931d18" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4ac38dac21c90134c11a8eeec5931d18" Row="44" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(7)(f)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8">para. 8</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-7-f" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/7/f">para. 13(7)(f)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3819896296e85a1437a0c1dd38e435d3" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3819896296e85a1437a0c1dd38e435d3" Row="45" Type="modified by S.I. 2019/375, Sch. para. 13(7)(f) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8">para. 8</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-91b25ac3b81ebef8120578f468164c6a" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-91b25ac3b81ebef8120578f468164c6a" Row="46" Type="words substituted by S.I. 2019/375, Sch. para. 13(7)(e)(i) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8(1)(b)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8-1-b" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8/1/b">para. 8(1)(b)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3c4e3bfb7d294f3faffa536dbcd389c7" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3c4e3bfb7d294f3faffa536dbcd389c7" Row="48" Type="words inserted by S.I. 2019/375, Sch. para. 13(7)(e)(ii)(aa) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8/3">para. 8(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-9c6c5598e62d776a5cd819a945def37d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-9c6c5598e62d776a5cd819a945def37d" Row="49" Type="words substituted by S.I. 2019/375, Sch. para. 13(7)(e)(ii)(bb) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 5 para. 8(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(iv)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-8-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/8/3">para. 8(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-iv" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/iv">reg. 3(12)(m)(iv)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-bd9a3f0906bb490cd8c0e131347e944e" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/269" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-bd9a3f0906bb490cd8c0e131347e944e" Row="52" Type="repealed" RequiresApplied="false" AffectedProvisions="Sch. 12 para. 110" Notes="This amendment not applied to legislation.gov.uk. Amending words substituted immediately before IP completion day by S.I. 2020/1050, regs.1(2), 12" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+S+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="269" AffectingProvisions="Sch. 5 para. 6" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-12" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/12">Sch. 12 </ukm:Section><ukm:Section Ref="schedule-12-paragraph-110" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/12/paragraph/110" FoundRef="schedule-12">para. 110</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-5" URI="http://www.legislation.gov.uk/id/uksi/2019/269/schedule/5">Sch. 5 </ukm:Section><ukm:Section Ref="schedule-5-paragraph-6" URI="http://www.legislation.gov.uk/id/uksi/2019/269/schedule/5/paragraph/6">para. 6</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/269/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-04f00c90337edbf75109feb7fe3fbfac" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-04f00c90337edbf75109feb7fe3fbfac" Row="53" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(8)(a)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20">para. 20</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-8-a" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/8/a">para. 13(8)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-376e6cf23d8d1586f606543851321645" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-376e6cf23d8d1586f606543851321645" Row="54" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(8)(b)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20">para. 20</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-8-b" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/8/b">para. 13(8)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3fb5581c95baf019955e241617836944" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3fb5581c95baf019955e241617836944" Row="55" Type="modified by S.I. 2019/375, Sch. para. 13(8)(b) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20">para. 20</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1405bdd828259d0b2428f4374bb6bf44" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-1405bdd828259d0b2428f4374bb6bf44" Row="56" Type="words substituted by S.I. 2019/375, Sch. para. 13(8)(a)(i) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20(1)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20-1" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20/1">para. 20(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-28e6b4544cff4fe252c64c46155ab30f" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-28e6b4544cff4fe252c64c46155ab30f" Row="57" Type="words inserted by S.I. 2019/375, Sch. para. 13(8)(a)(ii)(aa) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20/3">para. 20(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3dafc9e2af8f6c819d6ca918548e2ae2" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3dafc9e2af8f6c819d6ca918548e2ae2" Row="58" Type="words substituted by S.I. 2019/375, Sch. para. 13(8)(a)(ii)(bb) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 20(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-20-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/20/3">para. 20(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-6fba7773f27841a84828fea2a493bf23" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-6fba7773f27841a84828fea2a493bf23" Row="59" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(8)(c)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22">para. 22</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-8-c" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/8/c">para. 13(8)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-40ed55563642dc2af43fd9aa57cf56af" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-40ed55563642dc2af43fd9aa57cf56af" Row="60" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(8)(d)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22">para. 22</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-8-d" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/8/d">para. 13(8)(d)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-de35dfafe2646869bae99c1ea3be4029" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-de35dfafe2646869bae99c1ea3be4029" Row="61" Type="modified by S.I. 2019/375, Sch. para. 13(8)(d) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22">para. 22</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-57092f183ba1bff3e572f2c62c919596" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-57092f183ba1bff3e572f2c62c919596" Row="62" Type="words substituted by S.I. 2019/375, Sch. para. 13(8)(c)(i) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22(1)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22-1" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22/1">para. 22(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-3ad28ce0b81e4953a6a1b49253f8e8b0" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-3ad28ce0b81e4953a6a1b49253f8e8b0" Row="63" Type="words inserted by S.I. 2019/375, Sch. para. 13(8)(c)(ii)(aa) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22/3">para. 22(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-86769e2518829febd0cda0934ea8082a" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-86769e2518829febd0cda0934ea8082a" Row="64" Type="words substituted by S.I. 2019/375, Sch. para. 13(8)(c)(ii)(bb) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 18 para. 22(3)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(v)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-18" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18">Sch. 18 </ukm:Section><ukm:Section Ref="schedule-18-paragraph-22-3" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/22/3">para. 22(3)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-v" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/v">reg. 3(12)(m)(v)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-90e8ad90275c18e6abbf1c63eee82ff4" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-90e8ad90275c18e6abbf1c63eee82ff4" Row="71" Type="omitted" RequiresApplied="false" AffectedProvisions="Sch. 22 para. 15(1)(d)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(9)(a)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-15-1-d" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/15/1/d">para. 15(1)(d)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-9-a" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/9/a">para. 13(9)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-21e49cb1aaef3b618b7e04f440bee6b6" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/375" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-21e49cb1aaef3b618b7e04f440bee6b6" Row="72" Type="modified" RequiresApplied="false" AffectedProvisions="Sch. 22 para. 15(1)(d)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/375 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(c)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="375" AffectingProvisions="Sch. para. 13(9)(b)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-15-1-d" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/15/1/d">para. 15(1)(d)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-13-9-b" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/13/9/b">para. 13(9)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule">Sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-14" URI="http://www.legislation.gov.uk/id/uksi/2019/375/schedule/paragraph/14">para. 14</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/375/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-99d549cc841ca73e426dd754909bb4b8" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-99d549cc841ca73e426dd754909bb4b8" Row="73" Type="words inserted by S.I. 2019/375, Sch. para. 13(9)(a) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 22 para. 15(1)(d)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(vi)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-15-1-d" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/15/1/d">para. 15(1)(d)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-vi" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/vi">reg. 3(12)(m)(vi)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="Other" OtherQualification="at 11 p.m."/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-69e3aa82a14f94c875a087cc8adda86d" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/2007/29" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/695" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-69e3aa82a14f94c875a087cc8adda86d" Row="74" Type="modified by S.I. 2019/375, Sch. para. 13(9)(b) (as substituted)" RequiresApplied="false" AffectedProvisions="Sch. 22 para. 15(1)(d)" Notes="This amendment not applied to legislation.gov.uk. S.I. 2019/695 revoked (24.11.2020) before it comes into force by S.I. 2020/1342, regs. 1(2), 3(d)" Comments="IP completion day" AffectedExtent="E+W" AffectingEffectsExtent="E+W+N.I." AppendedCommentary="2020 c. 1, Sch. 5 para. 1(1)" AffectingYear="2019" AffectingNumber="695" AffectingProvisions="reg. 3(12)(m)(vi)" AffectedYear="2007" AffectedNumber="29" Modified="2021-06-02T15:04:56Z">
+					<ukm:AffectedTitle>Legal Services Act 2007</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="schedule-22" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22">Sch. 22 </ukm:Section><ukm:Section Ref="schedule-22-paragraph-15-1-d" URI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/15/1/d">para. 15(1)(d)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer's Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingTitle>The Services of Lawyers and Lawyer’s Practice (Amendment) (EU Exit) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-3-12-m-vi" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/3/12/m/vi">reg. 3(12)(m)(vi)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-1" URI="http://www.legislation.gov.uk/id/uksi/2019/695/regulation/1/1">reg. 1(1)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Date="2020-12-31" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+
+
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/part/3/crossheading/reserved-legal-activities" title="Reserved legal activities"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/24" title="Section 24: Extension of the reserved legal activities"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/25" title="Section 25: Provisional designation as approved regulators and licensing authorities"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/30" title="Section 30: Rules relating to the exercise of regulatory functions"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/37" title="Section 37: Financial penalties"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/42" title="Section 42: Intervention directions: further provision"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/45" title="Section 45: Cancellation of designation as approved regulator"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/46" title="Section 46: Cancellation of designation: further provision"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/48" title="Section 48: Cancellation of designation: powers of entry etc"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/62" title="Section 62: The Board as an approved regulator"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/63" title="Section 63: The Board's designation under section 62(1)(a)"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/64" title="Section 64: Modification of the Board's functions under section 62(1)(b)"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/69" title="Section 69: Modification of the functions of approved regulators etc"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/76" title="Section 76: Cancellation of designation as licensing authority by order"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/77" title="Section 77: Cancellation of designation: further provision"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/79" title="Section 79: Cancellation of designation: powers of entry etc"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/80" title="Section 80: Functions of appellate bodies"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/95" title="Section 95: Financial penalties"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/106" title="Section 106: Power to modify application of licensing rules etc to special bodies"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/109" title="Section 109: Foreign bodies"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/128" title="Section 128: Parties"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/139" title="Section 139: Alteration of limit"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/152" title="Section 152: Disclosure of restricted information"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/164" title="Section 164: Power to establish voluntary scheme for resolving complaints"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/168" title="Section 168: Disclosure of restricted information"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/169" title="Section 169: Disclosure of information to the Board"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/173" title="Section 173: The levy"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/183" title="Section 183: Commissioners for oaths"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/194" title="Section 194: Payments in respect of pro bono representation"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/204" title="Section 204: Orders, regulations and rules"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/207" title="Section 207: Interpretation"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/208" title="Section 208: Minor and consequential provision etc"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/section/211" title="Section 211: Commencement"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/1/paragraph/1" title="Schedule 1 paragraph 1: Membership"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/4/paragraph/17" title="Schedule 4 paragraph 17: Lord Chancellor's decision to make an order"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/5/paragraph/3" title="Schedule 5 paragraph 3: The transitional period"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/10/paragraph/15" title="Schedule 10 paragraph 15: Lord Chancellor's decision to make an order"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/9" title="Schedule 13 paragraph 9: Lord Chancellor's power to modify"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/10" title="Schedule 13 paragraph 10: Requirement to identify non-authorised persons"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/12" title="Schedule 13 paragraph 12: Requirement to identify non-authorised persons"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/21" title="Schedule 13 paragraph 21: Continuing notification requirements"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/23" title="Schedule 13 paragraph 23: Offences in connection with paragraph 21"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/39" title="Schedule 13 paragraph 39: Obligation to notify where share limit or voting limit exceeded"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/13/paragraph/40" title="Schedule 13 paragraph 40: Obligation to notify where share limit or voting limit exceeded"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/15/paragraph/1" title="Schedule 15 paragraph 1: Membership"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/8" title="Schedule 18 paragraph 8: Loss of qualifying regulator status"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/18/paragraph/18" title="Schedule 18 paragraph 18: The transitional period"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/2" title="Schedule 22 paragraph 2: Transitory power to modify the functions of bodies"/>
+		<ukm:ConfersPower IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/schedule/22/paragraph/5" title="Schedule 22 paragraph 5: Approved regulators"/>
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/ukpga/2007/29/notes" DocumentURI="http://www.legislation.gov.uk/ukpga/2007/29/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative Date="2008-01-31" URI="http://www.legislation.gov.uk/ukpga/2007/29/pdfs/ukpgaen_20070029_en.pdf" Title="Explanatory Note"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2007-12-09" URI="http://www.legislation.gov.uk/ukpga/2007/29/pdfs/ukpga_20070029_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="1173"/>
+			<ukm:BodyParagraphs Value="221"/>
+			<ukm:ScheduleParagraphs Value="952"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

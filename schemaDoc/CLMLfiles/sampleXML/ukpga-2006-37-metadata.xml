@@ -1,0 +1,72 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/2006/37" IdURI="http://www.legislation.gov.uk/id/ukpga/2006/37" NumberOfProvisions="25" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2011-12-23">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/2006/37</dc:identifier>
+		<dc:title>Parliamentary Costs Act 2006</dc:title>
+		<dc:description>An Act to consolidate the House of Commons Costs Taxation Act 1847, the House of Lords Costs Taxation Act 1849, the Parliamentary Costs Act 1865, the Parliamentary Costs Act 1867, the Parliamentary Costs Act 1871 and the House of Commons Costs Taxation Act 1879, with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.</dc:description>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2014-02-18</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2011-12-23</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/2006/37/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/2006/37/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/2006/37" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/2006/37/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/2006/37/body" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/2006/37/schedules" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/2006/37/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/2006/37/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/2006/37/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/2006/37/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/2006/37/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/ukpga/2006/37/pdfs/ukpga_20060037_en.pdf" type="application/pdf" title="Print Version"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/2006/37/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/2006/37/2007-04-01" title="2007-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2006/37/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2006/37/2007-04-01" title="2007-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/2006/37/2011-12-23" title="2011-12-23"/>
+
+
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2006"/>
+			<ukm:Number Value="37"/>
+			<ukm:EnactmentDate Date="2006-11-08"/>
+			<ukm:ISBN Value="0105437069"/>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-03-03" URI="http://www.legislation.gov.uk/ukpga/2006/37/pdfs/ukpga_20060037_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+		<ukm:TablesOfOrigins>
+			<ukm:TableOfOrigins Date="2008-03-03" URI="http://www.legislation.gov.uk/ukpga/2006/37/pdfs/ukpgatoo_20060037_en.pdf" Title="Table Of Origins"/>
+		</ukm:TablesOfOrigins>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="27"/>
+			<ukm:BodyParagraphs Value="19"/>
+			<ukm:ScheduleParagraphs Value="8"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

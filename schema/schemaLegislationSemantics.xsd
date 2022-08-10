@@ -19,24 +19,32 @@
 				<dcq:created>2011-03-21</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-05-17</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.0		Colin Mackenzie	  Numbering restarted at 2 for new EU and merged schema
+			2.4		Karl Rajangam		Annotation updated/added for Definition, TermRef, MilestoneAttributes and Proviso
+			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0		Jeni Tennison		Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
 	<xsd:element name="Definition">
 		<xsd:annotation>
-			<xsd:documentation>The definition of a term</xsd:documentation>
+			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
+				<h:p>The definition of a term specified elsewhere in the document.</h:p>
+				<h:p>The Definition element can either be used inline, to contain a definition that is a simple string of text, or can be used with the Mark attribute at each end of a more complex definition with child provisions or structures (that is, a single empty instance of Definition at each end of the definition, the first with Mark="Start" and the second with Mark="End").</h:p>
+			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>
 				<xsd:extension base="InlineFullStructure">
-					<xsd:attribute name="TermRef" type="xsd:NCName" />
+					<xsd:attribute name="TermRef" type="xsd:NCName" >
+						<xsd:annotation>
+							<xsd:documentation>The identifier of the Term to which this definition refers</xsd:documentation>
+						</xsd:annotation>
+					</xsd:attribute>
 					<xsd:attributeGroup ref="MilestoneAttributes" />
 				</xsd:extension>
 			</xsd:complexContent>
@@ -44,9 +52,12 @@
 	</xsd:element>
 
 	<xsd:attributeGroup name="MilestoneAttributes">
+		<xsd:annotation>
+			<xsd:documentation>The MilestoneAttributes group extends the content model for Proviso and Definition so that they can be used as milestones, i.e. so that they are used to mark the start and end of the feature that they annotate, rather than occurring as a single instance containing the whole feature. This means that their content may traverse multiple elements and levels of the document hierarchy</xsd:documentation>
+		</xsd:annotation>
 		<xsd:attribute name="Mark">
 			<xsd:annotation>
-				<xsd:documentation>Indicates whether this milestone marks the beginning or end of an overlapping element</xsd:documentation>
+				<xsd:documentation>Determines whether this element marks the start or end of the feature it annotates</xsd:documentation>
 			</xsd:annotation>
 			<xsd:simpleType>
 				<xsd:restriction base="xsd:string">
@@ -59,7 +70,7 @@
 
 	<xsd:element name="Proviso">
 		<xsd:annotation>
-			<xsd:documentation>A Proviso contained in an inline element.</xsd:documentation>
+			<xsd:documentation>This indicates a proviso, which is a clause that qualifies or restricts the validity of the preceding provision. It can be used either inline to contain a proviso that is a simple string of text or with the 'Mark' attribute at each end of a more complex proviso with child provisions or structures i.e. a single empty instance of 'Proviso' at each end of the proviso, the first with Mark='Start' and the second with Mark='End'.</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>

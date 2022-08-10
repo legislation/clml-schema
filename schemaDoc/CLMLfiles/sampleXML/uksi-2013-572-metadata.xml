@@ -1,0 +1,96 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2013/572" IdURI="http://www.legislation.gov.uk/id/uksi/2013/572" NumberOfProvisions="2" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictStartDate="2013-04-06" RestrictExtent="E+W+S">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2013/572</dc:identifier>
+		<dc:title>The Plant Health (Export Certification) (England) (Amendment) Order 2013</dc:title>
+		<dc:language>en</dc:language>
+		<dc:subject scheme="SIheading">PLANT HEALTH, ENGLAND</dc:subject>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dc:modified>2017-01-09</dc:modified>
+		<dct:valid>2013-04-06</dct:valid>
+		<dc:description>This Order, which comes into force on 6th April 2013, amends the Plant Health (Export Certification) (England) Order 2004 (S.I. 2004/1404) (“the 2004 Order”).</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2013/572/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2013/572/resources" title="More Resources"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/impacts" href="http://www.legislation.gov.uk/uksi/2013/572/impacts" title="Impact Assessments"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2013/572/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2013/572/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2013/572" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2013/572/introduction" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2013/572/signature" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2013/572/note" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2013/572/body" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2013/572/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2013/572/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2013/572/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2013/572/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2013/572/data.html" title="HTML5 snippet"/>
+
+		<atom:link rel="alternate" href="http://www.legislation.gov.uk/uksi/2013/572/pdfs/uksi_20130572_en.pdf" type="application/pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2013/572/contents" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2013/572/made" title="made"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2013/572/2013-04-06" title="2013-04-06"/>
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="revised"/>
+				<ukm:DocumentMinorType Value="order"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2013"/>
+			<ukm:Number Value="572"/>
+			<ukm:Made Date="2013-03-11"/>
+			<ukm:Laid Date="2013-03-14" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2013-04-06"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780111536612"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-99a52721253bc1be8bcbf5b0cf756ccf" AffectedURI="http://www.legislation.gov.uk/id/uksi/2013/572" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2019/1517" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2019-1517-n1eswgv3-58" Row="58" Type="revoked" RequiresApplied="true" AffectedProvisions="Order" AffectingEffectsExtent="E+W" AffectingTerritorialApplication="E" AffectingYear="2019" AffectingNumber="1517" AffectingProvisions="Sch. 6" AffectedYear="2013" AffectedNumber="572" Created="2020-01-08T09:58:47Z" Modified="2020-01-08T09:58:47Z">
+					<ukm:AffectedTitle>The Plant Health (Export Certification) (England) (Amendment) Order 2013</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Order</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-6" URI="http://www.legislation.gov.uk/id/uksi/2019/1517/schedule/6">Sch. 6</ukm:Section></ukm:AffectingProvisions>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1" URI="http://www.legislation.gov.uk/id/uksi/2019/1517/regulation/1">reg. 1</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2020-01-14" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+
+
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2013/572/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2013/572/pdfs/uksiem_20130572_en.pdf" Date="2013-03-14" Title="Explanatory Memorandum" Size="28654"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:UKRPCOpinions>
+			<ukm:UKRPCOpinion URI="http://www.legislation.gov.uk/uksi/2013/572/pdfs/uksirpc_20130572_en.pdf" Date="2016-09-02" Title="UK RPC Opinion" Size="44318"/>
+		</ukm:UKRPCOpinions>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2013/572/pdfs/uksi_20130572_en.pdf" Date="2013-03-14" Size="52572"/>
+		</ukm:Alternatives>
+		<ukm:ImpactAssessments>
+
+			<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ukia/2013/1141/pdfs/ukia_20131141_en.pdf" Date="2013-03-19" Title="Plant Health (Export Certification) (England) (Amendment) Order" Stage="Final" Department="Department for Environment, Food and Rural Affairs" Year="2013" Number="1141"/>
+		</ukm:ImpactAssessments>
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+</Legislation>

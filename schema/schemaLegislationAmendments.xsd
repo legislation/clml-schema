@@ -8,7 +8,7 @@
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Amendments Schema</dc:title>
-			<dc:description>Defines amendments</dc:description>
+			<dc:description>Defines amendments for legislation. These can be a block or inline amendment, through which text can be inserted, removed or altered in documents. A primary or secondary legislation can contain amendments to other primary, secondary or retained EU legislation, or, very rarely, itself</dc:description>
 			<dc:contributor>Paul Appleby</dc:contributor>
 			<dc:creator>TSO</dc:creator>
 			<dc:identifier>SchemaLegislationAmendments</dc:identifier>
@@ -19,13 +19,17 @@
 				<dcq:modified>2018-11-20</dcq:modified>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-06</dcq:modified>
+				<dcq:modified>2021-05-25</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
-			2.0			Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
-			1.6			Jim Mangiafico	  Expanded to accommodate European Union legislation
+			2.4			Karl Rajangam		Annotation added for attributes @Context, @PartialRefs, and updated file description, elements BlockAmendment and InlineAmendment.
+      2.3			Colin Mackenzie	 Removed most of the inline complexType for BlockAmendment and changed it to extend the new CommonBlockAmendmentExtractGroup and CommonBlockAmendmentExtractAttributeGroup  (also used for BlockExtract)
+											Removed atrribute CitationListRef, which is redundant not used anywhere.
+			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
+			1.6			Jim Mangiafico		Expanded to accommodate European Union legislation
+>>>>>>> 2.3Documentation-pip
 			1.5			Paul Appleby		Added Group to amendment content model and fragment context
 			1.4			Paul Appleby		Allowed PrimaryPreamble and SecondaryPreamble in BlockAmendment
 			1.3			Paul Appleby		Allowed Body in BlockAmendment to that an entire SI can be included in an amendment (bar prelims) using Contents, Body and Schedules element
@@ -39,85 +43,36 @@
 	<xsd:import namespace="http://www.w3.org/1999/xhtml"
 		schemaLocation="../schemaModules/schemaTable-XHTML.xsd"/>
 
-	<xsd:element name="BlockAmendment">
+	<!-- #172192631 harmonised definition with BlockAmendment as much as makes sense -->
+    <xsd:element name="BlockAmendment">
 		<xsd:annotation>
 			<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
 				<h:p>Describes a block amendment to the text.</h:p>
-				<h:p>Legislation is unusual in the fact that it can alter other documents. This is done via amendments that state which passages of text are to be altered, inserted or removed. When amending text the new text is ‘quoted’ – that is, it becomes part of the amending document. This leads to situations where, not only does primary legislation contain amendments to other primary legislation and secondary legislation contain amendments to secondary legislation, but primary legislation can also contain secondary legislation and vice-versa. When formatting documents the format of the amendment depends on when the document was created. For instance, a new style Act (introduced in 2001) amending an old style Act will format the amendment in the new style. However, for SIs created using the SI template, for instance, most amendments take on the style of an SI.</h:p>
+				<h:p>Legislation is unusual in the fact that it can alter other documents. This is done via amendments that state which passages of text are to be altered, inserted or removed. When amending text the new text is ‘quoted’ – i.e, it becomes part of the amending document. Not only can primary legislation contain amendments to other primary legislation, and secondary legislation contain amendments to secondary legislation, but primary legislation can also contain amendments to secondary legislation and vice-versa (and both may amend retained EU legislation). When formatting documents the format of the amendment depends on when the document was created. For instance, a new style Act (introduced in 2001) amending an old style Act will format the amendment in the new style. However, for SIs created using the SI template, for instance, most amendments take on the style of an SI.</h:p>
 				<h:p>To get around the problem of how to format the amendment, information is carried on amendments giving details about the document being amended. The rendering on any amendment can then be left to the rendering engine as to whether to format an amendment in the format of the amending document, or the format of the amended document.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice maxOccurs="unbounded">
-				<xsd:element ref="PrimaryPreamble"/>
-				<xsd:element ref="SecondaryPreamble"/>
-				<xsd:element ref="EUPrelims"/>
-				<xsd:element ref="Text"/>
-				<xsd:element ref="Body"/>
-				<xsd:element ref="Group"/>
-				<xsd:element ref="Part"/>
-				<xsd:element ref="Chapter"/>
-				<xsd:group ref="EUStructure"/>
-				<xsd:element ref="Pblock"/>
-				<xsd:element ref="PsubBlock"/>
-				<xsd:element ref="Para"/>
-				<xsd:element ref="P1"/>
-				<xsd:element ref="P2"/>
-				<xsd:element ref="P3"/>
-				<xsd:element ref="P4"/>
-				<xsd:element ref="P5"/>
-				<xsd:element ref="P6"/>
-				<xsd:element ref="P7"/>
-				<xsd:element ref="P1para"/>
-				<xsd:element ref="P2para"/>
-				<xsd:element ref="P3para"/>
-				<xsd:element ref="P4para"/>
-				<xsd:element ref="P5para"/>
-				<xsd:element ref="P6para"/>
-				<xsd:element ref="P7para"/>
-				<xsd:element ref="P1group"/>
-				<xsd:element ref="P2group"/>
-				<xsd:element ref="P3group"/>
-				<xsd:element ref="Schedules"/>
-				<xsd:element ref="Schedule"/>
-				<xsd:sequence>
-					<xsd:element ref="BlockAmendment"/>
-					<xsd:element ref="AppendText" minOccurs="0"/>
-				</xsd:sequence>
-				<xsd:element ref="xhtml:table"/>
-				<xsd:element ref="Contents"/>
-				<xsd:element ref="ContentsPart"/>
-				<xsd:element ref="ContentsChapter"/>
-				<xsd:element ref="ContentsPblock"/>
-				<xsd:element ref="ContentsPsubBlock"/>
-				<xsd:element ref="ContentsItem"/>
-				<xsd:element ref="ContentsSubItem"/>
-				<xsd:element ref="ContentsSchedules"/>
-				<xsd:element ref="ContentsSchedule"/>
-				<xsd:element ref="ContentsAppendix"/>
-				<xsd:group ref="BlockBasic"/>
+				<xsd:group ref="CommonBlockAmendmentExtractGroup"/>
+				<!--  ListItem, FragmentNumber and FragmentTitle should only be allowed in BlockAmendment (as I can't see any reason we'd want to excerpt one of these elements on its own except for the purposes of indicating an amendment -->
 				<xsd:element ref="ListItem"/>
 				<xsd:element ref="FragmentNumber"/>
 				<xsd:element ref="FragmentTitle"/>
-				<xsd:element ref="IncludedDocument"/>
-				<xsd:element ref="MultilineTitle"/>
-				<xsd:element ref="Number"/>
-				<xsd:element ref="Title"/>
-				<xsd:element ref="Subtitle"/>
-				<xsd:element ref="Pnumber"/>
-			</xsd:choice>
-			<xsd:attributeGroup ref="LegislationAmendmentAttributes"/>
-			<xsd:attributeGroup ref="QuotesAttributes"/>
-			<xsd:attributeGroup ref="CommonAttributes"/>
-			<xsd:attributeGroup ref="StructureNumberFormattingAttributes"/>
+				</xsd:choice>
+			<xsd:attributeGroup ref="CommonBlockAmendmentExtractAttributeGroup"/>
+            <xsd:attributeGroup ref="LegislationAmendmentAttributes"/>
 			<xsd:attribute name="PartialRefs">
+				<xsd:annotation>
+					<xsd:documentation>This indicates that the element references are partial paragraphs. If the referenced element is a &lt;Text&gt; element and first child of the amendment, then the text of the amendment should run on from the previous paragraph</xsd:documentation>
+				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:list itemType="xsd:NCName"/>
 				</xsd:simpleType>
 			</xsd:attribute>
-			<xsd:attribute name="CitationListRef" type="xsd:IDREF"/>
 		</xsd:complexType>
 	</xsd:element>
+	<!--<xsd:attribute name="CitationListRef" type="xsd:IDREF"/> removed from BlockAmendment, not in use, ref schema work LEGDEV-1092 -->
 
 	<xsd:element name="FragmentNumber">
 		<xsd:annotation>
@@ -129,6 +84,9 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Context" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Refers to the area within which the amendment is being made, e.g. Part, Chapter etc</xsd:documentation>
+				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
 						<xsd:enumeration value="Group"/>
@@ -154,6 +112,9 @@
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 			<xsd:attribute name="Context" use="required">
+				<xsd:annotation>
+					<xsd:documentation>Refers to the area within which the amendment is being made, e.g. Group, Part, Chapter etc</xsd:documentation>
+				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
 						<xsd:enumeration value="P1group"/>
@@ -173,16 +134,17 @@
 		</xsd:complexType>
 	</xsd:element>
 
-	<xsd:element name="InlineAmendment">
+	<xsd:element name="InlineAmendment" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>Describes an inline amendment to the text.</xsd:documentation>
+			<xsd:documentation>Describes inline text that is to be applied by an amendment to a document</xsd:documentation>
 		</xsd:annotation>
+	</xsd:element>
+	<!-- @CitationListRef part removed from above InlineAmendment, as it is no more in use. Ref LEGDEV-1092 
 		<xsd:complexType mixed="true">
 			<xsd:complexContent>
 				<xsd:extension base="InlineStructure">
 					<xsd:attribute name="CitationListRef" type="xsd:IDREF"/>
 				</xsd:extension>
 			</xsd:complexContent>
-		</xsd:complexType>
-	</xsd:element>
+		</xsd:complexType> -->
 </xsd:schema>

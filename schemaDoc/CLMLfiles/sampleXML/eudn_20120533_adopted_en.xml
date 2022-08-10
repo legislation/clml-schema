@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0">
+   <Metadata xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom">
+      <dc:identifier>http://www.legislation.gov.uk/id/eudn/2012/533</dc:identifier>
+      <dc:title>Council Decision of 24 September 2012 on the position to be taken by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of the Joint Committee (2012/533/EU)</dc:title>
+      <dc:description>Council Decision of 24 September 2012 on the position to be taken by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of the Joint Committee (2012/533/EU)</dc:description>
+      <dc:modified/>
+      <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+      <dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0533</dc:source>
+      <dc:type>text</dc:type>
+      <dc:format>text/xml</dc:format>
+      <dc:language>en</dc:language>
+      <dct:bibliographicCitation>OJ L 266, 24.09.2012, p. 34</dct:bibliographicCitation>
+      <EUMetadata>
+         <DocumentClassification>
+            <DocumentCategory Value="euretained"/>
+            <DocumentMainType Value="EuropeanUnionDecision"/>
+            <DocumentStatus Value="final"/>
+         </DocumentClassification>
+         <Year Value="2012"/>
+         <Number Value="533"/>
+         <EURLexIdentifiers>
+            <Cellar Value="fdebedd4-0c84-11e2-8e28-01aa75ed71a1"/>
+            <ELI Value="dec:2012:533:oj"/>
+            <CELEX Value="32012D0533"/>
+            <OfficialJournal Value="JOL_2012_266_R_0034_01"/>
+         </EURLexIdentifiers>
+         <EnactmentDate Date="2012-09-24"/>
+         <EURLexModified Date="2016-06-10T19:23:01Z"/>
+         <EURLexExtracted Date="2018-04-21T19:16:43Z"/>
+         <XMLGenerated Date="2020-12-10T20:33:03Z"/>
+         <Treaty Title="Treaty on the Functioning of the European Union (consolidated version 2008)" Code="TFEU_2008"/>
+         <CreatedBy Label="Council of the European Union" URI="http://publications.europa.eu/resource/authority/corporate-body/CONSIL"/>
+         <Subject Scheme="SubjectMatter" Label="External relations" URI="http://publications.europa.eu/resource/authority/fd_070/EXT"/>
+         <Subject Scheme="EuroVoc" Label="joint committee (EU)" URI="http://eurovoc.europa.eu/5509"/>
+         <Subject Scheme="EuroVoc" Label="agreement (EU)" URI="http://eurovoc.europa.eu/1474"/>
+         <Subject Scheme="EuroVoc" Label="Georgia" URI="http://eurovoc.europa.eu/5652"/>
+         <Subject Scheme="EuroVoc" Label="agricultural product" URI="http://eurovoc.europa.eu/2734"/>
+         <Subject Scheme="EuroVoc" Label="rules of procedure" URI="http://eurovoc.europa.eu/3561"/>
+         <Subject Scheme="EuroVoc" Label="designation of origin" URI="http://eurovoc.europa.eu/3173"/>
+         <Subject Scheme="EuroVoc" Label="originating product" URI="http://eurovoc.europa.eu/2771"/>
+         <Subject Scheme="DirectoryCode" Label="Other European countries" URI="http://publications.europa.eu/resource/authority/fd_555/11401040"/>
+         <Subject Scheme="DirectoryCode" Label="Bilateral agreements with non-member countries" URI="http://publications.europa.eu/resource/authority/fd_555/1140"/>
+         <Subject Scheme="DirectoryCode" Label="European countries" URI="http://publications.europa.eu/resource/authority/fd_555/114010"/>
+         <Subject Scheme="DirectoryCode" Label="External relations" URI="http://publications.europa.eu/resource/authority/fd_555/11"/>
+         <EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/fdebedd4-0c84-11e2-8e28-01aa75ed71a1</VALUE>
+                  <IDENTIFIER>fdebedd4-0c84-11e2-8e28-01aa75ed71a1</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/dec/2012/533/oj</VALUE>
+                     <IDENTIFIER>dec:2012:533:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32012D0533</VALUE>
+                     <IDENTIFIER>32012D0533</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2012_266_R_0034_01</VALUE>
+                     <IDENTIFIER>JOL_2012_266_R_0034_01</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DEC</VALUE>
+                     <IDENTIFIER>DEC</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DEC</OP-CODE>
+                  <IDENTIFIER>DEC</IDENTIFIER>
+                  <PREFLABEL>Decision</PREFLABEL>
+                  <ALTLABEL>Decisions</ALTLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/EXT</VALUE>
+                        <IDENTIFIER>EXT</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>EXT</OP-CODE>
+                     <IDENTIFIER>EXT</IDENTIFIER>
+                     <PREFLABEL>External relations</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/CONSIL</VALUE>
+                     <IDENTIFIER>CONSIL</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>CONSIL</OP-CODE>
+                  <IDENTIFIER>CONSIL</IDENTIFIER>
+                  <PREFLABEL>Council of the European Union</PREFLABEL>
+                  <ALTLABEL>Council</ALTLABEL>
+                  <ALTLABEL>Council of the European Communities</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_030/DECBES</VALUE>
+                     <IDENTIFIER>DECBES</IDENTIFIER>
+                     <TYPE>fd_030</TYPE>
+                  </URI>
+                  <OP-CODE>DECBES</OP-CODE>
+                  <IDENTIFIER>DECBES</IDENTIFIER>
+                  <PREFLABEL>decision without addressee</PREFLABEL>
+               </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>533</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a70758a8-2715-4fe0-8d12-528c2ad05fba</VALUE>
+                     <IDENTIFIER>a70758a8-2715-4fe0-8d12-528c2ad05fba</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tfeu_2010/art_207/oj</VALUE>
+                        <IDENTIFIER>treaty:tfeu_2010:art_207:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12010E207</VALUE>
+                        <IDENTIFIER>12010E207</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <SUBPARAGRAPH>1</SUBPARAGRAPH>
+                     <PARAGRAPH>4</PARAGRAPH>
+                     <COMMENT_ON_LEGAL_BASIS>P4L1</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.1.9 builddate:31/01/2014 12:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3173</VALUE>
+                     <IDENTIFIER>3173</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3173</IDENTIFIER>
+                  <PREFLABEL>designation of origin</PREFLABEL>
+                  <ALTLABEL>PGI</ALTLABEL>
+                  <ALTLABEL>protected designation of origin</ALTLABEL>
+                  <ALTLABEL>PDO</ALTLABEL>
+                  <ALTLABEL>certificate of designation of origin</ALTLABEL>
+                  <ALTLABEL>protected geographical indication</ALTLABEL>
+                  <ALTLABEL>registered designation of origin</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_ADOPTS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/3ed1911d-ec62-4cb6-b032-d6719482b07c</VALUE>
+                     <IDENTIFIER>3ed1911d-ec62-4cb6-b032-d6719482b07c</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/52012PC0434</VALUE>
+                        <IDENTIFIER>52012PC0434</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/com/COM_2012_490</VALUE>
+                        <IDENTIFIER>COM_2012_490</IDENTIFIER>
+                        <TYPE>com</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/comnat/COM_2012_0434_FIN</VALUE>
+                        <IDENTIFIER>COM_2012_0434_FIN</IDENTIFIER>
+                        <TYPE>comnat</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.1.9 builddate:31/01/2014 12:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_ADOPTS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0533</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3561</VALUE>
+                     <IDENTIFIER>3561</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3561</IDENTIFIER>
+                  <PREFLABEL>rules of procedure</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5509</VALUE>
+                        <IDENTIFIER>5509</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5509</IDENTIFIER>
+                     <PREFLABEL>joint committee (EU)</PREFLABEL>
+                     <ALTLABEL>EC joint committee</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5769</VALUE>
+                        <IDENTIFIER>5769</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5769</IDENTIFIER>
+                     <PREFLABEL>EU office or agency</PREFLABEL>
+                     <ALTLABEL>specialised Community agency</ALTLABEL>
+                     <ALTLABEL>European Union office or agency</ALTLABEL>
+                     <ALTLABEL>EC specialised body</ALTLABEL>
+                     <ALTLABEL>European agency</ALTLABEL>
+                     <ALTLABEL>European Monitoring Centre</ALTLABEL>
+                     <ALTLABEL>EC institutional body</ALTLABEL>
+                     <ALTLABEL>Community service body</ALTLABEL>
+                     <ALTLABEL>EC satellite body</ALTLABEL>
+                     <ALTLABEL>EU Agencies and decentralised bodies</ALTLABEL>
+                     <ALTLABEL>European foundation</ALTLABEL>
+                     <ALTLABEL>decentralised Community body</ALTLABEL>
+                     <ALTLABEL>autonomous Community body</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100174</VALUE>
+                        <IDENTIFIER>100174</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1006</IDENTIFIER>
+                     <PREFLABEL>1006 EU institutions and European civil service</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2012/533/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS type="data">
+                  <VALUE>NLE 2012/0209</VALUE>
+               </RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2012-09-24</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>24</DAY>
+                  <ANNOTATION>
+                     <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+                     <COMMENT_ON_DATE>{DATDOC|http://publications.europa.eu/resource/authority/fd_335/DATDOC} {V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 2</COMMENT_ON_DATE>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.1.9 builddate:31/01/2014 12:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2008</VALUE>
+                     <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2008</OP-CODE>
+                  <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2008)</PREFLABEL>
+                  <ALTLABEL>TFEU (2008)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2008)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <PROCEDURE_YEAR type="data">
+                  <VALUE>2012</VALUE>
+               </PROCEDURE_YEAR>
+               <RESOURCE_LEGAL_PRODUCED_BY_DOSSIER type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/5e0e401b-dff1-11e1-905c-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>5e0e401b-dff1-11e1-905c-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/201867</VALUE>
+                        <IDENTIFIER>201867</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/procedure/2012_209</VALUE>
+                        <IDENTIFIER>2012_209</IDENTIFIER>
+                        <TYPE>procedure</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PRODUCED_BY_DOSSIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2771</VALUE>
+                     <IDENTIFIER>2771</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2771</IDENTIFIER>
+                  <PREFLABEL>originating product</PREFLABEL>
+                  <ALTLABEL>product origin</ALTLABEL>
+                  <ALTLABEL>rule of origin</ALTLABEL>
+                  <ALTLABEL>origin of goods</ALTLABEL>
+               </IS_ABOUT>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2012/533/oj</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_PROCEDURE_YEAR type="data">
+                  <VALUE>2012</VALUE>
+               </RESOURCE_LEGAL_PROCEDURE_YEAR>
+               <YEAR type="data">
+                  <VALUE>2012</VALUE>
+               </YEAR>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1474</VALUE>
+                        <IDENTIFIER>1474</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1474</IDENTIFIER>
+                     <PREFLABEL>agreement (EU)</PREFLABEL>
+                     <ALTLABEL>EC third country convention</ALTLABEL>
+                     <ALTLABEL>EU-third country agreement</ALTLABEL>
+                     <ALTLABEL>international agreement (EU)</ALTLABEL>
+                     <ALTLABEL>EC agreement</ALTLABEL>
+                     <ALTLABEL>European Union agreement</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4040</VALUE>
+                        <IDENTIFIER>4040</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4040</IDENTIFIER>
+                     <PREFLABEL>EU relations</PREFLABEL>
+                     <ALTLABEL>EC external relations</ALTLABEL>
+                     <ALTLABEL>European Union relations</ALTLABEL>
+                     <ALTLABEL>Community relations</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100144</VALUE>
+                        <IDENTIFIER>100144</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>10</IDENTIFIER>
+                     <PREFLABEL>10 EUROPEAN UNION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100176</VALUE>
+                        <IDENTIFIER>100176</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1016</IDENTIFIER>
+                     <PREFLABEL>1016 European construction</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/392743aa-155e-45b8-a8ef-c6f93103b96b</VALUE>
+                     <IDENTIFIER>392743aa-155e-45b8-a8ef-c6f93103b96b</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tfeu_2010/art_218/oj</VALUE>
+                        <IDENTIFIER>treaty:tfeu_2010:art_218:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12010E218</VALUE>
+                        <IDENTIFIER>12010E218</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <PARAGRAPH>9</PARAGRAPH>
+                     <COMMENT_ON_LEGAL_BASIS>P9</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.1.9 builddate:31/01/2014 12:30:08</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>true</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2012_266_R_0034_01</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2012</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32012D0533</VALUE>
+               </IDENTIFIER>
+               <IDENTIFIER type="data">
+                  <VALUE>32012D0533</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5652</VALUE>
+                     <IDENTIFIER>5652</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5652</IDENTIFIER>
+                  <PREFLABEL>Georgia</PREFLABEL>
+               </IS_ABOUT>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2012-09-24</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>24</DAY>
+               </DATE_DOCUMENT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2734</VALUE>
+                     <IDENTIFIER>2734</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2734</IDENTIFIER>
+                  <PREFLABEL>agricultural product</PREFLABEL>
+                  <ALTLABEL>farm product</ALTLABEL>
+               </IS_ABOUT>
+               <PROCEDURE_NUMBER type="data">
+                  <VALUE>0209</VALUE>
+               </PROCEDURE_NUMBER>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-06-10T21:23:01.190+02:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>10</DAY>
+               </LASTMODIFICATIONDATE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5652</VALUE>
+                        <IDENTIFIER>5652</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5652</IDENTIFIER>
+                     <PREFLABEL>Georgia</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/914</VALUE>
+                        <IDENTIFIER>914</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>914</IDENTIFIER>
+                     <PREFLABEL>Central and Eastern Europe</PREFLABEL>
+                     <ALTLABEL>CEE</ALTLABEL>
+                     <ALTLABEL>Eastern Europe</ALTLABEL>
+                     <ALTLABEL>Central Europe</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5775</VALUE>
+                        <IDENTIFIER>5775</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5775</IDENTIFIER>
+                     <PREFLABEL>CIS countries</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/122</VALUE>
+                        <IDENTIFIER>122</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>122</IDENTIFIER>
+                     <PREFLABEL>Council of Europe countries</PREFLABEL>
+                     <ALTLABEL>Countries of the Council of Europe</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100161</VALUE>
+                        <IDENTIFIER>100161</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>72</IDENTIFIER>
+                     <PREFLABEL>72 GEOGRAPHY</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100283</VALUE>
+                        <IDENTIFIER>100283</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7236</IDENTIFIER>
+                     <PREFLABEL>7236 political geography</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100277</VALUE>
+                        <IDENTIFIER>100277</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7206</IDENTIFIER>
+                     <PREFLABEL>7206 Europe</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <WORK_PART_OF_EVENT_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/5e0e401b-dff1-11e1-905c-01aa75ed71a1.0003</VALUE>
+                     <IDENTIFIER>5e0e401b-dff1-11e1-905c-01aa75ed71a1.0003</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/201867.419468</VALUE>
+                        <IDENTIFIER>201867.419468</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_PART_OF_EVENT_LEGAL>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2012-09-24</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>24</DAY>
+               </WORK_DATE_DOCUMENT>
+               <WORK_TABLE-OF-CONTENTS type="data">
+                  <VALUE>
+         &lt;table-of-contents&gt;
+            &lt;p&gt;0034 - 0036&lt;/p&gt;
+         &lt;/table-of-contents&gt;
+      </VALUE>
+               </WORK_TABLE-OF-CONTENTS>
+               <DATE type="date">
+                  <VALUE>2012-09-24</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>24</DAY>
+               </DATE>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/a70758a8-2715-4fe0-8d12-528c2ad05fba</VALUE>
+                     <IDENTIFIER>a70758a8-2715-4fe0-8d12-528c2ad05fba</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tfeu_2010/art_207/oj</VALUE>
+                        <IDENTIFIER>treaty:tfeu_2010:art_207:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12010E207</VALUE>
+                        <IDENTIFIER>12010E207</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/106c00e2-0c1b-11e2-8e28-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>106c00e2-0c1b-11e2-8e28-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2012_266_R</VALUE>
+                        <IDENTIFIER>JOL_2012_266_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <IDENTIFIER type="data">
+                  <VALUE>1044309</VALUE>
+               </IDENTIFIER>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2008</VALUE>
+                     <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2008</OP-CODE>
+                  <IDENTIFIER>TFEU_2008</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2008)</PREFLABEL>
+                  <ALTLABEL>TFEU (2008)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2008)</ALTLABEL>
+               </BASED_ON>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/EXT</VALUE>
+                     <IDENTIFIER>EXT</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>EXT</OP-CODE>
+                  <IDENTIFIER>EXT</IDENTIFIER>
+                  <PREFLABEL>External relations</PREFLABEL>
+               </IS_ABOUT>
+               <DATE type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </DATE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2734</VALUE>
+                        <IDENTIFIER>2734</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2734</IDENTIFIER>
+                     <PREFLABEL>agricultural product</PREFLABEL>
+                     <ALTLABEL>farm product</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2734</VALUE>
+                        <IDENTIFIER>2734</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2734</IDENTIFIER>
+                     <PREFLABEL>agricultural product</PREFLABEL>
+                     <ALTLABEL>farm product</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100250</VALUE>
+                        <IDENTIFIER>100250</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5631</IDENTIFIER>
+                     <PREFLABEL>5631 agricultural activity</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/CONSIL</VALUE>
+                     <IDENTIFIER>CONSIL</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>CONSIL</OP-CODE>
+                  <IDENTIFIER>CONSIL</IDENTIFIER>
+                  <PREFLABEL>Council of the European Union</PREFLABEL>
+                  <ALTLABEL>Council</ALTLABEL>
+                  <ALTLABEL>Council of the European Communities</ALTLABEL>
+               </CREATED_BY>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32012D0533</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/1474</VALUE>
+                     <IDENTIFIER>1474</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>1474</IDENTIFIER>
+                  <PREFLABEL>agreement (EU)</PREFLABEL>
+                  <ALTLABEL>EC third country convention</ALTLABEL>
+                  <ALTLABEL>EU-third country agreement</ALTLABEL>
+                  <ALTLABEL>international agreement (EU)</ALTLABEL>
+                  <ALTLABEL>EC agreement</ALTLABEL>
+                  <ALTLABEL>European Union agreement</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2012_266_R_0034_01</VALUE>
+               </WORK_ID_DOCUMENT>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>REP</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2012-09-24</VALUE>
+                  <YEAR>2012</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>24</DAY>
+               </DATE_CREATION_LEGACY>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32012D0533</VALUE>
+               </WORK_ID_DOCUMENT>
+               <RESOURCE_LEGAL_PROCEDURE_TYPE type="data">
+                  <VALUE>NLE</VALUE>
+               </RESOURCE_LEGAL_PROCEDURE_TYPE>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2012/533/oj</VALUE>
+               </ELI>
+               <PROCEDURE_TYPE type="data">
+                  <VALUE>NLE</VALUE>
+               </PROCEDURE_TYPE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5509</VALUE>
+                     <IDENTIFIER>5509</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5509</IDENTIFIER>
+                  <PREFLABEL>joint committee (EU)</PREFLABEL>
+                  <ALTLABEL>EC joint committee</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3561</VALUE>
+                        <IDENTIFIER>3561</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3561</IDENTIFIER>
+                     <PREFLABEL>rules of procedure</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/4179</VALUE>
+                        <IDENTIFIER>4179</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4179</IDENTIFIER>
+                     <PREFLABEL>institutional activity</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100142</VALUE>
+                        <IDENTIFIER>100142</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>04</IDENTIFIER>
+                     <PREFLABEL>04 POLITICS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100168</VALUE>
+                        <IDENTIFIER>100168</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>0431</IDENTIFIER>
+                     <PREFLABEL>0431 politics and public safety</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>D</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3173</VALUE>
+                        <IDENTIFIER>3173</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3173</IDENTIFIER>
+                     <PREFLABEL>designation of origin</PREFLABEL>
+                     <ALTLABEL>PGI</ALTLABEL>
+                     <ALTLABEL>protected designation of origin</ALTLABEL>
+                     <ALTLABEL>PDO</ALTLABEL>
+                     <ALTLABEL>certificate of designation of origin</ALTLABEL>
+                     <ALTLABEL>protected geographical indication</ALTLABEL>
+                     <ALTLABEL>registered designation of origin</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/13</VALUE>
+                        <IDENTIFIER>13</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>13</IDENTIFIER>
+                     <PREFLABEL>marketing</PREFLABEL>
+                     <ALTLABEL>marketing campaign</ALTLABEL>
+                     <ALTLABEL>marketing policy</ALTLABEL>
+                     <ALTLABEL>marketing structure</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100196</VALUE>
+                        <IDENTIFIER>100196</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2031</IDENTIFIER>
+                     <PREFLABEL>2031 marketing</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/392743aa-155e-45b8-a8ef-c6f93103b96b</VALUE>
+                     <IDENTIFIER>392743aa-155e-45b8-a8ef-c6f93103b96b</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tfeu_2010/art_218/oj</VALUE>
+                        <IDENTIFIER>treaty:tfeu_2010:art_218:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12010E218</VALUE>
+                        <IDENTIFIER>12010E218</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2771</VALUE>
+                        <IDENTIFIER>2771</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2771</IDENTIFIER>
+                     <PREFLABEL>originating product</PREFLABEL>
+                     <ALTLABEL>product origin</ALTLABEL>
+                     <ALTLABEL>rule of origin</ALTLABEL>
+                     <ALTLABEL>origin of goods</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/11</VALUE>
+                        <IDENTIFIER>11</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>11</IDENTIFIER>
+                     <PREFLABEL>international trade</PREFLABEL>
+                     <ALTLABEL>world trade</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_4 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/11401040</VALUE>
+                        <IDENTIFIER>11401040</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>11401040</OP-CODE>
+                     <IDENTIFIER>11401040</IDENTIFIER>
+                     <PREFLABEL>Other European countries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_4>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/1140</VALUE>
+                        <IDENTIFIER>1140</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>1140</OP-CODE>
+                     <IDENTIFIER>1140</IDENTIFIER>
+                     <PREFLABEL>Bilateral agreements with non-member countries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/114010</VALUE>
+                        <IDENTIFIER>114010</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>114010</OP-CODE>
+                     <IDENTIFIER>114010</IDENTIFIER>
+                     <PREFLABEL>European countries</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/11</VALUE>
+                        <IDENTIFIER>11</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>11</OP-CODE>
+                     <IDENTIFIER>11</IDENTIFIER>
+                     <PREFLABEL>External relations</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/11401040</VALUE>
+                     <IDENTIFIER>11401040</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>11401040</OP-CODE>
+                  <IDENTIFIER>11401040</IDENTIFIER>
+                  <PREFLABEL>Other European countries</PREFLABEL>
+               </IS_ABOUT>
+               <ID_CELEX type="data">
+                  <VALUE>32012D0533</VALUE>
+               </ID_CELEX>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+                     <IDENTIFIER>JO</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>JO</OP-CODE>
+                  <IDENTIFIER>JO</IDENTIFIER>
+                  <PREFLABEL>JO</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <RESOURCE_LEGAL_PROCEDURE_NUMBER type="data">
+                  <VALUE>0209</VALUE>
+               </RESOURCE_LEGAL_PROCEDURE_NUMBER>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/4c51d759-2fb1-42b7-bfbc-2843ff0c7b3c</VALUE>
+                     <IDENTIFIER>4c51d759-2fb1-42b7-bfbc-2843ff0c7b3c</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/22012A0330%2801%29</VALUE>
+                        <IDENTIFIER>22012A0330(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <WORK_PART_OF_DOSSIER type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/5e0e401b-dff1-11e1-905c-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>5e0e401b-dff1-11e1-905c-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/pegase/201867</VALUE>
+                        <IDENTIFIER>201867</IDENTIFIER>
+                        <TYPE>pegase</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/procedure/2012_209</VALUE>
+                        <IDENTIFIER>2012_209</IDENTIFIER>
+                        <TYPE>procedure</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_PART_OF_DOSSIER>
+               <TYPE>cdm:decision</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>D</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/fdebedd4-0c84-11e2-8e28-01aa75ed71a1.0006</VALUE>
+                  <IDENTIFIER>fdebedd4-0c84-11e2-8e28-01aa75ed71a1.0006</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32012D0533.ENG</VALUE>
+                     <IDENTIFIER>32012D0533.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2012.266.01.0034.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2012.266.01.0034.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2012_266_R_0034_01.ENG</VALUE>
+                     <IDENTIFIER>JOL_2012_266_R_0034_01.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>2012/533/EU: Council Decision of 24 September 2012 on the position to be taken by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of the Joint Committee</VALUE>
+               </EXPRESSION_TITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+               <TITLE type="data">
+                  <VALUE>CELEX1</VALUE>
+               </TITLE>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2014-11-20T08:46:33.318+01:00</VALUE>
+                  <YEAR>2014</YEAR>
+                  <MONTH>11</MONTH>
+                  <DAY>20</DAY>
+               </LASTMODIFICATIONDATE>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+               <TITLE type="data">
+                  <VALUE>2012/533/EU: Council Decision of 24 September 2012 on the position to be taken by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of the Joint Committee</VALUE>
+               </TITLE>
+            </EXPRESSION>
+         </EURLexMetadata>
+      </EUMetadata>
+   </Metadata>
+   <EURetained>
+      <EUPrelims>
+         <MultilineTitle>
+            <Text>
+               <Uppercase>Council Decision</Uppercase>
+            </Text>
+            <Text>of 24 September 2012</Text>
+            <Text>on the position to be taken by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of the Joint Committee</Text>
+            <Text>(2012/533/EU)</Text>
+         </MultilineTitle>
+         <EUPreamble>
+            <P>
+               <Text>THE COUNCIL OF THE EUROPEAN UNION,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the Treaty on the Functioning of the European Union, and in particular the first subparagraph of Article 207(4) in conjunction with Article 218(9) thereof,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the proposal from the European Commission,</Text>
+            </P>
+            <P>
+               <Text>Whereas:</Text>
+            </P>
+            <Division>
+               <Number>(1)</Number>
+               <P>
+                  <Text>The Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs<FootnoteRef Ref="f00001"/> (‘the Agreement’) entered into force on 1 April 2012.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(2)</Number>
+               <P>
+                  <Text>Article 11 of the Agreement establishes a Joint Committee which shall, inter alia, ensure that the Agreement operates properly.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(3)</Number>
+               <P>
+                  <Text>According to Article 11(2) of the Agreement, the Joint Committee determines its own rules of procedure.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(4)</Number>
+               <P>
+                  <Text>The position of the Union within the Joint Committee as regards the adoption of the rules of procedure of that Joint Committee should be based on the attached draft Decision,</Text>
+               </P>
+            </Division>
+            <P>
+               <Text>HAS ADOPTED THIS DECISION:</Text>
+            </P>
+         </EUPreamble>
+      </EUPrelims>
+      <EUBody>
+         <P1 id="article-1">
+            <Pnumber>Article 1</Pnumber>
+            <P1para>
+               <Text>The position to be adopted by the European Union within the Joint Committee set up by Article 11 of the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, as regards the adoption of the rules of procedure of that Joint Committee, shall be based on the draft Decision of the Joint Committee, attached to this Decision.</Text>
+            </P1para>
+         </P1>
+         <P1 id="article-2">
+            <Pnumber>Article 2</Pnumber>
+            <P1para>
+               <Text>This Decision shall enter into force on the date of its adoption.</Text>
+            </P1para>
+         </P1>
+         <SignedSection>
+            <Signatory>
+               <Para>
+                  <Text>Done at Brussels, 24 September 2012.</Text>
+               </Para>
+               <Signee>
+                  <Para>
+                     <Text>
+                        <Emphasis>For the Council</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>
+                        <Emphasis>The President</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>S. <Uppercase>Aletraris</Uppercase>
+                     </Text>
+                  </Para>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </EUBody>
+      <Attachments><!--L_2012266EN.01003501.xml-->
+         <Attachment id="attachment-1">
+            <EURetained>
+               <EUPrelims>
+                  <MultilineTitle>
+                     <Text>DRAFT</Text>
+                     <Text>DECISION OF THE JOINT COMMITTEE</Text>
+                     <Text>of …</Text>
+                     <Text>on the adoption of its Rules of Procedure</Text>
+                  </MultilineTitle>
+                  <EUPreamble>
+                     <P>
+                        <Text>THE JOINT COMMITTEE,</Text>
+                     </P>
+                     <P>
+                        <Text>Having regard to the Agreement between the European Union and Georgia on protection of geographical indications of agricultural products and foodstuffs, and in particular Article 11 thereof,</Text>
+                     </P>
+                     <P>
+                        <Text>Whereas that Agreement entered into force on 1 April 2012,</Text>
+                     </P>
+                     <P>
+                        <Text>HAS ADOPTED THIS DECISION:</Text>
+                     </P>
+                  </EUPreamble>
+               </EUPrelims>
+               <EUBody>
+                  <P1group>
+                     <Title>Heads of Delegation</Title>
+                     <P1>
+                        <Pnumber>Article 1</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The European Union and Georgia (‘the Parties’), shall each appoint a Head of Delegation who shall be the contact person for all matters relating to the Committee.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>Each Head of Delegation may delegate all or any of the functions of Head of Delegation to a nominated deputy, in which case all references hereafter to the Head of Delegation apply equally to the nominated deputy.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Chair</Title>
+                     <P1>
+                        <Pnumber>Article 2</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The office of Chair of the Committee shall be held alternately, for a period of one calendar year, by the Head of Delegation of each Party.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>The Chair shall be responsible for the secretarial duties of the Committee.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Meetings</Title>
+                     <P1>
+                        <Pnumber>Article 3</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The Chair shall fix the date and venue or, in the case of meetings by electronic means, the technical arrangements, of meetings in agreement with the other Head of Delegation. The Chair and the other Head of Delegation shall, in agreeing the time and place of the meeting, observe the requirement to hold a meeting within 90 days.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>Unless otherwise jointly agreed, the meetings of the Committee shall not be public.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Correspondence</Title>
+                     <P1>
+                        <Pnumber>Article 4</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>All correspondence to or for the Committee shall be sent to the Chair of the Committee. The latter shall send a copy of all correspondence relating to the Committee to the other Head of Delegation, to the Head of the Georgian Mission in Brussels and to the Head of the Delegation of the EU in Tbilisi.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>Correspondence between the Chair and the other Head of Delegation may be by any written means, including electronic mail.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Agendas for the meetings</Title>
+                     <P1>
+                        <Pnumber>Article 5</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The Chair shall draw up the draft agenda prior to a meeting. The draft agenda shall be sent to the other Head of Delegation no later than 20 working days before the start of the meeting. The draft agenda circulated by the Chair shall include any item covered by Article 11(3) of the Agreement, chosen by the Chair.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>The Heads of Delegation may request additional items covered by Article 11(3) at least 10 working days before the start of the meeting, which the Chair must include on the draft agenda.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">3</Pnumber>
+                              <P2para>
+                                 <Text>A final draft agenda shall be circulated to the other Head of Delegation by the Chair at least five working days before the start of the meeting.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">4</Pnumber>
+                              <P2para>
+                                 <Text>The agenda shall be adopted by joint agreement by the Chair and the other Head of Delegation at the start of each meeting. An item other than those appearing on the draft agenda may be placed on the agenda if the Chair and other Head of Delegation so agree.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Adoption of instruments</Title>
+                     <P1>
+                        <Pnumber>Article 6</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The decisions of the Committee within the meaning of Article 11(2) of the Agreement shall be addressed to the Parties and shall bear the signatures of the Chair and of the other Head of Delegation.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>Either Party may decide to publish any decision adopted by the Committee.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Written procedure</Title>
+                     <P1>
+                        <Pnumber>Article 7</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>A decision of the Committee may be adopted by a written procedure where the Chair and the other Head of Delegation so agree.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>The Head of Delegation proposing the use of the written procedure shall submit the draft decision to the other Head of Delegation. The other Head of Delegation shall reply, indicating whether he or she accepts or does not accept the draft, proposes any amendments, or requests further time for reflection. If the draft is adopted, it shall be finalised in accordance with Article 6(1).</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Minutes</Title>
+                     <P1>
+                        <Pnumber>Article 8</Pnumber>
+                        <P1para>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">1</Pnumber>
+                              <P2para>
+                                 <Text>The Chair shall draw up draft minutes of each meeting and submit them to the other Head of Delegation within 20 working days of the meeting. The draft minutes shall state the recommendations made and may also note any other conclusions reached. The other Head of Delegation shall agree to the draft, or submit proposed amendments. Once there is agreement on the draft minutes, two original copies shall be signed by the Chair and by the other Head of Delegation. An original copy of the minutes shall be kept by the Chair and one by the other Head of Delegation.</Text>
+                              </P2para>
+                           </P2>
+                           <P2>
+                              <Pnumber PuncBefore="" PuncAfter=".">2</Pnumber>
+                              <P2para>
+                                 <Text>In the event there is no agreement on the minutes before the subsequent meeting is convened, the minutes shall record the draft drawn up by the Chair to which shall be annexed the proposed amendments submitted by the other Head of Delegation.</Text>
+                              </P2para>
+                           </P2>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Expenses</Title>
+                     <P1>
+                        <Pnumber>Article 9</Pnumber>
+                        <P1para>
+                           <Text>Each Party shall bear the expenses it incurs in taking part in the meetings of the Committee.</Text>
+                        </P1para>
+                     </P1>
+                  </P1group>
+                  <P1group>
+                     <Title>Confidentiality</Title>
+                     <P1>
+                        <Pnumber>Article 10</Pnumber>
+                        <P1para>
+                           <Text>The deliberations of the Committee shall be confidential.</Text>
+                        </P1para>
+                     </P1>
+                  </P1group>
+               </EUBody>
+            </EURetained>
+         </Attachment>
+      </Attachments>
+   </EURetained>
+   <Footnotes>
+      <Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="2012" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.093.01.0003.01.ENG" Date="2012-03-30">OJ L 93, 30.3.2012, p. 3</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote>
+   </Footnotes>
+</Legislation>

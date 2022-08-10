@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/1988/1118" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/uksi/1988/1118</dc:identifier>
+    <dc:subject>Trade unions</dc:subject>
+    <dc:title>The Employment Act 1988 (Commencement No. 1) Order 1988</dc:title>
+    <dc:identifier>urn:isbn:0110871189</dc:identifier>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2016-07-26</dc:modified>
+    <dct:valid>1988-06-27</dct:valid>
+    <dc:subject scheme="SIheading">TRADE UNIONS</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="order"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="1988"/>
+      <ukm:Number Value="1118"/>
+      <ukm:ISBN Value="0110871189"/>
+      <ukm:AlternativeNumber Category="C" Value="38"/>
+      <ukm:Made Date="1988-06-27"/>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents xmlns:local="#local">
+    <ContentsTitle>The Employment Act 1988 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation> 1) Order 1988</ContentsTitle>
+    <ContentsItem ContentRef="article-1" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Citation and interpretation</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-2" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Commencement provisions</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-3" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/3">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle Generated="true">The following sections of the Act shall come into force...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-4" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/4">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle>Transitional provisions</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-5" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/5">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle Generated="true">Section 2 of the Act shall not apply to any...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-6" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/6">
+      <ContentsNumber>6</ContentsNumber>
+      <ContentsTitle Generated="true">Section 7 of the Act shall not apply in relation...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-7" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/7">
+      <ContentsNumber>7</ContentsNumber>
+      <ContentsTitle Generated="true">Nothing in section 10 of the Act or in paragraph...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-8" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/8">
+      <ContentsNumber>8</ContentsNumber>
+      <ContentsTitle Generated="true">Nothing in section 11 of the Act, in paragraph 2(1)...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-9" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/9">
+      <ContentsNumber>9</ContentsNumber>
+      <ContentsTitle Generated="true">Where an election is held on or after the first...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-10" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/10">
+      <ContentsNumber>10</ContentsNumber>
+      <ContentsTitle Generated="true">Neither the repeal of section 3 of the 1984 Act...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-11" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/11">
+      <ContentsNumber>11</ContentsNumber>
+      <ContentsTitle Generated="true">Section 16 of the Act shall not apply to any...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-12" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/12">
+      <ContentsNumber>12</ContentsNumber>
+      <ContentsTitle Generated="true">(1) Nothing in section 17 of the Act or in...</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="article-13" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/article/13">
+      <ContentsNumber>13</ContentsNumber>
+      <ContentsTitle Generated="true">The amendments made to section 5 of the Employment Act...</ContentsTitle>
+    </ContentsItem>
+    <ContentsSchedules>
+      <ContentsSchedule ContentRef="schedule-1" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/schedule/1">
+        <ContentsNumber>SCHEDULE 1</ContentsNumber>
+        <ContentsAppendix ContentRef="schedule-1-appendix-A" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/schedule/1/appendix/A">
+          <ContentsNumber>APPENDIX A</ContentsNumber>
+        </ContentsAppendix>
+        <ContentsAppendix ContentRef="schedule-1-appendix-B" IdURI="http://www.legislation.gov.uk/id/uksi/1988/1118/schedule/1/appendix/B">
+          <ContentsNumber>APPENDIX B</ContentsNumber>
+        </ContentsAppendix>
+      </ContentsSchedule>
+    </ContentsSchedules>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>1988 No. 1118 (C.38)</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>TRADE UNIONS</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Employment Act 1988 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation> 1) Order 1988</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>27th June 1988</DateText>
+      </MadeDate>
+      <SecondaryPreamble>
+        <EnactingText>
+          <Para>
+            <Text>The Secretary of State, in exercise of the powers conferred on him by subsections (2) and (3) of section 34 of the Employment Act 1988<FootnoteRef Ref="f00001"/>, hereby makes the following Order:—</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body NumberFormat="default">
+      <P1group>
+        <Title>Citation and interpretation</Title>
+        <P1 id="article-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <P2 id="article-1-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>This Order may be cited as the Employment Act 1988 (Commencement <Abbreviation Expansion="Number">No.</Abbreviation> 1) Order 1988.</Text>
+              </P2para>
+            </P2>
+            <P2 id="article-1-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In this Order, “<Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>” means the Employment Act 1988.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Commencement provisions</Title>
+        <P1 id="article-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <Text>The sections of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> specified in the first column of the Schedule to this Order shall come into force on 26th July 1988 (hereinafter referred to as “the first commencement date”).</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-3">
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <Text>The following sections of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall come into force on 26th July 1989, that is to say—</Text>
+            <P3 id="article-3-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>section 12 (Extension to non-voting positions of duty to hold elections) to the extent that it is not brought into force on the first commencement date;</Text>
+              </P3para>
+            </P3>
+            <P3 id="article-3-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>section 33(1) (Minor and consequential amendments) to the extent that it relates to paragraphs 5(5)(a) and 5(6) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> (which respectively amend sections 8(1) and 9(1) of the 1984 Act<FootnoteRef Ref="f00002"/>); and</Text>
+              </P3para>
+            </P3>
+            <P3 id="article-3-c">
+              <Pnumber>c</Pnumber>
+              <P3para>
+                <Text>section 33(2) (Repeals) to the extent that it relates to the repeals in sections 1(1) to (3) and 8(1) of the 1984 Act specified in Schedule 4 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>.</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Transitional provisions</Title>
+        <P1 id="article-4">
+          <Pnumber>4</Pnumber>
+          <P1para>
+            <P2 id="article-4-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Nothing in section 1 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>, or in section 17 of or paragraph 5(7) or (8) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> so far as those provisions are relevant to the said section 1, shall apply to the authorisation or endorsement of any industrial action induced with the support of a ballot in respect of which the first day for the casting of votes falls before the first commencement date.</Text>
+              </P2para>
+            </P2>
+            <P2 id="article-4-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>For the purposes of paragraph (1) of this Article an inducement of industrial action is with the support of a ballot if, but only if, the ballot is a ballot in respect of which the requirements of sections 10 and 11 of the 1984 Act (without the amendments to those sections made by the said section 17 of and paragraphs 5(7) and (8) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>) are satisfied.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+        <P1 id="article-5">
+          <Pnumber>5</Pnumber>
+          <P1para>
+            <Text>Section 2 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall not apply to any relevant matter if a person has made an application to the union before the first commencement date for that matter to be submitted for determination or arbitration.</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-6">
+          <Pnumber>6</Pnumber>
+          <P1para>
+            <Text>Section 7 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall not apply in relation to any certificate given by an employee to his employer before the first commencement date.</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-7">
+          <Pnumber>7</Pnumber>
+          <P1para>
+            <Text>Nothing in section 10 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> or in paragraph 4 of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall apply to an act done before the first commencement date.</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-8">
+          <Pnumber>8</Pnumber>
+          <P1para>
+            <Text>Nothing in section 11 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>, in paragraph 2(1) or (2) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> or in the repeals to the 1978 Act<FootnoteRef Ref="f00003"/>, the Employment Act 1980<FootnoteRef Ref="f00004"/>and the 1982 Act<FootnoteRef Ref="f00005"/>specified in Schedule 4 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall apply—</Text>
+            <P3 id="article-8-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>so far as those provisions relate to action short of dismissal, where the action complained of, or where that action is part of a series of actions the last action, occurs before the first commencement date; or</Text>
+              </P3para>
+            </P3>
+            <P3 id="article-8-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>so far as those provisions relate to dismissal, where the effective date of termination as defined in subsection (4) of section 55 of the 1978 Act, or where a later date is to be treated as the effective date of termination by virtue of subsection (5) or (6) and subsection (7) of that section that later date, falls before the first commencement date.</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+        <P1 id="article-9">
+          <Pnumber>9</Pnumber>
+          <P1para>
+            <Text>Where an election is held on or after the first commencement date but the latest time at which a person may become a candidate in that election falls before that date the requirements of section 13 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall be taken to be satisfied if—</Text>
+            <P3 id="article-9-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>all the candidates are given one of the following entitlements (being the same entitlement for each candidate), that is to say—</Text>
+                <P4 id="article-9-a-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>to distribute an election address to those persons entitled to vote in the election;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="article-9-a-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>to have distributed to those persons an election address submitted to the union by the candidate;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="article-9-a-iii">
+                  <Pnumber>iii</Pnumber>
+                  <P4para>
+                    <Text>if it is the practice of the union to include election addresses in a publication sent to or made available to members of the trade union, to have an election address included in such a publication;or</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="article-9-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>no candidate is given any of the entitlements mentioned above or any other entitlement to bring to the attention of members of the union, or have brought to their attention, any written election address.</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+        <P1 id="article-10">
+          <Pnumber>10</Pnumber>
+          <P1para>
+            <Text>Neither the repeal of section 3 of the 1984 Act made by section 14(2) of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>, the provisions of paragraph 5(2)(b) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> nor the repeal in section 9(1) of the 1984 Act made by section 33 of and Schedule 4 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall have effect in relation to any election if the first day on which votes may be cast in the ballot for the election falls before the commencement date.</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-11">
+          <Pnumber>11</Pnumber>
+          <P1para>
+            <Text>Section 16 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall not apply to any ballot for the purposes of the 1913 Act<FootnoteRef Ref="f00006"/>taken before the first commencement date.</Text>
+          </P1para>
+        </P1>
+        <P1 id="article-12">
+          <Pnumber>12</Pnumber>
+          <P1para>
+            <P2 id="article-12-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Nothing in section 17 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> or in paragraph 5(7) or (8) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall apply in relation to an act done by a trade union with the support of a ballot in respect of which the first day for the casting of votes falls before the first commencement date.</Text>
+              </P2para>
+            </P2>
+            <P2 id="article-12-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>For the purposes of paragraph (1) of this Article an act is done with the support of a ballot if, but only if, the ballot is a ballot in respect of which the requirements of sections 10 and 11 of the 1984 Act (without the amendments to those sections made by section 17 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> and paragraphs 5(7) and (8) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation>) are satisfied.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+        <P1 id="article-13">
+          <Pnumber>13</Pnumber>
+          <P1para>
+            <Text>The amendments made to section 5 of the Employment Act 1980 by paragraph 3(2) of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> shall not apply in relation to an application for an award of compensation made before the first commencement date.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Para>
+            <Text>Signed by order of the Secretary of State.</Text>
+          </Para>
+          <Signee>
+            <PersonName>John Cope</PersonName>
+            <JobTitle>Minister of State,</JobTitle>
+            <Department>Department of Employment</Department>
+            <DateSigned Date="1988-06-27">
+              <DateText>27th June 1988</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <Schedules>
+      <Schedule NumberFormat="default" id="schedule-1">
+        <Number>SCHEDULE 1</Number>
+        <ScheduleBody>
+          <Tabular Orientation="portrait">
+            <table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+              <thead>
+                <tr>
+                  <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">(1)</Emphasis></th>
+                  <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">(2)</Emphasis></th>
+                </tr>
+                <tr>
+                  <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Sections of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> brought into force on the first commencement date</Emphasis></th>
+                  <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Subject matter of sections</Emphasis></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 1</td>
+                  <td colspan="1" rowspan="1">Right to a ballot before industrial action</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 2</td>
+                  <td colspan="1" rowspan="1">Right not to be denied access to the courts <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation></td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 3</td>
+                  <td colspan="1" rowspan="1">Right not to be unjustifiably disciplined</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 4</td>
+                  <td colspan="1" rowspan="1">Complaint of infringement of right under section 3</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 5</td>
+                  <td colspan="1" rowspan="1">Further remedies for infringement of right under section 3</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 6</td>
+                  <td colspan="1" rowspan="1">Right to inspect union’s accounting records</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 7</td>
+                  <td colspan="1" rowspan="1">Right to require employer to stop deductions of union subscriptions</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 9</td>
+                  <td colspan="1" rowspan="1">Remedy against trustees for unlawful use of property</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 10</td>
+                  <td colspan="1" rowspan="1">Industrial action to enforce membership</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 11</td>
+                  <td colspan="1" rowspan="1">Action by an employer to enforce membership</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 12(2), and (6) so far as it defines the meaning of “principal executive committee”</td>
+                  <td colspan="1" rowspan="1">Exemption from duty to hold elections for unions involved in mergers</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 13</td>
+                  <td colspan="1" rowspan="1">Election addresses</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 14</td>
+                  <td colspan="1" rowspan="1">Requirement of postal ballot for certain ballots and elections</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 16</td>
+                  <td colspan="1" rowspan="1">Remedy with respect to ballot on use of funds for political purposes</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 17</td>
+                  <td colspan="1" rowspan="1">Ballots on industrial action affecting different places of work</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 22</td>
+                  <td colspan="1" rowspan="1">Procedure before the Certification Officer</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 23</td>
+                  <td colspan="1" rowspan="1">Interlocutory and interim orders</td>
+                </tr>
+                <tr>
+                  <td colspan="1" rowspan="1">Section 33 so far as it relates to the provisions of Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19" xmlns="http://www.legislation.gov.uk/namespaces/legislation">the Act</Abbreviation> specified in Appendix A and to the repeals specified in Schedule 4 to <Abbreviation Expansion="Employment Act 1988 c. 19" xmlns="http://www.legislation.gov.uk/namespaces/legislation">the Act</Abbreviation> referred to in Appendix B</td>
+                  <td colspan="1" rowspan="1">Minor and consequential amendments and repeals</td>
+                </tr>
+              </tbody>
+            </table>
+          </Tabular>
+        </ScheduleBody>
+        <Appendix id="schedule-1-appendix-A">
+          <Number>APPENDIX A</Number>
+          <AppendixBody>
+            <Tabular Orientation="portrait">
+              <table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+                <thead>
+                  <tr>
+                    <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">(1)</Emphasis></th>
+                    <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">(2)</Emphasis></th>
+                  </tr>
+                  <tr>
+                    <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Provisions in Schedule 3 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> brought into force on the first commencement date</Emphasis></th>
+                    <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Enactments and provisions amended</Emphasis></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td colspan="1" rowspan="1">Paragraph 2</td>
+                    <td colspan="1" rowspan="1">Sections 23, 58, 133 and 136 of the 1978 Act and paragraphs 18 and 21A of Schedule 11 to that Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">Paragraph 3</td>
+                    <td colspan="1" rowspan="1">Sections 2 and 5 of the Employment Act 1980</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">Paragraph 4</td>
+                    <td colspan="1" rowspan="1">Section 14 of the 1982 Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">In paragraph 5, sub-paragraphs (1), (2)(b), (3), (4)(a), 4(b) so far as it relates to section 13 of <Abbreviation Expansion="Employment Act 1988 c. 19" xmlns="http://www.legislation.gov.uk/namespaces/legislation">the Act</Abbreviation>, (4)(c), (5)(b) so far as it relates to section 13 of <Abbreviation Expansion="Employment Act 1988 c. 19" xmlns="http://www.legislation.gov.uk/namespaces/legislation">the Act</Abbreviation>, (5)(c), (5)(d), (7), (8) and (9)</td>
+                    <td colspan="1" rowspan="1">Sections 1, 2, 3, 4, 5, 8, 10, 11 and 22 of the 1984 Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">Paragraph 6</td>
+                    <td colspan="1" rowspan="1">Sections 1 and 5 of the Wages Act 1986<FootnoteRef Ref="f00007" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+                  </tr>
+                </tbody>
+              </table>
+            </Tabular>
+          </AppendixBody>
+        </Appendix>
+        <Appendix id="schedule-1-appendix-B">
+          <Number>APPENDIX B</Number>
+          <AppendixBody>
+            <Tabular Orientation="portrait">
+              <table cols="1" xmlns="http://www.w3.org/1999/xhtml">
+                <thead>
+                  <tr>
+                    <th colspan="1" rowspan="1"><Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Repeals specified in Schedule 4 to <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> brought into force on the first commencement date</Emphasis></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeal in section 4(1F) of the 1913 Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeals of section 4(6) of and Schedule 1 to the Trade Union (Amalgamations, <Abbreviation Expansion="et cetera" xml:lang="la" xmlns="http://www.legislation.gov.uk/namespaces/legislation">etc.</Abbreviation>) Act 1964<FootnoteRef Ref="f00008" xmlns="http://www.legislation.gov.uk/namespaces/legislation"/></td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeals in sections 23(1) and 58(1) of, of section 58A of, and in section 153(1) of the 1978 Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeal of section 15(2) of the Employment Act 1980</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeals of sections 10(1) and (2) of and paragraph 16 of Schedule 3 to the 1982 Act</td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1">The repeals of section 3 and 6(6) of and in section 9(1) of the 1984 Act</td>
+                  </tr>
+                </tbody>
+              </table>
+            </Tabular>
+          </AppendixBody>
+        </Appendix>
+      </Schedule>
+    </Schedules>
+    <ExplanatoryNotes>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Order)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text>This Order brings into force on 26th July 1988 the sections of Part I of the Employment Act 1988 set out in the Schedule to the Order and the amendments and repeals, which are related to those sections, set out in the Appendices to the Schedule.</Text>
+      </P>
+      <P>
+        <Text>Article 3 brings into force on 26th July 1989 section 12 of <Abbreviation Expansion="Employment Act 1988 c. 19">the Act</Abbreviation> (to the extent that it is not brought into force on 26th July 1988) and the amendments and repeals related to it. Section 12 extends the existing duty on trade unions to hold elections in respect of the voting positions on their principal executive committees to cover non-voting positions on those committees and the positions of president and general secretary.</Text>
+      </P>
+      <P>
+        <Text>The Order contains transitional provisions.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/19" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0019">1988 c. 19</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1984/49" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1984" Number="0049">1984 c. 49</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1978/44" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1978" Number="0044">1978 c. 44</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00004">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1980/42" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0042">1980 c. 42</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00005">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1982/46" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="1982" Number="0046">1982 c. 46</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00006">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1913/30" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1913" Number="0030">1913 c. 30</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00007">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1986/48" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="1986" Number="0048">1986 c. 48</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00008">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1964/24" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1964" Number="0024">1964 c. 24</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

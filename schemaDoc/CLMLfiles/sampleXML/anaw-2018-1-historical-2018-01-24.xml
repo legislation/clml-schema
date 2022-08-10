@@ -1,17 +1,7 @@
-<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24"
-	IdURI="http://www.legislation.gov.uk/id/anaw/2018/1" NumberOfProvisions="25"
-	RestrictEndDate="2019-01-26"
-	xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd"
-	SchemaVersion="1.0" RestrictExtent="E+W" RestrictStartDate="2018-01-24">
-	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
-		xmlns:atom="http://www.w3.org/2005/Atom"
-		xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1" NumberOfProvisions="25" RestrictEndDate="2019-01-26" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W" RestrictStartDate="2018-01-24">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
 		<dc:identifier>http://www.legislation.gov.uk/anaw/2018/1/2018-01-24</dc:identifier>
-		<dc:description>An Act of the National Assembly for Wales to make provision for the
-			abolition of the right to buy, the right to acquire and associated rights; and for
-			connected purposes.</dc:description>
+		<dc:description>An Act of the National Assembly for Wales to make provision for the abolition of the right to buy, the right to acquire and associated rights; and for connected purposes.</dc:description>
 		<dc:type>text</dc:type>
 		<dc:format>text/xml</dc:format>
 		<dc:language>en</dc:language>
@@ -20,66 +10,34 @@
 		<dc:modified>2019-03-08</dc:modified>
 		<dct:valid>2018-01-24</dct:valid>
 
-		<atom:link rel="self" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.xml"
-			type="application/xml"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources"
-			href="http://www.legislation.gov.uk/anaw/2018/1/resources" title="More Resources"/>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/anaw/2018/1/resources" title="More Resources"/>
 
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes"
-			href="http://www.legislation.gov.uk/id/anaw/2018/1/notes" title="Explanatory Notes"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc"
-			href="http://www.legislation.gov.uk/anaw/2018/1/notes/contents"
-			title="Explanatory Notes Table of Contents"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24" title="whole act"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction"
-			href="http://www.legislation.gov.uk/anaw/2018/1/introduction/2018-01-24"
-			title="introduction"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body"
-			href="http://www.legislation.gov.uk/anaw/2018/1/body/2018-01-24" title="body"/>
-		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules"
-			href="http://www.legislation.gov.uk/anaw/2018/1/schedules/2018-01-24" title="schedules"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/anaw/2018/1/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/anaw/2018/1/notes/contents" title="Explanatory Notes Table of Contents"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/anaw/2018/1/introduction/2018-01-24" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/anaw/2018/1/body/2018-01-24" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/anaw/2018/1/schedules/2018-01-24" title="schedules"/>
 
 
-		<atom:link rel="alternate" type="application/rdf+xml"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.rdf" title="RDF/XML"/>
-		<atom:link rel="alternate" type="application/akn+xml"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.akn" title="AKN"/>
-		<atom:link rel="alternate" type="application/xhtml+xml"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.xht"
-			title="HTML snippet"/>
-		<atom:link rel="alternate" type="application/pdf"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.pdf" title="PDF"/>
-		<atom:link rel="alternate" type="application/akn+xhtml"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.html"
-			title="HTML5 snippet"/>
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/anaw/2018/1/2018-01-24/data.html" title="HTML5 snippet"/>
 
-		<atom:link rel="alternate" type="application/pdf"
-			href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_en.pdf"
-			title="Original PDF"/>
-		<atom:link rel="alternate" type="application/pdf"
-			href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_we.pdf"
-			title="Original PDF"/>
-		<atom:link rel="alternate" type="application/pdf"
-			href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_mi.pdf"
-			title="Original PDF"/>
-		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en"
-			href="http://www.legislation.gov.uk/anaw/2018/1/contents/2018-01-24"
-			title="Table of Contents"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_en.pdf" title="Original PDF"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_we.pdf" title="Original PDF"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_mi.pdf" title="Original PDF"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/anaw/2018/1/contents/2018-01-24" title="Table of Contents"/>
 
-		<atom:link rel="http://purl.org/dc/terms/isReplacedBy"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2019-01-26" title="2019-01-26"/>
-		<atom:link rel="http://purl.org/dc/terms/hasVersion"
-			href="http://www.legislation.gov.uk/anaw/2018/1/enacted" title="enacted" hreflang="en"/>
-		<atom:link rel="http://purl.org/dc/terms/hasVersion"
-			href="              http://www.legislation.gov.uk/anaw/2018/1/enacted/welsh"
-			title="enacted" hreflang="cy"/>
-		<atom:link rel="http://purl.org/dc/terms/hasVersion"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2018-03-25" title="2018-03-25"/>
-		<atom:link rel="http://purl.org/dc/terms/hasVersion"
-			href="http://www.legislation.gov.uk/anaw/2018/1/2019-01-26" title="2019-01-26"/>
-		<atom:link rel="http://purl.org/dc/terms/hasVersion"
-			href="http://www.legislation.gov.uk/anaw/2018/1" title="current"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/anaw/2018/1/2019-01-26" title="2019-01-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/anaw/2018/1/enacted" title="enacted" hreflang="en"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="              http://www.legislation.gov.uk/anaw/2018/1/enacted/welsh" title="enacted" hreflang="cy"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/anaw/2018/1/2018-03-25" title="2018-03-25"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/anaw/2018/1/2019-01-26" title="2019-01-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/anaw/2018/1" title="current"/>
 
 
 		<ukm:PrimaryMetadata>
@@ -97,30 +55,17 @@
 
 
 		<ukm:Notes>
-			<ukm:Note IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/notes"
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/notes"/>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/notes" DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/notes"/>
 			<ukm:Alternatives>
-				<ukm:Alternative
-					URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_mi.pdf"
-					Date="2018-06-21" Title="Explanatory Note" Size="2813515" Language="Mixed"/>
-				<ukm:Alternative
-					URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_en.pdf"
-					Date="2018-01-25" Title="Explanatory Note" Size="1667325"/>
-				<ukm:Alternative
-					URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_we.pdf"
-					Date="2018-01-25" Title="Explanatory Note" Size="1694100" Language="Welsh"/>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_mi.pdf" Date="2018-06-21" Title="Explanatory Note" Size="2813515" Language="Mixed"/>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_en.pdf" Date="2018-01-25" Title="Explanatory Note" Size="1667325"/>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anawen_20180001_we.pdf" Date="2018-01-25" Title="Explanatory Note" Size="1694100" Language="Welsh"/>
 			</ukm:Alternatives>
 		</ukm:Notes>
 		<ukm:Alternatives>
-			<ukm:Alternative
-				URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_en.pdf"
-				Date="2018-01-25" Size="1909906"/>
-			<ukm:Alternative
-				URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_we.pdf"
-				Date="2018-01-25" Size="1909951" Language="Welsh"/>
-			<ukm:Alternative
-				URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_mi.pdf"
-				Date="2018-01-25" Size="3204608" Language="Mixed"/>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_en.pdf" Date="2018-01-25" Size="1909906"/>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_we.pdf" Date="2018-01-25" Size="1909951" Language="Welsh"/>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/anaw/2018/1/pdfs/anaw_20180001_mi.pdf" Date="2018-01-25" Size="3204608" Language="Mixed"/>
 		</ukm:Alternatives>
 
 		<ukm:Statistics>
@@ -132,162 +77,96 @@
 		</ukm:Statistics>
 	</ukm:Metadata>
 	<Primary>
-		<PrimaryPrelims
-			DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/introduction/2018-01-24"
-			IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/introduction"
-			RestrictStartDate="2018-01-24">
+		<PrimaryPrelims DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/introduction/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/introduction" RestrictStartDate="2018-01-24">
 			<Title>Abolition of the Right to Buy and Associated Rights (Wales) Act 2018</Title>
 			<Number>2018 anaw 1</Number>
-			<LongTitle>An Act of the National Assembly for Wales to make provision for the abolition
-				of the right to buy, the right to acquire and associated rights; and for connected
-				purposes.</LongTitle>
+			<LongTitle>An Act of the National Assembly for Wales to make provision for the abolition of the right to buy, the right to acquire and associated rights; and for connected purposes.</LongTitle>
 			<DateOfEnactment>
 				<DateText>[24 January 2018]</DateText>
 			</DateOfEnactment>
 			<PrimaryPreamble>
 				<IntroductoryText>
 					<P>
-						<Text><Strong>Having been passed by the National Assembly for Wales and
-								having received the assent of Her Majesty, it is enacted as
-								follows:</Strong></Text>
+						<Text><Strong>Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:</Strong></Text>
 					</P>
 				</IntroductoryText>
 				<EnactingTextOmitted/>
 			</PrimaryPreamble>
 		</PrimaryPrelims>
-		<Body DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/body/2018-01-24"
-			IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/body" NumberOfProvisions="16"
-			RestrictStartDate="2018-01-24">
+		<Body DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/body/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/body" NumberOfProvisions="16" RestrictStartDate="2018-01-24">
 			<P1group RestrictStartDate="2018-01-24">
 				<Title>Overview</Title>
-				<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/2018-01-24"
-					IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1" id="section-1">
+				<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1" id="section-1">
 					<Pnumber PuncAfter="">1</Pnumber>
 					<P1para>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/1/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/1"
-							id="section-1-1">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/1" id="section-1-1">
 							<Pnumber>1</Pnumber>
 							<P2para>
-								<Text>This section gives an overview of the main provisions of this
-									Act.</Text>
+								<Text>This section gives an overview of the main provisions of this Act.</Text>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/2/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/2"
-							id="section-1-2">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/2" id="section-1-2">
 							<Pnumber>2</Pnumber>
 							<P2para>
-								<Text>Section 2 restricts the exercise of the right to buy pending
-									its abolition (for which see section 6); and section 3 provides
-									for exceptions to that restriction.</Text>
+								<Text>Section 2 restricts the exercise of the right to buy pending its abolition (for which see section 6); and section 3 provides for exceptions to that restriction.</Text>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/3/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/3"
-							id="section-1-3">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/3" id="section-1-3">
 							<Pnumber>3</Pnumber>
 							<P2para>
-								<Text>Section 4 restricts the exercise of the right to acquire
-									pending its abolition (for which see section 6); and section 5
-									provides for an exception to that restriction.</Text>
+								<Text>Section 4 restricts the exercise of the right to acquire pending its abolition (for which see section 6); and section 5 provides for an exception to that restriction.</Text>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/4/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/4"
-							id="section-1-4">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/4" id="section-1-4">
 							<Pnumber>4</Pnumber>
 							<P2para>
-								<Text>Section 6 provides for the right to buy and the right to
-									acquire to cease to exist in Wales.</Text>
+								<Text>Section 6 provides for the right to buy and the right to acquire to cease to exist in Wales.</Text>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/5/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/5"
-							id="section-1-5">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/5" id="section-1-5">
 							<Pnumber>5</Pnumber>
 							<P2para>
-								<Text>Section 7 removes the Welsh Ministers' power to make grants to
-									registered social landlords, and private registered providers of
-									social housing, in respect of discounts given to tenants who
-									purchase their dwellings.</Text>
+								<Text>Section 7 removes the Welsh Ministers' power to make grants to registered social landlords, and private registered providers of social housing, in respect of discounts given to tenants who purchase their dwellings.</Text>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6"
-							id="section-1-6">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6" id="section-1-6">
 							<Pnumber>6</Pnumber>
 							<P2para>
 								<Text>Section 8—</Text>
-								<P3
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/a/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6/a"
-									id="section-1-6-a">
+								<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6/a" id="section-1-6-a">
 									<Pnumber>a</Pnumber>
 									<P3para>
-										<Text>requires the Welsh Ministers to provide landlords and
-											other interested persons with information about changes
-											to the law made by this Act, and</Text>
+										<Text>requires the Welsh Ministers to provide landlords and other interested persons with information about changes to the law made by this Act, and</Text>
 									</P3para>
 								</P3>
-								<P3
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/b/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6/b"
-									id="section-1-6-b">
+								<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/6/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/6/b" id="section-1-6-b">
 									<Pnumber>b</Pnumber>
 									<P3para>
-										<Text>requires landlords to inform their tenants about those
-											changes.</Text>
+										<Text>requires landlords to inform their tenants about those changes.</Text>
 									</P3para>
 								</P3>
 							</P2para>
 						</P2>
-						<P2
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7"
-							id="section-1-7">
+						<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7" id="section-1-7">
 							<Pnumber>7</Pnumber>
 							<P2para>
-								<Text>Sections 9, 10, 11 and 12 contain general provisions about the
-									Act; the effect of section 11 is that—</Text>
-								<P3
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/a/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/a"
-									id="section-1-7-a">
+								<Text>Sections 9, 10, 11 and 12 contain general provisions about the Act; the effect of section 11 is that—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/a" id="section-1-7-a">
 									<Pnumber>a</Pnumber>
 									<P3para>
-										<Text>section 8 (provision of information) comes into force
-											on Royal Assent,</Text>
+										<Text>section 8 (provision of information) comes into force on Royal Assent,</Text>
 									</P3para>
 								</P3>
-								<P3
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/b/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/b"
-									id="section-1-7-b">
+								<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/b" id="section-1-7-b">
 									<Pnumber>b</Pnumber>
 									<P3para>
-										<Text>sections 2 to 5 (restricting the exercise of rights)
-											come into force two months after Royal Assent,
-											and</Text>
+										<Text>sections 2 to 5 (restricting the exercise of rights) come into force two months after Royal Assent, and</Text>
 									</P3para>
 								</P3>
-								<P3
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/c/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/c"
-									id="section-1-7-c">
+								<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/1/7/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/1/7/c" id="section-1-7-c">
 									<Pnumber>c</Pnumber>
 									<P3para>
-										<Text>sections 6 and 7 (abolition of rights <Abbreviation
-												Expansion="et cetera" xml:lang="la"
-												>etc.</Abbreviation>) may be brought into force by
-											an order made by statutory instrument no earlier than
-											twelve months after Royal Assent.</Text>
+										<Text>sections 6 and 7 (abolition of rights <Abbreviation Expansion="et cetera" xml:lang="la">etc.</Abbreviation>) may be brought into force by an order made by statutory instrument no earlier than twelve months after Royal Assent.</Text>
 									</P3para>
 								</P3>
 							</P2para>
@@ -295,168 +174,121 @@
 					</P1para>
 				</P1>
 			</P1group>
-			<Pblock
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire"
-				NumberOfProvisions="8" RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25"
-				Match="false"
-				id="crossheading-restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire">
-				<Title><Emphasis>Restriction on exercising the right to buy and the right to
-						acquire</Emphasis></Title>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire" NumberOfProvisions="8" RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25" Match="false" id="crossheading-restriction-on-exercising-the-right-to-buy-and-the-right-to-acquire">
+				<Title><Emphasis>Restriction on exercising the right to buy and the right to acquire</Emphasis></Title>
 				<P1group RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25" Match="false">
 					<Title>Restriction on exercising the right to buy</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2"
-						id="section-2">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2" id="section-2">
 						<Pnumber PuncAfter="">2</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/1"
-								id="section-2-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/1" id="section-2-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
 									<Text>The Housing Act 1985 (c. 68) is amended as follows.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/2"
-								id="section-2-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/2" id="section-2-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>After section 121 (circumstances in which the the right to
-										buy cannot be exercised), insert⁠—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>After section 121 (circumstances in which the the right to buy cannot be exercised), insert⁠—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P1group>
-											<Title>Restriction on exercising the right to buy in
-												Wales</Title>
+											<Title>Restriction on exercising the right to buy in Wales</Title>
 											<P1>
 												<Pnumber PuncAfter="">121ZA</Pnumber>
 												<P1para>
-												<P2>
-												<Pnumber>1</Pnumber>
-												<P2para>
-												<Text>The right to buy cannot be exercised in
-												respect of a dwelling-house in Wales
-												unless—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the dwelling-house is from previously let
-												social housing stock, or</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>any of the cases specified in section 121ZB
-												applies, or has applied, in respect of the
-												dwelling-house.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>2</Pnumber>
-												<P2para>
-												<Text>For the purposes of this Part—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>a dwelling-house is from previously let
-												social housing stock if, at any time during the
-												period of six months ending with the relevant
-												date, it has been—</Text>
-												<P4>
-												<Pnumber>i</Pnumber>
-												<P4para>
-												<Text>let under a secure tenancy,</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>ii</Pnumber>
-												<P4para>
-												<Text>let under an introductory tenancy (within
-												the meaning given by Chapter 1 of Part 5 of the
-												Housing Act 1996 (c. 52)),</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>iii</Pnumber>
-												<P4para>
-												<Text>let under a demoted tenancy (within the
-												meaning given by section 143A of the Housing Act
-												1996), or</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>iv</Pnumber>
-												<P4para>
-												<Text>a qualifying dwelling-house in relation to
-												the preserved right to buy (see section
-												171B);</Text>
-												</P4para>
-												</P4>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>“<Term>relevant date</Term>” means the day
-												on which section 2 of the Abolition of the Right
-												to Buy and Associated Rights (Wales) Act 2017
-												comes into force.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>3</Pnumber>
-												<P2para>
-												<Text>This section does not affect the computation
-												of any period under Schedule 4.</Text>
-												</P2para>
-												</P2>
+													<P2>
+														<Pnumber>1</Pnumber>
+														<P2para>
+															<Text>The right to buy cannot be exercised in respect of a dwelling-house in Wales unless—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>the dwelling-house is from previously let social housing stock, or</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>any of the cases specified in section 121ZB applies, or has applied, in respect of the dwelling-house.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>2</Pnumber>
+														<P2para>
+															<Text>For the purposes of this Part—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>a dwelling-house is from previously let social housing stock if, at any time during the period of six months ending with the relevant date, it has been—</Text>
+																	<P4>
+																		<Pnumber>i</Pnumber>
+																		<P4para>
+																			<Text>let under a secure tenancy,</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>ii</Pnumber>
+																		<P4para>
+																			<Text>let under an introductory tenancy (within the meaning given by Chapter 1 of Part 5 of the Housing Act 1996 (c. 52)),</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>iii</Pnumber>
+																		<P4para>
+																			<Text>let under a demoted tenancy (within the meaning given by section 143A of the Housing Act 1996), or</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>iv</Pnumber>
+																		<P4para>
+																			<Text>a qualifying dwelling-house in relation to the preserved right to buy (see section 171B);</Text>
+																		</P4para>
+																	</P4>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>“<Term>relevant date</Term>” means the day on which section 2 of the Abolition of the Right to Buy and Associated Rights (Wales) Act 2017 comes into force.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>3</Pnumber>
+														<P2para>
+															<Text>This section does not affect the computation of any period under Schedule 4.</Text>
+														</P2para>
+													</P2>
 												</P1para>
 											</P1>
 										</P1group>
 									</BlockAmendment>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/3"
-								id="section-2-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/2/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/2/3" id="section-2-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>In section 171B (extent of the preserved right to buy),
-										after subsection (6), insert—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>In section 171B (extent of the preserved right to buy), after subsection (6), insert—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P2>
 											<Pnumber>7</Pnumber>
 											<P2para>
-												<Text>Nothing in subsection (6) gives a person the
-												right to exercise the preserved right to buy in
-												respect of a dwelling-house in Wales
-												unless⁠—</Text>
+												<Text>Nothing in subsection (6) gives a person the right to exercise the preserved right to buy in respect of a dwelling-house in Wales unless⁠—</Text>
 												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the dwelling-house is from previously let
-												social housing stock (see section 121ZA),
-												or</Text>
-												</P3para>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the dwelling-house is from previously let social housing stock (see section 121ZA), or</Text>
+													</P3para>
 												</P3>
 												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>any of the cases specified in section 121ZB
-												applies, or has applied, in respect of the
-												dwelling-house.</Text>
-												</P3para>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>any of the cases specified in section 121ZB applies, or has applied, in respect of the dwelling-house.</Text>
+													</P3para>
 												</P3>
 											</P2para>
 										</P2>
@@ -468,185 +300,133 @@
 				</P1group>
 				<P1group RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25" Match="false">
 					<Title>Exceptions to the restriction on exercising the right to buy</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3"
-						id="section-3">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3" id="section-3">
 						<Pnumber PuncAfter="">3</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3/1"
-								id="section-3-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3/1" id="section-3-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
 									<Text>The Housing Act 1985 (c. 68) is amended as follows.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3/2"
-								id="section-3-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/3/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/3/2" id="section-3-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>After section 121ZA (restriction on exercising the right
-										to buy in Wales), insert—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>After section 121ZA (restriction on exercising the right to buy in Wales), insert—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P1group>
-											<Title>Exceptions to restriction on exercising the right
-												to buy in Wales</Title>
+											<Title>Exceptions to restriction on exercising the right to buy in Wales</Title>
 											<P1>
 												<Pnumber PuncAfter="">121ZB</Pnumber>
 												<P1para>
-												<P2>
-												<Pnumber>1</Pnumber>
-												<P2para>
-												<Text>The first case applies in respect of a
-												dwelling-house (the “exempted dwelling”)
-												if—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>after the relevant date, the court orders a
-												person who has the right to buy to give up
-												possession of a dwelling-house,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>the order is made on any of the grounds set
-												out in Parts 2 or 3 of Schedule 2,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>c</Pnumber>
-												<P3para>
-												<Text>the person becomes the tenant of the
-												exempted dwelling, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>d</Pnumber>
-												<P3para>
-												<Text>the exempted dwelling is suitable
-												alternative accommodation for the purposes of the
-												order.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>2</Pnumber>
-												<P2para>
-												<Text>The second case applies in respect of a
-												dwelling-house (the “exempted dwelling”)
-												if—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>after the relevant date, the court orders a
-												person who has the preserved right to buy (see
-												section 171B) to give up possession of a
-												dwelling-house,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>the order is made—</Text>
-												<P4>
-												<Pnumber>i</Pnumber>
-												<P4para>
-												<Text>on Ground 9 in Schedule 2 to the Housing Act
-												1988 (c. 50) (possession of dwelling-house let
-												under assured tenancy on grounds that there is
-												suitable alternative accommodation), or</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>ii</Pnumber>
-												<P4para>
-												<Text>in pursuance of section 98(1)(a) of the Rent
-												Act 1977 (c. 42) (limitation on recovery of
-												possession of dwelling-houses let under certain
-												tenancies),</Text>
-												</P4para>
-												</P4>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>c</Pnumber>
-												<P3para>
-												<Text>the person becomes the tenant of the
-												exempted dwelling, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>d</Pnumber>
-												<P3para>
-												<Text>the exempted dwelling is suitable
-												alternative accommodation for the purposes of the
-												order.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>3</Pnumber>
-												<P2para>
-												<Text>The third case applies in respect of a
-												dwelling-house (the “exempted dwelling”)
-												if—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the exempted dwelling has, at some time
-												during the period of six months ending with the
-												relevant date, been let by a registered social
-												landlord or a private registered provider of
-												social housing under an assured tenancy (other
-												than a long tenancy),</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>after the relevant date, a person having the
-												preserved right to buy in respect of another
-												dwelling-house (“the relevant dwelling-house”)
-												becomes the tenant of the exempted dwelling,
-												and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>c</Pnumber>
-												<P3para>
-												<Text>the exempted dwelling becomes the relevant
-												dwelling-house for the purposes of section
-												171B(6).</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>4</Pnumber>
-												<P2para>
-												<Text>The Welsh Ministers may, by regulations made
-												by statutory instrument, amend this section by
-												adding additional cases.</Text>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>5</Pnumber>
-												<P2para>
-												<Text>Regulations under subsection (4) may not be
-												made unless a draft of the statutory instrument
-												containing the regulations has been laid before
-												and approved by a resolution of the National
-												Assembly for Wales.</Text>
-												</P2para>
-												</P2>
+													<P2>
+														<Pnumber>1</Pnumber>
+														<P2para>
+															<Text>The first case applies in respect of a dwelling-house (the “exempted dwelling”) if—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>after the relevant date, the court orders a person who has the right to buy to give up possession of a dwelling-house,</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>the order is made on any of the grounds set out in Parts 2 or 3 of Schedule 2,</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>c</Pnumber>
+																<P3para>
+																	<Text>the person becomes the tenant of the exempted dwelling, and</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>d</Pnumber>
+																<P3para>
+																	<Text>the exempted dwelling is suitable alternative accommodation for the purposes of the order.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>2</Pnumber>
+														<P2para>
+															<Text>The second case applies in respect of a dwelling-house (the “exempted dwelling”) if—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>after the relevant date, the court orders a person who has the preserved right to buy (see section 171B) to give up possession of a dwelling-house,</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>the order is made—</Text>
+																	<P4>
+																		<Pnumber>i</Pnumber>
+																		<P4para>
+																			<Text>on Ground 9 in Schedule 2 to the Housing Act 1988 (c. 50) (possession of dwelling-house let under assured tenancy on grounds that there is suitable alternative accommodation), or</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>ii</Pnumber>
+																		<P4para>
+																			<Text>in pursuance of section 98(1)(a) of the Rent Act 1977 (c. 42) (limitation on recovery of possession of dwelling-houses let under certain tenancies),</Text>
+																		</P4para>
+																	</P4>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>c</Pnumber>
+																<P3para>
+																	<Text>the person becomes the tenant of the exempted dwelling, and</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>d</Pnumber>
+																<P3para>
+																	<Text>the exempted dwelling is suitable alternative accommodation for the purposes of the order.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>3</Pnumber>
+														<P2para>
+															<Text>The third case applies in respect of a dwelling-house (the “exempted dwelling”) if—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>the exempted dwelling has, at some time during the period of six months ending with the relevant date, been let by a registered social landlord or a private registered provider of social housing under an assured tenancy (other than a long tenancy),</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>after the relevant date, a person having the preserved right to buy in respect of another dwelling-house (“the relevant dwelling-house”) becomes the tenant of the exempted dwelling, and</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>c</Pnumber>
+																<P3para>
+																	<Text>the exempted dwelling becomes the relevant dwelling-house for the purposes of section 171B(6).</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>4</Pnumber>
+														<P2para>
+															<Text>The Welsh Ministers may, by regulations made by statutory instrument, amend this section by adding additional cases.</Text>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>5</Pnumber>
+														<P2para>
+															<Text>Regulations under subsection (4) may not be made unless a draft of the statutory instrument containing the regulations has been laid before and approved by a resolution of the National Assembly for Wales.</Text>
+														</P2para>
+													</P2>
 												</P1para>
 											</P1>
 										</P1group>
@@ -658,151 +438,111 @@
 				</P1group>
 				<P1group RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25" Match="false">
 					<Title>Restriction on exercising the right to acquire</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4"
-						id="section-4">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4" id="section-4">
 						<Pnumber PuncAfter="">4</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/1"
-								id="section-4-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/1" id="section-4-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
 									<Text>The Housing Act 1996 (c. 52) is amended as follows.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/2"
-								id="section-4-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/2" id="section-4-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>After section 16A (extension of the right to acquire to
-										dwellings funded by grants under section 27A),
-										insert—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>After section 16A (extension of the right to acquire to dwellings funded by grants under section 27A), insert—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P1group>
-											<Title>Restriction on exercising the right to
-												acquire</Title>
+											<Title>Restriction on exercising the right to acquire</Title>
 											<P1>
 												<Pnumber PuncAfter="">16B</Pnumber>
 												<P1para>
-												<P2>
-												<Pnumber>1</Pnumber>
-												<P2para>
-												<Text>But the right to acquire cannot be exercised
-												in respect of a dwelling unless—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the dwelling is from previously let social
-												housing stock, or</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>section 16C applies, or has applied, in
-												respect of the dwelling.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>2</Pnumber>
-												<P2para>
-												<Text>For the purposes of this Part—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>a dwelling is from previously let social
-												housing stock if, at any time during the period of
-												six months ending with the relevant date—</Text>
-												<P4>
-												<Pnumber>i</Pnumber>
-												<P4para>
-												<Text>it has been let by a registered social
-												landlord or a private registered provider of
-												social housing under an assured tenancy (other
-												than a long tenancy), or</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>ii</Pnumber>
-												<P4para>
-												<Text>it has been let under a secure tenancy,
-												and</Text>
-												</P4para>
-												</P4>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>“<Term>relevant date</Term>” means the day
-												on which section 4 of the Abolition of the Right
-												to Buy and Associated Rights (Wales) Act 2017
-												comes into force.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>3</Pnumber>
-												<P2para>
-												<Text>This section does not affect the computation
-												of any period under Schedule 4 to the Housing Act
-												1985.</Text>
-												</P2para>
-												</P2>
+													<P2>
+														<Pnumber>1</Pnumber>
+														<P2para>
+															<Text>But the right to acquire cannot be exercised in respect of a dwelling unless—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>the dwelling is from previously let social housing stock, or</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>section 16C applies, or has applied, in respect of the dwelling.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>2</Pnumber>
+														<P2para>
+															<Text>For the purposes of this Part—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>a dwelling is from previously let social housing stock if, at any time during the period of six months ending with the relevant date—</Text>
+																	<P4>
+																		<Pnumber>i</Pnumber>
+																		<P4para>
+																			<Text>it has been let by a registered social landlord or a private registered provider of social housing under an assured tenancy (other than a long tenancy), or</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>ii</Pnumber>
+																		<P4para>
+																			<Text>it has been let under a secure tenancy, and</Text>
+																		</P4para>
+																	</P4>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>“<Term>relevant date</Term>” means the day on which section 4 of the Abolition of the Right to Buy and Associated Rights (Wales) Act 2017 comes into force.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>3</Pnumber>
+														<P2para>
+															<Text>This section does not affect the computation of any period under Schedule 4 to the Housing Act 1985.</Text>
+														</P2para>
+													</P2>
 												</P1para>
 											</P1>
 										</P1group>
 									</BlockAmendment>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/3"
-								id="section-4-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/3" id="section-4-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>In section 16 (right of tenant to acquire dwelling), in
-										subsection (1), at the beginning, insert <InlineAmendment>“
-											Subject to section 16B, ”</InlineAmendment>.</Text>
+									<Text>In section 16 (right of tenant to acquire dwelling), in subsection (1), at the beginning, insert <InlineAmendment>“ Subject to section 16B, ”</InlineAmendment>.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/4/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/4"
-								id="section-4-4">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/4/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/4/4" id="section-4-4">
 								<Pnumber>4</Pnumber>
 								<P2para>
-									<Text>In section 21 (purchase grant in respect of certain
-										disposals), after subsection (2), insert—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>In section 21 (purchase grant in respect of certain disposals), after subsection (2), insert—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P2>
 											<Pnumber>2A</Pnumber>
 											<P2para>
-												<Text>But subsection (2) does not apply in respect
-												of a discount on a disposal of a dwelling
-												unless—</Text>
+												<Text>But subsection (2) does not apply in respect of a discount on a disposal of a dwelling unless—</Text>
 												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the dwelling is from previously let social
-												housing stock, or</Text>
-												</P3para>
+													<Pnumber>a</Pnumber>
+													<P3para>
+														<Text>the dwelling is from previously let social housing stock, or</Text>
+													</P3para>
 												</P3>
 												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>section 16C applies, or has applied, in
-												respect of the dwelling.</Text>
-												</P3para>
+													<Pnumber>b</Pnumber>
+													<P3para>
+														<Text>section 16C applies, or has applied, in respect of the dwelling.</Text>
+													</P3para>
 												</P3>
 											</P2para>
 										</P2>
@@ -814,110 +554,79 @@
 				</P1group>
 				<P1group RestrictEndDate="2019-01-26" RestrictStartDate="2018-03-25" Match="false">
 					<Title>Exception to the restriction on exercising the right to acquire</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5"
-						id="section-5">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5" id="section-5">
 						<Pnumber PuncAfter="">5</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5/1"
-								id="section-5-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5/1" id="section-5-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
 									<Text>The Housing Act 1996 (c. 52) is amended as follows.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5/2"
-								id="section-5-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/5/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/5/2" id="section-5-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>After section 16B (restriction on exercising the right to
-										acquire), insert—</Text>
-									<BlockAmendment TargetClass="primary" TargetSubClass="unknown"
-										Context="main" Format="default">
+									<Text>After section 16B (restriction on exercising the right to acquire), insert—</Text>
+									<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 										<P1group>
-											<Title>Exception to restriction on exercising the right
-												to acquire</Title>
+											<Title>Exception to restriction on exercising the right to acquire</Title>
 											<P1>
 												<Pnumber PuncAfter="">16C</Pnumber>
 												<P1para>
-												<P2>
-												<Pnumber>1</Pnumber>
-												<P2para>
-												<Text>This section applies in respect of a
-												dwelling (the “exempted dwelling”) if—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>after the relevant date, the court has
-												ordered a person to give up possession of a
-												dwelling,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>the order is made—</Text>
-												<P4>
-												<Pnumber>i</Pnumber>
-												<P4para>
-												<Text>on any of the grounds set out in Parts 2 or
-												3 of Schedule 2 to the Housing Act 1985 (c. 68)
-												(discretionary grounds for possession of dwelling
-												let under secure tenancy), or</Text>
-												</P4para>
-												</P4>
-												<P4>
-												<Pnumber>ii</Pnumber>
-												<P4para>
-												<Text>on Ground 9 in Schedule 2 to the Housing Act
-												1988 (c. 50) (possession of dwelling let under
-												assured tenancy on grounds that there is suitable
-												alternative accommodation),</Text>
-												</P4para>
-												</P4>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>c</Pnumber>
-												<P3para>
-												<Text>the person becomes the tenant of the
-												exempted dwelling, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>d</Pnumber>
-												<P3para>
-												<Text>the exempted dwelling is suitable
-												alternative accommodation for the purposes of the
-												order.</Text>
-												</P3para>
-												</P3>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>2</Pnumber>
-												<P2para>
-												<Text>The Welsh Ministers may, by regulations made
-												by statutory instrument, amend this section by
-												making provision for further circumstances in
-												which this section applies in respect of a
-												dwelling.</Text>
-												</P2para>
-												</P2>
-												<P2>
-												<Pnumber>3</Pnumber>
-												<P2para>
-												<Text>Regulations under subsection (2) may not be
-												made unless a draft of the statutory instrument
-												containing the regulations has been laid before
-												and approved by a resolution of the National
-												Assembly for Wales.</Text>
-												</P2para>
-												</P2>
+													<P2>
+														<Pnumber>1</Pnumber>
+														<P2para>
+															<Text>This section applies in respect of a dwelling (the “exempted dwelling”) if—</Text>
+															<P3>
+																<Pnumber>a</Pnumber>
+																<P3para>
+																	<Text>after the relevant date, the court has ordered a person to give up possession of a dwelling,</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>b</Pnumber>
+																<P3para>
+																	<Text>the order is made—</Text>
+																	<P4>
+																		<Pnumber>i</Pnumber>
+																		<P4para>
+																			<Text>on any of the grounds set out in Parts 2 or 3 of Schedule 2 to the Housing Act 1985 (c. 68) (discretionary grounds for possession of dwelling let under secure tenancy), or</Text>
+																		</P4para>
+																	</P4>
+																	<P4>
+																		<Pnumber>ii</Pnumber>
+																		<P4para>
+																			<Text>on Ground 9 in Schedule 2 to the Housing Act 1988 (c. 50) (possession of dwelling let under assured tenancy on grounds that there is suitable alternative accommodation),</Text>
+																		</P4para>
+																	</P4>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>c</Pnumber>
+																<P3para>
+																	<Text>the person becomes the tenant of the exempted dwelling, and</Text>
+																</P3para>
+															</P3>
+															<P3>
+																<Pnumber>d</Pnumber>
+																<P3para>
+																	<Text>the exempted dwelling is suitable alternative accommodation for the purposes of the order.</Text>
+																</P3para>
+															</P3>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>2</Pnumber>
+														<P2para>
+															<Text>The Welsh Ministers may, by regulations made by statutory instrument, amend this section by making provision for further circumstances in which this section applies in respect of a dwelling.</Text>
+														</P2para>
+													</P2>
+													<P2>
+														<Pnumber>3</Pnumber>
+														<P2para>
+															<Text>Regulations under subsection (2) may not be made unless a draft of the statutory instrument containing the regulations has been laid before and approved by a resolution of the National Assembly for Wales.</Text>
+														</P2para>
+													</P2>
 												</P1para>
 											</P1>
 										</P1group>
@@ -928,88 +637,48 @@
 					</P1>
 				</P1group>
 			</Pblock>
-			<Pblock
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/abolition-of-the-right-to-buy-and-the-right-to-acquire/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/abolition-of-the-right-to-buy-and-the-right-to-acquire"
-				NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-				id="crossheading-abolition-of-the-right-to-buy-and-the-right-to-acquire">
-				<Title><Emphasis>Abolition of the right to buy and the right to
-					acquire</Emphasis></Title>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/abolition-of-the-right-to-buy-and-the-right-to-acquire/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/abolition-of-the-right-to-buy-and-the-right-to-acquire" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="crossheading-abolition-of-the-right-to-buy-and-the-right-to-acquire">
+				<Title><Emphasis>Abolition of the right to buy and the right to acquire</Emphasis></Title>
 				<P1group RestrictStartDate="2019-01-26" Match="false">
 					<Title>Abolition of the right to buy and the right to acquire</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6"
-						id="section-6">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6" id="section-6">
 						<Pnumber PuncAfter="">6</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1"
-								id="section-6-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1" id="section-6-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
-									<Text>The following rights no longer exist in relation to
-										dwellings in Wales—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1/a"
-										id="section-6-1-a">
+									<Text>The following rights no longer exist in relation to dwellings in Wales—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1/a" id="section-6-1-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>the right to acquire the freehold of a
-												dwelling-house, or to be granted a lease of a
-												dwelling-house, pursuant to Part 5 of the Housing
-												Act 1985 (c. 68) (the right to buy);</Text>
+											<Text>the right to acquire the freehold of a dwelling-house, or to be granted a lease of a dwelling-house, pursuant to Part 5 of the Housing Act 1985 (c. 68) (the right to buy);</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1/b"
-										id="section-6-1-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/1/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/1/b" id="section-6-1-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>the right to acquire a dwelling pursuant to
-												section 16 of the Housing Act 1996 (c. 52) (the
-												right to acquire).</Text>
+											<Text>the right to acquire a dwelling pursuant to section 16 of the Housing Act 1996 (c. 52) (the right to acquire).</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2"
-								id="section-6-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2" id="section-6-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
 									<Text>Accordingly, the following enactments are repealed—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/a"
-										id="section-6-2-a">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/a" id="section-6-2-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>sections 2 and 3 of this Act (restriction on
-												exercising the right to buy etc.), and sections
-												121ZA, 121ZB and 171B(7) of the Housing Act 1985
-												(inserted by sections 2 and 3 of this Act);</Text>
+											<Text>sections 2 and 3 of this Act (restriction on exercising the right to buy etc.), and sections 121ZA, 121ZB and 171B(7) of the Housing Act 1985 (inserted by sections 2 and 3 of this Act);</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/b"
-										id="section-6-2-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/b" id="section-6-2-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>sections 4 and 5 of this Act (restriction on
-												exercising the right to acquire etc.), and sections
-												16B, 16C and 21(2A) of the Housing Act 1996
-												(inserted by sections 4 and 5 of this Act);</Text>
+											<Text>sections 4 and 5 of this Act (restriction on exercising the right to acquire etc.), and sections 16B, 16C and 21(2A) of the Housing Act 1996 (inserted by sections 4 and 5 of this Act);</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/c/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/c"
-										id="section-6-2-c">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/2/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/2/c" id="section-6-2-c">
 										<Pnumber>c</Pnumber>
 										<P3para>
 											<Text>section 8 of this Act.</Text>
@@ -1017,483 +686,264 @@
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/3"
-								id="section-6-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/6/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/6/3" id="section-6-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>Schedule 1 (which makes consequential amendments and
-										repeals) has effect.</Text>
+									<Text>Schedule 1 (which makes consequential amendments and repeals) has effect.</Text>
 								</P2para>
 							</P2>
 						</P1para>
 					</P1>
 				</P1group>
 			</Pblock>
-			<Pblock
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/discount-grants/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/discount-grants"
-				NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-				id="crossheading-discount-grants">
+			<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/discount-grants/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/discount-grants" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="crossheading-discount-grants">
 				<Title><Emphasis>Discount grants</Emphasis></Title>
 				<P1group RestrictStartDate="2019-01-26" Match="false">
 					<Title>Removal of power to make grants in respect of discounts</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7"
-						id="section-7">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7" id="section-7">
 						<Pnumber PuncAfter="">7</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7/1"
-								id="section-7-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7/1" id="section-7-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
 									<Text>The Housing Act 1996 (c. 52) is amended as follows.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7/2"
-								id="section-7-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/7/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/7/2" id="section-7-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>Section 21 (purchase grant by Welsh Ministers in respect
-										of discounts on disposals of dwellings otherwise than in
-										pursuance of the right to acquire) is repealed.</Text>
+									<Text>Section 21 (purchase grant by Welsh Ministers in respect of discounts on disposals of dwellings otherwise than in pursuance of the right to acquire) is repealed.</Text>
 								</P2para>
 							</P2>
 						</P1para>
 					</P1>
 				</P1group>
 			</Pblock>
-			<Pblock
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/duty-to-provide-tenants-and-prospective-tenants-with-information/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/duty-to-provide-tenants-and-prospective-tenants-with-information"
-				NumberOfProvisions="1" RestrictEndDate="2019-01-26" RestrictStartDate="2018-01-24"
-				id="crossheading-duty-to-provide-tenants-and-prospective-tenants-with-information">
-				<Title><Emphasis>Duty to provide tenants and prospective tenants with
-						information</Emphasis></Title>
+			<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/duty-to-provide-tenants-and-prospective-tenants-with-information/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/duty-to-provide-tenants-and-prospective-tenants-with-information" NumberOfProvisions="1" RestrictEndDate="2019-01-26" RestrictStartDate="2018-01-24" id="crossheading-duty-to-provide-tenants-and-prospective-tenants-with-information">
+				<Title><Emphasis>Duty to provide tenants and prospective tenants with information</Emphasis></Title>
 				<P1group RestrictEndDate="2019-01-26" RestrictStartDate="2018-01-24">
 					<Title>Information for tenants and prospective tenants</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8"
-						id="section-8">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8" id="section-8">
 						<Pnumber PuncAfter="">8</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1"
-								id="section-8-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1" id="section-8-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
-									<Text>The Welsh Ministers must, within one month of the coming
-										into force of this section—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1/a"
-										id="section-8-1-a">
+									<Text>The Welsh Ministers must, within one month of the coming into force of this section—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1/a" id="section-8-1-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>prepare a document containing information that
-												they consider will assist tenants and prospective
-												tenants to understand the effect of this Act,
-												and</Text>
+											<Text>prepare a document containing information that they consider will assist tenants and prospective tenants to understand the effect of this Act, and</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1/b"
-										id="section-8-1-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/1/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/1/b" id="section-8-1-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>publish the information on a website maintained on
-												their behalf.</Text>
+											<Text>publish the information on a website maintained on their behalf.</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2"
-								id="section-8-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2" id="section-8-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>The Welsh Ministers must also, within one month of the
-										coming into force of this section, take all reasonable steps
-										to provide a copy of the information to—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/a"
-										id="section-8-2-a">
+									<Text>The Welsh Ministers must also, within one month of the coming into force of this section, take all reasonable steps to provide a copy of the information to—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/a" id="section-8-2-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
 											<Text>every qualifying landlord;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/b"
-										id="section-8-2-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/b" id="section-8-2-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>any bodies appearing to the Welsh Ministers to
-												represent the interests of tenants in Wales;</Text>
+											<Text>any bodies appearing to the Welsh Ministers to represent the interests of tenants in Wales;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/c/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/c"
-										id="section-8-2-c">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/c" id="section-8-2-c">
 										<Pnumber>c</Pnumber>
 										<P3para>
-											<Text>any bodies appearing to the Welsh Ministers to
-												represent the interests of local housing
-												authorities;</Text>
+											<Text>any bodies appearing to the Welsh Ministers to represent the interests of local housing authorities;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/d/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/d"
-										id="section-8-2-d">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/d/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/d" id="section-8-2-d">
 										<Pnumber>d</Pnumber>
 										<P3para>
-											<Text>any bodies appearing to the Welsh Ministers to
-												represent the interests of registered social
-												landlords;</Text>
+											<Text>any bodies appearing to the Welsh Ministers to represent the interests of registered social landlords;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/e/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/e"
-										id="section-8-2-e">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/2/e/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/2/e" id="section-8-2-e">
 										<Pnumber>e</Pnumber>
 										<P3para>
-											<Text>any other bodies the Welsh Ministers consider
-												appropriate.</Text>
+											<Text>any other bodies the Welsh Ministers consider appropriate.</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3"
-								id="section-8-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3" id="section-8-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>The information must, in particular, include the
-										following—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/a"
-										id="section-8-3-a">
+									<Text>The information must, in particular, include the following—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/a" id="section-8-3-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>the date on which the right to buy and the right
-												to acquire will cease to be exercisable in relation
-												to certain dwellings by virtue of section 121ZA of
-												the Housing Act 1985 (c. 68) and section 16B of the
-												Housing Act 1996 (c. 52),</Text>
+											<Text>the date on which the right to buy and the right to acquire will cease to be exercisable in relation to certain dwellings by virtue of section 121ZA of the Housing Act 1985 (c. 68) and section 16B of the Housing Act 1996 (c. 52),</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/b"
-										id="section-8-3-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/b" id="section-8-3-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>the date on which the right to buy and the right
-												to acquire will cease to exist in Wales, and</Text>
+											<Text>the date on which the right to buy and the right to acquire will cease to exist in Wales, and</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/c/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/c"
-										id="section-8-3-c">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/3/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/3/c" id="section-8-3-c">
 										<Pnumber>c</Pnumber>
 										<P3para>
-											<Text>any other information that the Welsh Ministers
-												consider would assist tenants and prospective
-												tenants to understand the effect of this Act.</Text>
+											<Text>any other information that the Welsh Ministers consider would assist tenants and prospective tenants to understand the effect of this Act.</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4"
-								id="section-8-4">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4" id="section-8-4">
 								<Pnumber>4</Pnumber>
 								<P2para>
-									<Text>Every qualifying landlord must, within two months of the
-										coming into force of this section or, if earlier, within one
-										month of having received a copy of the information published
-										by the Welsh Ministers under subsection (1)—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/a"
-										id="section-8-4-a">
+									<Text>Every qualifying landlord must, within two months of the coming into force of this section or, if earlier, within one month of having received a copy of the information published by the Welsh Ministers under subsection (1)—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/a" id="section-8-4-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>provide all its relevant tenants with such of the
-												information as it considers to be relevant to them
-												(which must, in particular, include the information
-												mentioned in subsection (3)(a) and (b)),</Text>
+											<Text>provide all its relevant tenants with such of the information as it considers to be relevant to them (which must, in particular, include the information mentioned in subsection (3)(a) and (b)),</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/b"
-										id="section-8-4-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/b" id="section-8-4-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>publish such of the information as it considers to
-												be relevant to its tenants and prospective tenants
-												on its website (which must, in particular, include
-												the information mentioned in subsection (3)(a) and
-												(b)), and</Text>
+											<Text>publish such of the information as it considers to be relevant to its tenants and prospective tenants on its website (which must, in particular, include the information mentioned in subsection (3)(a) and (b)), and</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/c/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/c"
-										id="section-8-4-c">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/4/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/4/c" id="section-8-4-c">
 										<Pnumber>c</Pnumber>
 										<P3para>
-											<Text>secure that a copy of the information published in
-												accordance with paragraph (b) is available for
-												inspection (without charge) at such places as it
-												considers appropriate.</Text>
+											<Text>secure that a copy of the information published in accordance with paragraph (b) is available for inspection (without charge) at such places as it considers appropriate.</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5"
-								id="section-8-5">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5" id="section-8-5">
 								<Pnumber>5</Pnumber>
 								<P2para>
-									<Text>Subsection (6) applies where, after the day on which this
-										section comes into force—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5/a"
-										id="section-8-5-a">
+									<Text>Subsection (6) applies where, after the day on which this section comes into force—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5/a" id="section-8-5-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>a person offers to let a dwelling in Wales under a
-												secure tenancy or an introductory tenancy, or</Text>
+											<Text>a person offers to let a dwelling in Wales under a secure tenancy or an introductory tenancy, or</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5/b"
-										id="section-8-5-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/5/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/5/b" id="section-8-5-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>a person who is a registered social landlord or a
-												private registered provider of social housing offers
-												to let a dwelling in Wales under an assured tenancy
-												(other than a long tenancy).</Text>
+											<Text>a person who is a registered social landlord or a private registered provider of social housing offers to let a dwelling in Wales under an assured tenancy (other than a long tenancy).</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/6/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/6"
-								id="section-8-6">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/6" id="section-8-6">
 								<Pnumber>6</Pnumber>
 								<P2para>
-									<Text>The person making the offer (the “prospective landlord”)
-										must, as soon as is reasonably practicable after the offer
-										is made, provide the prospective tenant with such of the
-										information published by the Welsh Ministers under
-										subsection (1) as the prospective landlord considers
-										relevant to the prospective tenant (which must, in
-										particular, include the information mentioned in subsection
-										(3)(a) and (b)).</Text>
+									<Text>The person making the offer (the “prospective landlord”) must, as soon as is reasonably practicable after the offer is made, provide the prospective tenant with such of the information published by the Welsh Ministers under subsection (1) as the prospective landlord considers relevant to the prospective tenant (which must, in particular, include the information mentioned in subsection (3)(a) and (b)).</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7"
-								id="section-8-7">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7" id="section-8-7">
 								<Pnumber>7</Pnumber>
 								<P2para>
-									<Text>In making arrangements for the purposes of providing
-										information under subsections (4)(a) and (6), a landlord or
-										prospective landlord must—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7/a"
-										id="section-8-7-a">
+									<Text>In making arrangements for the purposes of providing information under subsections (4)(a) and (6), a landlord or prospective landlord must—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7/a" id="section-8-7-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>have regard to the likely needs and
-												characteristics, in respect of the provision of
-												information, of persons to whom the information in
-												question is to be provided, and</Text>
+											<Text>have regard to the likely needs and characteristics, in respect of the provision of information, of persons to whom the information in question is to be provided, and</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7/b"
-										id="section-8-7-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/7/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/7/b" id="section-8-7-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
-											<Text>consider whether, having regard to those needs and
-												characteristics, it is appropriate to provide any of
-												the information to any of those persons otherwise
-												than in the way in which it would normally be
-												provided.</Text>
+											<Text>consider whether, having regard to those needs and characteristics, it is appropriate to provide any of the information to any of those persons otherwise than in the way in which it would normally be provided.</Text>
 										</P3para>
 									</P3>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8"
-								id="section-8-8">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8" id="section-8-8">
 								<Pnumber>8</Pnumber>
 								<P2para>
 									<Text>In this section—</Text>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/a/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/a"
-										id="section-8-8-a">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/a" id="section-8-8-a">
 										<Pnumber>a</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-local-housing-authority">local
-												housing authority</Term>” means the council of a
-												county or county borough in Wales;</Text>
+											<Text>“<Term id="term-local-housing-authority">local housing authority</Term>” means the council of a county or county borough in Wales;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b"
-										id="section-8-8-b">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b" id="section-8-8-b">
 										<Pnumber>b</Pnumber>
 										<P3para>
 											<Text>“qualifying landlord”means—</Text>
-											<P4
-												DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/i/2018-01-24"
-												IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/i"
-												id="section-8-8-b-i">
+											<P4 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/i/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/i" id="section-8-8-b-i">
 												<Pnumber>i</Pnumber>
 												<P4para>
-												<Text>a landlord that lets a dwelling in Wales
-												under a secure tenancy;</Text>
+													<Text>a landlord that lets a dwelling in Wales under a secure tenancy;</Text>
 												</P4para>
 											</P4>
-											<P4
-												DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/ii/2018-01-24"
-												IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/ii"
-												id="section-8-8-b-ii">
+											<P4 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/ii/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/ii" id="section-8-8-b-ii">
 												<Pnumber>ii</Pnumber>
 												<P4para>
-												<Text>a registered social landlord;</Text>
+													<Text>a registered social landlord;</Text>
 												</P4para>
 											</P4>
-											<P4
-												DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/iii/2018-01-24"
-												IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/iii"
-												id="section-8-8-b-iii">
+											<P4 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/b/iii/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/b/iii" id="section-8-8-b-iii">
 												<Pnumber>iii</Pnumber>
 												<P4para>
-												<Text>a private registered provider of social
-												housing that lets a dwelling in Wales (see section
-												80(3) of the Housing and Regeneration Act 2008 (c.
-												17));</Text>
+													<Text>a private registered provider of social housing that lets a dwelling in Wales (see section 80(3) of the Housing and Regeneration Act 2008 (c. 17));</Text>
 												</P4para>
 											</P4>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c"
-										id="section-8-8-c">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c" id="section-8-8-c">
 										<Pnumber>c</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-relevant-tenant">relevant
-												tenant</Term>” means—</Text>
-											<P4
-												DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/i/2018-01-24"
-												IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c/i"
-												id="section-8-8-c-i">
+											<Text>“<Term id="term-relevant-tenant">relevant tenant</Term>” means—</Text>
+											<P4 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/i/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c/i" id="section-8-8-c-i">
 												<Pnumber>i</Pnumber>
 												<P4para>
-												<Text>a tenant who has a secure tenancy, an
-												introductory tenancy or a demoted tenancy of a
-												dwelling in Wales, if that tenancy existed on the
-												day on which this section came into force;</Text>
+													<Text>a tenant who has a secure tenancy, an introductory tenancy or a demoted tenancy of a dwelling in Wales, if that tenancy existed on the day on which this section came into force;</Text>
 												</P4para>
 											</P4>
-											<P4
-												DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/ii/2018-01-24"
-												IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c/ii"
-												id="section-8-8-c-ii">
+											<P4 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/c/ii/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/c/ii" id="section-8-8-c-ii">
 												<Pnumber>ii</Pnumber>
 												<P4para>
-												<Text>in relation to a registered social landlord
-												or a private registered provider of social housing
-												only, a tenant who has an assured tenancy of a
-												dwelling in Wales (other than a long tenancy), if
-												that tenancy existed on the day on which this
-												section came into force;</Text>
+													<Text>in relation to a registered social landlord or a private registered provider of social housing only, a tenant who has an assured tenancy of a dwelling in Wales (other than a long tenancy), if that tenancy existed on the day on which this section came into force;</Text>
 												</P4para>
 											</P4>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/d/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/d"
-										id="section-8-8-d">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/d/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/d" id="section-8-8-d">
 										<Pnumber>d</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-secure-tenancy">secure
-												tenancy</Term>”, “<Term
-												id="term-introductory-tenancy">introductory
-												tenancy</Term>” and “<Term id="term-long-tenancy"
-												>long tenancy</Term>” have the same meaning as in
-												the Housing Act 1985;</Text>
+											<Text>“<Term id="term-secure-tenancy">secure tenancy</Term>”, “<Term id="term-introductory-tenancy">introductory tenancy</Term>” and “<Term id="term-long-tenancy">long tenancy</Term>” have the same meaning as in the Housing Act 1985;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/e/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/e"
-										id="section-8-8-e">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/e/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/e" id="section-8-8-e">
 										<Pnumber>e</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-registered-social-landlord"
-												>registered social landlord</Term>” means a body
-												registered in the register maintained under section
-												1 of the Housing Act 1996;</Text>
+											<Text>“<Term id="term-registered-social-landlord">registered social landlord</Term>” means a body registered in the register maintained under section 1 of the Housing Act 1996;</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/f/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/f"
-										id="section-8-8-f">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/f/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/f" id="section-8-8-f">
 										<Pnumber>f</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-assured-tenancy">assured
-												tenancy</Term>” has the same meaning as in the
-												Housing Act 1988 (c. 60) (and includes an assured
-												shorthold tenancy);</Text>
+											<Text>“<Term id="term-assured-tenancy">assured tenancy</Term>” has the same meaning as in the Housing Act 1988 (c. 60) (and includes an assured shorthold tenancy);</Text>
 										</P3para>
 									</P3>
-									<P3
-										DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/g/2018-01-24"
-										IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/g"
-										id="section-8-8-g">
+									<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/8/8/g/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/8/8/g" id="section-8-8-g">
 										<Pnumber>g</Pnumber>
 										<P3para>
-											<Text>“<Term id="term-demoted-tenancy">demoted
-												tenancy</Term>” means a tenancy to which section
-												143A of the Housing Act 1996 applies.</Text>
+											<Text>“<Term id="term-demoted-tenancy">demoted tenancy</Term>” means a tenancy to which section 143A of the Housing Act 1996 applies.</Text>
 										</P3para>
 									</P3>
 								</P2para>
@@ -1502,91 +952,50 @@
 					</P1>
 				</P1group>
 			</Pblock>
-			<Pblock
-				DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/general/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/general"
-				NumberOfProvisions="4" RestrictStartDate="2018-01-24" id="crossheading-general">
+			<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/crossheading/general/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/crossheading/general" NumberOfProvisions="4" RestrictStartDate="2018-01-24" id="crossheading-general">
 				<Title><Emphasis>General</Emphasis></Title>
 				<P1group RestrictStartDate="2018-01-24" ConfersPower="true">
 					<Title>Power by regulations to make consequential amendments etc.</Title>
-					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/9/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/9"
-						id="section-9">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/9/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/9" id="section-9">
 						<Pnumber PuncAfter="">9</Pnumber>
 						<P1para>
-							<Text>The Welsh Ministers may, by regulations, make any supplemental,
-								incidental, consequential, transitory, transitional or saving
-								provision they consider necessary or expedient in consequence of, or
-								for the purpose of giving full effect to, any provision of this Act
-								or any provision made under this Act (whether as a consequence of
-								any provision made in or under the Renting Homes (Wales) Act 2016
-								(anaw 1) or otherwise).</Text>
+							<Text>The Welsh Ministers may, by regulations, make any supplemental, incidental, consequential, transitory, transitional or saving provision they consider necessary or expedient in consequence of, or for the purpose of giving full effect to, any provision of this Act or any provision made under this Act (whether as a consequence of any provision made in or under the Renting Homes (Wales) Act 2016 (anaw 1) or otherwise).</Text>
 						</P1para>
 					</P1>
 				</P1group>
 				<P1group RestrictStartDate="2018-01-24" ConfersPower="true">
 					<Title>Further provision about regulations under section 9</Title>
-					<P1
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10"
-						id="section-10">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10" id="section-10">
 						<Pnumber PuncAfter="">10</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/1"
-								id="section-10-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/1" id="section-10-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
-									<Text>The power in section 9 to make regulations is exercisable
-										by statutory instrument.</Text>
+									<Text>The power in section 9 to make regulations is exercisable by statutory instrument.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/2"
-								id="section-10-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/2" id="section-10-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>Regulations under section 9 may amend, repeal, revoke or
-										modify any enactment (including a provision of this
-										Act).</Text>
+									<Text>Regulations under section 9 may amend, repeal, revoke or modify any enactment (including a provision of this Act).</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/3"
-								id="section-10-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/3" id="section-10-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>If this subsection applies, regulations under section 9
-										may not be made unless a draft of the statutory instrument
-										containing the regulations has been laid before and approved
-										by a resolution of the National Assembly for Wales.</Text>
+									<Text>If this subsection applies, regulations under section 9 may not be made unless a draft of the statutory instrument containing the regulations has been laid before and approved by a resolution of the National Assembly for Wales.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/4/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/4"
-								id="section-10-4">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/4" id="section-10-4">
 								<Pnumber>4</Pnumber>
 								<P2para>
-									<Text>Subsection (3) applies where regulations under section 9
-										amend, modify or repeal any provision of an Act of
-										Parliament or a Measure or Act of the National Assembly for
-										Wales, whether or not the statutory instrument contains any
-										other regulations.</Text>
+									<Text>Subsection (3) applies where regulations under section 9 amend, modify or repeal any provision of an Act of Parliament or a Measure or Act of the National Assembly for Wales, whether or not the statutory instrument contains any other regulations.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/5/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/5"
-								id="section-10-5">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/10/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/10/5" id="section-10-5">
 								<Pnumber>5</Pnumber>
 								<P2para>
-									<Text>Where subsection (3) does not apply, regulations under
-										section 9 are subject to annulment in pursuance of a
-										resolution of the National Assembly for Wales.</Text>
+									<Text>Where subsection (3) does not apply, regulations under section 9 are subject to annulment in pursuance of a resolution of the National Assembly for Wales.</Text>
 								</P2para>
 							</P2>
 						</P1para>
@@ -1594,66 +1003,37 @@
 				</P1group>
 				<P1group RestrictStartDate="2018-01-24" ConfersPower="true">
 					<Title>Coming into force</Title>
-					<P1
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11"
-						id="section-11">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11" id="section-11">
 						<Pnumber PuncAfter="">11</Pnumber>
 						<P1para>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/1/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/1"
-								id="section-11-1">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/1" id="section-11-1">
 								<Pnumber>1</Pnumber>
 								<P2para>
-									<Text>This section and sections 1, 8, 9, 10 and 12 come into
-										force on the day on which this Act receives Royal
-										Assent.</Text>
+									<Text>This section and sections 1, 8, 9, 10 and 12 come into force on the day on which this Act receives Royal Assent.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/2/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/2"
-								id="section-11-2">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/2" id="section-11-2">
 								<Pnumber>2</Pnumber>
 								<P2para>
-									<Text>Sections 2 to 5 come into force at the end of the period
-										of 2 months beginning with the day on which this Act
-										receives Royal Assent.</Text>
+									<Text>Sections 2 to 5 come into force at the end of the period of 2 months beginning with the day on which this Act receives Royal Assent.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/3/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/3"
-								id="section-11-3">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/3" id="section-11-3">
 								<Pnumber>3</Pnumber>
 								<P2para>
-									<Text>Sections 6 and 7 come into force on a day appointed by the
-										Welsh Ministers in an order made by statutory
-										instrument.</Text>
+									<Text>Sections 6 and 7 come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/4/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/4"
-								id="section-11-4">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/4" id="section-11-4">
 								<Pnumber>4</Pnumber>
 								<P2para>
-									<Text>But the Welsh Ministers may not appoint a day for any of
-										sections 6 or 7 to come into force which is before the end
-										of the period of 12 months beginning with the day on which
-										this Act receives Royal Assent.</Text>
+									<Text>But the Welsh Ministers may not appoint a day for any of sections 6 or 7 to come into force which is before the end of the period of 12 months beginning with the day on which this Act receives Royal Assent.</Text>
 								</P2para>
 							</P2>
-							<P2
-								DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/5/2018-01-24"
-								IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/5"
-								id="section-11-5">
+							<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/11/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/11/5" id="section-11-5">
 								<Pnumber>5</Pnumber>
 								<P2para>
-									<Text>An order under this section may make transitory,
-										transitional or saving provision in connection with the
-										coming into force of any provisions of this Act.</Text>
+									<Text>An order under this section may make transitory, transitional or saving provision in connection with the coming into force of any provisions of this Act.</Text>
 								</P2para>
 							</P2>
 						</P1para>
@@ -1661,203 +1041,121 @@
 				</P1group>
 				<P1group RestrictStartDate="2018-01-24">
 					<Title>Short title</Title>
-					<P1
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/12/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/12"
-						id="section-12">
+					<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/section/12/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/section/12" id="section-12">
 						<Pnumber PuncAfter="">12</Pnumber>
 						<P1para>
-							<Text>The short title of this Act is the Abolition of the Right to Buy
-								and Associated Rights (Wales) Act 2018.</Text>
+							<Text>The short title of this Act is the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018.</Text>
 						</P1para>
 					</P1>
 				</P1group>
 			</Pblock>
 		</Body>
 		<Schedules RestrictStartDate="2019-01-26" Match="false">
-			<Schedule DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/2018-01-24"
-				IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1"
-				NumberOfProvisions="9" RestrictStartDate="2019-01-26" Match="false" id="schedule-1">
+			<Schedule DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1" NumberOfProvisions="9" RestrictStartDate="2019-01-26" Match="false" id="schedule-1">
 				<Number>SCHEDULE 1</Number>
 				<TitleBlock>
 					<Title>CONSEQUENTIAL AMENDMENTS AND REPEALS</Title>
 				</TitleBlock>
 				<Reference> (introduced by section 6(3))</Reference>
 				<ScheduleBody>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/finance-act-1981-c-35/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/finance-act-1981-c-35"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-finance-act-1981-c-35">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/finance-act-1981-c-35/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/finance-act-1981-c-35" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-finance-act-1981-c-35">
 						<Title><Emphasis>Finance Act 1981 (c. 35)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-1">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-1">
 							<Pnumber PuncAfter="">1</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1/1"
-									id="schedule-1-paragraph-1-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1/1" id="schedule-1-paragraph-1-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
 										<Text>The Finance Act 1981 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1/2"
-									id="schedule-1-paragraph-1-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/1/2" id="schedule-1-paragraph-1-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 107 (sale of houses at discount by local
-											authorities), omit subsection (3C).</Text>
+										<Text>In section 107 (sale of houses at discount by local authorities), omit subsection (3C).</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-1988-c-50/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-1988-c-50"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-housing-act-1988-c-50">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-1988-c-50/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-1988-c-50" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-housing-act-1988-c-50">
 						<Title><Emphasis>Housing Act 1988 (c. 50)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-2">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-2">
 							<Pnumber PuncAfter="">2</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2/1"
-									id="schedule-1-paragraph-2-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2/1" id="schedule-1-paragraph-2-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
 										<Text>The Housing Act 1988 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2/2"
-									id="schedule-1-paragraph-2-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/2/2" id="schedule-1-paragraph-2-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 81 (consent required for certain subsequent
-											disposals), in subsection (8), in paragraph (ab), omit
-											the words from “or Part I” to the end of the
-											paragraph.</Text>
+										<Text>In section 81 (consent required for certain subsequent disposals), in subsection (8), in paragraph (ab), omit the words from “or Part I” to the end of the paragraph.</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-1996-c-52/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-1996-c-52"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-housing-act-1996-c-52">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-1996-c-52/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-1996-c-52" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-housing-act-1996-c-52">
 						<Title><Emphasis>Housing Act 1996 (c. 52)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-3">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-3">
 							<Pnumber PuncAfter="">3</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/1"
-									id="schedule-1-paragraph-3-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/1" id="schedule-1-paragraph-3-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
 										<Text>The Housing Act 1996 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/2"
-									id="schedule-1-paragraph-3-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/2" id="schedule-1-paragraph-3-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 10 (lettings and other disposals not
-											requiring consent of Welsh Ministers), omit subsection
-											(3).</Text>
+										<Text>In section 10 (lettings and other disposals not requiring consent of Welsh Ministers), omit subsection (3).</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/3/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/3"
-									id="schedule-1-paragraph-3-3">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/3" id="schedule-1-paragraph-3-3">
 									<Pnumber>3</Pnumber>
 									<P2para>
-										<Text>Section 16 (right of tenant to acquire dwelling) is
-											repealed.</Text>
+										<Text>Section 16 (right of tenant to acquire dwelling) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/4/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/4"
-									id="schedule-1-paragraph-3-4">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/4" id="schedule-1-paragraph-3-4">
 									<Pnumber>4</Pnumber>
 									<P2para>
-										<Text>Section 16A (extension of the right to acquire to
-											dwellings funded by grants under section 27A) is
-											repealed.</Text>
+										<Text>Section 16A (extension of the right to acquire to dwellings funded by grants under section 27A) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/5/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/5"
-									id="schedule-1-paragraph-3-5">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/5" id="schedule-1-paragraph-3-5">
 									<Pnumber>5</Pnumber>
 									<P2para>
-										<Text>Section 17 (right of tenant to acquire dwelling:
-											supplementary provisions) is repealed.</Text>
+										<Text>Section 17 (right of tenant to acquire dwelling: supplementary provisions) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/6/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/6"
-									id="schedule-1-paragraph-3-6">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/6" id="schedule-1-paragraph-3-6">
 									<Pnumber>6</Pnumber>
 									<P2para>
-										<Text>Section 20 (purchase grant where right to acquire is
-											exercised) is repealed.</Text>
+										<Text>Section 20 (purchase grant where right to acquire is exercised) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7"
-									id="schedule-1-paragraph-3-7">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7" id="schedule-1-paragraph-3-7">
 									<Pnumber>7</Pnumber>
 									<P2para>
-										<Text>In section 24 (the disposal proceeds fund), in
-											subsection (2)—</Text>
-										<P3
-											DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/a/2018-01-24"
-											IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/a"
-											id="schedule-1-paragraph-3-7-a">
+										<Text>In section 24 (the disposal proceeds fund), in subsection (2)—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/a/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/a" id="schedule-1-paragraph-3-7-a">
 											<Pnumber>a</Pnumber>
 											<P3para>
-												<Text>in paragraph (a)(i), omit “section 16 above
-												or”;</Text>
+												<Text>in paragraph (a)(i), omit “section 16 above or”;</Text>
 											</P3para>
 										</P3>
-										<P3
-											DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/b/2018-01-24"
-											IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/b"
-											id="schedule-1-paragraph-3-7-b">
+										<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/b/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/b" id="schedule-1-paragraph-3-7-b">
 											<Pnumber>b</Pnumber>
 											<P3para>
 												<Text>omit paragraph (b);</Text>
 											</P3para>
 										</P3>
-										<P3
-											DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/c/2018-01-24"
-											IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/c"
-											id="schedule-1-paragraph-3-7-c">
+										<P3 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3/7/c/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/3/7/c" id="schedule-1-paragraph-3-7-c">
 											<Pnumber>c</Pnumber>
 											<P3para>
 												<Text>in paragraph (c), omit “(b) or”.</Text>
@@ -1868,401 +1166,251 @@
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/finance-act-2003-c-14/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/finance-act-2003-c-14"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-finance-act-2003-c-14">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/finance-act-2003-c-14/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/finance-act-2003-c-14" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-finance-act-2003-c-14">
 						<Title><Emphasis>Finance Act 2003 (c. 14)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-4">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-4">
 							<Pnumber PuncAfter="">4</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4/1"
-									id="schedule-1-paragraph-4-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4/1" id="schedule-1-paragraph-4-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
 										<Text>The Finance Act 2003 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4/2"
-									id="schedule-1-paragraph-4-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/4/2" id="schedule-1-paragraph-4-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In Schedule 9 (stamp duty land tax: right to buy,
-											shared ownership leases etc.), in paragraph 1 (right to
-											buy transactions), omit sub-paragraph (5).</Text>
+										<Text>In Schedule 9 (stamp duty land tax: right to buy, shared ownership leases etc.), in paragraph 1 (right to buy transactions), omit sub-paragraph (5).</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-2004-c-34/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-2004-c-34"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-housing-act-2004-c-34">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-act-2004-c-34/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-act-2004-c-34" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-housing-act-2004-c-34">
 						<Title><Emphasis>Housing Act 2004 (c. 34)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-5">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-5">
 							<Pnumber PuncAfter="">5</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/1"
-									id="schedule-1-paragraph-5-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/1" id="schedule-1-paragraph-5-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
 										<Text>The Housing Act 2004 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/2"
-									id="schedule-1-paragraph-5-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/2" id="schedule-1-paragraph-5-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 192 (right to buy: suspension by court
-											order), in subsection (3), for paragraph (b)
-											substitute—</Text>
-										<BlockAmendment TargetClass="primary"
-											TargetSubClass="unknown" Context="main" Format="default">
+										<Text>In section 192 (right to buy: suspension by court order), in subsection (3), for paragraph (b) substitute—</Text>
+										<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 											<P3>
 												<Pnumber>b</Pnumber>
 												<P3para>
-												<Text>section 184 of the Housing and Regeneration
-												Act 2008 (c. 17) (application of that Part in
-												relation to the right to acquire a dwelling in
-												England),</Text>
+													<Text>section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),</Text>
 												</P3para>
 											</P3>
 										</BlockAmendment>
 										<AppendText>.</AppendText>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/3/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/3"
-									id="schedule-1-paragraph-5-3">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/3" id="schedule-1-paragraph-5-3">
 									<Pnumber>3</Pnumber>
 									<P2para>
-										<Text>In section 194 (disclosure of information as to orders
-											etc. in respect of anti-social behaviour), in subsection
-											(4), for paragraph (b) substitute—</Text>
-										<BlockAmendment TargetClass="primary"
-											TargetSubClass="unknown" Context="main" Format="default">
+										<Text>In section 194 (disclosure of information as to orders etc. in respect of anti-social behaviour), in subsection (4), for paragraph (b) substitute—</Text>
+										<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 											<P3>
 												<Pnumber>b</Pnumber>
 												<P3para>
-												<Text>section 184 of the Housing and Regeneration
-												Act 2008 (c. 17) (application of that Part in
-												relation to the right to acquire a dwelling in
-												England),</Text>
+													<Text>section 184 of the Housing and Regeneration Act 2008 (c. 17) (application of that Part in relation to the right to acquire a dwelling in England),</Text>
 												</P3para>
 											</P3>
 										</BlockAmendment>
 										<AppendText>.</AppendText>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/4/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/4"
-									id="schedule-1-paragraph-5-4">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/4" id="schedule-1-paragraph-5-4">
 									<Pnumber>4</Pnumber>
 									<P2para>
-										<Text>Section 202 (right of assured tenant to acquire
-											dwelling not affected by collective enfranchisement) is
-											repealed.</Text>
+										<Text>Section 202 (right of assured tenant to acquire dwelling not affected by collective enfranchisement) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/5/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/5"
-									id="schedule-1-paragraph-5-5">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/5" id="schedule-1-paragraph-5-5">
 									<Pnumber>5</Pnumber>
 									<P2para>
-										<Text>Section 221 (extension of right to acquire) is
-											repealed.</Text>
+										<Text>Section 221 (extension of right to acquire) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/6"
-									id="schedule-1-paragraph-5-6">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/5/6" id="schedule-1-paragraph-5-6">
 									<Pnumber>6</Pnumber>
 									<P2para>
-										<Text>In Schedule 11 (registered social landlords), omit
-											paragraphs 9 and 10.</Text>
+										<Text>In Schedule 11 (registered social landlords), omit paragraphs 9 and 10.</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-and-regeneration-act-2008-c-17/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-and-regeneration-act-2008-c-17"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-housing-and-regeneration-act-2008-c-17">
-						<Title><Emphasis>Housing and Regeneration Act 2008 (c.
-							17)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-6">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-and-regeneration-act-2008-c-17/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-and-regeneration-act-2008-c-17" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-housing-and-regeneration-act-2008-c-17">
+						<Title><Emphasis>Housing and Regeneration Act 2008 (c. 17)</Emphasis></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-6">
 							<Pnumber PuncAfter="">6</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/1"
-									id="schedule-1-paragraph-6-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/1" id="schedule-1-paragraph-6-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
-										<Text>The Housing and Regeneration Act 2008 is amended as
-											follows.</Text>
+										<Text>The Housing and Regeneration Act 2008 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/2"
-									id="schedule-1-paragraph-6-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/2" id="schedule-1-paragraph-6-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 62 (reference to Welsh Ministers), in the
-											table, in the first column omit the reference to section
-											17(1), (2)(b), (5)(b) and (6), and in the second column
-											omit the corresponding entry.</Text>
+										<Text>In section 62 (reference to Welsh Ministers), in the table, in the first column omit the reference to section 17(1), (2)(b), (5)(b) and (6), and in the second column omit the corresponding entry.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/3/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/3"
-									id="schedule-1-paragraph-6-3">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/3" id="schedule-1-paragraph-6-3">
 									<Pnumber>3</Pnumber>
 									<P2para>
-										<Text>In section 63 (reference to National Assembly for
-											Wales), in the table, in the first column omit the
-											reference to section 17(7), and in the second column
-											omit the corresponding entry.</Text>
+										<Text>In section 63 (reference to National Assembly for Wales), in the table, in the first column omit the reference to section 17(7), and in the second column omit the corresponding entry.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/4/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/4"
-									id="schedule-1-paragraph-6-4">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/4/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/4" id="schedule-1-paragraph-6-4">
 									<Pnumber>4</Pnumber>
 									<P2para>
-										<Text>In section 149 (exempted disposals), in subsection
-											(8), omit paragraph (b) (and the “or” that precedes
-											it).</Text>
+										<Text>In section 149 (exempted disposals), in subsection (8), omit paragraph (b) (and the “or” that precedes it).</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/5/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/5"
-									id="schedule-1-paragraph-6-5">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/5" id="schedule-1-paragraph-6-5">
 									<Pnumber>5</Pnumber>
 									<P2para>
-										<Text>In section 181 (interpretation of “publicly funded”),
-											in subsection (6), in paragraph (b), for “under section
-											16(4) of that Act” substitute <InlineAmendment>“ by the
-												Welsh Ministers ”</InlineAmendment>.</Text>
+										<Text>In section 181 (interpretation of “publicly funded”), in subsection (6), in paragraph (b), for “under section 16(4) of that Act” substitute <InlineAmendment>“ by the Welsh Ministers ”</InlineAmendment>.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/6/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/6"
-									id="schedule-1-paragraph-6-6">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/6/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/6" id="schedule-1-paragraph-6-6">
 									<Pnumber>6</Pnumber>
 									<P2para>
-										<Text>In section 184 (right to acquire: supplemental), for
-											subsections (1) and (2) substitute—</Text>
-										<BlockAmendment TargetClass="primary"
-											TargetSubClass="unknown" Context="main" Format="default">
+										<Text>In section 184 (right to acquire: supplemental), for subsections (1) and (2) substitute—</Text>
+										<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 											<P2>
 												<Pnumber>1</Pnumber>
 												<P2para>
-												<Text>The Secretary of State may by order—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>specify the amount or rate of discount to be
-												given on the exercise of the right conferred by
-												section 180, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>designate rural areas in relation to
-												dwellings in which the right conferred by that
-												section does not arise.</Text>
-												</P3para>
-												</P3>
+													<Text>The Secretary of State may by order—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>specify the amount or rate of discount to be given on the exercise of the right conferred by section 180, and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>designate rural areas in relation to dwellings in which the right conferred by that section does not arise.</Text>
+														</P3para>
+													</P3>
 												</P2para>
 											</P2>
 											<P2>
 												<Pnumber>2</Pnumber>
 												<P2para>
-												<Text>The provisions of Part 5 of the Housing Act
-												1985 apply in relation to the right to acquire
-												under section 180—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>subject to any order under subsection (1)
-												above, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>subject to such other exceptions,
-												adaptations and other modifications as may be
-												specified by regulations made by the Secretary of
-												State.</Text>
-												</P3para>
-												</P3>
+													<Text>The provisions of Part 5 of the Housing Act 1985 apply in relation to the right to acquire under section 180—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>subject to any order under subsection (1) above, and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>subject to such other exceptions, adaptations and other modifications as may be specified by regulations made by the Secretary of State.</Text>
+														</P3para>
+													</P3>
 												</P2para>
 											</P2>
 											<P2>
 												<Pnumber>3</Pnumber>
 												<P2para>
-												<Text>The regulations may provide—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>that the powers of the Secretary of State
-												under sections 164 to 170 of that Act (powers to
-												intervene, give directions or assist) do not
-												apply,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>that paragraphs 1 and 3 (exceptions for
-												charities and certain housing associations), and
-												paragraph 11 (right of appeal to Secretary of
-												State), of Schedule 5 to that Act do not
-												apply,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>c</Pnumber>
-												<P3para>
-												<Text>that the provisions of Part 5 of that Act
-												relating to the right to acquire on rent to
-												mortgage terms do not apply,</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>d</Pnumber>
-												<P3para>
-												<Text>that the provisions of that Part relating to
-												restrictions on disposals in National Parks etc.
-												do not apply, and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>e</Pnumber>
-												<P3para>
-												<Text>that the provisions of that Part relating to
-												the preserved right to buy do not apply.</Text>
-												</P3para>
-												</P3>
+													<Text>The regulations may provide—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>that the powers of the Secretary of State under sections 164 to 170 of that Act (powers to intervene, give directions or assist) do not apply,</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>that paragraphs 1 and 3 (exceptions for charities and certain housing associations), and paragraph 11 (right of appeal to Secretary of State), of Schedule 5 to that Act do not apply,</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>c</Pnumber>
+														<P3para>
+															<Text>that the provisions of Part 5 of that Act relating to the right to acquire on rent to mortgage terms do not apply,</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>d</Pnumber>
+														<P3para>
+															<Text>that the provisions of that Part relating to restrictions on disposals in National Parks etc. do not apply, and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>e</Pnumber>
+														<P3para>
+															<Text>that the provisions of that Part relating to the preserved right to buy do not apply.</Text>
+														</P3para>
+													</P3>
 												</P2para>
 												<P2para>
-												<Text>Nothing in this subsection affects the
-												generality of the power conferred by subsection
-												(2).</Text>
+													<Text>Nothing in this subsection affects the generality of the power conferred by subsection (2).</Text>
 												</P2para>
 											</P2>
 											<P2>
 												<Pnumber>4</Pnumber>
 												<P2para>
-												<Text>The specified exceptions, adaptations and
-												other modifications shall take the form of textual
-												amendments of the provisions of Part 5 of that Act
-												as they apply in relation to the right to buy
-												under that Part; and any consolidating regulations
-												shall set out the provisions of Part 5 as they so
-												apply.</Text>
+													<Text>The specified exceptions, adaptations and other modifications shall take the form of textual amendments of the provisions of Part 5 of that Act as they apply in relation to the right to buy under that Part; and any consolidating regulations shall set out the provisions of Part 5 as they so apply.</Text>
 												</P2para>
 											</P2>
 											<P2>
 												<Pnumber>5</Pnumber>
 												<P2para>
-												<Text>Before making an order which would have the
-												effect that an area ceased to be designated under
-												subsection (1)(b), the Secretary of State shall
-												consult—</Text>
-												<P3>
-												<Pnumber>a</Pnumber>
-												<P3para>
-												<Text>the local housing authority or authorities
-												in whose district the area or any part of it is
-												situated or, if the order is general in its
-												effect, local housing authorities in general,
-												and</Text>
-												</P3para>
-												</P3>
-												<P3>
-												<Pnumber>b</Pnumber>
-												<P3para>
-												<Text>such bodies appearing to the Secretary of
-												State to be representative of private registered
-												providers as the Secretary of State considers
-												appropriate.</Text>
-												</P3para>
-												</P3>
+													<Text>Before making an order which would have the effect that an area ceased to be designated under subsection (1)(b), the Secretary of State shall consult—</Text>
+													<P3>
+														<Pnumber>a</Pnumber>
+														<P3para>
+															<Text>the local housing authority or authorities in whose district the area or any part of it is situated or, if the order is general in its effect, local housing authorities in general, and</Text>
+														</P3para>
+													</P3>
+													<P3>
+														<Pnumber>b</Pnumber>
+														<P3para>
+															<Text>such bodies appearing to the Secretary of State to be representative of private registered providers as the Secretary of State considers appropriate.</Text>
+														</P3para>
+													</P3>
 												</P2para>
 											</P2>
 											<P2>
 												<Pnumber>6</Pnumber>
 												<P2para>
-												<Text>Regulations made under this section are
-												consolidating regulations if they are made for the
-												purposes of consolidating other regulations that
-												are being revoked in the instrument containing the
-												consolidating regulations.</Text>
+													<Text>Regulations made under this section are consolidating regulations if they are made for the purposes of consolidating other regulations that are being revoked in the instrument containing the consolidating regulations.</Text>
 												</P2para>
 											</P2>
 										</BlockAmendment>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/7/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/7"
-									id="schedule-1-paragraph-6-7">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/7" id="schedule-1-paragraph-6-7">
 									<Pnumber>7</Pnumber>
 									<P2para>
-										<Text>Section 185 (right to acquire: consequential
-											amendments) is repealed.</Text>
+										<Text>Section 185 (right to acquire: consequential amendments) is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/8/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/8"
-									id="schedule-1-paragraph-6-8">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/8/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/6/8" id="schedule-1-paragraph-6-8">
 									<Pnumber>8</Pnumber>
 									<P2para>
-										<Text>In section 320 (orders and regulations), in subsection
-											(7), after paragraph (a), insert—</Text>
-										<BlockAmendment TargetClass="primary"
-											TargetSubClass="unknown" Context="main" Format="default">
+										<Text>In section 320 (orders and regulations), in subsection (7), after paragraph (a), insert—</Text>
+										<BlockAmendment TargetClass="primary" TargetSubClass="unknown" Context="main" Format="default">
 											<P3>
 												<Pnumber>aa</Pnumber>
 												<P3para>
-												<Text>an order or regulations of the Secretary of
-												State under section 184,</Text>
+													<Text>an order or regulations of the Secretary of State under section 184,</Text>
 												</P3para>
 											</P3>
 										</BlockAmendment>
@@ -2272,123 +1420,67 @@
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-wales-measure-2011-nawm-5/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-wales-measure-2011-nawm-5"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-housing-wales-measure-2011-nawm-5">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/housing-wales-measure-2011-nawm-5/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/housing-wales-measure-2011-nawm-5" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-housing-wales-measure-2011-nawm-5">
 						<Title><Emphasis>Housing (Wales) Measure 2011 (nawm 5)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-7">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-7">
 							<Pnumber PuncAfter="">7</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/1"
-									id="schedule-1-paragraph-7-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/1" id="schedule-1-paragraph-7-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
-										<Text>The Housing (Wales) Measure 2011 is amended as
-											follows.</Text>
+										<Text>The Housing (Wales) Measure 2011 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/2"
-									id="schedule-1-paragraph-7-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/2" id="schedule-1-paragraph-7-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
 										<Text>Part 1 is repealed.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/3/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/3"
-									id="schedule-1-paragraph-7-3">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/7/3" id="schedule-1-paragraph-7-3">
 									<Pnumber>3</Pnumber>
 									<P2para>
-										<Text>In section 89 (orders), omit subsections (2) to
-											(4).</Text>
+										<Text>In section 89 (orders), omit subsections (2) to (4).</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/prevention-of-social-housing-fraud-act-2013-c-3/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/prevention-of-social-housing-fraud-act-2013-c-3"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-prevention-of-social-housing-fraud-act-2013-c-3">
-						<Title><Emphasis>Prevention of Social Housing Fraud Act 2013 (c.
-								3)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-8">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/prevention-of-social-housing-fraud-act-2013-c-3/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/prevention-of-social-housing-fraud-act-2013-c-3" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-prevention-of-social-housing-fraud-act-2013-c-3">
+						<Title><Emphasis>Prevention of Social Housing Fraud Act 2013 (c. 3)</Emphasis></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-8">
 							<Pnumber PuncAfter="">8</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8/1"
-									id="schedule-1-paragraph-8-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8/1" id="schedule-1-paragraph-8-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
-										<Text>The Prevention of Social Housing Fraud Act 2013 is
-											amended as follows.</Text>
+										<Text>The Prevention of Social Housing Fraud Act 2013 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8/2"
-									id="schedule-1-paragraph-8-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/8/2" id="schedule-1-paragraph-8-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In section 7 (regulations about powers to require
-											information), in subsection (7), in paragraph (e)(ii),
-											after “under section 16 of the Housing Act 1996”, insert
-												<InlineAmendment>“ before the repeal of that section
-												by the Abolition of the Right to Buy and Associated
-												Rights (Wales) Act 2017 came into force
-												”</InlineAmendment>.</Text>
+										<Text>In section 7 (regulations about powers to require information), in subsection (7), in paragraph (e)(ii), after “under section 16 of the Housing Act 1996”, insert <InlineAmendment>“ before the repeal of that section by the Abolition of the Right to Buy and Associated Rights (Wales) Act 2017 came into force ”</InlineAmendment>.</Text>
 									</P2para>
 								</P2>
 							</P1para>
 						</P1>
 					</Pblock>
-					<Pblock
-						DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/renting-homes-wales-act-2016-anaw-1/2018-01-24"
-						IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/renting-homes-wales-act-2016-anaw-1"
-						NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false"
-						id="schedule-1-crossheading-renting-homes-wales-act-2016-anaw-1">
+					<Pblock DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/crossheading/renting-homes-wales-act-2016-anaw-1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/crossheading/renting-homes-wales-act-2016-anaw-1" NumberOfProvisions="1" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-crossheading-renting-homes-wales-act-2016-anaw-1">
 						<Title><Emphasis>Renting Homes (Wales) Act 2016 (anaw 1)</Emphasis></Title>
-						<P1
-							DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2018-01-24"
-							IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9"
-							RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-9">
+						<P1 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9" RestrictStartDate="2019-01-26" Match="false" id="schedule-1-paragraph-9">
 							<Pnumber PuncAfter="">9</Pnumber>
 							<P1para>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/1/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9/1"
-									id="schedule-1-paragraph-9-1">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/1/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9/1" id="schedule-1-paragraph-9-1">
 									<Pnumber>1</Pnumber>
 									<P2para>
-										<Text>The Renting Homes (Wales) Act 2016 is amended as
-											follows.</Text>
+										<Text>The Renting Homes (Wales) Act 2016 is amended as follows.</Text>
 									</P2para>
 								</P2>
-								<P2
-									DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2/2018-01-24"
-									IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9/2"
-									id="schedule-1-paragraph-9-2">
+								<P2 DocumentURI="http://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9/2/2018-01-24" IdURI="http://www.legislation.gov.uk/id/anaw/2018/1/schedule/1/paragraph/9/2" id="schedule-1-paragraph-9-2">
 									<Pnumber>2</Pnumber>
 									<P2para>
-										<Text>In Schedule 2, in paragraph 8 (meaning of “long
-											tenancy”), in sub-paragraph (1)(c), for “as it has
-											effect” substitute <InlineAmendment>“ as that Part had
-												effect ”</InlineAmendment>.</Text>
+										<Text>In Schedule 2, in paragraph 8 (meaning of “long tenancy”), in sub-paragraph (1)(c), for “as it has effect” substitute <InlineAmendment>“ as that Part had effect ”</InlineAmendment>.</Text>
 									</P2para>
 								</P2>
 							</P1para>

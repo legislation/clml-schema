@@ -1,4 +1,4 @@
-<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukl="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\OPSIschema\schema\schemaLegislationBase-v1-0.xsd" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0">
 	<ukm:Metadata>
 			<dc:title>Appropriation (No.2) Act 2001</dc:title>
 			<dc:identifier>urn:isbn:0105421014</dc:identifier>
@@ -107,12 +107,12 @@
 								<col width="20%" align="right"/>								
 								<tbody>
 									<tr>
-										<td>Resources authorised for use <ukl:Character Name="DotPadding"/>
+										<td>Resources authorised for use <leg:Character Name="DotPadding"/>
 										</td>
 										<td>£1,250,531,000</td>
 									</tr>
 									<tr>
-										<td>Grants out of the Consolidated Fund <ukl:Character Name="DotPadding"/>
+										<td>Grants out of the Consolidated Fund <leg:Character Name="DotPadding"/>
 										</td>
 										<td>£2,853,190,000</td>
 									</tr>
@@ -132,21 +132,21 @@
 								<thead fo:border-bottom-style="solid">
 									<tr>
 										<th fo:border-right-style="solid"/>
-										<th fo:border-right-style="solid" align="left"><ukl:Emphasis>Net Resources authorised for use</ukl:Emphasis></th>
-										<th fo:border-right-style="solid" align="left"><ukl:Emphasis>Grants out of the Consolidated Fund</ukl:Emphasis></th>
-										<th fo:border-right-style="solid" align="left"><ukl:Emphasis>Appropriations in Aid</ukl:Emphasis></th>
+										<th fo:border-right-style="solid" align="left"><leg:Emphasis>Net Resources authorised for use</leg:Emphasis></th>
+										<th fo:border-right-style="solid" align="left"><leg:Emphasis>Grants out of the Consolidated Fund</leg:Emphasis></th>
+										<th fo:border-right-style="solid" align="left"><leg:Emphasis>Appropriations in Aid</leg:Emphasis></th>
 									</tr>
 									<tr>
 										<th fo:border-right-style="solid"/>
-										<th fo:border-right-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
-										<th fo:border-right-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
-										<th fo:border-right-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
+										<th fo:border-right-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
+										<th fo:border-right-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
+										<th fo:border-right-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
 									</tr>
 								</thead>
 								<tbody>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Emphasis>Request for resources</ukl:Emphasis>
+											<leg:Emphasis>Request for resources</leg:Emphasis>
 										</td>
 										<td fo:border-right-style="solid"/>
 										<td fo:border-right-style="solid"/>
@@ -165,7 +165,7 @@
 										<td fo:border-right-style="solid" fo:border-bottom-style="solid" align="right">−1,326,000</td>
 									</tr>
 									<tr>
-										<td fo:border-right-style="solid">Grand Total<ukl:Character Name="DotPadding"/>
+										<td fo:border-right-style="solid">Grand Total<leg:Character Name="DotPadding"/>
 										</td>
 										<td fo:border-right-style="solid" align="right">1,250,531,000</td>
 										<td fo:border-right-style="solid" align="right">2,853,190,000</td>
@@ -196,8 +196,8 @@
 								</tr>
 								<tr>
 									<th/>
-									<th><ukl:Emphasis>£</ukl:Emphasis></th>
-									<th><ukl:Emphasis>£</ukl:Emphasis></th>
+									<th><leg:Emphasis>£</leg:Emphasis></th>
+									<th><leg:Emphasis>£</leg:Emphasis></th>
 								</tr>
 							</thead>
 							<tbody>
@@ -239,15 +239,15 @@
 								<thead fo:border-top-style="solid" fo:border-left-style="solid" fo:border-right-style="solid">
 									<tr>
 										<th fo:border-right-style="solid"/>
-										<th fo:border-right-style="solid" align="left"><ukl:Emphasis>Net Resources authorised for use</ukl:Emphasis></th>
-										<th fo:border-right-style="solid" align="left"><ukl:Emphasis>Grants out of the Consolidated Fund</ukl:Emphasis></th>
-										<th align="left"><ukl:Emphasis>Appropriations in Aid</ukl:Emphasis></th>
+										<th fo:border-right-style="solid" align="left"><leg:Emphasis>Net Resources authorised for use</leg:Emphasis></th>
+										<th fo:border-right-style="solid" align="left"><leg:Emphasis>Grants out of the Consolidated Fund</leg:Emphasis></th>
+										<th align="left"><leg:Emphasis>Appropriations in Aid</leg:Emphasis></th>
 									</tr>
 									<tr>
 										<th fo:border-right-style="solid" fo:border-bottom-style="solid"/>
-										<th fo:border-right-style="solid" fo:border-bottom-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
-										<th fo:border-right-style="solid" fo:border-bottom-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
-										<th fo:border-bottom-style="solid"><ukl:Emphasis>£</ukl:Emphasis></th>
+										<th fo:border-right-style="solid" fo:border-bottom-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
+										<th fo:border-right-style="solid" fo:border-bottom-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
+										<th fo:border-bottom-style="solid"><leg:Emphasis>£</leg:Emphasis></th>
 									</tr>
 									<tr>
 										<th align="left" fo:border-right-style="solid">Request for resources</th>
@@ -259,7 +259,7 @@
 								<tfoot>
 									<tr>
 										<td colspan="4" align="right">
-											<ukl:Emphasis>* Deficit</ukl:Emphasis>
+											<leg:Emphasis>* Deficit</leg:Emphasis>
 										</td>
 									</tr>
 								</tfoot>
@@ -272,12 +272,12 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Protecting and promoting public health in relation to food</ukl:Strong>
+											<leg:Strong>1. Protecting and promoting public health in relation to food</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">7,803,000</td>
 										<td fo:border-right-style="solid"/>
 										<td fo:border-right-style="solid" valign="bottom">
-											<ukl:Emphasis>−7,308,000*</ukl:Emphasis>
+											<leg:Emphasis>−7,308,000*</leg:Emphasis>
 										</td>
 									</tr>
 									<tr>
@@ -294,7 +294,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Protecting and improving the environment, offering the opportunity of a decent home, enhancing opportunity in rural areas, promoting sustainable economic development through integrated regional and local action and an efficient market in the construction industry, and improving health and safety</ukl:Strong>
+											<leg:Strong>1. Protecting and improving the environment, offering the opportunity of a decent home, enhancing opportunity in rural areas, promoting sustainable economic development through integrated regional and local action and an efficient market in the construction industry, and improving health and safety</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">1,000</td>
 										<td fo:border-right-style="solid"/>
@@ -308,7 +308,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>2. Promoting modern, integrated and safe transport and providing customer-focused regulation</ukl:Strong>
+											<leg:Strong>2. Promoting modern, integrated and safe transport and providing customer-focused regulation</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">831,000,000</td>
 										<td fo:border-right-style="solid"/>
@@ -322,7 +322,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>3. Promoting a system of elected government in England responding to the needs of local communities</ukl:Strong>
+											<leg:Strong>3. Promoting a system of elected government in England responding to the needs of local communities</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">189,500,000</td>
 										<td fo:border-right-style="solid"/>
@@ -342,7 +342,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Building a safe, just and tolerant society</ukl:Strong>
+											<leg:Strong>1. Building a safe, just and tolerant society</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">6,897,000</td>
 										<td fo:border-right-style="solid"/>
@@ -356,12 +356,12 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>2. Protecting the public by holding prisoners in decent conditions and reducing re-offending after release</ukl:Strong>
+											<leg:Strong>2. Protecting the public by holding prisoners in decent conditions and reducing re-offending after release</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">14,235,000</td>
 										<td fo:border-right-style="solid"/>
 										<td fo:border-right-style="solid" valign="bottom">
-											<ukl:Emphasis>−15,515,000*</ukl:Emphasis>
+											<leg:Emphasis>−15,515,000*</leg:Emphasis>
 										</td>
 									</tr>
 									<tr>
@@ -378,7 +378,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Increasing UK Competitiveness</ukl:Strong>
+											<leg:Strong>1. Increasing UK Competitiveness</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">7,812,000</td>
 										<td fo:border-right-style="solid"/>
@@ -398,7 +398,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Effective management of United Kingdom Atomic Energy Authority Superannuation Schemes</ukl:Strong>
+											<leg:Strong>1. Effective management of United Kingdom Atomic Energy Authority Superannuation Schemes</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">1,000</td>
 										<td fo:border-right-style="solid"/>
@@ -418,7 +418,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Enhanced competitiveness of companies in the UK through overseas sales and investment; and a continuing high level of quality, foreign direct investment</ukl:Strong>
+											<leg:Strong>1. Enhanced competitiveness of companies in the UK through overseas sales and investment; and a continuing high level of quality, foreign direct investment</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">2,000,000</td>
 										<td fo:border-right-style="solid"/>
@@ -438,7 +438,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Ensuring that consumers benefit from safe and competitively priced food, from a sustainable and efficient food chain and contributing to the well being of rural and coastal communities</ukl:Strong>
+											<leg:Strong>1. Ensuring that consumers benefit from safe and competitively priced food, from a sustainable and efficient food chain and contributing to the well being of rural and coastal communities</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">43,266,000</td>
 										<td fo:border-right-style="solid"/>
@@ -458,7 +458,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Protecting and expanding Britain’s woodlands and increasing their value to society and the environment</ukl:Strong>
+											<leg:Strong>1. Protecting and expanding Britain’s woodlands and increasing their value to society and the environment</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">1,000</td>
 										<td fo:border-right-style="solid"/>
@@ -478,7 +478,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Funding, co-ordination and implementation of aspects of the Common Agricultural Policy’s Guarantee Section as economically, efficiently and effectively as possible</ukl:Strong>
+											<leg:Strong>1. Funding, co-ordination and implementation of aspects of the Common Agricultural Policy’s Guarantee Section as economically, efficiently and effectively as possible</leg:Strong>
 										</td>
 										<td  fo:border-right-style="solid" valign="bottom">67,891,000</td>
 										<td fo:border-right-style="solid"/>
@@ -498,7 +498,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Improving the quality of life through cultural and sporting activities</ukl:Strong>
+											<leg:Strong>1. Improving the quality of life through cultural and sporting activities</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">18,700,000</td>
 										<td fo:border-right-style="solid"/>
@@ -512,7 +512,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>2. Broadening access to a rich and varied cultural and sporting life through home broadcasting</ukl:Strong>
+											<leg:Strong>2. Broadening access to a rich and varied cultural and sporting life through home broadcasting</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">33,000,000</td>
 										<td fo:border-right-style="solid"/>
@@ -532,7 +532,7 @@
 									</tr>
 									<tr>
 										<td fo:border-right-style="solid">
-											<ukl:Strong>1. Supporting the Prime Minister’s Office closely in ensuring the delivery of Government objectives</ukl:Strong>
+											<leg:Strong>1. Supporting the Prime Minister’s Office closely in ensuring the delivery of Government objectives</leg:Strong>
 										</td>
 										<td fo:border-right-style="solid" valign="bottom">28,424,000</td>
 										<td fo:border-right-style="solid"/>
@@ -545,12 +545,12 @@
 										<td fo:border-right-style="solid"/>
 									</tr>
 									<tr>
-										<td fo:border-top-style="solid" fo:border-right-style="solid"><ukl:SmallCaps>Total Supplementary</ukl:SmallCaps>, 2001—02<ukl:Character Name="DotPadding"/>
+										<td fo:border-top-style="solid" fo:border-right-style="solid"><leg:SmallCaps>Total Supplementary</leg:SmallCaps>, 2001—02<leg:Character Name="DotPadding"/>
 										</td>
 										<td fo:border-top-style="solid" fo:border-right-style="solid" valign="bottom">1,250,531,000</td>
 										<td fo:border-top-style="solid" fo:border-right-style="solid" valign="bottom">2,853,190,000</td>
 										<td fo:border-top-style="solid" fo:border-right-style="solid" valign="bottom">
-											<ukl:Emphasis>−1,326,000*</ukl:Emphasis>
+											<leg:Emphasis>−1,326,000*</leg:Emphasis>
 										</td>
 									</tr>
 								</tbody>

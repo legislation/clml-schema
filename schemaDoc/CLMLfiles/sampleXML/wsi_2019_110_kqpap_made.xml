@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/wsi/2019/110" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/wsi/2019/110</dc:identifier>
+    <dc:title>The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019</dc:title>
+    <dc:identifier>urn:isbn:9780348203202</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+    <dc:modified>2019-01-28</dc:modified>
+    <dct:valid>2019-01-26</dct:valid>
+    <dc:subject scheme="SIheading">HOUSING, WALES</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="WelshStatutoryInstrument"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2019"/>
+      <ukm:Number Value="110"/>
+      <ukm:ISBN Value="9780348203202"/>
+      <ukm:AlternativeNumber Category="W" Value="27"/>
+      <ukm:Made Date="2019-01-24"/>
+      <ukm:ComingIntoForce>
+        <ukm:DateTime Date="2019-01-26"/>
+      </ukm:ComingIntoForce>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents xmlns:local="#local">
+    <ContentsTitle>The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019</ContentsTitle>
+    <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/wsi/2019/110/regulation/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Title and commencement</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/wsi/2019/110/regulation/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>Interpretation</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/wsi/2019/110/regulation/3">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle>Amendment to the Housing Act 1985</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/wsi/2019/110/regulation/4">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle>Amendment to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/wsi/2019/110/regulation/5">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle>Saving Provisions</ContentsTitle>
+    </ContentsItem>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2019 No. 110 (W. 27)</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>Housing, Wales</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>24 January 2019</DateText>
+      </MadeDate>
+      <ComingIntoForce>
+        <Text>Coming into force</Text>
+        <DateText>26 January 2019</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <IntroductoryText>
+          <P>
+            <Text>The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 9 of the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018<FootnoteRef Ref="f00001"/>.</Text>
+          </P>
+        </IntroductoryText>
+        <EnactingText>
+          <Para>
+            <Text>In accordance with section 10(3) of that Act, a draft of these Regulations has been laid before and approved by a resolution of the National Assembly for Wales.</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body>
+      <P1group>
+        <Title>Title and commencement</Title>
+        <P1 id="regulation-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <Text>The title of these Regulations is the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 and they come into force on 26 January 2019.</Text>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Interpretation</Title>
+        <P1 id="regulation-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <Text>In these Regulations-</Text>
+            <UnorderedList Decoration="none" Class="Definition">
+              <ListItem>
+                <Para>
+                  <Text>“1985 Act” (<Emphasis>“Deddf 1985”</Emphasis>) means the Housing Act 1985<FootnoteRef Ref="f00002"/>;</Text>
+                </Para>
+              </ListItem>
+              <ListItem>
+                <Para>
+                  <Text>“the Act” (<Emphasis>“y Ddeddf”</Emphasis>) means the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018.</Text>
+                </Para>
+              </ListItem>
+            </UnorderedList>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment to the Housing Act 1985</Title>
+        <P1 id="regulation-3">
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <Text>The 1985 Act is amended as follows—</Text>
+            <P3 id="regulation-3-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in section 115 (meaning of “long tenancy”), in subsection (1)(c), omit “as it has effect”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>in section 118 (the right to buy), in subsection (1), after “secure tenant” insert “of a dwelling-house in England”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-c">
+              <Pnumber>c</Pnumber>
+              <P3para>
+                <Text>in section 119 (qualifying period for right to buy)—</Text>
+                <P4 id="regulation-3-c-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in subsection (A1), for “In the application of this Part to England, the” substitute “The”;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-c-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>omit subsection (1);</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-c-iii">
+                  <Pnumber>iii</Pnumber>
+                  <P4para>
+                    <Text>in subsection (2) omit “or 1”;</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-d">
+              <Pnumber>d</Pnumber>
+              <P3para>
+                <Text>in section 121AA (information to help tenant decide whether to exercise right to buy <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation>), in subsection (1) after “dwelling-houses” insert “in England”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-e">
+              <Pnumber>e</Pnumber>
+              <P3para>
+                <Text>in section 121B (provision of information)-</Text>
+                <P4 id="regulation-3-e-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in subsection (2)(b), after “secure tenants” insert “of dwelling-houses in England”;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-e-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>in subsection (5), after “secure tenants” insert “of dwelling-houses in England”;</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-f">
+              <Pnumber>f</Pnumber>
+              <P3para>
+                <Text>in section 122 (tenant’s notice claiming to exercise the right to buy), in subsection (1), for “Unless section 122B applies a” substitute “A”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-g">
+              <Pnumber>g</Pnumber>
+              <P3para>
+                <Text>omit section 122A (applications to suspend the right to buy <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation> in parts of Wales: effect on claims to exercise the right);</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-h">
+              <Pnumber>h</Pnumber>
+              <P3para>
+                <Text>omit section 122B (suspension of the right to buy in parts of Wales);</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-i">
+              <Pnumber>i</Pnumber>
+              <P3para>
+                <Text>in section 124 (landlord’s notice admitting or denying right to buy)—</Text>
+                <P4 id="regulation-3-i-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in subsection (1), omit “or 3”;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-i-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>omit subsection (3);</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-j">
+              <Pnumber>j</Pnumber>
+              <P3para>
+                <Text>in section 130 (reduction of discount where previous discount given), in subsection (2)(c), omit “as it has effect”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-k">
+              <Pnumber>k</Pnumber>
+              <P3para>
+                <Text>In section 153A (tenant’s notice of delay), in subsection (1)(a), omit “or (3)”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-l">
+              <Pnumber>l</Pnumber>
+              <P3para>
+                <Text>in section 171A (cases in which the right to buy is preserved), in subsection (1), after “dwelling-house” insert “in England”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-m">
+              <Pnumber>m</Pnumber>
+              <P3para>
+                <Text>in section 171B (extent of preserved right: qualifying persons and dwelling-houses)—</Text>
+                <P4 id="regulation-3-m-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in subsection (1), after “the preserved right to buy” insert “a relevant dwelling-house in England”;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-m-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>in subsection (6), after “another dwelling-house” insert “in England”;</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-n">
+              <Pnumber>n</Pnumber>
+              <P3para>
+                <Text>in section 171D (subsequent dealings: disposal of landlord’s interest in qualifying dwelling-house)—</Text>
+                <P4 id="regulation-3-n-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in subsection (2), for “appropriate authority” substitute “Secretary of State”;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-n-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>omit subsection (2A);</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-o">
+              <Pnumber>o</Pnumber>
+              <P3para>
+                <Text>in Schedule 3A (consultation before disposals to private sector landlord), in paragraph 3, in sub-paragraph (2)(c), after “secure tenant” insert “of a dwelling-house in England”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-3-p">
+              <Pnumber>p</Pnumber>
+              <P3para>
+                <Text>in Schedule 5 (exceptions to the Right to Buy), in paragraph 11—</Text>
+                <P4 id="regulation-3-p-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in sub-paragraph (4), omit the words “or authority” where they occur;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-3-p-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>in sub-paragraph (5A)-</Text>
+                    <P5 id="regulation-3-p-ii-aa">
+                      <Pnumber>aa</Pnumber>
+                      <P5para>
+                        <Text>in the opening words, omit “or authority”;</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-3-p-ii-bb">
+                      <Pnumber>bb</Pnumber>
+                      <P5para>
+                        <Text>in paragraph (a), omit “in relation to England”;</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-3-p-ii-cc">
+                      <Pnumber>cc</Pnumber>
+                      <P5para>
+                        <Text>omit paragraph (b) and the “; and” preceding it.</Text>
+                      </P5para>
+                    </P5>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Amendment to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017</Title>
+        <P1 id="regulation-4">
+          <Pnumber>4</Pnumber>
+          <P1para>
+            <Text>The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017<FootnoteRef Ref="f00003"/>is amended as follows—</Text>
+            <P3 id="regulation-4-a">
+              <Pnumber>a</Pnumber>
+              <P3para>
+                <Text>in section 30 (reliefs), in subsection (3), in the reference to paragraph 2 of Schedule 15, for “right to buy transaction” substitute “transaction subject to a public sector discount”;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-4-b">
+              <Pnumber>b</Pnumber>
+              <P3para>
+                <Text>in Schedule 15 (relief for certain transactions relating to social housing)—</Text>
+                <P4 id="regulation-4-b-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>in paragraph 1(2)—</Text>
+                    <P5 id="regulation-4-b-i-aa">
+                      <Pnumber>aa</Pnumber>
+                      <P5para>
+                        <Text>in paragraph (a), for “right to buy transactions” substitute “transactions subject to a public sector discount”;</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-i-bb">
+                      <Pnumber>bb</Pnumber>
+                      <P5para>
+                        <Text>omit paragraph (d);</Text>
+                      </P5para>
+                    </P5>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-4-b-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>in paragraph 2 (relief for right to buy transaction)—</Text>
+                    <P5 id="regulation-4-b-ii-aa">
+                      <Pnumber>aa</Pnumber>
+                      <P5para>
+                        <Text>in sub-paragraph (1), in the opening words, for “a right to buy transaction” substitute “a transaction subject to a public sector discount”;</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-ii-bbn1" shortId="regulation-4-b-ii-bb">
+                      <Pnumber>bb</Pnumber>
+                      <P5para>
+                        <Text>in sub-paragraph (2)—</Text>
+                        <P6 id="regulation-4-b-ii-bbn2" shortId="regulation-4-b-ii-bb">
+                          <Pnumber>i</Pnumber>
+                          <P6para>
+                            <Text>in the opening words, for “right to buy transaction”, substitute “transaction subject to a public sector discount”;</Text>
+                          </P6para>
+                        </P6>
+                        <P6 id="regulation-4-b-ii-bbn3" shortId="regulation-4-b-ii-bb">
+                          <Pnumber>ii</Pnumber>
+                          <P6para>
+                            <Text>omit paragraph (b) and the “, or” preceding it;</Text>
+                          </P6para>
+                        </P6>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-ii-cc">
+                      <Pnumber>cc</Pnumber>
+                      <P5para>
+                        <Text>omit sub-paragraph (4);</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-ii-dd">
+                      <Pnumber>dd</Pnumber>
+                      <P5para>
+                        <Text>omit sub-paragraph (5);</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-ii-ee">
+                      <Pnumber>ee</Pnumber>
+                      <P5para>
+                        <Text>in sub-paragraph (6), omit the definitions of “qualifying dwelling-house” and “qualifying person”;</Text>
+                      </P5para>
+                    </P5>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-4-b-iii">
+                  <Pnumber>iii</Pnumber>
+                  <P4para>
+                    <Text>accordingly—</Text>
+                    <P5 id="regulation-4-b-iii-aa">
+                      <Pnumber>aa</Pnumber>
+                      <P5para>
+                        <Text>the title of Part 2 becomes “Public Sector Discount Relief”, and</Text>
+                      </P5para>
+                    </P5>
+                    <P5 id="regulation-4-b-iii-bb">
+                      <Pnumber>bb</Pnumber>
+                      <P5para>
+                        <Text>the heading of paragraph 2 becomes “Relief for public sector discount transactions”;</Text>
+                      </P5para>
+                    </P5>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-4-c">
+              <Pnumber>c</Pnumber>
+              <P3para>
+                <Text>in paragraph 3 (shared ownership lease: election for market value treatment) omit sub-paragraph (1)(a)(ii) and the “, or” preceding it;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-4-d">
+              <Pnumber>d</Pnumber>
+              <P3para>
+                <Text>in paragraph 5 (shared ownership lease: election for market value treatment of premium where staircasing allowed), omit sub-paragraph (1)(a)(ii) and the “, or” preceding it;</Text>
+              </P3para>
+            </P3>
+            <P3 id="regulation-4-e">
+              <Pnumber>e</Pnumber>
+              <P3para>
+                <Text>in paragraph 9 (shared ownership leases: interpretation)—</Text>
+                <P4 id="regulation-4-e-i">
+                  <Pnumber>i</Pnumber>
+                  <P4para>
+                    <Text>omit sub-paragraph (1)(b) and the “, or” preceding it;</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-4-e-ii">
+                  <Pnumber>ii</Pnumber>
+                  <P4para>
+                    <Text>omit sub-paragraph (4);</Text>
+                  </P4para>
+                </P4>
+                <P4 id="regulation-4-e-iii">
+                  <Pnumber>iii</Pnumber>
+                  <P4para>
+                    <Text>omit sub-paragraph (5);</Text>
+                  </P4para>
+                </P4>
+              </P3para>
+            </P3>
+            <P3 id="regulation-4-f">
+              <Pnumber>f</Pnumber>
+              <P3para>
+                <Text>omit paragraph 18 (Rent to mortgage: chargeable consideration).</Text>
+              </P3para>
+            </P3>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Saving Provisions</Title>
+        <P1 id="regulation-5">
+          <Pnumber>5</Pnumber>
+          <P1para>
+            <P2 id="regulation-5-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>Sub-paragraph (2) applies—</Text>
+                <P3 id="regulation-5-1-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>where a notice has been served on the landlord in accordance with section 122 of the 1985 Act before 26 January 2019; and</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-5-1-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>to any grant made in accordance with section 138(1) of the 1985 Act, following on from such notice.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>Notwithstanding the coming into force of section 6 of, and Schedule 1 to, the Act and these Regulations, the provisions amended, modified or repealed by section 6 of, and Schedule 1 to, the Act and by these Regulations continue to have effect as they had effect on 25 January 2019.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Signee>
+            <PersonName>Julie James</PersonName>
+            <JobTitle>Minister for Housing and Local Government, one of the Welsh Ministers</JobTitle>
+            <DateSigned Date="2019-01-24">
+              <DateText>24 January 2019</DateText>
+            </DateSigned>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes>
+      <Title>EXPLANATORY NOTE</Title>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Regulations)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text Hanging="indented">These Regulations make amendments to the Housing Act 1985 (“1985 Act”) and the Land Transaction and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (“2017 Act”) in consequence of the Abolition of the Right to Buy and Associated Rights (Wales) Act 2018.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">The Regulations make saving provisions to ensure that relevant provisions within the 1985 Act will continue to apply in respect of applications made to exercise the right to buy or the right to acquire in respect of dwelling-houses in Wales on or before 25 January 2019 and in respect of dwelling-houses which have been purchased under the right to buy or the right to acquire on or before that date (or after that date in pursuance of a notice served before that date).</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">The Regulations also make saving provisions to ensure that relevant reliefs within Schedule 15 to the 2017 Act will also apply in respect of transactions arising from applications made to exercise certain rights to buy and rent to mortgage submitted on or before 25 January 2019.</Text>
+      </P>
+      <P>
+        <Text Hanging="indented">The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this instrument.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text>2018 anaw 1.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1985/68" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1985" Number="0068">1985 c. 68</Citation>.</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text>2017 anaw 1</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

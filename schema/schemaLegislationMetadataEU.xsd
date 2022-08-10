@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata"
-	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom"
-	targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0" id="schemaLegislationMetadata">
-	
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="schemaLegislationMetadata">
+
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>European Union Legislation Specific Metadata Schema</dc:title>
@@ -38,41 +33,116 @@
 				<xsd:element ref="Year"/>
 				<xsd:element ref="Number"/>
 				<xsd:element name="EURLexIdentifiers" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>The identifiers provided by EUR-Lex for the document</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:choice minOccurs="1" maxOccurs="unbounded">
-							<xsd:element name="Cellar" type="EUValueType"/>
-							<xsd:element name="CELEX" type="EUValueType"/>
-							<xsd:element name="ELI" type="EUValueType"/>
-							<xsd:element name="OfficialJournal" type="EUValueType"/>
+							<xsd:element name="Cellar" type="EUValueType">
+								<xsd:annotation>
+									<xsd:documentation>The URI for the document in Cellar, the public data repository of the Publications Office of the European Union</xsd:documentation>
+								</xsd:annotation>
+							</xsd:element>
+							<xsd:element name="CELEX" type="EUValueType">
+								<xsd:annotation>
+									<xsd:documentation>The CELEX identifier for the document. Resolves to the Cellar URI</xsd:documentation>
+								</xsd:annotation>
+							</xsd:element>
+							<xsd:element name="ELI" type="EUValueType">
+								<xsd:annotation>
+									<xsd:documentation>The European Legislation Identifier for the document. Resolves to the EUR-Lex document URI</xsd:documentation>
+								</xsd:annotation>
+							</xsd:element>
+							<xsd:element name="OfficialJournal" type="EUValueType">
+								<xsd:annotation>
+									<xsd:documentation>The Official Journal identifier for the document. Resolves to the Cellar URI</xsd:documentation>
+								</xsd:annotation>
+							</xsd:element>
 						</xsd:choice>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element ref="EnactmentDate"/>
 				<xsd:element ref="ComingIntoForce" minOccurs="0"/>
-				<xsd:element name="EURLexModified" type="EUDateType" minOccurs="0"/>
-				<xsd:element name="EURLexExtracted" type="EUDateType" minOccurs="0"/>
-				<xsd:element name="XMLGenerated" type="EUDateType" minOccurs="0"/>
-				<xsd:element name="XMLImported" type="EUDateType" minOccurs="0"/>
+				<xsd:element name="EURLexModified" type="EUDateType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>The last date and time at which EUR-Lex modified the source data for the document</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="EURLexExtracted" type="EUDateType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>The date and time at which the data were extracted from EUR-Lex</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="XMLGenerated" type="EUDateType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>The date and time at which the CLML was generated for the document</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element name="XMLImported" type="EUDateType" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>The date and time at which the CLML for the document was imported into the database</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 				<xsd:element name="Treaty" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>A treaty providing one or more of the legal bases under which the EU made the document</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Title" use="required"/>
-						<xsd:attribute name="Code" use="required"/>
+						<xsd:attribute name="Title" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The title for the treaty, as it appears within the Treaty authority table published by the Publications Office of the European Union</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="Code" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The URI for the treaty, as it appears within the Treaty authority table published by the Publications Office of the European Union</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element name="CreatedBy" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>An institution that created the document. A single document will often have more than one institution</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Label" use="required"/>
-						<xsd:attribute name="URI" use="required"/>
+						<xsd:attribute name="Label" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The name of the institution, as it appears within the Corporate body authority table published by the Publications Office of the European Union</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="URI" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The identifier of the institution, as it appears within the Corporate body authority table published by the Publications Office of the European Union</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element name="Subject" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>A subject classification for the document</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
-						<xsd:attribute name="Scheme" use="required"/>
-						<xsd:attribute name="Label" use="required"/>
-						<xsd:attribute name="URI" use="required"/>
+						<xsd:attribute name="Scheme" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The classification scheme from which the subject derives</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="Label" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The human-readable label for the subject</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
+						<xsd:attribute name="URI" use="required">
+							<xsd:annotation>
+								<xsd:documentation>The identifier for the subject</xsd:documentation>
+							</xsd:annotation>
+						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
 				<xsd:element name="EURLexMetadata" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Contains metadata from the EUR-Lex document branch notice for the current version of the document, in the format provided by EUR-Lex</xsd:documentation>
+					</xsd:annotation>
 					<xsd:complexType>
 						<xsd:sequence>
 							<xsd:any processContents="lax" minOccurs="0" maxOccurs="unbounded"/>
@@ -85,11 +155,19 @@
 	</xsd:element>
 
 	<xsd:complexType name="EUValueType">
-		<xsd:attribute name="Value" use="required"/>
+		<xsd:attribute name="Value" use="required">
+			<xsd:annotation>
+				<xsd:documentation>The value of the identifier</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 
 	<xsd:complexType name="EUDateType">
-		<xsd:attribute name="Date" use="required"/>
+		<xsd:attribute name="Date" use="required" type="xsd:dateTime">
+			<xsd:annotation>
+				<xsd:documentation>The date and time of the event in ISO 8601 format</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 
 </xsd:schema>

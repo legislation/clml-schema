@@ -17,11 +17,12 @@
 				<dcq:created>2003-10-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2021-06-08</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.4			Karl Rajangam		Annotation added for element AddressLine, updated JobTitle and Department
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.2			Jim Mangiafico		Expanded to accommodate European Union legislation
 			1.1			Paul Appleby		Loosened TitleBlock to allow multiple Tiltle and Subtitle elements
@@ -76,13 +77,13 @@
 	
 	<xsd:element name="JobTitle" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>This defines a job title</xsd:documentation>
+			<xsd:documentation>Holds the title of the job in which the signee signed the document</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	
 	<xsd:element name="Department" type="InlineStructure">
 		<xsd:annotation>
-			<xsd:documentation>This defines a department name</xsd:documentation>
+			<xsd:documentation>Holds information about the department or organisation of the signee</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	
@@ -92,7 +93,11 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="AddressLine" type="InlineStructure" maxOccurs="unbounded"/>
+				<xsd:element name="AddressLine" type="InlineStructure" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>A line of an address</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
@@ -100,20 +105,52 @@
 	
 	<xsd:element name="Character">
 		<xsd:annotation>
-			<xsd:documentation>Allows for Unicode characters to be altered in element fashion to avoid ambiguity and make for easier editing, e.g. spaces, minus vs hyphen, etc. Also allows for some entities from existing documents that are not in Unicode</xsd:documentation>
+			<xsd:documentation>Represents a Unicode character as an element (currently various spaces and the minus symbol), in order to avoid ambiguity and make for easier editing. Also allows for some entities from existing documents that are not in Unicode</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:attribute name="Name">
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
-						<xsd:enumeration value="DotPadding"/>
-						<xsd:enumeration value="EmSpace"/>
-						<xsd:enumeration value="EnSpace"/>
-						<xsd:enumeration value="LinePadding"/>
-						<xsd:enumeration value="NonBreakingSpace"/>
-						<xsd:enumeration value="Minus"/>
-						<xsd:enumeration value="ThinSpace"/>
-						<xsd:enumeration value="BoxPadding"/>
+						<xsd:enumeration value="DotPadding">
+							<xsd:annotation>
+								<xsd:documentation>Fills to the end of the line with dots and gives a similar effect to a right tab with a dot leader</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="EmSpace">
+							<xsd:annotation>
+								<xsd:documentation>Unicode x2003</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="EnSpace">
+							<xsd:annotation>
+								<xsd:documentation>Unicode x2002</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="LinePadding">
+							<xsd:annotation>
+								<xsd:documentation>Fills to the end of the line with space and gives a similar effect to a right tab</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="NonBreakingSpace">
+							<xsd:annotation>
+								<xsd:documentation>Unicode x00a0</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="Minus">
+							<xsd:annotation>
+								<xsd:documentation>Unicode x2212, included to avoid confusion with a hyphen</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="ThinSpace">
+							<xsd:annotation>
+								<xsd:documentation>Unicode x2009</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="BoxPadding">
+							<xsd:annotation>
+								<xsd:documentation>Fills the space with an empty box with a thin black border</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>

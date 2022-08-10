@@ -1,0 +1,203 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/1998/572/made</dc:identifier>
+		<dc:title>The Road Vehicles Registration Fee Regulations 1998</dc:title>
+		<dc:subject>Vehicles</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2021-09-03</dc:modified>
+		<dc:subject scheme="SIheading">ROAD TRAFFIC</dc:subject>
+		<dc:description>These Regulations provide that a vehicle must not be registered under Vehicle Excise and Registration Act 1994 unless a fee of £25 is paid. Certain vehicles for disabled persons are exempt.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/1998/572/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/1998/572/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/1998/572/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/1998/572/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/1998/572/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/1998/572/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/1998/572/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/1998/572/contents/made" title="Table of Contents"/>
+
+
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1998"/>
+			<ukm:Number Value="572"/>
+			<ukm:DepartmentCode Value="DOT 8361"/>
+			<ukm:Made Date="1998-03-04"/>
+			<ukm:Laid Date="1998-03-11" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1998-04-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:Correction Type="correctedBy" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="0995"/>
+			<ukm:ISBN Value="011065966X"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-b91253bb08561d864ee036893d6e6424" AffectedURI="http://www.legislation.gov.uk/id/uksi/1998/572" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/2002/2742" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/uksi-2002-2742-xt7va223-36" Row="36" Type="revoked" RequiresApplied="true" AffectedProvisions="Regulations" AffectingEffectsExtent="E+W+S+N.I." AffectingYear="2002" AffectingNumber="2742" AffectingProvisions="reg. 2(1) Sch. 1" AffectedYear="1998" AffectedNumber="572" Created="2012-10-17T05:36:45Z" Modified="2012-10-17T05:36:45Z">
+					<ukm:AffectedTitle>The Road Vehicles Registration Fee Regulations 1998</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Regulations</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Road Vehicles (Registration and Licensing) Regulations 2002</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2742/regulation/2/1">reg. 2(1)</ukm:Section>
+						<ukm:Section Ref="schedule-1" URI="http://www.legislation.gov.uk/id/uksi/2002/2742/schedule/1">Sch. 1</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="regulation-29" URI="http://www.legislation.gov.uk/id/uksi/2002/2742/regulation/29">reg. 29</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="regulation-1-2" URI="http://www.legislation.gov.uk/id/uksi/2002/2742/regulation/1/2">reg. 1(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Date="2002-11-30" Qualification="wholly in force"/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-87f4cece3e8f4fe54a5491bacfee0e2f" AffectedURI="http://www.legislation.gov.uk/id/uksi/1998/572" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/1998/995" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-4a8a9729de462312804ee01405f4d7d2" Row="853" Type="amended" RequiresApplied="true" AffectedProvisions="reg.2(1)" Comments="reg.2(1) am." AffectingYear="1998" AffectingNumber="995" AffectingProvisions="reg.2" AffectedYear="1998" AffectedNumber="572" Created="2019-07-11T00:00:00" Modified="2019-07-11T00:00:00">
+					<ukm:AffectedTitle>The Road Vehicles Registration Fee Regulations 1998</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>
+						<ukm:Section Ref="regulation-2-1" URI="http://www.legislation.gov.uk/id/uksi/1998/572/regulation/2/1">reg.2(1)</ukm:Section>
+					</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Road Vehicles Registration Fee (Amendment) Regulations 1998</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-2" URI="http://www.legislation.gov.uk/id/uksi/1998/995/regulation/2">reg.2</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+
+
+
+
+
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/introduction">
+			<Correction>
+				<Para>
+					<Text>This Statutory Instrument has been amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/1998/995" id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="0995">SI 1998/995</Citation> which is printed herein as pages 3 &amp; 4 and is being issued free of charge to all known recipients of <Citation URI="http://www.legislation.gov.uk/id/uksi/1998/572" id="c00002" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="0572">SI 1998/572</Citation></Text>
+				</Para>
+			</Correction>
+			<Number>1998 No. 572</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>ROAD TRAFFIC</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Road Vehicles Registration Fee Regulations 1998</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>4th March 1998</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>11th March 1998</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st April 1998</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 21(3) and 57 of the Vehicle Excise and Registration Act 1994<FootnoteRef Ref="f00001"/> and by virtue of the Department of Transport (Fees) Order 1988<FootnoteRef Ref="f00002"/>, hereby makes the following Regulations:—</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/body" NumberOfProvisions="2" NumberFormat="default">
+			<P1group>
+				<Title>Citation and commencement</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/regulation/1" id="regulation-1">
+					<Pnumber>1</Pnumber>
+					<P1para>
+						<Text>These Regulations may be cited as the Road Vehicles Registration Fee Regulations 1998 and shall come into force on 1th April 1998.</Text>
+					</P1para>
+				</P1>
+			</P1group>
+			<P1group>
+				<Title>Fee for registration of a mechanically propelled vehicle</Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/regulation/2" id="regulation-2">
+					<Pnumber>2</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/regulation/2/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/regulation/2/1" id="regulation-2-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>A vehicle, which is note a vehicle falling within paragraph (2) below, shall not be registered under section 22 of the Vehicle Excise and Registration Act 1994 unless a fee of £25 has been paid to the Secretary of State.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/regulation/2/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/regulation/2/2" id="regulation-2-2">
+							<Pnumber>2</Pnumber>
+							<P2para>
+								<Text>Paragraph (1) does not apply to a vehicle which is an exempt vehicle by virtue of paragraph 18 or 19 of Schedule 2 to that Act.</Text>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/signature">
+				<Signatory>
+					<Para>
+						<Text>Signed by authority of the Secretary of State</Text>
+					</Para>
+					<Signee>
+						<PersonName>Helene Hayman</PersonName>
+						<JobTitle>Parliamentary Under Secretary of State,</JobTitle>
+						<Department>Department of the Environment, Transport and the Regions</Department>
+						<DateSigned Date="1998-03-04">
+							<DateText>4th March 1998</DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/1998/572/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/1998/572/note">
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations provide that a vehicle must not be registered under Vehicle Excise and Registration Act 1994 unless a fee of £25 is paid. Certain vehicles for disabled persons are exempt.</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1994/22" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1994" Number="0022">1994 c. 22</Citation>. Section 21(3) was inserted by the Finance Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1995/4" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1995" Number="0004">1995 (c. 4)</Citation>, Schedule 4, paragraph 33.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1988/643" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1988" Number="0643">S.I. 1988/643</Citation>; relevant amending instruments are <Citation URI="http://www.legislation.gov.uk/id/uksi/1991/811" id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1991" Number="0811">S.I. 1991/811</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/1995/1684" id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1995" Number="1684">1995/1684</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/1998/459" id="c00008" Class="UnitedKingdomStatutoryInstrument" Year="1998" Number="0459">1998/459</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

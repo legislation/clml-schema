@@ -1,0 +1,206 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129" NumberOfProvisions="202" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made</dc:identifier>
+		<dc:title>The Cableway Installations Regulations 2004</dc:title>
+		<dc:subject>Health and safety at work</dc:subject>
+		<dc:subject>European Union</dc:subject>
+		<dc:subject>Information and data standards</dc:subject>
+		<dc:subject>Health and safety requirements</dc:subject>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2016-08-31</dc:modified>
+		<dc:subject scheme="SIheading">TRANSPORT</dc:subject>
+		<dc:description>These Regulations implement in relation to the whole of the United Kingdom, Council Directive 2000/9/EC of 20th March 2000 relating to cableway installations designed to carry persons (OJ No L106 3.5.2000 p 21). The purpose of that Directive is to introduce common standards for the construction and putting into service of cableway installations, including safety components and subsystems incorporated into cableway installations.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2004/129/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2004/129/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2004/129/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2004/129/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2004/129/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2004/129/body/made" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/uksi/2004/129/schedules/made" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2004/129/contents/made" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/2004-05-03" title="2004-05-03"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/2018-07-30" title="2018-07-30"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/1" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2004/129/made" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/2004/129/signature/made" title="Signature; Signature"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/uksi/2004/129/signature/made" title="Signature; Signature"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/2/made" title="Schedule; Schedule 2"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2004/129/schedule/2/made" title="Schedule; Schedule 2"/>
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2004"/>
+			<ukm:Number Value="129"/>
+			<ukm:DepartmentCode Value="DfT 13224"/>
+			<ukm:Made Date="2004-01-28"/>
+			<ukm:Laid Date="2004-01-30" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2004-05-03"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="0110484983"/>
+		</ukm:SecondaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-12-05" URI="http://www.legislation.gov.uk/uksi/2004/129/pdfs/uksi_20040129_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="216"/>
+			<ukm:BodyParagraphs Value="32"/>
+			<ukm:ScheduleParagraphs Value="184"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="1"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<Schedules>
+			<Schedule DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1" NumberOfProvisions="18" NumberFormat="default" id="schedule-1">
+				<Number>SCHEDULE 1</Number>
+				<TitleBlock>
+					<Title>(ANNEX 1 TO THE CABLEWAY INSTALLATIONS DIRECTIVE)</Title>
+				</TitleBlock>
+				<Reference>Regulation 2(5)</Reference>
+				<ScheduleBody>
+					<Part DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/part/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/part" NumberOfProvisions="18" id="schedule-1-part">
+						<Title>SUBSYSTEMS OF AN INSTALLATION</Title>
+						<P>
+							<Text>For the purposes of this directive, an installation is divided up into infrastructure and the subsystems listed below, with exploitability and maintainability having to be taken into account in each case:</Text>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/1" id="schedule-1-paragraph-1">
+								<Pnumber>1</Pnumber>
+								<P1para>
+									<Text>Cables and cable connections</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/2" id="schedule-1-paragraph-2">
+								<Pnumber>2</Pnumber>
+								<P1para>
+									<Text>Drives and brakes</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/3" id="schedule-1-paragraph-3">
+								<Pnumber>3</Pnumber>
+								<P1para>
+									<Text>Mechanical equipment</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/3.1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/3.1" id="schedule-1-paragraph-3.1">
+								<Pnumber>3.1</Pnumber>
+								<P1para>
+									<Text>Cable winding gear</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/3.2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/3.2" id="schedule-1-paragraph-3.2">
+								<Pnumber>3.2</Pnumber>
+								<P1para>
+									<Text>Station machinery</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/3.3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/3.3" id="schedule-1-paragraph-3.3">
+								<Pnumber>3.3</Pnumber>
+								<P1para>
+									<Text>Line engineering</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/4" id="schedule-1-paragraph-4">
+								<Pnumber>4</Pnumber>
+								<P1para>
+									<Text>Vehicles</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/4.1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/4.1" id="schedule-1-paragraph-4.1">
+								<Pnumber>4.1</Pnumber>
+								<P1para>
+									<Text>Cabins, seats or drag devices</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/4.2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/4.2" id="schedule-1-paragraph-4.2">
+								<Pnumber>4.2</Pnumber>
+								<P1para>
+									<Text>Suspension gear</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/4.3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/4.3" id="schedule-1-paragraph-4.3">
+								<Pnumber>4.3</Pnumber>
+								<P1para>
+									<Text>Driving gear</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/4.4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/4.4" id="schedule-1-paragraph-4.4">
+								<Pnumber>4.4</Pnumber>
+								<P1para>
+									<Text>Connections to the cable</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/5" id="schedule-1-paragraph-5">
+								<Pnumber>5</Pnumber>
+								<P1para>
+									<Text>Electrotechnical devices</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/5.1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/5.1" id="schedule-1-paragraph-5.1">
+								<Pnumber>5.1</Pnumber>
+								<P1para>
+									<Text>Monitoring, control and safety devices</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/5.2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/5.2" id="schedule-1-paragraph-5.2">
+								<Pnumber>5.2</Pnumber>
+								<P1para>
+									<Text>Communication and information equipment</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/5.3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/5.3" id="schedule-1-paragraph-5.3">
+								<Pnumber>5.3</Pnumber>
+								<P1para>
+									<Text>Lightning protection equipment</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/6" id="schedule-1-paragraph-6">
+								<Pnumber>6</Pnumber>
+								<P1para>
+									<Text>Rescue equipment</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/6.1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/6.1" id="schedule-1-paragraph-6.1">
+								<Pnumber>6.1</Pnumber>
+								<P1para>
+									<Text>Fixed rescue equipment</Text>
+								</P1para>
+							</P1>
+							<P1 DocumentURI="http://www.legislation.gov.uk/uksi/2004/129/schedule/1/paragraph/6.2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2004/129/schedule/1/paragraph/6.2" id="schedule-1-paragraph-6.2">
+								<Pnumber>6.2</Pnumber>
+								<P1para>
+									<Text>Mobile rescue equipment</Text>
+								</P1para>
+							</P1>
+						</P>
+					</Part>
+				</ScheduleBody>
+			</Schedule>
+		</Schedules>
+	</Secondary>
+</Legislation>

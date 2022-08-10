@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/uksi/1971/1035" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+        <dc:identifier>http://www.legislation.gov.uk/id/uksi/1971/1035</dc:identifier>
+        <dc:title>The Mineral Royalties (Tax) Regulations 1971</dc:title>
+        <dc:publisher>Westlaw</dc:publisher>
+        <dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+        <dc:modified>2011-04-05</dc:modified>
+        <dct:valid>1971-07-01</dct:valid>
+        <dc:subject scheme="SIheading">INCOME TAX</dc:subject>
+        <ukm:SecondaryMetadata>
+            <ukm:DocumentClassification>
+                <ukm:DocumentCategory Value="secondary"/>
+                <ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+                <ukm:DocumentStatus Value="final"/>
+                <ukm:DocumentMinorType Value="regulation"/>
+            </ukm:DocumentClassification>
+            <ukm:Year Value="1971"/>
+            <ukm:Number Value="1035"/>
+            <ukm:Made Date="1971-06-23"/>
+            <ukm:Laid Class="UnitedKingdomParliament" Date="1971-06-30"/>
+            <ukm:ComingIntoForce>
+                <ukm:DateTime Date="1971-07-01"/>
+            </ukm:ComingIntoForce>
+        </ukm:SecondaryMetadata>
+    </ukm:Metadata>
+    <Contents>
+        <ContentsTitle>The Mineral Royalties (Tax) Regulations 1971</ContentsTitle>
+        <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/1971/1035/regulation/1">
+            <ContentsNumber>1</ContentsNumber>
+            <ContentsTitle Generated="true">(1) These Regulations may be cited as the Mineral Royalties...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/1971/1035/regulation/2">
+            <ContentsNumber>2</ContentsNumber>
+            <ContentsTitle Generated="true">Subject to Regulation 3 below, where a payment is made...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/uksi/1971/1035/regulation/3">
+            <ContentsNumber>3</ContentsNumber>
+            <ContentsTitle Generated="true">The whole of a payment under an agreement shall for...</ContentsTitle>
+        </ContentsItem>
+        <ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/uksi/1971/1035/regulation/4">
+            <ContentsNumber>4</ContentsNumber>
+            <ContentsTitle Generated="true">Nothing in these Regulations applies to any periodical payments such...</ContentsTitle>
+        </ContentsItem>
+    </Contents>
+    <Secondary>
+        <SecondaryPrelims>
+            <Number>1971 No. 1035</Number>
+            <SubjectInformation>
+                <Subject>
+                    <Title>INCOME TAX</Title>
+                </Subject>
+            </SubjectInformation>
+            <Title>The Mineral Royalties (Tax) Regulations 1971</Title>
+            <MadeDate>
+                <Text>Made</Text>
+                <DateText>23rd June 1971</DateText>
+            </MadeDate>
+            <LaidDate>
+                <Text>Laid before the House of Commons</Text>
+                <DateText>30th June 1971</DateText>
+            </LaidDate>
+            <ComingIntoForce>
+                <Text>Coming into Operation</Text>
+                <DateText>1st July 1971</DateText>
+            </ComingIntoForce>
+            <SecondaryPreamble>
+                <EnactingText>
+                    <Para>
+                        <Text>The Commissioners of Inland Revenue, in exercise of the powers conferred upon them by section 29(6) of the Finance Act 1970, hereby make the following Regulations:—</Text>
+                    </Para>
+                </EnactingText>
+            </SecondaryPreamble>
+        </SecondaryPrelims>
+        <Body>
+            <P1 id="regulation-1">
+                <Pnumber>1</Pnumber>
+                <P1para>
+                    <P2 id="regulation-1-1">
+                        <Pnumber>1</Pnumber>
+                        <P2para>
+                            <Text>These Regulations may be cited as the Mineral Royalties (Tax) Regulations 1971, and shall come into operation on 1st July 1971.</Text>
+                        </P2para>
+                    </P2>
+                    <P2 id="regulation-1-2">
+                        <Pnumber>2</Pnumber>
+                        <P2para>
+                            <Text>The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.</Text>
+                        </P2para>
+                    </P2>
+                    <P2 id="regulation-1-3">
+                        <Pnumber>3</Pnumber>
+                        <P2para>
+                            <Text>In these Regulations:—</Text>
+                            <UnorderedList Decoration="none" Class="Definition">
+                                <ListItem>
+                                    <Para>
+                                        <Text>the “<Term id="d001">principal section</Term>” means <Definition TermRef="d001">section 29 of the Finance Act 1970;</Definition>
+                                        </Text>
+                                    </Para>
+                                </ListItem>
+                                <ListItem>
+                                    <Para>
+                                        <Text>“<Term id="d002">agreement</Term>” means <Definition TermRef="d002">a mineral lease or agreement, as defined in the principal section;</Definition>
+                                        </Text>
+                                    </Para>
+                                </ListItem>
+                                <ListItem>
+                                    <Para>
+                                        <Text>“<Term id="d003">specified operations</Term>” means <Definition TermRef="d003">the winning and working, grading, washing, grinding and crushing of minerals, but in relation to any particular agreement, includes only such of those operations as are in fact authorised by the agreement;</Definition>
+                                        </Text>
+                                    </Para>
+                                </ListItem>
+                                <ListItem>
+                                    <Para>
+                                        <Text>“<Term id="d004">rights</Term>” <Definition TermRef="d004">includes liberties.</Definition>
+                                        </Text>
+                                    </Para>
+                                </ListItem>
+                            </UnorderedList>
+                        </P2para>
+                    </P2>
+                </P1para>
+            </P1>
+            <P1 id="regulation-2">
+                <Pnumber>2</Pnumber>
+                <P1para>
+                    <Text>Subject to Regulation 3 below, where a payment is made on or after 6th April 1970 in respect of a sum receivable on or after that date under an agreement which relates both to the winning and working of minerals and to other matters, then, notwithstanding any allocation of the payment under the terms of the agreement, so much but no more of the payment is to be treated for the purposes of the principal section as mineral royalties as might reasonably have been expected to be provided for by the agreement if—</Text>
+                    <P3 id="regulation-2-a">
+                        <Pnumber>a</Pnumber>
+                        <P3para>
+                            <Text>it conferred only the right to carry out specified operations in relation to minerals in or under the land to which the agreement relates; and</Text>
+                        </P3para>
+                    </P3>
+                    <P3 id="regulation-2-b">
+                        <Pnumber>b</Pnumber>
+                        <P3para>
+                            <Text>any buildings, structures, roads, shafts, adits or other works existing on the land at the time when the agreement was granted or made were not in existence.</Text>
+                        </P3para>
+                    </P3>
+                </P1para>
+                <P1para>
+                    <Text>
+                        <Proviso>Provided that no such payments are to be treated as mineral royalties unless minerals in or under the land are being or have been won and worked pursuant to rights conferred by or under the agreement, or there is reasonable prospect of their being so won and worked.</Proviso>
+                    </Text>
+                </P1para>
+            </P1>
+            <P1 id="regulation-3">
+                <Pnumber>3</Pnumber>
+                <P1para>
+                    <Text>The whole of a payment under an agreement shall for the purposes of the principal section be treated as a mineral royalty if under Regulation 2 above nine-tenths or more of it would be so treated.</Text>
+                </P1para>
+            </P1>
+            <P1 id="regulation-4">
+                <Pnumber>4</Pnumber>
+                <P1para>
+                    <Text>Nothing in these Regulations applies to any periodical payments such as are referred to in subsection (9)(b) of the principal section (payments made under certain statutes in Northern Ireland).</Text>
+                </P1para>
+            </P1>
+            <SignedSection>
+                <Signatory>
+                    <Para>
+                        <Text>By Order of the Commissioners of Inland Revenue,</Text>
+                    </Para>
+                    <Signee>
+                        <PersonName>Alan Lord</PersonName>
+                        <JobTitle>Secretary</JobTitle>
+                        <DateSigned Date="1971-06-23">
+                            <DateText>23rd June 1971</DateText>
+                        </DateSigned>
+                    </Signee>
+                </Signatory>
+            </SignedSection>
+        </Body>
+        <ExplanatoryNotes>
+            <Title>EXPLANATORY NOTE</Title>
+            <P>
+                <Text>Section 29, Finance Act 1970 governs the taxation of royalties receivable on or after 6th April 1970 under a mineral lease or agreement, and empowers the Commissioners of Inland Revenue to make provision by regulations as to the extent to which payments under a mineral lease or agreement are to be treated for this purpose as royalties if they relate to other matters besides the winning and working of minerals. These regulations make such provision.</Text>
+            </P>
+        </ExplanatoryNotes>
+    </Secondary>
+</Legislation>

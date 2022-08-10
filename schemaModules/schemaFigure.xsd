@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
-	xmlns:h="http://www.w3.org/1999/xhtml"
-	version="2.0" id="SchemaFigure">
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns:h="http://www.w3.org/1999/xhtml" version="2.0" id="SchemaFigure">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -30,7 +27,7 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-	
+
 	<xsd:element name="Figure">
 		<xsd:annotation>
 			<xsd:documentation>
@@ -63,31 +60,46 @@
 					<xsd:documentation>
 						<h:p>Defines the layout of the images. This mainly applies when there is more than one image in a figure. They may be laid vertically (normal), horizontally, e.g. across the page, or when there are many images, in a matrix format up to 5 images wide.</h:p>
 						<h:p>There is the possibility that this option may cause a conflict on image widths and page size. It it left to individual implementations as to how this should be resolved.</h:p>
-						<h:p>The possible values are explained below:</h:p>
-						<h:ul>
-							<h:li>vertical - Images will be laid below each other on the page</h:li>
-							<h:li>horizontal - Images will be placed beside each other on the page</h:li>
-							<h:li>matrix-2-wide - Images will be placed two to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-3-wide - Images will be placed three to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-4-wide - Images will be placed four to a line, using enough lines as needed to place all the images</h:li>
-							<h:li>matrix-5-wide - Images will be placed five to a line, using enough lines as needed to place all the images</h:li>
-						</h:ul>
 					</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
-						<xsd:enumeration value="vertical"/>
-						<xsd:enumeration value="horizontal"/>
-						<xsd:enumeration value="matrix-2-wide"/>
-						<xsd:enumeration value="matrix-3-wide"/>
-						<xsd:enumeration value="matrix-4-wide"/>
-						<xsd:enumeration value="matrix-5-wide"/>
+						<xsd:enumeration value="vertical">
+							<xsd:annotation>
+								<xsd:documentation>Images will be laid below each other on the page</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="horizontal">
+							<xsd:annotation>
+								<xsd:documentation>Images will be placed beside each other on the page</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="matrix-2-wide">
+							<xsd:annotation>
+								<xsd:documentation>Images will be placed two to a line, using enough lines as needed to place all the images</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="matrix-3-wide">
+							<xsd:annotation>
+								<xsd:documentation>Images will be placed three to a line, using enough lines as needed to place all the images</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="matrix-4-wide">
+							<xsd:annotation>
+								<xsd:documentation>Images will be placed four to a line, using enough lines as needed to place all the images</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="matrix-5-wide">
+							<xsd:annotation>
+								<xsd:documentation>Images will be placed five to a line, using enough lines as needed to place all the images</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
-	
+
 	<xsd:attributeGroup name="FigureElementIDattributes">
 		<xsd:attribute name="id">
 			<xsd:annotation>
@@ -100,7 +112,7 @@
 			</xsd:simpleType>
 		</xsd:attribute>
 	</xsd:attributeGroup>
-	
+
 	<xsd:element name="Notes">
 		<xsd:annotation>
 			<xsd:documentation>A placeholder for footnotes to the figure</xsd:documentation>
@@ -113,12 +125,12 @@
 			<xsd:attributeGroup ref="CommonAttributes"/>
 		</xsd:complexType>
 	</xsd:element>
-	
+
 	<xsd:element name="Image">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>A single image. An image may be inline or display when contained in a figure or signature Signee element</h:p>
-				<h:p>An image does not link directly to a file but to a resource. The reason for this is that the resource may be external, i.e. a file or it may be internal – that is the image may be described within the same document.</h:p>
+				<h:p>A single image. An image may be inline, or alternatively display as a block when it is contained in a <h:code>&lt;Figure></h:code> element or in a  <h:code>&lt;Signee></h:code> element in a signature.</h:p>
+				<h:p>An image does not link directly to a file, but instead to a resource represented by a <h:code>&lt;Resource></h:code> element. The reason for this is that the resource may be external (i.e. a file) or it may be internal (i.e. the image data is held within the document).</h:p>
 				<h:p>The resource is referenced with a ResourceRef attribute. It is perfectly acceptable for more than one Image element to reference the same resource.</h:p>
 				<h:p>Each Image element must have Width and Height attributes. The values held  are expected to reflect the size of the original image as printed (not necessarily the actual native size of the image) if absolute values are held (for example, 580pt). The values can be in points or ems. Ems are expected mainly to be used inline (where it would be likely that the image would be less than 1em high to avoid problems with line spacing). Obviously for display images ems may not have a defined value, in which case it would be down to the implementation to define what an em is.</h:p>
 				<h:p>It it is possible to use relative values. These have been created with authoring of legislation in mind and are explained below:</h:p>
@@ -139,11 +151,19 @@
 			<!-- issue ID #156763855
 			<xsd:attribute name="Height" type="FigureSizeType" use="required"/>
 			<xsd:attribute name="Width" type="FigureSizeType" use="required"/>  -->
-			<xsd:attribute name="Height" type="FigureSizeType" use="optional" default="auto" />
-			<xsd:attribute name="Width" type="FigureSizeType" use="optional" default="auto" />
+			<xsd:attribute name="Height" type="FigureSizeType" use="optional" default="auto">
+				<xsd:annotation>
+					<xsd:documentation>The height of the image</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="Width" type="FigureSizeType" use="optional" default="auto">
+				<xsd:annotation>
+					<xsd:documentation>The width of the image</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
-	
+
 	<xsd:simpleType name="FigureSizeType">
 		<xsd:annotation>
 			<xsd:documentation>Defines a size in either pixels, points or ems; alternatively the value can be auto (inherent, but cropped if larger than the page size), scale-to-fit (i.e. image is scaled to fit the page), spread (as in a two-page spread), or fit-page-to-image (where the page grows to fit around the image).</xsd:documentation>
@@ -152,5 +172,5 @@
 			<xsd:pattern value="(auto|scale-to-fit|fit-page-to-image|spread|\d{1,}\.?\d{0,3}%|\d{1,}\.?\d{0,3}pt|\d{1,}\.?\d{0,3}em)"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-	
+
 </xsd:schema>

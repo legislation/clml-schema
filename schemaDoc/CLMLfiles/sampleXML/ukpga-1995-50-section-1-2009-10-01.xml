@@ -1,0 +1,121 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50" NumberOfProvisions="490" RestrictEndDate="2020-01-27" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="1995-11-08">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01</dc:identifier>
+		<dc:title>Disability Discrimination Act 1995</dc:title>
+		<dc:description>An Act to make it unlawful to discriminate against disabled persons in connection with employment, the provision of goods, facilities and services or the disposal or management of premises; to make provision about the employment of disabled persons; and to establish a National Disability Council.</dc:description>
+		<dc:date>1995-11-08</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2020-03-13</dc:modified>
+		<dct:valid>2009-10-01</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1995/50/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1995/50/2009-10-01" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1995/50/introduction/2009-10-01" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1995/50/body/2009-10-01" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1995/50/schedules/2009-10-01" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1995/50/contents/2009-10-01" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/1996-05-17" title="1996-05-17"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2010-10-01" title="2010-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/1996-05-17" title="1996-05-17"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2005-09-01" title="2005-09-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2010-10-01" title="2010-10-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1995/50/section/1" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1995/50/2009-10-01" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1995/50/introduction/2009-10-01" title="Introduction; Introduction"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1995/50/introduction/2009-10-01" title="Introduction; Introduction"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1995/50/section/2/2009-10-01" title="Provision; Section 2"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1995/50/section/2/2009-10-01" title="Provision; Section 2"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1995"/>
+			<ukm:Number Value="50"/>
+			<ukm:EnactmentDate Date="1995-11-08"/>
+			<ukm:ISBN Value="0105450952"/>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/ukpga/1995/50/pdfs/ukpga_19950050_en.pdf" Date="2015-02-15"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="407"/>
+			<ukm:BodyParagraphs Value="205"/>
+			<ukm:ScheduleParagraphs Value="202"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/body/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50/body" NumberOfProvisions="205" RestrictExtent="E+W+S+N.I." RestrictStartDate="2007-12-31">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/part/I/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50/part/I" NumberOfProvisions="3" RestrictStartDate="1996-05-17" id="part-I">
+				<Number>Part I</Number>
+				<Title> Disability</Title>
+				<P1group RestrictExtent="E+W+S+N.I." RestrictStartDate="2005-09-01" RestrictEndDate="2010-10-01">
+					<Title> Meaning of “disability” and “disabled person”.</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" id="section-1">
+						<Pnumber><CommentaryRef Ref="c18597171"/><CommentaryRef Ref="c20506211"/>1</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/section/1/1/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1/1" id="section-1-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text> Subject to the provisions of Schedule 1, a person has a disability for the purposes of this Act <Addition ChangeId="d29p116774" CommentaryRef="c20506311">and Part III of the 2005 Order</Addition> if he has a physical or mental impairment which has a substantial and long-term adverse effect on his ability to carry out normal day-to-day activities.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1995/50/section/1/2/2009-10-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1/2" id="section-1-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>In this Act <Addition ChangeId="d29p116784" CommentaryRef="c20506311">and Part III of the 2005 Order</Addition>“<Term id="term-disabled-person">disabled person</Term>” means a person who has a disability.</Text>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Part>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="c20506311" Type="F">
+			<Para>
+				<Text>Words in <CitationSubRef id="c00078" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">s. 1</CitationSubRef> inserted (N.I.) (1.9.2005 for certain purposes, otherwise 16.1.2007) by <Citation URI="http://www.legislation.gov.uk/id/nisi/2005/1117" id="c00079" Class="NorthernIrelandOrderInCouncil" Year="2005" Number="1117" Title="The Special Educational Needs and Disability (Northern Ireland) Order 2005">The Special Educational Needs and Disability (Northern Ireland) Order 2005 (S.I. 2005/1117 (N.I. 6))</Citation>, <CitationSubRef id="c00080" URI="http://www.legislation.gov.uk/id/nisi/2005/1117/article/1/2/d/3/b" CitationRef="c00079" SectionRef="article-1-2-d-3-b">arts. 1(2)(d)(3)(b)</CitationSubRef>,{48(2)}; <Citation URI="http://www.legislation.gov.uk/id/nisr/2005/336" id="c00081" Class="NorthernIrelandStatutoryRule" Year="2005" Number="336">S.R. 2005/336</Citation>, <CitationSubRef id="c00082" URI="http://www.legislation.gov.uk/id/nisr/2005/336/article/2" CitationRef="c00081" SectionRef="article-2" Operative="true">art. 2</CitationSubRef>, <CitationSubRef id="c00083" URI="http://www.legislation.gov.uk/id/nisr/2005/336/schedule" CitationRef="c00081" SectionRef="schedule">Sch</CitationSubRef> (as amended (16.1.2007) by <Citation URI="http://www.legislation.gov.uk/id/nisr/2007/25" id="c00084" Class="NorthernIrelandStatutoryRule" Year="2007" Number="25">S.R. 2007/25</Citation>, <CitationSubRef id="c00085" URI="http://www.legislation.gov.uk/id/nisr/2007/25/article/2" CitationRef="c00084" SectionRef="article-2" Operative="true">art. 2</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/nisr/2005/337" id="c00086" Class="NorthernIrelandStatutoryRule" Year="2005" Number="337">S.R. 2005/337</Citation>, <CitationSubRef id="c00087" URI="http://www.legislation.gov.uk/id/nisr/2005/337/article/2" CitationRef="c00086" SectionRef="article-2" Operative="true">art. 2</CitationSubRef>, <CitationSubRef id="c00088" URI="http://www.legislation.gov.uk/id/nisr/2005/337/schedule" CitationRef="c00086" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c20506211" Type="C">
+			<Para>
+				<Text><CitationSubRef id="c00063" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">S. 1</CitationSubRef> applied (N.I.) (6.4.2005) by <Citation URI="http://www.legislation.gov.uk/id/nisi/2005/1117" id="c00064" Class="NorthernIrelandOrderInCouncil" Year="2005" Number="1117" Title="The Special Educational Needs and Disability (Northern Ireland) Order 2005">The Special Educational Needs and Disability (Northern Ireland) Order 2005 (S.I. 2005/1117 (N.I. 6))</Citation>, <CitationSubRef id="c00065" URI="http://www.legislation.gov.uk/id/nisi/2005/1117/article/1" CitationRef="c00064" SectionRef="article-1">arts. 1</CitationSubRef>, <CitationSubRef id="c00066" URI="http://www.legislation.gov.uk/id/nisi/2005/1117/article/2/3" CitationRef="c00064" SectionRef="article-2-3" Operative="true">2(3)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c18597171" Type="I">
+			<Para>
+				<Text><CitationSubRef id="c00054" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">S. 1</CitationSubRef> wholly in force at 30.5.1996; <CitationSubRef id="c00055" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">s. 1</CitationSubRef> not in force at Royal Assent see. <CitationSubRef id="c00056" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/70/3" SectionRef="section-70-3">s. 70(3)</CitationSubRef>; <CitationSubRef id="c00057" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">s. 1</CitationSubRef> in force (E.W.S.) at 17.5.1996 by <Citation URI="http://www.legislation.gov.uk/id/uksi/1996/1336" id="c00058" Class="UnitedKingdomStatutoryInstrument" Year="1996" Number="1336">S.I. 1996/1336</Citation>, <CitationSubRef id="c00059" URI="http://www.legislation.gov.uk/id/uksi/1996/1336/article/3/a" Operative="true" CitationRef="c00058" SectionRef="article-3-a">art. 3(a)</CitationSubRef>; <CitationSubRef id="c00060" URI="http://www.legislation.gov.uk/id/ukpga/1995/50/section/1" SectionRef="section-1">s. 1</CitationSubRef> in force (N.I.) at 30.5.1996 by <Citation URI="http://www.legislation.gov.uk/id/nisr/1996/219" id="c00061" Class="NorthernIrelandStatutoryRule" Year="1996" Number="219">S.R. 1996/219</Citation>, <CitationSubRef id="c00062" URI="http://www.legislation.gov.uk/id/nisr/1996/219/article/3/a" Operative="true" CitationRef="c00061" SectionRef="article-3-a">art. 3(a)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+	</Commentaries>
+</Legislation>

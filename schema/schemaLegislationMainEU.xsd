@@ -17,11 +17,12 @@
 				<dcq:created>2018-11-20</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2018-11-20</dcq:modified>
+				<dcq:modified>2018-11-26</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.4			Karl Rajangam		AttachmentGroup id replaced with attributeGroup PelementIDattributes and CommonSubAttributes
 			2.0			Jim Mangiafico		Created
 			</xsd:documentation>
 		</xsd:appinfo>
@@ -105,7 +106,8 @@
 				<xsd:element ref="Title" minOccurs="0"/>
 				<xsd:element ref="Attachment" maxOccurs="unbounded"/>
 			</xsd:sequence>
-			<xsd:attribute name="id" use="required" />
+			<xsd:attributeGroup ref="PelementIDattributes"/>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="FragmentAttributes"/>
 		</xsd:complexType>
 	</xsd:element>

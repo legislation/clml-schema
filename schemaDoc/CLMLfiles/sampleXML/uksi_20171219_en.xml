@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation SchemaVersion="1.0" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation z:\legislationSchema\schema\schemaLegislationBase-v1-0.xsd" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+Conversion parameters:
+Conversion method: SItemplateToSchema
+Date/time of conversion: Wed Dec 6 2017 19:28:03 UTC
+Error reporting level: 2
+Report unprocessed content: true
+Generated filename: uksi_20171219_en
+Draft status entered by user: uksi
+Document type entered by user: 30100
+-->
+<ukm:Metadata>
+<dc:title>The Fishing Boats Designation (England) (Amendment) Order 2017</dc:title>
+<dc:identifier>urn:isbn:9780111162781</dc:identifier>
+<dc:language>en</dc:language>
+<ukm:SecondaryMetadata>
+<ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification>
+<ukm:Year Value="2017"/>
+<ukm:Number Value="1219"/>
+<ukm:Made Date="2017-12-06"/>
+<ukm:Laid Date="2017-12-07" Class="UnitedKingdomParliament"/>
+<ukm:ComingIntoForce>
+<ukm:DateTime Date="2018-01-04"/></ukm:ComingIntoForce>
+</ukm:SecondaryMetadata>
+</ukm:Metadata>
+<Secondary>
+<SecondaryPrelims>
+<Number>2017 No. 1219</Number>
+<SubjectInformation>
+<Subject>
+<Title>Sea Fisheries, England</Title>
+<Subtitle>Fishery Limits</Subtitle>
+</Subject>
+</SubjectInformation>
+<Title>The Fishing Boats Designation (England) (Amendment) Order 2017</Title>
+<MadeDate>
+<Text>Made</Text>
+<DateText>6th December 2017</DateText>
+</MadeDate>
+<LaidDate>
+<Text>Laid before Parliament</Text>
+<DateText>7th December 2017</DateText>
+</LaidDate>
+<ComingIntoForce>
+<Text>Coming into force</Text>
+<DateText>4th January 2018</DateText>
+</ComingIntoForce>
+<SecondaryPreamble>
+<EnactingText>
+<Para>
+<Text>The Secretary of State makes this Order in exercise of the powers conferred by sections 2(1) and (4) and 6(2) of the Fishery Limits Act 1976<FootnoteRef Ref="f00001"/>, and now vested in the Secretary of State<FootnoteRef Ref="f00002"/>.</Text></Para>
+</EnactingText>
+</SecondaryPreamble>
+</SecondaryPrelims>
+<Body>
+<P1group>
+<Title>Citation, commencement, extent and application</Title>
+<P1>
+<Pnumber>1</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para><Text>This Order may be cited as the Fishing Boats Designation (England) (Amendment) Order 2017 and comes into force on 4th January 2018.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>This Order extends to England and Wales, but applies only in relation to England and areas within British Fishery limits<FootnoteRef Ref="f00003"/>, other than the excluded areas.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>For the purposes of paragraph (2), the excluded areas are—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the Northern Ireland zone (within the meaning of section 98(1) and (8) of the Northern Ireland Act 1998<FootnoteRef Ref="f00004"/>);</Text>
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the Scottish zone (within the meaning of section 126(1) and (2) of the Scotland Act 1998<FootnoteRef Ref="f00005"/>); and</Text>
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>the Welsh zone (within the meaning of section 158(1) of the Government of Wales Act 2006<FootnoteRef Ref="f00006"/>).</Text>
+</P3para></P3>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<P1group>
+<Title>Amendment of the Fishing Boats Designation (England) Order 2015</Title>
+<P1>
+<Pnumber>2</Pnumber>
+<P1para>
+<P2>
+<Pnumber>1</Pnumber>
+<P2para><Text>The Fishing Boats Designation (England) Order 2015<FootnoteRef Ref="f00007"/> is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In article 3—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for paragraph (3) substitute—</Text>
+<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+<P2>
+<Pnumber>3</Pnumber>
+<P2para><Text>In paragraph (5) and Schedule 1, “the baselines”, except where otherwise indicated, means the baselines as they existed on 25th January 1983 in accordance with the Territorial Waters Order in Council 1964<FootnoteRef Ref="f00008"/>.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>in paragraph (4), for “(other than squids)” substitute “(other than cephalopods)”.</Text>
+</P3para></P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>Schedule 1 (access to fisheries: designated countries and designated areas) is amended as follows.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In relation to “Belgium” in column 1, for paragraph 2(e)(ii) in column 2 substitute—</Text>
+<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para><Text>the southern boundary of the Welsh zone.</Text></P4para>
+</P4>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P2para>
+</P2>
+<P2>
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>In relation to “France” in column 1—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for paragraph 2(c)(ii) in column 2 substitute—</Text>
+<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para><Text>a line drawn due south from longitude 2 degrees 56 minutes W;</Text></P4para>
+</P4>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para></P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for paragraph 2(d)(i) in column 2 substitute—</Text>
+<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+<P4>
+<Pnumber>i</Pnumber>
+<P4para><Text>a line drawn due south from longitude 2 degrees 56 minutes W and</Text></P4para>
+</P4>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para></P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>for paragraph 4(b) substitute—</Text>
+<BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="double">
+<P3>
+<Pnumber>b</Pnumber>
+<P3para><Text>the southern boundary of the Welsh zone</Text>
+</P3para>
+</P3>
+</BlockAmendment>
+<AppendText>;</AppendText>
+</P3para></P3>
+                <P3>
+                  <Pnumber>d</Pnumber>
+                  <P3para>
+                    <Text>after paragraph 4, insert in the appropriate columns the following designated area and description of sea fish—</Text>
+                    <BlockAmendment Context="unknown" TargetClass="unknown" TargetSubClass="unknown" Format="default">
+                      <Tabular Orientation="portrait">
+                        <table cols="2" xmlns="http://www.w3.org/1999/xhtml">
+                          <colgroup>
+                            <col width="213.2pt"/>
+                            <col width="174.95pt"/>
+                          </colgroup>
+                          <tbody>
+                            <tr>
+                              <td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">
+                                <Para xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                  <Text><Strong>4A.</Strong> The area within 12 miles, but outside 6 miles, from baselines adjacent to the United Kingdom and between—</Text>
+                                </Para>
+                                <OrderedList Decoration="parens" Type="alpha" Start="5" xmlns="http://www.legislation.gov.uk/namespaces/legislation">
+                                  <ListItem>
+                                    <Para>
+                                      <Text>the northern boundary of the Welsh zone; and</Text>
+                                    </Para>
+                                  </ListItem>
+                                  <ListItem>
+                                    <Para>
+                                      <Text>latitude 53 degrees 52 minutes N.</Text>
+                                    </Para>
+                                  </ListItem>
+                                </OrderedList>
+                              </td>
+                              <td rowspan="1" colspan="1" fo:border-top-style="solid" fo:border-top-width="0.5pt" fo:border-top-color="black" fo:border-bottom-style="solid" fo:border-bottom-width="0.5pt" fo:border-bottom-color="black">All descriptions of sea fish</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </Tabular>
+                    </BlockAmendment>
+                  </P3para>
+                </P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>In relation to “Republic of Ireland” in column 1, for paragraph 2 in column 2 substitute—</Text>
+<BlockAmendment TargetSubClass="unknown" Context="unknown" TargetClass="unknown" Format="double"><P1>
+<Pnumber PuncAfter=".">2</Pnumber>
+<P1para>
+<Text>Such parts of the area within 12 miles, but outside 6 miles, from the baselines adjacent to Great Britain, and between—</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para><Text>the northern boundary of the Welsh zone, and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para><Text>the south-western boundary of the Scottish zone,</Text>
+</P3para>
+</P3>
+<Text>as lie no nearer to the Isle of Man than a line every point of which is equidistant from the nearest points of, on the one hand, the baselines adjacent to Great Britain and, on the other hand, the baselines adjacent to the Isle of Man.</Text>
+</P1para>
+</P1>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1>
+</P1group>
+<SignedSection>
+<Signatory>
+<Signee>
+<PersonName>George Eustice</PersonName>
+<JobTitle>Minister of State</JobTitle>
+<Department>Department for Environment, Food and Rural Affairs</Department>
+<DateSigned Date="2017-12-06"><DateText>6th December 2017</DateText></DateSigned>
+</Signee>
+</Signatory>
+</SignedSection>
+</Body>
+<ExplanatoryNotes>
+<Title>EXPLANATORY NOTE</Title>
+<Comment>
+<Para><Text>(This note is not part of the Order)</Text></Para>
+</Comment>
+<P><Text>This Order applies in relation to England and areas within British fishery limits other than the Northern Ireland zone, the Scottish zone, and the Welsh zone.</Text></P>
+<P><Text>The Order amends the Fishing Boats Designation (England) Order 2015 (<Citation id="c00003" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0648">S.I. 2015/648</Citation>) by substituting the definition of “baselines” in article 3(3) of the 2015 Order, amending the definition of “demersal fish” in article 3(4), and making minor textual amendments to Schedule 1 to amend the descriptions of the areas in which Belgium, France and Ireland are designated to fish.</Text></P>
+<P><Text>An impact assessment has not been produced for this instrument, as no, or no significant, impact on the private, voluntary or public sector is foreseen.</Text></P>
+</ExplanatoryNotes>
+</Secondary>
+<Footnotes>
+<Footnote id="f00001">
+<FootnoteText>
+<Para><Text><Citation id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="1976" Number="0086">1976 c. 86</Citation>. Section 2(1) and (4) of that Act were amended by <Citation id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1820">S.I. 1999/1820</Citation> article 4, Schedule 2, paragraph 57(1) and (2)(a).</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00002">
+<FootnoteText>
+<Para><Text>The functions of the Ministers under the Fishery Limits Act 1976 (“the 1976 Act”) in relation to Wales were transferred to the National Assembly for Wales and then transferred from that body to Welsh Ministers: see article 2(a) of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (<Citation id="c00040" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="0672">S.I 1999/672</Citation>) and paragraph 30 of Schedule 11 to the Government of Wales Act <Citation id="c00014" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0032">2006 (c. 32)</Citation>. Insofar as those functions were exercisable in relation to the Welsh zone, they have been transferred to Welsh Ministers by article 4(1) of the Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (<Citation id="c00015" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="0760">S.I. 2010/760</Citation>). The functions under the 1976 Act within British fishery limits but outside the Scottish zone are exercisable by “the Ministers” (defined in section 8 of the 1976 Act). Functions under section 2 of the 1976 Act, which are now exercisable in relation to areas within the Scottish zone by virtue of section 2(9) of the 1976 Act, are exercisable by the Scottish Ministers by virtue of section 53 of the Scotland Act <Citation id="c00016" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 (c. 46)</Citation>. Any remaining functions of the Secretaries of State concerned with the sea fishing industry in Scotland and Wales under section 2 of the 1976 Act were transferred to the Minister of Agriculture, Fisheries and Food: see article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 (<Citation id="c00017" Class="UnitedKingdomStatutoryInstrument" Year="2000" Number="1812">S.I. 2000/1812</Citation>). Functions under section 2 of the 1976 Act were transferred to the Department of Agriculture and Rural Development (now renamed the Department of Agriculture, Environment and Rural Affairs) under article 3(3) of, and paragraph 4 of Schedule 3 to, the Sea Fisheries (Northern Ireland) Order 2002 (<Citation id="c00018" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0790">S.I. 2002/790</Citation>). Functions under section 2 of the 1976 Act have been transferred to the Secretary of State: see article 3(1)(c) of the Transfer of Functions (Sea Fisheries) Order (<Citation id="c00019" Class="UnitedKingdomStatutoryInstrument" Year="2012" Number="2747">S.I. 2012/2747</Citation>).</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00003">
+<FootnoteText>
+<Para><Text>By virtue of section 1(1) of the 1976 Act, “British fishery limits” are the limits set by an Order in Council under section 41(3) of the Marine and Coastal Access Act <Citation id="c00022" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0023">2009 (c. 23)</Citation>. Section 1(1) was substituted (for the purposes of the law of England and Wales) by the Marine and Coastal Access Act 2009, Schedule 4, paragraph 2(1) and (2). Section 1(3) and (4) was repealed (but only in relation to England and Wales) by the Marine and Coastal Access Act 2009, Schedule 4, paragraph 2(1) and (3) and Schedule 22, Part 1. The Exclusive Economic Zone Order 2013 (<Citation id="c00023" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3161">S.I. 2013/3161</Citation>), an Order in Council made under section 41(3) of the 2009 Act, designates the area of the exclusive economic zone.</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00004">
+<FootnoteText>
+<Para><Text><Citation id="c00026" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0047">1998 c. 47</Citation>. The part of the sea within British fishery limits which is to be treated as adjacent to Northern Ireland for the purposes of the definition of “the Northern Ireland zone” in section 98(1) of the Northern Ireland Act 1998 is specified in the Adjacent Waters Boundaries (Northern Ireland) Order 2002 (<Citation id="c00027" Class="UnitedKingdomStatutoryInstrument" Year="2002" Number="0791">S.I. 2002/791</Citation>) made under section 98(8) of the Northern Ireland Act 1998.</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00005">
+<FootnoteText>
+<Para><Text><Citation id="c00030" Class="UnitedKingdomPublicGeneralAct" Year="1998" Number="0046">1998 c. 46</Citation>. The part of the sea within British fishery limits which is to be treated as adjacent to Scotland for the purposes of the definition of “the Scottish zone” in section 126(1) of the Scotland Act 1998 is specified in the Scottish Adjacent Waters Boundaries Order 1999 (<Citation id="c00031" Class="UnitedKingdomStatutoryInstrument" Year="1999" Number="1126">S.I. 1999/1126</Citation>) made under section 126(2) of the Scotland Act 1998.</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00006">
+<FootnoteText>
+<Para><Text><Citation id="c00035" Class="UnitedKingdomPublicGeneralAct" Year="2006" Number="0032">2006 c. 32</Citation>; section 158(1) was amended by the Marine and Coastal Access Act <Citation id="c00036" Class="UnitedKingdomPublicGeneralAct" Year="2009" Number="0023">2009 (c. 23)</Citation>, section 43(2). There are other amendments not relevant to this Order. The part of the sea within British fishery limits which is to be treated as adjacent to Wales for the purposes of the definition of “the Welsh zone” in section 158(1) of the Government of Wales Act 2006 is specified in the Welsh Zone (Boundaries and Transfer of Functions) Order 2010 ( <Citation id="c00037" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="0760">S.I. 2010/760</Citation>) made under sections 58, 157(2) and 158(4) of, and paragraph 7 of Schedule 3 and paragraph 2 of Schedule 4 to, the Government of Wales Act 2006.</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00007">
+<FootnoteText>
+<Para><Text><Citation id="c00041" Class="UnitedKingdomStatutoryInstrument" Year="2015" Number="0648">S.I 2015/648</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote>
+<Footnote id="f00008">
+<FootnoteText>
+<Para><Text>The Territorial Waters Order in Council 1964<Emphasis>: </Emphasis>Statutory Instruments 1965 III p.6452A; HMSO, 1966, amended by the Territorial Waters (Amendment) Order in Council: Statutory Instruments 1979 III p.2866; HMSO, 1980; and revoked by <Citation id="c00039" Class="UnitedKingdomStatutoryInstrument" Year="2014" Number="1353">S.I. 2014/1353</Citation>.</Text></Para>
+</FootnoteText>
+</Footnote>
+</Footnotes>
+</Legislation>

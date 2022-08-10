@@ -1,0 +1,117 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2014/448/made" IdURI="http://www.legislation.gov.uk/id/uksi/2014/448" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" xml:lang="en" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/2014/448/contents/made</dc:identifier>
+		<dc:title>The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2014</dc:title>
+		<dc:language>en</dc:language>
+		<dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2017-07-27</dc:modified>
+		<dc:subject scheme="SIheading">COUNCIL TAX, ENGLAND</dc:subject>
+		<dc:description>Section 13A of the Local Government Finance Act 1992 (“the 1992 Act”) requires each billing authority in England to make a scheme specifying the reductions which are to apply to amounts of council tax payable by persons, or classes of person, whom the authority considers are in financial need. The Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012 (“the 2012 Regulations”) prescribe matters which must be included in such a scheme in addition to matters set out in paragraph 2 of Schedule 1A to the 1992 Act.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2014/448/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2014/448/memorandum" title="Explanatory Memorandum"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2014/448/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2014/448/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2014/448/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2014/448/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2014/448/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2014/448/body/made" title="body"/>
+
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made/data.html" title="HTML5 snippet"/>
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2014/448/contents/made" title="Table of Contents"/>
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="2014"/>
+			<ukm:Number Value="448"/>
+			<ukm:Made Date="2014-02-27"/>
+			<ukm:Laid Date="2014-03-05" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="2014-03-28"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="9780111110584"/>
+		</ukm:SecondaryMetadata>
+
+		<ukm:Notes>
+			<ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2014/448/notes"/>
+			<ukm:Alternatives>
+				<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2014/448/pdfs/uksiem_20140448_en.pdf" Date="2014-03-05" Title="UK Explanatory Memorandum" Size="26948"/>
+			</ukm:Alternatives>
+		</ukm:Notes>
+		<ukm:Alternatives>
+			<ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2014/448/pdfs/uksi_20140448_en.pdf" Date="2014-03-05" Size="34043"/>
+		</ukm:Alternatives>
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="2"/>
+			<ukm:BodyParagraphs Value="2"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Contents>
+		<ContentsTitle>The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2014</ContentsTitle>
+		<ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/uksi/2014/448/regulation/1" DocumentURI="http://www.legislation.gov.uk/uksi/2014/448/regulation/1/made" RestrictExtent="E+W+S+N.I.">
+			<ContentsNumber>1</ContentsNumber>
+			<ContentsTitle>Citation, commencement and application</ContentsTitle>
+		</ContentsItem>
+		<ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/uksi/2014/448/regulation/2" DocumentURI="http://www.legislation.gov.uk/uksi/2014/448/regulation/2/made" RestrictExtent="E+W+S+N.I.">
+			<ContentsNumber>2</ContentsNumber>
+			<ContentsTitle>Amendments to the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012</ContentsTitle>
+		</ContentsItem>
+	</Contents>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/2014/448/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/2014/448/introduction">
+			<Correction>
+				<Para>
+					<Text>This Statutory Instrument has been made in consequence of defects in <Citation URI="http://www.legislation.gov.uk/id/uksi/2013/3181" id="c00001" Class="UnitedKingdomStatutoryInstrument" Year="2013" Number="3181">S.I. 2013/3181</Citation> and is being issued free of charge to all known recipients of that Statutory Instrument.</Text>
+				</Para>
+			</Correction>
+			<Number>2014 No. 448</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>Council Tax, England</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2014</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>27th February 2014</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>5th March 2014</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>28th March 2014</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>The Secretary of State makes the following Regulations in exercise of the powers conferred by section 113(1) of, and paragraph 2 of Schedule 1A to, the Local Government Finance Act 1992<FootnoteRef Ref="f00001"/>:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1992/14" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1992" Number="0014">1992 c.14</Citation>. Section 113(1) was amended by paragraphs 2 and 9(a) of Schedule 1 to the Local Government Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1999/27" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1999" Number="0027">1999 (c.27)</Citation>; paragraphs 40 and 52 of Schedule 7 to the Local Government Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/26" id="c00005" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="0026">2003 (c.26)</Citation> and section 80 of the Localism Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2011/20" id="c00006" Class="UnitedKingdomPublicGeneralAct" Year="2011" Number="0020">2011 (c.20)</Citation>; Schedule 1A was inserted by Schedule 4 to the Local Government Finance Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/2012/17" id="c00007" Class="UnitedKingdomPublicGeneralAct" Year="2012" Number="0017">2012 (c.17)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema"  xmlns:h="http://www.w3.org/1999/xhtml" 
-	elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="SchemaTabular">
-	
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.0" id="SchemaTabular">
+
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Table Schema</dc:title>
@@ -28,18 +26,14 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-	
+
 	<xsd:import namespace="http://www.w3.org/1999/xhtml" schemaLocation="schemaTable-XHTML.xsd"/>
 
 	<xsd:element name="Tabular">
 		<xsd:annotation>
-			<xsd:documentation>
-				<h:p>This is the top level wrapper for a table</h:p>
-				<h:p>The table itself is held in the XHTML namespace table element.</h:p>
-				<h:p>The schema uses a modified form of the XHTML table model.</h:p>
-				<h:p>The modified version tightens the model slightly. For instance, a tbody element is obligatory. In some areas unnecessary mark-up is omitted, e.g. cellspacing and cellpadding attributes. In addition the style attribute has been replaced with attributes from XSL:FO (XSL Formatting Objects, http://www.w3.org/TR/xsl),  hereafter referred to as ‘FO’. The reason for this is to ease the task of processing documents and also to enable easier authoring. If authors where expected to use the style attribute it would entail learning Cascading Style Sheets (CSS) – an extra burden.</h:p>
-				<h:p>Each individual table can have a caption. To do this the caption element is used within each table needing a caption. It is therefore expected that in general the table title will be described using the Title element rather than the caption element and that the caption element should be reserved for when multiple tables occur in a Tabular element.</h:p>
-			</xsd:documentation>
+			<xsd:documentation>				<h:p>Contains one or more tables. This element is a wrapper for the table (or tables) and any associated content. The <h:code>&lt;table></h:code> element from the XHTML namespace describes the table itself, and appears as a child once for each table in the <h:code>&lt;Tabular></h:code> element.</h:p>
+        <h:p>The schema uses a modified form of the XHTML table model. The modified version tightens the model slightly and extends it to support legislation content. For instance, a tbody element is obligatory. In some areas unnecessary mark-up is omitted, e.g. cellspacing and cellpadding attributes. In addition the style attribute has been replaced with attributes from XSL:FO (XSL Formatting Objects, which use the <h:code>http://www.w3.org/TR/xsl</h:code> namespace), hereafter referred to as “FO”. The reason for this is to ease the task of processing documents and also to enable easier authoring by not requiring authors or processing applications to understand CSS.</h:p>
+        <h:p>A table may be given a title using either the <h:code>&lt;Title></h:code> child of the <h:code>&lt;Tabular></h:code> element. Alternatively, each individual table can be given a caption using an XHTML <h:code>&lt;caption></h:code> element within the <h:code>&lt;table></h:code> element. In general the table title should be described using the <h:code>&lt;Title></h:code> element rather than the <h:code>&lt;caption></h:code> element—the caption element should be reserved for when multiple tables occur in a <h:code>&lt;Tabular></h:code> element.</h:p></xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
@@ -79,7 +73,10 @@
 						</xsd:attribute>
 					</xsd:complexType>
 				</xsd:element>
-				<xsd:element ref="xhtml:table" maxOccurs="unbounded"/>
+				<xsd:choice>
+					<xsd:element ref="Subtable" maxOccurs="unbounded"/>
+					<xsd:element ref="xhtml:table" maxOccurs="unbounded"/>
+				</xsd:choice>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
 			<xsd:attributeGroup ref="TabularAttributes"/>
@@ -109,5 +106,63 @@
 			</xsd:attribute>
 		</xsd:complexType>
 	</xsd:element>
-	
+
+	<xsd:element name="Subtable">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>This is the top level wrapper for an external subtable</h:p>
+				<h:p>These are used when large tables are split into subcomponents which are stored externally.</h:p>
+				<h:p>The subcomponents employ the schema modified form of the XHTML table model.</h:p>
+				<h:p>The Subtable element provides the wrapper to the subcomponent referrences and details </h:p>
+				<h:p>Each individual table can have a caption. To do this the caption element is used within each table needing a caption. It is therefore expected that in general the table title will be described using the Title element rather than the caption element and that the caption element should be reserved for when multiple tables occur in a Tabular element.</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="Number" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Describes the number applying to the table(s) grouped by tabular (e.g. Table 1, Table 2, etc)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="Title" minOccurs="0">
+					<xsd:annotation>
+						<xsd:documentation>Describes the title of the table(s) grouped by tabular (e.g. Table of Derivations)</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="Subtitle" minOccurs="0" maxOccurs="unbounded">
+					<xsd:annotation>
+						<xsd:documentation>Describes the subtitle of the table(s) grouped by tabular</xsd:documentation>
+					</xsd:annotation>
+				</xsd:element>
+				<xsd:element ref="IncludedDocument" maxOccurs="unbounded"/>
+			</xsd:sequence>
+			<xsd:attributeGroup ref="CommonSubAttributes"/>
+			<xsd:attributeGroup ref="TabularAttributes"/>
+			<xsd:attributeGroup ref="FragmentAttributes"/>
+			<xsd:attribute name="id">
+				<xsd:annotation>
+					<xsd:documentation>A unique identifier in the format t00000</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:ID">
+						<xsd:pattern value="t[0-9]{5}"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+			<xsd:attribute name="Orientation" use="required">
+				<xsd:annotation>
+					<xsd:documentation>
+						<h:p>Defines the orientation of the table, including any titles and text</h:p>
+					</xsd:documentation>
+				</xsd:annotation>
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:string">
+						<xsd:enumeration value="portrait"/>
+						<xsd:enumeration value="landscape"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:attribute>
+		</xsd:complexType>
+	</xsd:element>
+
 </xsd:schema>

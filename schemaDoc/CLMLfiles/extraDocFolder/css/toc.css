@@ -1,0 +1,55 @@
+ul.toc-1,
+ul.toc-2,
+ul.toc-3,
+ul.toc-4,
+ul.toc-5 {
+  list-style: none;
+  padding-inline-start: 0
+}
+ul.toc-1 li,
+ul.toc-2 li,
+ul.toc-3 li,
+ul.toc-4 li,
+ul.toc-5 li {
+  display: block
+}
+
+ul.toc-1 li {
+  margin-block-start: 1.2em;
+  margin-block-end: 1.2em
+}
+ul.toc-1 li a {
+  font-size: 120%
+}
+ul.toc-2 li {
+  text-indent: 2.2em;
+  margin-block-start: 1.1em;
+  margin-block-end: 1.1em
+}
+ul.toc-2 li a {
+  font-size: 110%
+}
+ul.toc-3 li {
+  text-indent: 4em;
+  margin-block-start: 1em;
+  margin-block-end: 1em
+}
+ul.toc-3 li a {
+  font-size: 100%;
+}
+ul.toc-4 li {
+  text-indent: 5.4em;
+  margin-block-start: 0.9em;
+  margin-block-end: 0.9em
+}
+ul.toc-4 li a {
+  font-size: 95%;
+}
+ul.toc-5 li {
+  text-indent: 6.4em;
+  margin-block-start: 0.8em;
+  margin-block-end: 0.8em
+}
+ul.toc-5 li a {
+  font-size: 90%;
+}

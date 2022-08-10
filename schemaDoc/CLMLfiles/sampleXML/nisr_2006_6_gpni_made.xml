@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Legislation xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" xml:base="http://www.legislation.gov.uk/id/nisr/2006/6" xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ukm:Metadata xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/">
+    <dc:identifier>http://www.legislation.gov.uk/id/nisr/2006/6</dc:identifier>
+    <dc:subject>Local government</dc:subject>
+    <dc:subject>Civil partnership</dc:subject>
+    <dc:subject>Occupational pensions</dc:subject>
+    <dc:subject>Local government committees</dc:subject>
+    <dc:subject>Pensions</dc:subject>
+    <dc:title>Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006</dc:title>
+    <dc:identifier>urn:isbn:0337963177</dc:identifier>
+    <dc:publisher>Government Printer for Northern Ireland</dc:publisher>
+    <dc:modified>2018-02-20</dc:modified>
+    <dct:valid>2006-02-10</dct:valid>
+    <dc:subject scheme="SIheading">LOCAL GOVERNMENT</dc:subject>
+    <ukm:SecondaryMetadata>
+      <ukm:DocumentClassification>
+        <ukm:DocumentCategory Value="secondary"/>
+        <ukm:DocumentMainType Value="NorthernIrelandStatutoryRule"/>
+        <ukm:DocumentStatus Value="final"/>
+        <ukm:DocumentMinorType Value="regulation"/>
+      </ukm:DocumentClassification>
+      <ukm:Year Value="2006"/>
+      <ukm:Number Value="6"/>
+      <ukm:ISBN Value="0337963177"/>
+      <ukm:Made Date="2006-01-13"/>
+      <ukm:ComingIntoForce>
+        <ukm:DateTime Date="2006-02-10"/>
+      </ukm:ComingIntoForce>
+    </ukm:SecondaryMetadata>
+  </ukm:Metadata>
+  <Contents xmlns:local="#local">
+    <ContentsTitle>Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006</ContentsTitle>
+    <ContentsItem ContentRef="regulation-1" IdURI="http://www.legislation.gov.uk/id/nisr/2006/6/regulation/1">
+      <ContentsNumber>1</ContentsNumber>
+      <ContentsTitle>Citation, commencement and retrospection</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-2" IdURI="http://www.legislation.gov.uk/id/nisr/2006/6/regulation/2">
+      <ContentsNumber>2</ContentsNumber>
+      <ContentsTitle>The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-3" IdURI="http://www.legislation.gov.uk/id/nisr/2006/6/regulation/3">
+      <ContentsNumber>3</ContentsNumber>
+      <ContentsTitle>Local Government Pension Scheme Regulations (Northern Ireland) 2002</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-4" IdURI="http://www.legislation.gov.uk/id/nisr/2006/6/regulation/4">
+      <ContentsNumber>4</ContentsNumber>
+      <ContentsTitle>Local Government Pension Scheme (Amendment <Abbreviation Expansion="Number">No.</Abbreviation> 2 and Transitional Provisions) Regulations (Northern Ireland) 2002</ContentsTitle>
+    </ContentsItem>
+    <ContentsItem ContentRef="regulation-5" IdURI="http://www.legislation.gov.uk/id/nisr/2006/6/regulation/5">
+      <ContentsNumber>5</ContentsNumber>
+      <ContentsTitle>The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003</ContentsTitle>
+    </ContentsItem>
+  </Contents>
+  <Secondary>
+    <SecondaryPrelims>
+      <Number>2006 No. 6</Number>
+      <SubjectInformation>
+        <Subject>
+          <Title>LOCAL GOVERNMENT</Title>
+        </Subject>
+      </SubjectInformation>
+      <Title>Local Government Pension Scheme (Civil Partnership) (Amendment) Regulations (Northern Ireland) 2006</Title>
+      <MadeDate>
+        <Text>Made</Text>
+        <DateText>13th January 2006</DateText>
+      </MadeDate>
+      <ComingIntoForce>
+        <Text>Coming into operation</Text>
+        <DateText>10th February 2006</DateText>
+      </ComingIntoForce>
+      <SecondaryPreamble>
+        <IntroductoryText>
+          <P>
+            <Text>The Department of the Environment makes the following Regulations in exercise of the powers conferred by Article 9 and 14 of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972<FootnoteRef Ref="f00001"/> and now vested in it<FootnoteRef Ref="f00002"/>.</Text>
+          </P>
+        </IntroductoryText>
+        <EnactingText>
+          <Para>
+            <Text>In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers' Superannuation Committee and representatives of those whom the Department considers to be likely to be affected by the Regulations:</Text>
+          </Para>
+        </EnactingText>
+      </SecondaryPreamble>
+    </SecondaryPrelims>
+    <Body NumberFormat="default">
+      <P1group>
+        <Title>Citation, commencement and retrospection</Title>
+        <P1 id="regulation-1">
+          <Pnumber>1</Pnumber>
+          <P1para>
+            <P2 id="regulation-1-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>These Regulations may be cited as the Local Government Pension Scheme (Civil Partnerships) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation in accordance with paragraphs (2) and (3).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-1-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>These Regulations shall come into operation on 10th February 2006 and subject to paragraph (3) shall have effect as from 5th December 2005.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-1-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>Regulation 3 shall have effect as from 1st February 2003.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001</Title>
+        <P1 id="regulation-2">
+          <Pnumber>2</Pnumber>
+          <P1para>
+            <P2 id="regulation-2-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001<FootnoteRef Ref="f00003"/> shall be amended in accordance with paragraph (2).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-2-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In regulation 36 (death benefits) for paragraph (1)(b)(i) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P4>
+                    <Pnumber>i</Pnumber>
+                    <P4para>
+                      <Text>if the deceased leaves a surviving spouse or spouses, or a surviving civil partner, the surviving spouse or all of them, or the surviving civil partner, as the case may be, shall be entitled to an annual allowance or lump sum; and</Text>
+                    </P4para>
+                  </P4>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Local Government Pension Scheme Regulations (Northern Ireland) 2002</Title>
+        <P1 id="regulation-3">
+          <Pnumber>3</Pnumber>
+          <P1para>
+            <P2 id="regulation-3-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Local Government Pension Scheme Regulations (Northern Ireland) 2002<FootnoteRef Ref="f00004"/> shall be amended in accordance with paragraphs (2) to (21).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>In regulation 18(2)(b) (general qualification for benefits) after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>In regulation 22(4) (final pay) after the words “surviving spouse's” there shall be inserted “, civil partner's”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>In regulation 36(1) (surrenders of pension) after the word “spouse” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>For regulation 42(1) to (3) (surviving spouse’s short-term pension) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <Chapter>
+                    <Title>Surviving spouses' or civil partner’s pensions</Title>
+                    <P1group>
+                      <Title>Surviving spouse’s or civil partner’s short term pension</Title>
+                      <P1>
+                        <Pnumber>42</Pnumber>
+                        <P1para>
+                          <P2>
+                            <Pnumber>1</Pnumber>
+                            <P2para>
+                              <Text>If an active or pensioner member dies leaving a surviving spouse or civil partner, the spouse or civil partner is entitled to a short-term pension.</Text>
+                            </P2para>
+                          </P2>
+                          <P2>
+                            <Pnumber>2</Pnumber>
+                            <P2para>
+                              <Text>It is payable for three months after the member’s death.</Text>
+                            </P2para>
+                          </P2>
+                          <P2>
+                            <Pnumber>3</Pnumber>
+                            <P2para>
+                              <Text>But if there are eligible children in the spouse’s or civil partner’s care, it is payable for a further three months.</Text>
+                            </P2para>
+                          </P2>
+                        </P1para>
+                      </P1>
+                    </P1group>
+                  </Chapter>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>For regulation 43(1) (surviving spouse’s long-term pension) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Surviving spouse’s or civil partner’s long-term pension</Title>
+                    <P1>
+                      <Pnumber>43</Pnumber>
+                      <P1para>
+                        <P2>
+                          <Pnumber>1</Pnumber>
+                          <P2para>
+                            <Text>If a member dies leaving a surviving spouse or civil partner, the spouse or civil partner is entitled to a spouse’s or civil partner’s long-term pension.</Text>
+                          </P2para>
+                        </P2>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>After regulation 44 (reduction of some surviving spouses' pensions) there shall be inserted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Calculation of pension for surviving civil partner</Title>
+                    <P1>
+                      <Pnumber>44A</Pnumber>
+                      <P1para>
+                        <Text>For the purpose of calculating the pension to which a surviving civil partner is entitled under regulation 42 or 43 (surviving spouse’s or civil partner’s short-term or long-term pension) account shall only be taken of the deceased member’s membership after 5th April 1988. This shall include relevant additional membership (as defined in regulation 44(4)).</Text>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-8">
+              <Pnumber>8</Pnumber>
+              <P2para>
+                <Text>For regulation 45(1) (surviving spouse’s guaranteed minimum pension) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Surviving spouse’s or civil partner’s guaranteed minimum pension</Title>
+                    <P1>
+                      <Pnumber>45</Pnumber>
+                      <P1para>
+                        <P2>
+                          <Pnumber>1</Pnumber>
+                          <P2para>
+                            <Text>If the guaranteed minimum pension rule applies, the pension to which a person is entitled under regulation 42 or 43 must be not less than the surviving spouse’s or civil partner’s guaranteed minimum.</Text>
+                          </P2para>
+                        </P2>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-9">
+              <Pnumber>9</Pnumber>
+              <P2para>
+                <Text>In regulation 47 (children’s short-term pensions)—</Text>
+                <P3 id="regulation-3-9-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (2) and in both places where it occurs in paragraph (7) after the words “surviving spouse” there shall be inserted “or civil partner”;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-9-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (8) after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-10">
+              <Pnumber>10</Pnumber>
+              <P2para>
+                <Text>In regulation 48 (children’s long-term pensions)—</Text>
+                <P3 id="regulation-3-10-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (2) after the word “spouse's” there shall be inserted “or civil partner's”;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-10-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (10)(a)(i) and (b)(i) after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-11">
+              <Pnumber>11</Pnumber>
+              <P2para>
+                <Text>In regulation 51 (commutation: small pensions)—</Text>
+                <P3 id="regulation-3-11-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (2) after the words “surviving spouse” there shall be inserted “or civil partner”;</Text>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-11-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph (6) after the word “spouse” in both places where it occurs there shall be inserted “or civil partner”;</Text>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-12">
+              <Pnumber>12</Pnumber>
+              <P2para>
+                <Text>In regulation 89(2) (exclusion of rights to return of contributions) after the word “spouse” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-13">
+              <Pnumber>13</Pnumber>
+              <P2para>
+                <Text>In regulation 95(8) (interest on late payment of certain benefits) after the words “surviving spouse” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-14">
+              <Pnumber>14</Pnumber>
+              <P2para>
+                <Text>In regulation 102(2)(a) (right to apply for an appointed person to review a decision) after the words “or surviving” there shall be inserted “civil partner or”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-15">
+              <Pnumber>15</Pnumber>
+              <P2para>
+                <Text>In regulation 117(1) (protection of GMP rights) for the words “or widower's” there shall be substituted “, widower’s or surviving civil partner's”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-16">
+              <Pnumber>16</Pnumber>
+              <P2para>
+                <Text>In regulation 118(5)(b) (transfer of sums from the fund to compensate for former member’s misconduct) after the word “spouse” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-17">
+              <Pnumber>17</Pnumber>
+              <P2para>
+                <Text>In regulation 121(5)(a) (contracting-out requirements affecting transfers out) after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-18">
+              <Pnumber>18</Pnumber>
+              <P2para>
+                <Text>In regulation 127(2)(c) (rights as to service not matched by credited period) after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-19">
+              <Pnumber>19</Pnumber>
+              <P2para>
+                <Text>In regulation 128(1) (community scheme transferees) after the words “surviving spouses” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-20">
+              <Pnumber>20</Pnumber>
+              <P2para>
+                <Text>In Schedule 1 (interpretation) in the definition of “guaranteed minimum pension” for the words “widows and widowers” there shall be substituted “widows, widowers and surviving civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-3-21">
+              <Pnumber>21</Pnumber>
+              <P2para>
+                <Text>In Schedule 4 (revenue restrictions)—</Text>
+                <P3 id="regulation-3-21-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in paragraph 2 (class A members)—</Text>
+                    <P4 id="regulation-3-21-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>in sub-paragraph (12) after the words “surviving spouse” in both places where it occurs there shall be inserted “or civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-3-21-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>in sub-paragraph (13) after the words “surviving spouse” there shall be inserted “or civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-3-21-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in paragraph 4—</Text>
+                    <P4 id="regulation-3-21-b-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>in sub-paragraph (8) after the words “surviving spouse” in both places where it occurs there shall be inserted “or civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-3-21-b-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>in sub-paragraph (9) after the words “surviving spouse” there shall be inserted “or civil partner”.</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>Local Government Pension Scheme (Amendment <Abbreviation Expansion="Number">No.</Abbreviation> 2 and Transitional Provisions) Regulations (Northern Ireland) 2002</Title>
+        <P1 id="regulation-4">
+          <Pnumber>4</Pnumber>
+          <P1para>
+            <P2 id="regulation-4-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Local Government Pension Scheme (Amendment <Abbreviation Expansion="Number">No.</Abbreviation> 2 and Transitional Provisions) Regulations (Northern Ireland) 2002<FootnoteRef Ref="f00005"/> shall be amended in accordance with paragraphs (2) and (3).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>After regulation 4 (deferred members and pensioners: general) there shall be inserted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Deferred members and pensioners: civil partner</Title>
+                    <P1>
+                      <Pnumber>4A</Pnumber>
+                      <P1para>
+                        <P2>
+                          <Pnumber>1</Pnumber>
+                          <P2para>
+                            <Text>Where a person falling within regulation 4(2)(a) dies and leaves a surviving civil partner, the surviving civil partner is entitled to benefits the same as those that would, if the member had been married, have been payable to his surviving spouse, and any provisions which would have applied, if the member had been married, to his surviving spouse’s benefits shall apply to the benefits payable to his civil partner.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>2</Pnumber>
+                          <P2para>
+                            <Text>For the purpose of calculating the benefit to which a surviving civil partner is entitled under paragraph (1) account shall only be taken of the deceased member’s membership after 5th April 1988. This shall include periods of relevant additional membership which are treated as membership after 5th April 1988 as defined in regulation 44(4) of the <Abbreviation Expansion="Local Government Pension Scheme Regulations (Northern Ireland) 2002 (S.R. 2002/352)">2002 Regulations</Abbreviation>.</Text>
+                          </P2para>
+                        </P2>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-4-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>In regulation 18(1) (community scheme transferees) after the words “surviving spouses” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <P1group>
+        <Title>The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003</Title>
+        <P1 id="regulation-5">
+          <Pnumber>5</Pnumber>
+          <P1para>
+            <P2 id="regulation-5-1">
+              <Pnumber>1</Pnumber>
+              <P2para>
+                <Text>The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003<FootnoteRef Ref="f00006"/> shall be amended in accordance with paragraphs (2) to (7).</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-2">
+              <Pnumber>2</Pnumber>
+              <P2para>
+                <Text>For the heading to Part VIII there shall be substituted—</Text>
+                <BlockAmendment TargetClass="unknown" TargetSubClass="unknown" Context="unknown" Format="default" NumberFormat="default">
+                  <FragmentNumber Context="Part">
+                    <Number>PART VIII</Number>
+                  </FragmentNumber>
+                  <FragmentTitle Context="Part">
+                    <Title>SURRENDERS AND AWARDS TO SURVIVING SPOUSES, CIVIL PARTNER AND CHILDREN</Title>
+                  </FragmentTitle>
+                </BlockAmendment>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-3">
+              <Pnumber>3</Pnumber>
+              <P2para>
+                <Text>In regulation 19(4) after the word “spouse” there shall be inserted “, civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-4">
+              <Pnumber>4</Pnumber>
+              <P2para>
+                <Text>For regulation 20 (awards to surviving spouses) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Awards to surviving spouses or civil partner</Title>
+                    <P1>
+                      <Pnumber>20</Pnumber>
+                      <P1para>
+                        <P2>
+                          <Pnumber>1</Pnumber>
+                          <P2para>
+                            <Text>This regulation applies where, on the death of a person who has been awarded a credited period, there is a surviving spouse or civil partner—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>who is entitled to receive a pension under regulations 42 to 45 (surviving spouses' or civil partner’s pensions) of the Pension Regulations in respect of the deceased’s terminated employment; or</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>who would be so entitled apart from—</Text>
+                                <P4>
+                                  <Pnumber>i</Pnumber>
+                                  <P4para>
+                                    <Text>a relevant disqualification with respect to the deceased (and on the relevant assumptions); or</Text>
+                                  </P4para>
+                                </P4>
+                                <P4>
+                                  <Pnumber>ii</Pnumber>
+                                  <P4para>
+                                    <Text>the transfer of benefits to another pension scheme.</Text>
+                                  </P4para>
+                                </P4>
+                              </P3para>
+                            </P3>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>2</Pnumber>
+                          <P2para>
+                            <Text>This regulation also applies where the deceased is survived by more than one spouse if both, or all, of them are, or but for the matters mentioned in paragraph (1)(b) would be, jointly entitled to receive such a pension as is mentioned in paragraph (1)(a); and in such a case references in the following paragraphs (in whatever terms) to an entitlement of the surviving spouse are references to the joint entitlement of the surviving spouses.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>3</Pnumber>
+                          <P2para>
+                            <Text>Where this regulation applies, the surviving spouse or civil partner is entitled to receive—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>surviving spouse’s or civil partner’s short-term compensation—</Text>
+                                <P4>
+                                  <Pnumber>i</Pnumber>
+                                  <P4para>
+                                    <Text>for six months after the date of the death if the surviving spouse or civil partner cares for one or more eligible children of the deceased;</Text>
+                                  </P4para>
+                                </P4>
+                                <P4>
+                                  <Pnumber>ii</Pnumber>
+                                  <P4para>
+                                    <Text>otherwise, for three months after that date; and</Text>
+                                  </P4para>
+                                </P4>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>after that period, surviving spouse’s or civil partner’s long-term compensation,</Text>
+                              </P3para>
+                            </P3>
+                            <Text>but if the marriage or civil partnership took place after the termination date, the surviving spouse or civil partner is only entitled to receive compensation under this regulation if the surviving spouse or civil partner is (or would be apart from the matters mentioned in paragraph (1)(b)), entitled to a surviving spouse’s pension under the Pension Regulations.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>4</Pnumber>
+                          <P2para>
+                            <Text>Where there is joint entitlement under this regulation the employing authority may decide how it shall be apportioned.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>5</Pnumber>
+                          <P2para>
+                            <Text>Subject to paragraphs (6), (7), (8) and (9), the surviving spouse or civil partner of an eligible person who ceased employment before 1st February 2003 is not entitled to any compensation under this regulation during any subsequent marriage, civil partnership or period of cohabitation outside marriage or civil partnership, and is entitled to long-term compensation from the end of such marriage, civil partnership or period only if the employing authority so decides.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>6</Pnumber>
+                          <P2para>
+                            <Text>Where a widower and a widow marry each other or cohabit with each other outside marriage and both—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>are entitled to short-term or long-term compensation under this regulation; and</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>are the surviving spouses or civil partner of eligible persons who ceased employment before 1st February 2003,</Text>
+                              </P3para>
+                            </P3>
+                            <Text>only such one of them as they may choose shall be so entitled; and the other shall cease to be so entitled until the end of the marriage or civil partnership or cohabitation.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>7</Pnumber>
+                          <P2para>
+                            <Text>Where two surviving civil partners register a civil partnership or cohabit with each other outside civil partnership and both—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>are entitled to short-term or long-term compensation under this regulation; and</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>are the surviving civil partners of eligible persons who ceased employment before 1st February 2003,</Text>
+                              </P3para>
+                            </P3>
+                            <Text>only such one of them as they may chose shall be so entitled; and the other shall cease to be so entitled until the end of the civil partnership or cohabitation.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>8</Pnumber>
+                          <P2para>
+                            <Text>Where a surviving spouse and a surviving civil partner marry, register a civil partnership or cohabit with each other outside marriage or civil partnership and both—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>are entitled to short-term or long-term compensation under this regulation; and</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>are the surviving spouse or civil partner of eligible persons who ceased employment before 1st February 2003,</Text>
+                              </P3para>
+                            </P3>
+                            <Text>only such one of them as they may choose shall be so entitled; and the other shall cease to be so entitled until the end of the marriage, civil partnership or cohabitation.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>9</Pnumber>
+                          <P2para>
+                            <Text>The employing authority may determine by resolution in any case where the surviving spouse or civil partner had not, as at 1st February 2003, entered into a subsequent marriage, civil partnership or a period of cohabitation that paragraphs (5), (6), (7) and (8), as appropriate, shall not apply.</Text>
+                          </P2para>
+                        </P2>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-5">
+              <Pnumber>5</Pnumber>
+              <P2para>
+                <Text>For regulation 21 (amount of surviving spouse’s short-term and long-term compensation) there shall be substituted—</Text>
+                <BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+                  <P1group>
+                    <Title>Amount of surviving spouse’s or civil partner’s short-term and long-term compensation</Title>
+                    <P1>
+                      <Pnumber>21</Pnumber>
+                      <P1para>
+                        <P2>
+                          <Pnumber>1</Pnumber>
+                          <P2para>
+                            <Text>Surviving spouse’s or civil partner’s short-term compensation is payable at an annual rate equal to that at which annual compensation would have been payable to the deceased immediately before his death in accordance with these Regulations, ignoring—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>any adjustment in accordance with regulation 13 or 14; or</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>where the adjustment is under regulation 18 and is to take into account an entitlement to lump sum compensation, such an adjustment under that regulation.</Text>
+                              </P3para>
+                            </P3>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>2</Pnumber>
+                          <P2para>
+                            <Text>Surviving spouse’s or civil partner’s long-term compensation is the relevant fraction of the annual compensation which would have been payable to the deceased immediately before his death in accordance with these Regulations ignoring any adjustment—</Text>
+                            <P3>
+                              <Pnumber>a</Pnumber>
+                              <P3para>
+                                <Text>under regulation 12, 13, 14 or 19; and</Text>
+                              </P3para>
+                            </P3>
+                            <P3>
+                              <Pnumber>b</Pnumber>
+                              <P3para>
+                                <Text>if at the time of his death the deceased was in a new employment in which he was not a Scheme member, under regulation 16.</Text>
+                              </P3para>
+                            </P3>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>3</Pnumber>
+                          <P2para>
+                            <Text>Where at the time of his death the deceased was in a new employment in which he was a Scheme member, the employing authority must decide the extent to which any reduction made by it under regulation 18 to the annual compensation is to be taken into account.</Text>
+                          </P2para>
+                        </P2>
+                        <P2>
+                          <Pnumber>4</Pnumber>
+                          <P2para>
+                            <Text>The amount payable under regulation 20 for a period to a surviving spouse or civil partner who receives periodic payments is the amount which would have been paid to that surviving spouse or civil partner for that period, less the total of the periodic payments received for that period.</Text>
+                          </P2para>
+                        </P2>
+                      </P1para>
+                    </P1>
+                  </P1group>
+                </BlockAmendment>
+                <AppendText>.</AppendText>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-6">
+              <Pnumber>6</Pnumber>
+              <P2para>
+                <Text>In regulation 22(3) (short-term compensation for children) after the words “surviving spouse” there shall be inserted “or civil partner”.</Text>
+              </P2para>
+            </P2>
+            <P2 id="regulation-5-7">
+              <Pnumber>7</Pnumber>
+              <P2para>
+                <Text>In Schedule 1 (interpretation)—</Text>
+                <P3 id="regulation-5-7-a">
+                  <Pnumber>a</Pnumber>
+                  <P3para>
+                    <Text>in the definition of “periodic payment” in paragraph (a)—</Text>
+                    <P4 id="regulation-5-7-a-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>after the words “surviving spouse” there shall be inserted “, civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-5-7-a-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>after the word “spouse” there shall be inserted “, civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+                <P3 id="regulation-5-7-b">
+                  <Pnumber>b</Pnumber>
+                  <P3para>
+                    <Text>in the definition of “relevant fraction” in paragraph (b)—</Text>
+                    <P4 id="regulation-5-7-b-i">
+                      <Pnumber>i</Pnumber>
+                      <P4para>
+                        <Text>after the words “surviving spouse” in each place where it occurs there shall be inserted “or civil partner”;</Text>
+                      </P4para>
+                    </P4>
+                    <P4 id="regulation-5-7-b-ii">
+                      <Pnumber>ii</Pnumber>
+                      <P4para>
+                        <Text>after the words “surviving spouse's” there shall be inserted “or civil partner's”.</Text>
+                      </P4para>
+                    </P4>
+                  </P3para>
+                </P3>
+              </P2para>
+            </P2>
+          </P1para>
+        </P1>
+      </P1group>
+      <SignedSection>
+        <Signatory>
+          <Para>
+            <Text>Sealed with the Official Seal of the Department of the Environment on 13th January 2006</Text>
+          </Para>
+          <Signee>
+            <LSseal Date="2006-01-13"/>
+            <PersonName>J Ritchie</PersonName>
+            <JobTitle>A senior officer of the</JobTitle>
+            <Department>Department of the Environment</Department>
+          </Signee>
+        </Signatory>
+      </SignedSection>
+    </Body>
+    <ExplanatoryNotes>
+      <Comment>
+        <Para>
+          <Text>(This note is not part of the Regulations)</Text>
+        </Para>
+      </Comment>
+      <P>
+        <Text>The amendments in these Regulations provide survivor benefits for same sex partners of Local Government Pension Scheme members or eligible persons where the same sex partners have registered a civil partnership under the terms of the Civil Partnership Act 2004.</Text>
+      </P>
+      <P>
+        <Text>Article 14 of the Superannuation (Northern Ireland) Order 1972 confers express powers to make regulations retrospective in effect. These Regulations are retrospective, however, no one will be adversely affected by the retrospection.</Text>
+      </P>
+      <P>
+        <Text>The Regulations amend the following statutory rules—</Text>
+        <P2>
+          <Pnumber>1</Pnumber>
+          <P2para>
+            <Text>The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 are amended by regulation 2, which has retrospective effect from 5th December 2005 (“<Abbreviation Expansion="Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)">Discretionary Payments Regulations</Abbreviation>”);</Text>
+          </P2para>
+        </P2>
+        <P2>
+          <Pnumber>2</Pnumber>
+          <P2para>
+            <Text>Local Government Pension Scheme Regulations (Northern Ireland) 2002 are amended by regulation 3, which has retrospective effect from 1st February 2003 (“the <Abbreviation Expansion="Local Government Pension Scheme Regulations (Northern Ireland) 2002 (S.R. 2002/352)">2002 Regulations</Abbreviation>”);</Text>
+          </P2para>
+        </P2>
+        <P2>
+          <Pnumber>3</Pnumber>
+          <P2para>
+            <Text>Local Government Pension Scheme (Amendment <Abbreviation Expansion="Number">No.</Abbreviation> 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 are amended by regulation 4, which has retrospective effect from 5th December 2005 (“<Abbreviation Expansion="Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 (S.R. 2002/353)">Transitional Provisions Regulations</Abbreviation>”);</Text>
+          </P2para>
+        </P2>
+        <P2>
+          <Pnumber>4</Pnumber>
+          <P2para>
+            <Text>The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003 are amended by regulation 5, which has retrospective effect from 5th December 2005 (“the <Abbreviation Expansion="The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003 (S.R. 2003/61)">2003 Regulations</Abbreviation>”).</Text>
+          </P2para>
+        </P2>
+      </P>
+      <P>
+        <Text>The changes to the <Abbreviation Expansion="Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)">Discretionary Payments Regulations</Abbreviation> and the <Abbreviation Expansion="The Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003 (S.R. 2003/61)">2003 Regulations</Abbreviation> provide that surviving civil partners will qualify for survivor benefits in the same way as spouses where a person ceases employment after 5th April 1988 and subsequently dies.</Text>
+      </P>
+      <P>
+        <Text>The changes to the <Abbreviation Expansion="Local Government Pension Scheme Regulations (Northern Ireland) 2002 (S.R. 2002/352)">2002 Regulations</Abbreviation> and the <Abbreviation Expansion="Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 (S.R. 2002/353)">Transitional Provisions Regulations</Abbreviation> are as follows—</Text>
+        <UnorderedList Decoration="dash">
+          <ListItem>
+            <Para>
+              <Text>surviving civil partners of scheme members, including those who left the scheme between 6th April 1988 and 5th December 2005, will qualify for survivor benefits in the same circumstances as spouses;</Text>
+            </Para>
+          </ListItem>
+          <ListItem>
+            <Para>
+              <Text>where a surviving civil partner is eligible for benefits and a person’s “membership” is relevant to the eligibility for and level of those benefits, only such “membership” after 5th April 1988 is taken into account.</Text>
+            </Para>
+          </ListItem>
+        </UnorderedList>
+      </P>
+      <P>
+        <Text>In addition the changes to the <Abbreviation Expansion="Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002 (S.R. 2002/353)">Transitional Provisions Regulations</Abbreviation>, are necessary to apply the provisions to deferred or pensioner members who enter into a civil partnership having ceased employment before these Regulations come into force.</Text>
+      </P>
+      <P>
+        <Text>Some bodies within the business, charity and voluntary sectors are employers within the Local Government Pension Scheme. There will be costs in public service pension schemes from extending survivor benefits to include civil partners. A Regulatory Impact Assessment was published alongside the Civil Partnership Act 2004, which assesses the impact of the Act on the business, charity and voluntary sectors, and outlines the cost implications to public service pension schemes. Accordingly, a separate Regulatory Impact Assessment was not produced for these Regulations. The final Regulatory Impact Assessment for the Civil Partnership Act 2004 has been placed in the library of each House of Parliament and can be viewed at <ExternalLink Title="DTI website" URI="http://www.dti.gov.uk/access/ria/index.htm#equality" id="i00000">http://www.dti.gov.uk/access/ria/index.htm#equality</ExternalLink>.</Text>
+      </P>
+    </ExplanatoryNotes>
+  </Secondary>
+  <Footnotes>
+    <Footnote id="f00001">
+      <FootnoteText>
+        <Para>
+          <Text>
+            <Citation URI="http://www.legislation.gov.uk/id/nisi/1972/1073" id="c00001" Class="NorthernIrelandOrderInCouncil" AlternativeNumber="N.I. 10" Year="1972" Number="1073">S.I. 1972/1073 (N.I. 10)</Citation>
+          </Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00002">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/nisr/1973/504" id="c00002" Class="NorthernIrelandStatutoryRule" Year="1973" Number="0504">S.R. &amp; O (N.I.) 1973 No 504</Citation> Article 7 (1); <Citation URI="http://www.legislation.gov.uk/id/nisi/1976/424" id="c00003" Class="NorthernIrelandOrderInCouncil" AlternativeNumber="N.I. 6" Year="1976" Number="0424">S.I. 1976/424 (N.I. 6)</Citation></Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00003">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/nisr/2001/279" id="c00004" Class="NorthernIrelandStatutoryRule" Year="2001" Number="0279">S.R. 2001 No. 279</Citation> to which there are amendments not relevant to these Regulations</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00004">
+      <FootnoteText>
+        <Para>
+          <Text><Citation URI="http://www.legislation.gov.uk/id/nisr/2002/352" id="c00005" Class="NorthernIrelandStatutoryRule" Year="2002" Number="0352">S.R. 2002 No. 352</Citation> to which there are amendments not relevant to these Regulations</Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00005">
+      <FootnoteText>
+        <Para>
+          <Text>
+            <Citation URI="http://www.legislation.gov.uk/id/nisr/2002/353" id="c00006" Class="NorthernIrelandStatutoryRule" Year="2002" Number="0353">S.R. 2002 No. 353</Citation>
+          </Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+    <Footnote id="f00006">
+      <FootnoteText>
+        <Para>
+          <Text>
+            <Citation URI="http://www.legislation.gov.uk/id/nisr/2003/61" id="c00007" Class="NorthernIrelandStatutoryRule" Year="2003" Number="0061">S.R. 2003 No. 61</Citation>
+          </Text>
+        </Para>
+      </FootnoteText>
+    </Footnote>
+  </Footnotes>
+</Legislation>

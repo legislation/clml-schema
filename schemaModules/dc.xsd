@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://purl.org/dc/elements/1.1/" targetNamespace="http://purl.org/dc/elements/1.1/" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:h="http://www.w3.org/1999/xhtml" xmlns="http://purl.org/dc/elements/1.1/" targetNamespace="http://purl.org/dc/elements/1.1/" elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xs:annotation>
 		<xs:documentation xml:lang="en">
       DCMES 1.1 XML Schema
@@ -34,17 +34,7 @@
 	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="namespace.xsd"/>
 	<xs:complexType name="SimpleLiteral" mixed="true">
 		<xs:annotation>
-			<xs:documentation xml:lang="en">
-            This is the default type for all of the DC elements.
-            It permits text content only with optional
-            xml:lang attribute.
-            Text is allowed because mixed="true", but sub-elements
-            are disallowed because minOccurs="0" and maxOccurs="0" 
-            are on the xs:any tag.
-
-    	    This complexType allows for restriction or extension permitting
-            child elements.
-    	</xs:documentation>
+			<xs:documentation xml:lang="en">This is the default type for all of the DC elements. It permits text content only with optional xml:lang attribute. Text is allowed because mixed="true", but sub-elements are disallowed because minOccurs="0" and maxOccurs="0" are on the xs:any tag. This complexType allows for restriction or extension permitting child elements.</xs:documentation>
 		</xs:annotation>
 		<xs:complexContent mixed="true">
 			<xs:restriction base="xs:anyType">
@@ -62,8 +52,7 @@
 	</xs:element>
 	<xs:element name="title" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>A name given to the resource. For primary legislation this describes the short title of the document. For secondary legislation there is only one meaningful title.
-Any formatting contained in the title must be stripped as must any other elements.</xs:documentation>
+			<xs:documentation>A name given to the resource. For primary legislation this describes the short title of the document. For EU legislation this describes the full title of the document. For secondary legislation there is only one meaningful title. Any formatting contained in the title must be stripped as must any other elements.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="creator" substitutionGroup="any">
@@ -73,58 +62,63 @@ Any formatting contained in the title must be stripped as must any other element
 	</xs:element>
 	<xs:element name="subject" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>The topic of the resource. For primary legislation there is no obvious data in the document that can form the basis of a subject. It is thus suggested that primary legislation uses the term ‘UK Legislation’ as the subject as a default. For secondary legislation this field should relate directly to the subject/title elements. If there is more than one subject title then multiple dc:subject elements should be used.</xs:documentation>
+			<xs:documentation>The topic of the resource. For primary legislation there is no obvious data in the document that can form the basis of a subject. For secondary legislation this field should relate directly to the subject/title elements. If there is more than one subject title then multiple dc:subject elements should be used.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="description" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>An account of the resource. This should be general description of the document. Avoid restating text that appears in other elements.</xs:documentation>
+			<xs:documentation>A general description of the resource. For primary legislation this describes the long title of the document. For EU legislation this describes the full title of the document. For secondary legislation this describes all or part of the Explanatory Notes for the document.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="publisher" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>An entity responsible for making the resource available.</xs:documentation>
+			<xs:documentation>An entity responsible for making the resource available. Currently, the values used are “Queen's Printer of Acts of Parliament”, “Queen's Printer for Scotland”, “Government Printer for Northern Ireland” and “King's Printer of Acts of Parliament” (for original legislation published by the Queen’s/King’s Printer), “Statute Law Database” (for revised versions contributed by the Statute Law Database), “Westlaw” (for made secondary legislation contributed by Westlaw) and “Better Regulation Executive” (for Impact Assessments, no longer used).</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="contributor" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>This element should, where applicable, contain the individuals, departments, or organisations that had a significant role in creating the document but do not qualify as creators. Acronyms should be avoided. Use the full official title. Individuals should be depersonalised to job titles where appropriate. Care should be taken not to confuse contributor with creator.</xs:documentation>
+			<!--<xs:documentation>This element should, where applicable, contain the individuals, departments, or organisations that had a significant role in creating the document but do not qualify as creators. Acronyms should be avoided. Use the full official title. Individuals should be depersonalised to job titles where appropriate. Care should be taken not to confuse contributor with creator.</xs:documentation>-->
+			<xs:documentation>The entity that contributed a revised version of the document. Currently, the only value used is “Expert Participation” (for revised versions edited using our new editorial system).</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="date" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>A date associated with an event in the life cycle of the resource.</xs:documentation>
+			<xs:documentation>A date associated with an event in the life cycle of the resource. Not currently used.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="type" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>The nature of genre of the content of the resource. For legislation documents the default should be ‘UK legislation’.</xs:documentation>
+			<xs:documentation>The nature of genre of the content of the resource. Not currently used.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="format" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>The physical or digital manifestation of the resource. In this instance where the schema is being used the forma is text/xml. This is taken from the standard MIME list.</xs:documentation>
+			<xs:documentation>The type of the (physical or digital) manifestation of the resource. For documents using the CLML schema, the format is text/xml. This is taken from the standard MIME list.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="identifier" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>An unambiguous reference to the resource within a given context. The preferred format for an identifier is the URN namespace. The primary identifier is expected to be an ISBN. This should be entered in the URN format (as ISBN is a registered URN currently): urn:isbn:xxxxxxxxxx where xxxxxxxxx is the ISBN number.</xs:documentation>
+			<xs:documentation>An unambiguous reference to the resource within a given context. Legislation.gov.uk automatically generates this value (which refers to the current view of the document) when a user requests a document. Older documents may use this to store the ISBN, but that should now be stored in a <h:code>&lt;ukm:ISBN&gt;</h:code> element instead.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
-	<xs:element name="source" substitutionGroup="any"/>
+	<xs:element name="source" substitutionGroup="any">
+		<xs:annotation>
+			<xs:documentation>The source of the resource. The Editorial system uses this element to indicate the URI to which the editor should check in an edited fragment. Not used in published legislation.</xs:documentation>
+		</xs:annotation>
+	</xs:element>
 	<xs:element name="language" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>A language of the resource. The format for the language should be ISO 639. It is acceptable to use the two letter language codes but it is recommended that the three letter language codes (ISO 639-2) should be used where possible.</xs:documentation>
+			<xs:documentation>A language of the resource. The format for the language should be ISO 639. Documents normally use the two letter language codes but documents may also use three letter language codes (ISO 639-2), normally to represent languages other than modern English or Welsh.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="relation" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>At present the use of this element within the schema is undefined. It is, however, expected that qualified versions of this element will be used in future versions of the schema.</xs:documentation>
+			<xs:documentation>Not currently used.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="coverage" substitutionGroup="any">
 		<xs:annotation>
-			<xs:documentation>Defines the extent of scope of the content of the document. This element should reflect the general territorial extent of the document, e.g. UK, England, England and Wales etc.</xs:documentation>
+			<xs:documentation>Defines the extent of scope of the content of the document. This element should reflect the general territorial extent of the document, e.g. UK, England, England and Wales etc. Not currently used.</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 	<xs:element name="rights" substitutionGroup="any">
@@ -139,11 +133,7 @@ Any formatting contained in the title must be stripped as must any other element
 	</xs:element>
 	<xs:group name="elementsGroup">
 		<xs:annotation>
-			<xs:documentation xml:lang="en">
-    	    This group is included as a convenience for schema authors
-            who need to refer to all the elements in the 
-            http://purl.org/dc/elements/1.1/ namespace.
-    	</xs:documentation>
+			<xs:documentation xml:lang="en">This group is included as a convenience for schema authors who need to refer to all the elements in the http://purl.org/dc/elements/1.1/ namespace.</xs:documentation>
 		</xs:annotation>
 		<xs:sequence>
 			<xs:choice minOccurs="0" maxOccurs="unbounded">
@@ -153,10 +143,7 @@ Any formatting contained in the title must be stripped as must any other element
 	</xs:group>
 	<xs:complexType name="elementContainer">
 		<xs:annotation>
-			<xs:documentation xml:lang="en">
-    		This complexType is included as a convenience for schema authors who need to define a root
-    		or container element for all of the DC elements.
-    	</xs:documentation>
+			<xs:documentation xml:lang="en">This complexType is included as a convenience for schema authors who need to define a root vor container element for all of the DC elements.</xs:documentation>
 		</xs:annotation>
 		<xs:choice>
 			<xs:group ref="elementsGroup"/>

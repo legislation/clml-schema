@@ -1,0 +1,809 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67" NumberOfProvisions="303" RestrictEndDate="2007-10-17" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictStartDate="2007-09-01" RestrictExtent="E+W+S+N.I.">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01</dc:identifier>
+		<dc:title>Transport Act 1985</dc:title>
+		<dc:description>An Act to amend the law relating to road passenger transport; to make provision for the transfer of the operations of the National Bus Company to the private sector; to provide for the reorganisation of passenger transport in the public sector; to provide for local and central government financial support for certain passenger transport services and travel concessions; to make further provision with respect to the powers of London Regional Transport; to make new provision with respect to the constitution, powers and proceedings of the Transport Tribunal; to make provision with respect to grants payable under section 92 of the Finance Act 1965; to establish a Disabled Persons Transport Advisory Committee; and for connected purposes.</dc:description>
+		<dc:date>1985-10-30</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2021-09-24</dc:modified>
+		<dct:valid>2007-09-01</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1985/67/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1985/67/2007-09-01" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1985/67/introduction/2007-09-01" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1985/67/body/2007-09-01" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1985/67/schedules/2007-09-01" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2007-09-01/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1985/67/contents/2007-09-01" title="Table of Contents"/>
+		<atom:link rel="http://purl.org/dc/terms/hasPart" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/england+wales/2007-09-01" title="E+W"/>
+		<atom:link rel="http://purl.org/dc/terms/hasPart" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/scotland/2007-09-01" title="S"/>
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2005-07-24" title="2005-07-24"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2008-11-26" title="2008-11-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1991-02-01" title="1991-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1994-07-14" title="1994-07-14"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2001-02-01" title="2001-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2001-04-01" title="2001-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2001-07-01" title="2001-07-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2005-07-24" title="2005-07-24"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2008-11-26" title="2008-11-26"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2009-02-09" title="2009-02-09"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2009-03-06" title="2009-03-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2009-04-06" title="2009-04-06"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2009-06-09" title="2009-06-09"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2009-09-01" title="2009-09-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2010-01-11" title="2010-01-11"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2010-05-05" title="2010-05-05"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2013-07-03" title="2013-07-03"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2014-01-09" title="2014-01-09"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2017-04-27" title="2017-04-27"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2017-06-27" title="2017-06-27"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2018-01-04" title="2018-01-04"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2018-04-01" title="2018-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2018-04-24" title="2018-04-24"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1985/67/section/6" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1985/67/2007-09-01" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1985/67/section/5/2007-09-01" title="Provision; Section 5"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1985/67/section/5/2007-09-01" title="Provision; Section 5"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1985/67/section/7/2007-09-01" title="Provision; Section 7"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1985/67/section/7/2007-09-01" title="Provision; Section 7"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1985"/>
+			<ukm:Number Value="67"/>
+			<ukm:EnactmentDate Date="1985-10-30"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-09d03ec138214dd1cb8827c12c4470d5" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-09d03ec138214dd1cb8827c12c4470d5" Row="11" Type="" RequiresApplied="true" AffectedProvisions="s. 6-9" AffectedExtent="E+W" AffectedEffectsExtent="E+W+S" AffectingYear="2000" AffectingNumber="38" AffectingProvisions="s. 129(1)(a) 134(2)(a)" AffectedYear="1985" AffectedNumber="67" Modified="2021-04-13T08:36:22Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:SectionRange Start="section-6" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6" End="section-9" UpTo="http://www.legislation.gov.uk/id/ukpga/1985/67/section/9"><ukm:Section Ref="section-6" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6">s. 6</ukm:Section>-<ukm:Section Ref="section-9" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/9">9</ukm:Section></ukm:SectionRange></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport Act 2000</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-129-1-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/129/1/a">s. 129(1)(a)</ukm:Section>
+						<ukm:Section Ref="section-134-2-a" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/134/2/a">134(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-1081fd136f9788fb3209eef807c8f366" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/ukpga/2000/38" AffectingClass="UnitedKingdomPublicGeneralAct" URI="http://www.legislation.gov.uk/id/effect/key-1081fd136f9788fb3209eef807c8f366" Row="15" Type="" RequiresApplied="true" AffectedProvisions="s. 6(1)" AffectedExtent="E+W" AffectedEffectsExtent="E+W+S" AffectingYear="2000" AffectingNumber="38" AffectingProvisions="Sch. 27 para. 14" AffectedYear="1985" AffectedNumber="67" Modified="2021-04-13T08:36:22Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-6-1" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1">s. 6(1)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport Act 2000</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule-27" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/27">Sch. 27 </ukm:Section><ukm:Section Ref="schedule-27-paragraph-14" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/schedule/27/paragraph/14">para. 14</ukm:Section></ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f384fb6325b5d3c9f9c60a034e7ed3e1" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-f384fb6325b5d3c9f9c60a034e7ed3e1" Row="15" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 6(2ZA)" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="s. 37(2)(a)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-6-2ZA" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2ZA" FoundRef="section-6">s. 6(2ZA)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-37-2-a" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/37/2/a">s. 37(2)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-21c360c0a745c9d71755241435dfdd72" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-21c360c0a745c9d71755241435dfdd72" Row="16" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 6(7ZA)" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="s. 37(2)(b)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-6-7ZA" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/7ZA" FoundRef="section-6">s. 6(7ZA)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-37-2-b" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/37/2/b">s. 37(2)(b)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-88b00ca7142f98266054ba1272b28288" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-88b00ca7142f98266054ba1272b28288" Row="17" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 6K-6N" Comments="Contains power in s. 6M" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="s. 37(3)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:SectionRange xmlns:err="http://www.legislation.gov.uk/namespaces/error" Start="section-6K" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6K" err:Start="Section missing in legislation" MissingStart="true" End="section-6N" UpTo="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6N" err:End="Section missing in legislation" MissingEnd="true" Missing="true"><ukm:Section Ref="section-6K" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6K" err:Ref="Section missing in legislation" Missing="true">s. 6K</ukm:Section>-<ukm:Section Ref="section-6N" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6N" err:Ref="Section missing in legislation" Missing="true">6N</ukm:Section></ukm:SectionRange></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-37-3" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/37/3">s. 37(3)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-29c8323716e26d9d3fe79d912962da22" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-29c8323716e26d9d3fe79d912962da22" Row="18" Type="excluded by 2001 asp 2, s. 13B(1)(a) (as substituted)" RequiresApplied="true" AffectedProvisions="s. 6-9" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="s. 38(2)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:SectionRange Start="section-6" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6" End="section-9" UpTo="http://www.legislation.gov.uk/id/ukpga/1985/67/section/9"><ukm:Section Ref="section-6" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6">s. 6</ukm:Section>-<ukm:Section Ref="section-9" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/9">9</ukm:Section></ukm:SectionRange></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-38-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/38/2">s. 38(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-7a32c36e455ab12566af169d3cbce188" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-7a32c36e455ab12566af169d3cbce188" Row="21" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 6ZA-6ZC and cross-heading" Comments="Contains power in ss. 6ZA, 6ZC" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="s. 39(1)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:SectionRange xmlns:err="http://www.legislation.gov.uk/namespaces/error" Start="section-6ZA" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6ZA" err:Start="Section missing in legislation" MissingStart="true" End="section-6ZC" UpTo="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6ZC" err:End="Section missing in legislation" MissingEnd="true" Missing="true"><ukm:Section Ref="section-6ZA" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6ZA" err:Ref="Section missing in legislation" Missing="true">s. 6ZA</ukm:Section>-<ukm:Section Ref="section-6ZC" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6ZC" err:Ref="Section missing in legislation" Missing="true">6ZC</ukm:Section></ukm:SectionRange> and cross-heading</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="section-39-1" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/39/1">s. 39(1)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-ff63a888370c735838fa95440ce7c411" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-ff63a888370c735838fa95440ce7c411" Row="130" Type="words substituted" RequiresApplied="true" AffectedProvisions="s. 63(5)(aa)(ii)" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="sch. para. 2(2)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-63-5-aa-ii" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/63/5/aa/ii" FoundRef="section-63">s. 63(5)(aa)(ii)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule">sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-2-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule/paragraph/2/2">para. 2(2)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-127f71360837981c57fd4709e61088c4" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-127f71360837981c57fd4709e61088c4" Row="132" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 135(1A)" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="sch. para. 2(3)(a)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-135-1A" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/135/1A" FoundRef="section-135">s. 135(1A)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule">sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-2-3-a" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule/paragraph/2/3/a">para. 2(3)(a)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+				<ukm:UnappliedEffect EffectId="key-f1da384fb24d207027f4c623c034c6b0" AffectedClass="UnitedKingdomPublicGeneralAct" AffectedURI="http://www.legislation.gov.uk/id/ukpga/1985/67" AffectingURI="http://www.legislation.gov.uk/id/asp/2019/17" AffectingClass="ScottishAct" URI="http://www.legislation.gov.uk/id/effect/key-f1da384fb24d207027f4c623c034c6b0" Row="134" Type="inserted" RequiresApplied="true" AffectedProvisions="s. 135(4A)" AffectingEffectsExtent="S" AffectingYear="2019" AffectingNumber="17" AffectingProvisions="sch. para. 2(3)(c)" AffectedYear="1985" AffectedNumber="67" Modified="2021-12-03T16:33:12Z">
+					<ukm:AffectedTitle>Transport Act 1985</ukm:AffectedTitle>
+					<ukm:AffectedProvisions><ukm:Section Ref="section-135-4A" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/135/4A" FoundRef="section-135">s. 135(4A)</ukm:Section></ukm:AffectedProvisions>
+					<ukm:AffectingTitle>Transport (Scotland) Act 2019</ukm:AffectingTitle>
+					<ukm:AffectingProvisions><ukm:Section Ref="schedule" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule">sch. </ukm:Section><ukm:Section Ref="schedule-paragraph-2-3-c" URI="http://www.legislation.gov.uk/id/asp/2019/17/schedule/paragraph/2/3/c">para. 2(3)(c)</ukm:Section></ukm:AffectingProvisions>
+					<ukm:Savings><ukm:Section Ref="section-126" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/126">s. 126</ukm:Section></ukm:Savings>
+					<ukm:CommencementAuthority><ukm:Section Ref="section-130-2" URI="http://www.legislation.gov.uk/id/asp/2019/17/section/130/2">s. 130(2)</ukm:Section></ukm:CommencementAuthority>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-10-27" URI="http://www.legislation.gov.uk/ukpga/1985/67/pdfs/ukpga_19850067_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="294"/>
+			<ukm:BodyParagraphs Value="152"/>
+			<ukm:ScheduleParagraphs Value="142"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/body/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/body" NumberOfProvisions="152">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/part/I/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/part/I" NumberOfProvisions="41" RestrictEndDate="2008-07-21" id="part-I" RestrictExtent="E+W+S">
+				<Number>
+					<CommentaryRef Ref="c10876991"/><CommentaryRef Ref="c19460331"/><CommentaryRef Ref="c19460471"/>Part I</Number>
+				<Title> General Provisions Relating to Road Passenger Transport</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/part/I/crossheading/registration-of-local-services/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/part/I/crossheading/registration-of-local-services" NumberOfProvisions="4" RestrictEndDate="2008-11-26" id="part-I-crossheading-registration-of-local-services" RestrictExtent="E+W+S">
+					<Title> Registration of local services</Title>
+					<P1group RestrictEndDate="2008-11-26" RestrictStartDate="2007-09-01" ConfersPower="true" AltVersionRefs="v00014" Concurrent="true" RestrictExtent="E+W">
+						<Title> Registration of local services. <CommentaryRef Ref="c10877311"/></Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6" id="section-6">
+							<Pnumber><CommentaryRef Ref="c10877331"/><CommentaryRef Ref="c10877321"/><CommentaryRef Ref="c19459571"/><CommentaryRef Ref="c19459691"/><CommentaryRef Ref="c19469811"/>6</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1" RestrictEndDate="2017-06-27" id="section-6-1">
+									<Pnumber>1</Pnumber>
+									<P2para>
+										<Text>In this section “<Term id="term-service">service</Term>” means a local service which is neither a London local service <Addition ChangeId="d29p543" CommentaryRef="c19469831">nor a service which falls within subsection (1A) below</Addition> nor a service provided under an agreement <Substitution ChangeId="d29p547" CommentaryRef="c19459341">entered into, where a railway service has been temporarily interrupted, with the Secretary of State, the Scottish Ministers or the National Assembly for Wales under section 40 of the Railways Act 2005 (substitution services provided for interrupted or discontinued railway services)</Substitution> .</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1A/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1A" id="section-6-1A">
+									<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">1A</Addition></Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">A service falls within this subsection if conditions A and B are satisfied in relation to it.</Addition></Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1B/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1B" RestrictEndDate="2009-09-01" id="section-6-1B">
+									<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">1B</Addition></Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">Condition A is satisfied if the service is provided in pursuance of—</Addition></Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1B/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1B/a" id="section-6-1B-a">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">a</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">the obligation placed on a local education authority by section 508B(1), section 508F(1), section 509(1) or (1A), or section 509AA(7)(b) or (9)(a) of the Education Act 1996 (provision of transport <Abbreviation Expansion="Et cetera" xml:lang="la">etc</Abbreviation>);</Addition></Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1B/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1B/b" id="section-6-1B-b">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">b</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">the exercise of the power of a local education authority under section 508C(1) of that Act; or</Addition></Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1B/c/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1B/c" id="section-6-1B-c">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">c</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">arrangements made by a local education authority in pursuance of a scheme made by them under Schedule 35C to that Act (school travel schemes).</Addition></Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1C/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1C" RestrictEndDate="2009-09-01" id="section-6-1C">
+									<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">1C</Addition></Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">Condition B is satisfied if the service is for the carriage of any of the following persons (and no other)—</Addition></Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1C/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1C/a" RestrictEndDate="2009-09-01" id="section-6-1C-a">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">a</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">a person receiving education or training at premises to or from which transport is provided in pursuance of the obligation, the exercise of the power or the arrangements, as the case may be, mentioned in paragraph (a), (b) or (c) of subsection (1B);</Addition></Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1C/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1C/b" id="section-6-1C-b">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">b</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">a person supervising or escorting any such person while he is using such transport;</Addition></Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1C/c/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1C/c" id="section-6-1C-c">
+											<Pnumber><Addition ChangeId="d29p551" CommentaryRef="c19469851">c</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="d29p551" CommentaryRef="c19469851">a person involved with the provision of education or training at any such premises.</Addition></Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2" RestrictEndDate="2010-01-11" id="section-6-2">
+									<Pnumber>2</Pnumber>
+									<P2para>
+										<Text>Subject to regulations under this section, no service shall be provided in any traffic area in which there is a stopping place for the service unless—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/a" id="section-6-2-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the prescribed particulars of the service have been registered with the traffic commissioner for that area by the operator of the service;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/b" RestrictEndDate="2010-01-11" id="section-6-2-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>the period of notice in relation to the registration has expired; and</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/c/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/c" id="section-6-2-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>the service is operated in accordance with the registered particulars.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3" RestrictEndDate="2010-01-11" id="section-6-3">
+									<Pnumber>3</Pnumber>
+									<P2para>
+										<Text>In subsection (2) above “<Term id="term-the-period-of-notice">the period of notice</Term>”, in relation to any registration, means, subject to regulations under this section—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3/a" id="section-6-3-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>the period prescribed for the purposes of this subsection; or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3/b" id="section-6-3-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>if longer, the period beginning with the registration and ending with the date given to the traffic commissioner by the operator as the date on which the service will begin.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/4/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/4" id="section-6-4">
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>An application for registration shall only be accepted from a person who either holds an unconditional <Acronym Expansion="Public Service Vehicle">PSV</Acronym> operator’s licence or a permit under section 22 of this Act or is using, or proposing to use, a school bus belonging to that person for farepaying passengers in accordance with section 46(1) of the 1981 Act.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/5/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/5" id="section-6-5">
+									<Pnumber>5</Pnumber>
+									<P2para>
+										<Text>In subsection (4) above “<Term id="term-unconditional">unconditional</Term>”, in relation to a PSV operator’s licence, means a licence which does not have attached to it a condition imposed under section 26(1) of this Act prohibiting, or having the effect of prohibiting, the operator from using vehicles under the licence to provide the service to which the application in question relates.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/6/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/6" id="section-6-6">
+									<Pnumber>6</Pnumber>
+									<P2para>
+										<Text>In this Act any reference to a service registered under this section is a reference to a service in respect of which the prescribed particulars are registered under this section.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/7/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/7" id="section-6-7">
+									<Pnumber>7</Pnumber>
+									<P2para>
+										<Text>Any registration may be varied or cancelled on an application made by the operator of the service to which it relates.</Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8" RestrictEndDate="2009-04-06" id="section-6-8">
+									<Pnumber>8</Pnumber>
+									<P2para>
+										<Text>Subject to regulations under this section, the variation or cancellation of a registration shall become effective—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8/a" RestrictEndDate="2010-01-11" id="section-6-8-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>on the expiry of the period beginning with the date on which the traffic commissioner accepts the application and ending with the date determined in accordance with regulations under this section; or</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8/b" id="section-6-8-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>if later, on the day given to the traffic commissioner by the operator as the effective date for the variation or (as the case may be) cancellation.</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9" RestrictEndDate="2009-02-09" id="section-6-9">
+									<Pnumber><CommentaryRef Ref="c19484461"/>9</Pnumber>
+									<P2para>
+										<Text>Regulations may be made for the purpose of carrying this section into effect and any such regulations may, in particular, make provision—</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/a/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/a" id="section-6-9-a">
+											<Pnumber>a</Pnumber>
+											<P3para>
+												<Text>for permitting the variation of a registered service, in such circumstances as may be prescribed, without variation of the registration;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/b/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/b" id="section-6-9-b">
+											<Pnumber>b</Pnumber>
+											<P3para>
+												<Text>for excluding or modifying the application of subsection (3) or (8) above in such cases or classes of case as may be prescribed;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c" id="section-6-9-c">
+											<Pnumber>c</Pnumber>
+											<P3para>
+												<Text>that in such cases or classes of case as may be prescribed—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/i/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c/i" id="section-6-9-c-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>subsection (2) above shall have effect as if for the reference in paragraph (b) to the period of notice there were substituted a reference to such period as the traffic commissioner may determine;</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/ii/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c/ii" id="section-6-9-c-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>subsection (8) above shall have effect as if for the reference in paragraph (a) to the date on which the period mentioned in that paragraph is to expire there were substituted a reference to such date as he may determine;</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/d/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/d" id="section-6-9-d">
+											<Pnumber>d</Pnumber>
+											<P3para>
+												<Text>as to the procedure for applying for registration or for the variation or cancellation of a registration;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/e/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/e" RestrictEndDate="2017-06-27" id="section-6-9-e">
+											<Pnumber>e</Pnumber>
+											<P3para>
+												<Text>for an application for registration or for the variation or cancellation of a registration not to be accepted by the traffic commissioner to whom it is made unless the applicant gives to the commissioner such information as he may reasonably require in connection with the application;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/f/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/f" id="section-6-9-f">
+											<Pnumber>f</Pnumber>
+											<P3para>
+												<Text>as to the traffic commissioner to whom an application for registration is to be made in the case of services which will run through the areas of two or more traffic commissioners;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/g/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/g" id="section-6-9-g">
+											<Pnumber>g</Pnumber>
+											<P3para>
+												<Text>as to the documents (if any) to be issued by a traffic commissioner with respect to registrations;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/h/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/h" id="section-6-9-h">
+											<Pnumber>h</Pnumber>
+											<P3para>
+												<Text>as to the cancellation of registrations relating to discontinued services;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/i/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/i" id="section-6-9-i">
+											<Pnumber>i</Pnumber>
+											<P3para>
+												<Text>for enabling a traffic commissioner to require the operator of a registered service, in such circumstances as may be prescribed, to keep records of such matters relating to the operation of the service, in such manner, as may be prescribed;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/j/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/j" id="section-6-9-j">
+											<Pnumber>j</Pnumber>
+											<P3para>
+												<Text>for requiring the operator of a registered service who is required to keep records by regulations made by virtue of paragraph (i) above to make those records available to the traffic commissioner;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/k/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/k" id="section-6-9-k">
+											<Pnumber>k</Pnumber>
+											<P3para>
+												<Text>for requiring the operator or prospective operator of a registered service to give, to such persons and at such times as may be prescribed, such information as may be prescribed with respect to the service, or proposed service, or any proposal to vary or cancel the registration of the service;</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l" id="section-6-9-l">
+											<Pnumber>l</Pnumber>
+											<P3para>
+												<Text>for excluding from the application of this section services which are—</Text>
+												<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/i/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l/i" id="section-6-9-l-i">
+													<Pnumber>i</Pnumber>
+													<P4para>
+														<Text>excursions or tours; or</Text>
+													</P4para>
+												</P4>
+												<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/ii/england+wales/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l/ii" id="section-6-9-l-ii">
+													<Pnumber>ii</Pnumber>
+													<P4para>
+														<Text>excursions or tours falling within a prescribed class.</Text>
+													</P4para>
+												</P4>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Part>
+		</Body>
+	</Primary>
+	<Versions>
+		<Version id="v00014" Description="S" RestrictOutput="false">
+			<P1group RestrictExtent="S" RestrictStartDate="2005-07-24" ConfersPower="true" Concurrent="true">
+				<Title> Registration of local services. <CommentaryRef Ref="c10877171"/></Title>
+				<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6" id="section-6">
+					<Pnumber><CommentaryRef Ref="c10877181"/><CommentaryRef Ref="c19459571"/><CommentaryRef Ref="c19459691"/><CommentaryRef Ref="c10877191"/>6</Pnumber>
+					<P1para>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/1/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/1" id="section-6-1">
+							<Pnumber>1</Pnumber>
+							<P2para>
+								<Text>In this section “<Term id="term-service">service</Term>” means a local service which is neither a London local service nor a service provided under an agreement <Substitution ChangeId="d29p29263" CommentaryRef="c19459341">entered into, where a railway service has been temporarily interrupted, with the Secretary of State, the Scottish Ministers or the National Assembly for Wales under section 40 of the Railways Act 2005 (substitution services provided for interrupted or discontinued railway services)</Substitution>.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2" id="section-6-2">
+							<Pnumber><CommentaryRef Ref="c10877221"/>2</Pnumber>
+							<P2para>
+								<Text>Subject to regulations under this section, no service shall be provided in any traffic area in which there is a stopping place for the service unless—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/a/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/a" id="section-6-2-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the prescribed particulars of the service have been registered with the traffic commissioner for that area by the operator of the service;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/b/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/b" id="section-6-2-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>the period of notice in relation to the registration has expired; and</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/2/c/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/2/c" id="section-6-2-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>the service is operated in accordance with the registered particulars.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3" id="section-6-3">
+							<Pnumber><CommentaryRef Ref="c10877231"/>3</Pnumber>
+							<P2para>
+								<Text>In <Addition ChangeId="d29p29299" CommentaryRef="c10877241">this section</Addition>“<Term id="term-the-period-of-notice">the period of notice</Term>”, in relation to any registration, means, subject to regulations under this section—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/a/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3/a" id="section-6-3-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>the period prescribed for the purposes of this subsection; or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/3/b/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/3/b" id="section-6-3-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if longer, the period beginning with the registration and ending with the date given to the traffic commissioner by the operator as the date on which the service will begin.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/4/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/4" id="section-6-4">
+							<Pnumber>4</Pnumber>
+							<P2para>
+								<Text>An application for registration shall only be accepted from a person who either holds an unconditional PSV operator’s licence or a permit under section 22 of this Act or is using, or proposing to use, a school bus belonging to that person for farepaying passengers in accordance with section 46(1) of the 1981 Act.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/5/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/5" id="section-6-5">
+							<Pnumber>5</Pnumber>
+							<P2para>
+								<Text>In subsection (4) above “<Term id="term-unconditional">unconditional</Term>”, in relation to a PSV operator’s licence, means a licence which does not have attached to it a condition imposed under section 26(1) of this Act prohibiting, or having the effect of prohibiting, the operator from using vehicles under the licence to provide the service to which the application in question relates.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/6/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/6" id="section-6-6">
+							<Pnumber>6</Pnumber>
+							<P2para>
+								<Text>In this Act any reference to a service registered under this section is a reference to a service in respect of which the prescribed particulars are registered under this section.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/7/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/7" id="section-6-7">
+							<Pnumber>7</Pnumber>
+							<P2para>
+								<Text>Any registration may be varied or cancelled on an application made by the operator of the service to which it relates.</Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8" id="section-6-8">
+							<Pnumber><CommentaryRef Ref="c10877251"/>8</Pnumber>
+							<P2para>
+								<Text>Subject to regulations under this section, the variation or cancellation of a registration shall become effective—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/a/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8/a" id="section-6-8-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>on the expiry of the period beginning with the date on which the traffic commissioner accepts the application and ending with the date determined in accordance with regulations under this section; or</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8/b/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8/b" id="section-6-8-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>if later, on the day given to the traffic commissioner by the operator as the effective date for the variation or (as the case may be) cancellation.</Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/8A/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/8A" id="section-6-8A">
+							<Pnumber><Addition ChangeId="d29p29364" CommentaryRef="c10877261">8A</Addition></Pnumber>
+							<P2para>
+								<Text><Addition ChangeId="d29p29364" CommentaryRef="c10877261">Where a service is registered under this section or, as the case may be, a registration is varied under this section, the operator of the service which has been registered, or in respect of which the registration has been varied, shall provide that service for a period of at least 90 days (or, as the case may be, such other period as the traffic commissioner may specify) beginning with the day on which the period of notice expires or, as the case may be, the variation becomes effective.</Addition></Text>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9" id="section-6-9">
+							<Pnumber><CommentaryRef Ref="c19484441"/>9</Pnumber>
+							<P2para>
+								<Text>Regulations may be made for the purpose of carrying this section into effect and any such regulations may, in particular, make provision—</Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/a/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/a" id="section-6-9-a">
+									<Pnumber>a</Pnumber>
+									<P3para>
+										<Text>for permitting the variation of a registered service, in such circumstances as may be prescribed, without variation of the registration;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/b/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/b" id="section-6-9-b">
+									<Pnumber>b</Pnumber>
+									<P3para>
+										<Text>for excluding or modifying the application of subsection (3) or (8) above in such cases or classes of case as may be prescribed;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c" id="section-6-9-c">
+									<Pnumber>c</Pnumber>
+									<P3para>
+										<Text>that in such cases or classes of case as may be prescribed—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/i/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c/i" id="section-6-9-c-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>subsection (2) above shall have effect as if for the reference in paragraph (b) to the period of notice there were substituted a reference to such period as the traffic commissioner may determine;</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/c/ii/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/c/ii" id="section-6-9-c-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>subsection (8) above shall have effect as if for the reference in paragraph (a) to the date on which the period mentioned in that paragraph is to expire there were substituted a reference to such date as he may determine;</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/d/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/d" id="section-6-9-d">
+									<Pnumber>d</Pnumber>
+									<P3para>
+										<Text>as to the procedure for <Addition ChangeId="d29p29416" CommentaryRef="c10877271">or in connection with</Addition>applying for registration or for the variation or cancellation of a registration;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/da/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/da" id="section-6-9-da">
+									<Pnumber><Addition ChangeId="d29p29420" CommentaryRef="c10877281">da</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="d29p29420" CommentaryRef="c10877281">subject to subsection (10) below, specifying dates as the only dates on which the operator of a local service in the area (or areas) of such local authority (or authorities) as may be specified in the regulations may vary a registration in so far as it relates to the scheduled times of the local service in respect of which the registration is made;</Addition></Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/e/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/e" id="section-6-9-e">
+									<Pnumber>e</Pnumber>
+									<P3para>
+										<Text>for an application for registration or for the variation or cancellation of a registration not to be accepted by the traffic commissioner to whom it is made unless the applicant gives to the commissioner <Addition ChangeId="d29p29434" CommentaryRef="c10877291">, in such form as he may require,</Addition> such information as he may reasonably require in connection with the application;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/f/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/f" id="section-6-9-f">
+									<Pnumber>f</Pnumber>
+									<P3para>
+										<Text>as to the traffic commissioner to whom an application for registration is to be made in the case of services which will run through the areas of two or more traffic commissioners;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/g/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/g" id="section-6-9-g">
+									<Pnumber>g</Pnumber>
+									<P3para>
+										<Text>as to the documents (if any) to be issued by a traffic commissioner with respect to registrations;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/h/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/h" id="section-6-9-h">
+									<Pnumber>h</Pnumber>
+									<P3para>
+										<Text>as to the cancellation of registrations relating to discontinued services;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/i/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/i" id="section-6-9-i">
+									<Pnumber>i</Pnumber>
+									<P3para>
+										<Text>for enabling a traffic commissioner to require the operator of a registered service, in such circumstances as may be prescribed, to keep records of such matters relating to the operation of the service, in such manner, as may be prescribed;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/j/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/j" id="section-6-9-j">
+									<Pnumber>j</Pnumber>
+									<P3para>
+										<Text>for requiring the operator of a registered service who is required to keep records by regulations made by virtue of paragraph (i) above to make those records available to the traffic commissioner;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/k/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/k" id="section-6-9-k">
+									<Pnumber>k</Pnumber>
+									<P3para>
+										<Text>for requiring the operator or prospective operator of a registered service to give, to such persons and at such times as may be prescribed, such information as may be prescribed with respect to the service, or proposed service, or any proposal to vary or cancel the registration of the service;</Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l" id="section-6-9-l">
+									<Pnumber>l</Pnumber>
+									<P3para>
+										<Text>for excluding from the application of this section services which are—</Text>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/i/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l/i" id="section-6-9-l-i">
+											<Pnumber>i</Pnumber>
+											<P4para>
+												<Text>excursions or tours; or</Text>
+											</P4para>
+										</P4>
+										<P4 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/9/l/ii/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/9/l/ii" id="section-6-9-l-ii">
+											<Pnumber>ii</Pnumber>
+											<P4para>
+												<Text>excursions or tours falling within a prescribed class.</Text>
+											</P4para>
+										</P4>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+						<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/10/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/10" id="section-6-10">
+							<Pnumber><Addition ChangeId="d29p29493" CommentaryRef="c10877301">10</Addition></Pnumber>
+							<P2para>
+								<Text><Addition ChangeId="d29p29493" CommentaryRef="c10877301">Regulations making provision such as is mentioned in subsection (9)(da) above may not—</Addition></Text>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/10/a/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/10/a" id="section-6-10-a">
+									<Pnumber><Addition ChangeId="d29p29493" CommentaryRef="c10877301">a</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="d29p29493" CommentaryRef="c10877301">have effect for a period of more than three years;</Addition></Text>
+									</P3para>
+								</P3>
+								<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1985/67/section/6/10/b/scotland/2007-09-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1985/67/section/6/10/b" id="section-6-10-b">
+									<Pnumber><Addition ChangeId="d29p29493" CommentaryRef="c10877301">b</Addition></Pnumber>
+									<P3para>
+										<Text><Addition ChangeId="d29p29493" CommentaryRef="c10877301">specify more than four dates in a calendar year as dates on which a registration may be varied.</Addition></Text>
+									</P3para>
+								</P3>
+							</P2para>
+						</P2>
+					</P1para>
+				</P1>
+			</P1group>
+		</Version>
+	</Versions>
+	<Commentaries>
+		<Commentary id="c10877171" Type="C"><Para>
+				<Text>S. 6 excluded by <Citation URI="http://www.legislation.gov.uk/id/uksi/1986/1671" id="c00016" Class="UnitedKingdomStatutoryInstrument" Year="1986" Number="1671">S.I. 1986/1671</Citation>, <CitationSubRef id="c00017" CitationRef="c00016" URI="http://www.legislation.gov.uk/id/uksi/1986/1671/regulation/10" Operative="true" SectionRef="regulation-10">reg. 10</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877181" Type="C"><Para>
+				<Text>S. 6 excluded (21.7.1994) by <Citation URI="http://www.legislation.gov.uk/id/ukla/1994/15" id="c00019" Class="UnitedKingdomLocalAct" Year="1994" Number="15">1994 c. xv</Citation>, <CitationSubRef id="c00020" CitationRef="c00019" URI="http://www.legislation.gov.uk/id/ukla/1994/15/section/73/3" Operative="true" SectionRef="section-73-3">s. 73(3)</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6-9 applied (28.7.1998) by <Citation URI="http://www.legislation.gov.uk/id/ukla/1998/3" id="c00022" Class="UnitedKingdomLocalAct" Year="1998" Number="3">1998 c. iii</Citation>, <CitationSubRef id="c00023" CitationRef="c00022" URI="http://www.legislation.gov.uk/id/ukla/1998/3/section/1" SectionRef="section-1">s. 1</CitationSubRef>, <CitationSubRef id="c00024" CitationRef="c00022" URI="http://www.legislation.gov.uk/id/ukla/1998/3/schedule/section/54" Operative="true" SectionRef="schedule-section-54">Sch. s. 54</CitationSubRef> of Order</Text>
+			</Para><Para>
+				<Text>Ss. 6-9 restricted (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00026" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00027" CitationRef="c00026" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/22/1/a" Operative="true" SectionRef="section-22-1-a">s. 22(1)(a)</CitationSubRef> (with <CitationSubRef id="c00028" CitationRef="c00026" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00029" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00030" CitationRef="c00029" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00031" CitationRef="c00029" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/part/II" Operative="true" SectionRef="schedule-part-II">Sch. Pt. II</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 extended (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00033" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00034" CitationRef="c00033" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/8/5/7" Operative="true" SectionRef="section-8-5-7">s. 8(5)(7)</CitationSubRef> (with <CitationSubRef id="c00035" CitationRef="c00033" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00036" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00037" CitationRef="c00036" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00038" CitationRef="c00036" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/part/II" Operative="true" SectionRef="schedule-part-II">Sch. Pt. II</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 extended (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00040" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00041" CitationRef="c00040" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/22/3" Operative="true" SectionRef="section-22-3">s. 22(3)</CitationSubRef> (with <CitationSubRef id="c00042" CitationRef="c00040" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00043" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00044" CitationRef="c00043" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00045" CitationRef="c00043" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/part/II" Operative="true" SectionRef="schedule-part-II">Sch. Pt. II</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 extended (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00047" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00048" CitationRef="c00047" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/32/2" Operative="true" SectionRef="section-32-2">s. 32(2)</CitationSubRef> (with <CitationSubRef id="c00049" CitationRef="c00047" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00050" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00051" CitationRef="c00050" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00052" CitationRef="c00050" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/part/II" Operative="true" SectionRef="schedule-part-II">Sch. Pt. II</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 excluded (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/219" id="c00054" Class="ScottishStatutoryInstrument" Year="2001" Number="219">S.S.I. 2001/219</Citation>, <CitationSubRef id="c00055" CitationRef="c00054" URI="http://www.legislation.gov.uk/id/ssi/2001/219/regulation/11" Operative="true" SectionRef="regulation-11">reg. 11</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 excluded (24.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/3627" id="c00057" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3627">S.I. 2001/3627</Citation>, <CitationSubRef id="c00058" CitationRef="c00057" URI="http://www.legislation.gov.uk/id/uksi/2001/3627/article/62/3" Operative="true" SectionRef="article-62-3">art. 62(3)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19459571" Type="C"><Para>
+				<Text>S. 6 excluded (11.2.2005) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/120" id="c00060" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="120" Title="The Merseytram (Liverpool City Centre to Kirkby) Order 2005">The Merseytram (Liverpool City Centre to Kirkby) Order 2005 (S.I. 2005/120)</Citation>, <CitationSubRef id="c00061" CitationRef="c00060" URI="http://www.legislation.gov.uk/id/uksi/2005/120/article/55/3" SectionRef="article-55-3" Operative="true">art. 55(3)</CitationSubRef> (with <CitationSubRef id="c00062" CitationRef="c00060" URI="http://www.legislation.gov.uk/id/uksi/2005/120/article/65" SectionRef="article-65">arts. 65</CitationSubRef>, <CitationSubRef id="c00063" CitationRef="c00060" URI="http://www.legislation.gov.uk/id/uksi/2005/120/article/66" SectionRef="article-66">66</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c19459691" Type="C"><Para>
+				<Text>S. 6 excluded (11.1.2006) by The Cambridgeshire Guided Busway Order 2005; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/3523" id="c00065" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="3523">S.I. 2005/3523</Citation>, <CitationSubRef id="c00066" CitationRef="c00065" URI="http://www.legislation.gov.uk/id/uksi/2005/3523/article/37/3" SectionRef="article-37-3" Operative="true">art. 37(3)</CitationSubRef> (with <CitationSubRef id="c00067" CitationRef="c00065" URI="http://www.legislation.gov.uk/id/uksi/2005/3523/article/52" SectionRef="article-52">art. 52</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c10877191" Type="E"><Para>
+				<Text>This version of this provision extends to Scotland only; a separate version has been created for England and Wales only</Text>
+			</Para></Commentary>
+		<Commentary id="c19459341" Type="F"><Para>
+				<Text>Words in s. 6(1) substituted (24.7.2005 for specified purposes and otherwise 16.10.2005) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2005/14" id="c00069" Year="2005" Class="UnitedKingdomPublicGeneralAct" Number="14" Title="Railways Act 2005">Railways Act 2005 (c. 14)</Citation>, <CitationSubRef id="c00070" CitationRef="c00069" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/59" SectionRef="section-59">ss. 59</CitationSubRef>, <CitationSubRef id="c00071" CitationRef="c00069" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/section/60" SectionRef="section-60">60</CitationSubRef>, <CitationSubRef id="c00072" CitationRef="c00069" URI="http://www.legislation.gov.uk/id/ukpga/2005/14/schedule/12/paragraph/8" SectionRef="schedule-12-paragraph-8" Operative="true">Sch. 12 para. 8</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/1909" id="c00073" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="1909">S.I. 2005/1909</Citation>, <CitationSubRef id="c00074" CitationRef="c00073" URI="http://www.legislation.gov.uk/id/uksi/2005/1909/article/2" SectionRef="article-2" Operative="true">art. 2</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/2182" id="c00075" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="2182">S.I. 2005/2182</Citation>, <CitationSubRef id="c00076" CitationRef="c00075" URI="http://www.legislation.gov.uk/id/uksi/2005/2182/article/2" SectionRef="article-2" Operative="true">art. 2</CitationSubRef>, <CitationSubRef id="c00077" CitationRef="c00075" URI="http://www.legislation.gov.uk/id/uksi/2005/2182/schedule/1" SectionRef="schedule-1">Sch. 1</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877221" Type="C"><Para>
+				<Text>S. 6(2) modified (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/219" id="c00079" Class="ScottishStatutoryInstrument" Year="2001" Number="219">S.S.I. 2001/219</Citation>, <CitationSubRef id="c00080" CitationRef="c00079" URI="http://www.legislation.gov.uk/id/ssi/2001/219/regulation/7/1/a" Operative="true" SectionRef="regulation-7-1-a">reg. 7(1)(a)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877231" Type="C"><Para>
+				<Text>S. 6(3) modified (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/219" id="c00082" Class="ScottishStatutoryInstrument" Year="2001" Number="219">S.S.I. 2001/219</Citation>, <CitationSubRef id="c00083" CitationRef="c00082" URI="http://www.legislation.gov.uk/id/ssi/2001/219/regulation/8/1" Operative="true" SectionRef="regulation-8-1">reg. 8(1)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877241" Type="F"><Para>
+				<Text>Words in s. 6(3) substituted (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00085" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00086" CitationRef="c00085" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/45/a" Operative="true" SectionRef="section-45-a">s. 45(a)</CitationSubRef> (with <CitationSubRef id="c00087" CitationRef="c00085" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00088" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00089" CitationRef="c00088" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>, <CitationSubRef id="c00090" CitationRef="c00088" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/II" Operative="true" SectionRef="schedule-2-part-II">Sch. 2 Pt. II</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877251" Type="C"><Para>
+				<Text>S. 6(8) modified (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/219" id="c00092" Class="ScottishStatutoryInstrument" Year="2001" Number="219">S.S.I. 2001/219</Citation>, <CitationSubRef id="c00093" CitationRef="c00092" URI="http://www.legislation.gov.uk/id/ssi/2001/219/regulation/7/1/b" Operative="true" SectionRef="regulation-7-1-b">reg. 7(1)(b)</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6(8) modified (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/219" id="c00095" Class="ScottishStatutoryInstrument" Year="2001" Number="219">S.S.I. 2001/219</Citation>, <CitationSubRef id="c00096" CitationRef="c00095" URI="http://www.legislation.gov.uk/id/ssi/2001/219/regulation/8/1" Operative="true" SectionRef="regulation-8-1">reg. 8(1)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877261" Type="F"><Para>
+				<Text>S. 6(8A) inserted (S.) (1.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00098" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00099" CitationRef="c00098" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/45/b" Operative="true" SectionRef="section-45-b">s. 45(b)</CitationSubRef> (with <CitationSubRef id="c00100" CitationRef="c00098" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00101" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00102" CitationRef="c00101" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/3" SectionRef="article-2-3">art. 2(3)</CitationSubRef>, <CitationSubRef id="c00103" CitationRef="c00101" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/II" Operative="true" SectionRef="schedule-2-part-II">Sch. 2 Pt. II</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19484441" Type="C"><Para>
+				<Text>S. 6(9): functions transferred (1.10.2007) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/2139" id="c00105" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="2139" Title="The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007">The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007 (S.I. 2007/2139)</Citation>, <CitationSubRef id="c00106" CitationRef="c00105" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00107" CitationRef="c00105" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/schedule" SectionRef="schedule" Operative="true">Sch.</CitationSubRef> (with <CitationSubRef id="c00108" CitationRef="c00105" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/article/4" SectionRef="article-4">art. 4</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c10877271" Type="F"><Para>
+				<Text>Words in s. 6(9)(d) inserted (S.) (1.4.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00110" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00111" CitationRef="c00110" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/83" SectionRef="section-83">s. 83</CitationSubRef>, <CitationSubRef id="c00112" CitationRef="c00110" URI="http://www.legislation.gov.uk/id/asp/2001/2/schedule/2/paragraph/4/2" Operative="true" SectionRef="schedule-2-paragraph-4-2">Sch. 2 para. 4(2)</CitationSubRef> (with <CitationSubRef id="c00113" CitationRef="c00110" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00114" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00115" CitationRef="c00114" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>, <CitationSubRef id="c00116" CitationRef="c00114" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/I" Operative="true" SectionRef="schedule-2-part-I">Sch. 2 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877281" Type="F"><Para>
+				<Text>S. 6(9)(da) inserted (S.) (1.4.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00118" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00119" CitationRef="c00118" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/46/a" Operative="true" SectionRef="section-46-a">s. 46(a)</CitationSubRef> (with <CitationSubRef id="c00120" CitationRef="c00118" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00121" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00122" CitationRef="c00121" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>, <CitationSubRef id="c00123" CitationRef="c00121" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/I" Operative="true" SectionRef="schedule-2-part-I">Sch. 2 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877291" Type="F"><Para>
+				<Text>Words in s. 6(9)(e) inserted (S.) (1.4.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00125" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00126" CitationRef="c00125" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/83" SectionRef="section-83">s. 83</CitationSubRef>, <CitationSubRef id="c00127" CitationRef="c00125" URI="http://www.legislation.gov.uk/id/asp/2001/2/schedule/2/paragraph/4/2" Operative="true" SectionRef="schedule-2-paragraph-4-2">Sch. 2 para. 4(2)</CitationSubRef> (with <CitationSubRef id="c00128" CitationRef="c00125" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00129" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00130" CitationRef="c00129" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>, <CitationSubRef id="c00131" CitationRef="c00129" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/I" Operative="true" SectionRef="schedule-2-part-I">Sch. 2 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877301" Type="F"><Para>
+				<Text>S. 6(10) inserted (S.) (1.4.2001) by <Citation URI="http://www.legislation.gov.uk/id/asp/2001/2" id="c00133" Class="ScottishAct" Year="2001" Number="2">2001 asp 2</Citation>, <CitationSubRef id="c00134" CitationRef="c00133" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/46/b" Operative="true" SectionRef="section-46-b">s. 46(b)</CitationSubRef> (with <CitationSubRef id="c00135" CitationRef="c00133" URI="http://www.legislation.gov.uk/id/asp/2001/2/section/66" SectionRef="section-66">s. 66</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/ssi/2001/132" id="c00136" Class="ScottishStatutoryInstrument" Year="2001" Number="132">S.S.I. 2001/132</Citation>, <CitationSubRef id="c00137" CitationRef="c00136" URI="http://www.legislation.gov.uk/id/ssi/2001/132/article/2/2" SectionRef="article-2-2">art. 2(2)</CitationSubRef>, <CitationSubRef id="c00138" CitationRef="c00136" URI="http://www.legislation.gov.uk/id/ssi/2001/132/schedule/2/part/I" Operative="true" SectionRef="schedule-2-part-I">Sch. 2 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877311" Type="C"><Para>
+				<Text>S. 6 excluded by <Citation URI="http://www.legislation.gov.uk/id/uksi/1986/1671" id="c00140" Class="UnitedKingdomStatutoryInstrument" Year="1986" Number="1671">S.I. 1986/1671</Citation>, <CitationSubRef id="c00141" CitationRef="c00140" URI="http://www.legislation.gov.uk/id/uksi/1986/1671/regulation/10" Operative="true" SectionRef="regulation-10">reg. 10</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c10877331" Type="E"><Para>
+				<Text>This version of this provision extends to England and Wales only; a separate version has been created for Scotland only</Text>
+			</Para></Commentary>
+		<Commentary id="c10877321" Type="C"><Para>
+				<Text>S. 6 excluded (21.7.1994) by <Citation URI="http://www.legislation.gov.uk/id/ukla/1994/15" id="c00143" Class="UnitedKingdomLocalAct" Year="1994" Number="15">1994 c. xv</Citation>, <CitationSubRef id="c00144" CitationRef="c00143" URI="http://www.legislation.gov.uk/id/ukla/1994/15/section/73/3" Operative="true" SectionRef="section-73-3">s. 73(3)</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6-9 applied (28.7.1998) by <Citation URI="http://www.legislation.gov.uk/id/ukla/1998/3" id="c00146" Class="UnitedKingdomLocalAct" Year="1998" Number="3">1998 c. iii</Citation>, <CitationSubRef id="c00147" CitationRef="c00146" URI="http://www.legislation.gov.uk/id/ukla/1998/3/section/1" SectionRef="section-1">s. 1</CitationSubRef>, <CitationSubRef id="c00148" CitationRef="c00146" URI="http://www.legislation.gov.uk/id/ukla/1998/3/schedule/section/54" Operative="true" SectionRef="schedule-section-54">Sch. s. 54</CitationSubRef> of Order</Text>
+			</Para><Para>
+				<Text>Ss. 6-9 restricted (E.W.) (26.10.2001 for E. and otherwise</Text>
+			</Para><Para>
+				<Text>prosp.) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/38" id="c00150" Year="2000" Class="UnitedKingdomPublicGeneralAct" Number="38">2000 c. 38</Citation>, <CitationSubRef id="c00151" CitationRef="c00150" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/129/1" UpTo="http://www.legislation.gov.uk/id/ukpga/2000/38/section/129/3" Operative="true" Type="group" StartSectionRef="section-129-1" EndSectionRef="section-129-3">ss. 129(1)-(3)</CitationSubRef>, <CitationSubRef id="c00152" CitationRef="c00150" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/275" SectionRef="section-275">275</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/3342" id="c00153" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3342">S.I. 2001/3342</Citation>, <CitationSubRef id="c00154" CitationRef="c00153" URI="http://www.legislation.gov.uk/id/uksi/2001/3342/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00155" CitationRef="c00153" URI="http://www.legislation.gov.uk/id/uksi/2001/3342/schedule" Operative="true" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para><Para>
+				<Text>Ss. 6-9: power to modify conferred (E.W.) (1.8.2001 for W. and 26.10.2001 for E.) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2000/38" id="c00157" Year="2000" Class="UnitedKingdomPublicGeneralAct" Number="38">2000 c. 38</Citation>, <CitationSubRef id="c00158" CitationRef="c00157" URI="http://www.legislation.gov.uk/id/ukpga/2000/38/section/134/2/a" Operative="true" SectionRef="section-134-2-a">s. 134(2)(a)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/2788" id="c00159" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="2788">S.I. 2001/2788</Citation>, <CitationSubRef id="c00160" CitationRef="c00159" URI="http://www.legislation.gov.uk/id/uksi/2001/2788/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00161" CitationRef="c00159" URI="http://www.legislation.gov.uk/id/uksi/2001/2788/schedule/1/paragraph/2" Operative="true" SectionRef="schedule-1-paragraph-2">Sch. 1 para. 2</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/3342" id="c00162" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3342">S.I. 2001/3342</Citation>, <CitationSubRef id="c00163" CitationRef="c00162" URI="http://www.legislation.gov.uk/id/uksi/2001/3342/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00164" CitationRef="c00162" URI="http://www.legislation.gov.uk/id/uksi/2001/3342/schedule" Operative="true" SectionRef="schedule">Sch.</CitationSubRef></Text>
+			</Para><Para>
+				<Text>S. 6 excluded (24.7.2001) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2001/3627" id="c00166" Class="UnitedKingdomStatutoryInstrument" Year="2001" Number="3627">S.I. 2001/3627</Citation>, <CitationSubRef id="c00167" CitationRef="c00166" URI="http://www.legislation.gov.uk/id/uksi/2001/3627/article/62/3" Operative="true" SectionRef="article-62-3">art. 62(3)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19469811" Type="C"><Para>
+				<Text>S. 6 excluded (13.12.2006) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/3118" id="c00169" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="3118" Title="The Luton Dunstable Translink Order 2006">The Luton Dunstable Translink Order 2006 (S.I. 2006/3118)</Citation>, <CitationSubRef id="c00170" CitationRef="c00169" URI="http://www.legislation.gov.uk/id/uksi/2006/3118/article/38/3" SectionRef="article-38-3" Operative="true">art. 38(3)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19469831" Type="F"><Para>
+				<Text>Words in s. 6(1) inserted (E.W.) (1.9.2007) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/40" id="c00172" Year="2006" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Education and Inspections Act 2006">Education and Inspections Act 2006 (c. 40)</Citation>, <CitationSubRef id="c00173" CitationRef="c00172" URI="http://www.legislation.gov.uk/id/ukpga/2006/40/section/85" SectionRef="section-85">ss. 85</CitationSubRef>, <CitationSubRef id="c00174" CitationRef="c00172" URI="http://www.legislation.gov.uk/id/ukpga/2006/40/section/188" SectionRef="section-188">188</CitationSubRef>, {Sch. 10 para. 2(2}; <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/1801" id="c00175" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="1801">S.I. 2007/1801</Citation>, <CitationSubRef id="c00176" CitationRef="c00175" URI="http://www.legislation.gov.uk/id/uksi/2007/1801/article/4/l" SectionRef="article-4-l" Operative="true">art. 4(l)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19469851" Type="F"><Para>
+				<Text>S. 6(1A)-(1C) inserted (E.W.) (1.9.2007 for specified purposes and otherwise prosp.) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2006/40" id="c00178" Year="2006" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Education and Inspections Act 2006">Education and Inspections Act 2006 (c. 40)</Citation>, <CitationSubRef id="c00179" CitationRef="c00178" URI="http://www.legislation.gov.uk/id/ukpga/2006/40/section/85" SectionRef="section-85">ss. 85</CitationSubRef>, <CitationSubRef id="c00180" CitationRef="c00178" URI="http://www.legislation.gov.uk/id/ukpga/2006/40/section/188" SectionRef="section-188">188</CitationSubRef>, <CitationSubRef id="c00181" CitationRef="c00178" URI="http://www.legislation.gov.uk/id/ukpga/2006/40/schedule/10/paragraph/2/3" SectionRef="schedule-10-paragraph-2-3" Operative="true">Sch. 10 para. 2(3)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/1801" id="c00182" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="1801">S.I. 2007/1801</Citation>, <CitationSubRef id="c00183" CitationRef="c00182" URI="http://www.legislation.gov.uk/id/uksi/2007/1801/article/4/l" SectionRef="article-4-l" Operative="true">art. 4(l)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19484461" Type="C"><Para>
+				<Text>S. 6(9): functions transferred (1.10.2007) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2007/2139" id="c00185" Class="UnitedKingdomStatutoryInstrument" Year="2007" Number="2139" Title="The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007">The Scotland Act 1998 (Cross-Border Public Authorities) (Traffic Commissioner for the Scottish Traffic Area) Order 2007 (S.I. 2007/2139)</Citation>, <CitationSubRef id="c00186" CitationRef="c00185" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c00187" CitationRef="c00185" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/schedule" SectionRef="schedule" Operative="true">Sch.</CitationSubRef> (with <CitationSubRef id="c00188" CitationRef="c00185" URI="http://www.legislation.gov.uk/id/uksi/2007/2139/article/4" SectionRef="article-4">art. 4</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c10876991" Type="C"><Para>
+				<Text><CitationSubRef id="c00562" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/part/I" SectionRef="part-I">Pt. I</CitationSubRef> (ss. 1-33) modified by <Citation URI="http://www.legislation.gov.uk/id/uksi/1984/748" id="c00563" Class="UnitedKingdomStatutoryInstrument" Year="1984" Number="748">S.I. 1984/748</Citation>, <CitationSubRef id="c00564" URI="http://www.legislation.gov.uk/id/uksi/1984/748/regulation/5/2" Operative="true" CitationRef="c00563" SectionRef="regulation-5-2">regs. 5(2)</CitationSubRef>, <CitationSubRef id="c00565" URI="http://www.legislation.gov.uk/id/uksi/1984/748/regulation/6/2" CitationRef="c00563" SectionRef="regulation-6-2">6(2)</CitationSubRef> (as amended by <Citation URI="http://www.legislation.gov.uk/id/uksi/1987/1755" id="c00566" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="1755">S.I. 1987/1755</Citation>, <CitationSubRef id="c00567" URI="http://www.legislation.gov.uk/id/uksi/1987/1755/regulation/2/2" Operative="true" CitationRef="c00566" SectionRef="regulation-2-2">reg. 2(2)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c19460331" Type="C"><Para>
+				<Text><CitationSubRef id="c00568" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/part/1" SectionRef="part-1">Pt. 1</CitationSubRef>(ss. 1-33) modified (11.1.2006) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/3523" id="c00569" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="3523" Title="The Cambridgeshire Guided Busway Order 2005">The Cambridgeshire Guided Busway Order 2005 (S.I. 2005/3523)</Citation>, <CitationSubRef id="c00570" URI="http://www.legislation.gov.uk/id/uksi/2005/3523/article/36" CitationRef="c00569" SectionRef="article-36" Operative="true">art. 36</CitationSubRef> (with <CitationSubRef id="c00571" URI="http://www.legislation.gov.uk/id/uksi/2005/3523/article/52" CitationRef="c00569" SectionRef="article-52">art. 52</CitationSubRef>)</Text>
+			</Para></Commentary>
+		<Commentary id="c19460471" Type="C"><Para>
+				<Text><CitationSubRef id="c00572" URI="http://www.legislation.gov.uk/id/ukpga/1985/67/part/1" SectionRef="part-1">Pt. 1</CitationSubRef> (ss. 1-33) modified (13.12.2006) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2006/3118" id="c00573" Class="UnitedKingdomStatutoryInstrument" Year="2006" Number="3118" Title="The Luton Dunstable Translink Order 2006">The Luton Dunstable Translink Order 2006 (S.I. 2006/3118)</Citation>, <CitationSubRef id="c00574" URI="http://www.legislation.gov.uk/id/uksi/2006/3118/article/37/3" CitationRef="c00573" SectionRef="article-37-3" Operative="true">art. 37(3)</CitationSubRef></Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>

@@ -1,0 +1,256 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9" NumberOfProvisions="25" RestrictEndDate="2004-07-22" xml:lang="en" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01</dc:identifier>
+		<dc:title>Agricultural Training Board Act 1982 (repealed)</dc:title>
+		<dc:description>An Act to consolidate the law relating to the Agricultural Training Board.</dc:description>
+		<dc:date>1982-05-01</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2015-07-07</dc:modified>
+		<dct:valid>1996-11-01</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1982/9/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1982/9/1996-11-01" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1982/9/introduction/1996-11-01" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1982/9/body/1996-11-01" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1982/9/schedules/1996-11-01" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1982/9/contents/1996-11-01" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1994-04-01" title="1994-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/2004-07-22" title="2004-07-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/enacted" title="enacted"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1991-02-01" title="1991-02-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1994-04-01" title="1994-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4/2004-07-22" title="2004-07-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1982/9/section/4" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1982/9/1996-11-01" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1982/9/section/3/1996-11-01" title="Provision; Section 3"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1982/9/section/3/1996-11-01" title="Provision; Section 3"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1982/9/section/5/1996-11-01" title="Provision; Section 5"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1982/9/section/5/1996-11-01" title="Provision; Section 5"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1982"/>
+			<ukm:Number Value="9"/>
+			<ukm:EnactmentDate Date="1982-03-29"/>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2009-07-06" URI="http://www.legislation.gov.uk/ukpga/1982/9/pdfs/ukpga_19820009_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="25"/>
+			<ukm:BodyParagraphs Value="14"/>
+			<ukm:ScheduleParagraphs Value="11"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/body/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/body" NumberOfProvisions="14" RestrictEndDate="2004-07-22">
+			<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/crossheading/functions-of-the-board/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/crossheading/functions-of-the-board" NumberOfProvisions="7" id="crossheading-functions-of-the-board" RestrictEndDate="2004-07-22">
+				<Title> Functions of the Board</Title>
+				<P1group RestrictExtent="E+W+S" RestrictStartDate="1996-11-01" RestrictEndDate="2004-07-22">
+					<Title> Functions of the Board.</Title>
+					<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4" id="section-4">
+						<Pnumber>4</Pnumber>
+						<P1para>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1" id="section-4-1">
+								<Pnumber>1</Pnumber>
+								<P2para>
+									<Text>The Board—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/a/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/a" id="section-4-1-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>shall provide or secure the provision of such courses and other facilities (which may include residential accommodation) for the training of persons employed or intending to be employed in the industry as may be required, having regard to any courses or facilities otherwise available to such persons;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/b/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/b" id="section-4-1-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>may approve such courses and facilities provided by other persons;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/bb/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/bb" id="section-4-1-bb">
+										<Pnumber><Addition ChangeId="d29p325" CommentaryRef="c754247">bb</Addition></Pnumber>
+										<P3para>
+											<Text><Addition ChangeId="d29p325" CommentaryRef="c754247">shall provide or secure the provision of such courses and other facilities (which may include residential accommodation) for the purposes mentioned in section 5A(1) below as may be required, having regard to any courses or facilities otherwise available for those purposes;</Addition></Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/c/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/c" id="section-4-1-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>shall from time to time consider such employments in the industry as appear to require consideration and publish recommendations with regard to the nature and length of the training for any such employment and the <Addition ChangeId="d29p339" CommentaryRef="c754248">post-school education</Addition> to be associated with the training, the persons by and to whom the training ought to be given, the standards to be attained as a result of the training and the methods of ascertaining whether those standards have been attained;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/d/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/d" id="section-4-1-d">
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>may apply or make arrangements for the application of selection tests and of tests or other methods for ascertaining the attainment of any standards recommended by the Board and may award certificates of the attainment of those standards;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/e/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/e" id="section-4-1-e">
+										<Pnumber>e</Pnumber>
+										<P3para>
+											<Text>may assist persons in finding facilities for being trained for employment in the industry;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/f/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/f" id="section-4-1-f">
+										<Pnumber>f</Pnumber>
+										<P3para>
+											<Text>may take part in any arrangements made in pursuance of <Addition ChangeId="d29p361" CommentaryRef="c754249">section 2 . . . <CommentaryRef Ref="c754250"/></Addition> [<CommentaryRef Ref="c754251"/>. . .] of the <CommentaryRef Ref="c754252"/>Employment and Training Act 1973 <Addition ChangeId="d29p370" CommentaryRef="c754253">or of section 2(3) of the Enterprise and New Towns (Scotland) Act 1990</Addition> (which relate to arrangements for persons to select, train for and obtain suitable employments and to obtain suitable employees) <Addition ChangeId="d29p374" CommentaryRef="c754254">and may provide services or arrange for the provision of services in pursuance of arrangements made, or a direction given, under section 10 of the </Addition><Addition ChangeId="d29p374" CommentaryRef="c754254"><CommentaryRef Ref="c754255"/>Employment and Training Act 1973 (careers services)</Addition>;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/g/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/g" id="section-4-1-g">
+										<Pnumber>g</Pnumber>
+										<P3para>
+											<Text>may carry on or assist other persons in carrying on research into any matter relating to training for employment in the industry;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/h/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/h" id="section-4-1-h">
+										<Pnumber>h</Pnumber>
+										<P3para>
+											<Text>may provide advice about training connected with the industry;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/1/i/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/i" id="section-4-1-i">
+										<Pnumber>i</Pnumber>
+										<P3para>
+											<Text>may enter into agreements with persons for the making by them of payments to the Board in respect of the exercise by the Board of any of its functions.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/2/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/2" id="section-4-2">
+								<Pnumber>2</Pnumber>
+								<P2para>
+									<Text>The Board may enter into contracts of service or apprenticeship with persons who intend to be employed in the industry and to attend courses or avail themselves of other facilities provided or approved by the Board.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/3/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/3" id="section-4-3">
+								<Pnumber>3</Pnumber>
+								<P2para>
+									<Text>The Board may, at the request of another industrial training board, provide advice for the other board and courses and other facilities for the training of persons employed or intending to be employed in the industry for which that other board is established.</Text>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/4/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/4" id="section-4-4">
+								<Pnumber>4</Pnumber>
+								<P2para>
+									<Text>The Board may—</Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/4/a/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/4/a" id="section-4-4-a">
+										<Pnumber>a</Pnumber>
+										<P3para>
+											<Text>pay maintenance and travelling allowances to persons attending courses provided or approved by the Board;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/4/b/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/4/b" id="section-4-4-b">
+										<Pnumber>b</Pnumber>
+										<P3para>
+											<Text>make grants or loans to persons providing courses or other facilities approved by the Board;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/4/c/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/4/c" id="section-4-4-c">
+										<Pnumber>c</Pnumber>
+										<P3para>
+											<Text>pay fees to persons providing <Addition ChangeId="d29p435" CommentaryRef="c754256">post-school education</Addition> in respect of persons who receive it in association with their training in courses provided or approved by the Board;</Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/4/d/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/4/d" id="section-4-4-d">
+										<Pnumber>d</Pnumber>
+										<P3para>
+											<Text>make payments to persons in connection with arrangements under which they or employees of theirs make use of courses or other facilities provided or approved by the Board.</Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+							<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/5/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/5" id="section-4-5">
+								<Pnumber><Addition ChangeId="d29p445" CommentaryRef="c754257">5</Addition></Pnumber>
+								<P2para>
+									<Text><Addition ChangeId="d29p445" CommentaryRef="c754257">In this section “</Addition><Term id="term-post-school-education"><Addition ChangeId="d29p445" CommentaryRef="c754257">post-school education</Addition></Term><Addition ChangeId="d29p445" CommentaryRef="c754257">” means—</Addition></Text>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/5/a/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/5/a" id="section-4-5-a">
+										<Pnumber><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">a</Addition></Addition></Pnumber>
+										<P3para>
+											<Text><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">in England and Wales, “</Addition></Addition><Term id="term-higher-education"><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">higher education</Addition></Addition></Term><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">” as defined by section 120(1) of the Education Reform Act 1988 or “</Addition></Addition><Term id="term-further-education"><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">further education</Addition></Addition></Term><Addition ChangeId="d29p445" CommentaryRef="c754257"><Addition ChangeId="d29p455" CommentaryRef="c754258">” as defined by section 2(3) to (5) of the Education Act 1996; and</Addition></Addition></Text>
+										</P3para>
+									</P3>
+									<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1982/9/section/4/5/b/1996-11-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/5/b" id="section-4-5-b">
+										<Pnumber><Addition ChangeId="d29p445" CommentaryRef="c754257">b</Addition></Pnumber>
+										<P3para>
+											<Text><Addition ChangeId="d29p445" CommentaryRef="c754257">in Scotland, “further education” within the meaning of the Education (Scotland) Act 1980.</Addition></Text>
+										</P3para>
+									</P3>
+								</P2para>
+							</P2>
+						</P1para>
+					</P1>
+				</P1group>
+			</Pblock>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="c754247" Type="F">
+			<Para>
+				<Text><CitationSubRef id="c00012" URI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1" SectionRef="section-4-1">S. 4(1)</CitationSubRef>(<Emphasis>bb</Emphasis>) inserted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1987/29" id="c00013" Year="1987" Class="UnitedKingdomPublicGeneralAct" Number="29" Title="Agricultural Training Board Act 1987">Agricultural Training Board Act 1987 (c. 29, SIF 2:1)</Citation>, <CitationSubRef id="c00014" URI="http://www.legislation.gov.uk/id/ukpga/1987/29/section/1/1" Operative="true" CitationRef="c00013" SectionRef="section-1-1">s. 1(1)</CitationSubRef></Text>
+			</Para>
+		</Commentary>
+		<Commentary id="c754248" Type="F"><Para>
+				<Text>Words substituted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/40" id="c00015" Year="1988" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Education Reform Act 1988">Education Reform Act 1988 (c. 40, SIF 41:1)</Citation>, <CitationSubRef id="c00016" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/231/7" CitationRef="c00015" SectionRef="section-231-7">ss. 231(7)</CitationSubRef>, <CitationSubRef id="c00017" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/235/6" CitationRef="c00015" SectionRef="section-235-6">235(6)</CitationSubRef>, <CitationSubRef id="c00018" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/237/1" CitationRef="c00015" SectionRef="section-237-1">237(1)</CitationSubRef>, <CitationSubRef id="c00019" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/schedule/12/paragraph/86/1/2" Operative="true" CitationRef="c00015" SectionRef="schedule-12-paragraph-86-1-2">Sch. 12 para. 86(1)(2)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754249" Type="F"><Para>
+				<Text>Words substituted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/19" id="c00020" Year="1988" Class="UnitedKingdomPublicGeneralAct" Number="19" Title="Employment Act 1988">Employment Act 1988 (c. 19, SIF 43:5)</Citation>, <CitationSubRef id="c00021" URI="http://www.legislation.gov.uk/id/ukpga/1988/19/section/33" CitationRef="c00020" SectionRef="section-33">s. 33</CitationSubRef>, <CitationSubRef id="c00022" URI="http://www.legislation.gov.uk/id/ukpga/1988/19/schedule/3/part/II/paragraph/13" Operative="true" CitationRef="c00020" SectionRef="schedule-3-part-II-paragraph-13">Sch. 3 Pt. II para. 13</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754250" Type="F"><Para>
+				<Text> “, 3” repealed by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1989/38" id="c00023" Year="1989" Class="UnitedKingdomPublicGeneralAct" Number="38" Title="Employment Act 1989">Employment Act 1989 (c. 38, SIF 43:1)</Citation>, <CitationSubRef id="c00024" URI="http://www.legislation.gov.uk/id/ukpga/1989/38/section/29/4/6" CitationRef="c00023" SectionRef="section-29-4-6">s. 29(4)(6)</CitationSubRef>, <CitationSubRef id="c00025" URI="http://www.legislation.gov.uk/id/ukpga/1989/38/schedule/7/part/I" CitationRef="c00023" SectionRef="schedule-7-part-I">Sch. 7 Pt. I</CitationSubRef>, <CitationSubRef id="c00026" URI="http://www.legislation.gov.uk/id/ukpga/1989/38/schedule/9/paragraph/4/1" Operative="true" CitationRef="c00023" SectionRef="schedule-9-paragraph-4-1">Sch. 9 para. 4(1)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754251" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c00027" URI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/f" SectionRef="section-4-1-f">s. 4(1)(f)</CitationSubRef> repealed (1.4.1994 (E.S.) and 1.4.1995 for all other purposes) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1993/19" id="c00028" Year="1993" Class="UnitedKingdomPublicGeneralAct" Number="19">1993 c. 19</Citation>, <CitationSubRef id="c00029" URI="http://www.legislation.gov.uk/id/ukpga/1993/19/section/51" CitationRef="c00028" SectionRef="section-51">s. 51</CitationSubRef>, <CitationSubRef id="c00030" URI="http://www.legislation.gov.uk/id/ukpga/1993/19/schedule/10" Operative="true" CitationRef="c00028" SectionRef="schedule-10">Sch. 10</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1993/2503" id="c00031" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="2503">S.I. 1993/2503</Citation>, <CitationSubRef id="c00032" URI="http://www.legislation.gov.uk/id/uksi/1993/2503/article/2/3" CitationRef="c00031" SectionRef="article-2-3">art. 2(3)</CitationSubRef>, <CitationSubRef id="c00033" URI="http://www.legislation.gov.uk/id/uksi/1993/2503/schedule/3" Operative="true" CitationRef="c00031" SectionRef="schedule-3">Sch. 3</CitationSubRef> Table.</Text>
+			</Para></Commentary>
+		<Commentary id="c754252" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1973/50" id="c00034" Year="1973" Class="UnitedKingdomPublicGeneralAct" Number="50">1973 c. 50</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c754253" Type="F"><Para>
+				<Text>Words inserted (1.4.1991) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1990/35" id="c00035" Year="1990" Class="UnitedKingdomPublicGeneralAct" Number="35" Title="Enterprise and New Towns (Scotland) Act 1990">Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)</Citation>, <CitationSubRef id="c00036" URI="http://www.legislation.gov.uk/id/ukpga/1990/35/section/38/1" CitationRef="c00035" SectionRef="section-38-1">s. 38(1)</CitationSubRef>, <CitationSubRef id="c00037" URI="http://www.legislation.gov.uk/id/ukpga/1990/35/schedule/4/paragraph/10" Operative="true" CitationRef="c00035" SectionRef="schedule-4-paragraph-10">Sch. 4 para. 10</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754254" Type="F"><Para>
+				<Text>Words in <CitationSubRef id="c00038" URI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/1/f" SectionRef="section-4-1-f">s. 4(1)(f)</CitationSubRef> inserted (1.4.1994 (E.S.) and 1.4.1995 for all other purposes) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1993/19" id="c00039" Year="1993" Class="UnitedKingdomPublicGeneralAct" Number="19">1993 c. 19</Citation>, <CitationSubRef id="c00040" URI="http://www.legislation.gov.uk/id/ukpga/1993/19/section/49/2" CitationRef="c00039" SectionRef="section-49-2">s. 49(2)</CitationSubRef>, <CitationSubRef id="c00041" URI="http://www.legislation.gov.uk/id/ukpga/1993/19/schedule/8/paragraph/33" Operative="true" CitationRef="c00039" SectionRef="schedule-8-paragraph-33">Sch. 8 para. 33</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/1993/2503" id="c00042" Class="UnitedKingdomStatutoryInstrument" Year="1993" Number="2503">S.I. 1993/2503</Citation>, <CitationSubRef id="c00043" URI="http://www.legislation.gov.uk/id/uksi/1993/2503/article/2/3" CitationRef="c00042" SectionRef="article-2-3">art. 2(3)</CitationSubRef>, <CitationSubRef id="c00044" URI="http://www.legislation.gov.uk/id/uksi/1993/2503/schedule/3" Operative="true" CitationRef="c00042" SectionRef="schedule-3">Sch. 3</CitationSubRef>.</Text>
+			</Para></Commentary>
+		<Commentary id="c754255" Type="M"><Para>
+				<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1973/50" id="c00045" Year="1973" Class="UnitedKingdomPublicGeneralAct" Number="50">1973 c. 50</Citation>. </Text>
+			</Para></Commentary>
+		<Commentary id="c754256" Type="F"><Para>
+				<Text>Words substituted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/40" id="c00046" Year="1988" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Education Reform Act 1988">Education Reform Act 1988 (c. 40, SIF 41:1)</Citation>, <CitationSubRef id="c00047" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/231/7" CitationRef="c00046" SectionRef="section-231-7">ss. 231(7)</CitationSubRef>, <CitationSubRef id="c00048" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/235/6" CitationRef="c00046" SectionRef="section-235-6">235(6)</CitationSubRef>, <CitationSubRef id="c00049" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/237/1" CitationRef="c00046" SectionRef="section-237-1">237(1)</CitationSubRef>, <CitationSubRef id="c00050" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/schedule/12/paragraph/86/1/2" Operative="true" CitationRef="c00046" SectionRef="schedule-12-paragraph-86-1-2">Sch. 12 para. 86(1)(2)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754257" Type="F"><Para>
+				<Text><CitationSubRef id="c00051" URI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/5" SectionRef="section-4-5">S. 4(5)</CitationSubRef> inserted by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/40" id="c00052" Year="1988" Class="UnitedKingdomPublicGeneralAct" Number="40" Title="Education Reform Act 1988">Education Reform Act 1988 (c. 40, SIF 41:1)</Citation>, <CitationSubRef id="c00053" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/231/7" CitationRef="c00052" SectionRef="section-231-7">ss. 231(7)</CitationSubRef>, <CitationSubRef id="c00054" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/235/6" CitationRef="c00052" SectionRef="section-235-6">235(6)</CitationSubRef>, <CitationSubRef id="c00055" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/section/237/1" CitationRef="c00052" SectionRef="section-237-1">237(1)</CitationSubRef>, <CitationSubRef id="c00056" URI="http://www.legislation.gov.uk/id/ukpga/1988/40/schedule/12/paragraph/86/1/3" Operative="true" CitationRef="c00052" SectionRef="schedule-12-paragraph-86-1-3">Sch. 12 para. 86(1)(3)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="c754258" Type="F"><Para>
+				<Text><CitationSubRef id="c00057" URI="http://www.legislation.gov.uk/id/ukpga/1982/9/section/4/5/a" SectionRef="section-4-5-a">S. 4(5)(a)</CitationSubRef> substituted (1.11.1996) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/1996/56" id="c00058" Year="1996" Class="UnitedKingdomPublicGeneralAct" Number="56">1996 c. 56</Citation>, <CitationSubRef id="c00059" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/section/582/1" CitationRef="c00058" SectionRef="section-582-1">ss. 582(1)</CitationSubRef>, <CitationSubRef id="c00060" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/section/583/1" CitationRef="c00058" SectionRef="section-583-1">583(1)</CitationSubRef>, <CitationSubRef id="c00061" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/schedule/37/part/I/paragraph/53" Operative="true" CitationRef="c00058" SectionRef="schedule-37-part-I-paragraph-53">Sch. 37 Pt. I para. 53</CitationSubRef> (with <CitationSubRef id="c00062" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/section/1/4" CitationRef="c00058" SectionRef="section-1-4">ss. 1(4)</CitationSubRef>, <CitationSubRef id="c00063" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/section/561" CitationRef="c00058" SectionRef="section-561">561</CitationSubRef>, <CitationSubRef id="c00064" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/section/562" CitationRef="c00058" SectionRef="section-562">562</CitationSubRef>, <CitationSubRef id="c00065" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/schedule/39/paragraph/30" CitationRef="c00058" SectionRef="schedule-39-paragraph-30">Sch. 39 paras. 30</CitationSubRef>, <CitationSubRef id="c00066" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/schedule/39/paragraph/36" CitationRef="c00058" SectionRef="schedule-39-paragraph-36">36</CitationSubRef>, <CitationSubRef id="c00067" URI="http://www.legislation.gov.uk/id/ukpga/1996/56/schedule/39/paragraph/39" CitationRef="c00058" SectionRef="schedule-39-paragraph-39">39</CitationSubRef>)</Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>
