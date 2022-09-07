@@ -9,9 +9,8 @@
 
   <xs:annotation>
     <xs:documentation xml:lang="en">
-      This file has been created from the standard dc terms file (copy supp;ied as "dcterms - UnusedOriginalCopy.xsd")
-      DCterms XML Schema
-      For full accreditation see "dcterms - UnusedOriginalCopy.xsd"
+      This file has been created from the standard 'DCterms XML Schema' file. 
+      For full accreditation of that file, refer to https://www.dublincore.org/schemas/xmls/qdc/dcterms.xsd
 
       We have restricted this schema to contain only the elements/types used in this schema
       because XMetaL (used for editing) errors when processing this schema (or its imported dcmitype.xsd)
