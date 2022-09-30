@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation" targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:math="http://www.w3.org/1998/Math/MathML" elementFormDefault="qualified" attributeFormDefault="unqualified"
 	version="2.0" id="SchemaChanges">
 	
 	<xsd:annotation>
@@ -22,6 +22,7 @@
 			<xsd:documentation>
 				Modification information
 				Version		Name				Modification
+				2.5			William Jonadoss	MathML wrapping inside revision elements - Addition, Repeal, Substitution
 				2.4			Karl Rajangam		Annotation updated for Addition, Repeal, Substitution, ChangeType and their attributes
 				2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 				1.2			Jim Mangiafico		Expanded to accommodate European Union
@@ -29,6 +30,9 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
+
+	<xsd:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2/mathml2.xsd"/>
+
 	<xsd:element name="Addition" type="ChangeType">
 		<xsd:annotation>
 			<xsd:documentation>Indicates an addition to the text. This is usually displayed within square brackets indicating the beginning and end of the addition.</xsd:documentation>
@@ -76,6 +80,7 @@
 			<xsd:element ref="Abbreviation"/>
 			<xsd:element ref="Citation"/>
 			<xsd:element ref="Span"/>
+			<xsd:element ref="math:math"/>
 		</xsd:choice>
 		<xsd:attributeGroup ref="CommonAttributes"/>
 		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required">

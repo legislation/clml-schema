@@ -23,6 +23,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.1			William Jonadoss	MathML wrapping inside revision elements - Addition, Repeal, Substitution
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.1			Paul Appleyb		Changed equationNumber to BasicStringStructure
 			1.0			Paul Appleby		Created
@@ -43,7 +44,14 @@
 						<xsd:documentation>The equation number (the need for this is very rare)</xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
-				<xsd:element ref="math:math"/>
+
+				<xsd:choice>
+					<xsd:element ref="Substitution"/>
+					<xsd:element ref="Addition"/>
+					<xsd:element ref="Repeal"/>
+					<xsd:element ref="math:math"/>
+				</xsd:choice>
+
 				<xsd:element ref="Where" minOccurs="0"/>
 			</xsd:sequence>
 			<xsd:attributeGroup ref="CommonSubAttributes"/>
