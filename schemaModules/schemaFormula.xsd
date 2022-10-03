@@ -45,7 +45,7 @@
 					</xsd:annotation>
 				</xsd:element>
 
-				<xsd:choice>
+				<xsd:choice minOccurs="1" maxOccurs="unbounded">
 					<xsd:element ref="Substitution"/>
 					<xsd:element ref="Addition"/>
 					<xsd:element ref="Repeal"/>
