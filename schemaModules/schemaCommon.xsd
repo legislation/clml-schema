@@ -109,7 +109,6 @@
 			The following are deprecated everywhere except in historical publications data
 			<xsd:enumeration value="NorthernIrelandStatutoryRuleLocal"/>
 			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
-			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="WelshStatutoryInstrumentLocal"/>  -->
 		</xsd:restriction>
 	</xsd:simpleType>
@@ -126,7 +125,6 @@
 			<xsd:enumeration value="EuropeanEconomicCommunity"/>
 			<xsd:enumeration value="EuropeanCommission"/>
 			<xsd:enumeration value="NorthernIrelandStatutoryRuleLocal"/>
-			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="ScottishStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="WelshStatutoryInstrumentLocal"/>
 			<xsd:enumeration value="UnitedKingdomStatutoryInstrumentLocal"/>
