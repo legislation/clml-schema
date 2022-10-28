@@ -39,6 +39,13 @@ Features and Fixes (TBC):
 ## Release Notes
 =======
 
+### Version 2.5
+Release date: 31 Oct 2022
+Features and Fixes:
+* LEGDEV-3403 Extend the schema to add in reference to the new Welsh attributes 
+* LEGDEV-4101 Remove duplicate 'ScottishDraftStatutoryInstrument' entry
+
+
 ### Version 2.4
 Release date: TBD
 Features and Fixes (TBC):
