@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.1" id="schemaLegislationMetadata">
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.5" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -14,7 +14,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2021-11-15</dcq:modified>
+				<dcq:modified>2022-08-12</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -24,6 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.5		Karl Rajangam		Added attributes WelshApplied and RequiresWelshApplied, and annotations for attributes Applied, RequiresApplied and element InForce
 			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
 			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion, ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
 			2.3		Colin Mackenzie	 As part of #172192631 changed DocumentCategory/@Value to reuse a common type
@@ -1012,7 +1013,12 @@
 		</xsd:attribute>
 		<xsd:attribute name="RequiresApplied" type="xsd:boolean">
 			<xsd:annotation>
-				<xsd:documentation>Indicates whether the legislation.gov.uk team will apply the amendment. For example, if the affecting provision is repealed or superseded before it comes into force, the effect never comes into force and so does not need to be applied</xsd:documentation>
+				<xsd:documentation>Indicates whether or not the effect will be applied. For example, if the affecting provision is repealed or superseded before it comes into force, the effect will never come into force and so does not need to be applied. Where the affected item of legislation is a dual-language item (in English and Welsh), indicates whether or not the effect will be applied to the English text</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="RequiresWelshApplied" type="xsd:boolean" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>Indicates, for effects on dual-language legislation (in English and Welsh), whether or not the effect will be applied to the Welsh text. For example, if the effect only amends the English text, the effect does not need to be applied to the Welsh text</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
 		<!-- changed from ExtentType as data also contins "Same as affected" -->
@@ -1213,13 +1219,28 @@
 	</xsd:element>
 
 	<xsd:element name="InForce">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>Represents an amendment.</h:p>
+				<h:p>An effect has one amendment for each time its affecting provision (or more rarely, the effect itself) comes into force in full, in part or for specified extents or purposes. Each amendment for an effect is normally applied by an editor separately, although if two or more amendments apply on the same date an editor may combine them into a single application and mark them all as applied. If the affecting provision or effect is prospective (that is, it is not in force and no provision of legislation is set to bring it into force), then the effect will either have an amendment with Prospective="true" or no amendments at all.</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence minOccurs="0">
 				<xsd:element name="CommencingProvisions" type="ProvisionsStructure" minOccurs="0" maxOccurs="1"/>
 				<xsd:element name="CommencingSavings" type="ProvisionsStructure" minOccurs="0" maxOccurs="1"/>
 			</xsd:sequence>
 			<xsd:attribute name="AffectingClass" type="leg:DocumentMainType"/>
-			<xsd:attribute name="Applied" type="xsd:boolean"/>
+			<xsd:attribute name="Applied" type="xsd:boolean">
+				<xsd:annotation>
+					<xsd:documentation>Indicates if the amendment has been applied to the text of the affected provision(s). Where the affected item of legislation is a dual-language item (in English and Welsh), indicates if the amendment has been applied to the English text</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
+			<xsd:attribute name="WelshApplied" type="xsd:boolean" use="optional">
+				<xsd:annotation>
+					<xsd:documentation>Indicates, for amendments to dual-language legislation (in English and Welsh), whether the amendment has been applied to the Welsh text</xsd:documentation>
+				</xsd:annotation>
+			</xsd:attribute>
 			<xsd:attribute name="AppendedCommentary" type="xsd:string"/>
 			<xsd:attribute name="CommencingClass" type="leg:DocumentMainType"/>
 			<xsd:attribute name="CommencingNumber" type="xsd:string"/>
