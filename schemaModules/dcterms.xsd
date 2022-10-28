@@ -5,7 +5,7 @@
            targetNamespace="http://purl.org/dc/terms/"
            xmlns="http://purl.org/dc/terms/"
            elementFormDefault="qualified"
-           attributeFormDefault="unqualified">
+           attributeFormDefault="unqualified" version="2.0">
 
   <xs:annotation>
     <xs:documentation xml:lang="en">

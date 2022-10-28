@@ -18,11 +18,12 @@
 				<dcq:created>2018-11-05</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2020-05-05</dcq:modified>
+				<dcq:modified>2020-09-19</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				   Modification            
+			Version	Name				   Modification
+			2.4		Karl Rajangam		Removed duplicate ScottishStatutoryInstrumentLocal entries
 			2.4		William Jonadoss	   Added new legislation types: UKPPA, GBPPA, GBLA
 			2.3		Colin Mackenzie		Created reusable types for #172192631
 			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions 
