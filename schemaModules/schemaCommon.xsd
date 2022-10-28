@@ -2,7 +2,7 @@
 <xsd:schema targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.4" id="SchemaCommon">
+	attributeFormDefault="unqualified" version="2.5" id="SchemaCommon">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -23,7 +23,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				   Modification
-			2.4		Karl Rajangam		Removed duplicate ScottishStatutoryInstrumentLocal entries
+			2.5		Karl Rajangam		Removed duplicate ScottishStatutoryInstrumentLocal entries
 			2.4		William Jonadoss	   Added new legislation types: UKPPA, GBPPA, GBLA
 			2.3		Colin Mackenzie		Created reusable types for #172192631
 			2.3		Colin Mackenzie		Updated definition of MinorType to include EU minor document type definitions 
