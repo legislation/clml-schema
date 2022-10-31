@@ -21,7 +21,7 @@
 				<dcq:created>2011-05-06</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2021-07-29</dcq:modified>
+				<dcq:modified>2022-10-28</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -31,6 +31,7 @@
 			<xsd:documentation>
 			Modification information (for version number strategy see ../README.md)
 			Version	Name				Modification
+			2.5		Karl Rajangam		Incremented version number for release 2.5 (see README for release notes)
 			2.4		Karl Rajangam		Main description updated, annotation added for many elements and attributes.
 										Removed RefsLinkType, moved it to schemaLegislationCommonAttributes.xsd file
 			2.3		Colin Mackenzie		Incremented top level schema number for new release
