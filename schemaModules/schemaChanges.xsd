@@ -17,7 +17,7 @@
 				<dcq:created>2009-07-08</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2022-12-02</dcq:modified>
+				<dcq:modified>2021-08-06</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 				Modification information
@@ -30,7 +30,6 @@
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
-
 	<xsd:import namespace="http://www.w3.org/1998/Math/MathML" schemaLocation="mathml2/mathml2.xsd"/>
 
 	<xsd:element name="Addition" type="ChangeType">
@@ -80,7 +79,7 @@
 			<xsd:element ref="Abbreviation"/>
 			<xsd:element ref="Citation"/>
 			<xsd:element ref="Span"/>
-			<xsd:element ref="math:math"/>
+		<xsd:element ref="math:math"/>
 		</xsd:choice>
 		<xsd:attributeGroup ref="CommonAttributes"/>
 		<xsd:attribute name="ChangeId" type="xsd:NCName" use="required">
