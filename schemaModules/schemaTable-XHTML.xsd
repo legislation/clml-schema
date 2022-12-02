@@ -4,7 +4,7 @@
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:fo="http://www.w3.org/1999/XSL/Format"
 	xmlns:h="http://www.w3.org/1999/xhtml"
 	targetNamespace="http://www.w3.org/1999/xhtml" elementFormDefault="qualified" attributeFormDefault="unqualified"
-	version="2.0" id="SchemaTable">
+	version="2.1" id="SchemaTable">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -24,7 +24,8 @@
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name					Modification
+			Version		Name				Modification
+			2.1			Karl Rajangam		Changes related to XMetaL 16 issue of checking out tables
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.4			William Holmes		Allow width attribute to be just an integer
 			1.3			Paul Appleby		Allowed for multiple tbody elements to better comply with accessibility guidelines
@@ -236,35 +237,7 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:choice>
-				<xsd:element name="tr" maxOccurs="unbounded">
-					<xsd:annotation>
-						<xsd:documentation>A table row in tfoot. This has been locally declared to allow footnotes</xsd:documentation>
-					</xsd:annotation>
-					<xsd:complexType>
-						<xsd:choice maxOccurs="unbounded">
-							<xsd:element name="td">
-								<xsd:complexType mixed="true">
-									<xsd:choice minOccurs="0" maxOccurs="unbounded">
-										<xsd:group ref="ukl:TableFootnoteCell"/>
-									</xsd:choice>
-									<xsd:attributeGroup ref="TableCellAttributes"/>
-									<xsd:attributeGroup ref="fo:TableBackgroundColorAttributes"/>
-									<xsd:attributeGroup ref="TableID"/>
-									<xsd:attributeGroup ref="TableXMLattributes"/>
-									<xsd:attributeGroup ref="fo:TableBorderLeftAttributes"/>
-									<xsd:attributeGroup ref="fo:TableBorderAttributes"/>
-									<xsd:attributeGroup ref="fo:TableBorderTopAttributes"/>
-								</xsd:complexType>
-							</xsd:element>
-						</xsd:choice>
-						<xsd:attributeGroup ref="TableID"/>
-						<xsd:attributeGroup ref="TableXMLattributes"/>
-						<xsd:attributeGroup ref="fo:TableBackgroundColorAttributes"/>
-						<xsd:attributeGroup ref="fo:TableBorderLeftAttributes"/>
-						<xsd:attributeGroup ref="fo:TableBorderAttributes"/>
-						<xsd:attributeGroup ref="fo:TableBorderTopAttributes"/>
-					</xsd:complexType>
-				</xsd:element>
+				<xsd:element ref="tr" maxOccurs="unbounded"/>
 			</xsd:choice>
 			<xsd:attributeGroup ref="TableAlignmentAttributes"/>
 			<xsd:attributeGroup ref="TableID"/>

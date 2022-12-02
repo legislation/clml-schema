@@ -3,7 +3,7 @@
 	xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xhtml="http://www.w3.org/1999/xhtml" 
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.0">
+	attributeFormDefault="unqualified" version="2.5">
 
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -24,6 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version		Name				Modification
+			2.5			Karl Rajangam		Changes related to XMetaL 16 issue of checking out tables
 			2.4			Karl Rajangam		Annotation added for attributes MatchExtentEntries and MatchTextEntries
 			2.0			Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
 			1.0			Colin Mackenzie		Created
@@ -121,6 +122,7 @@
 			<xsd:element ref="P3group"/>
 			<xsd:element ref="xhtml:table"/>
 			<xsd:element ref="Division"/>
+			<xsd:element ref="Footnote"/>
 		</xsd:choice>
 	</xsd:group>
 
