@@ -2,7 +2,7 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" 
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation" 
 	xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation"
-	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" version="2.2">
+	xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" version="2.3">
 	
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">

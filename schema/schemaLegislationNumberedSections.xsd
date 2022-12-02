@@ -2,7 +2,7 @@
 <xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/legislation"
 	targetNamespace="http://www.legislation.gov.uk/namespaces/legislation"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
-	attributeFormDefault="unqualified" version="2.2" id="SchemaNumberedSections"
+	attributeFormDefault="unqualified" version="2.4" id="SchemaNumberedSections"
 	xmlns:err="http://www.tso.co.uk/assets/namespace/error">
 
 	<xsd:annotation>
