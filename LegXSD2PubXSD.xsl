@@ -19,16 +19,20 @@
         From schema v2.2 onward we will no longer be maintaining schemaLegislationBase-v1-0.xsd as a separate file 
         and so the script has been changed to generate it from legislation.xsd
         This is controlled by $gvGenerateBase
+        
+        Mark Rainbird: Change 24/01/2023
+        Change param gvDropAtom value back to true as switch in commit 9b86920 breaks XMetal 5 when attempting to load corrections XML
     -->
     
-    <xsl:param name="gpInputPath" select="'file:/C:/Users/colin/unified-master-schema'" as="xs:string"/>
-    <xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
-    <xsl:param name="gpConvertToTsoNS" select="'true'" as="xs:string"/>
-    <xsl:param name="gpDropAtom" select="'false'" as="xs:string"/>
+	<xsl:param name="gpInputPath" select="'file:/C:/Development/TNA/tna.legislation.schema.clml'" as="xs:string"/>
+	<xsl:param name="gpOutputPath" select="concat($gpInputPath,'/../newMergedSchemaPubNS-Auto')" as="xs:string"/>
+	<xsl:param name="gpConvertToTsoNS" select="'true'" as="xs:string"/>
+    <xsl:param name="gpDropAtom" select="'true'" as="xs:string"/>
     <xsl:param name="gpGenerateBase" select="'true'" as="xs:string"/>
     
     <xsl:variable name="gvConvertToTsoNS" select="$gpConvertToTsoNS='true'" as="xs:boolean"/>
-    <xsl:variable name="gvDropAtom" select="$gpDropAtom='true'" as="xs:boolean"/>
+	<!-- MR 20230124: change this value back to true as switch in commit 9b86920 breaks XMetal 5 when attempting to load corrections XML -->
+	<xsl:variable name="gvDropAtom" select="$gpDropAtom='true'" as="xs:boolean"/>
     <xsl:variable name="gvGenerateBase" select="$gpGenerateBase='true'" as="xs:boolean"/>
     
     <xsl:template match="/">
