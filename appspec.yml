@@ -3,6 +3,6 @@ os: linux
 file_exists_behavior: OVERWRITE
 files:
   - source: schema/
-    destination: /var/www/htdocs/schema/
+    destination: /var/www/htdocs/
   - source: schemaModules/
-    destination: /var/www/htdocs/schemaModules/
+    destination: /var/www/htdocs/
