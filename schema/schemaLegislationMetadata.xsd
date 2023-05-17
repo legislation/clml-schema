@@ -24,6 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
+			2.6		William Jonadoss	Added Print attribute
 			2.5		Karl Rajangam		Added attributes WelshApplied and RequiresWelshApplied, and annotations for attributes Applied, RequiresApplied and element InForce
 			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
 			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion, ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
@@ -525,6 +526,11 @@
 		<xsd:attribute name="Revised" type="xsd:date" use="optional">
 			<xsd:annotation>
 				<xsd:documentation>This indicates the date of the latest revisions incorporated within the linked document</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
+		<xsd:attribute name="Print" type="xsd:boolean" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>This indicates whether this is a print or non-print PDF</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
 	</xsd:complexType>
