@@ -1,140 +1,90 @@
 
-# Legislation Schema
-The schemas provided are intended to describe UK Legislation.
-Crown copyright 2018, 2019, 2020, 2021
+# Legislation schema
 
-<!-- old 2.3
+The schemas are intended to describe UK Legislation.
 
-### Version 2.3
+Crown copyright 2018-2023
 
-Release date: TBD
-Features and Fixes (TBC):
 
-* Feature #172192629 New "Sequence" element (a named category list) for legislation with Steps, Classes, Cases, Grounds etc. with Item children and ItemPara descendant.
+## Release notes
 
-* Feature #172146599 New top-level schema for amendment (Effects) data legislationEffects.xsd
+### Version 2.6
 
-* Change #172192332 Tighten validation on AltDates and ValidDates in FragmentAttributes group
+Release date: 2023-06-02
 
-* Change #172317475 FootnoteRef in Pnumber removed as unused and unnecessary
-
-* Change #172192631 Removed most of the inline complexType for BlockAmendment and BlockExtract and changed it to extend the new CommonBlockAmendmentExtractGroup and CommonBlockAmendmentExtractAttributeGroup. Also create reusable enumerated lists for category 
-
-* Change #172576876 Removed some effects attributes (AffectingCommencementSections, AffectingExtentSections, AffectedExtentSections, NewRandomSeq) as data is not required or is duplicate
-
-* Change #172251211 Add FootnoteRef to ChangeType (FootnoteRef now allowed in elements Addition, Repeal, Substitution)
-
-* Change #172208478 Remove CommentaryRef from all structures apart from Pnumber and inline text models, add to Acronym and Abbreviation
-
-* Change #172236365 removed from P2, P3, P3group, P4, P5, P6, P7, Tabular and PsubBlock as fragement attributes should not appear here
-
--->
-
-<!-- removed from old 2.2 
-
-* Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
-
--->
-
-## Release Notes
-=======
+* LEGDEV-5195: added new schema publicationLog.xsd, for the update feed (https://www.legislation.gov.uk/update/data.feed)
+* LEGDEV-5195: Added "Print" attribute which specified if PDFs are print or non-print
 
 ### Version 2.5
-Release date: 08 Dec 2022
-Features and Fixes:
+
+Release date: 2022-12-02
+
 * LEGDEV-3403 Extend the schema to add in reference to the new Welsh attributes (WelshApplied and WelshRequiresApplied)
 * LEGDEV-4101 Remove duplicate 'ScottishStatutoryInstrumentLocal' entry
 * LEGDEV-3885 Add support for changes wrapping MathML in Formula elements
 * LEGDEV-2369 Fixed issue with checkout of tables in XMetaL 16
 
-
 ### Version 2.4
-Release date: TBD
-Features and Fixes (TBC):
+
+Release date: 2022-08-10
 
 * Mainly a schema documentation work, adding & updating annotations for various elements, attributes and general description, in different files.
-
 * LEGDEV-1125 - Part of this, removed duplicated RefsLinkType from schemaCommonNonEdit.xsd & fragment.xsd files. And moved RefsLinkType into SchemaLegsilationCommonAttributes.xsd file.
 
 
 ### Version 2.3
-Release date: TBD
-Features and Fixes (TBC):
+
+Release date: 2020-12-14
 
 * Issue 171209490 - new attribute values supported for EU Minor document classification in BlockAmendment (with refactoring and re-use of MinorType)
-
 * Issue 172129366 - Added CommonSubAttributes to Division 
 
 
 ### Version 2.2
-Release date: TBD
-Features and Fixes (TBC):
+
+Release date: 2020-12-13
 
 * New schema version numbering scheme introduced (see below)
-
 * New schema release documentation (this file and generated documentation)
-
 * New and updated schema documentation in all files (as text or html elements within xsd:documentation)
-
 * Issue 171209490 - Minor document classification in BlockAmendment refactored for re-use of MinorType (in preparation for EU values to be added in v2.3)
-
 * Issue 171488633 - the legislation.xsd schema can now be used for validation with MSXML4 or .Net validators (changes to atom.xsd and xml.xsd)
-
 * Issue 161958070 - changed the model for the attributes on ukm:Correction to have stricter validation rules
-
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
-
 * The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
-
 * Change #172451773 Deleted top-level schema schemaLegislationBase-v1-0.xsd as it is not used any more. The XSLT LegXSD2PubXSD.xsl has been modified to create a TSO namespace version (from legislation.xsd) to deploy to legacy systems.
-
 * Change #172575932 Remove top level schema definition of DocumentMainType (no longer required) and move to schemaCommon.xsd
 
 ### Version 2.1
-Release date: 05/05/20
-Features and Fixes:
-=======
+
+Release date: 2020-05-05
+
 * Issue 171654037 - Effect ukm:InForce Qualification attribute now validates against a set of approved string values (including empty string for historical reasons)
-
 * Issue 171578804 - renamed TSOMetadata to LegislationMetadata
-
 * Issue 171841757 - changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
-
 * Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
-
 * The master copy of XMetaL configuration files are not the ones in the schema folder so we no longer store XMetaL files in the schema folder. The updated RLD file is for now placed in the XMetaL folder. 
 
 
-### Version 2.1
-Release date: 05/05/20
-Features and Fixes:
+## Schema documentation
 
-* Issue 171841757 - changes for ASC project (changed DocumentMainTypeBasic to add "WelshParliamentAct" and added "WelshParliament" to Laid values) as a result of http://www.legislation.gov.uk/anaw/2020/1/enacted#section-3
+A package of schema documentation is be delivered with every release.
 
-* Issue 171599021 - removed default values for FragmentAttributes and ContentsAttributes
+The documentation is delivered as a hyperlinked HTML application comprising an integrated reference guide and user guide.
 
-## Schema Documentation
-
-A package of schema documentation will be delivered with every release.
-
-The documentation will be delivered as a hyperlinked HTML application comprising an integrated reference guide and user guide.
-This will be delivered online but a zipped version will be stored in the schemaDoc folder until this is available.
+This is delivered online but a zipped version will be stored in the schemaDoc folder until this is available.
 
 The source files for the documentation are the schema files themselves plus the XML, XHTML and images in the schemaDoc/CLMLFiles folder.
-
-
 
 ## Top-level schemas
 
 The following schema (from the "schema" folder") are "top-level" schema that should be used to validate various types of legislative documents.
 
-* legislation.xsd - used to validate primary and secondary UK legislation data sets including those available from legislation.gov.uk and from the bulk downloads site http://leggovuk.s3-website-eu-west-1.amazonaws.com
-
-* en.xsd - used to validate explanatory notes and explanatory memoranda.
-
-* impactAssessment.xsd - used to validate UK Impact Assessments.
-
-* fragment.xsd - used to validate subsets of primary and secondary UK legislation data files during the editing process.
+* legislation.xsd - schema for Primary and Secondary UK Legislation data sets including those available from legislation.gov.uk and from the bulk downloads site http://leggovuk.s3-website-eu-west-1.amazonaws.com
+* en.xsd - schema for Explanatory Notes and Explanatory Memoranda.
+* impactAssessment.xsd - schema for UK Impact Assessments.
+* fragment.xsd - schema for subsets of Primary and Secondary UK Legislation data files during the editing process.
+* publicationLog.xsd - schema for the Legislation.gov.uk update feed (https://www.legislation.gov.uk/update/data.feed)
 
 ## Schema versioning and documentation of change
 
