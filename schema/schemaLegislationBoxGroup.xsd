@@ -46,21 +46,31 @@
 			<xsd:attribute name="Orientation" use="required">
 				<xsd:annotation>
 					<xsd:documentation xmlns:h="http://www.w3.org/1999/xhtml">
-						<h:p>Specifies the orientation of the accolade. The following table is a list of possible values:</h:p>
-						<h:ul>
-							<h:li>leftToRight - Group item 1 on the left, group item 2 on the right, accolade should be output as normal</h:li>
-							<h:li>topToBottom - Group item 1 on the top, group item 2 on the bottom, accolade should be rotated 90 degrees right</h:li>
-							<h:li>bottomToTop - Group item 1 on the bottom, group item 2 on the top, accolade should be rotated 90 degrees left</h:li>
-							<h:li>rightToLeft - Group item 1 on the right, group item 2 on the left, accolade should be flipped from right to left</h:li>
-						</h:ul>
+						<h:p>Specifies the orientation of the accolade</h:p>
 					</xsd:documentation>
 				</xsd:annotation>
 				<xsd:simpleType>
 					<xsd:restriction base="xsd:string">
-						<xsd:enumeration value="leftToRight"/>
-						<xsd:enumeration value="topToBottom"/>
-						<xsd:enumeration value="bottomToTop"/>
-						<xsd:enumeration value="rightToLeft"/>
+						<xsd:enumeration value="leftToRight">
+							<xsd:annotation>
+								<xsd:documentation>Group item 1 on the left, group item 2 on the right, accolade should be output as normal</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="topToBottom">
+							<xsd:annotation>
+								<xsd:documentation>Group item 1 on the top, group item 2 on the bottom, accolade should be rotated 90 degrees right</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="bottomToTop">
+							<xsd:annotation>
+								<xsd:documentation>Group item 1 on the bottom, group item 2 on the top, accolade should be rotated 90 degrees left</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
+						<xsd:enumeration value="rightToLeft">
+							<xsd:annotation>
+								<xsd:documentation>Group item 1 on the right, group item 2 on the left, accolade should be flipped from right to left</xsd:documentation>
+							</xsd:annotation>
+						</xsd:enumeration>
 					</xsd:restriction>
 				</xsd:simpleType>
 			</xsd:attribute>

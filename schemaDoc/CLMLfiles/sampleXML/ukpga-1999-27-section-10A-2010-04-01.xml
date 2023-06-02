@@ -1,0 +1,197 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27" NumberOfProvisions="80" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0" RestrictExtent="E+W+S+N.I." RestrictStartDate="2010-04-01" RestrictEndDate="2012-01-15">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01</dc:identifier>
+		<dc:title>Local Government Act 1999</dc:title>
+		<dc:description>An Act to make provision imposing on local and certain other authorities requirements relating to economy, efficiency and effectiveness; and to make provision for the regulation of council tax and precepts.</dc:description>
+		<dc:date>1999-08-06</dc:date>
+		<dc:type>text</dc:type>
+		<dc:format>text/xml</dc:format>
+		<dc:language>en</dc:language>
+		<dc:publisher>Statute Law Database</dc:publisher>
+		<dc:modified>2022-01-14</dc:modified>
+		<dc:contributor>Expert Participation</dc:contributor>
+		<dct:valid>2010-04-01</dct:valid>
+
+		<atom:link rel="self" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/ukpga/1999/27/resources" title="More Resources"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes" href="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/notes" title="Explanatory Notes"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/notes/toc" href="http://www.legislation.gov.uk/ukpga/1999/27/notes/contents" title="Explanatory Notes Table of Contents"/>
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/ukpga/1999/27/2010-04-01" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/ukpga/1999/27/introduction/2010-04-01" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/ukpga/1999/27/body/2010-04-01" title="body"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/schedules" href="http://www.legislation.gov.uk/ukpga/1999/27/schedules/2010-04-01" title="schedules"/>
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="text/html" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.htm" title="Website (XHTML) Default View"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/ukpga/1999/27/contents/2010-04-01" title="Table of Contents"/>
+
+		<atom:link rel="http://purl.org/dc/terms/replaces" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2008-04-01" title="2008-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/isReplacedBy" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2012-11-22" title="2012-11-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2005-04-01" title="2005-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2008-04-01" title="2008-04-01"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2012-11-22" title="2012-11-22"/>
+		<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10A" title="current"/>
+
+		<atom:link rel="up" href="http://www.legislation.gov.uk/ukpga/1999/27/2010-04-01" title="Entire legislation"/>
+		<atom:link rel="prev" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10/2010-04-01" title="Provision; Section 10"/>
+		<atom:link rel="prevInForce" href="http://www.legislation.gov.uk/ukpga/1999/27/section/10/2010-04-01" title="Provision; Section 10"/>
+		<atom:link rel="next" href="http://www.legislation.gov.uk/ukpga/1999/27/section/11/2010-04-01" title="Provision; Section 11"/>
+		<atom:link rel="nextInForce" href="http://www.legislation.gov.uk/ukpga/1999/27/section/11/2010-04-01" title="Provision; Section 11"/>
+		<ukm:PrimaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="primary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomPublicGeneralAct"/>
+				<ukm:DocumentStatus Value="revised"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1999"/>
+			<ukm:Number Value="27"/>
+			<ukm:EnactmentDate Date="1999-07-27"/>
+			<ukm:ISBN Value="0105427993"/>
+		</ukm:PrimaryMetadata>
+
+
+
+
+		<ukm:Alternatives>
+			<ukm:Alternative Date="2008-03-02" URI="http://www.legislation.gov.uk/ukpga/1999/27/pdfs/ukpga_19990027_en.pdf" Title="Print Version"/>
+		</ukm:Alternatives>
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="84"/>
+			<ukm:BodyParagraphs Value="45"/>
+			<ukm:ScheduleParagraphs Value="39"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Primary>
+		<Body DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/body/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/body" NumberOfProvisions="45" RestrictStartDate="2010-04-01">
+			<Part DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/part/I/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/part/I" NumberOfProvisions="38" RestrictEndDate="2012-01-16" id="part-I" RestrictStartDate="2010-04-01" RestrictExtent="E+W+S+N.I.">
+				<Number><CommentaryRef Ref="key-835f41ce07d7488311af2d0c819c9de1"/>Part I</Number>
+				<Title> Best Value</Title>
+				<Pblock DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/part/I/crossheading/best-value-inspections/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/part/I/crossheading/best-value-inspections" NumberOfProvisions="9" RestrictEndDate="2012-11-22" RestrictExtent="E+W+S" id="part-I-crossheading-best-value-inspections" RestrictStartDate="2010-04-01">
+					<Title> Best value inspections</Title>
+					<P1group RestrictEndDate="2012-11-22" RestrictExtent="E+W+S" RestrictStartDate="2010-04-01">
+						<Title>
+							<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">Inspections: Auditor General for Wales</Addition>
+						</Title>
+						<P1 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A" id="section-10A">
+							<Pnumber PuncAfter="">
+								<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">10A</Addition>
+							</Pnumber>
+							<P1para>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/1/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/1" id="section-10A-1">
+									<Pnumber>
+										<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">1</Addition>
+									</Pnumber>
+									<P2para>
+										<Text>
+											<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">The Auditor General for Wales may carry out an inspection of the compliance with the requirements of this Part by </Addition>
+											<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">
+												<Substitution ChangeId="key-b95661cff986f6ba77d1e7e8b853ed9c-1455540322795" CommentaryRef="key-b95661cff986f6ba77d1e7e8b853ed9c">—</Substitution>
+											</Addition>
+										</Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/1/a/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/1/a" id="section-10A-1-a">
+											<Pnumber>
+												<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">
+													<Substitution ChangeId="key-b95661cff986f6ba77d1e7e8b853ed9c-1455540322795" CommentaryRef="key-b95661cff986f6ba77d1e7e8b853ed9c">a</Substitution>
+												</Addition>
+											</Pnumber>
+											<P3para>
+												<Text>
+													<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">
+														<Substitution ChangeId="key-b95661cff986f6ba77d1e7e8b853ed9c-1455540322795" CommentaryRef="key-b95661cff986f6ba77d1e7e8b853ed9c">
+															<Repeal ChangeId="key-795bc4022069a854e00847a35d27643d-1515419656212" CommentaryRef="key-795bc4022069a854e00847a35d27643d" RetainText="true">a Welsh best value authority, or</Repeal>
+														</Substitution>
+													</Addition>
+												</Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/1/b/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/1/b" id="section-10A-1-b">
+											<Pnumber>
+												<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">
+													<Substitution ChangeId="key-b95661cff986f6ba77d1e7e8b853ed9c-1455540322795" CommentaryRef="key-b95661cff986f6ba77d1e7e8b853ed9c">b</Substitution>
+												</Addition>
+											</Pnumber>
+											<P3para>
+												<Text>
+													<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">
+														<Substitution ChangeId="key-b95661cff986f6ba77d1e7e8b853ed9c-1455540322795" CommentaryRef="key-b95661cff986f6ba77d1e7e8b853ed9c">a police authority for a police area in Wales.</Substitution>
+													</Addition>
+												</Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/2/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/2" id="section-10A-2">
+									<Pnumber>
+										<Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">2</Addition>
+									</Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">If the Secretary of State directs the Auditor General for Wales to carry out an inspection of the compliance with the requirements of this Part by a </Addition><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890"><Substitution ChangeId="key-0fd73b63c057e6875692b627c5e4bf4d-1455540396867" CommentaryRef="key-0fd73b63c057e6875692b627c5e4bf4d">specified authority mentioned in subsection (1)</Substitution></Addition><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890"> in relation to specified functions, the Auditor General for Wales shall comply with the direction.</Addition></Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/3/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/3" id="section-10A-3">
+									<Pnumber><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">3</Addition></Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">Before giving a direction under subsection (2) the Secretary of State shall consult the Auditor General for Wales.</Addition></Text>
+									</P2para>
+								</P2>
+								<P2 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/4/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/4" id="section-10A-4">
+									<Pnumber><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">4</Addition></Pnumber>
+									<P2para>
+										<Text><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">In carrying out an inspection, and in deciding whether to do so, the Auditor General for Wales shall have regard to—</Addition></Text>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/4/a/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/4/a" id="section-10A-4-a">
+											<Pnumber><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">a</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890"><Repeal ChangeId="key-df66c1b7454505775656c219a7d3308f-1515419693202" CommentaryRef="key-df66c1b7454505775656c219a7d3308f" RetainText="true">any relevant recommendation under section 7(4)(ea), and</Repeal></Addition></Text>
+											</P3para>
+										</P3>
+										<P3 DocumentURI="http://www.legislation.gov.uk/ukpga/1999/27/section/10A/4/b/2010-04-01" IdURI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/4/b" id="section-10A-4-b">
+											<Pnumber><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">b</Addition></Pnumber>
+											<P3para>
+												<Text><Addition ChangeId="key-f68e09ef03fb68bd6d473ffa867d9890-1455272634586" CommentaryRef="key-f68e09ef03fb68bd6d473ffa867d9890">any guidance issued by the Secretary of State.</Addition></Text>
+											</P3para>
+										</P3>
+									</P2para>
+								</P2>
+							</P1para>
+						</P1>
+					</P1group>
+				</Pblock>
+			</Part>
+		</Body>
+	</Primary>
+	<Commentaries>
+		<Commentary id="key-835f41ce07d7488311af2d0c819c9de1" Type="C"><Para>
+				<Text>Pt. I modified (18.11.2003 so far as relating to E. and so far as relating to a best value authority in W. mentioned in s. 101(7), 27.11.2003 so far as relating to a best value authority in W., other than one mentioned in s. 101(7)) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2003/26" id="c24eoblt2-00010" Class="UnitedKingdomPublicGeneralAct" Year="2003" Number="26" Title="Local Government Act 2003">Local Government Act 2003 (c. 26)</Citation>, <CitationSubRef id="c24eoblt2-00011" CitationRef="c24eoblt2-00010" URI="http://www.legislation.gov.uk/id/ukpga/2003/26/section/101" SectionRef="section-101" Operative="true">ss. 101</CitationSubRef>, <CitationSubRef id="c24eoblt2-00012" CitationRef="c24eoblt2-00010" URI="http://www.legislation.gov.uk/id/ukpga/2003/26/section/128/3/b" SectionRef="section-128-3-b">128(3)(b)</CitationSubRef>, <CitationSubRef id="c24eoblt2-00013" CitationRef="c24eoblt2-00010" URI="http://www.legislation.gov.uk/id/ukpga/2003/26/section/128/4/c" SectionRef="section-128-4-c">128(4)(c)</CitationSubRef>, <CitationSubRef id="c24eoblt2-00014" CitationRef="c24eoblt2-00010" URI="http://www.legislation.gov.uk/id/ukpga/2003/26/section/128/5" SectionRef="section-128-5">128(5)</CitationSubRef>, <CitationSubRef id="c24eoblt2-00015" CitationRef="c24eoblt2-00010" URI="http://www.legislation.gov.uk/id/ukpga/2003/26/section/128/6" SectionRef="section-128-6">128(6)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/2938" id="c24eoblt2-00016" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="2938" Title="Local Government Act 2003 (Commencement No.1 and Transitional Provisions and Savings) Order 2003">S.I. 2003/2938</Citation>, <CitationSubRef id="c24eoblt2-00017" CitationRef="c24eoblt2-00016" URI="http://www.legislation.gov.uk/id/uksi/2003/2938/article/2/b" SectionRef="article-2-b">art. 2(b)</CitationSubRef> (with <CitationSubRef id="c24eoblt2-00018" CitationRef="c24eoblt2-00016" URI="http://www.legislation.gov.uk/id/uksi/2003/2938/article/8" SectionRef="article-8">art. 8</CitationSubRef>
+					<CitationSubRef id="c24eoblt2-00019" CitationRef="c24eoblt2-00016" URI="http://www.legislation.gov.uk/id/uksi/2003/2938/schedule" SectionRef="schedule">Sch.</CitationSubRef>); <Citation URI="http://www.legislation.gov.uk/id/uksi/2003/3034" id="c24eoblt2-00020" Class="UnitedKingdomStatutoryInstrument" Year="2003" Number="3034" Title="The Local Government Act 2003 (Commencement) (Wales) Order 2003">S.I. 2003/3034</Citation>, <CitationSubRef id="c24eoblt2-00021" CitationRef="c24eoblt2-00020" URI="http://www.legislation.gov.uk/id/uksi/2003/3034/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c24eoblt2-00022" CitationRef="c24eoblt2-00020" URI="http://www.legislation.gov.uk/id/uksi/2003/3034/schedule/1/part/I" SectionRef="schedule-1-part-I">Sch. 1 Pt. I</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-f68e09ef03fb68bd6d473ffa867d9890" Type="F"><Para>
+				<Text>S. 10A inserted (1.4.2005) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2004/23" id="c25st4sj2-00019" Class="UnitedKingdomPublicGeneralAct" Year="2004" Number="23" Title="Public Audit (Wales) Act 2004">Public Audit (Wales) Act 2004 (c. 23)</Citation>, <CitationSubRef id="c25st4sj2-00020" CitationRef="c25st4sj2-00019" URI="http://www.legislation.gov.uk/id/ukpga/2004/23/section/73" SectionRef="section-73">s. 73</CitationSubRef>, <CitationSubRef id="c25st4sj2-00021" CitationRef="c25st4sj2-00019" URI="http://www.legislation.gov.uk/id/ukpga/2004/23/schedule/1/paragraph/9" SectionRef="schedule-1-paragraph-9" Operative="true">Sch. 1 para. 9</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2005/558" id="c25st4sj2-00022" Class="UnitedKingdomStatutoryInstrument" Year="2005" Number="558" Title="The Public Audit (Wales) Act 2004 (Commencement No. 2 and Transitional Provisions and Savings) Order 2005">S.I. 2005/558</Citation>, <CitationSubRef id="c25st4sj2-00023" CitationRef="c25st4sj2-00022" URI="http://www.legislation.gov.uk/id/uksi/2005/558/article/2" SectionRef="article-2">art. 2</CitationSubRef>, <CitationSubRef id="c25st4sj2-00024" CitationRef="c25st4sj2-00022" URI="http://www.legislation.gov.uk/id/uksi/2005/558/schedule/1" SectionRef="schedule-1">Sch. 1</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-b95661cff986f6ba77d1e7e8b853ed9c" Type="F"><Para>
+				<Text>S. 10A(1)(a)(b) substituted for words (1.4.2008) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2007/28" id="c2a863ym2-00011" Class="UnitedKingdomPublicGeneralAct" Year="2007" Number="28" Title="Local Government and Public Involvement in Health Act 2007">Local Government and Public Involvement in Health Act 2007 (c. 28)</Citation>, <CitationSubRef id="c2a863ym2-00012" CitationRef="c2a863ym2-00011" URI="http://www.legislation.gov.uk/id/ukpga/2007/28/section/245/5" SectionRef="section-245-5">s. 245(5)</CitationSubRef>, <CitationSubRef id="c2a863ym2-00013" CitationRef="c2a863ym2-00011" URI="http://www.legislation.gov.uk/id/ukpga/2007/28/schedule/8/paragraph/15/2" SectionRef="schedule-8-paragraph-15-2" Operative="true">Sch. 8 para. 15(2)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/917" id="c2a863ym2-00014" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="917" Title="Local Government and Public Involvement in Health Act 2007 (Commencement No.5 and Transitional, Saving and Transitory Provision) Order 2008">S.I. 2008/917</Citation>, <CitationSubRef id="c2a863ym2-00015" CitationRef="c2a863ym2-00014" URI="http://www.legislation.gov.uk/id/uksi/2008/917/article/2/1/e" SectionRef="article-2-1-e">art. 2(1)(e)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-0fd73b63c057e6875692b627c5e4bf4d" Type="F"><Para>
+				<Text>Words in s. 10A(2) substituted (1.4.2008) by <Citation URI="http://www.legislation.gov.uk/id/ukpga/2007/28" id="c2a863ym2-00022" Class="UnitedKingdomPublicGeneralAct" Year="2007" Number="28" Title="Local Government and Public Involvement in Health Act 2007">Local Government and Public Involvement in Health Act 2007 (c. 28)</Citation>, <CitationSubRef id="c2a863ym2-00023" CitationRef="c2a863ym2-00022" URI="http://www.legislation.gov.uk/id/ukpga/2007/28/section/245/5" SectionRef="section-245-5">s. 245(5)</CitationSubRef>, <CitationSubRef id="c2a863ym2-00024" CitationRef="c2a863ym2-00022" URI="http://www.legislation.gov.uk/id/ukpga/2007/28/schedule/8/paragraph/15/3" SectionRef="schedule-8-paragraph-15-3" Operative="true">Sch. 8 para. 15(3)</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/uksi/2008/917" id="c2a863ym2-00025" Class="UnitedKingdomStatutoryInstrument" Year="2008" Number="917" Title="Local Government and Public Involvement in Health Act 2007 (Commencement No.5 and Transitional, Saving and Transitory Provision) Order 2008">S.I. 2008/917</Citation>, <CitationSubRef id="c2a863ym2-00026" CitationRef="c2a863ym2-00025" URI="http://www.legislation.gov.uk/id/uksi/2008/917/article/2/1/e" SectionRef="article-2-1-e">art. 2(1)(e)</CitationSubRef></Text>
+			</Para></Commentary>
+		<Commentary id="key-795bc4022069a854e00847a35d27643d" Type="F"><Para>
+				<Text><CitationSubRef id="ctsiqjt22-00005" SectionRef="section-10A-1-a" URI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/1/a">S. 10A(1)(a)</CitationSubRef> repealed (E.W.) (1.4.2010) by <Citation URI="http://www.legislation.gov.uk/id/mwa/2009/2" id="ctsiqjt22-00006" Class="WelshAssemblyMeasure" Year="2009" Number="2" Title="Local Government (Wales) Measure 2009">Local Government (Wales) Measure 2009 (nawm 2)</Citation>, <CitationSubRef id="ctsiqjt22-00007" CitationRef="ctsiqjt22-00006" SectionRef="section-53-2" URI="http://www.legislation.gov.uk/id/mwa/2009/2/section/53/2">s. 53(2)</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00008" CitationRef="ctsiqjt22-00006" SectionRef="schedule-1-paragraph-14" URI="http://www.legislation.gov.uk/id/mwa/2009/2/schedule/1/paragraph/14">Sch. 1 para. 14</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00009" CitationRef="ctsiqjt22-00006" SectionRef="schedule-4" URI="http://www.legislation.gov.uk/id/mwa/2009/2/schedule/4" Operative="true">Sch. 4</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/wsi/2009/3272" id="ctsiqjt22-00010" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="3272" Title="The Local Government (Wales) Measure 2009 (Commencement No. 2, Transitional Provisions and Savings) Order 2009">S.I. 2009/3272</Citation>, <CitationSubRef id="ctsiqjt22-00011" CitationRef="ctsiqjt22-00010" SectionRef="article-3-1" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/1">art. 3(1)</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00012" CitationRef="ctsiqjt22-00010" SectionRef="schedule-2" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/schedule/2">Sch. 2</CitationSubRef> (with <CitationSubRef id="ctsiqjt22-00013" CitationRef="ctsiqjt22-00010" StartSectionRef="article-3-2" EndSectionRef="article-3-5" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/2" UpTo="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/5">art. 3(2)-(5)</CitationSubRef>) (as amended (8.9.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/2237" id="ctsiqjt22-00014" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="2237">S.I. 2010/2237</Citation>, art. 2)</Text>
+			</Para></Commentary>
+		<Commentary id="key-df66c1b7454505775656c219a7d3308f" Type="F"><Para>
+				<Text><CitationSubRef id="ctsiqjt22-00020" SectionRef="section-10A-4-a" URI="http://www.legislation.gov.uk/id/ukpga/1999/27/section/10A/4/a">S. 10A(4)(a)</CitationSubRef> repealed (E.W.) (1.4.2010) by <Citation URI="http://www.legislation.gov.uk/id/mwa/2009/2" id="ctsiqjt22-00021" Class="WelshAssemblyMeasure" Year="2009" Number="2" Title="Local Government (Wales) Measure 2009">Local Government (Wales) Measure 2009 (nawm 2)</Citation>, <CitationSubRef id="ctsiqjt22-00022" CitationRef="ctsiqjt22-00021" SectionRef="section-53-2" URI="http://www.legislation.gov.uk/id/mwa/2009/2/section/53/2">s. 53(2)</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00023" CitationRef="ctsiqjt22-00021" SectionRef="schedule-1-paragraph-14" URI="http://www.legislation.gov.uk/id/mwa/2009/2/schedule/1/paragraph/14">Sch. 1 para. 14</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00024" CitationRef="ctsiqjt22-00021" SectionRef="schedule-4" URI="http://www.legislation.gov.uk/id/mwa/2009/2/schedule/4" Operative="true">Sch. 4</CitationSubRef>; <Citation URI="http://www.legislation.gov.uk/id/wsi/2009/3272" id="ctsiqjt22-00025" Class="UnitedKingdomStatutoryInstrument" Year="2009" Number="3272" Title="The Local Government (Wales) Measure 2009 (Commencement No. 2, Transitional Provisions and Savings) Order 2009">S.I. 2009/3272</Citation>, <CitationSubRef id="ctsiqjt22-00026" CitationRef="ctsiqjt22-00025" SectionRef="article-3-1" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/1">art. 3(1)</CitationSubRef>, <CitationSubRef id="ctsiqjt22-00027" CitationRef="ctsiqjt22-00025" SectionRef="schedule-2" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/schedule/2">Sch. 2</CitationSubRef> (with <CitationSubRef id="ctsiqjt22-00028" CitationRef="ctsiqjt22-00025" StartSectionRef="article-3-2" EndSectionRef="article-3-5" URI="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/2" UpTo="http://www.legislation.gov.uk/id/wsi/2009/3272/article/3/5">art. 3(2)-(5)</CitationSubRef>) (as amended (8.9.2010) by <Citation URI="http://www.legislation.gov.uk/id/uksi/2010/2237" id="ctsiqjt22-00029" Class="UnitedKingdomStatutoryInstrument" Year="2010" Number="2237">S.I. 2010/2237</Citation>, art. 2)</Text>
+			</Para></Commentary>
+	</Commentaries>
+</Legislation>
