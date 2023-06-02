@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.5" id="schemaLegislationMetadata">
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.6" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -14,7 +14,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2022-08-12</dcq:modified>
+				<dcq:modified>2023-06-02</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
