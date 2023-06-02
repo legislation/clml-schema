@@ -68,11 +68,7 @@ Release date: 2020-05-05
 
 ## Schema documentation
 
-A package of schema documentation is be delivered with every release.
-
-The documentation is delivered as a hyperlinked HTML application comprising an integrated reference guide and user guide.
-
-This is delivered online but a zipped version will be stored in the schemaDoc folder until this is available.
+A package of schema documentation is be delivered with every release.  The documentation is delivered as a hyperlinked HTML application comprising an integrated reference guide and user guide.  This will be delivered online.
 
 The source files for the documentation are the schema files themselves plus the XML, XHTML and images in the schemaDoc/CLMLFiles folder.
 
