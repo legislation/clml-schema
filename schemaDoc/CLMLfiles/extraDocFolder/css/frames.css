@@ -1,0 +1,16 @@
+iframe#nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 337px;
+  border: 0;
+  border-right: 5px solid #ccc;
+  outline: 1px solid black;
+  background: white;
+  overflow-x: hidden;
+}
+body {
+  width: calc(100% - 337px - 6px - 16px);
+  float: right;
+}

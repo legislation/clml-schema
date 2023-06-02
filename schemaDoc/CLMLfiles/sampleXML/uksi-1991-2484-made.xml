@@ -1,0 +1,535 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484" NumberOfProvisions="4" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="1.0">
+	<ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+		<dc:identifier>http://www.legislation.gov.uk/uksi/1991/2484/made</dc:identifier>
+		<dc:title>The Police (Amendment) Regulations 1991</dc:title>
+		<dc:subject>Police</dc:subject>
+		<dc:publisher>King's Printer of Acts of Parliament</dc:publisher>
+		<dc:modified>2017-05-23</dc:modified>
+		<dc:subject scheme="SIheading">POLICE</dc:subject>
+		<dc:description>These Regulations further amend the Police Regulations 1987. Regulation 3(2), (3) and (4) makes additional provision in relation to appeals against decisions concerning the compatibility of business interests with membership of a police force.</dc:description>
+		<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.xml" type="application/xml"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/1991/2484/resources" title="More Resources"/>
+
+
+
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/1991/2484/made" title="whole act"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/1991/2484/introduction/made" title="introduction"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/1991/2484/signature/made" title="signature"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/1991/2484/note/made" title="note"/>
+		<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/1991/2484/body/made" title="body"/>
+
+
+
+
+
+		<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.rdf" title="RDF/XML"/>
+		<atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.akn" title="AKN"/>
+		<atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.xht" title="HTML snippet"/>
+		<atom:link rel="alternate" type="text/html" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.htm" title="Website (XHTML) Default View"/>
+		<atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.pdf" title="PDF"/>
+		<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/1991/2484/made/data.html" title="HTML5 snippet"/>
+
+
+		<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/1991/2484/contents/made" title="Table of Contents"/>
+
+
+
+
+		<ukm:SecondaryMetadata>
+			<ukm:DocumentClassification>
+				<ukm:DocumentCategory Value="secondary"/>
+				<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+				<ukm:DocumentStatus Value="final"/>
+				<ukm:DocumentMinorType Value="regulation"/>
+			</ukm:DocumentClassification>
+			<ukm:Year Value="1991"/>
+			<ukm:Number Value="2484"/>
+			<ukm:Made Date="1991-10-31"/>
+			<ukm:Laid Date="1991-11-07" Class="UnitedKingdomParliament"/>
+			<ukm:ComingIntoForce>
+				<ukm:DateTime Date="1991-12-01"/>
+			</ukm:ComingIntoForce>
+			<ukm:ISBN Value="0110154843"/>
+			<ukm:UnappliedEffects>
+				<ukm:UnappliedEffect EffectId="key-3acf4a6cf3cc985bde7b2de181f076eb" AffectedURI="http://www.legislation.gov.uk/id/uksi/1991/2484" AffectedClass="UnitedKingdomStatutoryInstrument" AffectingURI="http://www.legislation.gov.uk/id/uksi/1995/215" AffectingClass="UnitedKingdomStatutoryInstrument" URI="http://www.legislation.gov.uk/id/effect/key-b82aed397f9bd9608daaac6030229e9f" Row="3523" Type="revoked" RequiresApplied="true" AffectedProvisions="Instrument" Comments="rev." AffectingYear="1995" AffectingNumber="215" AffectingProvisions="reg.70, Sch.12, Pt.I" AffectedYear="1991" AffectedNumber="2484" Created="2019-07-11T00:00:00" Modified="2019-07-11T00:00:00">
+					<ukm:AffectedTitle>The Police (Amendment) Regulations 1991</ukm:AffectedTitle>
+					<ukm:AffectedProvisions>Instrument</ukm:AffectedProvisions>
+					<ukm:AffectingTitle>The Police Regulations 1995</ukm:AffectingTitle>
+					<ukm:AffectingProvisions>
+						<ukm:Section Ref="regulation-70" URI="http://www.legislation.gov.uk/id/uksi/1995/215/regulation/70">reg.70</ukm:Section>
+						<ukm:Section Ref="schedule-12" URI="http://www.legislation.gov.uk/id/uksi/1995/215/schedule/12">Sch.12 </ukm:Section>
+						<ukm:Section Ref="schedule-12-part-I" URI="http://www.legislation.gov.uk/id/uksi/1995/215/schedule/12/part/I">Pt.I</ukm:Section>
+					</ukm:AffectingProvisions>
+					<ukm:InForceDates>
+						<ukm:InForce Applied="false" Prospective="true" Qualification=""/>
+					</ukm:InForceDates>
+				</ukm:UnappliedEffect>
+			</ukm:UnappliedEffects>
+		</ukm:SecondaryMetadata>
+
+
+
+
+
+
+		<ukm:Statistics>
+			<ukm:TotalParagraphs Value="4"/>
+			<ukm:BodyParagraphs Value="4"/>
+			<ukm:ScheduleParagraphs Value="0"/>
+			<ukm:AttachmentParagraphs Value="0"/>
+			<ukm:TotalImages Value="0"/>
+		</ukm:Statistics>
+	</ukm:Metadata>
+	<Secondary>
+		<SecondaryPrelims DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/introduction/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/introduction">
+			<Number>1991 No. 2484</Number>
+			<SubjectInformation>
+				<Subject>
+					<Title>POLICE</Title>
+				</Subject>
+			</SubjectInformation>
+			<Title>The Police (Amendment) Regulations 1991</Title>
+			<MadeDate>
+				<Text>Made</Text>
+				<DateText>31st October 1991</DateText>
+			</MadeDate>
+			<LaidDate>
+				<Text>Laid before Parliament</Text>
+				<DateText>7th November 1991</DateText>
+			</LaidDate>
+			<ComingIntoForce>
+				<Text>Coming into force</Text>
+				<DateText>1st December 1991</DateText>
+			</ComingIntoForce>
+			<SecondaryPreamble>
+				<EnactingText>
+					<Para>
+						<Text>In exercise of the powers conferred upon me by section 33 of the Police Act 1964<FootnoteRef Ref="f00001"/>, and after taking into consideration the representations made by the Police Advisory Board for England and Wales and the recommendations made by the Police Negotiating Board for the United Kingdom, and furnishing each of the said Boards with a draft of the Regulations in accordance with section 46(3) of that Act<FootnoteRef Ref="f00002"/> and section 2(1) of the Police Negotiating Board Act 1980<FootnoteRef Ref="f00003"/>, I hereby make the following Regulations:</Text>
+					</Para>
+				</EnactingText>
+			</SecondaryPreamble>
+		</SecondaryPrelims>
+		<Body DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/body" NumberOfProvisions="4" NumberFormat="default">
+			<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/1" id="regulation-1">
+				<Pnumber>1</Pnumber>
+				<P1para>
+					<Text>These Regulations may be cited as the Police (Amendment) Regulations 1991.</Text>
+				</P1para>
+			</P1>
+			<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/2" id="regulation-2">
+				<Pnumber>2</Pnumber>
+				<P1para>
+					<Text>These Regulations shall come into force on 1st December 1991 and shall have effect for the purposes of regulation 3(5) as from 1st July 1990 and for the purposes of regulation 3(7) and (8) as from 1st September 1991.</Text>
+				</P1para>
+			</P1>
+			<P1 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3" id="regulation-3">
+				<Pnumber>3</Pnumber>
+				<P1para>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/1" id="regulation-3-1">
+						<Pnumber>1</Pnumber>
+						<P2para>
+							<Text>The Police Regulations 1987<FootnoteRef Ref="f00004"/> shall be amended in accordance with the following provisions of this regulation.</Text>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/2" id="regulation-3-2">
+						<Pnumber>2</Pnumber>
+						<P2para>
+							<Text>In regulation 11(2) (business interests incompatible with membership of a police force) there shall be inserted after the word “and” the words “, within 28 days of the receipt of that notice,”.</Text>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/3" id="regulation-3-3">
+						<Pnumber>3</Pnumber>
+						<P2para>
+							<Text>There shall be substituted for regulation 11(4) the following paragraph–</Text>
+							<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+								<P2>
+									<Pnumber>4</Pnumber>
+									<P2para>
+										<Text>Upon receipt of such notice, the police authority shall forthwith require the chief officer of police to submit to them, within the next following 10 days, a notice setting out the reasons for his decision and copies of any documents on which he relies in support of that decision; and the police authority shall send to the member concerned copies of such notice and documents and shall afford him a reasonable opportunity, being in no case less than 14 days, to comment thereon.</Text>
+									</P2para>
+								</P2>
+							</BlockAmendment>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/4" id="regulation-3-4">
+						<Pnumber>4</Pnumber>
+						<P2para>
+							<Text>In regulation 11(5) there shall be inserted after the word “shall” in the first place where it occurs the words “, within 28 days of receiving his comments on the notice and any other documents submitted by the chief officer of police under paragraph (4), or of the expiration of the period afforded for making comments if none have by then been received.”.</Text>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/5" id="regulation-3-5">
+						<Pnumber>5</Pnumber>
+						<P2para>
+							<Text>In regulation 39 (London weighting) and in paragraph 3(2) of Schedule 4 (university scholars' supplementary pay) for the words “£1,170” there shall be substituted the words “£1,269”.</Text>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/6" id="regulation-3-6">
+						<Pnumber>6</Pnumber>
+						<P2para>
+							<Text>There shall be substituted for regulation 64 the following regulation–</Text>
+							<BlockAmendment TargetClass="secondary" TargetSubClass="regulation" Context="main" Format="default" NumberFormat="default">
+								<P1group>
+									<Title>Allowance in respect of medical charges</Title>
+									<P1>
+										<Pnumber>64</Pnumber>
+										<P1para>
+											<P2>
+												<Pnumber>1</Pnumber>
+												<P2para>
+													<Text>A member of a police force, other than one such as is mentioned in paragraph (2), shall be reimbursed any charges incurred in his case under section 77, 78 or 79 of the National Health Service Act 1977<FootnoteRef Ref="f00005"/> (which sections relate to charges for certain drugs, medicines and appliances and for dental treatment).</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>2</Pnumber>
+												<P2para>
+													<Text>A member of a police force who first became a constable on or after 1991, shall be reimbursed any such charges if they are incurred by reason of an injury received without the default of the member concerned in the execution of his duty as a constable, but not otherwise.</Text>
+												</P2para>
+											</P2>
+											<P2>
+												<Pnumber>3</Pnumber>
+												<P2para>
+													<Text>For the purposes of the preceding paragraph, the terms “injury” and “injury received in the execution of duty” have the same meanings as they have in the Police Pensions Regulations<FootnoteRef Ref="f00006"/>.</Text>
+												</P2para>
+											</P2>
+										</P1para>
+									</P1>
+								</P1group>
+							</BlockAmendment>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/7" id="regulation-3-7">
+						<Pnumber>7</Pnumber>
+						<P2para>
+							<Text>In Schedule 5 (scales of pay) for tables A and B there shall be substituted respectively the tables set out in the Appendix to these Regulations.</Text>
+						</P2para>
+					</P2>
+					<P2 DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/regulation/3/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/regulation/3/8" id="regulation-3-8">
+						<Pnumber>8</Pnumber>
+						<P2para>
+							<Text>In paragraph 1 of Schedule 11 (dog handler’s allowance) for the words “£792” in sub-paragraph (a) there shall be substituted the words “£858” and for the words “£1,083” in sub-paragraph (b) there shall be substituted the words “£1,176”.</Text>
+						</P2para>
+					</P2>
+				</P1para>
+			</P1>
+			<SignedSection DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/signature/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/signature">
+				<Signatory>
+					<Signee>
+						<PersonName>Kenneth Baker</PersonName>
+						<JobTitle>One of Her Majesty’s Principal Secretaries of State</JobTitle>
+						<Address>
+							<AddressLine>Home Office</AddressLine>
+						</Address>
+						<DateSigned Date="1991-10-31">
+							<DateText>31st October 1991 </DateText>
+						</DateSigned>
+					</Signee>
+				</Signatory>
+			</SignedSection>
+			<Appendix DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/appendix/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/appendix" NumberFormat="default" id="appendix">
+				<Number>APPENDIX</Number>
+				<AppendixBody>
+					<Tabular Orientation="portrait">
+						<Number>
+							<Strong>Table A</Strong>
+						</Number>
+						<table xmlns="http://www.w3.org/1999/xhtml" cols="4">
+							<thead>
+								<tr>
+									<th colspan="1" rowspan="1"/>
+									<th colspan="3" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Annual Pay</Emphasis>
+									</th>
+								</tr>
+								<tr>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Rank</Emphasis>
+									</th>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Service in Rank</Emphasis>
+									</th>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">London</Emphasis>
+									</th>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Provinces</Emphasis>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">£</td>
+									<td colspan="1" rowspan="1">£</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Chief Superintendent</td>
+									<td colspan="1" rowspan="1">Less than 1 year</td>
+									<td colspan="1" rowspan="1">37,071</td>
+									<td colspan="1" rowspan="1">37,071</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 1 year</td>
+									<td colspan="1" rowspan="1">37,599</td>
+									<td colspan="1" rowspan="1">37,599</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 2 years</td>
+									<td colspan="1" rowspan="1">38,442</td>
+									<td colspan="1" rowspan="1">38,442</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 3 years</td>
+									<td colspan="1" rowspan="1">39,360</td>
+									<td colspan="1" rowspan="1">39,360</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Superintendent</td>
+									<td colspan="1" rowspan="1">Less than 1 year</td>
+									<td colspan="1" rowspan="1">34,191</td>
+									<td colspan="1" rowspan="1">33,342</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 1 year</td>
+									<td colspan="1" rowspan="1">34,863</td>
+									<td colspan="1" rowspan="1">34,191</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 2 years</td>
+									<td colspan="1" rowspan="1">35,529</td>
+									<td colspan="1" rowspan="1">35,037</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 3 years</td>
+									<td colspan="1" rowspan="1">36,204</td>
+									<td colspan="1" rowspan="1">36,204</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Chief Inspector</td>
+									<td colspan="1" rowspan="1">Less than 1 year</td>
+									<td colspan="1" rowspan="1">25,686</td>
+									<td colspan="1" rowspan="1">24,510</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 1 year</td>
+									<td colspan="1" rowspan="1">26,316</td>
+									<td colspan="1" rowspan="1">25,197</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 2 years</td>
+									<td colspan="1" rowspan="1">26,994</td>
+									<td colspan="1" rowspan="1">25,881</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 3 years</td>
+									<td colspan="1" rowspan="1">27,714</td>
+									<td colspan="1" rowspan="1">26,571</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 4 years</td>
+									<td colspan="1" rowspan="1">28,431</td>
+									<td colspan="1" rowspan="1">27,264</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Inspector</td>
+									<td colspan="1" rowspan="1">Less than 1 year</td>
+									<td colspan="1" rowspan="1">22,749</td>
+									<td colspan="1" rowspan="1">21,588</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 1 year</td>
+									<td colspan="1" rowspan="1">23,382</td>
+									<td colspan="1" rowspan="1">22,263</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 2 years</td>
+									<td colspan="1" rowspan="1">24,210</td>
+									<td colspan="1" rowspan="1">23,133</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 3 years</td>
+									<td colspan="1" rowspan="1">24,954</td>
+									<td colspan="1" rowspan="1">23,820</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 4 years</td>
+									<td colspan="1" rowspan="1">25,686</td>
+									<td colspan="1" rowspan="1">24,510</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Sergeant</td>
+									<td colspan="1" rowspan="1">Less than 1 year</td>
+									<td colspan="1" rowspan="1">18,819</td>
+									<td colspan="1" rowspan="1">18,819</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 1 year</td>
+									<td colspan="1" rowspan="1">19,674</td>
+									<td colspan="1" rowspan="1">19,674</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 2 years</td>
+									<td colspan="1" rowspan="1">20,367</td>
+									<td colspan="1" rowspan="1">20,367</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 3 years</td>
+									<td colspan="1" rowspan="1">21,039</td>
+									<td colspan="1" rowspan="1">21,039</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">After 4 years</td>
+									<td colspan="1" rowspan="1">21,588</td>
+									<td colspan="1" rowspan="1">21,588</td>
+								</tr>
+							</tbody>
+						</table>
+					</Tabular>
+					<Tabular Orientation="portrait">
+						<Number>TABLE B</Number>
+						<table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+							<thead>
+								<tr>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Reckonable Service</Emphasis>
+									</th>
+									<th colspan="1" rowspan="1">
+										<Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Annual Pay</Emphasis>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="1" rowspan="1"/>
+									<td colspan="1" rowspan="1">£</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">Before completing 1 year of service</td>
+									<td colspan="1" rowspan="1">11,790</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 1 year of service</td>
+									<td colspan="1" rowspan="1">12,606</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 2 years of service</td>
+									<td colspan="1" rowspan="1">14,841</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 3 years of service</td>
+									<td colspan="1" rowspan="1">15,192</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 4 years of service</td>
+									<td colspan="1" rowspan="1">15,693</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 5 years of service</td>
+									<td colspan="1" rowspan="1">16,233</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 6 years of service</td>
+									<td colspan="1" rowspan="1">16,749</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 7 years of service</td>
+									<td colspan="1" rowspan="1">17,268</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 8 years of service</td>
+									<td colspan="1" rowspan="1">17,778</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 12 years of service</td>
+									<td colspan="1" rowspan="1">18,819</td>
+								</tr>
+								<tr>
+									<td colspan="1" rowspan="1">After 15 years of service</td>
+									<td colspan="1" rowspan="1">19,674</td>
+								</tr>
+							</tbody>
+						</table>
+					</Tabular>
+				</AppendixBody>
+			</Appendix>
+		</Body>
+		<ExplanatoryNotes DocumentURI="http://www.legislation.gov.uk/uksi/1991/2484/note/made" IdURI="http://www.legislation.gov.uk/id/uksi/1991/2484/note">
+			<Comment>
+				<Para>
+					<Text>(This note is not part of the Regulations)</Text>
+				</Para>
+			</Comment>
+			<P>
+				<Text>These Regulations further amend the Police Regulations 1987. Regulation 3(2), (3) and (4) makes additional provision in relation to appeals against decisions concerning the compatibility of business interests with membership of a police force.</Text>
+			</P>
+			<P>
+				<Text>Regulation 3(6) preserves the entitlement of existing police officers to reimbursement of all National Health Service charges for certain drugs, medicines and appliances and for dental treatment, and provides for the reimbursement of such charges to officers who first join the police after these Regulations come into force only where the charges relate to an injury received or disease contracted on account of th ffieir constabulary duty.</Text>
+			</P>
+			<P>
+				<Text>Regulation 3(5) increases London weighting and the supplementary pay of university scholars in the City and the metropolitan police district with effect from 1st July 1990; regulation 3(7) increases pay and regulation 3(8) increases the dog handler’s allowance, both with effect from 1st September 1991 (retrospection is authorised by section 33(4) of the Police Act 1964).</Text>
+			</P>
+		</ExplanatoryNotes>
+	</Secondary>
+	<Footnotes>
+		<Footnote id="f00001">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1964/48" id="c00001" Class="UnitedKingdomPublicGeneralAct" Year="1964" Number="0048">1964 c. 48</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00002">
+			<FootnoteText>
+				<Para>
+					<Text>Section 46(3), as amended by section 4(6) of the Police Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1969/63" id="c00002" Class="UnitedKingdomPublicGeneralAct" Year="1969" Number="0063">1969 (c. 63)</Citation>, was amended by section 2(4) of the Police Negotiating Board Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1980/10" id="c00003" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0010">1980 (c. 10)</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00003">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1980/10" id="c00004" Class="UnitedKingdomPublicGeneralAct" Year="1980" Number="0010">1980 c. 10</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00004">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1987/851" id="c00005" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="0851">S.I. 1987/851</Citation>; the relevant amending instruments are <Citation URI="http://www.legislation.gov.uk/id/uksi/1990/1573" id="c00006" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="1573">S.I. 1990/1573</Citation>, <Citation URI="http://www.legislation.gov.uk/id/uksi/1990/2619" id="c00007" Class="UnitedKingdomStatutoryInstrument" Year="1990" Number="2619">2619</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00005">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/1977/49" id="c00008" Class="UnitedKingdomPublicGeneralAct" Year="1977" Number="0049">1977 c. 49</Citation>; sections 78 and 79 were amended by the Health and Medicines Act <Citation URI="http://www.legislation.gov.uk/id/ukpga/1988/49" id="c00009" Class="UnitedKingdomPublicGeneralAct" Year="1988" Number="0049">1988 (c. 49)</Citation>, section 11, Schedule 2, paragraph 5 and Schedule 3.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+		<Footnote id="f00006">
+			<FootnoteText>
+				<Para>
+					<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/1987/257" id="c00010" Class="UnitedKingdomStatutoryInstrument" Year="1987" Number="0257">S.I. 1987/257</Citation>.</Text>
+				</Para>
+			</FootnoteText>
+		</Footnote>
+	</Footnotes>
+</Legislation>
