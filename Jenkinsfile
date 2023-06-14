@@ -1,47 +1,81 @@
-def projectVars = loadProjectVariables()
+
+def projectVarsWWW = loadProjectVariablesWWW()
+def projectVarsEDI = loadProjectVariablesEDI()
+
 pipeline {
   agent any
   parameters {
     choice(name: 'ENVIRONMENT', choices:  listEnvironments(projectVars), description: 'The target environment')
-    booleanParam(name: 'DEPLOY_SCHEMA', defaultValue: false, description: 'Deploy SCHEMA code to server')
+    booleanParam(name: 'DEPLOY_EDI', defaultValue: false, description: 'Deploy SCHEMA to EDI - normally you should deploy to everything')
+    booleanParam(name: 'DEPLOY_WWW', defaultValue: false, description: 'Deploy SCHEMA to WWW - normally you should deploy to everything')
   }
-  stages{
+  stages {
     stage('Clean Target') {
       steps {
         sh """
-			rm -rdf target
-			mkdir target
-		"""
+        rm -rdf target
+        mkdir target
+        """
       }
     }
-   stage('Build and Upload SCHEMA'){
-	  steps{
+    stage('Build'){
+    steps{
         sh """
         mkdir target/schema
-		mkdir target/schemaModules
-        cp schema target/schema -rf
-		cp schemaModules target/schemaModules -rf
-		cp appspec.yml target/appspec.yml                 
-		"""
-		uploadToBucket(projectVars,params.ENVIRONMENT,"SCHEMA")
-	  }
-	}
+        mkdir target/schemaModules
+            cp schema target/schema -rf
+        cp schemaModules target/schemaModules -rf
+        cp appspec.yml target/appspec.yml                 
+        """
+      }
+    }
 
-    stage('Deploy SCHEMA'){
-	  when{
-		expression { params.DEPLOY_SCHEMA == true }
-	  }
-	  steps {
-		initiateDeployment(projectVars,params.ENVIRONMENT,"SCHEMA")
-	  }
-	}
+    stage('Upload'){
+      parallel {
+        stage('Deploy to EDI'){
+          steps {
+            uploadToBucket(projectVarsWWW,params.ENVIRONMENT,"SCHEMA")
+          }
+        }
+        stage('Deploy to EDI'){
+          steps {
+            uploadToBucket(projectVarsEDI,params.ENVIRONMENT,"SCHEMA")
+          }
+        }
+
+      }
+    }
+
+    stage('Deploy'){
+      parallel {
+        stage('Deploy to EDI'){
+          when{
+            expression { params.DEPLOY_EDI == true }
+          }
+          steps {
+            initiateDeployment(projectVarsEDI,params.ENVIRONMENT,"SCHEMA")
+          }
+        }
+        stage('Deploy to WWW'){
+          when{
+            expression { params.DEPLOY_WWW == true }
+          }
+          steps {
+            initiateDeployment(projectVarsWWW,params.ENVIRONMENT,"SCHEMA")
+          }
+        }
+      }
+    }
+
   }
   post{
     success {
-      notify(projectVars,"success")
+      notify(projectVarsEDI,"success")
+      notify(projectVarsWWW,"success")
     }
     failure {
-      notify(projectVars,"failure")
+      notify(projectVarsEDI,"failure")
+      notify(projectVarsWWW,"failure")
     }
   }
 }
@@ -54,13 +88,23 @@ def runAnt(antCall){
 
 //Functions
 
-def loadProjectVariables(){
+def loadProjectVariablesWWW(){
   node {
     projectName = "tna.legislation.website"
     variables = readJSON file: "/jenkins/projects/${projectName}.json"
     return variables
   }
 }
+
+def loadProjectVariablesEDI(){
+  node {
+    projectName = "tna.legislation.editorial"
+    variables = readJSON file: "/jenkins/projects/${projectName}.json"
+    return variables
+  }
+}
+
+
 def listEnvironments(json){
   def environments = []
   Iterator it = json.keys();
