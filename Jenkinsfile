@@ -1,11 +1,11 @@
 
-def projectVarsWWW = loadProjectVariablesWWW()
 def projectVarsEDI = loadProjectVariablesEDI()
+def projectVarsWWW = loadProjectVariablesWWW()
 
 pipeline {
   agent any
   parameters {
-    choice(name: 'ENVIRONMENT', choices:  listEnvironments(projectVars), description: 'The target environment')
+    choice(name: 'ENVIRONMENT', choices:  listEnvironments(projectVarsWWW), description: 'The target environment')
     booleanParam(name: 'DEPLOY_EDI', defaultValue: false, description: 'Deploy SCHEMA to EDI - normally you should deploy to everything')
     booleanParam(name: 'DEPLOY_WWW', defaultValue: false, description: 'Deploy SCHEMA to WWW - normally you should deploy to everything')
   }
@@ -32,17 +32,16 @@ pipeline {
 
     stage('Upload'){
       parallel {
-        stage('Upload to WWW'){
-          steps {
-            uploadToBucket(projectVarsWWW,params.ENVIRONMENT,"SCHEMA")
-          }
-        }
         stage('Upload to EDI'){
           steps {
             uploadToBucket(projectVarsEDI,params.ENVIRONMENT,"SCHEMA")
           }
         }
-
+        stage('Upload to WWW'){
+          steps {
+            uploadToBucket(projectVarsWWW,params.ENVIRONMENT,"SCHEMA")
+          }
+        }
       }
     }
 
