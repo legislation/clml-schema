@@ -6,8 +6,8 @@ pipeline {
   agent any
   parameters {
     choice(name: 'ENVIRONMENT', choices:  listEnvironments(projectVarsWWW), description: 'The target environment')
-    booleanParam(name: 'DEPLOY_EDI', defaultValue: false, description: 'Deploy SCHEMA to EDI - normally you should deploy to everything')
-    booleanParam(name: 'DEPLOY_WWW', defaultValue: false, description: 'Deploy SCHEMA to WWW - normally you should deploy to everything')
+    booleanParam(name: 'DEPLOY_EDI', defaultValue: false, description: 'Deploy SCHEMA to EDI  ')
+    booleanParam(name: 'DEPLOY_WWW', defaultValue: false, description: 'Deploy SCHEMA to WWW')
   }
   stages {
     stage('Clean Target') {
@@ -89,16 +89,16 @@ def runAnt(antCall){
 
 def loadProjectVariablesWWW(){
   node {
-    projectName = "tna.legislation.website"
-    variables = readJSON file: "/jenkins/projects/${projectName}.json"
+    def projectName = "tna.legislation.website"
+    def variables = readJSON file: "/jenkins/projects/${projectName}.json"
     return variables
   }
 }
 
 def loadProjectVariablesEDI(){
   node {
-    projectName = "tna.legislation.editorial"
-    variables = readJSON file: "/jenkins/projects/${projectName}.json"
+    def projectName = "tna.legislation.editorial"
+    def variables = readJSON file: "/jenkins/projects/${projectName}.json"
     return variables
   }
 }
