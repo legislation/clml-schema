@@ -122,7 +122,7 @@ def deploymentFile(){
 
 def uploadToBucket(project,environment,group){
   echo "Upload Artefact to S3"
-  env = project[environment]
+  def env = project[environment]
   withAWS(roleAccount:env["accountId"], role: "Jenkins-${env["region"]}") {
     sh """aws deploy push --application-name ${env["application"]} \
           --s3-location s3://${env["bucket"]}.${env["region"]}.mgmt/deploy/${env["application"]}/${group}/${deploymentFile()} \
@@ -131,7 +131,7 @@ def uploadToBucket(project,environment,group){
 }
 
 def initiateDeployment(project,environment,group){
-  env = project[environment]
+  def env = project[environment]
   withAWS(roleAccount:env["accountId"], role: "Jenkins-${env["region"]}") {
     createDeployment( s3Bucket: "${env["bucket"]}.${env["region"]}.mgmt",
                       s3Key:"deploy/${env["application"]}/${group}/${deploymentFile()}",
