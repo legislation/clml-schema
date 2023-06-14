@@ -32,12 +32,12 @@ pipeline {
 
     stage('Upload'){
       parallel {
-        stage('Deploy to EDI'){
+        stage('Upload to WWW'){
           steps {
             uploadToBucket(projectVarsWWW,params.ENVIRONMENT,"SCHEMA")
           }
         }
-        stage('Deploy to EDI'){
+        stage('Upload to EDI'){
           steps {
             uploadToBucket(projectVarsEDI,params.ENVIRONMENT,"SCHEMA")
           }
