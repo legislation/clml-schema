@@ -1,0 +1,2169 @@
+
+
+/* Created by XMetaL style generator. 2006 Justsystems Canada Inc. All rights reserved.*/
+
+
+/* XMetaL styles */
+
+$DOCUMENT {
+	font-family: Verdana, sans-serif;
+	margin-bottom: 6pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+$MARKSEC {
+	display: block;
+	color: black;
+	white-space: pre;
+	font-family: monospace;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+$COMMENT {
+	display: inline;
+	color: green;
+	white-space: pre;
+}
+
+$PROCINS {
+	color: red;
+	font-size: 10pt;
+}
+
+
+
+$procins[xm-pi-target="PrimaryPrelims"],
+$procins[xm-pi-target="SecondaryPrelims"],
+$procins[xm-pi-target="EUPrelims"],
+$procins[xm-pi-target="Body"],
+$procins[xm-pi-target="ExplanatoryNotes"],
+$procins[xm-pi-target="Part"],
+$procins[xm-pi-target="Chapter"],
+$procins[xm-pi-target="EUBody"],
+$procins[xm-pi-target="EUPart"],
+$procins[xm-pi-target="EUTitle"],
+$procins[xm-pi-target="EUChapter"],
+$procins[xm-pi-target="EUSection"],
+$procins[xm-pi-target="EUSubsection"],
+$procins[xm-pi-target="Division"],
+$procins[xm-pi-target="Attachments"],
+$procins[xm-pi-target="Attachment"],
+$procins[xm-pi-target="AttachmentGroup"],
+$procins[xm-pi-target="Pblock"],
+$procins[xm-pi-target="P1group"],
+$procins[xm-pi-target="Schedules"],
+$procins[xm-pi-target="Schedule"] {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	color:#7a0731;
+}
+
+@namespace atom	url(http://www.w3.org/2005/Atom);
+@namespace dc	url(http://purl.org/dc/elements/1.1/);
+@namespace err	url(http://www.tso.co.uk/assets/namespace/error);
+@namespace fo	url(http://www.w3.org/1999/XSL/Format);
+@namespace math	url(http://www.w3.org/1998/Math/MathML);
+@namespace namespace	url(http://www.w3.org/XML/1998/namespace);
+@namespace ukl	url(http://www.legislation.gov.uk/namespaces/legislation);
+@namespace ukm	url(http://www.legislation.gov.uk/namespaces/metadata);
+@namespace xhtml	url(http://www.w3.org/1999/xhtml);
+@namespace xlink	url(http://www.w3.org/1999/xlink);
+@namespace xsd	url(http://www.w3.org/2001/XMLSchema);
+
+ukl|Text {
+	display: inline;
+}
+
+ukl|RoyalPresence ukl|Text {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|Schedules>ukl|Title {
+	display: block;
+	font-size: 18pt;
+	text-align: center;
+	margin-top: 18pt;
+	margin-bottom: 12pt;
+}
+
+ukl|ExplanatoryNotes>ukl|Title {
+	display: block;
+	font-size: 14pt;
+	text-align: left;
+	border-top: none;
+	margin-bottom: 12pt;
+	text-align: center;
+}
+
+ukl|EarlierOrders>ukl|Title {
+	display: block;
+	font-size: 14pt;
+	text-align: left;
+	border-top: none;
+	margin-bottom: 12pt;
+	text-align: center;
+}
+
+ukl|Group>ukl|Title {
+	display: block;
+	font-size: 14pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Primary ukl|Group>ukl|Title {
+	display: block;
+	font-size: 14pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+}
+
+ukl|EUPart>ukl|Part {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: Bold;
+}
+
+ukl|EUTitle>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: Bold;
+}
+
+ukl|EUChapter>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+ukl|EUSection>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+ukl|EUSubsection>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	font-style: italic;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+
+ukl|Part>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Primary ukl|Part>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+}
+
+ukl|Chapter>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Primary ukl|Chapter>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+
+ukl|Pblock>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 24pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Primary ukl|Pblock>ukl|Title {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 24pt;
+	margin-bottom: 12pt;
+}
+
+ukl|PsubBlock>ukl|Title /* H5 */ 
+{
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 24pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Subject>ukl|Title {
+	font-size: 16pt;
+	display: block;
+	text-align: center;
+	background-color: white;
+	font-weight: bold;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+ukl|SecondaryPrelims>ukl|Title {
+	font-size: 16pt;
+	display: block;
+	text-align: center;
+	background-color: white;
+	font-weight: bold;
+	margin-top: 6pt;
+	margin-bottom: 24pt;
+}
+
+ukl|PrimaryPrelims>ukl|Title  {
+	font-size: 16pt;
+	display: block;
+	text-align: center;
+	background-color: white;
+	font-weight: bold;
+	margin-top: 6pt;
+	margin-bottom: 24pt;
+}
+
+ukl|Subtitle {
+	display: block;
+}
+
+ukl|Schedule>ukl|TitleBlock>ukl|Title /* H5 */ {
+	font-size: 16pt;
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Schedule>ukl|TitleBlock>ukl|Subtitle /* H5 */ {
+	font-size: 14pt;
+	display: block;
+	text-align: center;
+	margin-bottom: 12pt;
+}
+
+ukl|Subject>ukl|Subtitle  {
+	font-size: 14pt;
+	display: block;
+	text-align: center;
+	background-color: white;
+	font-weight: bold;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+ukl|JobTitle {
+	display: block;
+	margin-bottom: 6pt;
+	text-align: right;
+}
+
+ukl|Contents>ukl|ContentsTitle /* H2 */ {
+	display: block;
+	font-size: 14pt;
+	text-align: center;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsGroup>ukl|ContentsTitle /* H3 */ {
+	display: block;
+	text-align: center;
+	margin-top: 6pt;
+	margin-bottom: 12pt;
+	font-size: 14pt;
+}
+
+ukl|ContentsPart>ukl|ContentsTitle {
+	display: block;
+	text-align: center;
+	margin-top: 6pt;
+	margin-bottom: 12pt;
+	font-size: 12pt;
+	font-weight: normal;	
+}
+
+ukl|ContentsChapter>ukl|ContentsTitle /* H3 */ {
+	display: block;
+	text-align: center;
+	margin-top: 6pt;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsPblock>ukl|ContentsTitle {
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	font-style: italic;
+}
+
+ukl|ContentsItem>ukl|ContentsTitle {
+	display: inline;
+}
+
+ukl|ContentsItem>ukl|ContentsTitle:before {
+	content: '\a0\a0\a0\a0\a0';
+}
+
+ukl|ContentsSchedules>ukl|ContentsTitle {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsSchedule>ukl|ContentsTitle {
+	display: inline;
+}
+
+ukl|ContentsSchedule>ukl|ContentsTitle:before {
+	content: '\a0\a0\a0\a0\a0';
+}
+
+
+ukl|ContentsAppendix>ukl|ContentsTitle /* H3 */ {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsPsubBlock>ukl|ContentsTitle {
+	display: block;
+	margin-bottom: 12pt;
+	font-style: italic;
+}
+
+ukl|ContentsSubItem>ukl|ContentsTitle /* H4 */ {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsSubItem>ukl|ContentsSubItem>ukl|ContentsTitle /* H5 */ {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|ContentsSubItem>ukl|ContentsSubItem>ukl|ContentsSubItem>ukl|ContentsTitle /* H6 */ {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|LongTitle {
+	display: block;
+	margin-bottom: 12pt;
+	margin-top: 12pt;
+	font-weight: normal;
+}
+
+/* Toggle elements styles (bold, italic, underline) */
+ukl|Emphasis {
+	font-style: italic;
+}
+
+ukl|Strong {
+	font-weight: bold;
+}
+
+ukl|Underline {
+	text-decoration: underline;
+}
+
+/* URLs styles */
+
+/* Images styles */
+
+/* Lists styles */
+ukl|OrderedList {
+	counter-reset: item;
+	display: block;
+	list-style-type: none;
+	margin-bottom: 12pt;
+	margin-left: 36pt;
+	margin-top: 12pt;
+	text-align: left;
+}
+
+ukl|OrderedList[Start='1'] {
+	counter-reset: item 0;
+}
+
+ukl|OrderedList[Start='2'] {
+	counter-reset: item 1;
+}
+
+ukl|OrderedList[Start='3'] {
+	counter-reset: item 2;
+}
+
+ukl|OrderedList[Start='4'] {
+	counter-reset: item 3;
+}
+
+ukl|OrderedList[Start='5'] {
+	counter-reset: item 4;
+}
+
+ukl|OrderedList[Start='6'] {
+	counter-reset: item 5;
+}
+
+ukl|OrderedList[Start='7'] {
+	counter-reset: item 6;
+}
+
+ukl|OrderedList[Start='8'] {
+	counter-reset: item 7;
+}
+
+ukl|OrderedList[Start='9'] {
+	counter-reset: item 8;
+}
+
+ukl|OrderedList[Start='10'] {
+	counter-reset: item 9;
+}
+
+ukl|ListItem {
+	counter-increment: item;
+	margin-left: 0pt;
+	margin-bottom: 12pt;
+	display: list-item;
+	text-align: left;
+}
+
+ukl|ListItem[NumberOverride] {
+	counter-increment: none;
+}
+
+ukl|OrderedList > ukl|ListItem:before {
+    content: counter(item, decimal) "		";
+}
+
+ukl|OrderedList[Decoration='parens'] > ukl|ListItem:before {
+    content: "(" counter(item, decimal) ")		";
+}
+
+ukl|OrderedList[Decoration='parenRight'] > ukl|ListItem:before {
+    content: counter(item, decimal) ")		";
+}
+
+ukl|OrderedList[Decoration='brackets'] > ukl|ListItem:before {
+    content: "[" counter(item, decimal) "]		";
+}
+
+ukl|OrderedList[Decoration='bracketRight'] > ukl|ListItem:before {
+    content: counter(item, decimal) "]		";
+}
+
+ukl|OrderedList[Decoration='period'] > ukl|ListItem:before {
+    content: counter(item, decimal) ".		";
+}
+
+ukl|OrderedList[Decoration='colon'] > ukl|ListItem:before {
+    content: counter(item, decimal) ":		";
+}
+
+ukl|OrderedList[Type='alpha'] > ukl|ListItem:before {
+	content: counter(item, lower-alpha) "		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='parens'] > ukl|ListItem:before {
+    content: "(" counter(item, lower-alpha) ")		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='parenRight'] > ukl|ListItem:before {
+    content: counter(item, lower-alpha) ")		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='brackets'] > ukl|ListItem:before {
+    content: "[" counter(item, lower-alpha) "]		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='bracketRight'] > ukl|ListItem:before {
+    content: counter(item, lower-alpha) "]		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='period'] > ukl|ListItem:before {
+    content: counter(item, lower-alpha) ".		";
+}
+
+ukl|OrderedList[Type='alpha'][Decoration='colon'] > ukl|ListItem:before {
+    content: counter(item, lower-alpha) ":		";
+}
+
+ukl|OrderedList[Type='roman'] > ukl|ListItem:before {
+	content: counter(item, lower-roman) "		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='parens'] > ukl|ListItem:before {
+    content: "(" counter(item, lower-roman) ")		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='parenRight'] > ukl|ListItem:before {
+    content: counter(item, lower-roman) ")		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='brackets'] > ukl|ListItem:before {
+    content: "[" counter(item, lower-roman) "]		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='bracketRight'] > ukl|ListItem:before {
+    content: counter(item, lower-roman) "]		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='period'] > ukl|ListItem:before {
+    content: counter(item, lower-roman) ".		";
+}
+
+ukl|OrderedList[Type='roman'][Decoration='colon'] > ukl|ListItem:before {
+    content: counter(item, lower-roman) ":		";
+}
+
+ukl|OrderedList[Type='alphaUpper'] > ukl|ListItem:before {
+	content: counter(item, upper-alpha) "		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='parens'] > ukl|ListItem:before {
+    content: "(" counter(item, upper-alpha) ")		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='parenRight'] > ukl|ListItem:before {
+    content: counter(item, upper-alpha) ")		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='brackets'] > ukl|ListItem:before {
+    content: "[" counter(item, upper-alpha) "]		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='bracketRight'] > ukl|ListItem:before {
+    content: counter(item, upper-alpha) "]		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='period'] > ukl|ListItem:before {
+    content: counter(item, upper-alpha) ".		";
+}
+
+ukl|OrderedList[Type='alphaUpper'][Decoration='colon'] > ukl|ListItem:before {
+    content: counter(item, upper-alpha) ":		";
+}
+
+ukl|OrderedList[Type='romanUpper'] > ukl|ListItem:before {
+	content: counter(item, upper-roman) "		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='parens'] > ukl|ListItem:before {
+    content: "(" counter(item, upper-roman) ")		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='parenRight'] > ukl|ListItem:before {
+    content: counter(item, upper-roman) ")		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='brackets'] > ukl|ListItem:before {
+    content: "[" counter(item, upper-roman) "]		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='bracketRight'] > ukl|ListItem:before {
+    content: counter(item, upper-roman) "]		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='period'] > ukl|ListItem:before {
+    content: counter(item, upper-roman) ".		";
+}
+
+ukl|OrderedList[Type='romanUpper'][Decoration='colon'] > ukl|ListItem:before {
+    content: counter(item, upper-roman) ":		";
+}
+
+ukl|OrderedList > ukl|ListItem[NumberOverride]:before {
+	content: attr(NumberOverride) "		";
+}
+
+ukl|OrderedList[Decoration='parens'] > ukl|ListItem[NumberOverride]:before {
+    content: "(" attr(NumberOverride) ")		";
+}
+
+ukl|OrderedList[Decoration='parenRight'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) ")		";
+}
+
+ukl|OrderedList[Decoration='brackets'] > ukl|ListItem[NumberOverride]:before {
+    content: "[" attr(NumberOverride) "]		";
+}
+
+ukl|OrderedList[Decoration='bracketRight'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "]		";
+}
+
+ukl|OrderedList[Decoration='period'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) ".		";
+}
+
+ukl|OrderedList[Decoration='colon'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) ":		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='parens'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='parens'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='parenRight'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='brackets'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='period'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|EURetained ukl|OrderedList[Decoration='colon'] > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+
+ukl|EURetained ukl|ListItem>ukl|Para {
+	display: inline;
+}
+
+
+
+ukl|OrderedList > ukl|ListItem[NumberOverride]:before {
+    content: attr(NumberOverride) "		";
+}
+
+ukl|UnorderedList {
+	display: block;
+	margin-bottom: 12pt;
+	margin-top: 12pt;
+	margin-left: 24pt;
+	text-align: left;
+}
+
+ukl|UnorderedList[Decoration='none'] {
+	display: block;
+	list-style-type: none;
+	margin-bottom: 12pt;
+	margin-top: 12pt;
+	margin-left: 24pt;
+	text-align: left;
+}
+
+ukl|KeyList {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|KeyListItem {
+	display: block;
+	text-align: left;
+}
+
+xhtml|tbody {
+	display: block;
+}
+
+xhtml|table>xhtml|caption {
+	font-size: 10pt;
+	display: block;
+	color: black;
+	font-weight: bold;
+	margin: 0pt;
+	text-align: left;
+	font-weight: bold;
+}
+ukl|PersonName {
+	display: block;
+	margin-bottom: 6pt;
+	text-align: right;
+}
+
+ukl|Primary {
+	display: block;
+}
+
+ukl|Secondary:before {
+	display: block;
+}
+
+ukl|Secondary {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|Body {
+	display: block;
+}
+
+ukl|Schedules {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|Abstract {
+	display: block;
+}
+
+ukl|AbstractBody {
+	display: block;
+}
+
+ukl|Schedule {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|ScheduleBody {
+	display: block;
+}
+
+ukl|Reference {
+	display: block;
+	text-align: right;
+}
+
+ukl|Appendix {
+	display: block;
+}
+
+ukl|Appendix > ukl|Number {
+	display: block;
+	font-size: 16pt;
+	text-align: center;
+}
+
+ukl|Appendix>ukl|TitleBlock>ukl|Title {
+	font-size: 16pt;
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+ukl|Appendix>ukl|TitleBlock>ukl|Subtitle {
+	font-size: 14pt;
+	display: block;
+	text-align: center;
+	margin-bottom: 12pt;
+}
+
+ukl|AppendixBody {
+	display: block;
+}
+
+ukl|Para {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|TitleBlock {
+	display: block;
+}
+
+ukl|Number {
+	display: block;
+}
+
+ukl|SecondaryPrelims > ukl|Number {
+	display: block;
+	font-size: 16pt;
+	text-align: center;
+}
+
+ukl|PrimaryPrelims > ukl|Number {
+	display: block;
+	font-size: 16pt;
+	text-align: center;
+	margin-bottom: 24pt; 
+}
+
+ukl|Schedule > ukl|Number {
+	display: block;
+	font-size: 16pt;
+	text-align: center;
+}
+
+ukl|Group>ukl|Number {
+	display: block;
+	font-size: 14pt;
+	text-align: center;
+}
+
+ukl|Primary ukl|Group>ukl|Number {
+	display: block;
+	font-size: 14pt;
+	text-align: center;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+ukl|Part>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+}
+
+ukl|Primary ukl|Part>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+ukl|Chapter>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+}
+
+ukl|Primary ukl|Chapter>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+ukl|Pblock > ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+}
+
+ukl|PsubBlock > ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+}
+
+ukl|EUPart>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUChapter>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-style:italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUTitle>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ukl|EUSection>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+}
+
+ukl|EUSubsection>ukl|Number {
+	display: block;
+	font-size: 12pt;
+	text-align: center;
+	font-weight: normal;
+}
+
+
+
+
+ukl|Department {
+	display: block;
+	text-align: right;
+}
+
+ukl|Address {
+	display: block;
+}
+
+ukl|Character {
+	display: inline;
+}
+
+ukl|Character:before {
+	display: inline;
+	color: Olive;
+	font-weight: bold;
+	content: 'Name: ' attr(Name);
+}
+
+ukl|Part {
+	display: block;
+}
+
+ukl|Chapter {
+	display: block;
+}
+
+ukl|EUPart {
+	display: block;
+}
+
+ukl|EUTitle {
+	display: block;
+}
+
+ukl|EUChapter {
+	display: block;
+}
+
+ukl|EUSection {
+	display: block;
+}
+
+ukl|EUSubsection {
+	display: block;
+}
+
+ukl|Pblock {
+	display: block;
+}
+
+ukl|PsubBlock {
+	display: block;
+}
+
+ukl|P1group {
+	display: block;
+	margin-bottom: 12pt;
+	margin-top: 24pt;
+}
+
+ukl|Schedule[Concurrent='true']:before, ukl|Part[Concurrent='true']:before, ukl|Chapter[Concurrent='true']:before, ukl|Pblock[Concurrent='true']:before, ukl|P1group[Concurrent='true']:before{
+	display: block;
+	content: 'Concurrent version with extent: ' attr(RestrictExtent);
+	color: white;
+	background-color: blue;
+	font-size: 0.8em;
+	font-weight: bold;
+	padding: 5pt;
+	margin: 2pt;
+}
+
+ukl|P1 {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 12pt;
+	margin-left: 6pt;
+}
+
+ukl|P1>ukl|Pnumber {
+	font-weight: bold;
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukl|EURetained ukl|P1>ukl|Pnumber {
+	font-weight: normal;
+	display: block;
+	margin-bottom: 6pt;
+	text-align:center
+}
+
+ukl|Pnumber {
+	display: inline;
+}
+
+ukl|P1>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|P1>ukl|Pnumber:after {
+	content: ".";
+}
+
+ukl|P2>ukl|Pnumber:before {
+	content: "(";
+}
+
+ukl|P2>ukl|Pnumber:after {
+	content: ")";
+}
+
+ukl|P3>ukl|Pnumber:before {
+	content: "(";
+}
+
+ukl|P3>ukl|Pnumber:after {
+	content: ")";
+}
+
+ukl|P4>ukl|Pnumber:before {
+	content: "(";
+}
+
+ukl|P4>ukl|Pnumber:after {
+	content: ")";
+}
+
+ukl|EURetained ukl|P1>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P2>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P2>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P3>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P3>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|EURetained ukl|P4>ukl|Pnumber:before {
+	content: "";
+}
+
+ukl|EURetained ukl|P4>ukl|Pnumber:after {
+	content: "";
+}
+
+ukl|Pnumber[PuncBefore]:before {
+	content: attr(PuncBefore);
+}
+
+ukl|Pnumber[PuncAfter]:after {
+	content: attr(PuncAfter);
+}
+
+ukl|Pnumber[PuncAfter='None']:after {
+	content: '';
+}
+
+ukl|Pnumber[PuncBefore='None']:before {
+	content: '';
+}
+
+ukl|P1para {
+	display: inline;
+}
+
+ukl|P2group {
+	display: block;
+	margin-bottom: 12pt; 
+}
+
+ukl|P2 {
+	display: block;
+	margin-top: 3pt;
+	margin-bottom: 12pt;
+}
+
+ukl|P2para {
+	display: inline;
+}
+
+ukl|P2para:before 
+{
+	content: '\a0\a0\a0';
+}
+
+ukl|P3group {
+	display: block;
+	margin-bottom: 12pt; 
+}
+
+ukl|P3 {
+	display: block;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	margin-left: 48pt;
+	text-indent: -24pt;
+}
+
+ukl|P3para {
+	display: inline;
+}
+
+ukl|P3para:before 
+{
+	content: '\a0\a0\a0\a0\a0';
+}
+
+ukl|P4 {
+	display: block;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	margin-left: 48pt;
+	text-indent: -24pt;
+}
+
+ukl|P4para {
+	display: inline;
+}
+
+ukl|P4para:before 
+{
+	content: '\a0\a0\a0\a0\a0';
+}
+
+ukl|P5 {
+	display: block;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	margin-left: 48pt;
+	text-indent: -24pt;
+}
+
+ukl|P5para {
+	display: inline;
+}
+
+ukl|P5para:before 
+{
+	content: '\a0\a0\a0\a0\a0';
+}
+
+ukl|P6 {
+	display: block;
+	margin-top: 3pt;
+	margin-bottom: 6pt;
+	margin-left: 24pt;
+}
+
+ukl|P6para {
+	display: block;
+}
+
+ukl|P7 {
+	display: block;
+	margin-bottom: 6pt;
+	margin-top: 3pt;
+}
+
+ukl|P7para {
+	display: block;
+}
+
+ukl|P {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|AppendText {
+	display: inline;
+}
+
+ukl|BlockText {
+	display: block;
+	margin: 12pt;
+}
+
+ukl|Span {
+	display: inline;
+}
+
+ukl|SmallCaps {
+	display: inline;
+	font-variant: small-caps;
+}
+
+ukl|Inferior {
+	display: inline;
+	vertical-align: sub;
+}
+
+ukl|Superior {
+	display: inline;
+	vertical-align: super;
+}
+
+ukl|Acronym {
+	display: inline;
+}
+
+ukl|Acronym:before {
+	display: inline;
+	content: 'Expansion: ' attr(Expansion) ' ';
+	color: olive;
+}
+
+ukl|Abbreviation {
+	display: inline;
+}
+
+ukl|Abbreviation:before {
+	display: inline;
+	content: 'Expansion: ' attr(Expansion) ' ';
+	color: olive;
+}
+
+ukl|CommentaryRef:before {
+	display: inline;
+	content: 'FN';
+	font-weight: bold;
+	font-size: 0.8em;
+	vertical-align: text-top;
+}
+
+ukl|CommentaryRef:after {
+	display: inline;
+	content: attr(Ref);
+	color: olive;
+	font-size: 0.8em;
+	vertical-align: text-top;
+}
+
+ukl|Addition[Mark='Start']:before, ukl|Substitution[Mark='Start']:before, ukl|Repeal[Mark='Start']:before {
+	display: inline;
+	content: '[';
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+ukl|Addition[Mark='Start'][CommentaryRef]:after, ukl|Substitution[Mark='Start'][CommentaryRef]:after, ukl|Repeal[Mark='Start'][CommentaryRef]:after {
+	display: inline;
+	content: attr(CommentaryRef);
+	color: olive;
+	font-size: 0.8em;
+	vertical-align: text-top;
+}
+
+ukl|Addition[Mark='End']:before, ukl|Substitution[Mark='End']:before, ukl|Repeal[Mark='End']:before {
+	display: inline;
+	content: ']';
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+ukl|Addition[Status='Proposed'][Mark='Start']:before {
+	display: inline;
+	content: '[';
+	font-weight: bold;
+	font-size: 1.2em;
+	color: green;
+}
+
+ukl|Addition[Status='Proposed'][Mark='End']:before {
+	display: inline;
+	content: ']';
+	font-weight: bold;
+	font-size: 1.2em;
+	color: green;
+}
+
+ukl|Repeal[Status='Proposed'][Mark='Start']:before {
+	display: inline;
+	content: '[';
+	font-weight: bold;
+	font-size: 1.2em;
+	color: red;
+	text-decoration: line-through;
+}
+
+ukl|Repeal[Status='Proposed'][Mark='End']:before {
+	display: inline;
+	content: ']';
+	font-weight: bold;
+	font-size: 1.2em;
+	color: red;
+	text-decoration: line-through;
+}
+
+ukl|Substitution[Status='Proposed'][Mark='Start']:before {
+	display: inline;
+	content: '[';
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF4500;
+}
+
+ukl|Substitution[Status='Proposed'][Mark='End']:before {
+	display: inline;
+	content: ']';
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF4500;
+}
+
+ukl|Footnotes {
+	display: block;
+	margin-left: 24pt;
+	margin-right: 24pt;
+	margin-top: 24pt;
+	border: solid 1px black;
+	padding: 12pt;
+}
+
+ukl|Footnote {
+	display: block;
+	margin-top: 18pt;
+}
+
+ukl|Footnote:before {
+	display: inline;
+	font-weight: bold;
+	color: olive;
+	content: 'id: ' attr(id);
+}
+
+ukl|FootnoteRef {
+	display: inline;
+}
+
+ukl|FootnoteRef:before {
+	display: inline;
+	font-weight: bold;
+	color: olive;
+	content: 'Ref: ' attr(Ref);
+}
+
+ukl|MarginNotes {
+	display: block;
+	margin-left: 24pt;
+	margin-right: 24pt;
+	margin-top: 24pt;
+	border: solid 1px black;
+	padding: 12pt;
+}
+
+ukl|MarginNote {
+	display: block;
+}
+
+ukl|MarginNoteRef {
+	display: inline;
+}
+
+ukl|MarginNoteRef:before {
+	display: inline;
+	font-weight: bold;
+	color: olive;
+	content: 'Ref: ' attr(Ref);
+}
+
+ukl|InternalLink {
+	display: inline;
+}
+
+ukl|ExternalLink {
+	display: inline;
+}
+
+ukl|Contents {
+	display: block;
+	margin-top: 24pt;
+	margin-bottom: 24pt;
+}
+
+ukl|ContentsNumber 
+{
+	display: inline;
+}
+
+ukl|ContentsTitle 
+{
+	display: block;
+	margin-bottom: 0.5em;
+	text-align: left;
+}
+
+ukl|ContentsGroup>ukl|ContentsNumber {
+	display: block;
+	text-align: center;
+	margin-top: 24pt;
+	margin-bottom: 0pt;
+	font-size: 14pt;
+}
+
+ukl|ContentsPart>ukl|ContentsNumber {
+	display: block;
+	text-align: center;
+	margin-top: 24pt;
+	margin-bottom: 0pt;
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+ukl|ContentsChapter>ukl|ContentsNumber {
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+ukl|ContentsPblock>ukl|ContentsNumber {
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	font-size: 12pt;
+}
+
+ukl|ContentsPart {
+	display: block;
+}
+
+ukl|ContentsChapter {
+	display: block;
+}
+
+ukl|ContentsPblock {
+	display: block;
+	margin-top: 12pt;
+}
+
+ukl|ContentsPsubBlock {
+	display: block;
+}
+
+ukl|ContentsItem {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukl|ContentsSubItem {
+	display: block;
+}
+
+ukl|ContentsSchedules {
+	display: block;
+	margin-top: 18pt;
+}
+
+ukl|ContentsSchedule {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukl|ContentsAppendix {
+	display: block;
+}
+
+ukl|Key {
+	display: block;
+}
+
+ukl|Formula {
+	display: block;
+}
+
+ukl|Where {
+	display: block;
+}
+
+ukl|Figure {
+	display: block;
+	margin-bottom: 12pt;
+}
+
+ukl|Notes {
+	display: block;
+}
+
+ukl|Image {
+	display: inline;
+}
+
+ukl|Image:before {
+	display: inline;
+	font-weight: bold;
+	color: olive;
+	content: 'ResourceRef: ' attr(ResourceRef);
+}
+
+ukl|Tabular {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+}
+
+ukl|Tabular>ukl|Title {
+	display: block;
+	margin-bottom: 6pt;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+ukl|Versions {
+	display: block;
+}
+
+ukl|Version {
+	display: block;
+}
+
+ukl|Version[RestrictOutput='true'] {
+	display: none;
+}
+
+ukl|IncludedDocument {
+	display: block;
+}
+
+ukl|Resources {
+	display: block;
+	margin-left: 24pt;
+	margin-right: 24pt;
+	margin-top: 24pt;
+	border: solid 1px black;
+	padding: 12pt;
+}
+
+ukl|ResourceGroup {
+	display: block;
+}
+
+ukl|Resource {
+	display: block;
+	margin-top: 12pt;
+}
+
+ukl|Resource:before 
+{
+	display: block;
+	font-weight: bold;
+	color: Olive;
+	content: 'id: ' attr(id) '  ';
+}
+
+ukl|InternalVersion {
+	display: block;
+}
+
+ukl|BinaryContent {
+	display: block;
+}
+
+ukl|XMLcontent {
+	display: block;
+}
+
+ukl|ExternalVersion {
+	display: block;
+}
+
+ukl|ExternalVersion:before {
+	display: block;
+	font-weight: bold;
+	color: Olive;
+	content: 'URI: ' attr(URI) '; Format: ' attr(Format);
+}
+
+ukl|BlockAmendment {
+	display: block;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+	margin-left: 24pt;
+	padding: 6pt;
+	border: solid 1px #808080;
+	background-color: #f0f0f0;
+}
+
+ukl|FragmentNumber {
+	display: block;
+}
+
+ukl|FragmentTitle {
+	display: block;
+}
+
+ukl|BlockExtract {
+	display: block;
+}
+
+ukl|InlineExtract {
+	display: inline;
+}
+
+ukl|Form {
+	display: block;
+}
+
+ukl|Citation {
+	display: inline;
+}
+
+ukl|Citation:before  {
+	display: inline;
+	font-weight: bold;
+	color: Olive;
+	content: 'Class: ' attr(Class) '; Year: ' attr(Year) '; Number: ' attr(Number) '  ';
+}
+
+ukl|CitationSubRef {
+	display: inline;
+}
+
+ukl|ExplanatoryNotes {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|EarlierOrders {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|Comment {
+	display: block;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 12pt;
+}
+
+ukl|DecoratedGroup {
+	display: block;
+}
+
+ukl|GroupItem {
+	display: block;
+}
+
+ukl|GroupItemRef {
+	display: inline;
+}
+
+ukl|PrimaryPrelims {
+	display: block;
+	margin-bottom: 24pt;
+}
+
+ukl|SecondaryPrelims {
+	display: block;
+	margin-bottom: 24pt;
+}
+
+ukl|PrimaryPreamble {
+	display: block;
+}
+
+ukl|SecondaryPreamble {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|SubjectInformation {
+	display: block;
+}
+
+ukl|IntroductoryText {
+	display: block;
+	margin-bottom: 12pt; 
+}
+
+ukl|EnactingText {
+	display: block;
+}
+
+ukl|EnactingTextOmitted {
+	display: block;
+}
+
+ukl|Resolution {
+	display: block;
+}
+
+ukl|DateOfEnactment {
+	display: block;
+	text-align: right;
+	margin-bottom: 12pt; 
+}
+
+ukl|Approved {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|LaidDraft {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|SiftedDate {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+
+ukl|MadeDate {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|LaidDate {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|DateText {
+	display: inline;
+	padding-left: 2cm;
+}
+
+ukl|ComingIntoForce {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: center;
+}
+
+ukl|RoyalPresence {
+	display: block;
+	text-align: center;
+	margin-top: 24pt;
+	margin-bottom: 24pt;
+}
+
+ukl|Draft {
+	display: block;
+	margin-bottom: 24pt;
+}
+
+ukl|SignedSection {
+	display: block;
+	margin-top: 24pt;
+}
+
+ukl|Signatory {
+	display: block;
+	margin-bottom: 18pt;
+}
+
+ukl|LSseal {
+	display: block;
+}
+
+ukl|Signee {
+	display: block;
+}
+
+ukl|DateSigned {
+	display: block;
+}
+
+ukl|Legislation {
+	display: block;
+}
+
+ukl|AddressLine {
+	display: block;
+}
+
+ukl|FootnoteText {
+	display: block;
+}
+
+ukl|equationNumber {
+	display: block;
+}
+
+ukl|TableText {
+	display: block;
+}
+
+ukl|Subject {
+	display: block;
+}
+
+ukl|ComingIntoForceClauses {
+	display: block;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	text-align: right;
+}
+
+math|math {
+	display: block;
+	text-align: center;
+	margin-top: 12pt;
+	margin-bottom: 12pt;
+}
+
+math|* {
+	display: inline;
+}
+
+xhtml|table {
+	display: block;
+	margin-bottom: 6pt;
+	background-color: inherit;
+}
+
+xhtml|colgroup {
+	display: block;
+}
+
+xhtml|col {
+	display: inline;
+}
+
+xhtml|thead {
+	display: block;
+}
+
+xhtml|tfoot {
+	display: block;
+}
+
+xhtml|tr {
+	display: block;
+}
+
+xhtml|th {
+	display: block;
+	font-style: italic;
+}
+
+xhtml|th ukl|Emphasis {
+	display: block;
+	font-style: normal;
+}
+
+xhtml|td {
+	display: block;
+}
+
+ukm|Metadata {
+	display: none;
+}
+
+ukm|PrimaryMetadata {
+	display: block;
+	margin: 0pt;
+	padding: 0pt;
+}
+
+ukm|SecondaryMetadata {
+	display: block;
+	margin: 0pt;
+	padding: 0pt;
+}
+
+ukm|EnactmentDate {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukm|Sifted {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukm|Sifted:before {
+	display: inline;
+	content: 'Date: ' attr(Date) ' Time: ' attr(Time);
+}
+
+
+ukm|Made {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukm|Made:before {
+	display: inline;
+	content: 'Date: ' attr(Date) ' Time: ' attr(Time);
+}
+
+ukm|Laid {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|Laid:before {
+	display: inline;
+	content: 'Date: ' attr(Date) ' Time: ' attr(Time);
+}
+
+ukm|ComingIntoForce {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|RoyalPresence {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|RoyalPresence:before {
+	display: inline;
+	content: 'Date: ' attr(Date) ' Time: ' attr(Time);
+}
+
+
+ukm|Resolution {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DepartmentCode {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|Year {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|Year:before {
+	display: inline;
+	content: attr(Value);
+}
+
+ukm|Number {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|Number:before {
+	display: inline;
+	content: attr(Value);
+}
+
+ukm|AlternativeNumber {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|AlternativeNumber:before {
+	display: inline;
+	content: 'Category: ' attr(Category) ' Value: ' attr(Value);
+}
+
+ukm|DocumentClassification {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DateTime {
+	display: block;
+}
+
+ukm|DocumentCategory {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DocumentCategory:before {
+	display: inline;
+	content: attr(Value);	
+}
+
+ukm|DocumentMainType {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DocumentMainType:before {
+	display: inline;
+	content: attr(Value);
+}
+
+ukm|DocumentStatus {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DocumentStatus:before {
+	display: inline;
+	content: attr(Value);
+}
+
+ukm|DocumentMinorType {
+	display: block;
+	margin-bottom: 6pt;	
+}
+
+ukm|DocumentMinorType:before {
+	display: inline;
+	content: attr(Value);
+}
+
+dc|title {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|creator {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|subject {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|description {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|publisher {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|contributor {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|date {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|type {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|format {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|identifier {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|source {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|language {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|relation {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|coverage {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|rights {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+dc|modified {
+	display: block;
+	margin-bottom: 6pt;
+}
+
+ukl|P1group>ukl|Title {
+	display: inline;
+	font-size: 1em;
+	text-align: left;
+	font-weight: bold;
+}
+
+ukl|EURetained ukl|P1group>ukl|Title {
+	display: block;
+	font-size: 1em;
+	text-align: center;
+	font-weight: bold;
+}
+
+ukl|Tasks {
+	display: none;
+}
+
+ukl|Commentary[id]:before {
+	display: block;
+	content: attr(id);
+	color: olive;
+	font-size: 0.8em;
+	vertical-align: text-top;
+}
