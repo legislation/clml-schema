@@ -24,7 +24,7 @@ pipeline {
         mkdir target/schema
         mkdir target/schemaModules
         cp schema target/schema -rf
-        cp xmetal/. target/schema -rf
+        cp xmetal/. target/schema/schema -rf
         cp schemaModules target/schemaModules -rf
         cp appspec.yml target/appspec.yml                 
         """
