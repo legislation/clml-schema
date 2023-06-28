@@ -268,25 +268,10 @@
 		</xs:simpleType>
 	</xs:element>
 
-	<xs:element name="Author">
+	<xs:element name="Author" type="xs:string">
 		<xs:annotation>
 			<xs:documentation>Author of this document</xs:documentation>
 		</xs:annotation>
-		<xs:simpleType>
-			<xs:restriction base="xsd:string">
-				<xs:enumeration value="editorial.legislation.gov.uk"/>
-				<xs:enumeration value="Queen's Printer of Acts of Parliament"/>
-				<xs:enumeration value="Queen's Printer for Scotland"/>
-				<xs:enumeration value="King's Printer of Acts of Parliament"/>
-				<xs:enumeration value="King's Printer for Scotland"/>
-				<xs:enumeration value="Government Printer for Northern Ireland"/>
-				<xs:enumeration value="Better Regulation Executive"/>
-				<xs:enumeration value="EUR-Lex"/>
-				<xs:enumeration value="Department for Work and Pensions"/>
-				<xs:enumeration value="Statute Law Database"/>
-				<xs:enumeration value="Westlaw"/>
-			</xs:restriction>
-		</xs:simpleType>
 	</xs:element>
 
 	<xs:element name="CorrectionSlipNumber">

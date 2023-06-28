@@ -48,6 +48,7 @@
 	<xs:element name="any" abstract="true">
 		<xs:complexType mixed="true">
 			<xs:attribute name="scheme" use="optional"/>
+			<xs:attribute ref="xml:lang" use="optional"/>
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="title" substitutionGroup="any">
