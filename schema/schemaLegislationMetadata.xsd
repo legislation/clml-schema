@@ -24,7 +24,7 @@
 			<xsd:documentation>
 			Modification information
 			Version	Name				Modification
-			2.6		William Jonadoss	Added Print attribute
+			2.6		William Jonadoss	Added Print attribute, Moved DocumentCategory element definition out of DocumentClassification so it can be used outside of that context (for PublicationLog.xsd)
 			2.5		Karl Rajangam		Added attributes WelshApplied and RequiresWelshApplied, and annotations for attributes Applied, RequiresApplied and element InForce
 			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
 			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion, ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
@@ -815,15 +815,7 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="DocumentCategory">
-					<xsd:annotation>
-						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
-					</xsd:annotation>
-					<xsd:complexType>
-						<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
-						<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
-					</xsd:complexType>
-				</xsd:element>
+				<xsd:element ref="DocumentCategory"/>
 				<xsd:element ref="DocumentMainType"/>
 				<xsd:element name="DocumentStatus">
 					<xsd:annotation>
@@ -853,6 +845,16 @@
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
+
+	<xsd:element name="DocumentCategory">
+		<xsd:annotation>
+			<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+			<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
+		</xsd:complexType>
+	</xsd:element>	
 
 	<xsd:element name="DocumentMainType">
 		<xsd:annotation>

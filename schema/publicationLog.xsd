@@ -277,6 +277,8 @@
 				<xs:enumeration value="editorial.legislation.gov.uk"/>
 				<xs:enumeration value="Queen's Printer of Acts of Parliament"/>
 				<xs:enumeration value="Queen's Printer for Scotland"/>
+				<xs:enumeration value="King's Printer of Acts of Parliament"/>
+				<xs:enumeration value="King's Printer for Scotland"/>
 				<xs:enumeration value="Government Printer for Northern Ireland"/>
 				<xs:enumeration value="Better Regulation Executive"/>
 				<xs:enumeration value="EUR-Lex"/>
