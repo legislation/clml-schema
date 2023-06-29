@@ -27,17 +27,17 @@
 			<xsd:documentation>
 				Modification information
 				Version	Name				Modification
-				1.0		Mark Rainbird		Created
-				1.1		Mark Rainbird		Add choice for elements that may occur depending on whether Event value is 'published' or 'withdrawn'
-				1.2		Mark Rainbird		Add Author element to xsd:choice option so it always is included in all logs
-				1.3		Mark Rainbird		Add new Author enum, html5 enum for Format. Also option element InteralURI added for XML Publication Logs.
-				1.4		Mark Rainbird		Add new Author enum.
-				1.5		Mark Rainbird		Added container elements DocumentLog, ChangesLog, PublishEvent, WithdrawEvent.
-				1.6		Mark Rainbird		Added annotation content and improved layout spacing.
-				1.7		William Jonadoss 	Add new Author enum. 'Westlaw'.
-				1.8		William Jonadoss 	Added Author element to 'unbounded' as they are several authors available in single document
-				1.9		William Jonadoss 	Added new element 'pbl:NewlyIssued'
-				1.10	Marc Sturman 		Update Impact Assessment Author value back to the current value that is in the metadata
+				1.0     Mark Rainbird       Created
+				1.1     Mark Rainbird       Add choice for elements that may occur depending on whether Event value is 'published' or 'withdrawn'
+				1.2     Mark Rainbird       Add Author element to xsd:choice option so it always is included in all logs
+				1.3     Mark Rainbird       Add new Author enum, html5 enum for Format. Also option element InteralURI added for XML Publication Logs.
+				1.4     Mark Rainbird       Add new Author enum.
+				1.5     Mark Rainbird       Added container elements DocumentLog, ChangesLog, PublishEvent, WithdrawEvent.
+				1.6     Mark Rainbird       Added annotation content and improved layout spacing.
+				1.7     William Jonadoss    Add new Author enum. 'Westlaw'.
+				1.8     William Jonadoss    Added Author element to 'unbounded' as they are several authors available in single document
+				1.9     William Jonadoss    Added new element 'pbl:NewlyIssued'
+				1.10    TSO                 Update Impact Assessment Author value back to the current value that is in the metadata
 			</xsd:documentation>
 		</xs:appinfo>
 	</xs:annotation>

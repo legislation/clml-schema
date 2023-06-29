@@ -29,12 +29,12 @@
 			</xsd:documentation>
 			<xsd:documentation>
 			Modification information
-			Version	Name						Modification
-			2.2		Colin Mackenzie			Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0		Colin Mackenzie			Numbering restarted at 2 for new EU and merged schema
-			2.0 	   Colin Mackenzie			Changed Document Status to allow draft values
-			0.2		Marc Sturman			   Added UnitedKingdomMinisterialDirection
-			0.1		Griff Chamberlain		  Created
+			Version	Name                    Modification
+			2.2     Colin Mackenzie         Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
+			2.0     Colin Mackenzie         Numbering restarted at 2 for new EU and merged schema
+			2.0     Colin Mackenzie         Changed Document Status to allow draft values
+			0.2     TSO                     Added UnitedKingdomMinisterialDirection
+			0.1     Griff Chamberlain       Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
