@@ -33,14 +33,14 @@
 			<xsd:documentation>
 				<h:p>Holds all of the content that is needed by the document but is not part of the main flow of the document or is external to the document, e.g. graphics.</h:p>
 				<h:p>Resources may be held internally or externally.</h:p>
-				<h:p>If the resource is held internally then it may be held as XML content, e.g. SVG for a graphic. Internal versions are held using the InternalVersion element. It is expected that an application processing the schema should know how to handle the following namespaces:</h:p>
+				<h:p>If the resource is held internally then it may be held as XML content, e.g. SVG for a graphic. Internal versions are held using the <h:code>&lt;InternalVersion&gt;</h:code> element. It is expected that an application processing the schema should know how to handle the following namespaces:</h:p>
 				<h:ul>
 					<h:li>SVG</h:li>
 					<h:li>XSL:FO</h:li>
 					<h:li>XHTML</h:li>
-					<h:li>Math ML</h:li>
+					<h:li>MathML</h:li>
 				</h:ul>
-				<h:p>The id attribute is used as a unique identifier for the resource.</h:p>
+				<h:p>The <h:code>id</h:code> attribute is used as a unique identifier for the resource.</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:complexType>

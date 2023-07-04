@@ -24,19 +24,19 @@
 			</dc:date>
 			<xsd:documentation>
 			Modification information
-			Version	Name				Modification
-			2.4		Karl Rajangam		Annotation updated for various elements: SiftedDate, MadeDate, LaidDate, Draft, Correction and Number under different prelims
-			2.0		Colin Mackenzie		Numbering restarted at 2 for new EU and merged schema
-			1.9		Marc Sturman 		Added Sifted date
-			1.8		Jeni Tennison		Added ENprelims element
-			1.7		Paul Appleby		Added Correction element
-			1.6		Paul Appleby		Also allowed multiple laid draft dates and a mixture of laid draft and laid
-			1.5		Paul Appleby		Replaced EmphasisBasicStructure with InlineRestrictedStructure
-			1.4		Paul Appleby		Altered content model for SI/Act Title to match SGML DTD, not XML DTD which does not allow italic
-			1.3		Paul Appleby		LaidDate date made optional. Order of LaidDate and ComingIntoForce loosened to allow for NISR
-			1.2		Paul Appleby		SubjectInformation altered to allow multiple Subtitle elements
-			1.1		Paul Appleby		LaidDraft altered to match format for maid and laid dates
-			1.0		Paul Appleby		Created
+			Version	Name                Modification
+			2.4     Karl Rajangam       Annotation updated for various elements: SiftedDate, MadeDate, LaidDate, Draft, Correction and Number under different prelims
+			2.0     Colin Mackenzie     Numbering restarted at 2 for new EU and merged schema
+			1.9     TSO                 Added Sifted date
+			1.8     Jeni Tennison       Added ENprelims element
+			1.7     Paul Appleby        Added Correction element
+			1.6     Paul Appleby        Also allowed multiple laid draft dates and a mixture of laid draft and laid
+			1.5     Paul Appleby        Replaced EmphasisBasicStructure with InlineRestrictedStructure
+			1.4     Paul Appleby        Altered content model for SI/Act Title to match SGML DTD, not XML DTD which does not allow italic
+			1.3     Paul Appleby        LaidDate date made optional. Order of LaidDate and ComingIntoForce loosened to allow for NISR
+			1.2     Paul Appleby        SubjectInformation altered to allow multiple Subtitle elements
+			1.1     Paul Appleby        LaidDraft altered to match format for maid and laid dates
+			1.0     Paul Appleby        Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>

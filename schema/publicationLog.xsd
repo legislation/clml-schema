@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.legislation.gov.uk/namespaces/publication-log" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:dcq="http://purl.org/dc/terms/" targetNamespace="http://www.legislation.gov.uk/namespaces/publication-log" elementFormDefault="qualified" id="legislationPublicationLog">
+	<xs:annotation>
+		<xs:appinfo>
+			<dc:title>Publication Log Schema</dc:title>
+			<dc:description>Describes Publication Log structure</dc:description>
+			<dc:contributor>Mark Rainbird</dc:contributor>
+			<dc:creator>TSO</dc:creator>
+			<dc:identifier>legislationPublicationLog</dc:identifier>
+			<dc:language>en</dc:language>
+			<dc:publisher>The Stationery Office</dc:publisher>
+			<dc:rights>Crown copyright 2021</dc:rights>
+			<dc:date>
+				<dcq:created>2021-05-06</dcq:created>
+			</dc:date>
+			<dc:date>
+				<dcq:modified>2022-02-03</dcq:modified>
+			</dc:date>
+			<xsd:documentation>
+				Namespace information:
+				This schema is defined as being the in the namespace 'http://www.legislation.gov.uk/namespaces/publication-log'
+				The suggested namespace prefix is pbl ([pb]ublication [l]og)
+				Root element will be PublicationLog
+				There are publication log records for two different types of content, Legislation Items and one for Effects. These need different data so need different types in the schema.
+				These entries records describe the publication or withdrawal of a legislation item.
+			</xsd:documentation>
+			<xsd:documentation>
+				Modification information
+				Version	Name				Modification
+				1.0     Mark Rainbird       Created
+				1.1     Mark Rainbird       Add choice for elements that may occur depending on whether Event value is 'published' or 'withdrawn'
+				1.2     Mark Rainbird       Add Author element to xsd:choice option so it always is included in all logs
+				1.3     Mark Rainbird       Add new Author enum, html5 enum for Format. Also option element InteralURI added for XML Publication Logs.
+				1.4     Mark Rainbird       Add new Author enum.
+				1.5     Mark Rainbird       Added container elements DocumentLog, ChangesLog, PublishEvent, WithdrawEvent.
+				1.6     Mark Rainbird       Added annotation content and improved layout spacing.
+				1.7     William Jonadoss    Add new Author enum. 'Westlaw'.
+				1.8     William Jonadoss    Added Author element to 'unbounded' as they are several authors available in single document
+				1.9     William Jonadoss    Added new element 'pbl:NewlyIssued'
+				1.10    TSO                 Update Impact Assessment Author value back to the current value that is in the metadata
+			</xsd:documentation>
+		</xs:appinfo>
+	</xs:annotation>
+	<xs:import namespace="http://www.legislation.gov.uk/namespaces/legislation" schemaLocation="schemaLegislationCore.xsd"/>
+	<xs:import namespace="http://www.legislation.gov.uk/namespaces/metadata" schemaLocation="schemaLegislationMetadata.xsd"/>
+	<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="../schemaModules/dc.xsd"/>
+	<!--	========== Element Definitions ==========	-->
+	<xs:element name="DocumentLog">
+		<xs:annotation>
+			<xs:documentation>Root element for log entries for publication or withdrawal of legislation items, drafts and associated documents</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="LegislationItemMetadata"/>
+				<xs:element ref="Published" minOccurs="0"/>
+				<xs:element ref="Updated"/>
+				<xs:choice>
+					<xs:annotation>
+						<xs:documentation>Indicates if this file is being published or withdrawn</xs:documentation>
+					</xs:annotation>
+					<xs:sequence>
+						<xs:element ref="PublishEvent"/>
+					</xs:sequence>
+					<xs:sequence>
+						<xs:element ref="WithdrawEvent"/>
+					</xs:sequence>
+				</xs:choice>
+				<xs:element ref="ContentType"/>
+				<xs:element ref="Document" maxOccurs="unbounded"/>
+				<xs:element ref="Link" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Format"/>
+				<xs:element ref="Print" minOccurs="0"/>
+				<xs:element ref="dc:language" maxOccurs="unbounded"/>
+				<xs:element ref="Author" maxOccurs="unbounded"/>
+				<xs:element ref="CorrectionSlipNumber" minOccurs="0"/>
+				<xs:element ref="ukm:Supersedes" minOccurs="0"/>
+				<xs:element ref="InternalURI" minOccurs="0"/>
+				<xs:element name="ArchivePreviousContent" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Container for Editorial archive information</xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="Original" minOccurs="0"/>
+							<xs:element ref="Archive" minOccurs="0"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element ref="CachePurgeComplete" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="ChangesLog">
+		<xsd:annotation>
+			<xsd:documentation>Root element for log entries for publication of effects</xsd:documentation>
+		</xsd:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="LegislationItemMetadata"/>
+				<xs:element name="Published" type="pblDateConstruct" minOccurs="0"/>
+				<xs:element name="Updated" type="pblDateConstruct"/>
+				<xs:element ref="Direction"/>
+				<xs:element ref="LoadedChanges"/>
+				<xs:element ref="NewChanges"/>
+				<xs:element ref="UpdatedChanges"/>
+				<xs:element ref="DeletedChanges"/>
+				<xs:element ref="Author"/>
+				<xs:element ref="CachePurgeComplete" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="LegislationItemMetadata">
+		<xs:annotation>
+			<xs:documentation>Container for Legislation Item specific items to differentiate them from use in ukm:Supersedes element</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="dc:identifier"/>
+				<xs:element ref="dc:title" maxOccurs="unbounded"/>
+				<xs:element ref="ukm:DocumentCategory" minOccurs="0"/>
+				<xs:element ref="ukm:DocumentMainType"/>
+				<xs:element ref="ukm:Year" minOccurs="0"/>
+				<xs:element ref="ukm:Number" minOccurs="0"/>
+				<xs:element ref="ukm:ISBN" minOccurs="0"/>
+				<xs:element ref="ukm:AlternativeNumber" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Published" type="pblDateConstruct">
+		<xsd:annotation>
+			<xsd:documentation>The initial time at which the content was published or withdrawn</xsd:documentation>
+		</xsd:annotation>
+	</xs:element>
+
+	<xs:element name="Updated" type="pblDateConstruct">
+		<xsd:annotation>
+			<xsd:documentation>The most recent date and time at which the content was published or withdrawn</xsd:documentation>
+		</xsd:annotation>
+	</xs:element>
+
+	<xs:element name="PublishEvent">
+		<xsd:annotation>
+			<xsd:documentation>Indicates that this file is being published</xsd:documentation>
+		</xsd:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Item" minOccurs="0"/>
+				<xs:element ref="Republished" minOccurs="0"/>
+				<xs:element ref="Republishing_Category" minOccurs="0"/>
+				<xs:element ref="New" minOccurs="0"/>
+				<xs:element ref="Batch" minOccurs="0"/>
+				<xs:element ref="Silent" minOccurs="0"/>
+				<xs:element ref="NewlyIssued" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="WithdrawEvent">
+		<xsd:annotation>
+			<xsd:documentation>Indicates that this file is being withdrawn</xsd:documentation>
+		</xsd:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Item" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Republished">
+		<xs:annotation>
+			<xs:documentation>Indicates whether this file is being republished</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Republishing_Category">
+		<xs:annotation>
+			<xs:documentation>Describes why the file was republished</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:string">
+				<xs:enumeration value="tbc-1"/>
+				<xs:enumeration value="tbc-2"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="New">
+		<xs:annotation>
+			<xs:documentation>Indicates if this event causes the item to appear on the New Legislation page</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Item">
+		<xs:annotation>
+			<xs:documentation>URI for the file that is being published or withdrawn</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:anyURI"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="ContentType">
+		<xs:annotation>
+			<xs:documentation>Describes which type of content is being published or withdrawn</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:string">
+				<xs:enumeration value="legislation"/>
+				<xs:enumeration value="draft"/>
+				<xs:enumeration value="associated-documents"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Document">
+		<xs:annotation>
+			<xs:documentation>URI of the document version that this file represents</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:anyURI"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Link">
+		<xs:annotation>
+			<xs:documentation>URIs for other formats of this document version</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:simpleContent>
+				<xs:extension base="xs:anyURI">
+					<xs:attribute name="rel" type="xsd:string" use="required"/>
+					<xs:attribute name="href" type="xsd:anyURI" use="required"/>
+					<xs:attribute name="type" type="xsd:string" use="required"/>
+					<xs:attribute name="title" type="xsd:string" use="required"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Format">
+		<xs:annotation>
+			<xs:documentation>File format</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:string">
+				<xs:enumeration value="pdf"/>
+				<xs:enumeration value="xml"/>
+				<xs:enumeration value="html5"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Print">
+		<xs:annotation>
+			<xs:documentation>Indicates whether this PDF is printed or non-printed</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Author" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>Author of this document</xs:documentation>
+		</xs:annotation>
+	</xs:element>
+
+	<xs:element name="CorrectionSlipNumber">
+		<xs:annotation>
+			<xs:documentation>If this file is a correction slip then this is the number</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:integer"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="InternalURI">
+		<xs:annotation>
+			<xs:documentation>Internal URI of this file on the database.  Applies to XML files only.</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:anyURI"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Batch">
+		<xs:annotation>
+			<xs:documentation>Indicates eContent batch published data corrections</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Silent">
+		<xs:annotation>
+			<xs:documentation>Indicates eContent requested exclusion from the New Legislation page</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="NewlyIssued">
+		<xs:annotation>
+			<xs:documentation>when a legislation item being published is new legislation, in that it was not already present on the database, and it is not old legislation that is being published (i.e. it is not silent).</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Original">
+		<xs:annotation>
+			<xs:documentation>Editorial archiving: The InternalURI of the XML file before it was archived.  Applies to XML files only</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:anyURI"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Archive">
+		<xs:annotation>
+			<xs:documentation>Editorial archiving: The path of the archived file inside the archive. Applies to XML files only</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:string"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="Direction">
+		<xs:annotation>
+			<xs:documentation>How the effects relate to the legislation item</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:string">
+				<xs:enumeration value="affected"/>
+				<xs:enumeration value="affecting"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="LoadedChanges">
+		<xs:annotation>
+			<xs:documentation>How many effects were loaded in total</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:integer"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="NewChanges">
+		<xs:annotation>
+			<xs:documentation>How many effects were new</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:integer"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="UpdatedChanges">
+		<xs:annotation>
+			<xs:documentation>How many effects were updated</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:integer"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="DeletedChanges">
+		<xs:annotation>
+			<xs:documentation>How many effects were deleted</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:integer"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:element name="CachePurgeComplete">
+		<xs:annotation>
+			<xs:documentation>Indicates if the cache has already been purged in response to this event</xs:documentation>
+		</xs:annotation>
+		<xs:simpleType>
+			<xs:restriction base="xsd:boolean"/>
+		</xs:simpleType>
+	</xs:element>
+
+	<xs:complexType name="pblDateConstruct">
+		<xs:annotation>
+			<xs:documentation>DateTime value for Published or Updated elements</xs:documentation>
+		</xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:dateTime"/>
+		</xs:simpleContent>
+	</xs:complexType>
+
+</xs:schema>

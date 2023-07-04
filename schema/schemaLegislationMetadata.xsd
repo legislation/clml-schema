@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.5" id="schemaLegislationMetadata">
+<xsd:schema xmlns="http://www.legislation.gov.uk/namespaces/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:leg="http://www.legislation.gov.uk/namespaces/legislation" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:errl="http://www.legislation.gov.uk/namespaces/error" xmlns:h="http://www.w3.org/1999/xhtml" targetNamespace="http://www.legislation.gov.uk/namespaces/metadata" elementFormDefault="qualified" attributeFormDefault="unqualified" version="2.6" id="schemaLegislationMetadata">
 	<xsd:annotation>
 		<xsd:appinfo xmlns:dcq="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 			<dc:title>Legislation Specific Metadata Schema</dc:title>
@@ -14,7 +14,7 @@
 				<dcq:created>2017-08-25</dcq:created>
 			</dc:date>
 			<dc:date>
-				<dcq:modified>2022-08-12</dcq:modified>
+				<dcq:modified>2023-06-02</dcq:modified>
 			</dc:date>
 			<xsd:documentation>
 			Namespace information:
@@ -23,36 +23,37 @@
 			</xsd:documentation>
 			<xsd:documentation>
 			Modification information
-			Version	Name				Modification
-			2.5		Karl Rajangam		Added attributes WelshApplied and RequiresWelshApplied, and annotations for attributes Applied, RequiresApplied and element InForce
-			2.4		Karl Rajangam		ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
-			2.4		Karl Rajangam		Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion, ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
-			2.3		Colin Mackenzie	 As part of #172192631 changed DocumentCategory/@Value to reuse a common type
-			2.2		William Jonadoss    Declared elements "PolicyEqualityStatements" and "ExplanatoryDocuments" as part of "Alter" group
-			2.2		William Jonadoss	Created top level schema for amendment data - Effects
-			2.1		Colin Mackenzie	 Renamed TSOmetadata to LegislationMetadata
-			2.1		Colin Mackenzie	 Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
-			2.1		Colin Mackenzie	 Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
-			2.1		Colin Mackenzie	 Changed the model for the attributes on ukm:Correction to have stricter validation rules
-			2.1		Colin Mackenzie	 Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
-			2.0		Colin Mackenzie	 Numbering restarted at 2 for new EU and merged schema
-			2.0		W Holmes			Changes to Section and Sectionrange element 
-			2.0		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
-			2.0		W Holmes			Changes to UnappliedEffect element 
-			2.0		Jim Mangiafico		Expanded to accommodate European Union legislation
-			2.0		Colin Mackenzie		Unified model between editorial and legislation live
-			2.4		Marc Sturman		Added Sifted date
-			2.3		Marc Sturman		Added UnitedKingdomMinisterialDirection
-			2.2		W Holmes			Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group 
-			2.1		W Holmes			Declared element "AlternativeNumber" as child of "Supersedes"
-			2.0		strutj01			changed Copyright TSO to Crown Copyright at Carey's request			
-			1.6		Paul Appleby		Changed nomenclature to agreed OPSI format. Added wales to laid list
-			1.5		Paul Appleby		Added local Statutory Rules as possible document type
-			1.4		Paul Appleby		Substituted qualified Dublic Core for the existing simple DC
-			1.3		Paul Appleby		Added AlternativeNumber into primary metadata as a fix - should not have been omitted
-			1.2		Paul Appleby		Added ireland to enumerate list of laid classes
-			1.1		Paul Appleby		Altered Metadata content model to directly reference dc element. Word 2003 was claiming non-determinism - I think due to the way the dc module is coded.
-			1.0		Paul Appleby		Created
+			Version	Name                Modification
+			2.6     William Jonadoss    Added Print attribute, Moved DocumentCategory element definition out of DocumentClassification so it can be used outside of that context (for PublicationLog.xsd)
+			2.5     Karl Rajangam       Added attributes WelshApplied and RequiresWelshApplied, and annotations for attributes Applied, RequiresApplied and element InForce
+			2.4     Karl Rajangam       ISBN attribute added to element Correction, its Number attribute made optional to support draft docs
+			2.4     Karl Rajangam       Annotation added to elements BlanketAmendment, Statistics, ImpactAssessment, Sifted, Made, Laid, AlterType, Citation, OtherDocument, TranspositionNote, UKRPCOpinion, ProvisionsStructure, ConfersPower and IAalterType along with some of theirs and various other attributes. Updated DocumentMainType.
+			2.3     Colin Mackenzie     As part of #172192631 changed DocumentCategory/@Value to reuse a common type
+			2.2     William Jonadoss    Declared elements "PolicyEqualityStatements" and "ExplanatoryDocuments" as part of "Alter" group
+			2.2     William Jonadoss    Created top level schema for amendment data - Effects
+			2.1     Colin Mackenzie     Renamed TSOmetadata to LegislationMetadata
+			2.1     Colin Mackenzie     Added value of "WelshParliament" to be used for all new Welsh Secondary legislation
+			2.1     Colin Mackenzie     Changed the model for InForce Qualification attribute to enforce a choice of enumerated values
+			2.1     Colin Mackenzie     Changed the model for the attributes on ukm:Correction to have stricter validation rules
+			2.1     Colin Mackenzie     Changed to use common definition of types of UKMinorType from SchemaLegislationMetadata so that definitions can be reused in IAs and ENs etc
+			2.0     Colin Mackenzie     Numbering restarted at 2 for new EU and merged schema
+			2.0     W Holmes            Changes to Section and Sectionrange element 
+			2.0     W Holmes            Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group
+			2.0     W Holmes            Changes to UnappliedEffect element 
+			2.0     Jim Mangiafico      Expanded to accommodate European Union legislation
+			2.0     Colin Mackenzie     Unified model between editorial and legislation live
+			2.4     TSO                 Added Sifted date
+			2.3     TSO                 Added UnitedKingdomMinisterialDirection
+			2.2     W Holmes            Declared elements "OtherDocuments", "TranspositionNotes" and "UKRPCOpinions" as part of "Alter" group 
+			2.1     W Holmes            Declared element "AlternativeNumber" as child of "Supersedes"
+			2.0     strutj01            Changed Copyright TSO to Crown Copyright at Carey's request			
+			1.6     Paul Appleby        Changed nomenclature to agreed OPSI format. Added wales to laid list
+			1.5     Paul Appleby        Added local Statutory Rules as possible document type
+			1.4     Paul Appleby        Substituted qualified Dublic Core for the existing simple DC
+			1.3     Paul Appleby        Added AlternativeNumber into primary metadata as a fix - should not have been omitted
+			1.2     Paul Appleby        Added ireland to enumerate list of laid classes
+			1.1     Paul Appleby        Altered Metadata content model to directly reference dc element. Word 2003 was claiming non-determinism - I think due to the way the dc module is coded.
+			1.0     Paul Appleby        Created
 			</xsd:documentation>
 		</xsd:appinfo>
 	</xsd:annotation>
@@ -527,6 +528,11 @@
 				<xsd:documentation>This indicates the date of the latest revisions incorporated within the linked document</xsd:documentation>
 			</xsd:annotation>
 		</xsd:attribute>
+		<xsd:attribute name="Print" type="xsd:boolean" use="optional">
+			<xsd:annotation>
+				<xsd:documentation>This indicates whether this is a print or non-print PDF</xsd:documentation>
+			</xsd:annotation>
+		</xsd:attribute>
 	</xsd:complexType>
 
 	<xsd:complexType name="IAalterType">
@@ -809,15 +815,7 @@
 		</xsd:annotation>
 		<xsd:complexType>
 			<xsd:sequence>
-				<xsd:element name="DocumentCategory">
-					<xsd:annotation>
-						<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
-					</xsd:annotation>
-					<xsd:complexType>
-						<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
-						<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
-					</xsd:complexType>
-				</xsd:element>
+				<xsd:element ref="DocumentCategory"/>
 				<xsd:element ref="DocumentMainType"/>
 				<xsd:element name="DocumentStatus">
 					<xsd:annotation>
@@ -847,6 +845,16 @@
 			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
+
+	<xsd:element name="DocumentCategory">
+		<xsd:annotation>
+			<xsd:documentation>Defines the category of the document. Currently the only possibilities are primary, secondary and euretained.</xsd:documentation>
+		</xsd:annotation>
+		<xsd:complexType>
+			<!-- As part of #172192631 remove duplication of enumerated lists by re-using a common type -->
+			<xsd:attribute name="Value" type="leg:CategoryType" use="required"/>
+		</xsd:complexType>
+	</xsd:element>	
 
 	<xsd:element name="DocumentMainType">
 		<xsd:annotation>

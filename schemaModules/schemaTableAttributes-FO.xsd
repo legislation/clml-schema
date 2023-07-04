@@ -97,50 +97,123 @@
 		</xsd:restriction>
 	</xsd:simpleType>
 
+
 	<xsd:simpleType name="TableColorType">
 		<xsd:annotation>
 			<xsd:documentation>
-				<h:p>FO colour attribute values should be defined using CSS basic colour values or RGB notation, as follows:</h:p>
-				<h:ul>
-					<h:li>aqua - #00ffff</h:li>
-					<h:li>black - #000000</h:li>
-					<h:li>blue - #0000ff</h:li>
-					<h:li>fuchsia - #ff00ff</h:li>
-					<h:li>gray - #808080</h:li>
-					<h:li>green - #008000</h:li>
-					<h:li>lime - #00ff00</h:li>
-					<h:li>maroon - #800000</h:li>
-					<h:li>navy - #000080</h:li>
-					<h:li>olive - #808000</h:li>
-					<h:li>purple - #800080</h:li>
-					<h:li>red - #ff0000</h:li>
-					<h:li>silver - #c0c0c0</h:li>
-					<h:li>teal - #008080</h:li>
-					<h:li>white - #ffffff</h:li>
-					<h:li>yellow - #ffff00</h:li>
-					<h:li>hexadecimal value e.g. #4b0082 is indigo</h:li>
-				</h:ul>
+				<h:p>FO colour attribute values should be defined using CSS basic colour values or RGB hexademical notation (e.g. #4b0082 is indigo).</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:union memberTypes="TableColorNamedType TableColorHexType"/>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="TableColorNamedType">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>Defines the permissible set of colour names for table FO attributes</h:p>
 			</xsd:documentation>
 		</xsd:annotation>
 		<xsd:restriction base="xsd:string">
-			<xsd:pattern value="inherit"/>
-			<xsd:pattern value="aqua"/>
-			<xsd:pattern value="black"/>
-			<xsd:pattern value="blue"/>
-			<xsd:pattern value="fuchsia"/>
-			<xsd:pattern value="gray"/>
-			<xsd:pattern value="green"/>
-			<xsd:pattern value="lime"/>
-			<xsd:pattern value="maroon"/>
-			<xsd:pattern value="navy"/>
-			<xsd:pattern value="olive"/>
-			<xsd:pattern value="purple"/>
-			<xsd:pattern value="red"/>
-			<xsd:pattern value="silver"/>
-			<xsd:pattern value="teal"/>
-			<xsd:pattern value="white"/>
-			<xsd:pattern value="yellow"/>
-			<xsd:pattern value="#[a-z0-9]{6}"/>
+			<xsd:enumeration value="inherit">
+				<xsd:annotation>
+					<xsd:documentation>Inherit the colour of this feature from the parent element</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="aqua">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #00ffff</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="black">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #000000</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="blue">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #0000ff</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="fuchsia">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #ff00ff</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="gray">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #808080</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="green">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #008000</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="lime">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #00ff00</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="maroon">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #800000</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="navy">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #000080</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="olive">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #808000</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="purple">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #800080</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="red">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #ff0000</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="silver">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #c0c0c0</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="teal">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #008080</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="white">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #ffffff</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+			<xsd:enumeration value="yellow">
+				<xsd:annotation>
+					<xsd:documentation>Equivalent to #ffff00</xsd:documentation>
+				</xsd:annotation>
+			</xsd:enumeration>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<xsd:simpleType name="TableColorHexType">
+		<xsd:annotation>
+			<xsd:documentation>
+				<h:p>Defines the acceptable format for hexidecimal colours in table FO attributes</h:p>
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="#[0-9a-f]{6}">
+				<xsd:annotation>
+					<xsd:documentation>A hexadecimal value (e.g. #4b0082 is indigo)</xsd:documentation>
+				</xsd:annotation>
+			</xsd:pattern>
 		</xsd:restriction>
 	</xsd:simpleType>
 

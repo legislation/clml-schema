@@ -36,7 +36,9 @@
 			<xsd:documentation>
 				<h:p>An ordered list of items. These are used for numbered sub-provisions where the hierarchy of numbered subprovisions is broken, such as in a definition list - except for in tables, where <h:code>&lt;P<h:i>n</h:i>&gt;</h:code> elements are still used.</h:p>
 				<h:p>Ordered lists should not be confused with provisions. Provisions are numbered paragraphs, whereas ordered lists are semantically grouped paragraphs.</h:p>
-				<h:p>The schema takes the approach that if there is a break in the hierarchy of the provisions then any subsequent structure must be a list. This typically occurs where defined terms contain numbered items. These should be done as ordered lists within unordered lists, i.e. the defined term is an entry in an unordered list. Subsequently the chain of numbered provisions is broken and any children must be ordered lists. This approach comes from the schema provisions as being controlled by the indent of the provisions.</h:p>
+				<!-- PA 15/5/2023: This no longer appears to be true (e.g. P3s routinely used in ExplanatoryNotes without ancestor P1), so commenting out
+					<h:p>The schema takes the approach that if there is a break in the hierarchy of the provisions then any subsequent structure must be a list. This typically occurs where defined terms contain numbered items. These should be done as ordered lists within unordered lists, i.e. the defined term is an entry in an unordered list. Subsequently the chain of numbered provisions is broken and any children must be ordered lists.</h:p>
+				-->
 				<h:p>The format of the list numbering is defined using the <h:code>Type</h:code> attribute.</h:p>
 				<h:p>The text surrounding the number is defined using the <h:code>Decoration</h:code> attribute.</h:p>
 				<h:p>A specific starting number can be specified using the <h:code>Start</h:code> attribute.</h:p>
