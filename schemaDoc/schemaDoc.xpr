@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace the %%VARIABLE%%s below with the following: 
+  %%SCHEMA%% - the local path to the CLML schema repository
+  %%GENERATOR%% - the local path to the CLML schema doc generator repository
+  %%TEMP%% - a temporary directory
+  %%OXYGEN%% - the local path to your oXygen XML install
+  %%OUTPUT_DIR%% - the local path to the directory to which to save the output
+-->
+<project>
+  <meta>
+    <filters directoryPatterns="" filePatterns="\QschemaDoc.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+    <options>
+      <serialized xml:space="preserve">
+        <serializableOrderedMap>
+          <entry>
+            <String>catalog.verbose.level</String>
+            <Integer>2</Integer>
+          </entry>
+          <entry>
+            <String>catalogs.v5</String>
+            <String-array>
+              <String>${frameworks}/xhtml/dtd/xhtmlcatalog.xml</String>
+            </String-array>
+          </entry>
+          <entry>
+            <String>scenario.associations</String>
+            <scenarioAssociation-array>
+              <scenarioAssociation>
+                <field name="url">
+                  <String>file:%%GENERATOR%%/schemaDocAutomator/generateSchemaDoc.xpl</String>
+                </field>
+                <field name="scenarioIds">
+                  <list>
+                    <String>generateSchemaDoc</String>
+                  </list>
+                </field>
+                <field name="scenarioTypes">
+                  <list>
+                    <String>XPROC</String>
+                  </list>
+                </field>
+                <field name="scenarioStorageLocations">
+                  <list>
+                    <Byte>2</Byte>
+                  </list>
+                </field>
+              </scenarioAssociation>
+            </scenarioAssociation-array>
+          </entry>
+          <entry>
+            <String>scenarios</String>
+            <scenario-array>
+              <xprocScenario>
+                <field name="inputPorts">
+                  <xprocInputPort-array>
+                    <xprocInputPort>
+                      <field name="urls">
+                        <String-array/>
+                      </field>
+                      <field name="portName">
+                        <String>source</String>
+                      </field>
+                    </xprocInputPort>
+                  </xprocInputPort-array>
+                </field>
+                <field name="outputPorts">
+                  <xprocOutputPort-array>
+                    <xprocOutputPort>
+                      <field name="url">
+                        <null/>
+                      </field>
+                      <field name="showInSequenceView">
+                        <Boolean>true</Boolean>
+                      </field>
+                      <field name="portName">
+                        <String>result</String>
+                      </field>
+                    </xprocOutputPort>
+                  </xprocOutputPort-array>
+                </field>
+                <field name="xprocOptions">
+                  <xprocOption-array>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pWorkingDirectoryPath</String>
+                      </field>
+                      <field name="value">
+                        <String>%%GENERATOR%%/schemaDocAutomator</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pInputFolderUri</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%SCHEMA%%</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pInputSchemaFile</String>
+                      </field>
+                      <field name="value">
+                        <String>schema/legislation.xsd</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pExtraDocFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%SCHEMA%%/schemaDoc/CLMLfiles/extraDocFolder</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pHtmlAssetsSubFolder</String>
+                      </field>
+                      <field name="value">
+                        <null/>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pAdditionalHtmlSubFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>html</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pAdditionalCssSubFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>css</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pSampleXmlFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%SCHEMA%%/schemaDoc/CLMLfiles/sampleXML</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pSchemaMapFile</String>
+                      </field>
+                      <field name="value">
+                        <null/>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pReferenceGuide</String>
+                      </field>
+                      <field name="value">
+                        <String>reference.html</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pStartURL</String>
+                      </field>
+                      <field name="value">
+                        <String>index.html</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pUserGuide</String>
+                      </field>
+                      <field name="value">
+                        <String>userguide.html</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pTempFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%TEMP%%/schemaDoc-temp</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pOxygenOutputFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%TEMP%%/oxygen-output</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pOutputFolder</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%OUTPUT_DIR%%</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pOxySettingsFilename</String>
+                      </field>
+                      <field name="value">
+                        <null/>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pOxygenPath</String>
+                      </field>
+                      <field name="value">
+                        <String>file:%%OXYGEN%%/scripts</String>
+                      </field>
+                    </xprocOption>
+                    <xprocOption>
+                      <field name="namespaceURI">
+                        <String></String>
+                      </field>
+                      <field name="localName">
+                        <String>pGenerateConfigIDpara</String>
+                      </field>
+                      <field name="value">
+                        <null/>
+                      </field>
+                    </xprocOption>
+                  </xprocOption-array>
+                </field>
+                <field name="xprocParameters">
+                  <xprocParameterPort-array>
+                    <xprocParameterPort>
+                      <field name="portName">
+                        <String>*</String>
+                      </field>
+                      <field name="parameters">
+                        <xprocParameter-array/>
+                      </field>
+                    </xprocParameterPort>
+                  </xprocParameterPort-array>
+                </field>
+                <field name="advancedOptionsMap">
+                  <null/>
+                </field>
+                <field name="name">
+                  <String>generateSchemaDoc</String>
+                </field>
+                <field name="baseURL">
+                  <null/>
+                </field>
+                <field name="footerURL">
+                  <null/>
+                </field>
+                <field name="fOPMethod">
+                  <null/>
+                </field>
+                <field name="fOProcessorName">
+                  <null/>
+                </field>
+                <field name="headerURL">
+                  <null/>
+                </field>
+                <field name="inputXSLURL">
+                  <String>${currentFileURL}</String>
+                </field>
+                <field name="inputXMLURL">
+                  <String></String>
+                </field>
+                <field name="defaultScenario">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="isFOPPerforming">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="type">
+                  <String>XPROC</String>
+                </field>
+                <field name="saveAs">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="openInBrowser">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="outputResource">
+                  <null/>
+                </field>
+                <field name="openOtherLocationInBrowser">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="locationToOpenInBrowserURL">
+                  <null/>
+                </field>
+                <field name="openInEditor">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="showInHTMLPane">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="showInXMLPane">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="showInSVGPane">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="showInResultSetPane">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="useXSLTInput">
+                  <Boolean>false</Boolean>
+                </field>
+                <field name="xsltParams">
+                  <list/>
+                </field>
+                <field name="cascadingStylesheets">
+                  <String-array/>
+                </field>
+                <field name="xslTransformer">
+                  <String>Add-on for Calabash XProc Engine</String>
+                </field>
+                <field name="extensionURLs">
+                  <String-array/>
+                </field>
+              </xprocScenario>
+            </scenario-array>
+          </entry>
+        </serializableOrderedMap>
+      </serialized>
+    </options>
+  </meta>
+  <projectTree name="generator.xpr">
+    <folder path="."/>
+  </projectTree>
+</project>

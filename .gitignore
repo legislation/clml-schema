@@ -5,3 +5,4 @@
 
 # Oxygen Project Files
 *.xpr
+!schemaDoc/schemaDoc.xpr

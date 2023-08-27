@@ -1,0 +1,105 @@
+name: Build and deploy CLML schema docs
+
+on:
+  push
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out CLML schema
+        uses: actions/checkout@v3
+        with:
+          path: clml-schema
+      - name: Check out CLML schema documentation generator
+        uses: actions/checkout@v3
+        with:
+          repository: 'legislation/clml-schema-documentation-generator'
+          ref: 'feature/tna-enhancements'
+          path: generator
+      - uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin' # recommended by setup-java maintainers
+          java-version: '17' # version bundled with oXygen 25.1
+      - name: Download oXygen XML 25.1
+        run: curl "https://archives.oxygenxml.com/Oxygen/Editor/InstData25.1/All/oxygen.tar.gz" -o "oxygen.tar.gz"
+      - name: Extract oXygen
+        # We exclude the samples and templates as we don't need them and excluding them
+        # speeds up extraction time slightly. We could probably exclude more folders.
+        run: |
+          tar \
+          --exclude='oxygen/{samples,templates}/' \
+          --exclude='oxygen/frameworks/*/templates/' \
+          --exclude='oxygen/frameworks/{daisy,dita,docbook,jats,ocf,ooxml,tei,xliff}/' \
+          -xzvf oxygen.tar.gz
+      - name: Install oXygen licence key
+        env:
+          OXYGEN_LICENCE_KEY: ${{ secrets.OXYGEN_LICENCE_KEY }}
+        run: echo "$OXYGEN_LICENCE_KEY" > oxygen/scriptinglicensekey.txt
+      - name: Configure transformation scenario
+        # Configure the following paths in the oXygen project settings file:
+        # %%SCHEMA%% - the local path to the CLML schema repository
+        # %%GENERATOR%% - the local path to the CLML schema doc generator repository
+        # %%TEMP%% - a temporary directory
+        # %%OXYGEN%% - the local path to your oXygen XML install
+        # %%OUTPUT_DIR%% - the local path to the directory to which to save the output
+        env:
+          TEMP_DIR: ${{ runner.temp }}
+        run: |
+          sed -i -r \
+            -e "s#%%SCHEMA%%#${GITHUB_WORKSPACE}/clml-schema#g" \
+            -e "s#%%GENERATOR%%#${GITHUB_WORKSPACE}/generator#g" \
+            -e "s#%%TEMP%%#${TEMP_DIR}#g" \
+            -e "s#%%OXYGEN%%#${GITHUB_WORKSPACE}/oxygen#g" \
+            -e "s#%%OUTPUT_DIR%%#${GITHUB_WORKSPACE}/finalOutput#g" \
+            -e "s#file:([A-Za-z]):/#file:/\1:/#g" \
+            "${GITHUB_WORKSPACE}/clml-schema/schemaDoc/schemaDoc.xpr"
+      #- name: Patch oXygen catalog to include XHTML DTDs
+      #  # The Java XML parser loads any DTD it encounters in an XML file, which means
+      #  # making an HTTP request to retrieve the DTD. The W3C appears to block GitHub IPs
+      #  # from requesting the XHTML DTD, which causes the XML parser to emit errors
+      #  # and oXygen to incorrectly report that the transform has failed. oXygen has an
+      #  # "XML catalog" that redirects some DTD URIs to a local copy, but doesn't include
+      #  # the XHTML DTDs, so we add them here. 
+      #  run: |
+      #    sed -i -r -e 's#^(<catalog[^>]+>)#\1\n  <nextCatalog catalog="xhtml/dtd/xhtmlcatalog.xml"/>#g' \
+      #      "oxygen/frameworks/catalog.xml"
+      - name: Run schema documentation generator transform
+        # transform.sh doesn't return a non-zero error status on failure, so GitHub Actions
+        # thinks that the task has succeeded when it's actually failed. To detect success
+        # we instead run grep -q against the output to look for the success message (this
+        # causes grep to output nothing but return 0 on match and 1 on non-match), and use
+        # tee to pipe to stderr and grep simultaneously so we can both see the transform 
+        # logs and also allow grep to search them.
+        run: |
+          "${GITHUB_WORKSPACE}/oxygen/scripts/transform.sh" -v \
+             -i "${GITHUB_WORKSPACE}/generator/schemaDocAutomator/generateSchemaDoc.xpl" \
+             -sn generateSchemaDoc \
+             -s "${GITHUB_WORKSPACE}/clml-schema/schemaDoc/schemaDoc.xpr" 2>&1 | \
+          tee /dev/stderr | grep -q 'Transformation successful.'
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'finalOutput/'
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+    
+    environment:
+      # NB: The environment needs to be configured to allow deployment from whichever
+      # branch we're pushing to for CLML schema docs
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
