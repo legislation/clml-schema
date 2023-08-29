@@ -35,7 +35,7 @@ jobs:
       - name: Download oXygen XML v25.1
         # v25.1 is the most recent we can get with our 2022-issue oXygen licence key
         # SyncRO Soft may stop hosting it at some point, in which case we'll need to
-        # host it ourselves somewhere (there)
+        # host it ourselves somewhere else (e.g. in a public S3 bucket)
         run: curl "https://archives.oxygenxml.com/Oxygen/Editor/InstData25.1/All/oxygen.tar.gz" -o "oxygen.tar.gz"
       - name: Extract oXygen
         # We exclude the samples and templates as we don't need them and excluding them
