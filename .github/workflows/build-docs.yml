@@ -4,6 +4,7 @@ on:
   push
 
 permissions:
+  id-token: write
   contents: read
 
 jobs:
@@ -32,11 +33,16 @@ jobs:
         with:
           distribution: 'temurin' # recommended by setup-java maintainers
           java-version: '17' # same as version usually bundled with oXygen 25.1
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: ${{ secrets.AWS_REGION }}
+          role-to-assume: ${{ secrets.AWS_IAM_ROLE }}
       - name: Download oXygen XML v25.1
         # v25.1 is the most recent we can get with our 2022-issue oXygen licence key
-        # SyncRO Soft may stop hosting it at some point, in which case we'll need to
-        # host it ourselves somewhere else (e.g. in a public S3 bucket)
-        run: curl "https://archives.oxygenxml.com/Oxygen/Editor/InstData25.1/All/oxygen.tar.gz" -o "oxygen.tar.gz"
+        # Moved to using our own S3 bucket to ensure we can always get a copy
+        # run: curl "https://archives.oxygenxml.com/Oxygen/Editor/InstData25.1/All/oxygen.tar.gz" -o "oxygen.tar.gz"
+        run: aws s3 cp '${{ secrets.S3_OXYGEN_PATH}}' .
       - name: Extract oXygen
         # We exclude the samples and templates as we don't need them and excluding them
         # speeds up extraction time slightly. We could probably exclude more folders.
